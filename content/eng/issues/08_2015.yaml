@@ -1,0 +1,81 @@
+---
+title: Issue N8 2015 year
+content:
+ - doi:
+   link: _8_2015_1
+   item_authors: Kiselev E. A., Korneev V. V.
+   item_authors_address: '<b>E. A. Kiselev</b>, Researcher, e-mail: kiselev@jscc.ru, Joint Supercomputer Center of the Russian Academy of Sciences, Moscow, <b>V. V. Korneev</b>, Professor, Director for Research, e-mail: korv@rdi-kvant.ru, State Enterprise "Research and Development Institute "Kvant", Moscow'
+   item_name: Optimization of Mapping Programs to Computing Resources
+   item_annot: |
+      <p> Possibility to decline execution time of parallel programs with optimization of mapping programs to supercomputer resources is considered. The optimization process performs mapping application graph to parallel computer system graph. An application graph represents aggregate information on communication operations between parallel application's processes. It contains aggregate information about number of operations transmit/receive and the amount of data transferred for each processes pair. A system graph discloses a parallel computer system's communication structure. For each communication channel it comprises a latency values and bandwidth. Parallel implementation of the simulation annealing algorithm is proposed. The basic idea of the algorithm is the localization of communication exchanges between the intensity of the interaction program branches and reduce competition for communication resources. Building application graph and a parallel system graph are performed automatically using the developed software. Results of optimization test High Performance Conjugate Gradient execution on "MBC-10p" supercomputer resources using created software tools are presented. Time evaluation of mapping algorithm is done.
+      </p>
+   item_keywords: supercomputer, test HPCG, mapping of program, information graph, latency of communication fabric, analysis of communication fabric structure, analysis of parallel program structure, simulated annealing tool, MPI-program
+   item_pages: 3–8
+
+ - doi:
+   link: _8_2015_2
+   item_authors: Abgarian K. K., Sechenykh P. A., Gavrilov E. S.
+   item_authors_address: '<b>K. K. Abgarian</b>, Associate Professor, Head of Department, e-mail: kristal83@mail.ru, <b>P. A. Sechenykh</b>, Postgraduate Student, Junior Researcher, e-mail: p-sechenyh@mail.ru, <b>E. S. Gavrilov</b>, Senior Teacher, Junior Researcher, e-mail: eugavrilov@gmail.com, Moscow Aviation Institute (National Research University), Institution of Russian Academy of Sciences Dorodnicyn Computing Centre of RAS'
+   item_name: The Object-Relational Approach to the Development of a System of Computer Simulation of Multiscale Computational Scheme of Multilayer Semiconductor Nanostructures
+   item_annot: |
+      <p> The article examines the object-relational system of information support of multiscale computational scheme of the calculation of the multilayer semiconductor nanostructures' (MSNS) properties. Units and devices based on MSNS including layers of AlN, GaN, InN are used in various fields of science and technology: nanoelectronics industry, radio electronics, lasers, LEDs, computer technology. For example, units that use MSNS are widely applied in aviation and space radio devices.
+      </p>
+      <p>The article provides a description of some mathematical models implemented in computing modules of the previously developed MSNS computational scheme. The paper also gives a comparison of databases and information systems used at problem solving of materials science.
+      </p>
+      <p>The paper presents data storage relational model which applies to solving resource-intensive and different-scale problems. Created object mapping of data storage relational model. The implementation of the object mapping was based on the technology of NHibernate, with the use of the library FluentNHibernate. Created architecture of the scheduler, which is based on the description of operations with data and specifications of information flows enables the exchange of data between computing modules.
+      </p>
+      <p>The paper shows the implementation of user interface, which allow criteria-based data retrieving and generate a text file that contains the input data for calculation modules, and save it for later import the calculating properties sequence. To implement the user interface was used technology Windows Forms.
+      </p>
+      <p>The developed system has been tested on computer models of multilayered semiconductors that actively used in the aerospace industry.
+      </p>
+   item_keywords: database, object-relational approach, multilayer semiconductor nanostructure, multiscale calculation scheme
+   item_pages: 9–17
+
+
+ - doi:
+   link: _8_2015_3
+   item_authors: Blagonravov S. A., Utkin S. B., Batova S. V., Konovalov P. V.
+   item_authors_address: '<b>S. A. Blagonravov</b>, Senior Engineer, <b>S. B. Utkin</b>, Lead Expert, SPb Scientific Design Bareu "Electroavtomatica" n. a. P. A. Efimov, <b>S. V. Batova</b>, Postgraduate Student, <b>P. V. Konovalov</b>, Postgraduate Student, e-mail: olkesomewhere@gmail.com, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO)'
+   item_name: Using Emulation Technics in the Development of Avionics Software Components
+   item_annot: |
+      <p> Development of the software emulation system, designed to support automated system software development process is considered. The emulator hardware platform enables the software components development stages early in the design: the development of software components is carried out on a computer tool, as the code testing, performed using emulator executable environment on the same instrumental machine. The authors suggest the principles of emulator construction. Software development tools used in emulator and functionality of the emulation software are described. Examples demonstrated: an example of the computing system's functional diagram and an example window of the emulator in debug mode. Also presented an algorithm of operating system test process performed on the emulator.
+      </p>
+   item_keywords: emulation, avionics, real-time operating systems, integrated modular avionics, ARINC 653
+   item_pages: 18–25
+
+
+ - doi:
+   link: _8_2015_4
+   item_authors: Poliakov A. V.
+   item_authors_address: '<b>A. V. Poliakov</b>, Postgraduate Student, e-mail: andre.levsha@gmail.com, Lomonosov Moscow State University'
+   item_name: Fingerprint Matching Algorithm Using a Constellation Structure
+   item_annot: |
+      <p> Fingerprint matching is a key problem in research of an automatic fingerprint identification system. This paper presents a novel algorithm to fingerprint verification using constellation structure based on Delaunay triangulation. Central to the proposed approach is the idea of associating a topological structure with the fingerprint minutiae using constellation structure.
+      </p>
+      <p>The proposed fingerprint matching algorithm is insensitive to fingerprint image distortion, scale and rotation. The proposed approach considers O(n3) operations. The proposed algorithm has been tested on a database FVC2002 DB1b of 80 fingerprints (8 fingerprints from 10 persons), demonstrating good performance.
+      </p>
+   item_keywords: fingerprint matching algorithm, Delaunay triangulation, constellation, minutia, biometric system, Hungarian algorithm
+   item_pages: 26–31
+
+ - doi:
+   link: _8_2015_5
+   item_authors: Kononenko I. S., Sidorova E. A. 
+   item_authors_address: '<b>I. S. Kononenko</b>, Researcher, e-mail: irina_k@cn.ru, <b>E. A. Sidorova</b>, Senior Researcher, e-mail: lena@iis.nsk.su, Novosibirsk State University, A. P. Ershov Institute of Informatics Systems, SB RAS'
+   item_name: Genre Aspects of Websites Classification
+   item_annot: |
+      <p> The paper proposes an approach to the development of two-level genre models of communication on the Web. Genre category of a website as a whole (macro-level) corresponds to genre types of website constituents (pages and structural blocks) on the micro-level. Two types of pragmatic parameters are used to represent genres on both levels of consideration. Praxeological parameters, such as activity subject, beneficiary, product and environment, represent human activity that underlies communication and shows itself in the site structure, content and form of site constituents. Communicative parameters concern the hierarchy of communicative tasks, functionality of site constituents, and the affordances of communication channel. The type of anticipated reaction of the target audience in the hierarchy of communicative tasks forms the basis of website genre classification on the macro-level. Functions of site constituents together with channel features (interactivity, multimodality, and dynamics of content) determine genre types of web pages. The type of a textual page corresponds to genre schematic structure composed of content blocks. Identification of genre schemata as a succession of compositional blocks is possible due to a lexicon of genre markers (cue words and constructions) that are formalized as lexico-grammatical patterns provided with format conditions. The proposed genre models are realized in the website classification system.
+      </p>
+   item_keywords: web genre, website, web page, praxeological parameter, communicative parameter, genre schematic structure, genre marker, lexico-grammatical pattern, website genre model, website classification
+   item_pages: 32–40
+
+ - doi:
+   link: _8_2015_6
+   item_authors: Oleynik P. P., Borodina N. E., Galiaskarov E. G. 
+   item_authors_address: '<b>P. P. Oleynik</b>, Associate Professor, Head of Department, e-mail: xsl@list.ru, Shakhty Branch of Moscow State University of Information Technologies, Radioengineering and Electronics, Shakhty Institute (branch) of Platov South Russian State Polytechnic University (NPI), Rostov-on-Don, <b>N. E. Borodina</b>, Student, <b>E. G. Galiaskarov</b>, Associate Professor, Ivanovo State University of Chemistry and Technology, Ivanovo'
+   item_name: Development of the Information System for Scientific Conferences
+   item_annot: |
+      <p> The article describes the process of developing a new information system that is used in International scientific-practical conference "Object systems" (objectsystems.ru). Model of the existing system was obtained by reverse engineering. Analysis of the resulting models allowed to reveal design issues and to determine how to resolve them. There were defined the optimality criteria which are the requirements for system functionality: the ability to store information about different types of editions; about the authors; about the organizations; about the review of the article and their results; about the issues of various types of editions; about the articles; about the committees and the authors who are committee participants; about the nominations of articles; the ability to track the recommendations of the publication of articles in other editions; analytics module that displays information about the articles that are in a certain state, about the packages with collections and certificates sent to authors and about the issues for committee participants. Given the detected issues and the additional requirements a new formal model has been developed. With platform Sharp Architecture RAD Studio, using the MDA approach, the new model has been transformed into a finished system. All available data were saved and imported into the new system. The information system development process discussed in the article has demonstrated its effectiveness and practicality.
+      </p>
+   item_keywords: multiple inheritance, reengineering, UML; activity diagram, class diagram, MDA, оbject design, object modeling, database
+   item_pages: 41–48
+---

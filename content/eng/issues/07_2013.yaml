@@ -1,0 +1,76 @@
+---
+title: Issue N7 2013 year
+content:
+ - doi: 
+   link: _7_2013_1
+   udk: '004.457'
+   item_authors: Silakov D. V.
+   item_name: 'RPM5: a Novel Format and Tools to Distribute Linux Applications'
+   item_authors_address: ' <b> D. V. Silakov </b>, e-mail: denis.silakov@rosalab.ru'    
+   item_annot: |
+     <p> This paper describes RPM5 — a promising package management toolset aimed to manage installation, update and removal of software in the Linux operating system. The toolset uses contemporary functionality of modern libraries and hardware in order to improve ease of software handling for both developers and users.
+     </p>
+   item_keywords: Linux, package management
+   item_pages: 2–7
+
+ - doi: 
+   link: _7_2013_2
+   udk: '519.714'
+   item_authors: Cheremisinova L. D., Novikov D. Ya.
+   item_name: Software Tools for Verification of Descriptions of Combinational Circuits During the Process of Logic Design
+   item_authors_address: ' <b> L. D. Cheremisinova </b>, <b> D. Ya. Novikov </b>, e-mail: cld@newman.bas-net.by'
+   item_annot: |
+     <p> A set of methods and their implementations are described that ensure efficient solution of verification problem for descriptions of combinational circuits under design and allow to detect errors at early design phases. The methods are based on simulation of a combinational circuit and formulating the overall problem as conjunctive normal form satisfiability testing.
+     </p>
+   item_keywords: design automation, verification, simulation, CNF satisfiability
+   item_pages: 8–15
+
+ - doi: 
+   link: _7_2013_3
+   udk: '004.415.2'
+   item_authors: Gik Yu. L.
+   item_name: The Analysis of Service Oriented Architecture Methodologies (SOA)
+   item_authors_address: ' <b> Yu. L. Gik </b>, e-mail: y.gik@roseurobank.ru'
+   item_annot: |
+     <p> Service oriented architecture is one of the most interesting architecture paradigms for recent time in the IT industry. In spite of 10 years long history and plenty of implemented for that time projects, theory of SOA has no unity. Several vendors are promoting own methodologies, common understanding of base terms is absent and so on. There is obvious task of systematization of existing methodologies. This paper deals with analysis and systemati-zation of actual SOA methodologies.
+     </p>
+   item_keywords: enterprise architecture, SOA
+   item_pages: 16–24
+
+ - doi: 
+   link: _7_2013_4
+   udk: '004.7; 004.056; 004.94'
+   item_authors: Zenzinov A. A., Safin L. K., Shapchenko K. A.
+   item_name: Towards Creating Virtual-Based Research Models of Distributed Computer Systems
+   item_authors_address: '<b> Zenzinov A. A.</b>,  e-mail: andrey.zenzinov@gmail.com,<b> L. K. Safin </b>, e-mail: safin.l91@gmail.com,<b> K. A. Shapchenko </b>, e-mail: shapchenko@iisi.msu.ru,'
+   item_annot: |
+     <p> This paper presents an approach to automate the creation process of virtual models for a wide class of distributed systems used for scientific research. There also analyzed the existing ways to automate some maintaining processes and provides practical results obtained by the authors in the development and testing of prototype software tools for creation of virtual research models.
+     </p>
+   item_keywords: distributed computer systems, grid computing, virtualization, automation, information security
+   item_pages: 25–30
+
+ - doi: 
+   link: _7_2013_5
+   udk: '004.415.2'
+   item_authors: Gumerov M. M.
+   item_name: Several Problems of Software Development with Delphi 
+   item_authors_address: '<b> Gumerov M. M.</b>, e-mail: mgumerov@gmail.com'
+   item_annot: |
+     <p> The author presents some problems which arise when developing software with Embarcadero Delphi and displays few examples of inefficient solutions, proposing more coherent alternatives instead.
+     </p>
+   item_keywords: Delphi; interface, OOD, event, aggregate, resource, VCS, MSBuild
+   item_pages: 31–36
+
+ - doi: 
+   link: _7_2013_6
+   udk: '004.89:004.93'
+   item_authors: Kharlamov A. A., Ermolenko T. V.
+   item_name: Development of Syntactical Component of Russian Language Text Sentence Analysis for Intellectual System of Automatic Text Preparing
+   item_authors_address: '<b> A. A. Kharlamov </b>, e-mail: kharlamov@analyst.ru , <b> T. V. Ermolenko </b>, e-mail: etv@iai.dn.ua'
+   item_annot: |
+     <p> This article describes the structure of the syntactic component of natural language processing system and algorithms of its individual units, namely: fragmentation of sentence; constructing of simple syntactic groups, extraction of clause and filling of actantial predicate structure. The proposed approach allows to form the predicate model that best reflects the meaning of the sentence, as in the predicates specify not only the structure of the argument and the number of actants, but their semantic content.
+     </p>
+   item_keywords: natural language processing, syntactic parser, clause, predicate, simple syntactic groups, actantial predicate structure
+   item_pages: 37–47
+
+---

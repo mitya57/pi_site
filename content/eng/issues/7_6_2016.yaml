@@ -1,0 +1,101 @@
+---
+title: Issue N6 2016 year 
+content:
+ - doi: 7.243-251
+   link: 7.243-251
+   udk: "004.436.4"
+   item_authors: "Godunov A. N., Soldatov V. A."
+   item_name: "Configuring Multiprocessor Systems in RTOS Baget"
+   item_authors_address: | 
+     <b> А. N. Godunov</b>, e-mail: nkag@niisi.ras.ru, <b> V. A. Soldatov</b>, e-mail: nkvalera@niisi.ras.ru, Federal State Institution Scientific Research Institute of System Analysis of the Russian Academy of Science, Moscow, 117218, Russian Federation
+   item_corr_author: "Soldatov Valeriy A., Senior Scientific Researcher, Federal State Institution 'Scientific Research Institute of System Analysis of the Russian Academy of Science', Moscow, 117218, Russian Federation, e-mail: nkvalera@niisi.ras.ru"
+   item_rec_on:  March 21, 2015 
+   item_acc_on:  April 01, 2015
+   item_annot: |
+     <p> Parallel computations executed on multiprocessor systems is an important way to increase computer systems performance. Devices in multiprocessor computer system can be interconnected by a shared bus. RapidIO was developed to interconnect both chips on the board and several boards. RapidIO is a network composed of processing elements (such as processor, switch, etc) intercconnected by physical communication channels. High-level system description language (HLD) was developed to describe multiprocessor systems in RapidIO communication environment that operates under RTOS Baget. Data for multiprocessor systems specified in HLD allows to solve the following problems:
+     — network topology specification;
+     — communication environment initializing;
+     — synchronous load and start of all system CPU;
+     — configuring software running on system processors;
+     — saving software image to each system CPUs ROM;
+     — reserving hardware subsystems for increasing system reliability;
+     — performing required calculations using specified hardware subsystems;
+     — saving/recovering operability after some hardware subsystem restart;
+     The described tools were applied in hydroacoustic signal processing systems.
+     </p>
+   item_keywords: RTOS Baget, configure, RapidIO, multiprocessor systems, routing
+   item_pages: 243–251
+   item_citation: ' Godunov A. N., Soldatov V. A. Configuring Multiprocessor Systems in RTOS Baget, Programmnaya Ingeneria, 2016, vol. 7, no. 6, pp. 243—251.'
+ - doi: 7.252-257
+   link: 7.252-257
+   udk: "512.563.6"
+   item_authors: "Ivanov I. Yu."
+   item_name: "Extended Model of LP-inference on Boolean Lattice"
+   item_authors_address: | 
+     <b> I. Yu. Ivanov</b>, hour1scorp@gmail.com, Voronezh State University, 394006, Voronezh, Russian Federation 
+   item_corr_author: " Ivanov Ilya Yu., Postgraduate Student, Voronezh State University, 394006, Voronezh, Russian Federation, e-mail: hour1scorp@gmail.com"
+   item_rec_on:  March 18, 2016 
+   item_acc_on:  March 30, 2016
+   item_annot: |
+     <p> Production systems are widespread in informatics. They are based on productions, or rules, of the from "A produces B", where A and B are the elements of some hierarchy. Software, the state of which is defined by a set of variables values and rules of transition from one state to another (productions) determined by executing code, is an example of aforementioned system. Another example is expert production systems, the rules of which have implicative semantics: "if A holds, then B is true". In this case A is called premise and B is called conclusion of a rule.
+     There are two types of problems to be solved within expert production systems: forward inference and backward inference. Each of these problems has at least two special features. Firstly, the high computational complexity which is caused by exponential complexity of propositional logic algorithms, which are applied to process premises and conclusions of rules. Secondly, the need to obtain truth of facts on particular stages of inference for external sources of data querying (e.g., knowledge bases, experts etc.). Obviously, speed of external queries processing is extremely lower than speed of computational device (e.g., CPU). Therefore, a problem of "slow" queries quantity minimizing arises.
+     Previously S. D. Makhortov introduced the concept of production-logical equations on atom-derived lattice. These equations can be applied to perform LP-inference — algebraic method of backward inference that minimizes a number of "slow" queries in a system that uses only one logical connection, conjunction, in its rules. Later, a new class of production logical equations on boolean lattice has been introduced by the author of the paper. With these equations, it is possible to implement LP-inference that performs similar optimization in systems that use a full set of zero-order propositional languages operations in its rules: conjunctions, disjunctions and negations. In addition, the solvability of these equations was investigated and the method of particular solutions finding was proposed.
+     In this paper, the questions related to general solution of production-logical equation on LP-structure of zero order are examined. Obtained results complete building of extended model of LP-inference on boolean lattice.
+     </p>
+   item_keywords: productions, production-logical systems, mathematical lattices, propositional logic, backward inference, LP-structures, LP-inference, production-logical equations, particular solutions, general solution
+   item_pages: 252–257
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 15-07-05341'
+   item_citation: ' Ivanov I. Yu. Extended Model of LP-inference on Boolean Lattice, Programmnaya Ingeneria, 2016, vol. 7, no. 6, pp. 252—257.'
+ - doi: 7.258-267
+   link: 7.258-267
+   udk: "004.82"
+   item_authors: "Kostenko K. I.  "
+   item_name: "The Rules for Abstract Knowledge Spaces Inference Operator"
+   item_authors_address: | 
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation 
+   item_corr_author: "Kostenko Konstantin I., kostenko@kubsu.ru, Head of Chair, Kuban State University, Krasnodar, 350040, Russian Federation, e-mail: kostenko@kubsu.ru"
+   item_rec_on:  March 21, 2016  
+   item_acc_on:  March 31, 2016 
+   item_annot: |
+     <p> The initial concept of knowledge representation formalism is based on unified invariants for algebraic and semantic structures of knowledge. These invariants are proposed to be the implementation of independent knowledge properties specifications for notions of knowledge construction and knowledge transformation. Abstract knowledge spaces are defined as special class of formalisms with marked binary trees as unified knowledge structure format. These formalisms offer more sophisticated opportunities for knowledge representation and transformation in comparison with set-theoretic formalisms, learning spaces and descriptive logics. Tasks setting format and inference operator, as foundation for tasks solution procedure, are investigated in the submitted paper as additional invariants and considered to be the elements for subsequent development of the concept of knowledge representation formalisms. These invariants are specified for extensive class of abstract knowledge spaces application areas and submitted by thoroughly analyzed specification for simple and complex knowledge and also for tasks, constructed with the sets of elementary knowledge and subject semantic relations. Knowledge formalism inference operator is defined as a goals-controlled system operated by rules of goal knowledge synthesis that applies forward and backwards chaining inference schemes. The rule antecedents belong to classes named as templates, conditions and procedures calls. Rules consequents are elements of the templates class and define subject areas knowledge structures as composition performed over template antecedents implementations. Task solution is extracted from goal knowledge structure synthetized by inference operator with one of abstract knowledge space tracing operations.
+     </p>
+   item_keywords: knowledge area, knowledge space, task structure, elementary knowledge, knowledge synthesis, inference operator, backward inference, forward inference
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00214'
+   item_pages: 258–267
+   item_citation: ' Kostenko K. I. The Rules for Abstract Knowledge Spaces Inference Operator, Programmnaya Ingeneria, 2016, vol. 7, no 6, pp. 258—267.'
+ - doi: 7.268-282
+   link: 7.268-282
+   udk: "004.415.2; 004.67"
+   item_authors: "Bolshakov A. A., Makaruk R. V."
+   item_name: "The Software Solution for the Analysis of the Characteristics and Evaluation of Information Security Level of a Computer Network based on Fuzzy Models"
+   item_authors_address: | 
+     <b> A. A. Bolshakov</b>, aabolshakov57@gmail.com, <b> R. V. Makaruk</b>, e-mail: n.diablo.n.f@list.ru, Saint-Petersburg State Technological Institute (Technical University), 190013, Saint Petersburg, Russian Federation
+   item_corr_author: " Bolshakov Aleksandr A., Professor, Saint-Petersburg State Technological Institute (Technical University), 190013, Saint Petersburg, Russian Federation, e-mail: aabolshakov57@gmail.com"
+   item_rec_on:  February 29, 2016 
+   item_acc_on:  March 28, 2016
+   item_annot: |
+     <p> Fuzzy models with structure and coefficients of membership functions and algorithms for analysis of characteristics and estimating the information security level of computer networks are proposed. Their specific characteristic is possibility to include objective and subjective data in form of experts judgements, knowledge and experience. Suggested method also allows providing an analysis of characteristics and information security level estimation in the conditions of incomplete data. The developed algorithmical and software solution implementing mentioned fuzzy models and algorithms are also reviewed.
+     </p>
+   item_keywords: fuzzy model, performance, reliability, security, computer networks, software and algorithmic complex
+   item_pages: 268–282
+   item_citation: ' Bolshakov A. A., Makaruk R. V. The Software Solution for the Analysis of the Characteristics and Evaluation of Information Security Level of a Computer Network based on Fuzzy Models, Programmnaya Ingeneria, 2016, vol. 7, no 6, pp. 268—282.'
+ - doi: 7.283-288
+   link: 7.283-288
+   udk: "65.011.56"
+   item_authors: "Polevaya O. M."
+   item_name: "Architecture of Information System for Strategic Management"
+   item_authors_address: | 
+     <b> O. M. Polevaya</b>, o.m.balakhonova@gmail.com, Russian Peoples Friendship University, Moscow, 117198, Russian Federation 
+   item_corr_author: " Polevaya Olga M., Postgraduate Student, Russian Peoples Friendship University, Moscow, 117198, Russian Federation "
+   item_rec_on:  March 17, 2016 
+   item_acc_on:  March 29, 2016
+   item_annot: |
+     <p> Strategic management is one of the main business processes in a company. It consists of numerous sub-processes: strategic analysis, strategic planning, deciding on strategic aims and ways for their fulfillment, key performance indicator monitoring, etc. These processes need information that may be extracted from internal and external information systems. Therefore, when we speak about corporate information system for strategic enterprise management (CIS SEM) we should think about it as of integrated information system with specific functionality. The closest to CIS SEM class of information systems is a corporate performance management system (CPM-system). The article describes results of corporate performance management systems architecture analysis. It describes disadvantages of typical CPM-systems architecture concerning information system for strategic management. First, there is no component for operating with non-typical data such as audio, video streams, geoinformation, etc. Second, there is no component for data integration supporting different data sources, including cloud sources. Third, CPM systems dont use knowledge, but strategic management is considered to exploit latent tendencies and expert knowledge. Forth, information system for strategic management should support users during their decision-making, but CPM systems provide only nonspecific user interface.
+     The article describes the architecture of information system for strategic management developed according to the analysis results and eliminated CPM-system architecture disadvantages. Proposed architecture consist of some layers. Data sources integrated using "hab and spokes" technology, where the hab is a hybrid integration platform. Information from Internet-sources extracts with a special component — Internet monitoring system (a sort of a crawler). Integrated data is stored in a data warehouse. Data mining tools extract knowledge from stored data and collect it in a knowledge warehouse. Models that are used in strategic management processes store in model warehouse. These three warehouses are the core of the system.
+     Application layer consists of different functional modules integrated with enterprise service bus (ESB). Component architecture of this layer allows one to use functional modules developed by different distributors. Control actions on internal information systems realizes by service bus.
+     There are other conceptual proposals for developing IT systems that integrate data from various sources as well as management systems and decision-making systems in the article.
+     </p>
+   item_keywords: corporate performance management system, CPM system, information system architecture; strategic management
+   item_pages: 283–288
+   item_citation: ' Polevaya O. M. Architecture of information system for strategic management, Programmnaya Ingeneria, 2016, vol. 7, no. 6, pp. 283—288.'
+---

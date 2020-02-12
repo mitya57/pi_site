@@ -1,0 +1,63 @@
+---
+title: Issue N10 2013 year
+content:
+ - doi: 
+   link: _10_2013_1
+   udk: '004.432.2'
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: Memory Model of Multithreaded Programs in C11
+   item_authors_address: ' <b> N. I. Vyukova</b>, <b> V. A. Galatenko </b>, <b> S. V. Samborskij </b>, e-mail: niva@niisi.msk.ru '
+   item_annot: |
+     <p> The paper presents the C11 library of atomic operations, memory model of a multithreaded program and synchronization methods based on use of atomic operations. We discuss also the support for C atomic operations in current versions of the GCC and Clang/LLVM compilers.
+     </p>
+   item_keywords: the C programming language, C11, multithreading, atomic data types, memory model
+   item_pages: 2–9
+
+ - doi: 
+   link: _10_2013_2
+   udk: "004.4'24"
+   item_authors: Odiakova D. S., Parakhin R. V., Kharitonov D. I. 
+   item_name: Method of Automatic Script Generation in DBMS
+   item_authors_address: ' <b> D. S. Odiakova </b>, <b> R. V. Parakhin </b>, e-mail: fadak@dvo.ru, <b> D. I. Kharitonov </b>'
+   item_annot: |
+     <p> The article considers the problem of automatic scripts and files generation based on the data and templates stored in the database. This problem is typical for information systems using SQL servers for data storing. The authors introduce the original representations of template files and file structure for relational databases and the method of scripts generation on the basis of these representations. The article also describes two examples of scripts generation.
+     </p>
+   item_keywords: automatic code generation, syntax-directed translation, database management system (DBMS), domain-specific language, template engine, model transformation, algebra of sets
+   item_pages: 10–18
+
+ - doi: 
+   link: _10_2013_3
+   udk: '004.4'
+   item_authors: Kostyuk V. V., Ovchinnikov A. A.
+   item_name: Experience in the Development of Service-Oriented BIRT-Based Reports IBM Products
+   item_authors_address: ' <b> V. V. Kostyuk </b>, e-mail: kvv@rguitp.ru, <b> A. A. Ovchinnikov </b>'
+   item_annot: |
+     <p> This work is devoted to application development output documents in the form of reports to the computer screen and on paper. Designed application allows to form and to issue the information documents of the means of report generator BIRT, built-in application development environment for IBM, namely in Rational Software Architect. The development was carried out in the environment, Rational Software Architect, version 7.5.5. The authors hope that this experience will be useful not only for students of higher educational establishments, but also for the professionals, the adherents of the concept of service-oriented architecture and developers of similar decisions in the different subject areas.
+     </p>
+   item_keywords: programming, software engineering, integration of IBM products, configuration of the computing environment, the report generator
+   item_pages: 19–23
+
+ - doi: 
+   link: _10_2013_4
+   udk: '004.9, 659.1'
+   item_authors: Petrov Yu. I., Makarov S. N.
+   item_name: 'Some Aspects of Online Advertising Sector Automation: Giftylife Ltd'
+   item_authors_address: '<b> Yu. I. Petrov </b>, e-mail: mailtoyuripetrov@gmail.com, <b> S. N. Makarov </b> '
+   item_annot: |
+     <p> Article overviews the specifics of online advertising and organization activities in this sector. Based on Giftylife Ltd experience the description of company business processes of clients management are provided, specifics of organization automation and aspects of technical implementation of the developed information system are considered.
+     </p>
+   item_keywords: automation, internet marketing, online advertising, internet advertising, business-process, information system, software, Delphi, Microsoft Access, IDEF0, IDEF1X
+   item_pages: 24–36
+
+ - doi: 
+   link: _10_2013_5
+   udk: '004.89:004.912'
+   item_authors: Kharlamov A. A., Yermolenko T. V., Dorokhina G. V., Zhuravlyov A. O. 
+   item_name: Pre-syntactic Processing of Russian-English Texts    
+   item_authors_address: '<b> A. A. Kharlamov </b>, e-mail: kharlamov@analyst.ru, <b>  T. V.Yermolenko </b>,<b> G. V. Dorokhina </b>, <b> A. O. Zhuravlyov </b> '
+   item_annot: |
+     <p> The article offers an algorithm of text processing in order to prepare it for the syntactic analysis. The algorithm identifies the lexical units of text and other tokens, presents them in a form suitable for further processing by the syntactic component of the linguistic processor A module of declarative morphological analysis of English words is developed. A method for describing of morphological information inflected forms of English as a set of bit fields is proposed.
+     </p>
+   item_keywords: 
+   item_pages: 37–47
+---

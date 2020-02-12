@@ -1,0 +1,82 @@
+---
+title: Issue N4 2013 year
+content:
+ - doi:
+   link: _4_2013_1
+   udk: '004'
+   item_authors: Pirogov M. V.
+   item_name: Radical Programming
+   item_authors_address: '<b> M. V. Pirogov </b>, е-mail: pmv_mvp@mail.ru'
+   item_annot: |
+     <p> Modern programming technology and its problems are analyzed. The author proposes a new technology of programming, based on the concept of environment of radicals and formalism of schemes of radicals.
+     </p>
+   item_keywords: software engineering, software tool, critical system, intellectualization, environment of radicals, scheme of radicals
+   item_pages: 2–15
+ - doi:
+   link: _4_2013_2
+   udk: '519.256'
+   item_authors: Kuzmin A. A., Strijov V. V.
+   item_name: Validation of the Thematic Models for Document Collections
+   item_authors_address: ' <b> A. A. Kuzmin </b>, <b> V. V. Strijov </b>, e-mail: strijov@ccas.ru'
+   item_annot: |
+     <p> Consider a collection of documents with expert thematic model. To verify the adequacy of the expert model build an algorithmic model by hierarchical clustering text collections. The agglomerative and divisive clustering methods are investigated. The algorithmic model error in comparison to the expert model is estimated. The differences between expert model and algorithmic model are visualized.
+     </p>
+   item_keywords: document collection, thematic model, hierarchical model, clustering
+   item_pages: 16–20
+ - doi:
+   link: _4_2013_3
+   udk: '519.612.631'
+   item_authors: Ivanova K. F.
+   item_name: Point-Interval Technique of an Estimation of a Sensitivity Numerical Solution of the Elliptic Equations
+   item_authors_address: ' <b> K. F.  Ivanova </b>, e-mail: klara.i2010@yandex.ru'
+   item_annot: |
+     <p> In work the estimation of an error of a unknown vector received at modeling of physical processes and technical constructions by Poisson's equations is offered. As a rule, the solution of the partial differential equations is obtained after the discretization by systems of linear algebraic equations (SLAE) with rarefied matrixes. The analysis of sensitivity of system is based on an aprioristic estimation of its reaction to influence of the entrance data expressed in intervals, corresponding to errors of boundary conditions and source function. The offered technique of an estimation of an error of the solution can help to reveal nodes of a real construction or a power field which are the most vulnerable at occurrence of extreme deviations. The received estimations guarantee reliability of calculations necessary for prevention of dangerous situations at practical realization of models of thermal and electromagnetic processes, stationary problems of building mechanics and for many other physical and technical problems.
+     </p>
+   item_keywords: Poisson's equations, modeling, approximation, intervals, sensitivity, an estimation of an error, extreme deviations.
+   item_pages: 21–28
+ - doi:
+   link: _4_2013_4
+   udk: '004.056.53'
+   item_authors: Shumilin A. V.
+   item_name: An Approach to the Estimation of the Impact of Protection Facilities on the Performance of Relational DBMS
+   item_authors_address: '<b> A. V. Shumilin </b>, вед. науч. сотр., ОАО "НПО РусБИТех"'
+   item_annot: |
+     <p> In the аrticle there is considered an approach to the estimation of the impact of protection facilities on the performance of relational database by the example of mandatory access control within the DBMS of special-purpose operation system produced locally and called Astra Linux Special Edition
+     </p>
+   item_keywords: database management systems, information security
+   item_pages: 29–33
+ - doi:
+   link: _4_2013_5
+   udk: '004.023'
+   item_authors: Matrenin P. V., Sekaev V. G.
+   item_name: Optimizing Adaptive Ant Colony Algorithm on the Example of Scheduling Problem
+   item_authors_address: '<b> P. V. Matrenin </b>, e-mail: pavel.matrenin@gmail.com, <b> V. G. Sekaev </b>'
+   item_annot: |
+     <p> The article deals with solving scheduling problem using Ant Colony Optimization, descriptions the approaches that significantly improve the quality of the solutions and the speed of the algorithm. The main difference of the proposed method is dynamic evolutionary algorithm to adapt to conditions of a problem. Also the particle describes the software implementation and recommendations for optimizing such programs.
+     </p>
+   item_keywords: job-shop scheduling problem, ant colony optimization, multiphasic systems, genetic algorithm, parallel computing
+   item_pages: 34–40
+ - doi:
+   link: _4_2013_6
+   udk: '004.02'
+   item_authors: Butenko D. V., Ananyev A. S., Butenko L. N.
+   item_name: The Conceptual Approach to Carrying Out of Pre-design Researches of Information Systems
+   item_authors_address: '<b> D. V. Butenko </b>, <b> A. S. Ananyev </b>, e-mail: ananievandr@yandex.ru, <b> L. N. Butenko </b>'
+   item_annot: |
+     <p> The article describes the algorithm of the predesign researches and modeling of information systems. The implementation of the algorithm is required to solve the relevant scientific problem of increasing the effectiveness of pre-work for development of information and technical systems. The list of basic procedures is required for the pre-work for the stage of conceptual design of information systems. This method will improve the efficiency of modeling process, and pre-work for creation of information systems through the implementation of a systematic approach for analyzing and synthesizing it.
+     </p>
+   item_keywords: conceptual design, systems analysis, innovation technologies of design, information technologies
+   item_pages: 41–43
+ - doi:
+   link: _4_2013_7
+   udk: '004.41'
+   item_authors: Lipaev V. V.
+   item_name: 'Software Engineeing: Requirements to the Professional Competence of Specialists'
+   item_authors_address: '<b> V. V. Lipaev </b>, e-mail: vlip28@mail.ru'
+   item_annot: |
+     <p> In the present article, general questions concerning the development of complex software systems on each stage of its life-cycle are discussed in outline with references to statements of textbooks and monographs published by the author. Requirements to the professional competence of specialists of discussed area are analyzed. For each requirement, a number of textbooks and monographs published by the author are presented.
+     </p>
+   item_keywords: master of science degree, software products, professional competence, technology, development, production, testing, maintenance
+   item_pages: 44–47
+
+---

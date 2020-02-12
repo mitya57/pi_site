@@ -1,0 +1,72 @@
+---
+title: Issue N4 2015 year
+content:
+ - doi:
+   link: _4_2015_1
+   udk: 
+   item_authors: Dorodnykh N. O., Yurin A. Yu.
+   item_authors_address: '<b>N. O. Dorodnykh</b>, Postgraduate Student, e-mail: tualatin32@mail.ru, <b>A. Yu. Yurin</b>, Head of Laboratoty, e-mail: iskander@icc.ru, Institute for System Dynamics and Control Theory Siberian Branch of the Russian Academy of Sciences, Irkutsk'
+   item_name: Using UML class Diagrams for Design of Knowledge Bases of Rule-Base Expert systems
+   item_annot: |
+      <p> The paper describes the approach for computer-aided design of rule-bases on the basis of conceptual models. The proposed approach consists of six steps: design of the conceptual model, representation of the conceptual model in the form of a XML-document, analysis (parsing) of the XML-document, generation ontology of rules, visualization and modification of rules, model-based generation of a program code. UML class diagrams are considered as the main source of conceptual models, because the analysis shown that it is the most common way of conceptualizing knowledge in software development. The original notation — Rule Visual Modeling Language (RVML) is proposed for visualization and modification of rules. The C Language Production System (CLIPS) is selected as a targeted programming language.
+      </p><p>The main advantage of the approach is minimization of errors in program codes.
+      </p><p>The approach does not eliminate errors caused by inaccuracy or incompleteness of analyzed conceptual models, however, the automatic model-based generation of program codes allows to apply the principle of rapid prototyping for the design of knowledge bases with the subsequent inspection and testing obtained codes with the aid of third-party tools.
+      </p><p>The proposed algorithms are implemented in a prototype of a web-service. The main area of application of the web-service is providing distributed collaboration of experts and analytics in design of knowledge bases for rule-based expert systems.
+      </p>
+   item_keywords: knowledge base, rules, computer-aided, knowledge acquisition, conceptual model, ontology, UML, CLIPS
+   item_pages: 3–9
+
+ - doi:
+   link: _4_2015_2
+   udk: 
+   item_authors: Vasenin V. A., Itkes A. A., Shapchenko K. A.
+   item_authors_address: '<b>V. A. Vasenin</b>, Professor, Head of Department, e-mail: vasenin@msu.ru, <b>A. A. Itkes</b>, Researcher, e-mail: itkes@imec.msu.ru, <b>K. A. Shapchenko</b>, Senior Researcher, e-mail: shapchenko@iisi.msu.ru, Institute of Mechanics, Lomonosov Moscow State University'
+   item_name: On the Application of Social Networking Access Control Models to One Class of Multi-User Content Management Systems
+   item_annot: |
+      <p> Many recent multi-user content management systems share similarities with social networking services because of the number of users, user and group dynamics, user involvement in generating and modifying the content. A notable challenge in such systems is often to specify access control rules for different resources in an efficient manner. Traditional access control models, although providing the necessary functions, tend to lead to excessive amount of administrative actions in certain cases related to rearrangement of the user structure including adding users and groups, reassigning users to different groups, and performing other maintenance tasks. Thus, introduction of a more declarative approach to the specification of access control rules may be a viable solution.
+      </p><p>Given the noted similarities several state-of-the-art formal access control models for social networks are analyzed for their potential applications in the content management systems under study. A system for managing research information and science metrics is selected as an example of target content management system, namely the system "Nauka—MGU" ("ISTINA") [1]. This target system is used in Lomonosov Moscow State University for user-assisted collection and analysis of data about publications, research projects, and teaching activities. This system actively uses a set of access rules to prevent accidental mistakes during editing of the entered information and also to restrict access to certain analysis data based on attributes of the user and the resource being accessed.
+      </p><p>Three families of formal access control models for social networks are analyzed, including models by P. Fong et al. [2—4], by B. Carminati et al. [5—7], and models UURAC, URRAC and UURACA by Y. Cheng, J. Park, and R. Sandhu [8—11]. Two features of access control rules specification which are particularly important for the target system but not present in the analyzed models at the same time were noted: use of the full social graph with user-to-resource and resource-to-resource relations in addition to the more common user-to-user relations; and the use of attributes for entities and relations as the means of introducing parameters in access rules.
+      </p><p>In the conclusion of the paper a refined requirements list is provided for the access control model for the target system, including requirements for specifying access control rules using the full social graph of the system, using attributes of objects and relations, accounting for transitive relations, and performing restricted discretionary user-level configuration of the relevant access rules.
+      </p>
+   item_keywords: access control, access rule, access control model, content management system, social network, research information, science metrics
+   item_pages: 10–19
+
+ - doi:
+   link: _4_2015_3
+   udk: 
+   item_authors: Efanov N. N., Melekhova A. L., Bondar A. O.
+   item_authors_address: '<b>N. N. Efanov</b><sup>1</sup>, Junior Software Developer, e-mail: nefanov@parallels.com, <b>A. L. Melekhova</b><sup>1, 2</sup>, Lead Software Developer, Lecturer, e-mail: annam@parallels.com, <b>A. O. Bondar</b><sup>1</sup>, Junior Software Developer, e-mail: abondar@parallels.com <br><sup>1</sup>Parallels, Moscow, <sup>2</sup> Moscow Institute of Physics and Technology'
+   item_name: Algorithms of Distributed Power Management for Cloud Computing
+   item_annot: |
+      <p> Nowadays, when the electricity price is that high, the demand on methods to reduce the power consumption for computing systems is high. While many computational tasks have migrated into the cloud, cloud power consumption becomes a case of study for many researchers. There are lots of investigations in this area, but most of them do not take into account a complete vision of the system. For example, many academic researches ignore the migration price, while most practical solutions are based on empirical results.
+      </p><p>In this paper we give the aggregated picture of cloud system from the power management point of view. We cover both global and local power management and make a connection between them. We formulate power management subtasks that should be solved in the cloud system. We discuss the most promising results and do their critical evaluation. We cover dynamic programming solutions, learning tree algorithms, semi-markov representations and many other methods. The key focus is in evaluation of power consumption and power optimization on the local node. In the end we provide our recommendation on distributed power management politics implementation. This work is must-read for all who intend to build their own cloud or develop own cloud solution.
+      </p>
+   item_keywords: power consumption, visualization, cloud computing, dynamic power management, energy proportional, energy efficiency
+   item_pages: 20–30
+
+ - doi:
+   link: _4_2015_4
+   udk: 
+   item_authors: Kogalovsky M. R., Parinov S. I.
+   item_authors_address: '<b>M. R. Kogalovsky</b>, Head of Internet Resources Center, e-mail: kogalovsky@ipr-ras.ru, Market Economy Institute of RAS, Moscow, <b>S. I. Parinov</b>, Deputy Director, e-mail: sparinov@gmail.com, Central Economics and Mathematics Institute of RAS, Moscow'
+   item_name: Scientific Communications Based on Facilities of the Semantically Enrichable Digital Libraries
+   item_annot: |
+      <p> A new trend in developing of the scientific digital library concepts and technology emerged in the last years. Authorized users of a library get ability for declaration in a decentralized mode the scientific relationships between information objects from the library content by using the semantic linkage technique and taxonomy. We call the digital libraries owned by such facilities as the semantically enrichable digital libraries. In this paper we present our approach to execution of direct scientific communications between the authors of research outputs and the users of these outputs belonged to the library content. This functionality is based on the semantic linkage technique and on the e-mail notification mechanism. The author of a publication gets an immediate e-mail message when someone creates semantic linkage with the publication. This message gives to the author an information who, how and why used his/her research outputs, since the linkage semantic is defined by the scientific linkage taxonomy including different variety of usage (for example, adoption of idea, method or data), opinions, etc. This the first communication motivates further direct communication and cooperation since as a feedback to the user: the author can assist the user with better using of the author's research results; and/or the author can improve/ develop their research results in order to help the user with getting a better usage effect. Proposed approach has been implemented as a part of the Socionet facilities. This project is funded by Russian Foundation for Humanities, grant number 14-07-12010-v.
+      </p>
+   item_keywords: digital library, semantic linkage, linkage taxonomy, scientific communication, notification service, Socionet system
+   item_pages: 31–38
+
+
+ - doi:
+   link: _4_2015_5
+   udk: 
+   item_authors: Kharitonov D. I., Tarasov G. V., Parakhin R. V.
+   item_authors_address: '<b>D. I. Kharitonov</b>, Senior Research Fellow, <b>G. V. Tarasov</b>, Research Fellow, <b>R. V. Parakhin</b>, Postgraduate Student, e-mail: fadak@dvo.ru, Institute of Automation and Control Processes FEB RAS, Vladivostok'
+   item_name: On Database Usage for Storing Source Code of Programs
+   item_annot: |
+      <p> An approach to use databases for storing source code of programs is considered. Relational model for representing programs in databases is presented. Import and export operations for transferring program's source code from file representation to relational representation, and vice versa, are described. Object-oriented interface to access to databases objects from application programs is also reviewed. In conclusion a number of research areas are presented, in which the storing program in databases could provides some advantages over traditional file representation.
+      </p>
+   item_keywords: relational database management systems, program translation, object-oriented programming
+   item_pages: 39–48
+
+---

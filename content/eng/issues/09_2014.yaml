@@ -1,0 +1,74 @@
+---
+title: Issue N9 2014 year
+content:
+ - doi:
+   link: _9_2014_1
+   udk: '004.4'
+   item_authors: Vasenin V. A., Golomazov D. D., Gankin G.M.
+   item_name: 'Architecture, Methods and Tools of the Intellectual System of Thematic Analysis of Scientific Information "ISTINA — Science in MSU" Core'
+   item_authors_address: '<b> V. A. Vasenin</b>, Professor, Head of Laboratory, e-mail: vasenin@msu.ru, <b> D. D. Golomazov</b>, Senior Researcher, e-mail: denis.golomazov@gmail.com,<b> G. M. Gankin</b>, Programmer, e-mail: gregorian21@yandex.ru, Institute of Mechanics Lomonosov Moscow State University'
+   item_annot: |
+     <p> The present paper is devoted to a description of architecture and core modules of Intellectual System of Thematic Analysis of Scientific Information (ISTINA, "Truth" in Russian). The system is aimed at gathering, managing, storing, searching, retrieving and analyzing of information that characterizes results of scientific and educational organizations' activity. The system is actively used in Lomonosov Moscow State University. In this paper, the architecture and structure of the core modules are presented. The paper focuses on description of methods and tools of its basic components (the core), including mechanisms of adding new work types and data editing. The paper also describes some practical aspects of the system architecture from a programming point of view.
+     </p>
+   item_keywords: scientific information, information system, scientific research, performance analysis, bibliographic system, metadata
+   item_pages: 3–12
+ - doi:
+   link: _9_2014_2
+   udk: "004.4'2"
+   item_authors: Chentsov P. A.
+   item_name: MVE Web-Development System
+   item_authors_address: '<b> P.A. Chentsov</b>, Senior Researcher, e-mail: chentsov.p@uran.ru, Institute of mathematics and mechanics UrB RAS, Ekaterinburg '
+   item_annot: |
+     <p> The development platform MVE (Model/View/Events) for web-applications is considered. It's based on the free software PHP, Apache, MySQL. The platform is designed for database applications, but it is possible to use MVE with any different data sources, like files system or electronic spreadsheets. The system is developed with object-oriented approach. One of the main features of MVE is the automatic generation of HTML pages. The process of developing sites reduces to the construction of the information structure object model, which automatically generates HTML pages. This approach provides a program compactness and high level of code reuse. Most expedient use of MVE is designing websites with template interface and working with complex data structures. MVE mechanisms allows to create and maintain sites a minimum number of site developers.
+     </p>
+   item_keywords: web-application, development system, automatic generation of pages
+   item_pages: 13–22
+ - doi:
+   link: _9_2014_3
+   udk: '004.414.23+004.415.5'
+   item_authors: Sokolov A. O.
+   item_name: A Feasibility Test for Real-Time Systems Software
+   item_authors_address: '<b> A. O. Sokolov</b>, Postgraduate Student, Design Engineer, e-mail: wedmeed@mail.ru, Saratov State Technical University of Gagarin Yu. A., "KB Electropribor", Saratov '
+   item_annot: |
+     <p> The paper presents a feasibility test for real-time tasks set. Unlike existing tests it use an advanced software model. This model includes regular tasks, firm real-time tasks and tasks with equal priorities.
+     </p><p>Allowing defined features reduces pessimism of the test results. An important advantage is the set feasibility when a utilization factor is greater than 1. This is possible because firm real-time tasks benefits are introduced. Also in this paper several other optimizations are proposed. They improve applicability of the test.
+     </p><p>Owing to the universality of the model used proposed test is compatible with older models. Sets of tasks created earlier can be checked without any changes.
+     </p><p>Simulations with a large number of tasks sets with random parameters confirm results of this work. In all experiments pessimism of the proposed test is lower than pessimism of the base test.
+     </p>
+   item_keywords: feasibility test, software, tasks, scheduling, real-time, utilization factor, response time
+   item_pages: 23–29
+ - doi:
+   link: _9_2014_4
+   udk: '004.9'
+   item_authors: Bezdushny A. A.
+   item_name: Conceptual Provisions and Architecture of Semantic Personal Information Management System
+   item_authors_address: '<b> A. A. Bezdushny</b>, Postgraduate Student, Moscow Institute of Physics and Technology, e-mail: andrey.bezdushny@gmail.com'
+   item_annot: |
+     <p> This paper considers the problem of the personal information management by using semantic technologies, proposes the architecture of semantic personal information management systems and presents the prototype of the system implemented in accordance with this architecture. Proposed method develops the idea of the Semantic Desktop — an approach to the personal information space organization in accordance with Semantic Web and Linked Open Data.
+     </p><p>Within the system, information space is considered as RDF repository, based on OWL ontology. By default, system OWL ontology, containing the most frequently used concepts, is available to user. If necessary, user can extend it by adding new classes and properties or overriding existing ones.
+     </p><p>Following are the main objectives of the system. Maintenance of user information space and structuring of resources within it. Harvesting of the information stored in external sources such as file system, mail server etc. Support for the search through the information space. Automated analysis of the information space, in particular harvesting of additional metadata from the web. Automated resources categorization. Support for collaboration.
+     </p>
+   item_keywords: personal information management, personal knowledge management, Semantic Desktop, Semantic Web, RDF, Linked Open Data, data analysis, data categorization
+   item_pages: 30–37
+ - doi:
+   link: _9_2014_5
+   udk: '004.925.8'
+   item_authors: Avvakumov V. D.
+   item_name: Approximation Figures of Complex Geometric Shapes Using the Docking
+   item_authors_address: '<b> V. D. Avvakumov</b>, Associate Professor, e-mail: awwam@mail.ru, Novouralsk Technological Institute of the National Research Nuclear University MEPhI '
+   item_annot: |
+     <p> We consider the problem of constructing approximate figures (simple shapes and the convex hull) for figures of complex geometric shapes. Simple shapes are convex n-gon and the circle; both convex hull and complex shapes can be composed of line segments and circular arcs.
+     </p><p>The need for approximation arises in solving problems with geometric shapes figures organize complex shape figures (nesting problem): for simple shapes it is much faster to check the conditions of their non intersection. Constructing convex hulls is a very important procedure in many applications not only in itself, it can be part of other algorithms using this procedure as a component.
+     </p><p>The first section contains the definitions used in this article: the well-known and introduced by the author. The basic concept is introduced among the arrays of discrete-continuous representation of the sidebar containing the coordinates of the connection points of contour elements and, if the contour has the arcs of their centers.
+     </p><p>The second section describes the methodological basis for solutions of approximation algorithms and the method of forming the source data. Methodological basis for the proposed algorithms is a method of docking developed by the author. This method allows to find data for the algorithms constructing desired shapes: a discrete representation of the supporting function for the construction of simple shapes and a plurality of contact points of the of supporting line with the figure for finding the convex hull.
+     </p><p>The third section is devoted to the construction of simple approximate figures. In general, for finding an approximating n-gon two procedures (primary and secondary) are used. The first (coarse) approximation of the n-gon is determined by the initial procedure. The application of secondary procedure allows an exact solution.
+     </p><p>A plurality of contact points, obtained by joining is a discrete representation of the convex hull because all contact points got in accordance with the algorithm are those of the contour. However, this set contains a significant amount of redundant information. The fourth section describes an algorithm for obtaining arrays of discrete-continuous contour representation of the convex hull based on a plurality of contact points.
+     </p><p>Method of dimensional tolerances application of the original figure with its approximation is presented in the fifth section. The substantiation of the need to consider the tolerances in solving problems of placing objects on the plane is given. Calculations show that the inclusion of tolerance can increase the area of approximating figures by up to 30 %.
+     </p><p>The results of algorithms work for obtaining approximating figures are arrays of discrete-continuous representation of the contour. Such representation of the contour allows to build simple and universal algorithms for flat figures in solving location problems.
+     </p><p>There is an example in which the figures are given for some approximate figures.
+     </p><p>The results presented in this article may be used in applications where it is required to solve the problem of locating geometric objects: computer graphics, pattern recognition and image processing, computer-aided design and manufacturing processes.
+     </p>
+   item_keywords: approximation, the figure of complex geometric shapes, simple figures, convex hull, contour, algorithms, continuous-discrete representation of the contour, nesting, supporting line, tolerance on size
+   item_pages: 39–48
+ 
+---

@@ -1,0 +1,62 @@
+---
+title: Issue N11 2015 year
+content:
+ - doi:
+   link: _11_2015_1 
+   item_authors: Shelekhov V. I.
+   item_authors_address: '<b>V. I. Shelekhov</b>, Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, Russia'
+   item_name: Automata-Based Program Optimization by Applying Requirement Transformations
+   item_annot: |
+     <p>Automata-based software engineering includes methods to develop simple, reliable and effective programs for reactive systems. A program is constructed as a finite state automation presented in the form of control state hypergraph. A production system language for describing the functional requirements is proposed as the specification language for automata-based programs. For development of an effective automata-based program presented by the production set, the optimizing requirement transformations are used. These methods are illustrated on the ATM adaptation layer (type 2) protocol. The presented version of Sender program for the AAL2 protocol is essentially simple and efficient in comparison with the same program published in the AAL2 standard.
+     </p><p>The optimizing transformations are the followings: program specialization, superposition reduction, equivalence replacement, and simplifications. The transformations applied are not automatic. They are included in the user's program development process. For large switching programs, an essential optimization effect is obtained by replacing programs to equivalent hyperfunctions.
+     </p>
+   item_keywords: program comprehension, automata-based programming, requirement specification, production system model, ATM Adaptation Layer
+   item_pages: 3–13
+ - doi:
+   link: _11_2015_2 
+   item_authors: Landovskaya I. E., Frolovsky V. D., Landovsky V. V.
+   item_authors_address: '<b>I. E. Landovskaya</b>, Postgraduate Student, e-mail: nairy@rambler.ru, <b>V. D. Frolovsky</b>, Professor, e-mail: frolovskij@corp.nstu.ru, <b>V. V. Landovsky</b>, Associate Professor, e-mail: landovskij@corp.nstu.ru, Novosibirsk State Technical University'
+   item_name: Fabric Materials Deformation Simulation by Using the Simultaneous Processing Method
+   item_annot: |
+     <p>The simulation of the fabric materials behavior on the solid plane—bounded object's surface is considered in the paper. The fabric is represented as a discrete model that can virtually to reproduce real material's properties with high accuracy. The item outline (pattern) is used as an initial data to construct item grid model. Commonly, that outline has the form of any polygon. The grid has to be uniform with square-shaped cells so the active forces occurring in the simulating product were brought in modulus and direction to the forces of the real material that occurs with its deformation. Methods for experimental investigation of the fabric deformation properties are described. Expressions for the strain energy that occurs between the fabric discrete model particles are presented. These expressions take into account experimental data. For simulation the physical methods have been used, namely, the particle method. To solve the differential equation system the leapfrog scheme has to be used. To describe the developed parallel processing algorithm for paralleling the calculations on the central processing unit both for shared-memory systems and for distributed memory systems are presented. Implementation method of parallel computing on graphics processor is presented. The results of numerical experiments for described parallel processing algorithms are provided. Also, the fitting on the dress form of the cotton fabric base construction results are shown. The tension areas of the material are highlighted.
+     </p>
+   item_keywords: fabric materials simulation, method of parallel computing, process, thread, calculations on the central processing unit, computing on graphics processing unit, fabric deformation properties, sampling of the free-form items, particle method, leapfrog scheme
+   item_pages: 14–24
+ - doi:
+   link: _11_2015_3 
+   item_authors: Kukartsev A. M., Kuznetsov A. A.
+   item_authors_address: '<b>A. M. Kukartsev</b>, Senior Lecturer, e-mail: amkukarcev@yandex.ru, <b>A. A. Kuznetsov</b>, Professor, e-mail: kuznetsov@sibsau.ru, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk'
+   item_name: Constructive Representation of the Jevons Group for Engineering Solutions of Information Processing
+   item_annot: |
+     <p>Actions of the Jevons group on the set of binary vectors of the Boolean functions allow to build engineering solutions for the submission and processing of information. In this case information will be presented as a binary vector of length 2n associated with the Boolean function. The binary vector is a column of values of the Boolean function. There is a correspondence between arguments of the function and coordinates of the vector. The correspondence allows analyzing and converting binary vectors using methods of theory of the Boolean functions. So there is a need for mathematical methods and algorithms which connect the Boolean vectors and the Boolean functions. The main object in the solution of this problem is the Jevons group. It is discussed the constructive representation of the Jevons group in the article. We give correct rules of computation which are needed for creating of software and hardware. The proposed rules have been successfully tested in the solution of equations of the Jevons group's action on the set of the Boolean functions. We have developed the library of software functions "domain operations processor" (or dop) based on the rules. The library is licensed under the GNU Lesser General Public License.
+     </p>
+   item_keywords: information representation, the Jevons group, action on the set, binary vectors, Boolean functions, computational tools
+   item_pages: 25–33
+ - doi:
+   link: _11_2015_4 
+   item_authors: Perepelkin D. A., Ivanchikova M. А.
+   item_authors_address: '<b>D. А. Perepelkin</b>, Associate Professor, е-mail: dmitryperepelkin@mail.ru, <b>M. А. Ivanchikova</b>, Student, Ryazan State Radio Engineering University'
+   item_name: Software Development of Adaptive Routing Processes Modeling in Corporate Networks of Multiple Service Providers with Different Covering Areas of Subscribers
+   item_annot: |
+     <p>At the present day service providers are faced with the growing complexity of telecommunications networks, growth in the volume of data transmitted and increasing the number of devices connected to the operating networks. Active distribution of network devices makes communications providers find opportunities to rapidly reduce the current costs with continuous introduction of new services and technologies. The problem of optimizing the structure of the network by the criterion of minimum cost in the shortest possible time and in real time, as well as the task of finding the optimal routes has previously constructed a network is arises. Coordinated work of service providers, combining expertise in building and managing IP-networks, sharing opportunities for the development and delivery of new customer-oriented services can be particularly advantageous in the work of operators will reduce cost of providing telecommunications services. Collaboration of providers create new revenue streams, improve the quality and accelerate the development of telecommunications services, increase the data rate and the number of involved customers, as well as create innovative networking technology.
+     </p><p>In connection with this, the development of adaptive routing algorithms in corporate networks of multiple service providers with different covering areas of subscribers are the actual direction.
+     </p><p>Mathematical model and adaptive routing algorithm which reduce the complexity of building a routing table in the course of dynamic changes of the load on the communication lines, as well as produce a complete recalculation of the routing tables are offered in article.
+     </p><p>Software of adaptive routing processes modeling, confirming the validity of the proposed model and adaptive routing algorithm in corporate networks of multiple service providers with different covering areas of subscribers is developed. As part of the validation test it was carried out numerical calculations graph models of corporate networks, consisting of 10, 50 and 100 communication nodes in the presence of two service providers in the network. The research of the adaptive routing algorithm show its effectiveness in comparison with existing analogues by constructing an optimal routes data and exclusion of their cost — the cost of unused channels and communication nodes.
+     </p>
+   item_keywords: corporate networks, routing algorithms, adaptive routing, communication providers, covering area, subscribers
+   item_pages: 34–40
+ - doi:
+   link: _11_2015_5 
+   item_authors: Blinov P. D.
+   item_authors_address: '<b>P. D. Blinov</b>, Software Engineer, e-mail: blinoff.pavel@gmail.com, Vyatka State Humanities University, Kirov'
+   item_name: Software System for Aspect-Based Sentiment Analysis
+   item_annot: |
+     <p>The article is devoted to the problem of automatic sentiment analysis also known as opinion mining. Aspect-based version of such analysis is given in detail; its main subtasks are listed with examples. The primary goal of the article is to show a way for opinion mining system implementation.
+     </p><p>The first part of the article gives overall structure of a system for aspect-based sentiment analysis. The whole system can be broken into four key subsystems namely are preprocessing, subsystems of expert knowledge, linguistic resources and main control subsystem. Depending on the method being implemented the number of subsystems can vary slightly. For example, in this article there is additional word representation subsystem. It implements the method which uses semantic similarity to address key subtasks of aspect-based sentiment analysis.
+     </p><p>The second part of the article shows how such system can be realized in practice. The system is implemented according to the object-oriented paradigm. Main classes and their relations are described with UML class diagram. Also the example of a user interface and a way of storing the results are proposed.
+     </p><p>In the third part of the article the experimental results based on the text corpora of restaurant and car reviews, provided by seminar SentiRuEval-2015' organizers, are presented. This results show the superiority of the proposed system over similar ones.
+     </p><p>The developed system can be used as a standalone application for document analysis. It also can be integrated within search engine or recommendation service to enrich their results with aspect-specific sentiment knowledge.
+     </p>
+   item_keywords: natural language processing, automatic sentiment analysis, aspect-based sentiment analysis, opinion mining, class diagram, software system.
+   item_pages: 41–48
+---

@@ -1,0 +1,116 @@
+---
+title: Issue N9 2019 year
+content:
+ - doi: 10.355-366
+   udk: "004.4'233"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "Automated Program Repair: Basic Concepts and Approaches"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b>  K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: Kost@niisi.ras.ru'
+   item_rec_on:  July 09, 2019
+   item_acc_on:  August 05, 2019
+   item_annot: |
+     <p> The article formulates the basic concepts related to the automated program repair. It also discusses the main ideas and approaches. This topic is very relevant, because modern programming technology does not allow to make large, complex systems free from errors. The occurring of these errors during program execution can lead to serious consequences. In addition, the number of errors in programs is greater than the developers can fix. The Article is the first part of the work devoted to the automated program repair and is mainly theoretical.
+     Unfortunately, a program is a very inconvenient object for processing, and this creates fundamental difficulties for the implementation of automated repair. A number of the proposed approaches have no theoretical basis, and the practical results of their application are unsatisfactory. There is no effective universal algorithm to verify that a computable function has a given nontrivial property.
+     In addition to algorithmic insolubility, the problem is the complexity of programs, both in the number of their constituent entities, and the number of relationships between them. For large programs, overdriven algorithms may not be acceptable because of the combinatorial explosion and, as a consequence, too much time.
+     The program space is discrete. The concept of small changes is not defined for the program. Any change affects correctness and non-functional properties, such as runtime. The proximity of programs abstract syntax trees does not mean the proximity of program behavior (execution traces).
+     This means that for each program, the proof of correctness will be as unique as the program itself. It must therefore be generated and maintained in parallel with the development and maintenance of the program.
+     Programs have a dual nature. They not only serve as instructions for computers, but also record knowledge in certain subject areas. Therefore, in order to process and, in particular, transform and/or correct programs, it is necessary to have both programming and subject knowledge.
+     Thus, with the deployed program, because of its complexity and the algorithmic insolubility of its inherent problems, nothing can be done from the outside — it remains only to perform, trusting it (or rather — its authors). Only the program itself knows its semantics and can take care of itself.
+     The article attempts to highlight promising ideas and approaches, as well as directions for further research and development.
+   item_keywords: debugging, automated program repair, program recovery, program re-execution, program self-treatment, data recovery
+   item_pages: 355–366
+   item_citation: ' Galatenko V. A., Kostyukhin K. A. Automated Program Repair: Basic Concepts and Approaches, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 355—366.'
+ - doi:  10.367-376
+   udk: "004.942+004.087"
+   item_authors: "Ponomarev V. A."
+   item_name: "Simulation Modeling Performance Indicators for Solid State Storage Systems"
+   item_authors_address: |
+     <b> V. A. Ponomarev</b>, vadim@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Karelia, Russian Federation
+   item_corr_author: "Ponomarev Vadim A., Senior Lecturer, vadim@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Karelia, Russian Federation E-mail: vadim@cs.petrsu.ru"
+   item_rec_on:  August 02, 2019
+   item_acc_on:  August 09, 2019
+   item_annot: |
+     <p> Based on newly developed algorithms, the article presents results of simulation modeling of main indicators of productivity, reliability and operation costs of a storage system for deduplicated data on solid-state media.
+     The influence of input control parameters of the system on the output performance indicators is analyzed, which allows proposing optimal parameters and structure of a data storage system during its design. As a result of the study, a simulation system was developed and implemented using R and Python programming languages, based on the proposed simulation model and algorithms.
+     The simulation model of a queuing system is implemented as a multi-server model for processing requests with unlimited queues. It allows simulating the processes of reading and writing information in a data storage system and evaluating performance indicators, such as data transfer speed in read and write modes, as well as the system response time.
+     A distinctive feature of the simulation model is a newly developed algorithm for calculating the estimated requests processing time by the deduplication system, which allows for the first time to quantify the effect of applying this technology. The simulation results confirmed the effectiveness of using the deduplication technology for storage performance of a data storage system.
+     To solve the inverse design problem, an algorithm was developed for finding the most effective storage settings. The proposed algorithm allows finding solutions that are optimal in terms of a combination of factors — reliability, speed and cost of data storage.
+     The results obtained during simulation modeling correspond to results of practice experiments, which confirms the adequacy of the model.
+     The developed toolkit allows designing a data storage system of required volume and storage duration with minimum storage costs with given performance and reliability indicators.
+     </p>
+   item_keywords: simulation modeling, solid state media, deduplication, data storage system, algorithm, performance indicators
+   item_pages: 367–376
+   item_comment: ' This work is supported by the Ministry of Education and Science of Russian Federation (project no. 14.580.21.0009, unique identifier RFMEFI58017X0009).'
+   item_citation: 'Ponomarev V. A. Simulation Modeling Performance Indicators for Solid State Storage Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 367—376.'
+ - doi: 10.377-383
+   udk: "004.75"
+   item_authors: "Gvozdev V. E., Chernyakhovskaya L. R., Nasyrova R. A."
+   item_name: "Analysis of the Reliability of Information Services, Taking into Account their Objective Characteristics and Subjective Assessments of Users"
+   item_authors_address: |
+     <b> V. E. Gvozdev</b>, wega55@mail.ru, <b> L. R. Chernyakhovskaya</b>, lrchern@yandex.ru, <b> R. A. Nasyrova</b>, nasyrova.rima@yandex.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
+   item_corr_author: " Gvozdev Vladimir E., Professor, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation E-mail: wega55@mail.ru"
+   item_rec_on:  May 05, 2019
+   item_acc_on:  July 22, 2019
+   item_annot: |
+     <p> One of the basic tenets of the doctrine of Industry 4.0 is the creation of "Smart factories" whose environmental information is a backbone component. The information ecology environment is designed, firstly, to provide a comprehensive service for the information needs of enterprise personnel. Secondly, to ensure the possibility of their continuous learning through the identification and dissemination of new knowledge. The key role of the information environment in the activities of a flexible and learning enterprise leads to a qualitative change in the requirements for the reliability of the information support system.
+     A distinctive feature of information services is their human-oriented nature. This circumstance should be taken into account when assessing the reliability of information services, which are an integral part of the information ecological environment. This Article addresses the issues of analyzing the reliability of information services based on the simultaneous consideration of objective characteristics of their non-functional properties and subjective assessments by users of their functionality.
+     The development of methods for quantifying the reliability of information services, taking into account both their objective properties and subjective assessments of users, creates the basis for scientifically based adaptation of methods for managing the reliability of technical systems in the field of managing the reliability of the digital environment.
+     </p>
+   item_keywords:  smart factory; functional security; information service; information services profile; reliability of information services; digital ecological environment
+   item_pages: 377–383
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 19-08-00177. '
+   item_citation: 'Gvozdev V. E., Chernyakhovskaya L. R., Nasyrova R. A. Analysis of the Reliability of Information Services, Taking into Account their Objective Characteristics and Subjective Assessments of Users, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 377—383.'
+ - doi: 10.384-390
+   udk: "004.052.2"
+   item_authors: "Gruzenkin D. V., Mikhalev A. S."
+   item_name: "N-Version Software Diversity Metric Definition at the Programming Languages Level"
+   item_authors_address: |
+     <b> D. V. Gruzenkin</b>, gruzenkin.denis@good-look.su, <b>  A. S. Mikhalev</b>, asmikhalev@yandex.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation
+   item_corr_author: "Gruzenkin Denis V., Senior Teacher, Siberian Federal University, 660041, Krasnoyarsk, Russian Federation E-mail: gruzenkin.denis@good-look.su"
+   item_rec_on:  May 14, 2019
+   item_acc_on:  July 31, 2019
+   item_annot: |
+     <p> N-version programming is one of the most effective approaches to improve software reliability. It is based on the program redundancy, so one program module consists of several versions. They aim to solve identical tasks, but have differences in their constructions. For this reason, faults and errors are independent. As a result the higher one module versions diversity, the higher N-version software reliability. In view of this, it is necessary to define diversity metric for that purpose. The authors suggest comparing versions by comparing their programming languages to find versions measure of diversity, which is diversity metric. Comparison is based on a set of criteria, which allow one to figure out the difference between current programming language and a "perfect" one. The notion (collocation) of perfect programming language means an abstract programming language, which contains the values of all criteria for every compared programming language. The more values of some criterion for current programming language match the values of the same criterion for "perfect" programming language, the higher level of similarity is determined between them on the basis of this criterion. To figure out a full similarity level between current and "perfect" programming languages it is necessary to divide sum of similarity levels for all criteria by number of criteria. So diversity metric for two N-version software versions is presented as difference between one (it is equal to 100 %) and full similarity level difference between those versions languages. The metric can be used for program quality estimation.
+     </p>
+   item_keywords: N-version programming, N-version software, measure of software diversity, diversity metric on programming languages level, program quality estimation, software quality
+   item_pages: 384–390
+   item_citation: 'Gruzenkin D. V., Mikhalev A. S. N-Version Software Diversity Metric Definition at the Programming Languages Level, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 384—390.'
+ - doi: 10.391-399
+   udk: "81’322.2:004.912"
+   item_authors: "Trofimov I. V."
+   item_name: "Automatic Morphological Analysis for Russian: Application-Oriented Survey"
+   item_authors_address: |
+     <b> I. V. Trofimov</b>, itrofimov@gmail.com, Ailamazyan Program Systems Institute of RAS, Pereslavl-Zalessky, 152020, Russian Federation
+   item_corr_author: " Trofimov Igor V., Senior Researcher, Ailamazyan Program Systems Institute of RAS, Pereslavl-Zalessky, 152020, Russian Federation E-mail: itrofimov@gmail.com"
+   item_rec_on:  July 22, 2019
+   item_acc_on:  August 06, 2019
+   item_annot: |
+     <p> Researchers who focus on higher-level NLP tasks, and NLP application developers often rely on off-the-shelf solutions for lower-level subtasks like tokenization, sentence segmentation, lemmatizing, morphological tagging, and dependency parsing.
+     The paper presents an accuracy evaluation of two morphological modules for the Russian language: the one used within the Sharoff&Nivres pipeline, and UDPipe. Their performance is compared against rnnmorph neural algorithm that showed the best results at the MorphoRuEval-2017 competition. For evaluation purposes we used its implementation as of May 2019.
+     The study uses the datasets from MorphoRuEval and follows its evaluation framework. The experiments have revealed in which respects and to what extent rnnmorph outperforms the state-of-the-art pipeline solutions. Specifically, rnnmorph proves to be highly accurate (> 0.95) in identifying grammemes of nouns and pronouns, which is relevant for syntactic analysis of Russian. It is worth mentioning that rnnmorph was trained using five times less training data than TreeTagger, the morphological analyzer in the Sharoffs and Nivres pipeline. At the same time, rnnmorph is fairly slow, and the trained model at hand fails to generate a number of key morphological features.
+     The comparative study data and supporting analyses presented in the paper will be of help for software designers challenged with the choice of a morphological analyzer to build into their applications. </p>
+   item_keywords: natural language processing, morphological analysis, MorphoRuEval, TreeTagger, UDPipe, rnnmorph, morphological tagsets, lemmatization, Russian language
+   item_pages: 391–399
+   item_comment: 'The reported study was funded by RFBR according to the research project No. 19-07-00779. '
+   item_citation: 'Trofimov I. V. Automatic Morphological Analysis for Russian: Application-Oriented Survey, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 391—399.'
+ - doi: 10.400-416
+   udk: "004.4’22"
+   item_authors: 'Sokolov A. P., <span style="border:2px #000000  solid;">Makarenkov V. M.</span>, Pershin A. Yu., Laishevskiy I. A.'
+   item_name: "Development of Template-Based Code Generation Software for Development of Computer-Aided Engineering System"
+   item_authors_address: |
+     <b>A. P. Sokolov</b>, alsokolo@bmstu.ru, <span style="border:2px #000000  solid;"><b>V. M.Makarenkov </b></span>, <b>A. Yu. Pershin</b>, apershin@bmstu.ru,
+     <b>I. A. Laishevskiy</b>, ivanlaish@yandex.ru, Bauman Moscow State Technical University, Moscow, 105005,
+     Russian Federation
+   item_corr_author: " Sokolov Alexandr P., Associate Professor, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation E-mail: alsokolo@bmstu.ru"
+   item_rec_on:  August 21, 2018
+   item_acc_on:  August 12, 2019
+   item_annot: |
+     <p> The use of automation tools for software development or so-called computer-aided software engineering (CASE) tools is a sign of a high level of maturity of the development team, and is especially necessary when creating large-scale distributed software. Among others, CASE tools often include code generation software. Template-based code generation involves automatic building of source code or some text result corresponding to a pre-defined format called a template. The article presents the architecture and software tools for computer-aided prototyping of projects of software modules and documents of different types and purposes. The basis of the created technical solutions is the use of the following, developed by the authors: a specialized format of representation of templates, aINI format of source data files and a library of functions that allows to interpret the templates and create objects of different types based on them. The algorithm of generation and the method of automatic integration of the created software tools in the framework of a software complex "Distributed computational system GCD" are presented. Examples of practically significant created templates and their corresponding created objects are given, namely: a) template of initial data file; b) template of the documentation of the problem solver implemented using graph-based software engineering approach; c) template of the report of the conducted patent research according to GOST R 15.011—96.
+     </p>
+   item_keywords: computer-aided software engineering; rapid software and documentation prototyping; template-based code generation; model-driven engineering; model-to-text transformation; aINI; code generation; automatic programming; interpretation of text data; program processors; technologies for development of computer-aided engineering systems
+   item_pages: 400–416
+   item_comment: 'This work was carried out on an initiative basis by authors. The development of the template of the result of the simulation of the kinetics of a chemical reaction was funded by RFBR according to the research project No. 18-07-00341. '
+   item_citation: 'Sokolov A. P., Makarenkov V. M., Pershin A. Yu., Laishevskiy I. A. Development of Template-Based Code Generation Software for Development of Computer-Aided Engineering System, Programmnaya Ingeneria, 2019, vol. 10, no. 9—10, pp. 400—416.'
+---

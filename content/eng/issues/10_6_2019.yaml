@@ -1,0 +1,111 @@
+---
+title: Issue N6 2019 year
+content:
+ - doi: 10.243-256
+   udk: "004.023"
+   item_authors: "Galatenko V. A., Viukova N. I., Kostyukhin K. A."
+   item_name: "Using Program Patterns for Parallel Programming. Practical Usage"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b> N. I. Viukova</b>, niva@niisi.ras.ru, <b>  K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: Kost@niisi.ras.ru'
+   item_rec_on:  January 09, 2019
+   item_acc_on:  February 19, 2019
+   item_annot: |
+     <p> This article discusses the traditional mechanisms of the program patterns usage. In addition, the authors consider the problematic issues that arise when using patterns for software development, for parallelization of legacy serial programs, to evaluate the performance of hardware and software systems that support parallelism, to develop equip­ment that includes specialized accelerators, as well as to support training courses on parallel programming.
+     Program patterns usage is a universal tool of accumulation and approbation of programming knowledge, especially important and useful in complex subject areas, such as parallel programming.
+     Usage of the parallelizable patterns allows the developers:
+     <ul>
+     <li>to maintain a balance between the performance of hardware and software systems and the productivity of programmers, to make the development of parallel software economically feasible;</li>
+     <li>to make parallel programs mobile and flexible, facilitate maintenance and porting of parallel software to new hardware platforms.</li>
+     </ul>
+     This article describes a wide systematic approach to program patterns as a tool of parallelization. This is the most important result presented in this paper.
+   item_keywords: program patterns, parallel programming, distributed systems, review, heterogeneous systems, multikernel systems, parallelizing methods
+   item_pages: 243–256
+   item_citation: ' Galatenko V. A., Viukova N. I., Kostyukhin K. A. Using Program Patterns for Parallel Programming. Practical Usage, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 243—256.'
+ - doi: 10.257-264
+   udk: "004.4, 004.7"
+   item_authors: "Marchenkov S. A."
+   item_name: "Computer-Aided Programming of Software Agents Based on Code Generation in Constructing Semantic Services of Smart Spaces. Part 1"
+   item_authors_address: |
+     <b> S. A. Marchenkov</b>, marchenk@cs.karelia.ru, Department of Computer Science, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: "Marchenkov Sergei A., Postgraduate Student, Junior Researcher, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: marchenk@cs.karelia.ru"
+   item_rec_on:  February 24, 2019
+   item_acc_on:  April 03, 2019
+   item_annot: |
+     <p> The first part of the paper considers the problem of simplifying the development and maintenance of applications of smart spaces at the expense of developing solutions aimed at computer-aided agent programming in the construction of semantic services. Developing applications of smart spaces based on semantic services faces a number of problems. Firstly, the lack of a common ontology with the uniquely described concept of service for smart spaces makes the design phase difficult, making it impossible to create unified solutions based on an interconnected understanding of the resources involved and the processes taking place during the construction and delivery of services. Heterogeneous applications operate with their own descriptions of services, limiting their integration through semantic services to solve common tasks. Secondly, the process of developing applications for smart spaces, whose principles are increasingly deviating from efficiency, consistency and standardization, while increasing the complexity of prototyping, requires specialized tools for computer-aided programming of constructing and delivering semantic services. The article proposes a solution aimed at creating an agent code generator based on the ontologies of services developed using object-oriented programming languages, which allows generating, in addition to the domain object model, elements of the agents program logic responsible for interaction. The environments of the smart museum and the smart room are considered as the reference examples.
+     </p>
+   item_keywords: smart spaces, semantic services, computer-aided programming, ontology-oriented development, ontology-driven development, code generation
+   item_pages: 257–264
+   item_comment: ' The research was financially supported by the Ministry of Education and Science of Russia within project # 2.5124.2017/8.9 of the basic part of state research assignment for 2017—2019. The reported study was funded by RFBR according to the research project #19-07-01027. The article was prepared within the Government Program of Flagship University Development for Petrozavodsk State University in 2017—2021. '
+   item_citation: ' Marchenkov S. A. Computer-Aided Programming of Software Agents Based on Code Generation in Constructing Semantic Services of Smart Spaces. Part 1, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 257—264.
+'
+ - doi: 10.265-273
+   udk: "004.75 + 004.41"
+   item_authors: "Shundeev A. S."
+   item_name: "On Changing the Dimension of the Document Embeddings"
+   item_authors_address: |
+     <b> A. S. Shundeev</b>, alex.shundeev@gmail.com, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: " Shundeev Aleksander S., Leading Researcher, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, E-mail: alex.shundeev@gmail.com"
+   item_rec_on:  March 03, 2019
+   item_acc_on:  April 04, 2019
+   item_annot: |
+     <p> Currently, data mining is the basis for building a wide range of information systems. A modern and rapidly developing approach to the analysis of textual data is the construction and use of the word and document embeddings. Such embeddings were originally applied for the word similarity task and the word analogies task. However, they turned out to be in demand also in the text classification task. From this point of view, the word and document embeddings are investigated in this paper.
+     An approach based on the word embeddings transformations is described. In these transformations the model and dimension of the word embeddings are changed. The document embeddings may be associated with the word embeddings. In this case, the transformations considered can be extended to the document embeddings. For this purpose, multidimensional regression methods are used.
+     To confirm the proposed approach, experiments on two test datasets were performed. The first data set contained movie reviews related to one of six genres. The second data set contained twitter messages, each of which was negative or positive. The initial Doc2Vec (DBOW) document embeddings of dimensions 50, 100, 200, 300 were built. Also the Word2Vec (CBOW, SG) and GloVe word embeddings of dimensions 50, 100, 200 were built. The experiments performed on these datasets showed the following result. The document embeddings constructed using the proposed method may have a smaller dimension. Moreover, their use in the considered text classification tasks in most cases gives a more accurate result than when using the original document embeddings.
+     </p>
+   item_keywords:  word embeddings, document embeddings, text classification, regression
+   item_pages: 265–273
+   item_citation: 'Shundeev A. S. On Changing the Dimension of the Document Embeddings, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 265—273'
+ - doi: 10.274-280
+   udk: "004.4'2"
+   item_authors: "Rochev K. V."
+   item_name: "Analysis of Performance of String Operations in C# on Different Platforms"
+   item_authors_address: |
+     <b> K. V. Rochev</b>, k@rochev.ru, Ukhta State Technical University, Ukhta, 169300, Russian Federation
+   item_corr_author: " Rochev Konstantin V., Associate Professor, Ukhta State Technical University, Ukhta, 169300, Russian Federation, E-mail: k@rochev.ru"
+   item_rec_on:  December 22, 2018
+   item_acc_on:  April 04, 2019
+   item_annot: |
+     <p> This publication analyzes the results of performance measurements of operations and commonly used C# lan­guage functions in different environments, such as WPF, Windows Forms, Unity. The performance of some string functions is analyzed in more detail. Several versions of the code development and execution tools, including Mono, Core, and the traditional.NET Framework, are reviewed to see if there is a difference in the speed at which functions are executed. To measure the performance of code sections, the author has implemented a compact class library that connects to different execution environments. Measuring the execution speed of the operations was conducted in various modes of Assembly. These include the debug phase in DEBUG mode and the release phase of the application in RELEASE mode.
+     When comparing the results of WPF and Windows Forms code performance in release mode, it was found that the average difference in the performance of operations for different groups can be caused by measurement errors, which is not surprising, since a single framework is used. As for the comparison of WPF with Unity and .Net Core, the differences in the speed of operations are more significant. Calls to empty functions and variable calls in Unity are somewhat slower. And working with strings in Unity is even more inferior to the traditional version of the framework. In. Net Core, the average performance is the same as in WPF. However, the performance of single functions differs significantly.
+     It is shown that with close measurement results for most of the considered operations, even in related development environments in some cases there are fundamental differences in the performance of frequently used operations.
+     </p>
+   item_keywords: performance, code optimization, performance, C#, WPF, Windows Forms, DOT.NET Framework, Unity, Core
+   item_pages: 274–280.
+   item_citation: ' Rochev K. V. Analysis of Performance of String Operations in C# on Different Platforms, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 274—280. '
+ - doi: 10.281-288
+   udk: "004.4; 004.67"
+   item_authors: "Kobzarenko D. N., Kamilova A. M., Shikhsaidov B. I."
+   item_name: "Automatic Tools for Construction Process of Frequency Distribution Histograms on the Results of Continuous Wavelet Transform by Morlet Function"
+   item_authors_address: |
+     <b> D. N. Kobzarenko</b><sup>1,2</sup>, kobzarenko_dm@mail.ru, <b> A. M. Kamilova</b> <sup>1</sup>, anna702@mail.ru, <b> B. I. Shikhsaidov</b> <sup>3</sup>, sbi707@yandex.ru,
+     <br/><sup>1</sup>Institute for Geothermal Research of Dagestan Scientific Center of Russian Academy of Sciences, Makhachkala, 367030, Russian Federation,
+     <br/><sup>2</sup>Dagestan State University of National Economy, Makhachkala, 367008, Russian Federation,
+     <br/><sup>3</sup>Dagestan State Agrarian University M. M. Dzhambulatova, Makhachkala, 367032, Russian Federation
+   item_corr_author: " Kobzarenko Dmitry N. Head of Laboratory, Institute for Geothermal Research of Dagestan Scientific Center of Russian Academy of Sciences, Makhachkala, 367030, Russian Federation, E-mail: kobzarenko_dm@mail.ru"
+   item_rec_on: April 05, 2019
+   item_acc_on:  April 12, 2019
+   item_annot: |
+     <p> Visualization of the continuous wavelet transform matrix in the form of a two-dimensional picture with different color shades gives primary information about the frequency dynamics of the input signal. However, such a representation is not complete, and can be extended with the tool for constructing histograms of the frequency distribution. The process of constructing frequency distribution histograms based on wavelet transform matrices can be automated by creating additional software.
+     The development purpose is the creation of automation tools for constructing frequency distribution histograms based on the results of the continuous wavelet transform by the Morlet function. This will provide an opportunity to quantify and to compare the results of the continuous wavelet transform from the Morlet wavelet for meteorological time series.
+     Development tasks include:
+     <ul>
+     <li>to provide the ability of loading large two-dimensional arrays of the continuous wavelet transform results;</li>
+     <li>to provide the ability to set the periodicities interval range;</li>
+     <li>to provide the ability to composite data from different sources and different time periods for the chart;</li>
+     <li>to provide the ability to display multiple histograms within one chart;</li>
+     <li>to provide the ability of saving the results.</li>
+     </ul>
+     The main characteristics of the development are:
+     <ul>
+     <li>composition of the source data within one working directory;</li>
+     <li>flexibility in the choice for histogram constructing parameters such as: type of time series, data source, year and month, day and night time;</li>
+     <li>setting a frequency range;</li>
+     <li>saving the results in a bitmap image.</li>
+     </ul>
+      The results can be applied in research for time-frequency characteristics of time series given at one or several measurements per day using the tool of continuous wavelet transform. The software allows to extract information about the frequency distribution, which is not visible in an explicit form when wavelet transform matrices are visual­ized. If necessary, it can be modified to solve some scientific tasks, for example, for another wavelet function or time series with a different scale.
+      </p>
+   item_keywords: time-frequency analysis, software, histogram, continuous wavelet transform, Morlet wavelet function, meteorological time series
+   item_pages: 281–288.
+   item_citation: 'Kobzarenko D. N., Kamilova A. M., Shikhsaidov B. I. Automatic Tools for Construction Process of Frequency Distribution Histograms on the Results of Continuous Wavelet Transform by Morlet Function, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 281—288.'
+---

@@ -1,0 +1,79 @@
+---
+title: Issue N4 2019 year
+content:
+ - doi: 10.147-159
+   udk: "004.023"
+   item_authors: "Galatenko V. A., Viukova N. I., Kostyukhin K. A."
+   item_name: "Using Program Patterns for Parallel Programming. Base Concepts"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b>  N. I. Viukova</b>, niva@niisi.ras.ru, <b> K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on:  January 09, 2019
+   item_acc_on:  January 29, 2019
+   item_annot: |
+     <p> Program patterns as a tool of programming knowledge accumulation and usage are considered in this article in the context of parallel programming. They can serve as a basis for tests for evaulating performance of architectures and/ or productivity of programmers who develop new parallel applications or parallelize legacy code. Program patterns can be useful for developing and implementing hardware that supports concurrency. Program patterns are an effective tool for learning parallel programming. Performance measurement tests can be developed based on program patterns. The development, implementation and maintenance of parallel programs designed for distributed, heterogeneous configurations is a complex problem. The usage of program patterns helps to maintain programmers productivity at an economically acceptable level. This paper is the first part of work that contains results of analysis on program patterns implementations in various heterogeneous hardware-software systems. The authors will give the main concepts and definitions of program patterns and review existing architecture solutions such as program patterns for parallelizing on the operating systems level, distributed heterogeneous systems level and multikernel systems level. The second part of the work will consider the main mechanisms of applying program schemes when working with parallel systems.</p>
+   item_keywords: program patterns, parallel programming, distributed systems, review, heterogeneous systems, multikernel systems, parallelizing methods
+   item_pages: 147–159
+   item_citation: 'Galatenko V. A., Viukova N. I., Kostyukhin K. A. Using Program Patterns for Parallel Programming. Base Concepts, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp.147—159.'
+ - doi: 10.160-166
+   udk: "004.2"
+   item_authors: "Korneev V. V., Tarasov I. E."
+   item_name: "Peculiar Properties of Architecture of Parallel Application Specific Integral Circuit"
+   item_authors_address: |
+     <b> V. V. Korneev</b>, korv@rdi-kvant.ru, <b>I. E. Tarasov</b>, ilya_e_tarasov@mail.ru, Research and Development Institute Kvant, Moscow, 125438, Russian Federation
+   item_corr_author: 'Korneev Victor V., Principal Researcher, Research and Development Institute "Kvant", Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru'
+   item_rec_on:  December 03, 2018
+   item_acc_on:  February 01, 2019
+   item_annot: |
+     <p> A comparative analysis of computing device architectures, including those of a processor type, is given for organizing mass-parallel computing with an assessment of performance, efficient use of VLSI chip area and power consumption. Several architectures of computing devices intended for the implementation of parallel computing, including both non-programmable and programmable devices, are considered. The analysis shows that the considered architectures have a number of features that limit their use in problem-oriented VLSI, such as limited functionality, increased power consumption, inefficient use of the chip area, inefficient use of computing nodes in the process of algorithms. The process of designing problem-oriented VLSI should be performed using complex optimization according to the parameters determined at various design stages — from the choice of architecture to the topological implementation of VLSI. An approach to increase the productivity of development of problem-oriented VLSI based on the co-optimization of software and hardware components of the system with the requirements that are formed by reducing the design standards to 28 nm is presented. The approach is based on the use of system modeling, using both VLSI emulation at the level of the program model, and modeling at the register transfer level, with the parameters used to assess the quality of the project with respect to the selected optimality criteria. The use of system modeling with a preliminary assessment of the achievable characteristics of the hardware platform (area, clock frequency, power consumption) allows one to get a set of architecture options, including the number of nodes, memory size, instruction set, ALU structure. This approach is the basis for the development of appropriate modules or parameterization of ready-made solutions.</p>
+   item_keywords: VLSI, architecture, processor, computation
+   item_pages: 160–166
+   item_citation: 'Korneev V. V., Tarasov I. E. Peculiar Properties of Architecture of Parallel Application Specific Integral Circuit, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 160—166.'
+ - doi: 10.167-177
+   udk: "004.4"
+   item_authors: "Makarov V. L., Bakhtizin A. R., Beklaryan G. L., Akopov A. S."
+   item_name: "Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems"
+   item_authors_address: |
+     <b> V. L. Makarov</b><sup>1</sup>, makarov@cemi.rssi.ru, <b> A. R. Bakhtizin</b> <sup> 1</sup>, albert.bakhtizin@gmail.com, <b> G. L. Beklaryan</b> <sup> 1</sup>, lbeklaryan@gmail.com, <b> A. S. Akopov </b>  <sup> 1,2</sup>, akopovas@umail.ru
+     <br/><sup> 1</sup>CEMI RAS,
+     <br/><sup> 2</sup>National Research University Higher School of Economics, Moscow, Russian Federation
+   item_corr_author: "Akopov Andranik S., Professor, Chief Researcher, CEMI RAS, Professor, National Research University Higher School of Economics, Moscow, 101000, Russian Federation, E-mail: akopovas@umail.ru"
+   item_rec_on:  December 24, 2018
+   item_acc_on:  January 14, 2019
+   item_annot: |
+     <p> In this paper, a novel approach to designing software framework that is intended for large-scale simulation modelling of complex social systems is presented. Such systems require applying supercomputing and parallel computations technologies, as well as phenomenological descriptions of agent behavior and their interactions. An agent model of human crowd behavior in an airport has been developed, taking into account the influence of different factors, for example, the number of entries and exits, the number of check-in counters, the number passport control offices, the time of waiting for baggage and other characteristics. It allows defining the best values of important resource parameters of an airport that provide a dissipation of crowd clusters. A framework based on using parallel computations MPI (Message Passing Interface), programming language C++ and the boost library is designed. The feature of such approach is the comfortable procedure of developing, configuring and debugging models. At the same time, all main advantages of earlier known agent modelling systems (e.g. AnyLogic, NetLogo, Repast HPC, FLAME, etc.) are kept and provided with the possibility of using supercomputing technologies. Some simulation experiments are conducted and they demonstrate the possibility of dissipating human crowd clusters in the airport when improving some resource characteristics, e.g. increasing of check-in counters, adding new entry, etc. In the result, the efficiency of developed software framework for the implementation of large agent models of complex social systems is shown.
+     </p>
+   item_keywords:  agent-based modeling, social systems, parallel computations, crowd model, supercomputing technologies, С++, MPI, software framework for simulation modelling
+   item_pages: 167–177
+   item_citation: 'Makarov V. L., Bakhtizin A. R., Beklaryan G. L., Akopov A. S. Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 167—177. '
+ - doi: 10.178-185
+   udk: "004.051"
+   item_authors: "Nikolaev P. M."
+   item_name: "Using Thread Local Memory for Calculating B-Splines in Parallel Programming Tasks"
+   item_authors_address: |
+     <b> P. M. Nikolaev</b>, geom3d@gmail.com, Central Aerohydrodynamic Institute, Zhukovsky, 140181, Russian Federation
+   item_corr_author: " Nikolaev Prokopiy M., Head of Department, Central Aerohydrodynamic Institute, 140181, Zhukovsky, Russian Federation, E-mail: geom3d@gmail.com"
+   item_rec_on:  November 29, 2018
+   item_acc_on:  December 06, 2018
+   item_annot: |
+     <p> One of the main remaining problems in the multi-threaded programs development is the organization of asynchronous data access from different threads. The usage of locking objects is the standard method of synchronizing data access from different threads. Ensuring sequential access to shared data, locks reduces the degree of parallelism and decreases the overall performance of parallel algorithms. To reduce the number of locks, it is preferable to use a separate copy of the data for each running thread. The article discusses the method of dynamic allocation of memory associated with a specific thread. Thus, each executed thread has its own copy of the data and the need for synchronization disappears. The discussed method is implemented in the form of a C++ class that ensures the storage of a pointer to the memory local to the current thread and subsequent access to it. Pointers to the allocated memory are stored in an associative array. The access key is the identifier of the current thread. At the thread termination it is required to free the allocated memory associated with this thread. Based on the use of C++ threadlocal qualifier, a special mechanism has been developed for freeing the memory associated with the thread when it is completed. An example of using the developed class in calculating the values of B-splines in a multithreaded environment is given. It is shown that the use of standard synchronization methods (stack variables, critical sections) when using auxiliary arrays in the B-spline calculation algorithm has significant overheads. The use of the developed method reduces the need for synchronization objects and improves the performance of calculating B-splines in multi-threaded programs.
+     </p>
+   item_keywords: parallel programming, multithreaded execution, asynchronous data access, local thread storage, B-spline
+   item_pages: 178–185
+   item_citation: ' Nikolaev P. M. Using Thread Local Memory for Calculating B-Splines in Parallel Programming Tasks, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 178—185. '
+ - doi: 10.186-192
+   udk: "004.4"
+   item_authors: "Skvortsov A. A."
+   item_name: "The Use of Finite State Machines in the Development Built-In Systems User Interface"
+   item_authors_address: |
+     <b> A. A. Skvortsov</b>, skvalexei@mail.ru, Vyatka State University, Kirov, 610000, Russian Federation
+   item_corr_author: " Skvortsov Aleksey A., Associate Professor, Vyatka State University, Kirov, 610000, Russian Federation, E-mail: skvalexei@mail.ru"
+   item_rec_on:  November 28, 2018
+   item_acc_on:  January 21, 2019
+   item_annot: |
+     <p> The article discusses the simplification of the development of the user interface of embedded systems. The use of automata-based programming approach simplifies the development and improves the reliability of the user interface program of the built-in system. Simulating a user menu with multiple state machines reduces the memory footprint of the program code. Often at the present time in UI programming, embedded control systems apply the intricate nested or repeated cyclic design with various flags and switches. Such constructs make it difficult to read and especially modify the user interface, and lead to unexpected program states that are quite difficult to find and fix when debugging. Due to explicit state selection and transition between, automata-based programming will allow to restore order in UI programming and build reliable software for embedded multi-level custom menu. The aim of the work is to select the optimal method of finite state machines application in the development of the user interface of embedded systems. An example of the development of the user interface program for the control unit of a lifting electromagnet using automatic programming technology is given. We studied the simulation of the custom menu one state machine and multiple state machines. The use of automata-based programming made it possible to develop a simple, easy to read and easy to debug program code. Minimization of the graph automaton and the allocation of the sub-state machines have significantly reduced the amount of memory programs. Similarly, one can develop a program for the user interface of other control devices.
+     </p>
+   item_keywords: built-in system, development, interface, automata-based programming, switch-technology, modeling, state machine, microcontroller, UI programming, reliable software
+   item_pages: 186–192
+   item_citation: 'Skvortsov A. A. The Use of Finite State Machines in the Development Built-In Systems User Interface, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 186—192.'
+---

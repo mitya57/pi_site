@@ -1,0 +1,38 @@
+<%= render '/top_rus.html', :title => @item[:title] %>
+
+<%= render '/menu_rus.html' %>
+            <%= yield %>
+
+    <p class="main_content_title">Содержание выпуска</p>
+    <p><%= @item[:title] %></p>
+    <div class="issue_content">
+
+    <% unless @item[:full_text_link].nil? %>
+     <div class="full_text_link"><a href="full/<%= @item[:full_text_link] %>">Версия в формате PDF</a></div>
+    <%  end %>
+    
+    <% for @itm in @item[:content] %>
+     <div class="issue_item">
+
+      <% unless @itm[:item_authors].nil? %>
+       <div class="item_authors"><%= @itm[:item_authors] %></div>
+      <% end %>
+
+      
+      <div class="item_name">
+       <% if @itm[:item_authors].nil? %>
+        <%= @itm[:item_name] %>
+       <% else %>
+        <% if @itm[:doi].nil? %>
+          <a href="rus/10.17587/prin.<%= @itm[:link]%>.html"><%= @itm[:item_name] %></a>
+        <% else %>
+          <a href="rus/10.17587/prin.<%= @itm[:doi]%>.html"><%= @itm[:item_name] %></a>
+        <% end %>
+       <% end %>
+     </div>
+      <div class="item_pages">c. <%= @itm[:item_pages].gsub(/[ —]/, ' '=>'', '—'=>'-') %></div>
+     </div>
+    <% end %>
+ </div>
+
+<%= render '/buttom_rus.html' %>

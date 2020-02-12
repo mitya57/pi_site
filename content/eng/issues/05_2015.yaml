@@ -1,0 +1,77 @@
+---
+title: Issue N5 2015 year
+content:
+ - doi:
+   link: _5_2015_1
+   item_authors: Jacobson I., Seidewitz E.
+   item_authors_address: '<b> I. Jacobson</b>, Professor, Chairman, e-mail: ivar@ivarjacobson.com, <b>E. Seidewitz</b>, Chief Technology Officer, Ivar Jacobson International, Switzerland (Editor-translator B. A. Pozin, Professor, MIEM of National Research University Higher School of Economics, Chairman, SEMAT Russian Chapter, e-mail: bpozin@ec-leasing.ru)'
+   item_name: A New Software Engineering
+   item_annot: |
+      <p> The shortcomings of the existing state of software engineering, presents the main ideas and directions of "refounding" of software engineering as an engineering discipline. SEMAT kernel — a minimum set of entities of methodology or method (called alpha) and relations between them formulated. Defined set of characteristics of the states of alphas on the target software product creation with prescribed requirements to it. This provides an opportunity to systematically assess the "degree of progress" project and the "state of health" endeavor for its implementation. The ways of the phased development of software engineering as applied science are described.
+      </p>
+   item_keywords: SEMAT, SEMAT kernel, alpha, control states, method, practice, software system, area of concerns, control cards
+   item_pages: 3–9
+
+ - doi:
+   link: _5_2015_2
+   item_authors: Vasenin V. A., Krivchikov M. A.
+   item_authors_address: '<b>V. A. Vasenin</b>, Head of the Laboratory, e-mail: vasenin@msu.ru, <b>M. A. Krivchikov</b>, Researcher, e-mail: maxim.krivchikov@gmail.com, Institute of Mechanics, Lomonosov Moscow State University'
+   item_name: 'Formal Models of Programming Languages and Programs. Part 1. Literature Review: 1930—1989'
+   item_annot: |
+      <p> The main contribution of the present article is a historical literature review and a critical analysis of the publications on the following topics: the formal verification, formal models of software and the development of formally verifiable software. Publications on the listed topics are presented in a context of the software engineering development in general. The cited papers were published in the time frame of 1930-1989. One of the specific topic of interest of the presented research is the dependently-typed programming development from the untyped lambda-calculus to the calculus of constructions. The complexity introduced into general purpose programming languages from the formal verification point of view by the means of computational models having an inconsistent logical interpretation is noted. Fundamental results associated with the formal verification are also mentioned. In the last part of the article the commonly used distinction of the model-theoretic and the proof-theoretic (deductive) approaches to formal verification is considered.
+      </p><p>As a conclusion, two points are stated. In the first place, the representation of the specification and especially the program code in a mathematically rigorous way nowadays is probably the most complex part of the formal verification problem. In the second place, despite active research since late 1960s, construction of the formal semantics for a general-purpose programming language is still a complex task. It is possible that for this reason the formal descrption of the programming language is still not required by international standards organizations and commitees.
+      </p>
+   item_keywords: formal verication, programming languages, domain-specific languages, programming language formal semantics, software engineering, bibliography
+   item_pages: 10–19
+
+ - doi:
+   link: _5_2015_3
+   item_authors: Namiot D. E.
+   item_authors_address: '<b>D. E. Namiot</b>, Senior Research Fellow, e-mail: dnamiot@gmail.com, Lomonosov Moscow State University'
+   item_name: Metadata in Rest Models
+   item_annot: |
+      <p> This paper discusses the metadata support in software models based on Representational State Transfer (REST) approach. REST is, without a doubt, the most commonly used software architecture model. REST is simpler and often more attractive to developers, comparing with the Service Oriented Architecture. However, this simplification has led to the fact that the REST architecture skips such an element as a classic model of metadata. Consideration of why the metadata may be needed, and which tools can represent them in the REST architecture is the subject of this article. We specify the possible areas for metadata description in REST. The paper discusses the various existing approaches to the provision of metadata in REST, such as Blueprint API, Apiary, Mashery, WADL, HAL and RSDL. The most prospect areas for metadata in REST are Internet of Things and Machine to Machine applications.
+      </p>
+   item_keywords: web service, SOAP, REST, metadata
+   item_pages: 20–25
+
+ - doi:
+   link: _5_2015_4
+   item_authors: Kostyuk V. V., Baltsanu M. V.
+   item_authors_address: '<b>V. V. Kostyuk</b>, Professor, e-mail: kvv@rguitp.ru, <b>M. V. Baltsanu</b>, Student, Institute of innovative technologies and enterprise of MSUTM, Moscow'
+   item_name: Analysis of the Performance of a Single Modern Technologies to Interact of Applications with Relational Databases
+   item_annot: |
+      <p> This article reflects the results of research work to assess the performance of a single modern technology for applications to interact with relational databases. Were investigated three approaches: direct execution of SQL queries, object-relational projection and dynamic formation and execution of requests. Presented the configuration of the test stand and the test conditions. As conditions covers such topics as the subject area of business process (banking activities); the data object to be tested; used technologies and tools. For each of the three above approaches for applications to interact with relational databases identified the following four stereotype API: inserting records; modify records; locating records; destruction of records. For each stereotype API implemented mechanisms, generating six datasets containing at least 10% of the obviously erroneous data elements (1, 10, 100, 1000, 10 000, 50 000, respectively). These sets are created on the basis of generation of calls of web-service, worked out Java instrumental with the use of such facilities, as JUnit, DBUnit, IntelliJIDEA 11.1 CommunityEdition, IBMDataStudio, Wsimport (jax-ws) and others.
+      </p><p>During the procedure of stress testing observed the requirements for time to repeatedly perform tests. In tabular form the results of the research are presented. Based on the interpretation and analysis of these results, estimates of performance for each of the above stereotypes API and presents the functional areas most productive use of technology for applications to interact with relational databases.
+      </p>
+   item_keywords: technology, programming, integration, testing, relational databases, web services
+   item_pages: 26–31
+
+
+
+ - doi:
+   link: _5_2015_5
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_authors_address: '<b>I. O. Zharinov</b>, Associate Professor, Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of Learning-Scientists Center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, e-mail: igor_rabota@pisem.net, <b>O. O. Zharinov</b>, Associate Professor, Saint-Petersburg State University of Aerospace Equipment'
+   item_name: The Research of the Mathematical Model of Color Representation of LCD-panels
+   item_annot: |
+      <p> The mathematical model of color representation of LCD-panels is researched. The mathematical expressions describing the shifts of chromaticity coordinates for different samples of LCD panels by various manufacturers and by one the same manufacturer are presented. The mathematical expressions for calculation of the profile coefficients for any LCD-panel through the given values of coordinates of the chromatic triangle vertexes and white color point are presented. The results, obtained by mathematical simulation technique, are presented, demonstrating a possible use of two-dimensional normal distribution to describe chromaticity coordinates, which are random because of manufacturer's technological variations.
+      </p>
+   item_keywords: color coordinates, chromaticity coordinates, indication systems, model of color represntation, LCD-panel
+   item_pages: 32–42
+
+ - doi:
+   link: _5_2015_6
+   item_authors: Markova N. A.
+   item_authors_address: '<b>N. A. Markova</b>, Senior researcher, e-mail: MarkovaNatAlex@gmail.com, Institute of Informatics Problems, FRC CSC RAS, Moscow'
+   item_name: Support Technology for Specific Historical Studies on the Base of Fact-like Propositions Model
+   item_annot: |
+      <p> Specific historical studies represent researches of biographies, local history, institution history, genealogy, background of scientific and cultural explorations.
+      </p>
+      <p>The paper proposes a formal model of fact-like propositions that specify not only true statements, but suggestions, hypothesis, incomplete information, the results of analytic/synthetic processing of specific historical studies. The model fixes object characteristics both relational and literal. It takes into account temporal features and logical connectives. The model considers derivation chains from interpretation of sources through reasoning to representation of results in target documents.
+      </p><p>The model is the base of supporting IT. Short description of the tool named "Factograph" is provided. The current applications of "Factograph" consider Person, Institution, Geographical entity and Document as object classes. Nomenclature of object classes, nomenclature of their characteristics as well as their possible values and restrictions imposed on them are open and can be changed at any moment.
+      </p><p>Operations of "Factograph" have demonstrated high efficiency of the specific historical studies.
+      </p>
+   item_keywords: specific historical studies, object model, fact-like proposition, information technology
+   item_pages: 43–48
+---

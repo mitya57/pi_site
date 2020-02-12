@@ -1,0 +1,99 @@
+---
+title: Issue N9 2017 year 
+content:
+ - doi: 8.387-395
+   link: 8.387-395
+   udk: "004.41"
+   item_authors: "Khritankov A. S."
+   item_name: "Product Line Engineering: Standards and State-of-Practice"
+   item_authors_address: | 
+     <b> A. S. Khritankov</b>, anton.khritankov@acm.org, Moscow institute of physics and technology, Dolgoprudny, Moscow Region, 141701, Russian Federation
+   item_corr_author: " Khritankov Anton S., Associate professor, Moscow institute of physics and technology, Dolgoprudny, Moscow Region, 141701, Russian Federation, E-mail: anton.khritankov@acm.org"
+   item_rec_on: June 14, 2017 
+   item_acc_on:  June 20, 2017
+   item_annot: |
+     <p> A recent version of the ISO/IEC 26555 standard comes into force as a national standard in Russia in June 2017. The standard describes technical management processes for systems and software product lines. In this paper, we review the standard and the current state of research and industrial practice in the field.
+     Mass product customization in Industry 4.0, Industrial Internet (IoT), ubiquitous computing are major pillars in the Horizon 2020 programme of the EC. And this means there is need for a lot of customizable software systems. Software product lines may be the key.
+     While a popular topic worldwide, SPLE has missed attention in Russian Federation with only a few papers on the topic. Thus we briefly introduce main concepts of the SPLE such as product line, variability model, strategic reuse, reference architecture, feature and decision models, product configuration. Then we provide an example feature model built with FeatureIDE.
+     Applications of PLE include shared development of a family of products each targeting a specific market segment, development of a large evolving cyber-physical system with several versions delivered over time and a combination of both.
+     International standardization process started with a failed attempt of ISO/IEC 26520 series and continued with more successful ISO/IEC 26550-26564 standards, some of which is still under development. Russian national standardization committee adopted the SPL technical management ISO/IEC 26555:2013 as national standard in 2016, omitting other published standards in the series.
+     Extensions and additions to the standard should consider tracking rationale for the changes being introduced to the SPL configuration and variability model in particular. Another shortcoming is absence of a model for gradual introduction of the standard (e.g. capability or level-based). Process capability assessment may be governed by ISO/ IEC 33001, but this option is not mentioned in the standard.
+     Current research centers in SPLE are Univ. Litz, TU Darmstadt, Univ. Magdeburg, Univ. Passau and other in EU; Univ. Pernambuco, Univ. Namur, Univ. Bahia and other in Brazil; Univ. Waterloo, Univ. Toronto, SEI/CMU in US and Canada, several universities in China and South Korea. EU also runs a series of projects uniting research universities and commercial companies to help spread fresh developments in PLE, such as FAMILIES, VARIES and current REVAMP2 (2016-2019).
+     Major research directions are variability modeling and languages (with and without UML/SysML), verification and traceability, variability model extraction, concurrent evolution of variability models and assets, transition to clone-and-own and PLE, and, notably, model-based software engineering (MBSE) for SPLE.
+     Notable industrial users of SPLE are Siemens, Philips, General Motors, ABB Group with others following, including Thales and SAAB (through Celsius Tech).
+     Although PLE may be the next (old) big thing in software development to support mass customization through strategic reuse, it requires a considerable upfront investment and strong process discipline. Currently developed standards and available tools may help practitioners and tool vendors lower this investment to a level, manageable by small and mediun range companies.
+     </p>
+   item_keywords: Internet of Things (loT), PLE, product lines, ISO/IEC 26550, strategic reuse
+   item_pages: 387–395
+   item_citation: ' Khritankov A. S. Product Line Engineering: Standards and State-of-Practice, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 387—395.'
+ - doi: 8.396-406
+   link: 8.396-406
+   udk: "004.434"
+   item_authors: "Sukhov A. O."
+   item_name: "Domain-Specific Language for Visual Models Transformation Creation"
+   item_authors_address: | 
+     <b> A. O. Sukhov</b>, e-mail: ASuhov@hse.ru, National Research University Higher School of Economics, Perm, 614070, Russian Federation 
+   item_corr_author: " Sukhov Alexander O., Associate Professor, National Research University Higher School of Economics, Perm, 614070, Russian Federation, E-mail: ASuhov@hse.ru"
+   item_rec_on:  May 20, 2017 
+   item_acc_on:  June 14, 2017
+   item_annot: |
+     <p> Model-oriented approach to software development presumes the visual models usage at the process of software products creation. This approach can involve customer representatives, future users at the software development process. For automatic source code generation in the target language it is necessary to describe the rules for visual models transformation. There are various approaches to converting visual models: AGG, GReAT, VIATRA, QVT, ATL, MTBE, etc. However, they all make high requirements on the level of the users skill, so their use is difficult. In addition, most of them use only text languages to describe transformations.
+     The language workbench MetaLanguage is a tool for developing visual domain-specific languages, creating models using these languages and transforming created models.
+     To increase the functionality of the transformation component of the MetaLanguage language workbench, a text-based domain-specific language was developed to describe visual model transformations into other graphical notations or textual representation. The language contains the conditional statement, the loop statement, the ability to specify arithmetic expressions over the values of the model elements attributes, and predefined function call. Despite the fact that TDSLs constructions are similar to the corresponding high-level languages constructions, the language is not "cluttered" with unnecessary elements, which makes it easy to use and understand for different categories of users. The language interpreter is implemented in the MetaLanguage tool.
+     </p>
+   item_keywords: domain-specific language, model transformation, horizontal transformation, visual models, model-oriented approach, language workbench, MetaLanguage system, multilevel modeling, metamodel, graph grammars
+   item_pages: 396–406
+   item_citation: 'Sukhov A. O. Domain-Specific Language for Visual Models Transformation Creation, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 396-406'
+ - doi: 8.407-412
+   link: 8.407-412
+   udk: "517.9, 004.9"
+   item_authors: "Svetushkov N. N."
+   item_name: "Software Facilities for Heat Transfer Modeling in Geometrically Complex Objects"
+   item_authors_address: | 
+     <b> N. N. Svetushkov</b>, svetushkov@mai.ru, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation 
+   item_corr_author: " Svetushkov Nikolaj N., Associate Professor, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation, E-mail: svetushkov@mai.ru "
+   item_rec_on:  June 14, 2017 
+   item_acc_on:  June 28, 2017
+   item_annot: |
+     <p> The article contains a brief description of the developed software environment in the Visual C++ language intended for solving non-stationary heat conduction problems. To create geometric models, the cluster consolidation principle was used, which allows the user to create complex two-dimensional figures using intuitive operations. The presented description includes the actual method of clustering and its software implementation. To solve the heat conduction problem, we used an approach based on integral equations describing the heat transfer process. Its use made it possible to control the accuracy of calculations at each grid point. The paper demonstrates the capabilities of the software environment for assigning heterogeneous materials that have both a regular and an irregular structure. The results of the calculations can be represented both as numerical values and in the form of color maps, and also as three-dimensional surfaces, which makes it possible to get a visual representation of the temperature distribution function at each time layer and analyze critical thermal processes.
+     </p>
+   item_keywords: software environment, visualization, complex geometric objects, modeling, heat equation, integral equations, numerical methods, color maps
+   item_pages: 407–412
+   item_citation: ' Svetushkov N. N. Software Facilities for Heat Transfer Modeling in Geometrically Complex Objects, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 407—412.
+'
+ - doi: 8.413-421
+   link: 8.413-421
+   udk: "004.75"
+   item_authors: "Kurako E. A., Orlov V. L."
+   item_name: "Service Browsers for Information Systems"
+   item_authors_address: | 
+     <b> E. A. Kurako</b>, kea@ipu.ru, <b> V. L. Orlov</b>, e-mail: ovl@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation 
+   item_corr_author: "Kurako Evgeny A., Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: kea@ipu.ru"
+   item_rec_on:  April 24, 2017
+   item_acc_on:  May 12, 2017
+   item_annot: |
+     <p> Use of various types of clients in information systems is considered. The concept service browser, which interacts with the server by a call of services of various types and display of answers, is introduced. The general design scheme of service browsers is given. Experiments for comparison of REST and SOAP service browsers with the traditional HTML browser are made.
+     </p>
+   item_keywords: information system, web-client, browser, service-browser, REST, SOAP, HTML
+   item_pages: 413–421
+   item_citation: Kurako E. A., Orlov V. L. Service Browsers for Information Systems, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 413—421.
+ - doi: 8.422-432
+   link: 8.422-432
+   udk: "517.5, 004.4"
+   item_authors: "Astapov I. S., Astapov N. S."
+   item_name: "Algorithms for Symbolic Solving of Algebraic Equations"
+   item_authors_address: | 
+     <b> I. S. Astapov</b>, velais@imec.msu.ru, Institute of Mechanics Lomonosov Moscow State University, Moscow, 119192, Russian Federation, <b> N. S. Astapov</b>, nika@hydro.nsc.ru, Lavrentyev Institute of Hudrodynamics of Siberian Branch of Russian Academy of Sciences, Novosibirsk, 630090, Russian Federation
+   item_corr_author: " Astapov Nikolay St., Senior Researcher, Lavrentyev Institute of Hudrodynamics SB RAS, Novosibirsk, 630090, Russian Federation, E-mail: nika@hydro.nsc.ru"
+   item_rec_on:  June 08, 2017  
+   item_acc_on:  June 19, 2017
+   item_annot: |
+     <p> In physical and technical simulations there is often a need to express symbolically (not numerically) the roots of algebraic equations as functions of the symbolic coefficients of these equations for a subsequent study of the phenomena of interest. In many technical problems we have a cubic equation with three real roots. In this case the well-known solutions (Ferro-Tartaglias and Ferrari-Cardanos formulas) are difficult to implement accurately, since there is no efficient algorithm for finding the cube roots of a complex number. The general polynomial equations of degree five or higher have no solutions in radicals, although they can be expressed in terms of generalized hyper-geometric functions of the coefficients of these equations. However, some special types of equations, for example, xn - a = 0, can be solved in radicals. Therefore, it is important to find simple algorithms to solve algebraic equations, in particular, of degree three to eight.
+     The bulk of this work is devoted to factorizations of special polynomials of degree five and six. A modular equation is considered. A polynomial of degree six with a single coefficient parametrically dependent of the other arbitrary coefficients is factorized. Factorizations are found for some polynomials of higher degree. A study of symbolic solutions to a reciprocal equation has resulted in some new algorithms for solving equations of degree three and four. These algorithms are based on solutions to equations with discriminants and resolvents different from those of the original equations. New methods of reducing the equations of degree three and four to reciprocal equations are proposed. Particular attention is given to equations solved by square radicals. The performance of these methods is shown by a comparison with solutions generated in the software system Mathematica. 
+     These results can be used in the design of simple computer programs to be used as supplementary to the programs of exact symbolic solving of algebraic equations available in the conventional software.
+     </p>
+   item_keywords: reciprocal equations, solution in radicals, Cardano’s formula, resolvent, De Moivre’s polynomial, modular equation, computer algebra, software
+   item_pages: 422–432
+   item_citation: ' Astapov I. S., Astapov N. S. Algorithms for Symbolic Solving of Algebraic Equations, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 422—432.
+'
+---

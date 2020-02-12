@@ -1,0 +1,94 @@
+---
+title: Issue N1 2019 year 
+content:
+ - doi: 10.3-13
+   udk: "004.424.2"
+   item_authors: "Mitkin S."
+   item_name: "Automata-Based Programming in DRAKON Language"
+   item_authors_address: | 
+     <b> S. Mitkin</b>, Consultant, stipan.mitkin@gmail.com, ProsessPilotene AS, Asker, 1383, Norway 
+   item_corr_author: "Mitkin Stepan, Consultant, ProsessPilotene AS, Asker, 1383, Norway, E-mail: stipan.mitkin@gmail.com"
+   item_rec_on:  September 09, 2018  
+   item_acc_on:  October 23, 2018
+   item_annot: |
+     <p> A new method for visualization of finite automata (state machines) is proposed. This method combines automata with decision trees using the DRAKON algorithmic language.
+     DRAKON has visual branching and looping constructs that correspond to the building blocks of structured programming: if/then/else, switch/case, while/for. DRAKONs branching constructs follow strict ergonomic guidelines that help one build consistent and readable decision trees. Another feature of DRAKON is "silhouette" diagrams. A silhouette splits a large algorithm into smaller parts which are called "branches."
+     In the proposed method, the branches of a silhouette designate the states of an automaton. Each branch has all the information on the corresponding state including its name, the state-specific input symbols, the names of the next states. The branch also contains decision trees that represent the input symbol processing algorithms and state-switching logic. This kind of state machine diagrams is suitable for programming—the author has built a software tool that generates working programs from automata diagrams based on DRAKON.
+     The presence of decision trees on state machine diagrams produces several positive effects, such as a higher expression power and better readability of automata. Besides, the DRAKON language brings a standardized layout that makes diagrams predictable and easy to comprehend. These benefits together make automata more comfortable to work with and reduce the number of errors. As a result, automata-based programming becomes more practical and productive.</p>
+   item_keywords: automata-based programming, finite automaton, state machine, DRAKON language, event-driven system, visual programming, decision tree, software system behavior, state diagram
+   item_pages: 3–13
+   item_citation: 'Mitkin S. Automata-Based Programming in DRAKON Language, Programmnaya Ingeneria, 2019, vol. 10, no. 1,pp. 3—13'
+ - doi: 10.14-19
+   udk: "004.056.53"
+   item_authors: "Zakalkin P. V., Mеl’nikov P. V., Gorunov M. N., Borzov R. V."
+   item_name: "Approach to Development of the Analyzer of Source Texts of Programs on the Basis of LLVM"
+   item_authors_address: | 
+     <b> P. V. Zakalkin</b>, ansmed82@mail.ru, <b> P. V. Melnikov</b>, ansmed82@mail.ru, <b> M. N. Gorunov</b>, brviktorov@mail.ru, <b> R. V. Borzov</b>, brviktorov@mail.ru, Academy of the Federal Guard Service of the Russian Federation, Orel, 302034, Russian Federation 
+   item_corr_author: " Zakalkin Pavel V., Employer, Academy of the Federal Guard Service of the Russian Federation, Orel, 302034,  Russian Federation, E-mail: ansmed82@mail.ru"
+   item_rec_on:  October 24, 2018 
+   item_acc_on:  November 06, 2018
+   item_annot: |
+     <p> Despite the variety of decisions in the field of source code analysis, separate means do not allow to fully meet requirements to structure and content of checks of case studies. This circumstance forces experts of testing laboratories to use a set of various tools for the analysis and to be engaged in development of own automation equipment of technological process. The important part at the same time is assigned to the means of search of defects (shortcomings) and vulnerabilities of a program code bearing a threat to security of the processed information assets.
+     In this work an approach to development of the analyzer of source texts of programs using the LLVM/Clang tools by means of Python binding is described. The proposed solution provides correct analysis of source text files on separate components (taking their structure and interrelations into account), allows one to avoid errors of sensors inserting and provides an effective implementation of algorithms for vulnerabilities search from the list of actual CWEs.</p>
+   item_keywords: source texts of programs, defects of a code, static analysis, dynamic analysis, symbolical execution of a code, LLVM, Clang, Python binding, search of vulnerabilities, undeclared opportunities, the analyzer of source texts
+   item_pages: 14–19
+   item_citation: "Zakalkin P. V., Mel'nikov P. V., Gorunov M. N., Borzov R. V. Approach to Development of the Analyzer of Source Texts of Programs on the Basis of LLVM, Programmnaya Ingeneria, 2019, vol. 10, no. 1, pp. 14—19."
+ - doi: 10.20-29
+   udk: "004.056"
+   item_authors: "Levonevskiy D. K., Vatamaniuk I. V., Malov D. A."
+   item_name: "Ensuring the Availability of Services of the Corporate Intellectual Space by Controlling the Flow of Input Data"
+   item_authors_address: | 
+     <b>D. K. Levonevskiy</b>, DLewonewski.8781@gmail.com, <b>I. V. Vatamaniuk</b>, vatamaniuk@iias.spb.su, <b> D. A. Malov</b>, malovdmitrij@gmail.com, St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
+   item_corr_author: " Levonevskiy Dmitriy K., Researcher, St. Petersburg Institute for Informatics and Automation of Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation, E-mail: DLewonewski.8781@gmail.com "
+   item_rec_on:  August 15, 2018 
+   item_acc_on:  August 20, 2018
+   item_annot: |
+     <p> This paper considers providing availability of the corporate smart space services. Intended and unintended impacts on the smart space, such as conflicting user requests, exhaustion of resources, network attacks are considered availability threats.
+     In order to estimate availability, it is proposed to measure parameters that determine quality of experience (QoE) and, in particular, quality of service (QoS). Such parameters include, for instance, average delays, average request processing times, denial rates.
+     As an example, the paper discusses the process of communication between users and the information service of MINOS (Multimodal Information and Navigation Cloud System). Users can send requests to the service using various modalities such as speech, gestures, or control the service using their mobile devices or personal computers. In conditions of availability threats the service may be unable to allocate the required resource for all pending requests. In this case, it is necessary to find the optimal strategy of request processing that will maximize the QoS values. The optimality of strategies depends on a set of parameters (request and resource intensity, number of users, etc.).
+     A mass queuing model was built to conduct the experiments. These experiments simulate different strategies of processing requests and methods of their filtering. The experiments show that the effect estimate has maximum values depending on the conditions of the applied system operating. Thereby, the task of determining the parameters of control strategies and filtering methods can be represented as an optimization task in a multidimensional space. The changing conditions of operating may be taken into account using adaptive approaches. The conducted research helps improving the quality of service and user experience in human-computer interaction in corporate smart spaces by means of providing the availability of the smart space services.
+     </p>
+   item_keywords:  smart spaces, multimodal interfaces, corporate information systems, information and navigation systems, cloud systems, computer security, availability
+   item_pages: 20–29
+   item_citation: ' Levonevskiy D. K., Vatamaniuk I. V., Malov D. A. Ensuring the Availability of Services of the Corporate Intellectual Space by Controlling the Flow of Input Data, Programmnaya Ingeneria, 2019, vol. 10, no. 1, pp. 20—29'
+ - doi: 10.30-37
+   udk: "004.89"
+   item_authors: "Burlaeva E. I., Pavlysh V. N."
+   item_name: "Analysis of Methods for Converting Texts into the Form of Objects in a Vector Space"
+   item_authors_address: | 
+     <b> E. I. Burlaeva</b>, ekaterina0853@mail.ru, <b> V. N. Pavlysh</b>, pavlyshvn@mail.ru, Donetsk National Technical University, Donetsk, 83008, Donetsk region 
+   item_corr_author: " Burlayeva Ekaterina I., Graduate Student, Donetsk National Technical University, Donetsk, 83008, Donetsk region, E-mail: ekaterina0853@mail.ru"
+   item_rec_on:  June 26, 2018  
+   item_acc_on:  September 05, 2018
+   item_annot: |
+     <p> In the modern world, the amount of information is constantly growing. A large part of it is unstructured text data. It is difficult for a person to independently process them. Moreover, manual analysis is ineffective for large volumes of text, since it is limited by speed, errors and errors due to the human factor. Therefore, methods that can automatically handle such data are required. One of the technologies for processing textual information is the automatic classification of text documents. The traditional representation of a document in the form of a sequence of symbols makes it difficult to work with it as an object of classification. Most machine learning algorithms work with documents as elements of a vector space, which determines the need for a corresponding transformation of texts into a vector object form.
+     In this paper, we consider the possibilities of reducing the dimension of vectors for searching in the textual body of descriptions of close fragments of knowledge and linguistic forms of their expression.
+     Some of the methods that reduce the dimensionality of the vector for automatic classification of the text are considered, their advantages and disadvantages are highlighted, which can serve as a starting point for the development of more effective approaches. So, to reduce the dimension of vectors, combinations of text preprocessors.
+     </p>
+   item_keywords: vector representation, text document, word, composition of methods, tf-idf, classification, "Stemming", "Stop words", "Lower boundary"
+   item_pages: 30–37
+   item_citation: ' Burlaeva E. I., Pavlysh V. N. Analysis of Methods for Converting Texts into the Form of Objects in a Vector Space, Programmnaya Ingeneria, 2019, vol. 10, no. 1, pp. 30—37'
+ - doi: 10.38-46
+   udk: "81'32+004.8"
+   item_authors: "Pletneva M. V."
+   item_name: "Software System for Text Sentiment Analysis Based on Sentiment Lexicons"
+   item_authors_address: | 
+     <b> M. V. Pletneva</b>, pletneva.mv.kirov@gmail.com, Vyatka State University, Kirov, 610000, Russian Federation 
+   item_corr_author: " Pletneva Maria V., Assistant, Vyatka State University, Kirov, 610000, Russian Federation, E-mail: pletneva.mv.kirov@gmail.com"
+   item_rec_on:  July 03, 2018  
+   item_acc_on: July 30, 2018
+   item_annot: |
+     <p> The article is devoted to the problem of automatic text sentiment analysis. Under the text sentiment the authors emotional attitude, expressed in the text is meant. There is a wide range of areas where sentiment analysis is applied, including political, sociological and marketing research, the search engines, the human-computer interfaces.
+     The task of sentiment analysis is complicated by the strong dependence of the sentiment expressions on the context and domain, the presence of sarcasm and irony. To solve this problem the following approaches are used: a knowledge-based approach; machine learning and combined approach. Each of these approaches has advantages and disadvantages. In this article a combined approach is used.
+     The article proposes the structure of the software system for text sentiment analysis based on sentiment lexicons. The structure includes four main subsystems, namely text preprocessing, sentiment lexicon generation, sentiment lexicon parameters determination and classification subsystems. The implementation of this system is considered in accordance with the object-oriented approach. Main classes and their relations are described with UML class diagram.
+     The results of developed systems experimental research are presented. The research is performed using the text corpora of movies and books reviews, provided by organizers of ROMIP-2011 and ROMIP-2012 seminars. These results show the superiority of the proposed system over widespread machine learning methods. The developed system can be used as a standalone application for summarizing opinions on the text corpora. It is possible to integrate the main part of the system into search services, focused on the preparation of recommendations based on the text sentiment analysis.
+     </p>
+   item_keywords: natural language processing, opinion mining, text sentiment analysis, sentiment lexicons, software system, class diagram
+   item_pages: 38–46
+   item_comment: ' This work was supported by the Ministry of Education and Science of the Russian Federation (the project No. 34.2092.2017/4.6 "Research and Development of Sentiment Lexicons for Text Sentiment Analysis")'
+   item_citation: Pletneva M. V. Software System for Text Sentiment Analysis Based on Sentiment Lexicons, Programmnaya Ingeneria, 2019, vol. 10, nо. 1, pp. 38—46'
+ - doi:
+   link: 10.47-48
+   item_name: "Index of articles published in the journal 'Software Engineering' in 2018"
+   item_pages: 47–48
+---

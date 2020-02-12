@@ -1,0 +1,81 @@
+---
+title: Issue N8 2012 year
+content:
+ - doi:
+   link: _8_2012_1
+   udk: '004.052.32'
+   item_authors: Korablin Yu. P., Pavlov E. G.
+   item_name: Development of Synchronization Objects verifier for Linux Device Drivers Based on Process Semantics
+   item_authors_address: ' <b> Yu. P. Korablin </b>, e-mail: y.p.k@mail.ru, <b> E. G. Pavlov </b>, e-mail: lucenticus@gmail.com '
+   item_annot: |
+     <p> This article describes the tool for finding problem with synchronization of drivers in Linux. This tool uses a method of detecting error basis on semantic models and allows you to detect such synchronization errors as infinity loops, deadlocks, and double locks. In addition, describe the process semantics of synchronization objects of Linux kernel in the language of asynchronous functional schemes
+     </p>
+   item_keywords: verification, device drivers, communicating sequential processes, equational characterization, algebraic semantics
+   item_pages: 2–9
+ - doi:
+   link: _8_2012_2
+   udk: "004.4'422"
+   item_authors: "Galatenko V. A., V'ukova N. I., Kostukhin K. A., Shmyrev N. V."
+   item_name: Experience in the Use of Adaptive Compilation to Optimize Critical Applications
+   item_authors_address: " <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru, <b> N. I.V'ukova </b>, e-mail: niva@niisi.msk.ru, <b> K. A. Kostukhin </b>, e-mail: kost@niisi.msk.ru, <b> N. V. Shmyrev </b>, e-mail: shmyrev@niisi.msk.ru"
+   item_annot: |
+     <p> The article discusses methods to optimize the performance of adaptive change in line with the profiling data on the frequency of execution of code segments and the values assigned to the program variables. The arcticle contains various examples and results of the optimizations by the profile.
+     </p>
+   item_keywords: optimization, adaptive compilation, profiling
+   item_pages: 10–15
+ - doi:
+   link: _8_2012_3
+   udk: '004.432'
+   item_authors: Beltov A. G., Zhukov I. U., Mikhaylov D. M., Zuykov A. V., Froimson M. I., Rapetov A. M., Kuzin A. A.
+   item_name: The Effectiveness of the Programming Languages C++ and Java for Writing Applications for OS Android.
+   item_authors_address: ' <b> A. G. Beltov </b>, <b> I. U. Zhukov </b>, e-mail: i_zhukov@cniiesu.ru,<b> D. M. Mikhaylov </b>, e-mail: mr.mdmitry@gmail.com,<b> A. V. Zuykov </b> <sup> 2</sup>, e-mail: avzuykov@gmail.com,<b> M. I. Froimson </b> <sup> 2</sup>, e-mail: froimsonm@gmail.com,<b> A. M. Rapetov </b> <sup> 2</sup>, e-mail: willir29@yandex.ru,<b> A. A. Kuzin</b> <sup> 2</sup>, e-mail: akudiyar@gmail.com'
+   item_annot: |
+     <p> This paper is devoted to the description of the effectiveness of writing applications on programming languages Java and C++ for Android platform. In the article such parameters as the use of memory and the speed of program implementation are analyzed. All the advantages and disadvantages of Java and C++ are viewed. Finally, the conclusion about the suitability of mixed-use programming languages is made.
+     </p>
+   item_keywords: Java, C/C++, implementation, decompile, efficiency, memory, code
+   item_pages: 16–19
+ - doi:
+   link: _8_2012_4
+   udk: '378:004.77'
+   item_authors: Kharlamov A. A., Smirnov S. A., Sergievski N. A., Zhonin A. A.
+   item_name: 'Intellectual Services in Digital Libraries: an Adaptive User-Oriented System for Content Classification'
+   item_authors_address: '<b> A. A. Kharlamov </b>, e-mail: kharlamov@analyst.ru, <b> S. A. Smirnov </b>, <b> N. A. Sergievski </b>, e-mail: dereyly@gmail.com, <b> A. A. Zhonin </b>'
+   item_annot: |
+     <p> The paper reviews digital libraries' services. It is shown that one of the main tendencies of the development of digital c libraries' services is connected with personalization — adaptation to the user's interests. As a solution a new approach to automatic content analysis and an automatic system for content classification is suggested. It is based on the technology and solutions already worked out and implemented in the system Textanalyst. The paper describes the work of the system, results of testing, recommendations are given for using it in the electronic environment of digital libraries.
+     </p>
+   item_keywords: digital libraries, adaptive services, personalization, automatic classification, program system, experimental testing, a technique
+   item_pages: 20–28
+ - doi:
+   link: _8_2012_5
+   udk: '004.05'
+   item_authors: Baranyuk V. V., Tyutyunnikov N. N.
+   item_name: Assessment of the Quality of Electronic Dictionaries and Encyclopedias
+   item_authors_address: '<b> V. V. Baranyuk </b>,  <b> N. N. Tyutyunnikov </b>,  e-mail: tutunnikov_nn@cniieisu.ru'
+   item_annot: |
+     <p> The paper presents approach that the authors have used to assess quality electronic dictionaries and encyclopedias on the basis of methodology qualimetry. Assessment methodology includes stage for determining the purpose of the evaluation, selection of the range of quality indicators, the base sample and the methods of determining the values of quality indicators for determining the values of quality indicators and assessment of scientific and technical level. The evaluation was conducted of 54 electronic dictionaries and encyclopedias, developed over the last 10—15 years by different companies.
+     </p>
+   item_keywords: quality, qualimetry, electronic publications 
+   item_pages: 29–37
+ - doi:
+   link: _8_2012_6
+   udk: '004.9'
+   item_authors: Popov A. A.
+   item_name: Programming Technique in the Java Language of Simulators for Mathematics with Control of Separate Symbols in Analytical Transformations
+   item_authors_address: '<b> A. A. Popov </b>,  e-mail: apopov@vvoi.ru'
+   item_annot: |
+     <p> The approach, in which analytical solution of the differential is offered the equations it is presented in the form of the massif of strings of the Java language with specially the coded sequences of symbols. To each symbol of a string its graphic representation including is put in compliance value of a symbol, its coordinates, the sizes, colour and the signs defining accessory of a symbol to numerator or a denominator of fraction. Transformed data for each symbol are collected to massives which are a basis for the illustrating programs, teaching programs and training programs. Features of programming are considered and examples of realisation are given the linear differential equations at their decisions methods of Lagrange and Bernulli-Fourier
+     </p>
+   item_keywords: programming, language Java, standard solution, teaching programs, training programs, differential equations, Lagrange method, Bernoulli-Fourier method
+   item_pages: 38–43
+ - doi:
+   link: _8_2012_7
+   udk: '669.18.046.554:004.42'
+   item_authors: Tutarova V. D., Snegirev Y. V.
+   item_name: Increasing Computer System Resource Utilization Efficiency Based on the Example of Melting of Reagents in Steel Ladle Evaluation
+   item_authors_address: '<b> В. Д. Тутарова</b>,  <b> Ю. В. Снегирев</b>, e-mail: y.v.snegirev@gmail.com'
+   item_annot: |
+     <p> The article describes the choosing of means for melting of reagents in steel ladle evaluation during in metallurgical production. Research problem was proved, the aims were set, the tasks were worked out, their solution and results were given.
+     </p>
+   item_keywords: mathematical modeling, secondary metallurgy, thermophysical processes, reagents melting, memory allocation, multithread processing
+   item_pages: 44–47
+---

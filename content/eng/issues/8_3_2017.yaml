@@ -1,0 +1,111 @@
+---
+title: Issue N3 2017 year 
+content:
+ - doi: 8.99-111
+   link: 8.99-111
+   udk: "519.682.2"
+   item_authors: "Shelekhov V. I., Tumurov E. G."
+   item_name: "Applying Automata-based Software Engineering for the Lift Control Program"
+   item_authors_address: | 
+     <b> V. I. Shelekhov</b>, vshel@iis.nsk.su, <b>  E. G. Tumurov</b>, erdemus@gmail.com, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+   item_corr_author: " Shelekhov Vladimir I., Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation, E-mail: vshel@iis.nsk.su "
+   item_rec_on:  December 8, 2016  
+   item_acc_on:  December 15, 2016
+   item_annot: |
+     <p> Automata-based software engineering is intended to develop the simple, reliable, and effective programs from the class of reactive systems. A formal rule-based language is used for a specification of functional requirements of a reactive system. This specification language is easily translated to the automata-based programming language that extends the predicate programming language P. In this article, automata-based methods of software engineering are presented in the form of true balance between integrated automata-based, predicate, and object-oriented software engineering. These methods are applied for the lift control programs, which are often used for illustration of new software engineering methods.
+     The lift control program is not trivial. Being automata-based in general, it includes fragments that are not automata-based and should be programmed in other paradigms. To simplify the complex environment of the lift control program, only objects of the Lift class interface are used in the main program. The implementation of the Lift class hides numerous details of the environment. The lift control program presented is the most easy and short among other six lift control programs demonstrated in the articles and books as illustrations of different successful methods. There are three factors why our lift control program is the best: hypergraph automata composition of the program with the usage of the hyperfunctions, hiding detail inside Lift, and development primitives outside of automata-based engineering.
+     </p>
+   item_keywords: program comprehension, automata-based software engineering, reactive system, requirement engineering, requirement specification
+   item_pages: 99–111
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00498.'
+   item_citation: ' Shelekhov V. I., Tumurov E. G. Applying Automata-based Software Engineering for the Lift Control Program, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 99—111.'
+ - doi: 8.112-119
+   link: 8.112-119
+   udk: "004.04 + 004.4"
+   item_authors: "Dimitrov V. M., Voronin A. V., Bogoiavlenskii Iu. A."
+   item_name: "Laconic Object  Query Language Using Features of Object Model"
+   item_authors_address: | 
+     <b> V. M. Dimitrov</b>, dimitrov@cs.petrsu.ru, <b> A. V. Voronin</b>, voronin@petrsu.ru, <b> Iu. A. Bogoiavlenskii</b>, ybgv@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: " Dimitrov Vycheslav M., Senior Lecturer, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: dimitrov@cs.petrsu.ru"
+   item_rec_on: December 22, 2016 
+   item_acc_on:  December 27, 2016
+   item_annot: |
+     <p> The article presents a concise query language — Laconic Object Query Language (LaOQL) that allows one to reduce text length of a query to object-oriented database (OOBD), and thus the time for its preparation. For example, if an object-oriented database OOBD contains information about the network, this intensive sending of queries to the data base is required for searching for sources of traffic anomalies, the studying of configuration, and for solving of other similar network management tasks. In such circumstances, the brevity of the query text can significantly improve productivity of an OOBD user (in this example, an administrator or a network researcher) and reduce the possibility of errors in the query text, as well. Our ideas for reaching concise are: removing writing links between object entities; using laconic names for object entities; using the default property values; using laconic notation for complex conditions.</p>
+   item_keywords: object-oriented database system, query language, network
+   item_pages: 112–119
+   item_citation: ' Dimitrov V. M., Voronin A. V., Bogoiavlenskii Iu. A. Laconic Object Query Language Using Features of Object Model, Programmnaya Ingeneria, 2017, vol. 8, no. 3, рр. 112—119.'
+ - doi: 8.120-128
+   link: 8.120-128
+   udk: "004.04 + 004.4"
+   item_authors: "Levonevskiy D. K., Vatamaniuk I. V., Saveliev A. I."
+   item_name: "MINOS Multimodal Information and Navigation Cloud System for the Corporate Cyber-Physical Smart Space"
+   item_authors_address: | 
+     <b> D. K. Levonevskiy</b>, DLewonewski.8781@gmail.com, <b> I. V. Vatamaniuk</b>, vatamaniuk@iias.spb.su, <b>  A. I. Saveliev</b>, antoni-fox@yandex.ru, Saint-Petersburg Institute for Informatics and Automation of Russian Academy of Science, Saint Petersburg, 199178, Russian Federation 
+   item_corr_author: " Levonevskiy Dmitriy K., Researcher, Saint Petersburg Institute for Informatics and Automation of Russian Academy of Science, Saint Petersburg, 199178, Russian Federation, E-mail: DLewonewski.8781@gmail.com"
+   item_rec_on: August 03, 2016 
+   item_acc_on: December 13, 2016
+   item_annot: |
+     <p> The topic of the article is the architecture of MINOS corporate multimodal information and navigation system, and description of the system components and functioning of a corporate television subsystem. The applied Digital Signage (DS) technology is widely used for transmission of the advertising content and marketing, as well as in education, corporate communications, and multiuser negotiation systems.
+     The survey presents several examples of DS technologies in information systems for various purposes. The developed infrastructure for operation of the system, including 4 stationary monitors, 4 nettops, network equipment, a web server, and a database server, is also presented. The client and the server software for managing of the corporate TV system software ensure administration and support for the relevant content through the web interface.
+     Scenarios of using the system for different categories of users, as well as the principles of content management, which is displayed on the screen, based on special signals and events generated by time stamp or by the results of the user interaction, are considered. The primary function of the server is a dynamic formation of the schedules for the media files displayed on the screens. A schedule is an ordered list (queue). New media files are added to the end of the queue, while the media played from its beginning on the screens are excluded from the queue. The corporate TV system broadcasts information to the stationary screens (client systems) in accordance with the schedule, which is updated by the server dynamically based on a number of active events. In the corporate television system, each screen is characterized by an identifier, a description, an access key, a mode of operation and has its own schedule. The screens can be combined into groups and control all the screens in the same group as a single screen. Scenarios of using the system for different categories of users, as well as the principles of content management, which is displayed on screen, based on special signals and the events generated by time stamp or by the results of the user interaction, are considered.
+     The further area for development is interactivity and personalization of the corporate television system by integrating it with the system of the biometric and RFID identification of the users. For each employee, who is automatically recognized, the corporate TV system will provide the output of the personalized information.
+     It is expected to implement the management of the information output by means of gestures and speech. Another direction for development of the system is a navigation service, which allows a visitor to determine his (hers) location in the organization by scanning labels with QR-codes. A web application allows the visitor to orientate himself (herself) in the organization, using a laptop computer, and get the necessary background information.
+     </p>
+   item_keywords: cyber-physical systems, multimodal interfaces, corporate information systems, information and navigation systems, cloud systems
+   item_pages: 120–128
+   item_comment: 'This work was supported by the Russian Science Foundation, project no. 15-18-00047 and by the Saint Petersburg Institute for Informatics and Automation of Russian Academy of Science (project no. 0073-2015-0005).'
+   item_citation: ' Levonevskiy D. K., Vatamaniuk I. V., Saveliev A. I. MINOS Multimodal Information and Navigation Cloud System for the Corporate Cyber-Physical Smart Space, Programmnaya Ingeneria, 2017, vol. 8, no 3, pp. 120—128.'
+ - doi: 8.129-135
+   link: 8.129-135
+   udk: "004.4"
+   item_authors: "Leonovets S. A., Gurjanov A. V., Shukalov A. V., Zharinov I. O."
+   item_name: "Software for Automating the Process of Preparing the Text Design Documentation for the Program-Driven Products"
+   item_authors_address: | 
+     <b> S. A. Leonovets</b> <sup> 1,2</sup>, e-mail: ser2694@ya.ru, <b> A. V. Gurjanov</b> <sup>1 </sup>, e-mail: postmaster@elavt.spb.ru, <b> A. V. Shukalov</b> <sup> 1,2</sup>, e-mail: aviation78@mail.ru, <b> I. O. Zharinov</b><sup>  1,2</sup>, e-mail: igor_rabota@pisem.net
+     <sup> 1 </sup> Design Bureau "Electroavtomatika", Saint Petersburg, 198095, Russian Federation,
+     <sup> 2</sup>  Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation 
+   item_corr_author: " Zharinov Igor O., Chef of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation, E-mail: igor_rabota@pisem.net"
+   item_rec_on:  November 18, 2016 
+   item_acc_on:  December 06, 2016
+   item_annot: |
+     <p> The task of automatically preparing the text design documentation by means of a specialized software is considered. Automation of process of preparation of documentation is based on processing the engineering data, given in the specifications and technical documentation or in the specification. Processing of engineering data assumes the analysis of the structured electronic documents prepared in widespread formats according to templates on the basis of industry standards and generating the text design document by an automated method. The nomenclature of the developed design documents and an example of data handling for generation of the text document are provided in the form of a graph. The new developed software and the work benches available to the developer in project activities are described.      </p>
+   item_keywords: design documentation, automation, text document, generation
+   item_pages: 129–135
+   item_citation: ' Leonovets S. A., Gurjanov A. V., Shukalov A. V., Zharinov I. O. Software for Automating the Process of Preparing the Text Design Documentation for the Program-Driven Products, Programmnaya Ingeneria, 2017, vol. 8, no. 3, pp. 129—135.'
+ - doi: 8.136-139
+   link: 8.136-139
+   udk: "519.688, 669.14.242"
+   item_authors: "Svetushkov N. N."
+   item_name: "Meta-Language for 3D-Objects Description in Applied Information Systems"
+   item_authors_address: | 
+     <b> N. N. Svetushkov</b>, e-mail: svetushkov@mai.ru, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation 
+   item_corr_author: " Svetushkov Nikolaj N., Associate Professor, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation, E-mail: svetushkov@mai.ru"
+   item_rec_on:  November 11, 2016 
+   item_acc_on:  December 02, 2016
+   item_annot: |
+     <p> The article is devoted to the new approach to create complex three-dimensional objects, based on the principle of linking component parts. There is basic (conceptual) description of developed meta-language that is for creating three-dimensional objects with simplified graphical editor without excessive requirements for memory (RAM) and computer performance. This option is rather significant when using the software in operating systems such as Android. The main provisions of the meta-language are based on ability to establish links between the individual parts or objects, so it provides the main advantage for modifying model: one should not care about the integrity of the entire facility. The most important advantage of the development system is its open code so there is a possibility for the programmer-developer to use created objects in any programs written in C++ (when linked freely available DirectX library). This approach is based on the conjunct classes that support language tokens, so there is a clear way for including their own three-dimensional objects in applications, thus increasing the commercial attractiveness of established software. Developed and implemented in C++ this approach has shown to be effective in the creation of applied information systems that require a graphical illustration. There are some examples of the use of this language and finally three-dimensional model of the spacecraft "Spectr-RG", which was created for the special information system for processing of telemetry data.
+     </p>
+   item_keywords: 3D graphics, language, applied software, DirectX, information systems
+   item_pages: 136–139
+   item_citation: ' Svetushkov N. N. Meta-Language for 3D-Objects Description in Applied Information Systems, Programmnaya Ingeneria, 2017, vol. 8, no. 3, pp. 136—139.'
+ - doi: 8.140-144
+   link: 8.140-144
+   udk: "512.563.6"
+   item_authors: "Ivanov I. Yu."
+   item_name: "Contrapositive Inference Rule Application in Solving of Production-Logical Equations on Boolean Lattice"
+   item_authors_address: | 
+     <b> I. Yu. Ivanov</b>, hour1scorp@gmail.com, Voronezh State University, Voronezh, 394018, Russian Federation 
+   item_corr_author: " Ivanov Ilya Yu., Postgraduate Student, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: hour1scorp@gmail.com"
+   item_rec_on:  December 03, 2016
+   item_acc_on:  December 20, 2016
+   item_annot: |
+     <p> An algebraic approach to zero-order production logic interpretation is based on modelling inference process by finding connections between mathematical lattices elements (LP-inference). An algebraic structure arising in this approach is an LP-structure — boolean lattice with additional binary relation defined over it. An additional relation is built using recursive rules that reflect natural rules of logical inference.
+     Authors previous works advance this approach by introducing the concept of production-logical equations on boolean lattice and proposing the method for solving such equations which corresponds to inference in zero-order logic. This method ignores the usage of contrapositive inference rule that is natural for zero-order logic as the other inference rules defined in LP-structures theory.
+     This paper provides additional research on inference process bringing the ability to use the contrapositive rule to the concept of production-logical equations on boolean lattice. The theorem proved allows applying the previously obtained results regarding production-logical equations on boolean lattice without amendments by simply replacing an initial relation over lattice with its contrapositive closure. It is also shown that such a replacement does not affect an initial set of lattice.
+     The practical significance of the provided study is connected with applying production-logical equations for building production systems that use logical connections of zero-order propositional language in its rules. Adding contrapositive rule to the process of inference will allow one to reduce the number of queries to the external source of information by exhaustive usage of knowledge from an initial set of rules.
+     </p>
+   item_keywords: zero-order logic, LP-structure, LP-inference, boolean lattice, inference rules, logical relation, initial set of lattice, production-logical equation
+   item_pages: 140–144
+   item_comment: 'This work has been supported by grant 15-07-05341 from the Russian Foundation for Basic Research. '
+   item_citation: ' Ivanov I. Yu. Contrapositive Inference Rule Application in Solving of Production-Logical Equations on Boolean Lattice, Programmnaya Ingeneria, 2017, vol. 8, no. 3, pp. 140—144. '
+---

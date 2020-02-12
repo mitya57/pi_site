@@ -1,0 +1,70 @@
+---
+title: Issue N2 2012 year
+content:
+ - doi:
+   link: _2_2012_1
+   udk: '004.4'
+   item_authors: Vasenin V. A.
+   item_name: Modernization of Economics and New Aspects of Software Engineering
+   item_authors_address: ' <b> V. A. Vasenin </b>, e-mail: vasenin@msu.ru '
+   item_annot: |
+     <p> The key function of software engineering (SE) in modernization of economics at modern postindustrial stage of the development of a society is analyzed. The basic stages of SE formation as a result of evolution of computer science, methods and means of accompaniments of its software at all stages of living cycle are considered. The opinions of the author at SE current state as the main tool of modernization of economy by means automation processes in all sectors of national economics are presented.
+     </p>
+   item_keywords: software engineering, formation and current state, the tool of modernization of economy
+   item_pages: 2–17
+ - doi:
+   link: _2_2012_2
+   udk: '004.436.2'
+   item_authors: Zharkovskiy A. V., Lyamkin A. A., Trevgoda T. F.
+   item_name: Object Featuring Language for the Description of Complicated Engineering Systems
+   item_authors_address: ' <b> Zharkovskiy A. V.</b>, <b> A. A. Lyamkin </b>, <b> T. F. Trevgoda </b>, e-mail: tat.trevgoda@yandex.ru'
+   item_annot: |
+     <p> An object featuring language is proposed for describing the structure of complicated engineering systems, their components, topology, information links and functioning processes.
+     </p>
+   item_keywords: complicated engineering system, object featuring language, description, structure, object, log-book, model
+   item_pages: 18–21
+ - doi:
+   link: _2_2012_3
+   udk: '004.724.4 + 519.872.3'
+   item_authors: Zayats O. I., Zaborovsky V. S., Muliukha V. A., Verbenko A. S.
+   item_name: Packet Switching Management in Telematics Devices with Finite Buffer Size Using Preemptive Priority Queueing and Randomized Push-out mechanism. Part 1
+   item_authors_address: ' <b> O. I. Zayats </b>, e-mail: zayats@amd.stu.neva.ru, <b> V. S. Zaborovsky </b>, e-mail: vlad@neva.ru, <b> V. A. Muliukha </b>,  e-mail: vladimir@mail.neva.ru, <b> A. S. Verbenko </b>'
+   item_annot: |
+     <p> In the paper the mathematical model of telematics system is studied. It is a single-channel double-stream priority queueing system with finite buffer size. Packet traffic generated from the commands is a priority one and it has two advantages over the other traffic: a preemptive priority and randomized push out mechanism in the buffer memory. Priority packets have a chance 0 < α < 1 to push remaining packets out of the buffer. The value of α is the control parameter that enables to adjust adaptively the control algorithm of packet switching and to reallocate efficiently available network throughput for the virtual connections of various types. An example of such approach is the algorithms for the remote control of robotic devices in the space experiment on the ISS. In the paper it is considered an analytic solution by the method of generating functions for the deterministic push out mechanism (α = 1) and explained the basic ideas of the general solution
+     </p>
+   item_keywords: priority queueing, preemptive priority, randomized push out mechanism, packet traffic, telematics systems management
+   item_pages: 22–28
+ - doi:
+   link: _2_2012_4
+   udk: '025.4'
+   item_authors: Afonin S. A., Golomazov D. D., Kozitsyn A. S. 
+   item_name: Using Analytical Ontology-Based Information Systems for Scientific and Technological Information Search
+   item_authors_address: '<b> S. A. Afonin </b>, e-mail: serg@msu.ru, <b> D. D. Golomazov </b>, e-mail: denis.golomazov@gmail.com, <b> A. S. Kozitsyn </b>, e-mail: alexanderkz@mail.ru'
+   item_annot: |
+     <p> This paper presents a method of improving search query processing algorithms in information retrieval systems via integration with specialized knowledge bases which can provide additional information on preferences and interests of a given user. The method has been tested on the AS-TAI and ISTINA systems being developed in the Moscow State University. ASTAI is an information retrieval system with some advanced functionality. The goal of the ISTINA system is to record and semantically analyze metadata of research works produced by scientists within academic institutions.
+     </p>
+   item_keywords: information search, information analysis, ontology-based information systems, integration, scientific information, user preferences
+   item_pages: 29–34
+ - doi:
+   link: _2_2012_5
+   udk: "004.4'416"
+   item_authors: "V'ukova N. I., Galatenko V. A., Samborski S. V."
+   item_name: Joint Solution of Instruction Selection and Scheduling Tasks under Condition of Register Pressure
+   item_authors_address: "<b> N. I. V'ukova </b>, e-mail: niva@niisi.msk.ru, <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru, <b> S. V. Samborski </b>"
+   item_annot: |
+     <p> The paper treats a method of code generations which provides precise solution of code selection and scheduling task under restrictions on the number of available registers. The method allows for maximal use of instruction-level parallelism. In case of register pressure, the method provides optimal spill code generation or recalculation of register values.
+     </p>
+   item_keywords: code optimization, instruction selection, instruction scheduling, ILP
+   item_pages: 35–40
+ - doi:
+   link: _2_2012_6
+   udk: '004.62:004.42'
+   item_authors: Veyber V. V., Kudinov A. V., Markov N. G.
+   item_name: Oil and Gas Company Information Systems Integration Based on Industry Standards and Principles of SOA
+   item_authors_address: '<b> V. V.Veyber </b>, e-mail: webvad@tpu.ru,<b> A. V.Kudinov </b>, e-mail: kudinovav@tpu.ru, <b> N. G. Markov </b>, e-mail: markovng@vostokgazprom.ru'
+   item_annot: |
+     <p> A technology of oil & gas company data integration and tools developed are considered. The proposed technology of integration combines SOA and Model-Driven approaches using branch standard PRODML as a metamodel
+     </p>
+   item_keywords: MDA, SOA, PRODML, data metamodel, integration platform
+   item_pages: 41–46
+---

@@ -1,0 +1,70 @@
+---
+title: Issue N1 2013 year
+content:
+ - doi: 
+   link: _1_2013_1
+   udk: '004.4, 004.9'
+   item_authors: Pelepelin I. E., Feklistov V. V., Karandin S. V., Bashkirtcev D. R., Zinatullin A. S.
+   item_name: Integration Approach in Joining of Metasonic Suite and Alfresco in Service Registry Development Based on S-BPM Tenets
+   item_authors_address: ' <b> I. E. Pelepelin</b>, e-mail: IPelepelin@blogic20.ru,<b> V. V.Feklistov </b>  e-mail: vfeklist@mail.ru,<b> S. V. Karandin</b> e-mail: skarandin@samelogic.ru,<b> D. R. Bashkirtcev</b>, e-mail: DBashkirtsev@it.ru,<b> A. S. Zinatullin</b> e-mail: artem.zinnatullin@gmail.com,'
+   item_annot: |
+     <p> Integration issues of two software products Metasonic Suite and Alfresco are regarded at the example of subject-oriented approach in service registry development and attendant business-process.
+     </p>
+   item_keywords: integration, service registry, Metasonic Suite, Alfresco, S-BPM, CMIS, SOA
+   item_pages: 2–8
+ - doi: 
+   link: _1_2013_2
+   udk: '621.039.51 + 004.272.26'
+   item_authors: Kazmin O. O., Kapatskaya I. A., Karpov S. A.
+   item_name: Parallel Computer Simulation of Neutron-Physical Processes in the Nuclear Reactor Core of NPP
+   item_authors_address: ' <b> O. O. Kazmin</b>, <b> I. A.Kapatskaya </b>,<b> S. A. Karpov</b>,  e-mail: nutok@yandex.ru'
+   item_annot: |
+     <p> The paper presents the results of adaptation of existing algorithms of neutron-physical processes in the nuclear reactor simulation and their implementations to supercomputers environment. An analysis was made of current simulation algorithm implementation in order to identify its most resource-intensive parts. The individual software components of the model and their relationships have been investigated to identify opportunities for parallelization. The parallel version of the simulation algorithms was developed and implemented. Implemented algorithms have been tested and their algorithmic efficiency was investigated.
+     </p>
+   item_keywords: parallelization of programs, the effectiveness of parallelization, neutron physics, computer simulation of neutron-physical processes
+   item_pages: 9–18
+ - doi: 
+   link: _1_2013_3
+   udk: '004.925'
+   item_authors: Antonchenkov A. A., Shilov V. V.
+   item_name: Set of Invisible Surfaces Culling Algorithms for Three-Dimensional Visual- ization of Strata Models
+   item_authors_address: ' <b> A. A. Antonchenkov</b>, e-mail: A.A.Antonchenkov@gmail.com  <b> V. V. Shilov</b>'
+   item_annot: |
+     <p> This paper presents the detailed description for set of invisible surfaces culling algorithms for three-dimensional visualization of strata models. It contains description of proposed two stage data processing, explanation of algorithms and sequence of their application to achieve the best performance.
+     </p>
+   item_keywords: three-dimensional visualization, stratum models, invisible surface culling, culling algorithms
+   item_pages: 19–23
+ - doi: 
+   link: _1_2013_4
+   udk: '519.246'
+   item_authors: Barash L. Yu., Shchur L. N.
+   item_name: On the Generation of Parallel Streams of Pseudorandom Numbers
+   item_authors_address: '<b> L. Yu. Barash</b>, <b> L. N. Shchur </b>,  e-mail: shchur@chg.ru'
+   item_annot: |
+     <p> We report approach for the generation of parallel un-correlated streams of pseudorandom numbers. We apply our method to the number of modern and reliable pseudorandom number generators and develop particular algorithms for initialization of parallel streams. Particularly, each of our GPGPU realizations can produce exactly the same output sequence as the original algorithm.
+     </p>
+   item_keywords: pseudo random numbers, random number generators, GPU, GPGPU, parallel computing, Monte Carlo methods
+   item_pages: 24–32
+ - doi: 
+   link: _1_2013_5
+   udk: '004.057, 519.8'
+   item_authors: Bulyonkov M. A., Emelyanov P. G., Pak E. V., Kharenko A. A.
+   item_name: Data Modeling in Timetabling Problem for Universities 
+   item_authors_address: '<b> M. A. Bulyonkov</b>,e-mail: mike@iis.nsk.su,<b> P. G. Emelyanov</b>, e-mail: emelianov@iis.nsk.su, <b> E. V. Pak</b>, e-mail: pev@iis.nsk.su, <b>A. A. Kharenko</b>, e-mail: anna.kharenko@gmail.com'
+   item_annot: |
+     <p> Because of development of the society, information and educational technologies, the timetabling problem becomes more and more complicated not only in its algo-rithmics but in description of used data. The authors attempt to systemize their gathered experience in this do-main and to propose a data modeling language for universities timetabling problem.
+     </p>
+   item_keywords: timetabling problem, constraints modeling, educational plan description, data formats, xml markup language
+   item_pages: 33–41
+ - doi: 
+   link: _1_2013_6
+   udk: '519.681'
+   item_authors: Shurlin M. D.
+   item_name: LP Structures Reduction for Automation of Refactoring in Object-Oriented Systems
+   item_authors_address: '<b> M. D. Shurlin</b>, e-mail: mshurlin@gmail.com'
+   item_annot: |
+     <p> In the information system industry an important direction is connected with the development of formal models for programming objects. Such models provide a basis for automated verification and optimization of the program code. In this paper a class of lattice-based algebraic structures describing semantics of a type hierarchy in an object-oriented system is considered. The properties of such structures, including existence of logical reduction are studied. The methodology is designed to verify and upgrade type hierarchies and is focused on elimination of code redundancy. Proofs of the results obtained are given for the first time.
+     </p>
+   item_keywords: type hierarchy, refactoring, algebraic model, common attributes
+   item_pages: 42–47
+---

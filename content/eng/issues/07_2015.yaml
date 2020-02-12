@@ -1,0 +1,65 @@
+---
+title: Issue N7 2015 year
+content:
+ - doi:
+   link: _7_2015_1
+   item_authors: Elizarov S. G., Lukyanchenko G. A., Korneev V. V.
+   item_authors_address: '<b>S. G. Elizarov</b>, Senior Staff Scientist, M.V. Lomonosov Moscow State University, <b>G. A. Lukyanchenko</b>, Postgraduate Student, National Research Centre "Kurchatov Institute", Moscow, <b>V. V. Korneev</b>, Professor, Director for Research, e-mail: korv@rdi-kvant.ru, State Enterprise "Research and Development Institute "Kvant", Moscow'
+   item_name: Exascale Computer Parallel Programming Technology
+   item_annot: |
+      <p> Parallel programming model based on PRAM — Parallel Random Access Model and memory architecture for exascale supercomputer are proposed. Tagged shared memory with additional full/empty bits for each word that keeps the reading from an empty compartment till the data will be written on it is used for preventing memory access conflicts and data synchronization purposes. For native parallel programming we use the 'lightweight threads' approach dividing the program into multiple threads performing relatively short code fragments from a single program with very low overheads. The results are saved in the shared memory. Are described the main programming language features necessary for the offered model.
+      </p>
+      <p>We present the prototype of FPGA-based exascale supercomputer node made by the model offered above. Node contains more than 1000 cores. Main multiprocessor units including universal cores computing kernels, on-chip communication network, advanced memory controllers etc. are described. Hardware platforms characteristics are provided. Main tests were done on Rosta RC-47 test bench containing four largest Virtex7 FPGAs, eight RLDRAMIII memory channels and PCI Express Gen3 controller. Node prototype was running with Minix3 OS.
+      </p>
+      <p>The prototype offers a very flexible architecture including control of power and quantity of universal cores and custom computational blocks. User can tune throughput and latency of the memory controllers, communication network and many other blocks of prototype for it's particular tasks. So the exascale supercomputer node prototype offers the possibility of supercomputer's speed growth experimental research using such perspective approaches like a lightweight threads and tagged shared memory.
+      </p>
+   item_keywords: exascale supercomputer, shared memory parallel programming model, multicore processor on FPGA
+   item_pages: 3–10
+
+ - doi:
+   link: _7_2015_2
+   item_authors: Gvozdev V. E., Bezhaeva O. Y., Kurunova R. R.
+   item_authors_address: '<b>V. E. Gvozdev</b><sup>1</sup>, Professor, e-mail: wega55@mail.ru, <b>O. Y. Bezhaeva</b><sup>1</sup>, Associate Professor, e-mail: obezhaeva@gmail.com, <b>R. R. Kurunova</b><sup>1, 2</sup>, Postgraduate Student, Engineer, e-mail: roksana.kurunova@gmail.com, <br><sup>1</sup> Ufa State Aviation Technical University (USATU), <sup>2</sup> Research Institute "Soliton", Ufa'
+   item_name: Identification of Contradictions in the Requirements for Software Product Based on a Study of Indirect Links between them
+   item_annot: |
+      <p> The purpose of research is to develop formal procedures to establish the implicit contradictions in the systems of requirements to the software product. The proposed approaches oriented on the solution of providing one of the basic signs of the properties of requirements to software products — consistency. Examines approaches to the analysis of the character and strength of transitive relations between requirements, corresponding to different stages in the life cycle of software products. The basis of the solution of the problem is systemic combination of QFD, semantic-oriented and fuzzy graphs. Proposed nonlinear structural model of "cascade of houses of quality", which differs from the conventional linear model that in it reflects the transitive relations between the requirements of inside the house of quality, and also external backward linkages between the houses of quality. The proposed approaches allow, firstly, to adapt the QFD, widely used in various engineering applications, to the analysis of design decisions related to IT. Secondly, allow to develop formal procedures to identify the hidden conflict between the requirements, to improve the quality of management requirements.
+      </p>
+   item_keywords: consistency requirements for software products, transitive relation, the contradictions between the requirements, QFD, house of quality, semantic-oriented graphs, fuzzy graphs, analysis of design decisions
+   item_pages: 11–20
+
+ - doi:
+   link: _7_2015_3
+   item_authors: Kryshen M. A.
+   item_authors_address: '<b>M. A. Kryshen</b>, Senior Lecturer, e-mail: kryshen@cs.petrsu.ru, Petrozavodsk State University'
+   item_name: Abstract Data Types and Immutable Data Structures for Interactive Graph Visualization
+   item_annot: |
+      <p> In various applications of graph visualization, including network management, additional benefits arise from the ability to interactively manipulate the graph and the parameters of its visual representation. In the context of the task of IT infrastructure visualization, an interactive graph visualization system is being developed. The system uses a user-definable set of rules to translate source data describing the IT infrastructure into a graph of complex interactive vertices. By manipulating the vertices, the user can trigger changes in the graph structure or parameters of the visualization.
+      </p>
+      <p>The architecture of the visualization system is based on abstract data types for graph, graph layout, and interactive visual objects that represent the graph vertices. These abstract data types are designed to ensure composability of system components and allow efficient implementation with immutable data structures. Graphs are constructed by combining graphs instead of using operations on individual graph elements. Graph layout algorithms are compos-able: a fast algorithm implementation can provide predictable initial locations for new vertices, then the layout can be refined by an iterative algorithm. Interactive visual objects are composable, stateless, and context-dependant. The use of immutable data structures allowed to reduce and localize shared state that needs to be synchronized, which simplifies multi-threaded implementation needed to achieve good responsiveness of the interactive system.
+      </p>
+   item_keywords: abstract data types, immutable data structures, functional programming, Clojure, graph visualization, interactive visualization, software system
+   item_pages: 21–28 
+
+ - doi:
+   link: _7_2015_4
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_authors_address: '<b>I. O. Zharinov</b>, Associate Professor, Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of Learning-Scientists Center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, e-mail: igor_rabota@pisem.net, <b>O. O. Zharinov</b>, Associate Professor, Saint Petersburg State University of Aerospace Equipment'
+   item_name: Research of Influence of the External Illuminance on the Color Measurement Characteristics for Visually Percepted Image in Avionics Engineering
+   item_annot: |
+      <p> The problem is considered and research is performed for the software-based correction method dealing with digital codes of components of color palette that is using in on-board indication equipment. It is shown that color palette, obtained with the use of any given source of external illuminance that is mounted in automated workstation, can't be successfully used for all possible operating conditions when color temperature of external varying widely (from 2000 to 20 000 Kelvins). In order to display an image in varying conditions of external illuminance falling on the screen there was proposed the method and formulas allowing to correct digital codes of any given color palette. It is shown, that relations between brightness value of an image on LCD-panel and brightness of the color, caused by diffuse reflection of the light of external illuminance sourse, determine not only technique for calculation of the contrast value for any given image element, but also restricts color gamut, that person can visually percept.
+      </p>
+   item_keywords: indication, avionics, chromaticity coordinates, external illuminance, correction
+   item_pages: 29–38
+
+ - doi:
+   link: _7_2015_5
+   item_authors: Pashchenko D. S.
+   item_authors_address: '<b>D. S. Pashchenko</b>, MBA, Consultant in Software Development, e-mail: denpas@rambler.ru, Moscow'
+   item_name: 'Research in CEE-Region: Changes Implementation in Software Production'
+   item_annot: |
+      <p> Delphi method research have been done in middle of 2014, and 78 software engineers from 11 countries of CEE-region took part in it. In this article there are main results of this research, including: main problems and risks of change management, expert's experience in change implementation, aspect of production process model standardization in software business, engineer's emotional perception of changes. Expert's panel defined organizational resistance features in IT domain, need of timely changes implementation planning and consolidation, aspects of increasing the predictability impact of changes on software project's results. Also there are detailed recommendations to reduce the impact of the risk on the successful implementation of changes on all stages of internal project.
+      </p>
+   item_keywords: production changes, software development, organizational resistance in software domain, changes consolidation, staff involvement in change management
+   item_pages: 39–48
+
+---

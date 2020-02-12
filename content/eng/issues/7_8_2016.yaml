@@ -1,0 +1,72 @@
+---
+title: Issue N8 2016 year 
+content:
+ - doi: 7.339-350
+   link: 7.339-350
+   udk: "004.4'42"
+   item_authors: "Pilipenko A. V., Pliss O. A."
+   item_name: "Application Extraction and Selective Class Initialization for Java"
+   item_authors_address: | 
+     <b> A. V. Pilipenko</b>, e-mail: artur.pilipenko@gmail.com, Saint Petersburg State University, 199034, Saint Petersburg, Russian Federation, <b> O. A. Pliss</b>, oleg.pliss@gmail.com, Oracle Corporation, CA 94065, Santa Clara, USA
+   item_corr_author: " Pilipenko Artur V., Postgraduate Student, Saint Petersburg State University, artur.pilipenko@gmail.com, Saint Petersburg, Russian Federation, e-mail: artur.pilipenko@gmail.com"
+   item_rec_on:  May 10, 2016 
+   item_acc_on:  May 30, 2016
+   item_annot: |
+     <p> Application extraction, i.e. elimination of unused methods, fields and classes during Java program romization is considered. Eager class initialization is one of the romization optimizations. Class initialization in Java involves executing class initializers which can contain arbitrary Java code. Objects created during class initialization might affect the reachability of methods, fields and classes in non-trivial ways. Existing analysis algorithms dont take these objects into account.
+     We propose a reachability analysis algorithm which selectively initializes classes and takes objects created by class initializers into consideration. This algorithm is based on Rapid Type Analysis (RTA) algorithm which keeps track of classes which can be instantiated by reachable methods. The set of instantiable classes is used to determine which methods can be invoked by virtual and interface calls. The algorithm we propose also keeps track of classes which can be initialized by reachable methods. The algorithm initializes a subset of these classes using a simple heuristic to choose which classes are safe to initialize. All the objects which remain reachable after class initialization are considered to be reachable for the application. These objects could be used for virtual and interface calls. Therefore classes of reachable objects are included into the set of instantiable classes.
+     We also propose a field reachability analysis algorithm which takes live objects into account. Field removal might affect object reachability and might cause some objects to be collected by GC. In some cases that can be observable by the application even if it never accesses the object explicitly. For example, if the object is finalizable or a special reference is held for this object. The proposed algorithm takes these dependencies into account.
+     Finally we propose a class reachability analysis algorithm which takes aforementioned analyses into account.
+     </p>
+   item_keywords: Java, virtual machine, romization, class initialization, application extraction, reachability analysis, GC
+   item_pages: 339–350
+   item_citation: ' Pilipenko A. V., Pliss O. A. Application Extraction and Selective Class Initialization for Java, Programmnaya Ingeneria, 2016, vol. 7, no. 8, pp. 339—350'
+ - doi: 7.351-359
+   link: 7.351-359
+   udk: "004.04, 004.4, 004.7"
+   item_authors: "Galov I. V."
+   item_name: "Application of Software Design Patterns for Implementation of Indirect Agent Interactions in a Smart Space"
+   item_authors_address: | 
+     <b> I. V. Galov</b>, galov@cs.karelia.ru, Department of Computer Science, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation 
+   item_corr_author: " Galov Ivan V., Postgraduate Student, Junior Researcher, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation, e-mail: galov@cs.karelia.ru"
+   item_rec_on:  May 25, 2016 
+   item_acc_on:  May 31, 2016
+   item_annot: |
+     <p> The paper considers the problem of agent interaction arrangement in a smart space. Each smart space creates a computing service-oriented environment, which adapts for users needs. The main purpose of such an environment is construction and delivery of information services to users. Service construction is performed by software agents interacting with each other and processing various information sources. Therefore, the problem of agent interaction arrangement is crucial for application development for smart spaces. Interactions among agents can be direct and indirect. In the case of indirect interaction, the agents construct information services based on cooperative information accumulation and processing in a shared information storage. Because of the diversity of different possible interactions and the necessity of involving a large number of agents it is necessary to elaborate new methods for simplifying and automating smart space application development. Recent research studies in this field consider only abstract conceptual models or solve narrow problems such as agent coordination for shared resources. There is no generic approach to design agent interaction in smart spaces. This paper considers an approach to arrange agent interactions based on software design patterns. We introduce a set of interaction patterns, which describe how to implement such interactions in software applications for a wide range of problem domains. The interaction patterns include patterns of information publishing and retrieving between two agents based on the query and subscription operations. Such patterns can be extended to one-to-many interactions where recipients are agents of the same type. More complicated patterns encompass sequential interaction among three or more agents where the transmitted information is processed and transformed by a mediator agent. The suggested patterns can be combined to achieve non-trivial interaction chains. The applicability is shown using previously developed software applications for smart spaces. The proposed interaction patterns can also be used for code generation, hence allowing the developer to concentrate on agent processing algorithms implementation instead of interactions implementation.
+     </p>
+   item_keywords: smart spaces, M3 architecture, multi-agent systems, agent interaction, software design, interaction patterns 
+   item_pages: 351–359
+   item_comment: ' This research is financially supported by the Ministry of Education and Science of Russia within project no. 1481 of the basic part of state research assignment for 2014—2016. The reported study was supported by the Russian Foundation for Basic Research, research project no. 14-07-00252.'
+   item_citation: ' Galov I. V. Application of Software Design Patterns for Implementation of Indirect Agent Interactions in a Smart Space, Programmnaya Ingeneria, 2016, vol. 7, no. 8, pp. 351—359.'
+ - doi: 7.360-372
+   link: 7.360-372
+   udk: "004.852"
+   item_authors: "Vasenin V. A., Roganov V. A., Dzabraev M. D.   "
+   item_name: "Methods of Automated Sentiment Analysis of Texts Published by Mass Media"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, vasenin@msu.ru, <b> V. A. Roganov</b>  var@msu.ru, <b>  M. D. Dzabraev</b>, dzabraew@gmail.com, Lomonosov Moscow State University, 119234, Moscow, Russian Federation
+   item_corr_author: " Vasenin Valery A., Professor, Lomonosov Moscow State University, 119234, Moscow, Russian Federation, e-mail: vasenin@msu.ru"
+   item_rec_on:  April 30, 2016 
+   item_acc_on:  May 20, 2016
+   item_annot: |
+     <p> This article examines approaches to solving the problem of the analysis of natural language texts to identify the emotional color in relation to a particular subject. After brief analysis of the known methods that can be used to solve this problem we describe the proposed approach and developed layout of the information service usable for tone analysis of publications in the mass media in relation to Moscow State University named after M. V. Lomonosov, which is large and significant subject of national scientific, technical and educational activities. A representative sample of publications has been used to test and analyze the proposed method. Developed methods and tools will be used as components of information services, dedicated to separate categories of users of information-analytical system (IAS) "ISTINA". This system is designed and developed under a separate project in the Moscow State University named after M. V. Lomonosov as one of the components of the overall system of university management. The main task which is solved with use of the "ISTINA" system is thematic analysis of scientometric data to help with preparation and adoption of managerial decisions
+     </p>
+   item_keywords: text analysis, tone analyzer, mass media analysis, facts extraction, machine teaching, convolutional neural network
+   item_pages: 360–372
+   item_citation: ' Vasenin V. A., Roganov V. A., Dzabraev M. D. Methods of Automated Sentiment Analysis of Texts Published by Mass Media, Programmnaya Ingeneria, 2016, vol. 7, no 8, pp. 360—372.'
+ - doi: 7.373-382
+   link: 7.373-382
+   udk: "629.78"
+   item_authors: "Ryabogin N. V., Shatsky M. A., Kosinsky M. U., Sokolov V. N., Zadorozhnaya N. M."
+   item_name: "System Analysis Graphic Instruments Application in Satellites On-Board Attitude and Orbit Control System Software Development"
+   item_authors_address: | 
+     <b> N. V. Ryabogin</b>, n.ryabogin@mokb-mars.ru, <b> M. А. Shatsky</b>, msh@mokb-mars.ru, <b> M. U. Kosinsky</b>, kosinski@mail.ru, <b>  V. N. Sokolov</b>, sokolov@mokb-mars.ru, Federal State Unitary Enterprise Moscow experimental design bureau Mars, Moscow, 127473, Russian Federation, <b> N. M. Zadorozhnaya</b>, zanatalie@ya.ru, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation
+   item_corr_author: ' Ryabogin Nikolay V., Head of Division, Federal State Unitary Enterprise Moscow experimental design bureau "Mars", Moscow, 127473, Russian Federation, e-mail: n.ryabogin@mokb-mars.ru'
+   item_rec_on:  May 19, 2016   
+   item_acc_on:  June 02, 2016
+   item_annot: |
+     <p> This article contains material about system analysis graphic instruments (SAGI) application for satellite on-board attitude and orbit control system (AOCS) software development improvement and technical documentation description improvement. The SAGI application goals are satellites on-board AOCS software quality and reliability increasing, development and modeling improvement. Satellite on-board AOCS is a complex object, which consist of hardware and software components. Exiting methods of technical documentation description are directed for programming specification and exposition and do not allow defining software architecture and logical sequences. The aim is to adapt existing graphical tools for describing complex hierarchical systems for additional graphic description and documentation of AOCS software for observability structure, allowed states and modes of operation, relations between the subsystems and the corresponding simplification of the system debugging. The suggested method of improving the software development via better software architecture describition can be implemented with applying graphical instruments for system analysis. This method is based on Unified Modeling Language (UML) instrument applying in AOCS software development. System Modeling Language (SysML) is also suitable as extended version of UML for development, analysis and verification of complex dynamic systems. Suggested method of AOCS software architecture describing through SAGI allows one to clearly and properly describe architecture, structure and internal sequences of satellite on-board AOCS software. This method suggests several steps, which include whole AOCS software development process. Draft analysis and requirement grouping is first step. AOCS software hierarchic structure design with autonomous function determination is second step. Next step is function modes definition and operation sequences by state diagrams and sequences diagrams. State diagrams based on FMECA can be also applied for AOCS malfunction and failure cases analysis.
+     </p>
+   item_keywords: system analysis, system analysis graphical instruments, software, satellite on-board control system, satellite
+   item_pages: 373–382
+   item_citation: ' Ryabogin N. V., Shatsky M. A., Kosinsky M. U., Sokolov V. N., Zadorozhnaya N. M. System Analysis Graphic Instruments Application in Satellites On-Board Attitude and Orbit Control System Software Development, Programmnaya Ingeneria, 2016, vol. 7, no. 8, pp. 373—382.'
+---

@@ -1,0 +1,121 @@
+---
+title: Issue N10 2019 year
+content:
+ - doi: 10.419-429
+   udk: "004.4'233"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "Automated Program Repair: Comparative Analysis of Approaches"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b>  K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: Kost@niisi.ras.ru'
+   item_rec_on:  July 09, 2019
+   item_acc_on:  August 06, 2019
+   item_annot: |
+     <p> The article is the second part of the work devoted to the automated program repair. It provides a comparative analysis of ideas and approaches to the automated program repair. The authors tried to reflect the main existing approaches in the article, to consider the advantages and disadvantages of each of them.
+     The article describes a wide range of ideas and approaches to the automated program repair. Universal systems of behavior repair have no theoretical basis, and practical results of their application are unsatisfactory.
+     Specialized systems focused, for example, on the correction of dynamic memory management defects are more promising. Such systems are a good form of accumulation and usage of programming knowledge. It is possible that future systems of behavior repair will be built by integrating a large number of specialized systems.
+     The state repair systems have a proven base — researches in the field of fault tolerance. In our opinion, the adaptation and development of these researches in relation to the repair of programs is the most natural and promising approach.
+     </p>
+   item_keywords: debugging, automated program repair, program recovery, program re-execution, program self-treatment, data recovery
+   item_pages: 419–429
+   item_citation: ' Galatenko V. A., Kostyukhin K. A. Automated Program Repair: Comparative Analysis of Approaches, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 419—429.'
+ - doi: 10.430-439
+   udk: "004.942; 330.46"
+   item_authors: "Orlova E. V."
+   item_name: "Engineering of System Synthesis for Innovative Projects Efficiency"
+   item_authors_address: |
+     <b> E. V. Orlova</b>, ekorl@mail.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
+   item_corr_author: "Orlova Ekaterina V., Dr. of Sc., Professor, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation, E-mail: ekorl@mail.ru"
+   item_rec_on:  August 20, 2019
+   item_acc_on:  September 09, 2019
+   item_annot: |
+     <p> The problem of a comprehensive assessment of the effectiveness of enterprises innovative activities is considered. It was found that traditional approaches and methods of a comprehensive (system) assessment of the enterprises (project) efficiency do not provide simultaneous using of different indicators like social, economic and environmental effectiveness and cannot be used to evaluate an projects efficiency with a social orientation, and do not compare projects from a position their competitiveness and environmental friendliness.
+     The multidimensional criterion has been developed for a comprehensive assessment of innovative projects efficiency, providing a justification for the quality of the project and its quantitative assessment, taking into account the social, economic and environmental components of its efficiency. A conceptual scheme of the approach to assess­ing innovation projects efficiency on the basis of the principle of non-linear synthesis of indicators, which reflects the multi-step process for its identification, has been proposed. This scheme was not previously presented in existing methods for innovative projects efficiency evaluation.
+     The system-dynamic model for a comprehensive assessment of an innovative project efficiency for the production of raw materials for an antiarrhythmic drug is proposed. This model allows to draw the situational analysis of the factors changes impact into the project efficiency. The model differs from the existing ones in that it takes into account the multiplicative influence of the factors that allows project manager to reproduce the systemic (synergetic) effect of the project.
+     Experimental studies of the proposed approach on the actual data of a specific project were carried out and the reliability of the proposed theoretical principles and the developed method of a comprehensive assessment of innovative project efficiency were proved. The testing results of the proposed theoretical principles and approach have practical significance.</p>
+   item_keywords: engineering of integrated project efficiency, innovative projects, systemic synthesis, simulation modeling
+   item_pages: 430–439
+   item_citation: 'Orlova E. V. Engineering of System Synthesis for Innovative Projects Efficiency, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 430—439'
+ - doi: 10.440-450
+   udk: "004.4, 004.7"
+   item_authors: "Marchenkov S. A."
+   item_name: "Computer-Aided Programming of Software Agents Based on Code Generation in Constructing Semantic Services of Smart Spaces. Part 2"
+   item_authors_address: |
+     <b> S. A. Marchenkov</b>, marchenk@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: " Marchenkov Sergei A., Junior Researcher, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: marchenk@cs.petrsu.ru"
+   item_rec_on:  September 05, 2019
+   item_acc_on:  September 26, 2019
+   item_annot: |
+     <p> The work is the final second part of the paper, published with the same title. In the first part, problematic questions and requirements were formulated related to the simplification of the development and maintenance processes for smart space applications by creating tools for automating agent programming constructing in the construction of semantic services. This paper proposes solutions aimed at achieving the previously identified requirements on the way to creating an agent code generator for object-oriented programming languages based on service ontologies. By expanding the OWL-S ontology, a unified ontological description of the semantics for service construction processes is introduced. This ontology allows services to be endowed with the qualities of semantic services and makes them suitable for programming automation. Algorithms for automating agent programming to implement the structures of an object data model and agent interactions when programming services based on the generation of program code using a service ontology are proposed. The results are considered on the services presented in the previous part for smart environments: the presence detection and user activity service (smart room), the historical enrichment service (smart museum). </p>
+   item_keywords:  smart spaces, semantic services, ontological model, object model, code generation
+   item_pages: 440–450
+   item_comment: 'The research was financially supported by the Ministry of Education and Science of Russia within project #2.5124.2017/8.9 of the basic part of state research assignment for 2017—2019. The reported study was funded by RFBR according to the research project # 19-07-01027. The article was prepared within the Government Program of Flagship University Development for Petrozavodsk State University in 2017—2021.'
+   item_citation: 'Marchenkov S. A. Computer-Aided Programming of Software Agents Based on Code Generation in Constructing Semantic Services of Smart Spaces. Part 2, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 440—450.'
+ - doi: 10.451-456
+   udk: "004.023"
+   item_authors: "Rodzin S. I., Rodzina O. N."
+   item_name: "Multidimensional Optimization Problems: Comparison among Software Implementations of Evolutionary Computations"
+   item_authors_address: |
+     <b> S. I. Rodzin</b>, srodzin@sfedu.ru, <b> O. N. Rodzina</b>, orodzina@sfedu.ru, Southern Federal University, Taganrog, 347900, Russian Federation
+   item_corr_author: " Rodzin Sergey I., Professor, Southern Federal University, Taganrog, 347900, Russian Federation, E-mail: srodzin@sfedu.ru"
+   item_rec_on:  July 21, 2019
+   item_acc_on:  September 25, 2019
+   item_annot: |
+     <p> Evolutionary algorithms have particular advantages over traditional deterministic optimization methods. For example, class of algorithms better explores the solution space. Moreover, big data and multidimensional problems add additional complexity when we want to explore the solution search space. The paper presents an evolutionary algorithm capable of solving multidimensional optimization problems of high dimension. The algorithm uses a hierarchical multi-population approach, as well as special operators to support the diversity of the decision population and to expand the area of finding solutions with less promising solutions. The efficiency of the proposed algorithm is evaluated on a set of multidimensional optimization functions-benchmarks of Griewank, Rastrigin, Rosenbrock, and Schwefel. Moreover, the indicators of the developed algorithm are compared with the indicators of competing algorithms. We can note statistically significant differences. In its turn, this fact confirms the advantages of a scal­able evolutionary algorithm for all considered benchmark functions especially with an increasing dimension of the problem. The authors believe that this is due to the ability of the algorithm to maintain the diversity of the population and to find a balance between the rate of convergence of the algorithm and the diversification of the search. To sum up, the algorithm is a quite promising way for solving multidimensional optimization problems with complex multimodal solution spaces and big data.
+     </p>
+   item_keywords: big data, scalability, evolutionary algorithm, multidimensional problems, Griewank function, Rastrigin function, Rosenbrockf unction, Schwefel function
+   item_pages: 451–456
+   item_citation: 'Rodzin S. I., Rodzina O. N. Multidimensional Optimization Problems: Comparison among Software Implementations of Evolutionary Computations, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 451—456.'
+ - doi: 10.457-463
+   udk: "004.825"
+   item_authors: "Makhortov S. D."
+   item_name: "An Algebraic Model of the Intelligent System with Fuzzy Rules"
+   item_authors_address: |
+     <b> S. D. Makhortov</b>, msd_exp@outlook.com, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: " Makhortov Sergey D., Head of Department, Voronezh State University, Voronezh, 394018, Russian Federation E-mail: msd_exp@outlook.com"
+   item_rec_on:  August 16, 2019
+   item_acc_on:  September 04, 2019
+   item_annot: |
+     <p> Information technologies play a crucial role in the modern world. Computer systems are becoming big, critically significant. As a result, importance and relevance of the theoretical justification of correctness and reliability of information processing in various application areas are increasing. The basis for formal construction and research of computer systems based on various technologies is provided by algebraic structures. This fully applies to knowledge engineering, including production systems widely used in computer science.
+     In the last decade, the author and his students have obtained a number of results related to logical systems of the production type. On the basis of algebraic lattices, there was developed a theory of LP structures (lattice production structures), which substantiates and effectively solves the problems of equivalent transformations, verification and minimization of knowledge bases. The method of backward inference (LP-inference), significantly reducing the number of appeals to external information sources, was introduced and studied. Subsequently, this theory was expanded for distributed production systems modeling.
+     An important feature of modern intelligent systems is the fuzzy nature of knowledge and reasoning. In this circumstance, it seems to be relevant to extend the theory of LP structures to fuzzy production systems. The first steps in this direction were taken in two previous works with the authors participation. The concepts characterizing the fuzziness of the LP structure were introduced, and some useful properties of the fuzzy LP-inference were studied.
+     The present work is devoted to the development of the theory of fuzzy LP structures for managing fuzzy knowledge bases and modeling fuzzy logical inference. The terminology of FLP structures (Fuzzy LP structures) with fuzzy logical relation is introduced. The definition of the logical closure of a fuzzy binary relation on a lattice is given; a theorem on its existence is presented. The theorem allows to introduce the concept of equivalent FLP structures and, respectively, in applications — of equivalent knowledge bases. The theorem on equivalent transformations of the FLP structure is proved. Its applied value is the method and its justification for automated transformations of fuzzy knowledge bases. Finally, a definition is introduced and a statement on the reduction of a fuzzy LP structure to a canonical form is proved. In applications, this format corresponds to a set of Horn fuzzy rules. </p>
+   item_keywords: intelligent system, fuzzy productions, LP structure, logical closure, equivalent transformations
+   item_pages: 457–463
+   item_citation: ' Makhortov S. D. An Algebraic Model of the Intelligent System with Fuzzy Rules, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 457—463.'
+ - doi: 10.464-470
+   udk: "519.674"
+   item_authors: "Kudryashov A. P., Solovyev I. V."
+   item_name: "Detection of Objects on the Topographical Map for the Reconstruction of the Scene of Urban Space"
+   item_authors_address: |
+     <b> A. P. Kudryashov</b>, kudryashovA@dvo.ru, <b> I. V. Solovyev</b>, igorek.solovyev@mail.ru, Institute of Applied Mathematics of RAS, Vladivostok, 690041, Russian Federation
+   item_corr_author: " Kudryashov Aleksey P., Ph. D., Junior Researcher, Institute of Applied Mathematics of RAS, Vladivostok, 690041, Russian Federation, E-mail: Alkud1981@mail.ru"
+   item_rec_on:  July 11, 2019
+   item_acc_on:  September 04, 2019
+   item_annot: |
+     <p> The use of automation tools for software development or so-called computer-aided software engineering (CASE) tools is a sign of a high level of maturity of the development team, and is especially necessary when creating large-scale distributed software. Among others, CASE tools often include code generation software. Template-based code generation involves automatic building of source code or some text result corresponding to a pre-defined format called a template. The article presents the architecture and software tools for computer-aided prototyping of projects of software modules and documents of One of the tasks of computer graphics is the reconstruction of urban scenes. There are several methods aimed at solving this problem. One of these methods is reconstruction using a topographical map. The article proposes a method for the reconstruction of three-dimensional urban scenes using a topographical map. A modified wave algorithm is used to highlight the contours of buildings on a topographical map. The technology of texturing buildings based on photographs obtained from an open database of images is proposed. The flexibility of the reconstruction method to the initial data is shown. An information system is presented that is used to solve both the entire reconstruction process and for individual local tasks. The reconstruction of real topographical maps of Vladivostok of 1: 2000 scale is given.
+     </p>
+   item_keywords: three-dimensional reconstruction, topographical map, geographic coordinates, texturing, urban setting
+   item_pages: 464–470
+   item_citation: 'Kudryashov A. P., Solovyev I. V. Detection of Objects on the Topographical Map for the Reconstruction of the Scene of Urban Space, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 464—470. '
+ - doi: 10.471-479
+   udk: "004.021+004.82+004.89"
+   item_authors: "Korney A. O., Kryuchkova E. N."
+   item_name: "Application of Adaptable Generalized Lexicons in Aspect-Based Sentiment Analysis"
+   item_authors_address: |
+     <b> A. O. Korney</b>, korney.alena@yandex.ru, <b> E. N. Kryuchkova</b>, kruchkova_elena@mail.ru, Polzunov Altai State Technical University, Barnaul, 656038, Russian Federation
+   item_corr_author: " Korney Alena O., korney.alena@yandex.ru, Graduate Student, Polzunov Altai State Technical University, Barnaul, 656038, Russian Federation E-mail: korney.alena@yandex.ru"
+   item_rec_on:  July 21, 2019
+   item_acc_on:  August 09, 2019
+   item_annot: |
+     <p> Social networks, microblogging sites, online shops, forums and other resources are now becoming more and more popular. People use Internet as a platform for their self-expression. Everyone can share their experiences and give a product feedback. People read public reviews to choose hotels, restaurants, smartphones, weekend movies, service providers etc. Aspect-based sentiment analysis (ABSA) systems allow extracting user opinions about different product/service aspects and features. ABSA includes four main tasks: Aspect term extraction (ATE), Aspect term polarity (ATP), Aspect category detection (ACD) and Aspect category polarity (ACP). All of these tasks are domain-sensitive. It means that ABSA-system must be built for a particular domain or adapted to it to achieve high quality of classification. Lexicon-based systems are considered as more adaptable then machine-learning or hybrid systems. There are many adaptation techniques: with or without using of core lexicon; based on graphs, semantic networks, domain-sensitive thesauri etc. Some approaches use the concept of different level of domain-sensitivity to reduce the amount of adaptation procedures, but this idea requires a source of common-sense knowledge integrated to the system.
+     This paper is devoted to the problem of domain adaptation in ABSA-tasks in Russian. It represents an approach based on generalized lexicons. Presented approach includes a statistical-based algorithm of sentiment lexicon extraction from short informal text corpuses. Mathematical model of sentiment mark is introduced. Semantic graph is used to extend basic sentiment lexicon. The graph contains the data extracted from common dictionaries, which is domain-independent, reliable and full enough to use presented graph as a source of common-sense knowledge. Graph structure allows adapting the data to a particular domain with keeping important common-sense knowledge in background. Semantic adaptation can also elevate the quality of explicit sentiment calculation based on graph.
+     </p>
+   item_keywords: sentiment analysis, aspect-based sentiment analysis, sentiment lexicon; semantic graph; sentiment classification model; sentiment calculation method; text classification; lexicon adaptation to domain; knowledge extraction
+   item_pages: 471–479
+   item_citation: 'Korney A. O., Kryuchkova E. N. Application of Adaptable Generalized Lexicons in Aspect-Based Sentiment Analysis, Programmnaya Ingeneria, 2019, vol. 10, no. 11—12, pp. 471—479.'
+ - doi:
+   link: 10.480-480
+   item_name: "Index of articles published in the journal 'Software Engineering' in 2019"
+   item_pages: 480–480
+---

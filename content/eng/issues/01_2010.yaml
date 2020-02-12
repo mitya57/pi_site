@@ -1,0 +1,51 @@
+---
+title: Issue N1 2010 year
+content:
+
+
+ - doi:
+   link: _1_2010_1
+   item_authors: Vasenin V.A.
+   item_authors_address: 'Vasenin V.A., E-mail:vasenin@msu.ru'
+   item_name: About problems and the basic thematic directions of journal «Program engineering»
+   item_annot: |
+     <p>The circle of problems and the basic thematic directions of journal «Program engineering» is discussed.</p>
+   item_keywords: journal «Program engineering», problems, thematic directions
+   item_pages: 2–6
+ - doi:
+   link: _1_2010_2
+   item_authors: Lipaev V.V.
+   item_authors_address: 'Lipaev V.V., E-mail: alexlip@mail.ru'
+   item_name: 'Problems of program engineering: quality, safety, risks, economy'
+   item_annot: |
+     <p>The basic scientific, methodological and technological problems of program engineering which arise at various stages of life cycle of modern difficult complexes of programs are considered. In the first part problems of maintenance of quality of software products are presented, to safety of their application, reduction of risks of adverse events and economics in the course of creation, to operation and updating of program systems. Within the limits of these problems the most actual private problems are allocated and formulated and methods and ways of their decision are presented.</p>
+   item_keywords: program engineering, life cycle, difficult complex of programs, software product, methodology
+   item_pages: 7–20
+ - doi:
+   link: _1_2010_3
+   item_authors: Kolodenkova A.E.
+   item_authors_address: ' Kolodenkova A.E, E-mail: anna82_42@mail.ru'
+   item_name: Analysis of Viability is an Important Innovative Program Project Life Cycle Stage
+   item_annot: |
+     <p>Conceptual bases problems of innovative project viability analysis are being discussed. Different points of view on project viability assessment, both of domestic and foreign experts have been generalized and systematized. The formal approach is offered to estimate project viability statistically. It is based on comparison of alternative project variants according to the oriteria of stochastic execution of work complex during the time of work fulfilment.</p>
+   item_keywords: innovative project, project viability, criteria and indicators of project viability, tasks and methods for evaluating the project viability
+   item_pages: 21–30
+ - doi:
+   link: _1_2010_4
+   item_authors: Kostyukhin K.A.
+   item_authors_address: 'Kostyukhin K.A.'
+   item_name: Model of Open Source Software Development
+   item_annot: | 
+    <p>In recent years various government and commercial organizations use software products which was developed using open source software. The paper presents a model of software development with open source software, that was built with the provisions of domestic and foreign standars in the field of software engineering.</p>
+   item_keywords: open source software, licensing, standards
+   item_pages: 31–39
+ - doi:
+   link: _1_2010_5
+   item_authors: Terekhov A.N.
+   item_authors_address: 'Terekhov A.N., E-mail: andrey.terekhov@lanit-tercom.com'
+   item_name: What is the program engineering
+   item_annot: | 
+     <p>Historical aspects of occurrence and development of program engineering, the international educational standards in the given field and questions of additional inservice training are discussed</p>
+   item_keywords: program engineering, technologies of programming, educational standards, inservice training
+   item_pages: 40–45
+---

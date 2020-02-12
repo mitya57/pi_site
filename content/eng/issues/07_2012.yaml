@@ -1,0 +1,82 @@
+---
+title: Issue N7 2012 year
+content:
+ - doi:
+   link: _7_2012_1
+   udk: '004.056.53'
+   item_authors: Galatenko V. A.
+   item_name: Categorization and Separation of Programs and Data as a Architecture Security Principle
+   item_authors_address: ' <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru '
+   item_annot: |
+     <p> The article is devoted to the review of architecture security principles. As a one of such principles author propose categorization and separation of programs and data. This is particularly important when designing and implementing software tools to ensure information security, able to withstand the destructive influences.
+     </p>
+   item_keywords: Information Security, architecture security principles, separation of programs and data
+   item_pages: 2–6
+ - doi:
+   link: _7_2012_2
+   udk: '004.89:004'
+   item_authors: Razumovsky A. G., Panteleev M. G.
+   item_name: Validation and Reasoning over Objects Using Ontologies
+   item_authors_address: ' <b> A. G. Razumovsky</b>,  e-mail: razumovsky.andrey@gmail.com, <b> M. G. Panteleev </b>'
+   item_annot: |
+     <p> Syntax of object-oriented (OO) language such as Java is not so expressive and doesn't contain similiar semantic constructs as ontology web language does. Therefore, many rules and constrains of the domain cannot be modeled using those languages. Establishing a mapping between similar constructs of OO-languages and ontologies would help expanding validation and reasoning that are usually used over ontologies, to the objects.
+     </p>
+   item_keywords: ontologies, object-oriented programming, software development
+   item_pages: 7–13
+ - doi:
+   link: _7_2012_3
+   udk: '004.4:681.518'
+   item_authors: Filaretov V. F., Yukhimets D. A., Mursalimov E. Sh.
+   item_name: Universal Architecture Development of Distributed Software of Mechatronic Object
+   item_authors_address: ' <b> V. F. Filaretov </b>, <b> D. A. Yukhimets </b>, <b> E. Sh.Mursalimov </b>, e-mail: murs@mail.dvo.ru'
+   item_annot: |
+     <p> In this paper the new approach for software development of mechatronic object based on architecture JAUS is offered. This software is a distributed computer control system. Its components are realized so that its one may place on the different computational devices without modification its parts which describe corresponding functional properties. It allows to essentially expand application area of this computer control system for mechatronic object which onboard computational system consist of embedded controllers.
+     </p>
+   item_keywords: software, mechatronic object, computer control system, Joint Architecture for Unmanned Systems (JAUS)
+   item_pages: 14–21
+ - doi:
+   link: _7_2012_4
+   udk: '004.42'
+   item_authors: Aleksandrov A. E., Vostrikov A. A., Shilmanov V. P.
+   item_name: Principles of the Organization of Architecture of Software System "Prognoz" on the Basis of Library of Algorithms
+   item_authors_address: '<b> A. E. Aleksandrov </b>, <b> A. A. Vostrikov </b>, <b>  V. P. Shilmanov </b>, e-mail: femsystem@yandex.ru'
+   item_annot: |
+     <p> The program system "Prognoz" developed on the basis of the technology based on simulation of family of program systems is provided. The program library consisting of elements, executing the basic (application-oriented) functions, and the auxiliary elements intended for independent testing of these programs, detection and correction of errors is provided. The description of basic data structures which reflect features of data domain is provided and are used for implementation of application-oriented elements as a part of library.
+     </p>
+   item_keywords: program system, program component, library of program components, object-oriented design
+   item_pages: 22–26
+ - doi:
+   link: _7_2012_5
+   udk: '004.423'
+   item_authors: Popov S. E., Zamaraev R. Y.
+   item_name: The Software and MetaLanguage of Algorithms for Analysis of Social and Economic Entities
+   item_authors_address: '<b> S. E. Popov </b>, <b> R. Y. Zamaraev </b>, e-mail: prosluda@gmail.com'
+   item_annot: |
+     <p> The article is devoted to the development of the software and algorithms, meta-language of the analysis of social and economic entities, the formalization of the descriptive rules of the expert computational modules and structured data are exemplified by entropy analysis method. Defines the basic rules of making a systematic and analytical profiles that integrate the ability to debug, test and visualize the results of the analysis. On the example of studying the state of the Siberian Federal District demonstrated the direction of the development and implementation of application software system and the language of meta-description in the analysis of social and economic systems.
+     </p>
+   item_keywords: meta-language, the entropy method of analysis, software, multi-criteria choice, functional performance, social and economic systems
+   item_pages: 27–33
+ - doi:
+   link: _7_2012_6
+   udk: '004.65:004.052.4'
+   item_authors: Likhachev V. N., Ginzgeymer S. A.
+   item_name: Error Handling Relational Databases of PostgreSQL
+   item_authors_address: '<b> V. N. Likhachev </b>,  e-mail: lvlad@rambler.ru,<b> S. A. Ginzgeymer </b>, e-mail: ginzgeymer@mail.ru'
+   item_annot: |
+     <p> The article offers the author's method of informative error message formation for the PostgreSQL database based on the analysis of the database structure, usage of table and field user names, and usage of special database-level and application messages.
+     </p><p>This approach allows to: considerably decrease the scope of work involved in developing applications working with databases; improve the structure of such applications; simplify the support of such applications.
+     </p>
+   item_keywords: database, software quality, error handling, PostgreSQL
+   item_pages: 34–41
+ - doi:
+   link: _7_2012_7
+   udk: '004.42'
+   item_authors: Erofeev E. V., Pelepelin I. E.
+   item_name: CMIS Performance Results Analysis in Alfresco and IBM FileNet Implementation
+   item_authors_address: '<b> E. V. Erofeev </b>,  e-mail: EErofeev@it.ru,<b> I. E. Pelepelin </b>, e-mail: IPelepelin@blogic20.ru'
+   item_annot: |
+     <p> This article discusses comparative testing performance results of basic operations on documents in a Repository (IBM FileNet, Alfresco) for CMIS realization in comparison with Native API one. Some test results produce a great performance reduction in the case of CMIS using. The practical approaches of bounds definition in use of CMIS are determined.
+     </p>
+   item_keywords: CMIS, performance, ECM-system, Alfresco, IBM FileNet
+   item_pages: 42–47
+---

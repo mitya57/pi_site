@@ -1,0 +1,72 @@
+---
+title: Vol. 7, no 2 2016 year
+content:
+ - doi: 7.51-60
+   link: 7.51-60
+   udk: '004.822:004.89'
+   item_authors: Zagorulko Yu. A., Zagorulko G. B., Borovikova O. I.
+   item_name: Technology for Building Subject-Based Intelligent Scientific Internet Resources Based on Ontology
+   item_authors_address: ' <b> Yu. A. Zagorulko</b>, e-mail: zagor@iis.nsk.su, <b> G. B. Zagorulko </b>, e-mail: gal@iis.nsk.su, <b> O. I. Borovikova</b>, e-mail: olesya@iis.nsk.su, A. P. Ershov Institute of informatics systems of Siberian Branch of Russian Academy of Sciences, Novosibirsk, 630090, Russian Federation'
+   item_corr_author: 'Zagorulko Yury A., Head of Laboratory, A. P. Ershov Institute of informatics systems of Siberian Branch of Russian Academy of Sciences, Novosibirsk, 630090, Russian Federation, e-mail: zagor@iis.nsk.su'
+   item_rec_on: ' September 28, 2015'
+   item_acc_on: ' November 19, 2015'
+   item_annot: |
+     <p> The paper discusses a technology of the development of subject-based Intelligent Scientific Internet Resources which provides content-based access to systematized scientific knowledge and information resources (ISIR) related to a certain knowledge area and to their intelligent processing facilities. An important merit of ISIR is its ability to reduce appreciably the time required to access and analyze information thanks to the accumulation of the semantic descriptions of the basic entities of a knowledge area being modeled, the Internet resources relevant to this area, and the information processing facilities used in it directly in the ISIR content. The specific features of the technology are the use of ontology and semantic network formalisms as well as orientation to experts. For the considered technology ontology is used not only for formalization and systematization of above-mentioned kinds of knowledge, information resources and processing facilities, but also for organization of convenient access to them      
+     </p>
+   item_keywords: intelligent scientific Internet resource, ontology, semantic network, thesaurus, technology, metasearch, information extraction
+   item_pages: 51–60
+   item_comment: This work was supported by the Russian Foundation for Basic Research, project no. 13-07-00422
+   item_citation: ' Zagorulko Yu. A., Zagorulko G. B., Borovikova O. I. Technology for Building Subject-Based Intelligent Scientific Internet Resources Based on Ontology, Programmnaya Ingeneria, 2016, vol. 7, no. 2, pp. 51—60.'
+ - doi: 7.61-74
+   link: 7.61-74
+   udk: '004.42'
+   item_authors: Potapov V. P., Popov S. E.
+   item_name: High-Performance Region-Growing Algorithm for InSAR Phase Unwrapping Based on CUDA
+   item_authors_address: '<b> V. P. Potapov</b>, potapov@ict.sbras.ru, <b> S. E. Popov</b>, popov@ict.sbras.ru, Institute of Computational Technologies SB RAS, Novosibirsk, 630090, Russian Federation'
+   item_corr_author: ' Semen E. Popov, Chief Scientist, Institute of Computational Technologies SB RAS, Novosibirsk, 630090, Russian Federation, e-mail: popov@ict.sbras.ru'
+   item_rec_on: ' September 28, 2015'
+   item_acc_on: ' November 19, 2015'
+   item_annot: |
+     <p This paper presents a high-performance Region-Growing algorithm for InSAR phase unwrapping. Software implementation of the algorithm provides the ability to run on multiprocessor platforms in multi-threaded mode using the graphics devices that support the technology NVIDIA CUDA.
+     </p><p>In order to reduce the volume of the data exchange between the CPU and GPU developed an effective method of packing / unpacking indexes of pixels using bit sets. It was possible to reduce up to 64 times the amount of traffic due to the conversion of the index points to a state of the bit variable of type Long.
+     </p><p>Was improved constructing growth ring algorithm. By associating a detailed point of the image with one thread of the multiprocessor graphics unit, it was possible for one GPU computation cycle to process more than 20,000 pixels. To reduce iterations of the loop for each thread in the warp the boundary conditions at the corresponding pixel-candidate for the phase unwrapping were added.
+     </p><p>To reduce the operating time of the "merge regions" procedure, which generates the need to update the "ambiguity numbers" of the joining region at the overlapping points and numbers of regions in previously unwrapped, "paged-pinned memory" were used to deploy region numbers map to reduce the data transfer time between CPU and GPU memories.
+     </p><p>The developed algorithm has been tested on real interferometric data and showed the improved time (up to 5) compared to the basic algorithm of program complex Exelis ENVI.
+     </p>
+   item_keywords: parallel computing, CUDA, phase unwrapping, region-growing algorithm
+   item_pages: 61–74
+   item_citation: ' Potapov V. P., Popov S. E. High-Performance Region-Growing Algorithm for InSAR Phase Unwrapping Based on CUDA, Programmnaya Ingeneria, 2016, vol. 7, no. 2, pp. 61—74.'
+
+ - doi: 7.75-85
+   link: 7.75-85
+   udk: "004.4'2; 004.056"
+   item_authors: Vasenin V. A., Pirogov M. V., Chechkin A. V.
+   item_name: The Main Operator of Radical Modeling on a Demonstration Example
+   item_authors_address: ' <b> V. A. Vasenin</b>, vasenin@msu.ru, Moscow State University, 119234, Moscow, Russian Federation, <b> M. V. Pirogov</b>, pmv_mvp@mail.ru, NPO Lavochkin, 141400, Moscow Region, Russian Federation, <b> A. V. Chechkin</b>, A.Chechkin@mail.ru, Military Academy by Great Pieter, 143900, Moscow Region, Russian Federation'
+   item_corr_author: ' Vasenin Valery A., Professor, Moscow State University, 119234, Moscow, Russian Federation, e-mail: vasenin@msu.ru'
+   item_rec_on: ' October 27, 2015'
+   item_acc_on: ' November 31, 2015'
+   item_annot: |
+     <p> In this article questions of support of complex purposeful systems are discussed. Including the questions relating to subsystems of automation of various technological process and hardware and software for the solution of tasks at various stages of life cycle of purposeful systems is discussed. Despite certain achievements of purposeful systems in this area there is a number of tusks important for practice which aren't solved now. The problem of information system security is considered as a key at creation, operation and modernization of purposeful systems. Authors of this article offer approach to permission of this problem. This approach consists in intellectual management of process of engineering of purposeful systems by means of methods and instruments of radical modeling and radical programming. Conceptual provisions of such approach are based on use of radical environment (multilevel model of problem area of purposeful systems) and also on systems application of language of schemes of radicals which is a universal remedy of the description of problem area. The concept of the main operator of the radical modeling providing implementation of the target scheme of radicals is entered. The concept the main operator is illustrated by a demonstration example. Reasons of authors according to the solution of the questions relating to creation of the initial atlas of schemes of radicals for problem areas of purposeful systems are presented. Approach to creation and structurization of mathematical support of radical modeling is stated. Need of the specialized program — the editor of schemes of radicals is proved.
+     </p>
+   item_keywords: systems thinking, complex system, purposeful system, critical system, information system security, intellectual management, radical environment, scheme of radicals, universal language of informatics, "RADICAL", language of diagrams, hardware and software, software engineering, radical modeling, radical programming, radical model, main operator of radical modeling
+   item_pages: 75–85
+   item_citation: 'Vasenin V. A., Pirogov M. V., Chechkin A. V. The Main Operator оf Radical Modeling оп а Demonstration Example, Programmnaya Ingeneria, 2016, vol. 7, no. 2, pp. 75—85.'
+
+ - doi: 7.86-96
+   link: 2_2014_4
+   udk: '330.46; 519.7'
+   item_authors: Orlova E. V.
+   item_name: Mechanism, Models and Control Algorithms for Productive and Economic System under Harmonization Criteria of Interested Agents
+   item_authors_address: '<b> E. V. Orlova</b>, ekorl@mail.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation '
+   item_corr_author: ' Ekaterina V. Orlova, Associate Professor, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation, e-mail: ekorl@mail.ru'
+   item_rec_on: 'September 1, 2015'
+   item_acc_on: 'November 2, 2015'
+   item_annot: |
+     <p> The problem of simulation and operational control in production and economic system (PES) under condition of economy's systematic modernization considering the coordination of interests of agents of the PES, agents of market and institutional environments is considered in the article. PES is a complex organizational system that integrates the processes of production, sales, and reproduction of resources, is characterized of the properties as dynamic character and large number of parameters, strong interconnectivity, hierarchical structure, an inverse of the material and information communications, non-linear and non-stationary. A conceptual model for the creation of the PES control system, which determines a unified system-methodological position structure of the PES control system as three blocks of problems is developed and includes: the formation of an effective system of control PES, ensuring resource management and coordination of the processes of strategic and operational management of the PES; the formation of an effective system of control PES as a market pricing mechanism for strategic cooperation with competitors and consumers; the formation of the tax burden and tax rates as an instrument of fiscal policy aimed at stimulating the development of PES and economic growth at the expense of sound management of the interaction of economic agents. The conceptual model is the basis of the control methodology in PES and aims to improve the effectiveness of the decisions making at the expense of a coherent management in PES. The proposed functional scheme of the PES control system uniting disparate economic and mathematical methods and models is proposed. The scheme reflect the heterogeneous properties of PES and provides a synthesis of efficient control algorithms.
+     </p>
+   item_keywords: production and economic systems, modeling, management, coordination of interests, multiple criteria decision making
+   item_pages: 86–96
+   item_citation: 'Orlova E. V. Mechanism, Models and Control Algorithms for Productive and Economic System under Harmonization Criteria of Interested Agents, Programmnaya Ingeneria, 2016, vol. 7, no. 2, pp. 86—96.'
+
+---

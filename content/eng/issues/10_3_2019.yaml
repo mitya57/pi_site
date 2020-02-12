@@ -1,0 +1,81 @@
+---
+title: Issue N3 2019 year
+content:
+ - doi: 10.99-104
+   udk: "004.451.9; 004.056.53"
+   item_authors: "Gryuntal A. I., Dyshlenko S. G."
+   item_name: "Access Control in Automated Systems Based on 'Baguette' Real-Time Operating Systems"
+   item_authors_address: |
+     <b> A. I. Gryuntal</b>, grntl@niisi.ras.ru, <b> S. G. Dyshlenko</b>, dishlenko@niisi.ras.ru, Federal state institution Federal scientific center research Institute of system studies of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Gryuntal Andrej I., Head of Department, Federal state institution "Federal scientific center research Institute of system studies of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: grntl@niisi.ras.ru'
+   item_rec_on:  November 16, 2018
+   item_acc_on:  December 11, 2018
+   item_annot: |
+     <p> The article provides a conceptual basis for automated systems development which exploits the "Baguette" realtime operating systems and provides unauthorized access protection. The "Baguette" operating systems do not include access control means. That is why access control and unauthorized access protection mechanisms are to be implemented using application software.
+     By means of the "Baguette" operating systems configuration facilities interactive programs contained in the OS could be excluded. The "Baguette" operating systems utilize cross-technology application development scheme. This implies that no unauthorized code could be injected or executed in application hardware environment. It follows that the only way to get access to some application resource is to make use of algorithms included in the application algorithms which determine interactive communication with the operator.
+     This means that predetermined access principle is fulfilled — all access attempts are under application software control and any access act could not be carried out in case it is not authorized by the application. Hence access control means could be localized in the application software.
+     This scheme could be used for a system consisting of a single computer with "Baguette" operating system installed, or in case if automated system includes a few computers, which are connected by LAN isolated from other computers. The hardware composition of these automated systems is to be permanent.</p>
+   item_keywords: automated system, unauthorized access, principle of certainty of access, computing domain, interactive domain, real-time operating system
+   item_pages: 99–104
+   item_citation: 'Gryuntal A. I., Dyshlenko S. G. Access Control in Automated Systems Based on "Baguette" Real-Time Operating Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 3, pp. 99—104.'
+ - doi: 10.105-113
+   udk: "004.4'2"
+   item_authors: "Chentsov P. A."
+   item_name: "One Approach to Developing Cross-Platform Applications in C++"
+   item_authors_address: |
+     <b> P. A. Chentsov</b>, chentsov.p@mail.ru, Institute of Mathematics and Mechanics Ural Branch of RAS, Yekaterinburg, 620219, Russian Federation
+   item_corr_author: " Chentsov Pavel A., Senior Researcher, Institute of Mathematics and Mechanics Ural Branch of RAS, Yekaterinburg, 620219, Russian Federation, E-mail: chentsov.p@mail.ru"
+   item_rec_on:  October 10, 2018
+   item_acc_on:  November 26, 2018
+   item_annot: |
+     <p> The technology of developing cross-platform software in the C++ language is considered. Programs are developed with using of a special library of classes. This library contains software constructions ensuring portability of the code, and is easily adaptable to different operating systems, compilers, and C++ base libraries. The dependence of the user interface of programs on the operating systems, compilers and base libraries persists, but some techniques of this dependence minimization are proposed.</p>
+   item_keywords: C++, cross-platform programming
+   item_pages: 105–113
+   item_citation: 'Chentsov P. A. One Approach to Developing Cross-Platform Applications in C++, Programmnaya Ingeneria, 2019, vol. 10, no. 3, pp. 105—113.'
+ - doi: 10.114-124
+   udk: "004.41+65.01"
+   item_authors: "Batovrin V. K., Pozin B. A."
+   item_name: "Requirements Engineering at a Modern Industrial Enterprise"
+   item_authors_address: |
+     <b>V. K. Batovrin</b>, batovrin@mirea.ru, MIREA — Russian Technological University, Moscow, 117454, Russian Federation, <b>B. A. Pozin</b>, bpozin@ec-leasing.ru, JSC ЕС-leasing, Moscow, 117587, Russian Federation; National Research University Higher School of Economy, Moscow, 101000, Russian Federation
+   item_corr_author: " Batovrin Victor K., Head of Department, MIREA — Russian Technological University, Moscow, 117454, Russian Federation, E-mail: batovrin@mirea.ru"
+   item_rec_on:  October 01, 2018
+   item_acc_on:  November 01, 2018
+   item_annot: |
+     <p> The article discusses the key problematic issues of requirements engineering in relation to the projects implemented by industrial enterprises. The enterprise that leads the development, implementation, operation and maintenance processes throughout complex technical systems life cycle is considered. The vital need to state requirements engineering processes at a modern level within the framework of production cooperation is shown in the context of ensuring the integrity and consistency of project activities. The main problems of the absence of mature requirements engineering throughout the life cycle of a complex technical system are discussed. The estimation of the scope of such problems for the aviation industry as an example is given. It is shown that the key success factor to solve these problems is the creation of subdivisions responsible for the forming of various types of requirements and maintaining their integrity and traceability throughout the life cycle of a complex technical system, as well as complex automation of these activities. The objectives, results and content of the basic processes of requirements engineering as well as the modern standards and best practices in this area are discussed. The method for the eliciting, managing and specification of requirements during the life cycle of the technical system is proposed in that context. It is shown that it is possible to ensure two-way traceability between the most important entities: the hierarchies of functional requirements and system requirements, the system architecture and the identified configuration objects when using this method.
+     </p>
+   item_keywords:  requirements engineering, requirements eliciting, requirements quality, requirements documentation, requirements traceability
+   item_pages: 114–124
+   item_citation: ' Batovrin V. K., Pozin B. A. Requirements Engineering at a Modern Industrial Enterprise, Programmnaya Ingeneria, 2019, vol. 10, no. 3, pp. 114—124.'
+ - doi: 10.125-134
+   udk: "004.93'12"
+   item_authors: "Staroverov V. M."
+   item_name: "Classification of Sensory Images using Tactile Information Obtained from Mechanoreceptor"
+   item_authors_address: |
+     <b> V. M. Staroverov</b>, staroverovvl@yandex.ru, M. V. Lomonosov Moscow State University, Faculty of Mechanics and Mathematics, Moscow, 119991, Russian Federation
+   item_corr_author: " Staroverov Vladimir M., Associate Professor, M. V. Lomonosov Moscow State University, Faculty of Mechanics and Mathematics, Moscow, 119991, Russian Federation, Е-mail: staroverovvl@yandex.ru"
+   item_rec_on:  November 20, 2018
+   item_acc_on:  December 11, 2018
+   item_annot: |
+     <p> The article is devoted to the automatic analysis of tactile images obtained with the help of Medical Tactile Endo-surgical Complex (MTEC). The author proposes an algorithm for tactile samples classification that can identify and classify the heterogeneities in the tissues studied. To test the algorithm, the author creates a library of sensor heterogeneities, which consists of silicone parallelepipeds with solid inclusions. On the basis of this library, test samples of clicks was made. In the article the decision on belonging of the tested sample to one of the pre-defined classes is based on the proximity function between the given sample and the samples from the pre-defined classes. The final decision on the corresponding of the sample to the predefined class is made on the basis of some kind of "voting" method. Testing of the algorithm is carried out on the solution of two applied problems: 1) determination of belonging of the tested sample to one of the six types of heterogeneities; 2) determination of the presence of the inhomogeneity of the undefined type in the tested sample. The article deals with heterogeneities based on artificial samples simulating homogeneous tissue, tissue with pathologic inclusions and tissue with a blood vessel. In the solving the problems the method of cross-validation is actively used in the article. Detailed results of calculations posted on the Internet at the link provided with the article.
+     </p>
+   item_keywords: Artificial tactile sensing, Medical Tactile Endosurgical Complex, library of sensory images
+   item_pages: 125–134
+   item_comment: ' The research was supported by the Russian Science Foundation (project 16-11-00058 "The development of methods and algorithms for automated analysis of medical tactile information and classification of tactile images")'
+   item_citation: ' Staroverov V. M. Classification of Sensory Images using Tactile Information Obtained from Mechanoreceptor, Programmnaya Ingeneria, 2019, vol. 10, no 3, pp. 125—134. '
+ - doi: 10.135-144
+   udk: "514.7"
+   item_authors: "Svetushkov N. N."
+   item_name: "Creating Two-Dimensional Geometric Objects Based on Universal Structural Element — Cluster Point"
+   item_authors_address: |
+     <b> N. N. Svetushkov</b>, svetushkov@mai.ru, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation
+   item_corr_author: " Svetushkov Nikolay N., Assistant Professor, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation, E-mail: svetushkov@mai.ru"
+   item_rec_on:  May 24, 2018
+   item_acc_on:  December 27, 2018
+   item_annot: |
+     <p> The article discusses a new approach to the creation of complex models — two-dimensional geometric objects. The basis of this approach is the topological characteristics of the model, which are set by the user in separate selected nodes — cluster points, which provides the necessary flexibility of description and allows changing the external representation of the object to a considerable extent. The cluster representation has a sufficient degree of universality, allowing the formation of rather complex geometric models. At the same time, an important feature of such a parametric representation is the ability to add necessary geometric characteristics by simple means and modify existing ones. The basic concept of a cluster point introduced in the paper is based on the possibility of specifying a set of parameters for a local description of a closed geometric region surrounding a given point. Combining a finite set of these areas allows you to create a new parameterized geometric object as a whole, which was called the MUC object (an object built on the model of a unified cluster). Drawing an analogy with computer graphics, we can say that the MUC-object is a vector image of a complex geometric shape (as opposed to a raster image, which is defined by the color of each pixel on the screen). In other words, the proposed geometric description method allows you to convert a complex geometric image into a "vector" format, and thus significantly reduce the total amount of stored data (as opposed to a pixel image). The article describes a universal set of parameters relating to a separate cluster point, which allows one to construct both the simplest geometric objects and more complex ones, based on predetermined algorithms for combining them. The presented parameters allow us to construct the boundary of a geometric object in the form of a piecewise-smooth line, the form of which depends on the specified angles and types of connecting lines at each cluster point. The possible combinations of lines for the IOC object, consisting of one cluster point, as well as the combination of two and three points are listed. For the last two cases, merging algorithms are described, also based on the parameters specified at cluster points. The paper concludes that a cluster object consisting of a single point is a generalization of classical geometric figures — a square, a rectangle, a circle and an ellipse and allows considering the algorithm of their construction from a unified position. At the end of the article, the software implementation of the presented approach is briefly described, which allows us to construct not only the above-named figures, but also, as an example, a five-element MUC object. In the latter case, there are several screen shots of this object with modified parameters, which demonstrates that, despite the same topology, externally, these objects look significantly different. The simplest examples show the applicability of the developed approach in the design of technical products, in particular, with its help it is possible to draw a wing profile or a wheel with spokes. At the end of the work, screen shots of rather exotic figures are presented, which would have required considerable effort by other means. In the end, it is con­cluded about the possibilities of wide practical application of this approach.
+     </p>
+   item_keywords: cluster models, geometric description, topology, algorithmic procedures, visualization, software
+   item_pages: 135–144
+   item_citation: Svetushkov N. N. Creating Two-Dimensional Geometric Objects Based on Universal Structural Element — Cluster Point, Programmnaya Ingeneria, 2019, vol. 10, no. 3, pp. 135—144.
+---

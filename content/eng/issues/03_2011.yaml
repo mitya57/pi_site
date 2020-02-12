@@ -1,0 +1,87 @@
+---
+title: Issue N3 2011 year 
+content:
+ - doi:
+   link: _3_2011_1
+   udk: "004.94; 330.4; 519.683"
+   item_authors: "Makarov V.L., Bahtizin A.R., Vasenin V.A., Roganov V.A., Trifonov I.A."
+   item_name: "Capacities of Supercomputer System for Work with Agent-Based Models   "
+   item_authors_address: | 
+     <b> V.L. Makarov </b>, e-mail: makarov@cemi.rssi.ru ,<b> A.R. Bahtizin </b> ,  e-mail: albert@cemi.rssi.ru ,<b> V.A. Vasenin </b> , e-mail: vasenin@msu.ru <b> V.A. Roganov </b>, e-mail: raduga@butovo.com, <b> I.A. Trifonov </b>, e-mail: spaeciallyforyou@gmail.com
+   item_annot: |
+     <p> The article employs an agent-based model, developedin CEMI RAS, to analyze the steps and methods for effective reflection of countable core of multiagent system to the architecture of a modern supercomputer. The use of supercomputer technologies and the optimization of the programming code enabled reaching a high degree of productivity      </p>
+   item_keywords: agent based model, parallel computing, supercomputers
+   item_pages: 2–14
+ - doi:
+   link: _3_2011_2
+   udk: "004.414+004.415+004.416"
+   item_authors: "Bulyonkov M. A., Emelyanov P. G."
+   item_name: "On Experience in Program System Reengineering"
+   item_authors_address: | 
+     <b> M.A. Bulyonkov </b>, e-mail: mike@iis.nsk.su , <b> P. G.Emelyanov </b>
+   item_annot: |
+     <p> Program system reengineering is an important domain of informatics using wide specter of scientific methods and technologies and attracting strong attention of researchers, engineers, and the business society. In particular, a reengineering project of a program system handling the problem of interest can establish a new knowledge about its characteristics. In the article we give a general description of reengineering and domains of its applications as well as we discuss issues appearing for automation of this activity.
+     </p>
+   item_keywords: software reengineering, legacy applications, reengineering automation, business logic extraction, knowledge mining
+   item_pages: 15–22
+ - doi:
+   link: _3_2011_3
+   udk: "004.45"
+   item_authors: "Vegerina N. O., Lipanov A. V."
+   item_name: "Expert System for Software Source Code Quality Analysis"
+   item_authors_address: | 
+     <b> N. O. Vegerina </b>, <b> A. V. Lipanov </b>, e-mail: alex@infostroy.com.ua
+   item_annot: |
+     <p> In this article the visual system of source code quality analysis using metrics calculation is being described. Modern software products provide functionalities for counting source code metrics, but their values are non-normalized and dont have the limits of measurement. There are no software products that can interpret the numerical values of metrics to verbal recommendations up to date. The system provides the user the ability to load module for the analysis, calculate metrics, get text recommendations and report generation. The system can be used during software development for source code improvements.
+     </p>
+   item_keywords: object-oriented metrics, coupling, cohesion, instability, source code, software.
+   item_pages: 23–28
+ - doi:
+   link: _3_2011_4
+   udk: "004.45"
+   item_authors: "Egorov V. U."
+   item_name: "Task Management Efficiency Estimation Criteria in a Multiprocessor Operating System"
+   item_authors_address: | 
+     <b>  V. U. Egorov </b>, e-mail: vec@cryptosoft.ru
+   item_annot: |
+     <p> The article proposes new criteria of task management efficiency estimation in a multiprocessor operating system. Requirements for task management algorithms are examined also.
+     </p>
+   item_keywords: task management criteria, estimation of task management efficiency, formulas of estimation
+   item_pages: 29–33
+ - doi:
+   link: _3_2011_5
+   udk: "004.4"
+   item_authors: "Korneev V. V."
+   item_name: "Security of Cloud Computing: Resource Sharing Based on Grid"
+   item_authors_address: | 
+     <b> V. V. Korneev </b>, e-mail: korv@rdi-kvant.ru
+   item_annot: |
+     <p> Based on grid technology approach to constructing safe hybrid clouds is submitted.
+     </p>
+   item_keywords: cloud computing, grid, information security assurance
+   item_pages: 34–39
+ - doi:
+   link: _3_2011_6
+   udk: "004.01"
+   item_authors: "Stepalina E. A."
+   item_name: "The Usage of Hosted Systems for Software Documentation "
+   item_authors_address: | 
+     <b> E. A. Stepalina </b>, e-mail: estepalina@mail.ru
+   item_annot: |
+     <p> Various documentation types accompanying the software and the documentation life cycle are considered in the article. The documentation tool requirements are described for different document types. The documentation systems of two state-of-the-art types — CMS and Wiki — are considered, the usage cost estimation for standalone and hosted versions ofthese systems are compared in the article.
+     </p>
+   item_keywords:  software documentation, SaaS, Wiki, XML CMS
+   item_pages: 40–44
+ - doi:
+   link: _3_2011_7
+   udk: "004.056"
+   item_authors: "Galatenko V. A."
+   item_name: "Automation of Analysis and Processing of Security Information  Content"
+   item_authors_address: | 
+     <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru
+   item_annot: |
+     <p> The article is devoted to the main aspects of Security Content Automation Protocol (SCAP)/ Author of this work reviews SCAP, gives a brief characteristic of SCAP components and recommendations of SCAP using. Also he gives a brief list of SCAP-compartible products.
+     </p>
+   item_keywords: information security, security content, automation protocol
+   item_pages: 45–47
+---

@@ -1,0 +1,59 @@
+---
+title: Issue N3 2012 year
+content:
+ - doi:
+   link: _3_2012_1
+   udk: '004.41(075.8)'
+   item_authors: Lipaev V. V.
+   item_name: Forecasting Economic Characteristics Manufactures of Custom-Made Software Products
+   item_authors_address: '<b> V. V. Lipaev </b>, e-mail: vlip28@mail.ru '
+   item_annot: |
+     <p> Basics of forecasting the economic characteristics of the production of software products and features using the prediction model COCOMO II. Influence characteristics of experts, the technological and computer environment is considered at forecasting economic characteristics of manufacture. Examples of forecasting the economic characteristics manufacture of software products are presented.
+     </p>
+   item_keywords: forecasting; economic characteristics; factors manufacture; model COCOMO II; examples of forecasting
+   item_pages: 2–11
+ - doi:
+   link: _3_2012_2
+   udk: '004.414.2'
+   item_authors: Bukashkin S. A., Krivoshein B. N., Terekhov A. N., Fominykh N. F.
+   item_name: The Fault-tolerant Computer Design Techniques Using Triple Modular Redundancy (2oo3) Architecture
+   item_authors_address: ' <b> S. A. Bukashkin </b>, <b> B. N. Krivoshein </b>, e-mail: Boris.Krivoshein@lanit-tercom.com,<b> A. N. Terekhov </b>, e-mail: Andrey.Terekhov@lanit-tercom.com, <b> N. F. Fominykh </b>'
+   item_annot: |
+     <p> This article contains an overview of the fault-tolerant redundant systems design techniques with an example of the original computer OVK based on the TMR (2oo3) hardware architecture. The overview includes examples of the functional safety estimation, failure rate calculations, solving of general issues related to the fault-tolerant systems design. The theoretical approaches are confirmed by practical samples of algorithms, protocols and other engineering solutions used for OVK design and implementation
+     </p>
+   item_keywords: fault-tolerant computer, voting, triple modular redundancy, TMR, architecture 2oo3, functional safety, reliability
+   item_pages: 12–20
+ - doi:
+   link: _3_2012_3
+   udk: '004.724.4 + 519.872.3'
+   item_authors: Zayats O. I., Zaborovsky V. S., Muliukha V. A., Verbenko A. S.
+   item_name: Packet Switching Management in Telematics Devices with Finite Buffer Size Using Preemptive Priority Queueing and Randomized Push-out mechanism. Part 2
+   item_authors_address: ' <b> O. I. Zayats </b>, e-mail: zayats@amd.stu.neva.ru, <b> Zaborovsky V. S. </b>, e-mail: vlad@neva.ru, <b> Muliukha V. A. </b>, e-mail: vladimir@mail.neva.ru, <b> A. S. Verbenko </b>'
+   item_annot: |
+     <p> In this part of the paper basic specifications of telematics systems described in the first part are calculated for random values of a push-out probability α. The problem is solved by generating functions. When the system capacity is equal to k packets, the proposed method allows to reduce the order of the system of linear algebraic equations in k/2 times from k(k + 1)/2 to (k + 1). The dependence of the probability of packet loss and network latency on the α parameter is analyzed. The results explain a number of effects that were observed in natural experiment, in particular the linear law of the packet loss in non-congested network, and the possibility of "blocking" non-priority traffic in congested network increasing the α value. An example of media traffic management is presented.
+     </p>
+   item_keywords: priority queueing, preemptive priority, randomized push out mechanism, packet traffic, telematics systems management
+   item_pages: 21–29
+ - doi:
+   link: _3_2012_4
+   udk: '004.4'
+   item_authors: Pustigin A. N., Ivanov A. I., Yazov Y. K., Solovyev S. V.  
+   item_name: 'Automatic Synthetics of Comments to Programme Codes: Prospects of Development and Application'
+   item_authors_address: '<b> Pustigin A. N. </b>, <b> A. I. Ivanov </b>, <b> Y. K. Yazov </b>, <b> S. V.  Solovyev </b>, e-mail: gniii@fstec.ru'
+   item_annot: |
+     <p> It is discussed prospects of automatization of technical comments to program codes construction. It is shown ways of technical comments generator creation and practical aspects to their application
+     </p>
+   item_keywords: program code, comments, automatization, comments generator, parse tree
+   item_pages: 30–33
+ - doi:
+   link: _3_2012_5
+   udk: '004.4'
+   item_authors: Puchkov F. M., Shapchenko K. A.
+   item_name: 'Formal Verification of C and C++ Programs: Practical Aspects'
+   item_authors_address: '<b> F. M. Puchkov </b>, e-mail: fedormex@iisi.msu.ru,  <b> K. A. Shapchenko </b>, e-mail: shapchenko@iisi.msu.ru'
+   item_annot: |
+     <p> This article discusses the current state of the art in formal software verification. Approaches for improving traditional methods and software of automated detection of run-time errors in C/C++ programs which are based on formal verification techniques are investigated.
+     </p>
+   item_keywords: formal verification of programs, static analysis, information security
+   item_pages: 34–47
+---

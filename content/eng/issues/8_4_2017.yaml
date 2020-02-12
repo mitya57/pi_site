@@ -1,0 +1,87 @@
+---
+title: Issue N4 2017 year 
+content:
+ - doi: 8.147-160
+   link: 8.147-160
+   udk: "004.457+004.031.2+004.382.2"
+   item_authors: "Nikolaev D. S., Korneev V. V."
+   item_name: "Using Container Virtualization in High Performance Computing with SLURM Scheduler"
+   item_authors_address: | 
+     <b> D. S. Nikolaev</b>, dmitry.s.nikolaev@gmail.com, <b> V. V. Korneev</b>, korv@rdi-kvant, Scientific Research Institute Kvant, Moscow, 125438, Russian Federation 
+   item_corr_author: " Korneev Victor V., Principal Researcher, Moscow, 125438, Russian Federation E-mail: korv@rdi-kvant "
+   item_rec_on:  January 24, 2017
+   item_acc_on:  February 06, 2017
+   item_annot: |
+     <p> The topic of this paper is using container virtualization technic to isolate parallel tasks running on diskless compute nodes of clustered heterogeneous HPC with SLURM job scheduler. The author proposes an approach of creating user defined virtual environments with certain computing resources requirements and suggests a heterogeneous HPC cluster model. A method of using modified CoreOS operation system with integrated SLURM scheduler is described. Diskless compute nodes boot CoreOS via PXE. Initial configuration of various OS-level items and mounts performs with Ignition and Cloud-Config declarations. Cluster shared storage is based on a NFS distributed file system protocol. Users home catalogs are shared across cluster nodes and each node has its own container storage on shared file system. Different isolated tasks share one compute node and use a combination of local Linux bridges and VXLAN to overlay container-to-container communications over physical network infrastructure. Using of privileged Docker containers allows user to load drivers via kernel modules to support different compute nodes hardware configurations. Isolated tasks can make use of InfiniBand communications or CUDA if appropriate devices assigned to their containers. There are some security concerns of using privileged containers; otherwise, container virtualization does not increase additional security risks. In conclusion, the author also provides performance measurements to illustrate how various tasks interfere with each other and further research topics.
+     </p>
+   item_keywords: container virtualization, HPC, cluster, CoreOS, Docker, SLURM, MPI, InfiniBand, CUDA
+   item_pages: 147–160
+   item_citation: ' Nikolaev D. S., Korneev V. V. Using Container Virtualization in High Performance Computing with SLURM Scheduler, Programmnaya Ingeneria, 2017, vol. 8, no. 4, 147—160.'
+ - doi: 8.161-169
+   link: 8.161-169
+   udk: "004.738"
+   item_authors: "Asratian R. E."
+   item_name: "Internet Service for Protected Multi-server Processing of Information Queries in Distributed Systems"
+   item_authors_address: | 
+     <b>  R. E. Asratian </b>, e-mail: rea@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation 
+   item_corr_author: " Asratian Ruben E., Leading Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, 117997, Moscow, Russian Federation, E-mail: rea@ipu.ru"
+   item_rec_on: January 18, 2017
+   item_acc_on:  January 24, 2017
+   item_annot: |
+     <p> The principles of the organization of the new network service — Protected Message Service (PMS) — intended for protected queries processing in the distributed information systems oriented on operation in complex multi-server and multi-network structures are considered. Distinctive features of service are tight integration of functions of information data protection with functions of information exchange and information requests routing for multi-server processing.
+     From the client point of view the service architecture is based on two main program classes: "Protected message" and "Network Connection". This classes offer necessary functionality not only for creating and protecting messages, but also for transferring them to remote server via established network connections for processing. Contrary to web-services, based on remote function call model, PMS-service is based on message processing model: all service functions receive object of "Protected message" class as a parameter and return another object of the same class as a result of processing. This approach opens a basic possibility for the organization of pipeline processing of one protected message by the sequence of service functions in a manner when the output of each function is forwarded to the input of the following one, and the result of last function returns to the client. The principles of the organization of pipeline processing of queries in a chain of servers are considered. The emphasis on routing of queries in the complex multi-network structures including a set of private local area networks is especially placed</p>
+   item_keywords: distributed systems, web-technologies, Internet-technologies, network interactions, data security
+   item_pages: 161–169
+   item_citation: ' Asratian R. E. Internet Service for Protected Multi-server Processing of Information Queries in Distributed Systems, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 161—169.'
+ - doi: 8.170-176
+   link: 8.170-176
+   udk: "004.855.5"
+   item_authors: "Kharakhinov V. A., Sosinskaya S. S."
+   item_name: "The Visualization Methods for Cluster Analysis Results of Mechanical Engineering Components based on Neural Network"
+   item_authors_address: | 
+     <b> V. A. Kharakhinov</b>, tes4obse@mail.ru, <b> S. S. Sosinskaya</b>, sosinskaya@mail.ru, Irkutsk National Research Technical University, Irkutsk, 664074, Russian Federation 
+   item_corr_author: " Sosinskaya Sophia S., Professor, Irkutsk National Research Technical University, Irkutsk, 664074, Russian Federation, E-mail: sosinskaya@mail.ru"
+   item_rec_on: November 30, 2016
+   item_acc_on: January 11, 2017
+   item_annot: |
+     <p> This paper considers the research results of clustering analysis based on Kohonen networks for the mechanical engineering components. Some ways to visualize these results were discussed in the paper. The first way is based on Andrews curves. It provides only an approximate graphical representation for this data. The next way uses factor analysis to reduce dimension of initial data and to visualize these data in lower dimension. The cluster analysis was applied to the factors values for time reducing of network training. A comparison of the results of cluster analysis of mechanical engineering components on the basis of self-organizing networks with outputs obtained using other clustering methods is given.
+     </p>
+   item_keywords: cluster analysis, Kohonen networks, Andrews curves, factor analysis, mechanical engineering components
+   item_pages: 170–176
+   item_citation: ' Kharakhinov V. A., Sosinskaya S. S. The Visualization Methods for Cluster Analysis Results of Mechanical Engineering Components based on Neural Network, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 170—176.'
+ - doi: 8.177-185
+   link: 8.177-185
+   udk: "004.832.38"
+   item_authors: "Shmarin A. N."
+   item_name: "Clustering the Set of Layers in the Fuzzy LP-Inference Problem"
+   item_authors_address: | 
+     <b> A. N. Shmarin</b>, e-mail: tim-shr@mail.ru, Voronezh State University, Voronezh, 394006, Russian Federation 
+   item_corr_author: " Shmarin Artem N., Postgraduate Student, Voronezh State University, Voronezh, 394006, Russian Federation, E-mail: tim-shr@mail.ru"
+   item_rec_on:  December 25, 2016 
+   item_acc_on:  January 11, 2017
+   item_annot: |
+     <p> The increase in the volumes and complexity of processed information makes the use of artificial intelligence systems more and more actual. In such systems, one of the most widespread knowledge representation models is the production model, and search algorithms are based on the inference engine. In practice, the values measurement of the features of the classified objects from some data domain is a time-consuming operation for many problems. These tasks appear, for example, when the robot explores the surface of another planet. If the goal of the robot is to get to some rock, but the future route is observed only partially, then the robot should try to make the best decision on how to achieve the goal, taking into account limitation of the resources available to additional exploration of terrain. Another example, in which the cost of obtaining new information may be high, is the commercial medicine. To minimize costs, it is necessary to find the acceptable treatment method using the minimum number of analyses performed in minimal time. The delay in providing treatment, caused by the additional analyses, leads to increased costs. Moreover, the condition of a patient who was not provided timely assistance, can significantly deteriorate. Also, the cost of additional research is essential in the field of mineral exploration. It can turn out that a more cost-effective solution is to begin drilling, if confidence of the success is 95 %, than to spend the considerable resources to achieve the 98 % confidence.
+     The complexity of the operations of data acquisition necessary for decision-making, leads to the problem of minimizing the number of requests for information about values of the features of the classified object during inference. This problem is NP-hard. To achieve global minimization there is the general method of LP-inference with exponential computational complexity relative to the number of atomic facts in the knowledge base. However, some of its heuristic modifications have polynomial complexity. The goal of the provided research is development of the approximating method to better minimize the number of feature values requests performed in the inference.
+     Earlier, the questions of implementation of computing approximate estimates of the number of layers without cycles in the fuzzy LP-inference task were considered. This paper presents the mathematical statement of the fuzzy LP-inference task, researches the monotonicity properties of the function evaluating the number of layers without cycles, and presents the clustering algorithm of the set of layers — singleton samples from equivalence classes of the quotient set, that obtained by partitioning of the binary relation by the unique right parts of pairs. This algorithm is designed for the iterative analysis of such subsets of productions, which most significantly influence to the relevancy. The presented approach can be used to accelerate the reverse inference in production type systems of artificial intelligence.      </p>
+   item_keywords: LP-inference, binary relation, quotient set, clustering, stochastic algorithm, machine learning, algorithms
+   item_pages: 177–185
+   item_citation: ' Shmarin A. N. Clustering the Set of Layers in the Fuzzy LP-Inference Problem, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 177—185.'
+ - doi: 8.186-192
+   link: 8.186-192
+   udk: "004.75 + 004.41"
+   item_authors: "Shundeev A. S."
+   item_name: "On a Recognition Problem of the Automata Languages"
+   item_authors_address: | 
+     <b> A. S. Shundeev</b>, alex.shundeev@gmail.com, Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation 
+   item_corr_author: " Shundeev Aleksandr S., Leading Researcher, Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation E-mail: alex.shundeev@gmail.com"
+   item_rec_on:  January 18, 2017
+   item_acc_on:  February 02, 2017
+   item_annot: |
+     <p> Finite state machines and automata languages are effective instruments of describing and modeling software systems. For research of the automata language properties one can use approaches, that traditionally belong to the field of data analysis.
+     For example, the problem of automata language recognition can be viewed as the problem of classifying all words over a given alphabet. One class of words is defined by an automata language. Another class of words is the complement of this automata language. In the classical formulation of this task it is assumed that the classifier is completely defined. It is assumed that the finite state machine that recognizes the automata language or its complement language, is defined. In this case the solution is to minimize the classifier to reduce its computational complexity.
+     In this article, it is assumed that the classifier is unknown. It specifies only the training sample, which contains a finite number of reference representatives of the automata language and complement of this automata language. Accordingly, the task is to build an approximate classifier by analyzing the structure of the training sample elements. To do this, a new concept of approximate automata that acts as an approximation of the classifier is introduced. As the quality characteristics of the solution of the problem we introduce the concepts of weak and strong correctness of the approximate classifier. We investigate the relationship of these characteristics. An algorithm for constructing approximate machine automata that has the property of strong correctness and solve task of words classification is described.
+     </p>
+   item_keywords: DFA, automata language, classification problem, recognition problem, machine learning
+   item_pages: 186–192
+   item_citation: ' Shundeev A. S. On a Recognition Problem of the Automata Languages, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 186—192.'
+---

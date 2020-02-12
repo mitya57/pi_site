@@ -1,0 +1,87 @@
+---
+title: Issue N7 2017 year 
+content:
+ - doi: 8.291-299
+   link: 8.291-299
+   udk: "004.052.42, 004.4'233"
+   item_authors: "Orlov D. A."
+   item_name: "Program Source Code Static Analysis for Memory Access Error Detection Using Backwards Execution"
+   item_authors_address: | 
+     <b> D. A. Orlov</b>, orlovdmal@mpei.ru, National Research University Moscow Power Engineering Institute, Moscow, 111250, Russian Federation 
+   item_corr_author: " Orlov Dmitry A., Assistant Professor, National Research University Moscow Power Engineering Institute, 111250, Moscow, Russian Federation, E-mail: orlovdmal@mpei.ru"
+   item_rec_on:   September 04, 2016 
+   item_acc_on:  April 05, 2017
+   item_annot: |
+     <p> This paper is dedicated to static source code analysis for memory access error detection. Brief review of static source code analysis methods is given. Backwards execution method is considered. Such technique is often used in debuggers to make inspection of program state preceding to error state possible. But this method is also applicable to static source code analysis. Symbolic backward execution in some cases can simplify static analysis. For example, it simplifies analysis of conditions which must be satisfied after the loop execution. An algorithm of static source code analysis using backwards symbolic execution is proposed. The algorithm in consideration is finding if out of bounds memory access is possible in input program. The usage of algorithm proposed is restricted to a subset of programs which can be effectively executed backwards, i.e., algorithms which operations are restricted to loops, conditional jumps, indirect memory access, value copying and addition with constant. This restriction simplifies conditions generated during symbolic execution. Most of text data processing algorithms and file format parsing functions belong to this subset. A test implementation of the proposed algorithm was created. The implementation is tested using input programs which implement the following algorithms: strlen without border checking, strlen with border checking and algorithm counting number of utf-8 codepoints in string.</p>
+   item_keywords: static source code analysis, memory access errors, programming, algorithm theory, program testing, program verification, backwards execution, symbolic execution
+   item_pages: 291–299
+   item_citation: 'Orlov D. А. Program Source Code Static Analysis for Memory Access Error Detection Using Backwards Execution, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 291—299.'
+ - doi: 8.300-309
+   link: 8.300-309
+   udk: "519.722"
+   item_authors: "Kukartsev A. M., Kuznetsov A. A."
+   item_name: "On the Equimorphic Computation of the Jevons Group Element Action over Boolean Functions"
+   item_authors_address: | 
+     <b> A. M. Kukartsev</b>, amkukarcev@yandex.ru, <b>  A. A. Kuznetsov</b>, kuznetsov@sibsau.ru, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation
+   item_corr_author: " Kukartsev Anatolii M., Senior Lecturer, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation, E-mail: amkukarcev@yandex.ru"
+   item_rec_on:  March 26, 2017 
+   item_acc_on:  May 10, 2017
+   item_annot: |
+     <p> The solution of the equation in which an element of the Jevons group acts over a Boolean function reduces to the calculation of factor actions of the canonical representation of this element. According to average estimates a computer with a clock speed of 1 GHz processes (not including overhead) 1 MiB of data (equivalent to the Boolean function of 23 arguments) in approximately 30 minutes. This time is unacceptably large for many tasks of information processing.
+     In this paper, we propose a model of an equimorphic calculator to solve the equation. It is based on three algorithms for three types of factors of the Jevons group canonical representation. Algorithms include elementary logical operations performed on machine words: logical multiplication, logical addition, right and left logical shifts, and assignment. These operations are applied to partitioning of the machine words on the equivalent to Boolean functions data. As a result, the performance of computations increases in proportion to the size of the machine word in compare to the processing of single values of the function. Moreover the machine words can be processed in a parallel way. So we can improve the performance of calculations by increasing the number of computing cores. Eventually, the performance of computations is increased by hundreds and thousands of times in relation to algorithms for processing individual values of the function.
+     The algorithms are formulated for an abstract arithmetic logic device which corresponds to both IA-32 and IA-64/ AMD64 architectures of computer processors and to other architectures. For the possibility of working with different capacities, the necessary recommendations and calculation formulas for forming constants for a particular architecture are given. The article contains proofs of the correctness of the algorithms. Also we estimate their complexity. The algorithms can be used for both solving the equations of action of the Jevons group over Boolean functions and implementing such actions themselves.
+     </p>
+   item_keywords: action on the set, the Jevons group, Boolean functions, equations of action on a set, equimorphic groups, abstract machines
+   item_pages: 300–309
+   item_comment: ' The reported study was funded by RFBR and the government of Krasnoyarsk kray according to the research project № 17-47-240318.'
+   item_citation: ' Kukartsev A. M., Kuznetsov A. A. On the Equimorphic Computation of the Jevons Group Element Action over Boolean Functions, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 300—309.'
+ - doi: 8.310-318
+   link: 8.310-318
+   udk: "004.82"
+   item_authors: "Grif M. G., Lukoyanychev A. V."
+   item_name: "3D Animation of Russian Sign Language based on Dimskis Notation"
+   item_authors_address: | 
+     <b> M. G. Grif</b>, grifmg@mail.ru, <b> A. V. Lukoyanychev</b>, dizzystyle@yandex.com, Novosibirsk state technical University, 630073, Russian Federation 
+   item_corr_author: " Grif Michael G., Professor, Novosibirsk state technical University, 630073, Russian Federation, E-mail: grifmg@mail.ru "
+   item_rec_on:  April 02, 2017
+   item_acc_on:  May 10, 2017
+   item_annot: |
+     <p> The article is devoted to the features of the Russian sign language, the difficulties of computer translation. The analysis of modern notations of sign language and the possibility of their use for the development of the Russian sign language are presented. The use of Dimskis notation for demonstrating gestures is explained. The main characteristics of Dimskis notation and the features of its use in computer realization are considered. We consider the main 3D graphic packages for the implementation of the animation character. Using the modern cross-platform graphics package Unity 3D for the animated model of the sign language interpreter us allows to create an economical and efficient system. The possibilities of the software complex on the basis of Dimskis notation and an animated 3D character using Unity 3D gestures for demonstration are described. The stages of creating the dictionary of the Russian sign language and compound phrases are considered. In conclusion, the authors present the main results of the work and the prospects for its further development. Using the Dimskis notation allows the users knowing the Russian sign language to supplement the glossary of terms to use the dictionary for demonstrating words and complex phrases. The proposed approach makes it possible to create "lessons" on specific topics for training.
+     </p>
+   item_keywords: Russian Sign Language, a multimedia dictionary, Dimskis notation, Unity3D, animated character, avatar
+   item_pages: 310–318
+   item_citation: ' Grif M. G., Lukoyanychev A. V. 3D Animation of Russian Sign Language based on Dimskis Notation, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 310—318.'
+ - doi: 8.319-327
+   link: 8.319-327
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "The Synthesis of Cognitive Goals Implementation for Tasks of Subject Domains Content Management"
+   item_authors_address: | 
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation 
+   item_corr_author: "Kostenko Konstantin I., Assistant Professor, Kuban State University, Krasnodar, 350040, Russian Federation E-mail: kostenko@kubsu.ru"
+   item_rec_on:  April 12, 2017  
+   item_acc_on:  May 02, 2017
+   item_annot: |
+     <p> The unified structure defined for components of system that simulates the development processes of knowledge areas content. This structure based on representation of the separate concept properties by means of semantic networks structures that consist of relations between concepts. The system of such components includes the tasks entities, tools, knowledge sources and elementary knowledge of domain content. Such a system extends opportunities of analysis, estimation and management in the area of creating new knowledge and applying it. Detailed structure of classes that realize separate components and relations between classes proposed for professional activity domain that deals with analysis of the semantic representation for set of objects considered as foundation of integrated knowledge area formal description. The domain content representation based on classes of domain exploration results and results attributes. These separate attributes form the special set that includes classes of meanings for completeness, style, level, purpose and truth. The tools component integrates knowledge of objects that realize operation of professional tasks solving processes. This component consists of such classes as parameters, formulas, algorithms, cognitive goals, cognitive structures, scenarios and cognitive structures synthesis rules. Main classes of entities component represent knowledge areas, knowledge areas tasks, authors and organizations. Classes of objects and relations between classes are basic elements of the system represented by the cognitive map. The sources component accumulates knowledge that relates to the announced and published results of authors scientific activities. Such a map represents the knowledge area ontology and accumulates the set of elementary and simple knowledge of simulated professional activity domain. The representations of professional tasks and the scheme of synthesis the complex knowledge as hierarchical structures are considered. Such knowledge structures accumulate objects dependencies and represent the objects neighborhoods of a given depth that provide separate professional tasks realization.
+     </p>
+   item_keywords: cognitive map, cognitive goal, knowledge synthesis, knowledge area, knowledge representation, content management
+   item_pages: 319–327
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00214'
+   item_citation: 'Kostenko K. I. The Synthesis of Cognitive Goals Implementation for Tasks of Subject Domains Content Management, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 319—327. '
+ - doi: 8.328-336
+   link: 8.328-336
+   udk: "004.89"
+   item_authors: "Burlayeva E. I."
+   item_name: "Review of Methods for Classifying Text Documents Based on the Machine Learning Approach"
+   item_authors_address: | 
+     <b> E. I. Burlayeva</b>, ekaterina0853@mail.ru, Donetsk National Technical University, Pokrovsk, Donetsk region, 85300, Ukraine
+   item_corr_author: " Burlayeva Ekaterina I., Graduate Student, Donetsk National Technical University, Pokrovsk, Donetsk region, 85300, Ukraine, E-mail: ekaterina0853@mail.ru"
+   item_rec_on:  March 23, 2017  
+   item_acc_on:  May 04, 2017
+   item_annot: |
+     <p> Increased interest in creating effective tools for working with textual information based on automatic text processing is due to a sharp increase in textual information in electronic form leading to the need to automate various types of activities. Automatic text classifiers can be useful in almost any system where text documents are used to represent information. The use of classifiers makes it possible to reduce the labor costs for finding the necessary information represented by electronic texts. In order to understand the variety of documents, certain rules for their compilation, forms and methods of working with documents have been developed. One of the technologies for processing textual information is the automatic classification of text documents, which consists of assigning a document to one of several categories based on the content of the document. An important step in solving the task of classifying text is the choice of the machine learning method that will be applied to the vector representation of the document. This article presents a comparative analysis of various methods of machine learning, which are used for multi-class classification of text documents. Comparing and studying the four classification algorithms, namely, support vector method (SVM), latent-semantic analysis (LSA), naive Bayes and decision tree. There is a need to improve the quality and speed of the text classification, by combining the advantages of known text classification algorithms.
+     </p>
+   item_keywords: automatic classification of documents, machine learning, support vector method (SVM), latent semantic analysis (LSA), decision trees, naive Bayesian classifier
+   item_pages: 328–336
+   item_citation: ' Burlayeva E. I. Review of Methods for Classifying Text Documents Based on the Machine Learning Approach, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 328—336.'
+---

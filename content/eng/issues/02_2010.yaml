@@ -1,0 +1,68 @@
+---
+title: Issue N2 2010 year
+content:
+ - doi:
+   link: _2_2010_1
+   item_authors: Guriev M.A.
+   item_authors_address: 'Guriev M.A., E-mail: marat_guriev@ru.ibm.com'
+   item_name: Journal "Program Engineering" and the Science on Services
+   item_annot: |
+     <p>The growth of services in modern economies is shown. The expediency of creation of special "Science on services" is justified. Illustrated the role of company IBM in its formation. The main tasks of the journal in connection with the development of new science are formulated.</p>
+   item_keywords: science on services, the company IBM, the journal "Program Engineering"
+   item_pages: 2–4
+ - doi:
+   link: _2_2010_2
+   item_authors: Lipaev V.V.
+   item_authors_address: 'Lipaev V.V., E-mail: alexlip@mail.ru'
+   item_name: 'The Problems of Program Engineering: Standardization, Human Factor, Professional Training'
+   item_annot: |
+     <p>The basic scientific, methodological and technological problems of program engineering which arise at various stages of life cycle of modern difficult complexes of programs are considered. Problems of standardization of processes in program engineering, influences on them of the human factor, the organization of collectives of executors of works and training of experts are presented. Are allocated and formulated over twenty most actual private problems, ways and methods and their decisios are presented.</p>
+   item_keywords: program engineering, difficult complexes of programs, standardization, the human factor, a professional training.
+   item_pages: 5–14
+ - doi:
+   link: _2_2010_3
+   item_authors: Makhortov S.D.
+   item_authors_address: 'Makhortov S.D., E-mail: sd@expert.vrn.ru'
+   item_name: LP-Structures for Justification and Automation of Refactoring in Object-Oriented Programming
+   item_annot: |
+     <p>In the software industry an important direction is connected with the development of formal models for automated objects. Such models provide a basis for effective verification and optimization of the program code. In this paper a class of lattice-based algebraic structures describing semantics of a type hierarchy in an object-oriented system is considered. The properties of such structures, including closedness, equivalent transformations, and existence of logical reduction are studied. The methodology is designed to verify and upgrade type hierarchies and is focused on automatic elimination of code redundancy. As a result of the generalized theoretical model a new refractoring method of attribute joining is obtained and formalized.</p>
+     <p>Implementation issues are briefly discusses.</p>
+   item_keywords: type hierarchy, refactoring, algebraic model, common attributes, implementation.
+   item_pages: 15–21
+ - doi:
+   link: _2_2010_4
+   item_authors: Shutilin E.Yu., Atymtayeva L.B.
+   item_authors_address: 'Shutilin E.Yu., Atymtayeva L.B., E-mail: atymtayeva@gmail.com'
+   item_name: Software Development Optimization by "Kanban" Methodology
+   item_annot: |
+     <p>This paper is about lean software development methodic "Kanban" initially deployed by Toyota Production System. The paper shows variants of adaptation the methodic to different projects and, what is the most interesting, analytical data from a real project that applied "Kanban" for almost during a year.</p>
+   item_keywords: Agile, software engineering, Kanban, software development
+   item_pages: 22–24
+ - doi:
+   link: _2_2010_5
+   item_authors: Vasenin V.A., Gircha A.I.
+   item_authors_address: 'Vasenin V.A., Gircha A.I., E-mail: vasenin@msu.ru'
+   item_name: A Software Suite for Performing Science Intensive Computational Experiments Based on Vortex Methods for Numerical Modeling of Non-Stationary Hydrodynamic Processes
+   item_annot: |
+     <p>Issues related to construction of effective software suite built with the use of elements of software engineering for performing computational experiments based on vortex methods for numerical modeling of non-stationary hydrodynamic processes are considered. The results of the main stages of the development process of the software suite are presented. These stages include: formalization and systematization of the requirements, software architecture development, detailed design, development of effective algorithms, coding and testing. The results of the testing process prove that the characteristics of the software suite conform to the requirements formulated.</p>
+   item_keywords: software suit, software engineering, software quality, software complexity metrics, computational hydrodynamics
+   item_pages: 25–32
+ - doi:
+   link: _2_2010_6
+   item_authors: Podbelskiy V.V.
+   item_authors_address: 'Podbelskiy V.V., E-mail:vpodbelskiy@hse.ru'
+   item_name: Evolutional Approach in Programming Training
+   item_annot: |
+     <p>A modern Integrated development environment (IDE) provides programmers with more facilities than their predecessors had. Presence of these facilities offers even beginner programmers an opportunity of using leading development methods. This work deals with how to use these opportunities on the first stages of learning programming.</p>
+   item_keywords:  programming training, evolutional approach, training models, programming methods.
+   item_pages: 33–40
+ - doi:
+   link: _2_2010_7
+   item_authors: Zharkovskiy A.V., Lyamkin A.A., Trevgoda T.F.
+   item_authors_address: 'Zharkovskiy A.V., Lyamkin A.A., Trevgoda T.F., E-mail: tat.trevgoda@yandex.ru'
+   item_name: Automation of Testing the Functional Software of Control Complexes for Complicated Technical Systems
+   item_annot: |
+     <p>The structure of the automated testing system is proposed and algorithms for comprehensive debugging and testing of functional software of control complexes for complicated technical systems are given.</p>
+   item_keywords: technical systems, functional software, testing, log-book, model, structure, algorithm.
+   item_pages: 41–47
+---

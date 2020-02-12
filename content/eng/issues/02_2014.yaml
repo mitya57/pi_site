@@ -1,0 +1,70 @@
+---
+title: Issue N2 2014 year
+content:
+ - doi:
+   link: _2_2014_1
+   udk: '004.4'
+   item_authors: Lipaev V. V.
+   item_name: Advanced Real-Time Software Systems Configuration Management
+   item_authors_address: '<b> V. V. Lipaev</b>,  e-mail: vlip28@mail.ru'
+   item_annot: |
+     <p> The methodical issues of the configuration management organization within the collective production of big real-time software systems are briefly outlined. The outline is based on the analysis of standards and author's experience obtained while developing such systems. Special attention is paid to the quality assurance and software testing, as well as documenting, archiving and contribution to an end-user.
+     </p>
+   item_keywords: software systems, software, real time, testing, archiving
+   item_pages: 3–12
+ - doi:
+   link: _2_2014_2
+   udk: '004.31'
+   item_authors: Bibilo P. N., Kardash S. N., Kirienko N. A., Pottosin Yu. V., Romanov V. I.
+   item_name: Automation of Synthesis of Pipelined CMOS Circuits
+   item_authors_address: ' <b> P. N. Bibilo</b>, <b>S. N. Kardash</b>, <b>N. A. Kirienko</b>, e-mail: kir@newman.bas-net.by, <b>Yu. V. Pottosin</b>, <b>V. I. Romanov</b>  '
+   item_annot: |
+    <p> The structure and the functionality of the software system ArCon for synthesis of pipelined CMOS circuits of high speed are described. The results of investigating the speed and power consumption of multilevel pipelined circuits of custom VLSI library elements made in CMOS technology are presented.
+    </p>
+   item_keywords: автоматизация проектирования, заказные КМОП СБИС, design automation, custom CMOS VLSI, pipelining, synthesis of high speed circuits
+   item_pages: 13–18
+ - doi:
+   link: _2_2014_3
+   udk: '004.06'
+   item_authors: Lavrischeva E. M.
+   item_name: Development of Academics Ideas of V. M. Gluchkov from the Technologies of Computers, Systems and Programs
+   item_authors_address: '<b> E. M. Lavrischeva</b>,  e-mail: Lavrischeva@gmail.com'
+   item_annot: |
+     <p> An article is dedicated to 90-year of birth day of academician of NAN Ukraine and USSR Victor Michalovich Gluchkov, to his deposit in development of technology of ECM, computer systems and programs. In the 70-years of past century he foresaw, that the factories of computers, systems and programs, which will work on principle of assembling will appear, as in motor-car industrial factory of Ford. In course of time his foresight were justified. Offered them technologies are adequate to technologies, which appeared simultaneously in Computer Sciences. One of technologies — Software Engineering technology of programming is identical. Developing the Gluchkov's ideas, the author realized the technology of assembling ready components for the heterogeneous systems and gave a new classification of SE disciplines, oriented on industry of software products on the factory.
+     </p>
+   item_keywords: technology of programming, technology of computers, systems and programs, factories of the programs, industry, methods
+   item_pages: 19–26
+ - doi:
+   link: _2_2014_4
+   udk: '004.94'
+   item_authors: Kobzarenko D. N.
+   item_name: Automation for Sample Data of Wind Monitoring from the "Russia's Weather" Server
+   item_authors_address: '<b> D. N. Kobzarenko</b>, e-mail: kobzarenko_dm@mail.ru'
+   item_annot: |
+     <p> The questions related to the preliminary analysis and processing of wind monitoring data from the "Russia's Weather" server, with the help of specially developed software are considered.
+     </p>
+   item_keywords: wind monitoring, automation for sample data
+   item_pages: 27–32
+ - doi:
+   link: _2_2014_5
+   udk: '004.912'
+   item_authors: Vasenin V. A., Afonin S. A., Panushkin D. S.
+   item_name: Models of Information Dissemination in Social Networks
+   item_authors_address: '<b> V. A. Vasenin </b>,  e-mail: vasenin@msu.ru, <b> S. A. Afonin</b>, e-mail: serg@msu.ru, <b> D. S. Panushkin </b>,  email: dspan@yandex.ru'
+   item_annot: |
+     <p> The modified mathematical model, which enhances the capabilities of existing methods of solving the problem of information dissemination in social networks, is proposed. The proposal is based on the analysis of approaches to the development of ways to disseminate information in social networks.
+     </p>
+   item_keywords: social networks, information dissemination ways, traffic models, data sources
+   item_pages: 33–42
+ - doi:
+   link: _2_2014_6
+   udk: '004.656'
+   item_authors: Seleznyov K. E., Vladimirov A. A.
+   item_name: Morphological Dictionaries Implementation Based on Vectors of Bit
+   item_authors_address: '<b> K. E. Seleznyov</b>, e-mail: skostik@relex.ru, <b> A. A.Vladimirov </b>, e-mail: alcobass@gmail.com '
+   item_annot: |
+     <p> The paper describes new approach of morphological analysis implementation. It is based on dictionaries, but uses bitmaps for data indexing and searching inside dictionaries. It doesn't allow to improve analysis quality and speed, but it allows to process words which contains errors and misprints.
+     </p>
+   item_keywords: morphological analysis, errors, misprints
+   item_pages: 43–48
+---

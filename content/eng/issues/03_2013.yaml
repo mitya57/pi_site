@@ -1,0 +1,92 @@
+---
+title: Issue N3 2013 year
+content:
+ - doi:
+   link: _3_2013_1
+   udk: '004.457'
+   item_authors: Godunov A. N., Soldatov V. A.
+   item_name: Specifics of Embedded System Debugging
+   item_authors_address: ' <b> A. N. Godunov </b>, <b> V. A. Soldatov </b>, e-mail: nkag@niisi.ras.ru'    
+   item_annot: |
+     <p> Methods of monitoring and debugging at all stages of the embedded system software development life cycle are discussed in this paper. System services provided by RTOS Baget 2.0 to acquire and store diagnostic information about program errors are described.
+     </p>
+   item_keywords: RTOS Baget 2.0, embedded systems, debugging, system log, tracing, exception
+   item_pages: 2–7
+ - doi:
+   link: _3_2013_2
+   udk: '004.2'
+   item_authors: Lysunets A. S., Pozin B. A.
+   item_name: Integrity Control Planning of Complex Automated Banking System by Methods of Functional and Performance Testing
+   item_authors_address: ' <b> A. S. Lysunets</b>, e-mail: las366@spb.cbr.ru, <b> B. A. Pozin </b> '
+   item_annot: |
+     <p> The integrity control problem of complex automated banking systems in the process of maintenance is presented. Concept of the integrity level of the automated system is introduced. The method of test planning (for functional and performance testing) and evaluation of the adequacy of the testing results and the method of assessing of efficiency of integrity control of automated banking systems.
+     </p>
+   item_keywords: maintenance of the automated system, integrity of the automated system, integrity level, planning integrity control, regression performance testing
+   item_pages: 8–14
+
+ - doi:
+   link: _3_2013_3
+   udk: '004.6'
+   item_authors: Kolchugina E. A.
+   item_name: Software Systems with Self-Organization of Continual Type
+   item_authors_address: ' <b> E. A. Kolchugina </b>, e-mail: kea_sci@list.ru'
+   item_annot: |
+     <p> In this article kinds of changing programs, including self-organizing program systems, are considered. Types and conditions of self-organization are revealed. The artificial chemistry's theory models, in which the processes of software self-organizing are investigated, are considered. The concept of non-equilibrium programming, previously offered in works of the author, is considered also. The prospects of future development techniques and usage of self-organizing program systems are defined.
+     </p>
+   item_keywords: разработка программного обеспечения, парадигма программирования, самоорганизация, искусственная химия, неравновесное программирование
+   item_pages: 15–20
+ - doi:
+   link: _3_2013_4
+   udk: '519.246'
+   item_authors: Aduenko A. A., Strijov V. V.
+   item_name: Optimal Text Placement for Titles of Documents in Collection
+   item_authors_address: '<b> A. A. Aduenko </b>, e-mail: aduenko1@gmail.com, <b> V. V. Strijov </b>, e-mail: strijov@ccas.ru'
+   item_annot: |
+     <p> Consider the method of visualization of the results of thematic clustering of documents' collection. Pairwise-distance matrix is projected on plain using PCA. It is required to place the titles of dociments on plain. The loss function, which allows to reach a minimal overlap, is suggested. For its optimisation BFGS algorithm is used. Method suggested in the article is illustrated by visualization of conference's thesis.
+     </p>
+   item_keywords: visualization, thematic classification, documents' collection, loss function, BFGS algorithm
+   item_pages: 21–25
+ - doi:
+   link: _3_2013_5
+   udk: '002.55, 004.912'
+   item_authors: Petrov Yu. I.
+   item_name: Architecture and Algorithmic Support of Graduation Thesis Review Information System
+   item_authors_address: '<b> Yu. I. Petrov </b>, e-mail: mailtoyuripetrov@gmail.com'
+   item_annot: |
+     <p> The article overviews the design and implementation issues of graduation thesis review information system. Appropriate software architecture is suggested, an algorithm of document parsing and an example of its implementation, based on object model of Microsoft Word text processor, is described.
+     </p>
+   item_keywords: thesis review, graduation thesis, information system, software, automation, parsing, text processor, Microsoft Word
+   item_pages: 26–32
+ - doi:
+   link: _3_2013_6
+   udk: '002.53/55:001.814'
+   item_authors: Zharkovskiy A. V., Lyamkin A. A., Trevgoda S. A.
+   item_name: Structured Approach to the Automation of Abstracting Scientific and Technical Texts
+   item_authors_address: '<b> A. V. Zharkovskiy </b>, e-mail: av.jarkov@yandex.ru,<b> A. A. Lyamkin </b>, e-mail: alex-ljamkin@yandex.ru, <b> S. A. Trevgoda </b>, e-mail: trevgoda@users.mns.ru, '
+   item_annot: |
+     <p> Various approaches to solving abstracting automation problems are analysed. Formalisation of the process of building the structure of scientific and technical texts is considered. A text structure correctness criterion has been proposed and the corresponding structural characteristics and limitations have been introduced.
+     </p>
+   item_keywords: automation, abstracting, functional relations, text structure, formalisation
+   item_pages: 33–35
+ - doi:
+   link: _3_2013_7
+   udk: '66.011'
+   item_authors: Sokolov F. P., Sizykh I. N., Sukhova A. V.
+   item_name: Computer Modelling Systems for Designing of Industrial Objects of the Gas and Petrochemical Processing
+   item_authors_address: '<b> F. P. Sokolov </b>, <b> I. N. Sizykh </b>, <b> A. V. Sukhova </b>, e-mail: info@giprosintez.ru'
+   item_annot: |
+     <p> Various software packages are investigated that can be used in the design phase of gas-oil production facilities. It is shown that the software package Aspen ONE is one of the few software products that contain a set of applications for technical and economic analysis of the existing and complex modeling of new technologies and industries. It has a separate unit for equipment simulation, which can not be described by standard mathematical model presented in the libraries of software system. The features of the application of software package Aspen ONE are described at the design studies during the reconstruction of the existing production of trichlorosilane in Usolie-Sibirskoe of Irkutsk region.
+     </p>
+   item_keywords: software systems, design of industrial gas-oil facilities, the software Aspen ONE, module Aspen Custom Modeler, reconstruction of trichlorosilane production
+   item_pages: 36–43
+ - doi:
+   link: _3_2013_8
+   udk: '004.75+004.41'
+   item_authors: Shundeev A. S.
+   item_name: Introduction to the IEEE 754
+   item_authors_address: '<b> A. S. Shundeev </b>, e-mail: alex.shundeev@gmail.com'
+   item_annot: |
+     <p> This article provides an introduction to computer arithmetic floating point numbers, and standard IEEE 754. It is based on materials that were used by the author during the practical sessions of the course "Working on computers and programming" for the students an introduction to this subject area.      </p>
+   item_keywords: floating-point arithmetic, IEEE 754
+   item_pages: 44–47
+---

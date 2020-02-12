@@ -1,0 +1,70 @@
+---
+title: Issue N4 2014 year
+content:
+ - doi:
+   link: _4_2014_1
+   udk: '004.415'
+   item_authors: Shelekhov V. I.
+   item_name: 'Automata-Based Software Engineering: the Language and Development Methods'
+   item_authors_address: '<b> V. I. Shelekhov </b>,  e-mail: vshel@iis.nsk.su'
+   item_annot: |
+     <p> The language and methods of automata-based software engineering integrated with object-oriented and predicate software engineering methods are developed. A program is constructed as a finite state automation presented in the form of control state hypergraph. Automata-based methods are illustrated on the programs of alarm clock modeling and ATM adaptation layer (type 2) protocol.
+     </p>
+   item_keywords: program comprehension, automata-based programming, predicate programming, ATM Adaptation Layer
+   item_pages: 3–15
+ - doi:
+   link: _4_2014_2
+   udk: '004.438'
+   item_authors: Balonin N. A., Sergeev M. B.
+   item_name: Java-MatLab Language Release to Distributed Internet Resources
+   item_authors_address: '<b> N. A. Balonin </b>, e-mail: korbendfs@mail.ru, <b> M. B. Sergeev </b>, e-mail: mbse@mail.ru'
+   item_annot: |
+     <p> A brief description of Java-MatLab language of mathematical calculations have been done. The relationship of the language, format FB2+ and distributed network resources have been observed. The set of network solutions to create a new image of the modern technical book with pages containing executable algorithms connected to the real objects have been proposed.
+     </p>
+   item_keywords: programming languages, high level languages, network programming, technical book, network robotics, living books, executable algorithms
+   item_pages: 16–18
+ - doi:
+   link: _4_2014_3
+   udk: '519.856.2'
+   item_authors: Fedosov V. V., Fedosova A. V.
+   item_name: Optimization of the System of Group Emissions-Fences Pollution for the Production Area (Territory)
+   item_authors_address: ' <b> V. V. Fedosov </b>, e-mail: vlr.fdsv@gmail.com, <b> A. V. Fedosova </b>, канд. физ.-мат. наук, Национальный университет, г. Богота, Колумбия (Universidad Nacional de Colombia), e-mail: afedosova@unal.edu.co'
+   item_annot: |
+     <p> Considered contamination of the group of emission sources and the action of the fence devices. Algorithm for semi-infinite optimization determines overcapacity emission sources for which standards are made pollution zones territory with flexible boundaries. Simulation results are based pollution maps to compare options for the development of local infrastructure.
+     </p>
+   item_keywords: emission sources, device fences, components of the emission, pollution standards for areas, semi-infinite optimization, stochastic algorithm, nonlinear programming
+   item_pages: 19–25
+ - doi:
+   link: _4_2014_4
+   udk: '004.423'
+   item_authors: Zamaraev R. Y., Popov S. E.
+   item_name: The Software Package "Seismatica" for Classification of Seismic Events
+   item_authors_address: '<b> R. Y. Zamaraev </b>, <b> S. E. Popov </b>, e-mail: popov@ict.sbras.ru'
+   item_annot: |
+     <p> The article describes the software package "Seismatica" intended for classification of seismic events. Software package is based on mathematical models of state seismic generators, which are treated as characteristic functions "waveguide" from the source to the seismic station. "Information core" of the complex is a database of seismic patterns that are presented as high-quality recordings of shock waves, confined to events with known genesis, having a certain set of characteristics.
+     </p>
+   item_keywords: software package, web service, classification of seismic events, functional indicators, data analysis
+   item_pages: 26–34
+ - doi:
+   link: _4_2014_5
+   udk: '004.912'
+   item_authors: Vasenin V. A., Afonin S. A., Panushkin D. S.
+   item_name: 'Models of Information Dissemination in Social Networks: Experoimental Results'
+   item_authors_address: '<b> V. A. Vasenin, </b>, e-mail: vasenin@msu.ru, <b> S. A. Afonin </b>,  e-mail: serg@msu.ru, <b> D. S. Panushkin </b>, email: dspan@yandex.ru '
+   item_annot: |
+     <p> This article contains experimental results for the information propagation model described in "Models of Information Dissemination in Social Networks" article published in this journal [1]. Experiments were conducted on both synthetic and real-world data collections.
+     </p>
+   item_keywords: social network, information propagation, information stream model, information sources, Twitter
+   item_pages: 35–41
+ - doi:
+   link: _4_2014_6
+   udk: '004.5'
+   item_authors: Sergeev S. F.
+   item_name: Methodological Problems of the User Interface Information Systems
+   item_authors_address: '<b> S. F. Sergeev </b>,  e-mail: ssfpost@mail.ru'
+   item_annot: |
+     <p> In current article we present our view of the human interfaces development problem. We analyze methodological, theoretical, psychological and technological difficulties and the ways of solving these difficulties, depending on the intellectual degree of interaction processes in information systems.
+     </p>
+   item_keywords: interface, user interface, information system, technogenic environment, hybrid intelligence, artificial intelligence, diffuse intelligence, intelligent environments and systems
+   item_pages: 42–48
+---

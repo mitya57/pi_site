@@ -1,0 +1,67 @@
+---
+title: Issue N1 2015 year
+content:
+ - doi:
+   link: _1_2015_1
+   udk: 
+   item_authors: Lipaev V. V.
+   item_authors_address: '<b>V. V. Lipaev</b>, Professor, Senior Scientific Researcher, e-mail: vlip28@mail.ru, Institute for System Programming of the Russian Academy of Sciences, Moscow'
+   item_name: The Human Factor in the Economics of Custom Software Products
+   item_annot: |
+      <p> The human factor in software engineering is a unique phenomenon, the scope of the study and practical application. He concentrates in intellectual products and does not depend on the supply of materials and a variety of physical means. It is very difficult to identify and evaluate the impact on quality of products, to predict costs and certify properties that have been made, as well as the characteristics of complex programs. However, the production of large custom software must be planned and must be managed. Such management should take into account the characteristics and qualifications of large groups of professionals-developers. To do this in Russia [1, 4, 5] and abroad [2, 3, 7] under investigation and the methodical framework to address the human factor in the production of large complex programs. This publication presents approaches that may contribute to the formation, development and application on a particular enterprise of modern software engineering methodologies. Such approaches and produced by them are intended to support effective evaluation processes of collective production of complex software products for different fields of application. Submitted considerations, arguments and numerical indicators can inform managers of large projects for the development and implementation of complex programs to the need to assess the impact of the human factor. Presents tables for their numerical evaluation based on the use of the model COCOMO II. The influence of individual professionals involved in the creation of software products, as well as the characteristics of the organization development teams on the economic characteristics of their production.
+      </p>
+   item_keywords: economic characteristics, factors of production, software, model COCOMO II
+   item_pages: 3–11
+
+ - doi:
+   link: _1_2015_2
+   udk: 
+   item_authors: Sokolov A. O.
+   item_authors_address: '<b>A. O. Sokolov</b>, Postgraduate Student, Design Engineer, e-mail: wedmeed@mail.ru, Yuri Gagarin State Technical University of Saratov, "KB Electropribor", Saratov'
+   item_name: A Feasibility Test for Event-Driven Systems
+   item_annot: |
+      <p> In this paper a feasibility test for event-driven systems is presented. These systems use tickless-timer along with interrupts for dispatcher initiations. This approach complicates scheduling but it allows an optimal distribution of processor time. A dispatcher runs only then events that require handling is existing. Feasibility test at such systems is difficult because the dispatcher has a complex behavior.
+      </p><p>The proposed solution is intended for real-time systems. Some difficulties are solved using the exokernel architecture. The dispatcher is divided into several virtual subtasks which have parameters is possible to determine. These subtasks are integrated into the extensible software model and the feasibility test.
+      </p><p>As an example the comparative analysis of approaches is presented. It shows that the event-driven approach gives better results under a heavy load and at a small number of tasks.
+      </p>
+   item_keywords: dispatcher, scheduling, feasibility test, real-time, tickless timer, event-driven, exokernel, embedded system, operating system
+   item_pages: 12–23.
+
+ - doi:
+   link: _1_2015_3
+   udk: 
+   item_authors: Yuryev G. A., Panfilova A. S., Marmalyuk P. A.
+   item_authors_address: '<b>G. A. Yuryev</b>, Associate Professor, e-mail: g.a.yuryev@gmail.com, <b>A. S. Panfilova</b>, Programmer, e-mail: panfilova87@gmail.com, <b>P. A. Marmalyuk</b>, Head of the Laboratory, e-mail: pavel.marmalyuk@gmail.com, Moscow State University of Psychology and Education'
+   item_name: Architecture of Software for Oculography Data Analysis
+   item_annot: |
+      <p> Considered is architecture of software designed for automation of calculations related to psychological research in the field of eye movement analysis. The structure of developed software classes, its content, and database structure that can be used to store experimental and computational results are under consideration.
+      </p><p>Authors aim to develop open source software for scientific organizations involved in eye-tracking studies. This software will include: storage and tools for describing of the experiment formal scheme, the primary means of data analysis for subjects eye motion trajectories (such as filtering, smoothing, etc.), as well as set of the standard for this area algorithms to identify integral oculomotor activity indicators and more complex methods of sample analysis.
+      </p><p>Article focuses on the description of the author's decisions about the architecture of the system core and its database.
+      </p>
+   item_keywords: software, eye tracking, R programming language, class diagram, database, graphical user interface
+   item_pages: 24–33
+
+ - doi:
+   link: _1_2015_4
+   udk: 
+   item_authors: Kiryukhin A. V., Alpatov A. V.
+   item_authors_address: '<b>A. V. Kiryukhin</b>, Postgraduate Student, Junior Researcher, e-mail: anton-vk@yandex.ru, <b>A. V. Alpatov</b>, Associate Professor, e-mail: alpatov-alexey@yandex.ru, Ryazan State Radio Engineering University'
+   item_name: System for the Affective state Assessment of Humans on the Basis Heart Rate Measurement upon Video Presentation
+   item_annot: |
+      <p> The purpose of this article consists in development of the system for affective states assessment, according to pulsometry and facial expressions of the men. The system design comprises the problem of the hardware realization of signal detection block, data recording and analysis. The advantages of LabVIEW are well observed in terms of the synchronous recording and analysis of the different types of signals, such as pulse and video. The sequence of virtual instrument construction for recording the pulse wave using a DAQ device NI USB-6008 is presented in detail. Much attention is given to the use of libraries and functions for operating with video images. The features of the window method for the analysis of heart rate variability using fluctuation analysis are briefly described. The patterns of the block diagrams design and the peculiarities of the specific libraries and functions usage are given. This article is the concern of the physicians, engineers of medical equipment and specialists occupied in the areas of human activity where the information about the men's emotional state increases the work safety.
+      </p>
+   item_keywords: LabVIEW, affective state, pulse, video facial, heart rate variability, IMAQ-functions, VLC-player, block diagram, data acquisition, virtual instrument
+   item_pages: 34–40
+
+ - doi:
+   link: _1_2015_5
+   udk: 
+   item_authors: Kononenko I. S., Salomatina N. V., Sidorova E. A.
+   item_authors_address: '<b>I. S. Kononenko</b><sup>1, 2</sup>, Researcher, e-mail: irina_k@cn.ru, <b>N. V. Salomatina</b><sup>1, 3</sup>, Researcher, e-mail: nataly@math.nsc.ru, <b>E. A. Sidorova</b><sup>1, 2</sup>, Senior Researcher, e-mail: lena@iis.nsk.su <br><sup>1</sup>	Novosibirsk State University, <br> <sup>2</sup>	A. P. Ershov Institute of Informatics Systems, SB RAS, Novosibirsk, <br><sup>3</sup> Sobolev Institute of Mathematics, SB RAS, Novosibirsk'
+   item_name: Experiment of Constructing Subject Dictionaries for Categorization of Short Descriptions of Web-Sites
+   item_annot: |
+      <p> In this study original procedures and techniques for automatized construction of multilingual subject dictionaries are proposed that rely on tools for automatic compiling and statistical processing of subject specific text collections as well as expert knowledge represented in thesauri and catalogue-like resources. Subject dictionaries are intended for use in the process of automatic categorization of short descriptions of user Internet activities (user queries). An experience of constructing Russian and English subject dictionaries is described and exemplified. Special questions outlined in the paper concern selection of domain texts that contain important subject specific terms, automatic lexicon extraction (including single- and multi-word terms), and lexicon extension on base of thesaural relations. Experimental results of dictionary-based query categorization tested across 108 domains for the two languages are discussed.
+      </p>
+   item_keywords: subject dictionary, subject specific text collection, metasearch, thesaurus, catalogue, query categorization, Internet activity
+   item_pages: 41–48
+---

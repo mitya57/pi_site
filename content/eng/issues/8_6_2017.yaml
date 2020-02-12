@@ -1,0 +1,103 @@
+---
+title: Issue N6 2017 year 
+content:
+ - doi: 8.243-249
+   link: 8.243-249
+   udk: "004.7"
+   item_authors: "Andreev A. A."
+   item_name: "Generalized Graph Model of Virtual Private Networks in the Communication Infrastructure of a Local Network Service Provider"
+   item_authors_address: | 
+     <b> A. A. Andreev</b>, andreev@cs.petrsu.ru, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation 
+   item_corr_author: " Andreev Anton A., Undergraduate Student, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation, E-mail: andreev@cs.petrsu.ru"
+   item_rec_on:   March 30, 2017 
+   item_acc_on:  April 05, 2017
+   item_annot: |
+     <p> Implementation and maintenance of virtual private networks (VPN) in a local network service providers communication infrastructure (network) requires solving a number of problems related to quality assurance, VPN topology design and scaling. Most of these problems require a topology graph of the logical and physical structure of the network with implemented VPN. Existing methods of network management use models for such graphs that are not able to represent some important things in modern networks such as VLAN and complex routing algorithms.
+     This paper proposes the graph model of the structure of tunnel connection of VPN implemented in network. This model is an extension of the generalized graph model of physical, link and network layers topology of a modern local network service providers network. The model defines network elements involved in implementations of link and network layer VPNs. The paper also describes the methods for automated discovering and building of VPN in network topology graph basing on data from network devices.
+     The proposed model and VPN discovery methods could be used in a variety of network management tasks, in particular for automated network topology discovery.</p>
+   item_keywords: network management, ICT-infrastructure graph, topology discovery, graph model, virtual private network
+   item_pages: 243–249
+   item_citation: Andreev A. A. Generalized Graph Model of Virtual Private Networks in the Communication Infrastructure of a Local Network Service Provider, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 243—249.'
+ - doi: 8.250-257
+   link: 8.250-257
+   udk: "004.4'22"
+   item_authors: "Trifanov V. Yu., Tsitelov D. I."
+   item_name: "A Language for Specification of Synchronization Contracts for Detecting Data Race in Parallel Applications"
+   item_authors_address: | 
+     <b> V. Yu. Trifanov</b>, e-mail: vitaly.trifanov@gmail.com, <b> D. I. Tsitelov</b>, tsitelov@acm.org, Devexperts LLC, Saint-Petersburg, 197110, Russian Federation
+   item_corr_author: "Trifanov Vitaly Yu., Senior Developer, Devexperts LLC, Saint-Petersburg, 197110, Russian Federation, E-mail: vytaly.trifanov@gmail.com"
+   item_rec_on:  March 8, 2017
+   item_acc_on:  March 29, 2017
+   item_annot: |
+     <p> Today parallel programming is actively used in many areas — business applications, telecommunications, etc. However it is not easy to develop parallel programs. One of the most serious errors of parallel programing is data races. These are situations when two or more parallel program entities (process, threads, etc.) read/write the same variable simultaneously, and one of them writes to it. Such errors are really hard to found, they lead to unpredictable corruption of application data and strange program behavior. There are a lot of approaches to cope with date races, however there is no absolutely reliable one. Dynamic paradigm of data race detection is widely used, but it leads to high overheads. We suggested a dynamic approach in our previous papers, that used synchronization contracts to cope with the overhands problem. Also we presented a toolkit for data race detection in Java-applications. Here we suggest a Java-like language to specify contracts. We also present a number of contract examples for java.util.concurrent library, and guidelines for industrial using the language and the approach.</p>
+   item_keywords: parallel programming, data race, dynamic approach to date race detection, design contracts, Java-applications
+   item_pages: 250–257
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project no. 15-01-05431-a.'
+   item_citation: ' Trifanov V. Yu., Tsitelov D. I. A Language for Specification of Synchronization Contracts for Detecting Data Race in Parallel Applications, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 250—257.'
+ - doi: 8.258-263
+   link: 8.258-263
+   udk: "004.457"
+   item_authors: "Aristov M. S., Zotov Ya. A., Yarikov D. V."
+   item_name: "Real-Time Software Continuous Integration"
+   item_authors_address: | 
+     <b> M. S. Aristov</b>, maristov@niisi.ras.ru, <b> Ya. A. Zotov</b>, <b> D. V. Yarikov</b>, Federal State Institution Scientific Research Institute of System Analysis of the Russian Academy of Science, Moscow, 117218, Russian Federation 
+   item_corr_author: " Aristov Mikhail S., Researcher Fellow, Scientific Research Institute of System Development, Moscow, 117218, Russian Federation "
+   item_rec_on:  February 02, 2017 
+   item_acc_on:  March 06, 2017
+   item_annot: |
+     <p> The article describes the experience of implementing the tools for project management system GitLab and the usage of continuous software integration for automatization of test process. In case of real-time systems, software development and execution are performed on hardware with different architectures, this approach is called cross-platform and its properties (such as software development and execution on different devices using specified software tools and hardware resources) should be taken into account during automatization of testing of software for multiprocessor real-time systems. In addition special aspects of GitLab components usage (such as Bug-tracking, Code Review, Continuous Integration) are considered in the context of cross-platform development. Those components are basically designed for software development teams, but it does not mean that a project created by a single software developer cant be controlled by the software tool considered. Quite the opposite, a single software developer can take advantage of all the features provided by the version control system and gain the same benefit as a big development team.      </p>
+   item_keywords: continuous integration, git, GitLab, real time software, version control system
+   item_pages: 258–263
+   item_citation: ' Aristov M. S., Zotov Ya. A., Yarikov D. V. Real-Time Software Continuous Integration, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 258—263.'
+ - doi: 8.264-275
+   link: 8.264-275
+   udk: "004.9"
+   item_authors: "Vasenin V. A., Gaspariants A. E."
+   item_name: "Author Name Disambiguation: Analysis of Publications"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, vasenin@msu.ru, <b> A. E. Gaspariants</b>, artem.gaspariants@gmail.com, Mechanics and Mathematics Department, Lomonosov Moscow State University, Moscow, 119192, Russian Federation 
+   item_corr_author: "Gaspariants Artem E., Postgraduate Student, Mechanics and Mathematics Department, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, E-mail: artem.gaspariants@gmail.com"
+   item_rec_on:  March 08, 2017 
+   item_acc_on:  April 03, 2017
+   item_annot: |
+     <p> This article presents an overview of the methods and models of solving the authors names disambiguation problem. This problem occurs in bibliographic databases and in digital libraries when several different authors share a common name. Inability to distinguish between publications written by authors with the same name may affect determination of their true citation index, index of their scientific group or organization and eventually lead to misunderstanding and false judgment of current trends and potentialities in scientific world. Due to the scale of the problem, only automatic methods of solving are considered. The main contributions of this article are classification of the methods and models for solving this problem for the last several years, analysis of these methods and specification of their possible advantages and disadvantages, presenting the open and unresolved challenges in this field.
+     The results of the analysis presented in this article can be useful for researchers and practitioners involved in the design and construction of information-analytical systems in the field of bibliometry and scientometrics. </p>
+   item_keywords: citation metrics, bibliographic record, machine learning, record linkage, named entities linkage
+   item_pages: 264–275
+   item_citation: 'Vasenin V. A., Gaspariants A. E. Author Name Disambiguation: Analysis of Publications, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 264—275.'
+ - doi: 8.276-281
+   link: 8.276-281
+   udk: "519.612"
+   item_authors: "Ivanova K. F."
+   item_name: "The Forecast of Gross Output and Manpower of Intersectoral Balance Model"
+   item_authors_address: | 
+     <b> K. F. Ivanova</b>, Klara.I2010@yandex.ru, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation 
+   item_corr_author: " Ivanova Klara F., Doctorant, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation, E-mail: Klara.I2010@yandex.ru"
+   item_rec_on:  March 23, 2017 
+   item_acc_on:  March 30, 2017
+   item_annot: |
+     <p> In article the unified technique for solutions estimation of V. Leontevs model, in the conditions of uncertainty of models factors is offered. Statement of a problem of balance model concerns problems of functional optimization of gross output and other indicators oriented on forecasting of a planned economy.
+     The functioning of multisectoral macroeconomic requires the balance between separate sectors. Each sector, on the one hand, is the producer, and on the other hand — the consumer of products issued by other sectors. These conditions set the connection between sectors based on the output and consumption of different types of products. Uncertainty of the input data arising at an error of measurements and their fluctuations is limited by some boundaries (intervals) where there can be their true value and makes the considered balance model more difficult for evaluation. The developed technique of a two-sided estimation of equations is based on use of known algebraic methods of linear algebra, and synthesis of two approaches to a solution of an estimation of sensitivity of a solution of the linear algebraic equations and exterior estimations of solutions interval set. The suggested approach for an estimation of the solution of interval model is constructed on two algebraic equations received on the basis of identity of boundary interval tech-nological matrices, and two formalized point optimal angular matrices. This approach differs from a earlier known one, received by methods of interval algebra. The algorithm of calculation is directed at searches of admissible areas of a solution of the balance equations of definition gross output, its prices, and amounts of the people occupied in an industry or in the social ratio-cultural areas. Definition of interval deviations of these indicators leads to a two-sided estimation of a solution in comparison with its mean values. The received results of calculations are the basis for acceptance of optimum decisions and the forecast in economic, industrial or social planning of static multisectoral balance model.
+     </p>
+   item_keywords: balance model, uncertainty of the parameters, the unified technique, the interval approach, algorithm of calculation, optimal angular matrices, two-sided estimation
+   item_pages: 276–281
+   item_citation: ' Ivanova K. F. The Forecast of Gross Output and Manpower of Intersectoral Balance Model, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 276—281.'
+ - doi: 8.282-288
+   link: 8.282-288
+   udk: "004.92"
+   item_authors: "Burlov V. V., Remontova L. V., Kosolapov V. V., Kosolapova E. V."
+   item_name: "3D Modeling Tools for Second-Order Surfaces"
+   item_authors_address: | 
+     <b> V. V. Burlov</b>, vladimir-burlov@yandex.ru, <b> L. V. Remontova</b>, remontova@mail.ru, Penza State Technological University, Penza, 440039, Russian Federation, <b> V. V. Kosolapov</b>, vladimir.kosolapov@mail.ru, <b> E. V. Kosolapova</b>, k-art-inka@ya.ru, Nizhny Novgorod State University of Engineering and Economics, Knyaginino, 606340, Russian Federation
+   item_corr_author: " Burlov Vladimir V., Professor, Penza State Technological University, 440039, Penza, Russian Federation, E-mail: vladimir-burlov@yandex.ru"
+   item_rec_on:  March 23, 2017 
+   item_acc_on:  March 30, 2017
+   item_annot: |
+     <p> The article is intended for graduate students and professors whose professional activity is connected with problems of deep study descriptive geometry and engineering graphics on the basis of modern computer technology. The article will be useful to university students with the technical direction of training in order to better understand the subject of descriptive geometry and instilling interest in personal geometric and graphic training, without which it is impossible implement to quality engineering creativity.
+     The article focuses on harnessing the power of Kompas-3D software product with which it is possible to solve virtually any educational and professional engineering and graphics tasks. Along with this, the promotion of domestic IT-product in education is an urgent task, arising from the problem of technical education students at the present stage of development of the system of public education.
+     A number of examples of spatial solutions of tasks connected with modeling quadratics are considered. On the basis of laws applicable to descriptive geometry, surface tasks, the article illustrates a feature of their solution and display on your computer screen. For example, in the graphic editor Kompas-3D there is the ellipse command, but no commands Hyperbole. And without this curve, it is impossible to create a 3D model of a single-sheeted or two-sheeted hyperboloid. To create a hyperbola, the program suggests using: sections of a circular cone, canonical or parametric equations. For each of these options examples of creating 3D models of 2-surfaces are considered.
+     </p>
+   item_keywords: associative drawing, library, functional dependency graph, hyperbole, cone, tapered section, single cavity and dvupolostnyj hyperboloid, canonical and parametric equations, cross-section, Kompas-3D system, cylinder
+   item_pages: 282–288
+   item_citation: ' Burlov V. V., Remontova L. V., Kosolapov V. V., Kosolapova E. V. 3D Modeling Tools for Second-Order Surfaces, Programmnaya Ingeneria, 2017, vol. 8, no. 6, pp. 282—288.'
+---

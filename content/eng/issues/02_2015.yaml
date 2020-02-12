@@ -1,0 +1,63 @@
+---
+title: Issue N2 2015 year
+content:
+ - doi:
+   link: _2_2015_1
+   udk: 
+   item_authors: Korzun D. G.
+   item_authors_address: '<b>D. G. Korzun</b>, Associate Professor, e-mail: dkorzun@cs.karelia.ru, Petrozavodsk State University'
+   item_name: Service Formalism and Architectural Abstractions for Smart Space Applications
+   item_annot: |
+      <p> The paper presents results of research on creating software applications of smart spaces when computing environments are diverse in devices, network communications are ubiquitous, and the Internet can be used as a global information resource. The reference case is the M3 architecture, based on which we sequentially elaborate the notions of smart space, smart environment of knowledge sharing, smart space application, its services and its architecture. We consider P2Pbased service formalism, on the top of which several architectural abstractions are presented. They provide means for designing smart space applications.
+      </p>
+   item_keywords: smart spaces, M3 architecture, Internet of Things, network-based interaction, software application, smart service, software architecture
+   item_pages: 3–12
+
+ - doi:
+   link: _2_2015_2
+   udk: 
+   item_authors: Bolshakov A. A., Lachugin D. V., Lobanov V. V.
+   item_authors_address: '<b>A. A. Bolshakov</b>, Professor, e-mail: aabolshakov57@gmail.com, St. Petersburg Polytechnic University, <b>D. V. Lachugin</b>, Postgraduate Student, Assistant, e-mail: lachugindm@mail.ru, <b>V. V. Lobanov</b>, Associate Professor, e-mail: lobanovv@gmail.com, Yuri Gagarin State Technical University of Saratov'
+   item_name: Design of Software of an Adaptive System of Control, Collection and Analysis of Streaming Data
+   item_annot: |
+      <p> A scheme of adaptive information-measuring system of management, collection and analysis of signal data flow is proposed. A major feature of adaptive system is the ability to dynamically change the functional configuration to reduce the total time of processing of streaming information. Also some technical problems of synthesis of software server and client sides based on the proposed reconfigurable computing system structure are described in this paper.
+      </p>
+   item_keywords: adaptive control system, streaming data, reconfigurable computing system, software system
+   item_pages: 13–22
+
+ - doi:
+   link: _2_2015_3
+   udk: 
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_authors_address: '<b>I. O. Zharinov</b>, Associate Professor, Chief of Department, e-mail: igor_rabota@pisem.net, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of Learning-Scientists Center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, <b>O. O. Zharinov</b>, Associate Professor, Saint-Petersburg State University of Aerospace Equipment'
+   item_name: The Method of Software-Based Brightness Control of Onboard Indication Equipment during Night Flight Operating Mode
+   item_annot: |
+      <p> The problem of software-based brightness control of onboard indication equipment, designed on LCD panel, during night flight operating mode is considered. New method of image brightness control is proposed. The method is based on using of scaling coefficient and technique of coherent varying of digital codes of basic color components. This method allows to swing image brightness within the range from 0,1 to 100 % of any brightness level manually preset. The main advantage of proposing method is that it allows to keep chromaticity coordinates values for displayed elements on an image within full range of brightness levels, causing no influence on the brightness unevenness for given LCD panel. There are diagrams shown, representing dependance of transmittance coefficient of tested LCD versus scaling coefficient of varying codes for basic colors. Results of brightness level measurements, performed for eight basic colors mainly used in avionics are presented for various values of scaling coefficient.
+      </p>
+   item_keywords: onboard indication equipment, avionics, brightness control, scaling, chromaticity coordinates
+   item_pages: 23–28
+
+ - doi:
+   link: _2_2015_4
+   udk: 
+   item_authors: Afonin S. A., Lunev K. V.
+   item_authors_address: '<b>S. A. Afonin</b>, Associate Professor, Researcher, e-mail: serg@msu.ru, Moscow State University, Institute of Mechanics, <b>K. V. Lunev</b>, Postgraduate Student, e-mail: kirilllunev@gmail.com, Institute of Mechanics Lomonosov Moscow State University'
+   item_name: Topic Analysis in Collection of Keyword Tuples
+   item_annot: |
+      <p> The paper presents algorithms for topic identification in collection of keywords tuples. The analysis of the keywords, namely the degree of their abstractness, is also carried out. The methods used in the paper are based on graph algorithms. The document is presented by the tuple of its keywords. The graph of keywords is built according to the given set of documents. The nodes of the graph fit the keywords, and the edges show the fact of occurrence of words in one tuple. With the help of the graph thematic relationship between documents and thematic characteristics of a document are identified.
+      </p>
+   item_keywords: topic modelling, natural language processing, graph algorithms
+   item_pages: 29–39
+
+ - doi:
+   link: _2_2015_5
+   udk: 
+   item_authors: Ivanova K. F.
+   item_authors_address: '<b>K. F. Ivanova</b>, Associate Professor, e-mail: klara.i2010@yandex.ru, Saint-Petersburg State University'
+   item_name: The Approached Solutions of Ill-Conditioned SLAE with Inexact Factor
+   item_annot: |
+      <p> Estimations of a approached solutions of systems linear algebraic equations (SLAE) with ill-conditioned matrix and inexact coefficients and right-hand side are proposed. It is shown that estimation of solutions of the systems generated by "a sign" technique, are similar to the algebraic estimation for outer problem of the united set of solution interval systems linear algebraic equations (ISLAE) with interval matrixes. Association between occurrence of considerable errors of the solution linear systems by application of the "sign" technique initiating ill-conditioned matrixes, leading to an incorrect problem is considered. Regularization operators with numerical algorithm developed on the basis of A. N. Tikhonov's concept for a correct problems and construction of the approached steady solutions against small changes of the entrance data are used.
+      </p>
+   item_keywords: linear algebraic equations, "sign" technique, interval system, regularization operators, incorrect problem, approached solution
+   item_pages: 40–48
+---

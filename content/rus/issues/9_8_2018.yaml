@@ -1,0 +1,67 @@
+---
+title: Номер 8 2018 год 
+content:
+ - doi: 9.339-348
+   link: 9.339-348
+   udk: "004.4'2"
+   item_authors: "Грибова В. В., Клещев А. С., Москаленко Ф. М., Тимченко В. А., Шалфеева Е. А."
+   item_name: "Расширяемый инструментарий для создания жизнеспособных систем с базами знаний"
+   item_authors_address: | 
+     <b> В. В. Грибова</b>, д-р техн. наук, зам. дир. по научной работе, e-mail: gribova@iacp.dvo.ru, <b> A. С. Клещев</b>, д-р физ.-мат. наук, гл. науч. сотр., <b> Ф. М. Москаленко</b>, канд. техн. наук, ст. науч. сотр., <b> B. А. Тимченко</b>, канд. техн. наук, ст. науч. сотр., <b> Е. А. Шалфеева</b>, канд. техн. наук, ст. науч. сотр., Федеральное государственное бюджетное учреждение науки Институт автоматики и процессов управления Дальневосточного отделения Российской академии наук, г. Владивосток
+   item_annot: |
+        <p> Описана концепция и представлена архитектура расширяемого инструментария для создания и сопровождения систем, основанных на знаниях, который обеспечивает необходимые условия жизнеспособности таких систем. Обоснована важность обеспечения расширения инструментария как его разработчиками, так и пользователями. Дан анализ принципов и механизмов развития инструментария, которые реализованы на облачной платформе IACPaaS.
+     </p>
+   item_keywords: система, основанная на знаниях (СОЗ), технология разработки СОЗ, сопровождение программных систем, инструментальная поддержка разработки СОЗ, среда разработки, язык описания моделей, редактор моделей, редактор решателей задач, генератор редакторов компонентов
+   item_pages: 339–348
+   item_comment: ' Работа выполнена при частичной финансовой поддержке РФФИ (гранты 18-07-01079, 16-07-00340) и программы "Дальний Восток" (проект 18-МНТ-009).'
+ - doi: 9.349-360
+   link: 9.349-360
+   udk: "004.67"
+   item_authors: "Подковальников С. В., Трофимов И. Л., Трофимов Л. Н."
+   item_name: "Технологические аспекты геоинформационной вычислительной системы для поддержки исследований в области формирования межгосударственных энергообъединений"
+   item_authors_address: | 
+     <b> С. В. Подковальников</b>, канд. техн. наук, зав. лабораторией, e-mail: spodkovalnikov@isem.irk.ru, <b> И. Л. Трофимов</b>, ст. инженер, e-mail: t_john88@isem.irk.ru, <b> Л. Н. Трофимов</b>, вед. программист, e-mail: trofi@isem.irk.ru, Институт систем энергетики им. Л. А. Мелентьева Сибирского отделения Российской академии наук, г. Иркутск
+   item_annot: |
+        <p> Рассмотрена геоинформационная вычислительная система, предназначенная для прогнозирования развития межгосударственных электроэнергетических объединений с использованием оптимизационной модели ОРИРЭС. Предложены оригинальная технология хранения информации в интегрированной объектно-ориентированной базе данных, а также технология обработки и представления данных в интерфейсе системы. Проведен ряд вычислительных экспериментов, в ходе которых получены удобные для анализа агрегированные формы представления конечных результатов решения оптимизационной модели.
+     </p>
+   item_keywords: геоинформационная вычислительная система, оптимизационная модель, обработка данных, объектная база данных, электростанция, электроэнергетическая система, межгосударственное электроэнергетическое объединение
+   item_pages: 349–360
+   item_comment: ' Работа выполнена при финансовой поддержке гранта РФФИ № 18-07-00495 А.'
+ - doi: 9.361-368
+   link: 9.361-368
+   udk: "004.5"
+   item_authors: "Туровский Я. А., Суровцев А. С."
+   item_name: "Программный пакет для автоматизированной обработки биомедицинских сигналов для поисковых исследований"
+   item_authors_address: | 
+     <b>Я. А. Туровский</b>, канд. мед. наук, доц., e-mail: yaroslav_turovsk@mail.ru, Воронежский государственный университет, <b>А. С. Суровцев</b>, аспирант, e-mail: alexander.surovtsev.vrn@gmail.com, Воронежский государственный университет инженерных технологий
+   item_annot: |
+        <p> Представлен программный пакет для автоматизированной обработки больших объемов биомедицинских сигналов, основным назначением которого является проведение поисковых исследований. Организация процесса обработки данных задается вычислительной схемой, т. е. определением набора вычислительных модулей и потоков данных между ними. Работа с данными рассматривается как совокупность трех этапов — создание выборки, препроцессинг и процессинг. В рамках решения задач обработки данных записей электроэнцефалограмм реализовано более 50 вычислительных модулей, позволяющих проводить частотно-временной, факторный, корреляционный и статистический виды анализа цифровых медико-биологических сигналов. Показан пример обработки записей электроэнцефалограмм, который заключается в формировании набора масштабированных во времени сигналов для проведения корреляционного анализа. Возможность расширять функции программного пакета за счет добавления новых модулей открывает широкие перспективы его дальнейшего использования при проведении поисковых исследований на основе анализа цифровых медико-биологических сигналов.
+        </p>
+   item_keywords: цифровая обработка биомедицинских сигналов, электроэнцефалограмма, поисковые исследования медико-биологических данных
+   item_pages: 361–368
+ - doi: 9.369-374
+   link: 9.369-374
+   udk: ""
+   item_authors: "Esmaeilishahmirzadi N., Mortezapour H."
+   item_name: "Preprocessing for Enhancing the Classification of Pulmonary Data Sets using Convolutional Neural Networks"
+   item_authors_address: | 
+     <b> N. Esmaeilishahmirzadi</b>, Postgraduate Student, nasibe.smaeili@gmail.com, Lobachevsky State University, Department of Computer Science, Nizhny Novgorod, Russian Federation, <b> H. Mortezapour</b>, hr.mortezapour@gmail.com, Postgraduate Student Ferdowsi University of Mashhad, Department of Computer Engineering, Mashhad, Iran 
+   item_annot: |
+        <p> With growing lung cancer in the world the requirement of computer-aided diagnosis systems (CADs) has increased. In this work we present a method for enhancement of the data collection of pulmonary images using the method of data augmentation and filters in image processing. Our work consists of two components. We firstly present a novel method of image enhancement and secondly classify images into either nodule or non-nodule. For nodule classification the Residual convolutional neural network is proposed, which achieved better performance than state-of-the-art networks in our dataset.
+     Images are extracted from the LUNA16 database derived from the LIDC-IDRI database. For image enhancement we use compound images obtained from image processing filters. These filters are like Gabor and Average and rotate at 90 and 180 degrees to produce images similar to LUNA16 images. We produce 8 images similar to the original image and combine them into one image. We thus produce a new dataset. After testing various convolutional networks on a new dataset we found that the Residual convolutional neural network (ResNet) provides an accuracy of 96.214 % in the classification task. The accuracy demonstrates that the proposed method performs desirably and acceptably compared to other methods.
+        </p>
+   item_keywords: pulmonary nodule, lung images, residual neural network, deep learning, convolutional neural network CNN
+   item_pages: 369–374
+ - doi: 9.375-384
+   link: 9.375-384
+   udk: "004.82"
+   item_authors: "Гриф М. Г., Лукоянычев А. В."
+   item_name: "Программный комплекс для обучения русскому жестовому языку на основе Unity3D"
+   item_authors_address: | 
+     <b> М. Г. Гриф</b>, д-р техн. наук, проф., e-mail: grifmg@mail.ru, <b> А. В. Лукоянычев</b>, аспирант, e-mail: dizzystyle@yandex.com, Новосибирский государственный технический университет
+   item_annot: |
+        <p> Представлены результаты разработки программного комплекса для обучения русскому жестовому языку. Рассмотрены особенности использования нотационной записи для управления компьютерным анимационным персонажем, демонстрирующим дактилемы и слова русского жестового языка. Описаны возможности программного комплекса для создания справочника жестового языка и уроков, перспективы его дальнейшего использования.
+        </p>
+   item_keywords: русский жестовый язык, мультимедийный словарь, нотации Димскис, Unity3D, анимированный персонаж-аватар
+   item_pages: 375–384
+---

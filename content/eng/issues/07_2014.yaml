@@ -1,0 +1,83 @@
+---
+title: Issue N7 2014 year
+content:
+ - doi:
+   link: _7_2014_1
+   udk: "004.4'416"
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V. 
+   item_name: On the Issue of Optimal Program Linearization
+   item_authors_address: '<b> N. I. Vyukova </b>, e-mail: niva@niisi.msk.ru, <b> V. A. Galatenko </b>,  e-mail; galat@niisi.msk.ru, <b> S. V. Samborskij </b>'
+   item_annot: |
+     <p> The paper discusses two methods for optimal program linearization from the viewpoint of minimizing the number of unconditional jumps. The first one relates to the simple case when only unconditional jumps are considered. This task can be formulated as the task of finding optimal path covering for a subgraph of CFG (Control Flow Graph). The subgraph in question (Fall Through Graph — FTG) includes only fallthrough edges and the vertices connected with them. The method implies finding the optimal "path and cycle" covering of FTG with subsequent breaking of cycles. The complexity of the algorithm is O(N) where N is the number of vertices in FTG.
+     </p>
+     <p>The final section of the paper discusses the NP-complete task of path covering of an arbitrary digraph which arises during optimal program linearization with respect to all kinds of jumps including conditional ones. We propose a recursive enumeration based on building the optimal "path and cycle" covering of the digraph with subsequent breaking of cycles.
+     </p>
+   item_keywords: jump optimization, program linearization, path covering
+   item_pages: 3–8
+ - doi:
+   link: _7_2014_2
+   udk: '004.414.23'
+   item_authors: Sokolov A. O.
+   item_name: Model of the Real-Time Systems Software
+   item_authors_address: '<b> A. O. Sokolov </b>, e-mail: wedmeed@mail.ru'
+   item_annot: |
+     <p> The paper presents a generic model of real-time software. It includes concepts from the theory of computation, scheduling theory and operating systems theory. The model allows describing specific features of different systems. The common terminology and structure is saved. The paper is divided into three parts. The first part describes a base model suiting all real-time systems. The second part defined a set of features inherent in most real-time systems. At the last part of the paper an example of the digital controller software model is present. The model can be used in situations when the specific features of the real-time system cannot be simplified or omitted. Due to this the modernization of scheduling models is provided possible (treating scheduler as a task, interrupt handlers considered during feasibility test, etc.).
+     </p>
+   item_keywords: software, operating system, model, scheduling, real-time, computing, processor, resource, algorithm, embedded
+   item_pages: 9–16
+ - doi:
+   link: _7_2014_3
+   udk: '519.688'
+   item_authors: Bolotova S. Yu., Makhortov S. D.
+   item_name: Parallel Algorithms of the Relevant LP Inference
+   item_authors_address: '<b> S. Yu. Bolotova </b>, e-mail: bolotova.svetlana@gmail.com, <b> S. D. Makhortov </b '
+   item_annot: |
+     <p> The relevant LP inference is an effective tool for development, verification and optimization of the production logical systems. This paper presents the advanced basic tenets of the LP structures theory. It also describes parallel algorithms for finding the solution of the production logic equations in layers, for processing the initial preimages. The results can be used to the logic inference optimization and the knowledge bases verification.
+     </p>
+   item_keywords: LP structure, logical equations, production systems, backward inference, the relevance, parallelism
+   item_pages: 17–24
+ - doi:
+   link: _7_2014_4
+   udk: '004.75 + 004.41'
+   item_authors: Shundeev A. S.
+   item_name: Virtual Computer Classroom
+   item_authors_address: '<b> A. S. Shundeev </b>, e-mail: alex.shundeev@gmail.com'
+   item_annot: |
+     <p> This paper describes a distributed software architecture of a system for practical lessons in the study of programming languages and related topics. From a technical point of view, the problem is reduced to running processes remotely operating system on one of the available network hosts, and provide interactivity with a running process via its standard input/output streams. As the process runs a shell (for example, bash). The end user interacts with the remote process through the web interface, which emulates a terminal operating system.
+     </p>
+   item_keywords: distributed systems, Erlang/OTP, WebSocket, client JavaScript, remote terminal
+   item_pages: 25–32
+ - doi:
+   link: _7_2014_5
+   udk: '004.921'
+   item_authors: Giatsintov A. M., Mamrosenko K. A.
+   item_name: Playback of Streaming Video in Visualization Subsystem of Training Simulation System
+   item_authors_address: '<b> A. M. Giatsintov </b>, e-mail: algts@inbox.ru, <b> K. A. Mamrosenko </b>, e-mail: kirillam@ya.ru'
+   item_annot: |
+     <p> Article describes subsystem's architecture for playback of streaming video in virtual 3d scene of training simulation systems. Operation principles of media streaming technology, its pros and cons related to streaming video playback are reviewed. А new method for playback of several high definition videos in visualization subsystem of training simulation system is presented. Streaming video decoder algorithm is also presented.
+     </p>
+   item_keywords: visualization system, training simulation system, rendering, heterogeneous video, video decoder
+   item_pages: 33–39
+ - doi:
+   link: _7_2014_6
+   udk: ' 519.688, 669.14.242'
+   item_authors:  Svetushkov N. N.
+   item_name: Joint Cluster Model in Three-Dimensional Graphics
+   item_authors_address: '<b> N. N. Svetushkov </b>, e-mail: svt.n.n@mail.ru'
+   item_annot: |
+     <p> Article is devoted to the development of new principles for creating complex graphic objects, including two-and three-dimensional. Introduced the concept of an elementary cluster which can be regarded as a generalization of the classical geometric shapes — circle, ellipse and rectangle, sphere, parallelepiped. Software environment created demonstrates geometric objects, developed on the model of the joint cluster. There is an analysis of the opportunities of created software, and it is concluded that the principles of object creation based on the cluster model afford not only reduce the amount of stored information, but also to a large extent to exhort interface software used for three-dimensional modeling. Developed software package can be used to solve the problems of modeling various processes and prototyping, including the aviation industry, allowing simple means to create complex geometric objects in three-dimensional modeling of an inexperienced user.
+     </p>
+   item_keywords: cluster model, three-dimensional modeling software, visualization, interfaces
+   item_pages: 40–43
+ - doi:
+   link: _7_2014_7
+   udk: '519.683'
+   item_authors: Seleznyov K. E.
+   item_name: Spatial Indexing and Searching Based on Hash Functions
+   item_authors_address: '<b> K. E. Seleznyov </b>, e-mail: skostik@relex.ru'
+   item_annot: |
+     <p> The paper describes new approach for spatial data indexing in searching. This approach allows to process data by using distance function.
+     </p>
+   item_keywords: spatial index, spatial search
+   item_pages: 44–48
+---

@@ -1,0 +1,87 @@
+---
+title: Issue N5 2019 year
+content:
+ - doi: 10.195-203
+   udk: "004.4'2"
+   item_authors: "Makhortov S. D., Nogikh A. A."
+   item_name: "Application of LP-Structures to Object-Oriented Code Refactoring"
+   item_authors_address: |
+     <b> S. D. Makhortov</b>, msd_exp@outlook.com, <b> A. A. Nogikh</b>, a.nogikh@yandex.ru, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: "Makhortov Sergey D., Head of Department of Applied and System Software, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: msd_exp@outlook.com"
+   item_rec_on:  March 04, 2019
+   item_acc_on:  March 20, 2019
+   item_annot: |
+     <p> The article describes an approach of automatized refactoring that adopts lattice-based algebraic structures as a model for type hierarchy presentation and optimization. A distinctive feature of the adopted algebraic structures is their ability to aggregate models not as a relation between two independent sets, but as a means of access to the services provided by the aggregated objects. This property makes it possible to perform a much deeper optimization of type hierarchy. The described refactoring approach focuses on redundant attributes removal and on the relocation of identical attributes into their common superclasses ("Pull Up Field" technique). The crucial requirement for these transformations is that such modifications must not change the external behavior of the software. Also it is important that such modifications do not increase the complexity of the source code e.g. by combining attributes with differing semantics. The proposed approach fulfills these requirements by defining a comprehensive classification of types and attributes. Such classification enables it to take into consideration the properties of individual types and the compatibility of individual attributes. An algorithm has been described that, given a type hierarchy with an already performed classification, returns a new type hierarchy alongside with a mapping between attributes of these hierarchies. The proposed approach employs only the most fundamental ideas of the Object-Oriented programming and does not depend on any specific programming language.</p>
+   item_keywords: refactoring, object-oriented programming, type hierarchy, LP-structures, automatization, software development tools
+   item_pages: 195–203
+   item_comment: ' This work was funded by RFBR according to the research project 19-07-00037'
+   item_citation: ' Makhortov S. D., Nogikh A. A. Application of LP-Structures to Object-Oriented Code Refactoring, Programmnaya Ingeneria, 2019, vol. 10, no. 5, pp. 195—203'
+ - doi: 10.204-218
+   udk: "519.724.6"
+   item_authors: "Kazakov I. B."
+   item_name: "Difference Code and a Protocol for Cyclic Blockwise Transmission in a Memory-Based Covert Channel"
+   item_authors_address: |
+     <b> I. B. Kazakov</b>, i_b_kazakov@mail.ru, Lomonosov Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Kazakov Ilia B., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: i_b_kazakov@mail.ru"
+   item_rec_on:  January 10, 2019
+   item_acc_on:  February 19, 2019
+   item_annot: |
+     <p> We study a covert channel based on manipulation of the volume of memory occupied by a transmitting process. The channel includes errors that lead to gluing several values into one. Channel reliability is provided by multiple transmission. We propose a strategy that minimizes the number of blocks transmitted under the given level of reliability and present reliability estimations. Model adequacy is verified through an experiment performed using a software implementation of the channel.
+     </p>
+   item_keywords: covert channels, throughput, difference code, multiple transmission, probability of error, virtual memory
+   item_pages: 204–218
+   item_citation: ' Kazakov I. B. Difference Code and a Protocol for Cyclic Blockwise Transmission in a Memory-Based Covert Channel, Programmnaya Ingeneria, 2019, vol. 10, no. 5, pp. 204—218.'
+ - doi: 10.219-225
+   udk: "004.891.2"
+   item_authors: "Schelykalin M. Yu., Shatsky M. A., Kosinsky M. Yu."
+   item_name: "Knowledge Base Application for Onboard Software Testing Results Analysis"
+   item_authors_address: |
+     <b> M. Yu. Schelykalin</b>, e-mail: Schelikal@gmail.com, <b> M. A. Shatsky</b>, e-mail: 246@mars-mokb.ru, <b> M. Yu. Kosinsky</b>, e-mail: 246@mars-mokb.ru, FGUP MOKB Mars, Moscow, 127473, Russian Federation
+   item_corr_author: 'Schelykalin Maxim Yu., Acting Head of the Laboratory, FGUP MOKB "Mars", Moscow, 127473, Russian Federation, E-mail: Schelikal@gmail.com'
+   item_rec_on:  December 11, 2018
+   item_acc_on:  February 18, 2019
+   item_annot: |
+     <p> A new method to enhance spacecraft onboard software testing process based on decision rules application is proposed in the paper. Consider spacecraft onboard software consist of several interconnected subsystems, each of them must be thoroughly tested to meet requirements as well as the whole software complex.
+     Existing onboard software testing process and its significant milestones are analyzed. As a result, weak points of the whole process are determined. Especially, subsystems test result analysis stage takes relatively a long time and a lot of effort because of its complexity and current low automation level. Also results arent saved systematically which makes it difficult for future analysis.
+     The proposed method uses knowledge bases to produce conclusions such as "Ok" or "Failed" as a result of software testing both for its subsystems separately and for the whole software.
+     Knowledge bases software is integrated into The Tests Automation System (TAS) software which is already developed. Every knowledge base comprises a software module that corresponds to particular software subsystem. Modules interact with TAS according to specially developed protocol based on xml standard. TAS executes the modules automatically after completion of software test to combine the results and save them into the database.
+     The proposed method is evaluated within "Mars" design bureau during the development of onboard software for several spacecraft (Spektr-R, Elektro-L, Arktika-M, Spektr-RG) and has proven its effectiveness.
+     </p>
+   item_keywords:  onboard software, decision rules, testing, math modeling, development support system, test automation system
+   item_pages: 219–225
+   item_citation: ' Schelykalin M. Yu., Shatsky M. A., Kosinsky M. Yu. Knowledge Base Application for Onboard Software Testing Results Analysis, Programmnaya Ingeneria, 2019, vol. 10, no. 5, pp. 219—225.'
+ - doi: 10.226-233
+   udk: "004.925.5, 621.311.25:621.039.620.192"
+   item_authors: "Gulina O. M., Tipikina M. N., Tipikin N. G."
+   item_name: "Mathematical Model of Data Visualization of the NPP Pipelines Thickness and Software Implement"
+   item_authors_address: |
+     <b> O. M. Gulina</b>, olga@iate.obninsk.ru, <b> M. N. Tipikina</b>, tipikinamariya@mail.ru, <b> N. G. Tipikin</b>, tipikin@iate.obninsk.ru, Obninsk Institute for Nuclear Power Engineering (IATE MEPHI), Obninsk, 249040, Russian Federation
+   item_corr_author: " Tipikina Mariya N., Student, Obninsk Institute for Nuclear Power Engineering (IATE MEPHI), Obninsk, 249040, Russian Federation, E-mail: tipikinamariya@mail.ru"
+   item_rec_on:  November 19, 2018
+   item_acc_on:  February 18, 2019
+   item_annot: |
+     <p> The article is devoted to the development and implementation of algorithms for three-dimensional visualization of the results of operational monitoring of pipe thickness gauging within the framework of the project "Prediction of the residual lifetime of NPP pipelines". Analysis of the known visualization tools revealed their main drawbacks: the high cost of the finished products, the lack of reference to the form and position of the element, the impossibility of representing the state of the element in the case of 3D visualization, etc.
+     In this regard, a visualization method is proposed, in which the pipeline thickness is described by color. A two-dimensional color interpolation algorithm has been developed for a given list of nodes as a base for building three-dimensional models. Algorithms are developed for constructing three-dimensional models of typical elements — straight sections and bends, which are painted on the basis of the interpolation algorithms created, including cubic spline interpolation, sweep method and matrix transformation.
+     A program has also been developed for displaying data from wall thickness measurements in the form of a table, the intensity of color in the cells of which is proportional to the amount of wear. The developed algorithms are implemented as a C# program using the Open GL graphic library.
+     </p>
+   item_keywords: pipeline, erosion-corrosion wear, visualization, graphics, three-dimensional model, two-dimensional model, interpolation of color, color semantics, program
+   item_pages: 226–233
+   item_citation: ' Tipikina M. N., Gulina O. M., Tipikin N. G. Mathematical Model of Data Visualization of the NPP Pipelines Thickness and Software Implement, Programmnaya Ingeneria, 2019, vol. 10, no. 5, pp. 226—233'
+ - doi: 10.234-240
+   udk: "004.9"
+   item_authors: "Rogov A. A., Kulakov K. A., Moskin N. D."
+   item_name: "Software Support in Solving the Problem of Text Attribution"
+   item_authors_address: |
+     <b> A. A. Rogov</b>, rogov@petrsu.ru, <b> K. A. Kulakov</b>, kulakov@cs.karelia.ru, <b> N. D. Moskin</b>, moskin@petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910,
+     Russian Federation
+   item_corr_author: " Moskin Nikolai D., Assistant Professor, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: moskin@petrsu.ru"
+   item_rec_on:  February 24, 2019
+   item_acc_on:  March 05, 2019
+   item_annot: |
+     <p> The article deals with the questions of digitization, markup and software support in solving the problem of attribution of texts. Effective solution of the actual problems of analyzing textual works, including searching for borrowings and determining authorship, requires combining both the work of a linguistic expert and the use of various mathematical methods on large amounts of data. Currently, one of the actual tasks is the analysis of 500 non-attributive publicistic articles from the magazines "Time", "Epoch" and the weekly "Citizen" (1861—1874). It is known that F. M. Dostoevsky edited and headed these magazines; therefore, research on the belonging of these works to his pen has been conducted for a long time. The work shows that modern information systems for attribution support do not allow to carry out such studies, so the staff of Petrozavodsk State University are working on the modernization of the "SMALT" software complex for implementing the text attribution task tool and the "Folklore" information system for automated construction and analysis of graph-theoretic models of texts, which will bring the research to a new level. The paper describing the architecture of the "SMALT", the modular structure of "Folklore" and a mathematical model for defining grammatical features in case of homonymy.
+     </p>
+   item_keywords: text attribution, text markup, data mining, software complex "SMALT", information system "Folklore", F. M. Dostoevsky
+   item_pages: 234–240
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 18-012-90026. '
+   item_citation: 'Rogov A. A., Kulakov K. A., Moskin N. D. Software Support in Solving the Problem of Text Attribution, Programmnaya Ingeneria, 2019, vol. 10, no. 5, pp. 234—240.'
+---

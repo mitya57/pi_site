@@ -1,0 +1,155 @@
+---
+title: Issue N9 2015 year
+content:
+ - doi: 
+   link: _9_2015_1
+   item_authors: V'jukova N. I., Galatenko V. A., Samborskij S. V.
+   item_authors_address: |
+     <b>N. I. V'jukova</b>, Senior Research Fellow, e-mail: e-mail: niva@niisi.msk.ru, 
+     <b>V. A. Galatenko</b>, Head of Department, e-mail: galat@niisi.msk.ru, S. V. Samborskij, Senior Research Fellow, e-mail: sambor@niisi.msk.ru, 
+     Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Science", Moscow
+   item_name: Combining Instruction Selection and Scheduling in Software Pipelining
+   item_pages: 3–10
+   item_keywords: code generation, software pipelining, modulo scheduling, instruction selection, Integer Linear Programming (ILP)
+   item_annot: |
+     <p>The traditional code generation scheme involves three major passes: instruction selection, instruction scheduling, and register allocation. 
+         Separation of these tasks and use of heuristic algorithms for their implementation is quite acceptable
+     in compilers for modern universal architectures. 
+      Still such an approach may provide insufficient code efficiency for peculiar architectures used in embedded systems.</p>
+      <p>The paper presents a method of software pipelining of loops by means of exact joint solution of the in
+     struction selection and
+     instruction scheduling tasks for cyclic blocks of program code. We propose an approach of treating the above tasks as a single 
+     Integer Linear Programming (ILP) task. This allows taking into account interdependences between the three code generation passes. 
+     The method being proposed provides a unified approach to various code generation and optimization problems including automatic use 
+     of complex instructions (with multiple results), common subexpression elimination, automatic generation and scheduling of spill code, 
+     instruction selection with respect to available instruction-level parallelism and data dependencies including interloop ones.</p>
+     <p>Complexity of implementation and heavy use of computing resources makes this approach hardly usable in commonly used compilers. 
+     Therefore the method is intended mostly for development of hardware accelerators and generation of high performance code for embedded systems.</p>
+     <p>Possible directions for further enhancement of the method include restrictions on energy consumption in formulations of ILP tasks 
+     and use of mathematical equalities in the process of code generation. One more perspective research direction is use of 
+     constraints programming for specification of code generation tasks.</p>
+ - doi:
+   link: _9_2015_2
+   item_authors: Vasenin V. A., Itkes A. A., Shapchenko K. A., Bukhonov V. Yu.
+   item_authors_address: |
+     <b>V. A. Vasenin (1)</b>, Professor, e-mail: vasenin@msu.ru, <b>A. A. Itkes (1)</b>, Researcher, e-mail: itkes@imec.msu.ru, 
+     <b>K. A. Shapchenko (1)</b>, Senior Researcher, e-mail: shapchenko@iisi.msu.ru, <b>V. Yu. Bukhonov (2)</b>, Postgraduate Student, e-mail: bukhonovvyu@gmail.com
+     (1) Scientific Research Institute of Mechanics, Lomonosov Moscow State University, Moscow
+     (2) Lomonosov Moscow State University, Moscow
+   item_name: Relational Access Control Model Based on Chains of Relations
+   item_pages: 11–19
+   item_keywords: access control, access rules, access control model, relation, RDBMS, relational access control model
+   item_annot: |
+     <p>A new access control model is proposed for multi-user computer systems. Traditional approaches to the
+       implementation of access control mechanisms, namely the discretionary access control, multi-level
+       security, and role-based models, face the challenge of dealing with dynamic properties of modern 
+       systems, including constantly changing set of users, modification of attributes of entities in the 
+       system, and rearrangement of relations between them. Under these conditions, typical for systems 
+       similar to multi-user content management systems [3] and social networks [5, 6], traditional 
+      approaches may lead to an increase in administrative actions for managing the access control 
+      mechanism and the access control rules. Declarative approaches, e.g. attribute-based access control 
+      [1, 2, 7], provide the means to reduce the verbosity of administrative actions by using more 
+      expressive logic to specify access control rules.</p>
+      <p>The proposed model uses so called chains of relations between entities in the target system, 
+       including its users and resources, to specify the access control rules. A chain combines a sequence 
+       of binary relations by binding entities in adjacent relations. The relation-based approach maps 
+       naturally onto the commonly used relational databases. 
+       The proposed model maintains efficient computation of access control decisions while still 
+       achieving sufficient 
+      expressiveness by supporting combination of relation chains, transitive relations, and 
+      attribute-based conditions.</p>
+      <p>A formal description of the model is given in the paper. A property of model leading to 
+      efficient computation of access 
+      control decisions is defined, and a constructive approach to verifying this property is provided 
+      along with the proof 
+      of the underlying theorem. Experimental evaluation of the proposed model is discussed in 
+      application to a model of a computer system "Nauka-MGU" ("ISTINA") [4] designed for user-assisted 
+      collection and management of research- and education-related data and metrics in Lomonosov Moscow State 
+      University.</p>
+ - doi:
+   link: _9_2015_3
+   item_authors: Bakanov V. M.
+   item_authors_address: '<b>V. M. Bakanov</b>, Professor, e-mail: vbakanov@hse.ru, National Research University Higher School of Economics, Moscow'
+   item_name: Dynamics Control Computing in the Processor Data Flow Architecture for Different Types of Algorithms
+   item_pages: 20–24
+   item_keywords: parallelization of data processing problems paralleling paralleling automation, software and hardware parallelism, post the von-Neumann architecture, streaming calculators, of computing-intensive, computer simulation, strategy, controlling the intensity calculations 
+   item_annot: |
+     <p>The paper set out the goals of definition of rational modes of calculators post Von Neumann 
+     architecture with automatic parallelization of hardware (streaming, DATA FLOW architecture) and 
+     proposes solutions to some of them. Evaluators streaming architecture have undoubted advantage in 
+     the form of a fully automatic parallelization of data processing at the hardware level and can be 
+     considered as an alternative future of modern processors classical von Neumann architecture. 
+     In contrast to the traditional architecture of calculators in this case, you can control the 
+     intensity of computation (number of simultaneous operations), defined the conditions 
+     for such management. Targeted control of the intensity calculation is useful in terms of rational 
+     use of both existing performing 
+     devices and loads (traffic) inside chip data bus and allows more efficient use of calculators streaming in single and multi-tasking. 
+     Management strategies implemented by setting priorities sample ready to run operators from the buffer memory streaming command calculator, 
+     with the possible intensification of regimes as well as the intensity of depression calculations. The concept of function computing 
+     complexity of expanding its change in time of the program. These tasks performed by computer simulation shows the multiplicity 
+     of solutions and the ability to choose the most effective one. The effectiveness of several proposed strategies for managing 
+     the intensity calculation is shown by the example of several commonly used standard algorithms.</p>
+ - doi: 
+   link: _9_2015_4
+   item_authors: Antonov S. V., Krivchikov M. A.
+   item_authors_address: '<b>S. V. Antonov</b>, Student, e-mail: antonovsergey93@gmail.com, <b>M. A. Krivchikov</b>, Researcher, e-mail: maxim.krivchikov@gmail.com, Faculty of Mechanics and Mathematics and Institute of Mechanics, Lomonosov Moscow State University, Moscow, Russia'
+   item_name: A Formal Model for the Floating Point Computations for the Dependently-Typed Lambda Calculus
+   item_pages: 25–31
+   item_keywords: formal models, formal verification, lambda-calculus, programming with dependent types, floating point numbers, floating point inaccuracy, formal semantics
+   item_annot: |
+     <p>The proof of correctness for the computational methods which are used in the complex physical simulation software 
+      is an important part of the formal verification process for such a software. The high-performance physical simulation 
+      algorithms are usually implemented by the means of floating point computing model based on IEEE 754 Standard.</p>
+      <p>In this paper a new formal model for IEEE 754 floating point numbers and arithmetic operations is presented. The model 
+      is implemented in Coq proof assistant. The arithmetic operations are executable so that it is possible to obtain the results 
+      of computation in Coq. The model is abstract enough to be expressed in any dependently-typed lambda calculi with support 
+     for the dependent sums, finite types with two and three elements and the natural numbers. The model is tested by comparison
+     of the computation results for model and for hardware floating point implementations using the fragment of code from production 
+     physical simulation package.</p>
+     <p>The floating-point computations model includes the abstract interface for the arithmetic operations on some approximation 
+     of real numbers. Based on such interface, the authors specify a simple language of arithmetic expressions with replaceable 
+     implementations of arithmetic. By means of the language, the error which is introduced in the mentioned code fragment by 
+     replacing exact real number operations with inexact floating point equivalents is justified.</p>
+ - doi: 
+   link: _9_2015_5
+   item_authors: Bezdushny A. A.
+   item_authors_address: '<b>A. A. Bezdushny</b>, Postgraduate Student, e-mail: andrey.bezdushny@gmail.com, Moscow Institute of Physics and Technology'
+   item_name: 'MemoPIM: Personal Information and Knowledge Management with Semantic Technologies'
+   item_pages: 32–42
+   item_keywords: Personal Information Management, Personal Knowledge Management, Semantic Desktop, Semantic Web, RDF, Linked Open Data, Spreading activation, Tag recommendation, RDF similarity measures
+   item_annot: |
+     <p>In the course of daily activities, one is confronted with increasingly volume of information, a large part of which 
+       is stored in digital format. In this paper the MemoPIM system is presented. MemoPIM supports management of personal information 
+       and personal knowledge and develops ideas of the Semantic Desktop <97> an approach to the personal information space organization 
+       in accordance with principles of Semantic Web and Linked Open Data.</p>
+       <p>Knowledge and information is stored in RDF repository, based on OWL ontology. Ontology describes classes from different domains, 
+       such as file system ontology, publication ontology, calendar ontology etc. Knowledge can be imported from external sources or 
+       created manually by user. System provides adapters for following sources: file system, email, calendar, browser bookmarks. 
+       Imported information is transformed to RDF in accordance with system ontology. In some cases additional metadata is created, 
+       for example author, annotation and title is extracted from scientific articles.</p>
+       <p>During user work, actions performed by him are logged to knowledge base. These logs are later used for several tasks 
+       such as context inference, knowledge base analysis and tag recommendation. Context inference is based on spreading activation 
+       algorithm over RDF graph. Activation values for RDF nodes are recalculated after each user action. To create additional relations 
+      in RDF data, knowledge base analysis is performed. Another service provided by system is automatic categorization of resources. Categorization is based on tag recommendation algorithm.</p>
+      <p>System provides two types of user interfaces for knowledge management <97> based on hierarchical presentation of data and based on mind maps.</p>
+ - doi:
+   link: _9_2015_6
+   item_authors: Telnov V. P., Mishev A. V.
+   item_authors_address: '<b>V. P. Telnov</b>, Associate Professor, e-mail: telnov@bk.ru, <b>A. V. Mishev</b>, Associate Professor, e-mail: mishev@iate.obninsk.ru, Obninsk Institute for nuclear power engineering of national research nuclear University "MEPhI"'
+   item_name: The Semantic Web and Search Agents for High School.
+   item_pages: 43–48
+   item_keywords: information technologies, semantic web, knowledge base, search agent, higher education
+   item_annot: |
+     <p>In the prologue article outlines the ideas and motivations underlying the concept of semantic educational portals and 
+       intelligent agents. Question of availability the Linked Open Data in the Russian segment of the World Wide Web. The presentation 
+       focused on the problems of the practical implementation of the ideas of the Semantic Web for educational portals of Russian universities.</p>
+       <p>In the main part of the article presents and discusses three search agents, mutually complementary. Of these, the first 
+      two agents - agents "DBpedia" and "Wikidata" - dealing with similar international knowledge bases. The third search 
+      agent "AjaxSearch" offers adaptive technology of the contextual information search in the world wide web, when the 
+      initial retrieval of content from the global network performed well-known search engines (Google, Yahoo, Yandex), who 
+       have the appropriate software interface. The key architectural, technological and design decisions in UML notation diagrams
+        of components, sequence diagrams and deployment diagrams are given. Showing examples of the user interface.</p>
+      <p>The conclusion presents the arguments for and against the introduction of semantic web technologies in educational practice. 
+      The article focused on a wide range of professionals interested in the application of semantic technologies in educational 
+      activities of higher educational institutions, as well as students and professors specializing in the field of informatics and computer science.</p>
+---

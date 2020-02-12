@@ -1,0 +1,100 @@
+---
+title: Issue N12 2016 year 
+content:
+ - doi: 7.531-538
+   link: 7.531-538
+   udk: "519.683"
+   item_authors: "Shelekhov V. I."
+   item_name: "Program Classification in Software Engineering"
+   item_authors_address: | 
+     <b> V. I. Shelekhov</b>, vshel@iis.nsk.su, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation 
+   item_corr_author: "Shelekhov Vladimir I., Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation E-mail: vshel@iis.nsk.su"
+   item_rec_on:  August 17, 2016 
+   item_acc_on:  August 31, 2016
+   item_annot: |
+     <p> Program classification based on kinds of an environment interface, program specification, language kernel, etc. is analyzed. The classification is intended to be a scientific basis for creating proper development methods for each program class. The following three program classes were defined: programs implementing functions (program-functions), reactive systems, and programming language processors. Definitions of program classes are based on the basic notions of a program, a program specification, requirements, etc. which were previously systematically defined. The paper may be used for teaching university students specialized in software engineering.
+     The program-function and reactive systems classes include more than 90 % of all programs. There are also the following two meta-level classes: programming language processors and operating systems which are considerably more complex. The four mentioned program classes are not the full collection of program classes. Other program classes exist, for example, programs connected with data bases.
+     </p>
+   item_keywords: software engineering, requirement specification, program specification, reactive system, formal semantics
+   item_pages: 531–538
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00498 '
+   item_citation: 'Shelekhov V. I. Program Classification in Software Engineering, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 531—538.'
+ - doi: 7.539-546
+   link: 7.539-546
+   udk: "004.4’2"
+   item_authors: "Chentsov P. A."
+   item_name: "New Way to Construct Console Application Interfaces: Technology TextControlPages"
+   item_authors_address: | 
+     <b> P. A. Chentsov</b>, chentsov.p@mail.ru, Institute of Mathematics and Mechanics Ural Branch of RAS, Yekaterinburg, 620219, Russian Federation 
+   item_corr_author: " Chentsov Pavel A., Senior Researcher, Institute of Mathematics and Mechanics Ural Branch of RAS, 620219, Yekaterinburg, Russian Federation, E-mail: chentsov.p@mail.ru "
+   item_rec_on:  August 23, 2016
+   item_acc_on:  September 22, 2016
+   item_annot: |
+     <p> Console applications has a significant place in the world of information technology. This applications work in text mode. The main ways of its interaction with user are text commands or configuration files. This ways are not so convenient in comparison with the modern graphic interfaces. This paper presents a concept of console interfaces creation with high level of interactivity and usability. It based on the very common constructions - menu and dialogs. But this concept uses only few standard input and output functions. It provides high code portability. Moreover, was created C++ library, based on the stdio and conio standard libraries. Speaking strictly, it uses only three functions: printf, getc and gets. Every C++ compiler provides these functions. TextControlPages library allows to change text encoding in a program run, and works with large text constructions exceeding the dimensions of a console.</p>
+   item_keywords: interface, menu, modal dialog, code portability, console application
+   item_pages: 539–546
+   item_citation: 'Chentsov P. A. New Way to Construct Console Application Interfaces: Technology TextControlPages, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 539—546.'
+ - doi: 7.547-558
+   link: 7.547-558
+   udk: "004"
+   item_authors: "Vasenin V. A., Itkes A. A., Bukhonov V. Yu., Galatenko A. V."
+   item_name: "Access Control Models in Multiuser Scientometric Content Management Systems"
+   item_authors_address: | 
+     <b>V. A. Vasenin</b><sup>1, 2</sup>, e-mail: vasenin@msu.ru, <b>A. A. Itkes</b><sup> 2</sup>, e-mail: itkes@imec.msu.ru, <b>V. Yu. Bukhonov</b><sup>1</sup>, e-mail: bukhonovvyu@gmail.com, <b>A. V. Galatenko</b><sup>1</sup>, e-mail: agalat@msu.ru,
+     <sup>1</sup> Faculty of Mechanics and Mathematics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation,
+     <sup>2</sup> Scientific Research Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: " Bukhonov Vladimir Yu., Postgraduate Student, Faculty of Mechanics and Mathematics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation E-mail: bukhonovvyu@gmail.com"
+   item_rec_on:  August 02, 2016 
+   item_acc_on:  September 05, 2016
+   item_annot: |
+     <p> This paper presents the results of the gap analysis of three modern access control models — Attribute Based Access Control (ABAC), developed by Hu, Ferraiolo, Kuhn, Schnitzer, Sandlin, Miller, Scarfone from NIST; Entity Based Access Control (EBAC), developed by Bogaerts, Decat, Lagaisse, Joosen; Chain-Relation Based Access Control (ChRelBAC), developed by authors of these paper. The short descriptions, including formal definitions and basic concepts, are given for each model. As such, in this paper the authors analyze them in reference to content management in multiuser systems, based on "user-user", "user-resource" and "resource-resource" relations. Results of the analysis are presented in this work.
+     The capabilities of the models practical usage in Scientometrics are compared as applied to information-analytical system "ISTINA". Main functions of this system include gathering and processing information about the results of scientific and educational activities in big organization for management decision-making. The experience of working with "ISTINA" as a typical multiuser scientometric content management system has allowed the authors to formulate requirements and criteria, which were used for comparative analysis of ABAC, EBAC and ChRelBAC.
+     </p>
+   item_keywords:  access control, entity, relations, attributes, chains of relations, Chain-Relation Based Access Control, Attribute Based Access Control, Entity Based Access Control
+   item_pages: 547–558
+   item_citation: ' Vasenin V. A., Itkes A. A., Bukhonov V. Yu., Galatenko A. V. Access Control Models in Multiuser Scientometric Content Management Systems, Programmnaya Ingeneria, 2016, vol. 7, no. 12. pp. 547—558.'
+ - doi: 7.559-567
+   link: 7.559-567
+   udk: "004.4"
+   item_authors: "Bourdonov I. B., Kossatchev A. S."
+   item_name: "Graph Learning by Group of Moving Automata"
+   item_authors_address: | 
+     <b> I. B. Bourdonov</b>, igor@ispras.ru, <b>  A. S. Kossatchev</b>, kos@ispras.ru, Institute for System Programming RAS, Moscow, 109004, Russian Federation
+   item_corr_author: " Bourdonov Igor B., Leading Researcher, Institute for System Programming RAS, 109004, Moscow, Russian Federation, e-mail: igor@ispras.ru"
+   item_rec_on:  August 01, 2016
+   item_acc_on:  September 14, 2016
+   item_annot: |
+     <p> Graph learning or exploration tasks can be found in many applications. Among the most important ones we can name software or hardware verification and testing, network exploration, including exploration of big parts of Internet and GRIDs. In many cases system or network model is represented as a graph, which properties should be investigated.
+     This paper is the second one in a series of works devoted to graph exploration by automata. In the first paper we consider graph exploration by a single automaton, in this one we consider directed graph exploration by several automata, which can move along its arcs and communicate through graph-independent network. All arcs outgoing from a vertex of the graph are numbered, such a graph is called an ordered one. To move through some arc from some vertex, an automaton should use this arcs number.
+     In the modern technical environment the size of actively used systems and networks is growing, so does the size of graphs modeling those systems and networks. When graph exploration by a single automaton (a single machine) requires too large time or a graph cannot be stored in the memory of a single machine, such an exploration and further graph investigation become problematic. So, the task of parallel distributed graph exploration becomes actual. We formalize this task as a task of graph exploration by a set of automata (several machines, which total memory is sufficient to store the graph in it).
+     Possible solutions of this task can differ depending on the memory size of automata used. As in the first paper, we consider robots, semi-robots and unbounded automata. A robot is a finite automaton with bounded memory. A semi-robot is an automaton, which memory size is bounded by some function of the graph size. An unbounded automaton can store the entire structure of the graph in its internal memory.
+     In this paper we also present the results on non-deterministic graph exploration by a set of semi-robots. Non-deterministic graph can have several arcs with the same number outgoing from one vertex. Under some restrictions on such a graph, it can be explored by a set of automata. For unbounded nondeterministic case we consider so called A-traversal, which may not use every arc, but use every valid arc number in each vertex at least once. To have a A-traversal a directed graph should be bound in some specific sense.
+     In the next paper we consider immobile automata fixed in graph vertices and communicating with messages sent along graph arcs.
+     </p>
+   item_keywords: directed graph, ordered graph, numerated graph, unknown graph, nondeterministic graph, graph learning, graph exploration, graph traversal, automaton, robot, semirobot, automata group
+   item_pages: 559–567
+   item_citation: 'Bourdonov I. B., Kossatchev A. S. Graph Learning by Group of Moving Automata, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 559—567.'
+ - doi: 7.568-574
+   link: 7.568-574
+   udk: "004.5"
+   item_authors: "Chitalov D. I., Merkulov E. S., Kalashnikov S. T."
+   item_name: "Development of a Graphical User Interface for the OpenFOAM Toolbox"
+   item_authors_address: | 
+     <b> D. I. Chitalov</b>, cdi9@yandex.ru, <b> Ye. S. Merkulov</b>, mes1@yandex.ru, <b> S. T. Kalashnikov</b>, src@makeyev.ru, Department of Fundamental Problems of Aerospace Technologies of Chelyabinsk Scientific Centre of Ural Branch of RAS, Miass, 456317, Russian Federation 
+   item_corr_author: " Chitalov Dmitry I., Junior Scientific Officer, Department of Fundamental Problems of Aerospace Technologies of Chelyabinsk Scientific Centre of Ural Branch of RAS, Miass, 456317, Russian Federation, e-mail: cdi9@yandex.ru"
+   item_rec_on:  May 05, 2016 
+   item_acc_on:  September 09, 2016
+   item_annot: |
+     <p> The paper is devoted to the description of architecture of an application creating a graphical user interface for the rhoCentralFoam solver that is a part of the OpenFOAM ToolBox. The diagram of the application components is presented. The tools used in the development are also defined. The paper also presents a brief overview of the developed application.
+     Currently in the field of mathematical modeling of the processes of the mechanics of continuous media and, in particular, of its sections as gas and fluid mechanics, mechanics of deformable solids, there are widely used packages of applied numerical simulation programs, in particular, of OpenFOAM package of open source. Thanks to the universal standard of solvers and modules development, it is one of the most effective means of numerical simulation of gas and fluid mechanics.
+     Statement and solution of problems in OpenFOAM are relatively complex and require knowledge of a wide range of console commands and utilities, as well as taking into account the specifics of the working directory file structure. To solve the problem the user must create a project task, which consists of a series of text files, located in the well-defined directories in the project folder. The number of text files depends on the solver. Each of these files must be completed in accordance with the syntax of OpenFOAM.
+     Considering the above, the authors of this article, have decided to create their own application — rCFGUI, which, via a graphical user interface, will provide the process automation in the pre-treatment stages and setting goals to address in OpenFOAM solver for a particular environment — rhoCentralFoam.
+     </p>
+   item_keywords: graphical user interface, OpenFOAM, Python programming language, open source software, rhoCentralFoam
+   item_pages: 568–574
+   item_citation: Chitalov D. I., Merkulov Ye. S., Kalashnikov S. T. Development of a Graphical User Interface for the OpenFOAM Toolbox, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 568—574.'
+ - doi:
+   link: 7.575-576
+   item_name: "Index of Articles Published in the Journal 'Software Engineering' in 2016"
+   item_pages: 575–576
+---

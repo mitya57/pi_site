@@ -1,0 +1,107 @@
+---
+title: Issue N10 2017 year 
+content:
+ - doi: 8.435-447
+   link: 8.435-447
+   udk: "004.89"
+   item_authors: "Gribova V. V., Kleschev A. S., Moskalenko Ph. M., Timchenko V. A., Fedorischev L. A., Shalfeeva E. A."
+   item_name: "A Graph Grammar Managed Development of Intelligent Service Shells on the IACPaaS Cloud Platform"
+   item_authors_address: | 
+     <b> V. V. Gribova</b>, gribova@iacp.dvo.ru, <b> A. S. Kleschev</b>, kleschev@iacp.dvo.ru, <b> Ph. M. Moskalenko</b>, philipmm@iacp.dvo.ru, <b> V. A. Timchenko</b>, vadim@iacp.dvo.ru, <b> L. A. Fedorischev</b>, fleo1987@mail.ru, <b> E. A. Shalfeeva</b>, shalf@iacp.dvo.ru, Federal State Budgetary Institute of Science Institute of Automation and Control Processes, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok, 690041, Russian Federation
+   item_corr_author: " Moskalenko Philip M., Senior Researcher, Federal State Budgetary Institute of Science Institute of Automation and Control Processes, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok, 690041, Russian Federation, E-mail: philipmm@iacp.dvo.ru"
+   item_rec_on:  July 27, 2017 
+   item_acc_on:  August 28, 2017
+   item_annot: |
+     <p> The paper presents the technology for development of intelligent service shells on the IACPaaS cloud platform. The technology is based on extended generative graph grammars. Each grammar specifies an information structure that has the form of a labeled hierarchical digraph that controls the process of solution calculation. The extension of the grammar is a special kind of digraph that sets correspondence between some vertices of the grammar and software agents. The technology is intended to reduce the difficulty and time-complexity of intelligent service shells development and maintenance processes. The use of this technology is focused on a class of problems, process of solving which can be specified in the form of step-by-step execution of individual operations. These operations are initiated either by the user or automatically — by the special interpreter agent. The result of solving the problem is a sequentially formed (in "top-to-bottom" way) information resource (possibly several information resources) — a digraph of information. The technology also simplifies the maintenance process for knowledge-based systems, in which not only the knowledge base changes, but also its structure (knowledge representation model) and the functionality of the problem solver. Simplification occurs due to the explicit indication of the links between the software modules (agents) and the elements of the control structure (ontology). The modification of the functionality of the shells problem solver comes down to removal or modification of existing correspondences or adding new ones, as well as modification of existing and creation of new agents. Using the proposed technology and tools of the IACPaaS platform, a shell for research in the field of intuitive mathematical proofs verification has been developed and shells for services in practical and educational medicine are being developed.
+     </p>
+   item_keywords: knowledge-based systems, technology for development of knowledge-based systems, knowledge-based system shells, multi-agent systems, hierarchical digraphs, agent-oriented programming, cloud services
+   item_pages: 435–447
+   item_comment: 'This work was partially supported by the Russian Foundation for Basic Research, project nos. 16-07-00340, 17-07-00299 and 15-07-03193.'
+   item_citation: ' Gribova V. V., Kleschev A. S., Moskalenko Ph. M., Timchenko D. A., Fedorischev L. A., Shalfeeva E. A. A Graph Grammar Managed Development of Intelligent Service Shells on the IACPaaS Cloud Platform, Programmnaya Ingeneria, 2017, vol. 8, no. 10, pp. 435—447.'
+ - doi: 8.448-455
+   link: 8.448-455
+   udk: "001, 004.4"
+   item_authors: "Vasenin V. A., Zanchurin M. A., Kozitsyn A. S., Krivchikov M. A., Shachnev D. A."
+   item_name: "Architectural and Technological Aspects of the Development and Maintenance of Large Information Analysis Systems in the Area of Science and Education"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, vasenin@msu.ru, <b> M. A. Zanchurin</b>, maxim.zanchurin@gmail.com, <b> A. S. Kozitsyn</b>, alexanderkz@mail.ru, <b> M. A. Krivchikov</b>, maxim.krivchikov@gmail.com, <b> D. A. Shachnev</b>, mitya57@mitya57.me, Lomonosov Moscow State University, Moscow, 119991, Russian Federation 
+   item_corr_author: " Vasenin Valery A., Dr. Sc., Professor, Head of the Chair, Lomonosov Moscow State University, Moscow, 119991, Russian Federation E-mail: vasenin@msu.ru"
+   item_rec_on:  July 22, 2017
+   item_acc_on:  August 02, 2017
+   item_annot: |
+     <p> Mechanisms for managing the scientific, technical and educational activity are a subject of a special attention of the government. With the emergence of packet communications technologies and tools, and the Internet meta-network and technologies based on it, at the beginning of 21st century there were all prerequisites ready for creating systems available to collect, store and analyze large amounts of scientometrical data in an immediate manner. The present article considers the architectural and technological aspects of the development and maintenance of such large information analysis systems in the area of science and education, based on the example of the "ISTINA" system (referred to as System throughout the text).
+     The main requirements to the System architecture include:
+     <ol>
+     <li>modularity and scalability, on the macro-level of system description as well as on the underlying levels;</li>
+     <li>hierarchical organization and orientation on processes;</li>
+     <li>completeness of the reflection of all processes currently in demand and for the foreseeable future that are automatized within the System;</li>
+     <li>taking processes of interaction with external databases storing various kinds of auxiliary data into account.</li>
+     </ol>
+     The technological principles include:
+     <ul>
+     <li>compliance with regulations relating to systems of national importance;</li>
+     <li>adherence to the main provisions of software engineering at all stages of the System life cycle;</li>
+     <li>using the mechanisms of collaboration and integration with the external and internal data bases taking the confidentiality requirements into account.</li>
+     </ul>
+     The System architecture reflects the ontological model of the scientometrics using its representation as the subject area on which the System is oriented. The integrating mechanisms of the System are implemented using a relational database, the structure of which reflects the main aspects of the ontology, and a set of applications using that database.
+     One of the natural models for representing the objects in the System database is the graph model. A visual ontology editor for working with graph is being developed at the moment. Investigations on using the ontologies in the system architecture are considered as one of the most perspective development directions of such systems by the developers.
+     With regards to technological aspects this article describes approaches to source code management and continuous integration; processing the users requests and bug reports; tools for preparing the documentation packages for the System; experience with upgrading to the new version of Django framework.
+     </p>
+   item_keywords: information analysis systems, science and education, scientometrics, software engineering, distributed systems, software architecture
+   item_pages: 448–455
+   item_citation: 'Vasenin V. A., Zanchurin M. A., Kozitsyn A. S., Krivchikov M. A., Shachnev D. A. Architectural and Technological Aspects of the Development and Maintenance of Large Information Analysis Systems in the Area of Science and Education, Programmnaya Ingeneria, 2017, vol. 8, no. 10, pp. 448—455. '
+ - doi: 8.456-462
+   link: 8.456-462
+   udk: "004.722 + 004.415.23"
+   item_authors: "Dimitrov V. M."
+   item_name: "Laconic Object Query Language Using Features of Object Model"
+   item_authors_address: | 
+     <b> V. M. Dimitrov</b>, dimitrov@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Republic of Karelia, Russia 
+   item_corr_author: " Dimitrov Vjacheslav M., Senior Lecturer, dimitrov@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Republic of Karelia, Russia, E-mail: dimitrov@cs.petrsu.ru "
+   item_rec_on:  July 17, 2017 
+   item_acc_on:  July 24, 2017
+   item_annot: |
+     <p> The LaOQL query language is used by staff of computing centre of PetrSU, for example, to find the physical location of the device by its IP address. However, the query performance does not meet users expectations, leaving LaOQL behind its analogues, for example, the HQL language. One way to improve performance is the possibility of parallel execution of independent parts of the algorithm perform queries.
+     The report presents methods of parallel implementation of the LaOQL language. Experiments have shown that in certain cases it is possible to achieve significant performance improvements in comparison with the same queries that are executed sequentially.
+     </p>
+   item_keywords: object-oriented database system, query language, network, parallel queries
+   item_pages: 456–462
+   item_citation: ' Dimitrov V. M. Laconic Object Query Language Using Features of Object Model, Programmnaya Ingeneria, 2017, vol. 8, no. 10, pp. 456—462. '
+ - doi: 8.463-469
+   link: 8.463-469
+   udk: "519.852"
+   item_authors: "Ivanova K. F."
+   item_name: "Interval Admissible Solution of a Linear Programming Problem in MATLAB System"
+   item_authors_address: | 
+     <b> K. F. Ivanova</b>, Klara.I2010@yandex.ru, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation 
+   item_corr_author: " Ivanova Klara F., Doctorant, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation, E-mail: Klara.I2010@yandex.ru"
+   item_rec_on:  July 11, 2017
+   item_acc_on:  July 20, 2017
+   item_annot: |
+     <p> In article the solution of a linear programming problem (LPP) in presence of uncertainty of parameters of target function and inequality restrictions by its reduction to the usual determined systems is offered. The algorithm of calculation of a modeled optimal problem is based on use of the simplex method which is built into the MATLAB system. The interval solution of a standard problem of optimization is represented as interval expansion of the optimal pointwise plan received on the basis of a nominal canonical set of equations. With use of interval representation of factors of the received nominal system the interval problem of an interior estimation of set of solutions of interval system of the linear algebraic equations (ISLAE) is solved and the interval vector (brus) corresponding to the optimal admissible plan is calculated.
+     The admissibility of the discovered interval optimal plan is checked by its substitution in the pointwise sets of equations defining an exterior estimation of set of solutions ISLAE constructed on the basis of interval canonical system. For optimal angular matrices of the formalized pointwise systems their product on the discovered vector should not overstep the bounds of an interval vector of restrictions.
+     The purpose of this research is an objective deriving of boundaries of the optimal target function, not exceeding the limit of possible deviations called by uncertainty of a problem data and conforming to inequality restrictions.
+     </p>
+   item_keywords: a linear programming problem, canonical system, exterior, interior estimations of solutions set ISLAE, the optimal admissible plan, expansion of a pointwise solution, inequality restrictions
+   item_pages: 463–469
+   item_citation: 'Ivanova K. F. Interval Admissible Solution of a Linear Programming Problem in MATLAB System, Programmnaya Ingeneria, 2017, vol. 8, no. 10, pp. 463—469.'
+ - doi: 8.470-480
+   link: 8.470-480
+   udk: "004.932.2"
+   item_authors: "Shokurov A. V., Krivchikova K. A."
+   item_name: "Absolute Error Estimation when Reconstructing the Extrinsic Parameters of a Camera Group in Application to Object Localization and Tracking"
+   item_authors_address: | 
+     <b> A. V. Shokurov</b>, shokurov.anton.v@yandex.ru, <b> K. A. Krivchikova</b>, k.krivchikova@gmail.com, Lomonosov Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Krivchikova Kseniya A., Student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: k.krivchikova@gmail.com"
+   item_rec_on:  June 28, 2017  
+   item_acc_on:  July 10, 2017
+   item_annot: |
+     <p> There are many approaches to object localization and tracking, and the most common way to achieve accurate results is to use a camera group instead of a single camera. Correct mapping between frames from distinct cameras helps to achieve more reliable tracking and more accurate object motion estimation, and calibration is the only way to find these mappings in practice.
+     In this article we propose a new technique of extrinsic self calibration based principally on [1, 12] and absolute error upper-estimates for extrinsic parameters and fundamental matrix reconstruction. We assume that the scene is located outdoor and there is no physical access to the scene (so it is not possible to use special calibration targets). We also assume that cameras intrinsic parameters and global positioning data are known with some given error.
+     Error estimation improves accuracy of object localization and determines the range of applications of the whole tracking algorithm. Since methods of fundamental matrix reconstruction are very specific and depend on many additional constraints, we derive error estimates for three methods: two iterative and one robust. For each method the upper estimate of absolute error is calculated on the assumption that feature point projections are determined with fixed error Ax. The absolute error of extrinsic camera parameters is estimated as a function of the fundamental matrix and feature point projections.
+     Finally, we examine a few methods for removing outliers of feature matching on the synthetic data obtained by rendering an outdoor 3D scene from multiple viewpoints. Poor performance of these methods — Lowe ratio-test with several automated techniques of threshold determination and one novel half-automated technique — is discovered under certain conditions showing the need to improve the proposed algorithm and adapt other methods of finding outliers.
+     </p>
+   item_keywords: external camera parameters, camera calibration, absolute error estimation, fundamental matrix, object tracking
+   item_pages: 470–480
+   item_citation: ' Shokurov A. V., Krivchikova K. A. Absolute Error Estimation when Reconstructing the Extrinsic Parameters of a Camera Group in Application to Object Localization and Tracking, Programmnaya Ingeneria, 2017, vol. 8, no. 10, pp. 470—480.'
+---

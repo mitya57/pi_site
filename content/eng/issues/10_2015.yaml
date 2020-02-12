@@ -1,0 +1,49 @@
+---
+title: Issue N10 2015 year
+content:
+ - doi:
+   link: _10_2015_1
+   item_authors: Koznov D. V.
+   item_authors_address: '<b>D. V. Koznov</b>, Associate Professor, e-mail: d.koznov@spbu.ru, Saint Petersburg State University'
+   item_name: 'Model-Based Development in Education: Teaching Way of Thinking'
+   item_annot: |
+     <p>Model-based software engineering teaching is actively discussed in the international education community at the moment. Nonetheless, there is no common viewpoint to the topic. Courses at different universities are radically different from each other. The variation points are focus and area of the teaching topic, student background required, connections with other software engineering courses, etc. In this paper an education concept for model based software engineering teaching is introduced. The concept is more a special way of thinking rather than a collection of techniques/tools. It consists of the following issues: background in standard modeling languages (UML, BPMN); view point concept; skills for detection of information pieces, which suit/not suit for modeling; creating nice diagrams; balancing information on a diagram; diagram reading skills diagram decomposition/size management understanding of software modeling use cases; understanding advantages and limitations of codegeneration. Actually, the concept is a set of special mental skills and focuses on successful adoption of model based abstractions into a various software development activities meeting real industrial challenges. We present also a course based on the concept suggested. The course addresses to 3-4 year software engineering bachelor students.</p>
+   item_keywords: model based software development, UML, software development, domain-specific modeling, teaching software engineering
+   item_pages: 3–11
+ - doi:
+   link: _10_2015_2
+   item_authors: Maltsev A. V., Mikhayluk M. V.
+   item_authors_address: '<b>A. V. Maltsev</b>, Senior Researcher, e-mail: avmaltcev@mail.ru, <b>M. V. Mikhayluk</b>, Head of Department, e-mail: mix@niisi.ras.ru, Scientific Research Institute of System Analysis (Russian Academy of Sciences), Moscow'
+   item_name: Implementation of Ergonomic Contactless Management Interface for Anthropomorphic Robot's Virtual Model by Using Kinect
+   item_annot: |
+     <p>At this work the approach is considered to implementation ergonomic contactless management interface of anthropomorphic (humanoid) robot's virtual model in so-called copying mode which provides a repetition of operator's movements by this model. This interface includes hardware and software parts. The hardware part is based on using the Microsoft Kinect device that connects to a personal computer via USB port. It provides a coordinate determination of skeleton's reference points for operator which is in the device's working area. The software part of proposed interface calculates current values of angles in robot model's joints by using found reference points and send these values to management system. The management system in its turn changes a posture of robot model in accordance with received parameters. The essence of proposed methods for calculating angles and transfer of them by a network to management system is described in detail on the example of left hand control of the humanoid robot's virtual model (SAR-401). The methods for implementation of ergonomic contactless interface, considered in this article, allow managing not only this virtual model but also other models of anthropomorphic robotic systems. The described solutions are also applicable in the case of the control interface creation for real mechanical humanoid robot.</p>
+   item_keywords: anthropomorphic robot, management, virtual model, reference points, contactless interface, Kinect
+   item_pages: 12–18
+ - doi:
+   link: _10_2015_3
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_authors_address: '<b>I. O. Zharinov</b>, Associate Professor, Chief of Department, e-mail: igor_rabota@pisem.net, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of Learning-Scientists Center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, <b>O. O. Zharinov</b>, Associate Professor, Saint Petersburg State University of Aerospace Equipment'
+   item_name: The Solution to the Problem of Evaluation of Parameters of the Mathematical Model of Color Reproduction for Display with Maximal Gamut Based of Spectrum Locus Interpolation
+   item_annot: |
+     <p>The problem and methods for its solution for estimation of parameters of the mathematical model of color reproduction, which are suitable for LCD and LED displays with maximum gamut, were considered. The technique is based on interpolation of the given spectrum locus on the XY-plane and the subsequent calculation of the chromaticity coordinates of the vertices of the color gamut triangle, inscribed in the color locus and having the maximum possible area. Estimation of parameters of the mathematical model of color reproduction of the display was performed on the basis of the solution of the system of equations, the initial data for which are the chromaticity coordinates of the vertices of the color gamut triangle with maximum area and the chromaticity coordinates of the white point of the given display unit. There three ways for interpolation of the spectrum gamut were developed and tested: first technique, based on interpolation in the space of color coordinates; second one, based on the interpolation in the space of chromaticity coordinates; and third technique, based on the interpolation of the spectral locus as some tabular curve having its specific shape. There numerical values were obtained for profiles of displays, with a maximum possible area of the color gamut triangle, corresponding to the colorimetric standards D-75, D-65, D-55, D-50.</p>
+   item_keywords: colorimetric standard, spectrum locus, chromaticity coordinates, interpolation, Bezier curve, gamut triangle, display
+   item_pages: 19–30
+ - doi:
+   link: _10_2015_4
+   item_authors: Afonin S. A., Gasparianc A. E.
+   item_authors_address: '<b>S. A. Afonin</b>, Leading Researcher, Institute of Mechanics, Lomonosov Moscow State University, <b>A. E. Gasparianc</b>, Student, e-mail: gaspariants@mail.ru, Lomonosov Moscow State University'
+   item_name: Construction of Quality Function for Scientific Papers Author Names Disambiguation Problem Using Supervised Learning Techniques
+   item_annot: |
+     <p>In this paper the authors' names disambiguation problem is considered. This problem consists of finding a mapping between given set of scientific paper authors, i.e. tuple of strings, and the set of all authors' records of a bibliographic database. More than one database record may be matched by author's name. In this case disambiguation is conducted using information about previous joint works recorded in the database. A number of numerical features reflecting quality of the mapping proposed, and supervised learning techniques were applied in order to obtain final decision rule. Simulation on real a data set shows 86...97 % accuracy depending on number of coauthors and number of matching records.</p>
+   item_keywords: automatic learning, classification, e-library, bibliographic record, author name, disambiguation, duplicate search
+   item_pages: 31–37
+ - doi:
+   link: _10_2015_5
+   item_authors: Kiselev Yu. A., Porshnev S. V., Mukhin M. Yu.
+   item_authors_address: '<b>Yu. A. Kiselev</b>, Junior Research Fellow, e-mail: yuri.kiselev@urfu.ru, <b>S. V. Porshnev</b>, Head of Department, e-mail: sergey_porshnev@mail.ru, <b>M. Yu. Mukhin</b>, Professor, e-mail: mfly@sky.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg'
+   item_name: Method of Extracting Hyponym-Hypernym Relationships for Nouns from Definitions of Explanatory Dictionaries
+   item_annot: |
+     <p>Method allowing automating retrieving the pairs of nouns linked with hyponym-hypernym relations based on the processing of definitions from explanatory dictionaries is proposed. Quantitative assessments of the precision and the recall of the proposed method, testifying that the effectiveness of the method is sufficient for filling the database thesaurus with hyponym-hypernym relationships, are obtained. The average precision of the method is 0.58. The precision equals to 0.68 for the most frequent words of the Russian language. It's ascertained that the precision for the words belonging to a certain semantic class does not significantly vary from random words. 23,500 hyponym-hypernym pairs were correctly retrieved from the Dictionary of the Russian Language. Such recall is enough for the further constructing of hyponym-hypernym hierarchy between concepts, based on these pairs. All the retrieved data will be used in YARN project — a large open WordNet-like machine-readable thesaurus for the Russian language through crowdsourcing. The analysis of agreement between Russian native speakers in determining the correctness of the retrieved hyponym-hypernym pairs let us to make a conclusion about the possibility of the use of crowdsourcing for filling the thesaurus.</p>
+   item_keywords: thesaurus, dictionary, semantic relationships, hyponym-hypernym relationships, crowdsourcing, Russian language
+   item_pages: 38–48
+---

@@ -1,0 +1,76 @@
+---
+title: Issue N4 2011 year 
+content:
+ - doi:
+   link: _4_2011_1
+   udk: "004.41"
+   item_authors: "Lipaev V. V."
+   item_name: "Sertification of Software Solution for Controling systems"
+   item_authors_address: | 
+     <b> V. V. Lipaev </b>,  e-mail: alexlip@mail.ru
+   item_annot: |
+     <p> The methodological foundations of control system software product development and certification quality assurance is given in this paper. Two software system quality assurance methods are given: the engineering development process and the production-ready software product certification. Procedure structures and document content are presented for each of the methods at design, as well as at software system product development and certification.
+     </p>
+   item_keywords: certification, software products, software quality, software development and testing, documenting certification processes and results
+   item_pages: 2–11
+ - doi:
+   link: _4_2011_2
+   udk: "004.054; 519.257"
+   item_authors: "Orlik S. W."
+   item_name: "Software Engineering and Software Projects Lifecycle Models in the context of SWEBOK. Part II"
+   item_authors_address: | 
+     <b> S. W. Orlik</b>, e-mail: sorlik@gmail.com
+   item_annot: |
+     <p> Conceptual bases of vital cycle of projects on the development of software and programmed engineering in context IEEE Guide to the Software Engineering Body of Knowledge — SWEBOK are considered. The different models of vital cycle of programmed projects are considered and systematized. The given paper is based on public accessible translation SWEBOK into Russian language prepared by the author.
+     </p>
+   item_keywords: programmed engineering, the models of vital cycle of programmed projects, SWEBOK
+   item_pages: 12–19
+ - doi:
+   link: _4_2011_3
+   udk: "004.415.2"
+   item_authors: "Kukharenko B. G."
+   item_name: "Open Closed Principle in Program Engineering and Design Patterns. Part 1"
+   item_authors_address: | 
+     <b> B. G. Kukharenko </b>, e-mail: kukharenko@imash.ru
+   item_annot: |
+     <p> As shown, Open Closed Principle in object oriented programming appears on program system microarchitecture level. Design patterns represent class hierarchies, which form a general solution of program system design problem. Techniques are under study, which are able to detect design pattern modified versions in program systems, differing from standard representations by additional inheritance level. An efficiency of program system component graph and design pattern graph similarity scoring method in use is demonstrated by detecting canonic and demonstrative examples of patterns written in Java code.
+     </p>
+   item_keywords: object oriented programming, open-closed principle, microarchitecture, design patterns, pattern detection, graph algorithms
+   item_pages: 20–25
+ - doi:
+   link: _4_2011_4
+   udk: "4.65:004.413:005.8"
+   item_authors: "Asadullaev S. S."
+   item_name: "Data Warehousing: Triple Strategy on Practice"
+   item_authors_address: | 
+     <b> S. S. Asadullaev </b>, e-mail: Sabir_Asadullaev@ru.ibm.com
+   item_annot: |
+     <p> This paper uses a practical example of a system for collecting and analyzing primary data to show how triple strategy and recommended architecture of enterprise data warehouse (EDW) can provide higher quality of the information analysis service while reducing costs and time of EDW development.
+     </p>
+   item_keywords: enterprise data warehouse, development strategy, architecture
+   item_pages: 26–32
+ - doi:
+   link: _4_2011_5
+   udk: "004.056.52 004.056.53"
+   item_authors: "Itkes A. A."
+   item_name: "Trust-Relation-Based Access Control Management in Distributed Computer Systems with Nettrust Software Package"
+   item_authors_address: | 
+     <b> A. A. Itkes </b>,  e-mail: itkes@imec.msu.ru
+   item_annot: |
+     <p> Logical access control is an important aspect of ensuring the security of information systems, including distributed ones. A subject of such system usually can access a remote object only with assistance of another subject, referred to as the trusting to the subject performing access. For this reason, one can use trust relations between subjects of the distributed system to control access to its objects. This article describes the software package, named Nettrust, designed to control trust relations in distributed computer systems.
+     </p>
+   item_keywords: information security, access control, trust relations
+   item_pages: 33–40
+ - doi:
+   link: _4_2011_6
+   udk: "519.683.5"
+   item_authors: "Kolganov A. V."
+   item_name: "Effective R-Tree Implementation for Indexing Frequently Changed Geospatial Data"
+   item_authors_address: | 
+     <b> A. V. Kolganov </b>, e-mail: m@alexikolgariov.com
+   item_annot: |
+     <p> This paper investigates the subject of usage of the R-Tree data structure as applied to the construction of software systems used for processing frequently changing geospatial data. It also illustrates emerging performance issues and proposes several approaches to resolve them. The experimentally calculated data for some of these approaches is presented here. As a result of the research, there have been implemented a number of algorithms of updating the R-Tree, which, in certain cases, are capable of increasing its performance.
+     </p>
+   item_keywords: spatial data indexing, frequently changed data, performance analysis, R-Trees
+   item_pages: 41–47
+---

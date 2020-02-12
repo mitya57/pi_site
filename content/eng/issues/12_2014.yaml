@@ -1,0 +1,67 @@
+---
+title: Issue N12 2014 year
+content:
+ - doi:
+   link: _12_2014_1
+   udk: '004.43'
+   item_authors: Borodin A. M., Mirvoda S. G., Porshnev S. V.
+   item_name: Analysis of Language Prototyping Toolset	
+   item_authors_address: '<b> A. M. Borodin</b>, Associate Professor, e-mail: amborodin@acm.org, <b> S. G. Mirvoda</b>, Assistant, e-mail: sergey@mirvoda.com, <b>  S. V. Porshnev</b>, Head of Department, Associate Professor, e-mail: sergey_porshnev@mail.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Yekaterinburg'
+   item_annot: |
+     <p> Syntax definition is important stage of programming language design. This stage forms expressive capabilities and language clearance. These capabilities can help programming language to conquer minds of software developers.
+     </p><p>This paper discuss state of text programming languages and result of comparative analysis of modern grammar development toolset. Two main technologies of parser generators are compared in view of programming language prototyping. Analysis is based on comparison of two simple grammars. These grammars are designed to implement some structured query language (SQL) features. Though simple this grammars are capable of parsing most of common select SQL statements. Advantages and disadvantages of parser generators technologies are discussed on example of ANTLR and PEG.js.
+     </p><p>In addition, this paper describe arguments towards text programming languages. These arguments are given in the context of vertical integration of many different programming languages into technical stack.
+     </p>
+   item_keywords: syntax analisys, context-free grammar, parsing expression grammar, programming language prototyping
+   item_pages: 3–10
+ - doi:
+   link: _12_2014_2
+   udk: '004.415.2'
+   item_authors: Gik Yu. L.
+   item_name: The Use of the Programming Language Groovy in the Sonic ESB
+   item_authors_address: '<b> Yu. L. Gik</b>, Deputy Head of the Department, e-mail: gikjuri@yandex.ru, The joint-stock Bank "Rosevrobank"'
+   item_annot: |
+     <p> Enterprise Service Buses have proliferated in large enterprises and used to solve problems of integration of information systems. Complex tasks require the integration of specific approaches and the use of specialized programming languages. The work is devoted to the study of the Groovy programming language features in solving problems of integration. The key focus is on ease of use and performance issues. Services written on standard Sonic ESB components, Java and Groovy were tested and results analyzed. Article provides recommendations on the use of various technologies in the integration bus Sonic ESB.
+     </p>
+   item_keywords: integration bus, Groovy, ESB, Sonic ESB, script programming languages, dynamic programming languages
+   item_pages: 11–18
+ - doi:
+   link: _12_2014_3
+   udk: '004.932.2' 
+   item_authors:  Akhmadeeva I. R., Zagorulko Yu. A., Sery A. S., Shestakov V. K.
+   item_name: Experimental Techniques and Methods for the Automatic Analysis of Image Colors and their Applications to Web Design
+   item_authors_address: '<b>I. R. Akhmadeeva</b><sup>1</sup>, Programmer, e-mail: ah.irishka@gmail.com, <b>Yu. A. Zagorulko</b><sup>1, 2</sup> Head of Laboratory, e-mail: zagor@iis.nsk.su, <b>A. S. Sery</b><sup>1, 2</sup>, Junior Researcher, e-mail: Alexey.Seryj@iis.nsk.su, <b>V. K. Shestakov</b><sup>1, 2</sup>, Junior Researcher, e-mail: shestakov@iis.nsk.su<br><sup>1</sup> Novosibirsk State University,<br><sup>2</sup> A. P. Ershov Institute of Informatics Systems Russian Academy of Sciences Siberian Branch, Novosibirsk'
+   item_annot: |
+     <p> When designing a website, choosing appropriate decoration colors may not be an easy task, especially if the designer is not professional but an ordinary internet user. This paper proposes methods for automating some tasks involving working with images and color schemes. Such methods may prove useful for both professional designers and beginners. Some of these methods, based on various color quantization algorithms, help to automatically pick up colors that blend well with each other and with the images the designer wants to place on his/her website. The other method is intended for searching for appropriate images within a specified collection on a given color scheme. It is based on an analysis of the image histogram and its result depends on several parameters, which were optimized with genetic algorithm. The paper also presents a brief overview of various tools designed for constructing color palettes on a basis of images and searching for images on color palettes.
+     </p>
+   item_keywords: color quantization, image color analysis, image search, web design
+   item_pages: 19–27
+ - doi:
+   link: _12_2014_4
+   udk: '519.854'
+   item_authors: Zack Yu. A.
+   item_name: Algorithms Fuzzy-Linear Boolean Programming
+   item_authors_address: '<b> Yu. A. Zack</b>, Consultant, e-mail: yuriy_zack@hotmail.com, Aachen, Deutschland'
+   item_annot: |
+     <p> Considered setting deterministic equivalents and methods for solving Boolean Fuzzy-linear programming in an environment where the parameters of the objective function and constraints, as well as the permissible limit values of the constraint vector problem — fuzzy sets with given trapezoidal membership functions and the triangular form. Solution to the problem is sought in the form of a vector of Boolean variables. Methods for comparing and ranking fuzzy sets, as well as original algorithms for solving linear programming boolean branch and bound method.
+     </p>
+   item_keywords: fuzzy sets, Fuzzy-Boolean linear programming, deterministic equivalent, comparison and ranking of fuzzy sets, branch and bound method
+   item_pages: 28–38
+ - doi:
+   link: _12_2014_5
+   udk: '629.73.02; 629.73.05/.06; 535.643'
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_name: The Evaluation of Hardware-Caused Inaccuracy of Indirect Measurements of Chromaticity Coordinates in Color Model Data Used in Avionics
+   item_authors_address: '<b> I. O. Zharinov</b>, Associate Professor, Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of learning-scientists center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimova, e-mail: igor_rabota@pisem.net, <b> O. O. Zharinov</b>, Associate Professor, Saint-Petersburg State University of Aerospace Equipment'
+   item_annot: |
+     <p> A problem of evaluation of hardware-caused inaccuracy of indirect measurements of color coordinates in RGB (R — Red, G — Green, B — Blue) model during experiments with LCD matrixes is considered. It is shown that inaccuracy value of indirect measurement depends upon hardware-caused errors of used measurement equipment, the standard of white balance that was accepted by developers of LCD matrix, and also upon values of measured color coordinates or chromaticity coordinates. Two methods of indirect measurements of RGB codes were considered, namely: the one that based on color coordinates measurements and the other one that based on chromaticity coordinates measurements with additional measurement of relative brightness value. Analythical expressions for evaluation of both absolute and relative components of hardware-caused inaccuracy of indirect measurements for two considered methods were obtained. Results of computing simulation are presented, such as set of graphs, representing maximal values of absolute inaccuracy of indirect measurement of components of RGB codes vs hardware measurement error values for two considered methods with technical performances of modern hardware and perspective as well.
+     </p>
+   item_keywords: indirect measurement, hardware-caused inaccuracy, color coordinates, chromaticity coordinates, RGB model, evaluation
+   item_pages: 39–46
+ - doi:
+   link: _12_2014_6
+   item_name: 'Index of articles published in the journal "Software Engineering" in 2014'
+   item_pages: 47–48
+
+
+---

@@ -1,0 +1,73 @@
+---
+title: Issue N3 2014 year
+content:
+ - doi:
+   link: _3_2014_1
+   udk: '004.09'
+   item_authors: Salamatin K. M.
+   item_name: DiCME — Distributed Components Messaging Environment for Low Energy Physics Experiments Automation
+   item_authors_address: '<b> K. M. Salamatin </b>, e-mail: del@tmpk.ru'
+   item_annot: |
+     <p> This paper describes the tools for automatic association of software components into a distributed experiments automation system (EAS), their dynamic binding for remote execution of procedures and ensures the use of components in various experiments and systems without affecting other components of the software EAS. A model of universal experiment control program which uses the file with experiment procedure description is proposed. This file can be created by the user using a special subsystem and contains descriptions of data registration conditions instead of the commonly used procedures names. Developed EAS software components will not be changed when the experimental procedure changes.
+     </p>
+     <p>The work was performed in accordance with the protocol on the collaboration between the FLNP, JINR and University "Dubna" on the development of the of EAS programming methods.
+     </p>
+   item_keyboards: automation of the experiments, the distributed systems, dynamic binding, development terms, reuse
+   item_pages: 3–11
+ - doi:
+   link: _3_2014_2
+   udk: '004.457'
+   item_authors: Silakov D. V.
+   item_name: Automating Maintenance of Linux Software Repositories
+   item_authors_address: ' <b> D. V. Silakov </b>, e-mail: denis.silakov@rosalab.ru'
+   item_annot: |
+     <p> The paper is devoted to automation of resource-consuming but routine tasks performed by Linux software developers who need to maintain large repositories of interconnected software components. Development of a Linux distribution that uses RPM package format is given as an example. We present the tools used in ROSA Company to automate updates of software components in repositories and perform mass modifications of packages in case of packaging policy changes.
+     </p>
+   item_keywords: Linux, package management, test automation
+   item_pages: 12–15
+ - doi:
+   link: _3_2014_3
+   udk: '004.02'
+   item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
+   item_name: 'Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats'
+   item_authors_address: ' <b> G. A. Frantsuzova </b>, e-mail: frants@ac.cs.nstu.ru, <b> A. V. Gunko </b>, e-mail: gun@ait.cs.nstu.ru, <b> E. A. Basinya </b>, e-mail: basinya@mail.ru '
+   item_annot: |
+     <p> In this paper we describe the method of the information system protection from network threats by self-organizing control system of computer network traffic, which is based on the genetic algorithms and fuzzy logic.
+     </p>
+   item_keywords: self-organizing control system of computer network traffic, identification of protection system, network threats, falsification of server solutions, genetic algorithms, fuzzy logic
+   item_pages: 16–20
+ - doi:
+   link: _3_2014_4
+   udk: '004.7 + 004.056 + 004.94'
+   item_authors: Vasenin V. A., Roganov V. A., Zenzinov A. A.
+   item_name: Modeling Environment for Studying of Information Security Solutions in Grid- and Cloud-Systems	
+   item_authors_address: '<b> V. A. Vasenin </b>,  e-mail: vasenin@msu.ru ,<b> V. A. Roganov </b>, <b> A. A. Zenzinov </b>'
+   item_annot: |
+     <p> In the security evaluation of security level of distributed information systems based on Grid- and Cloud-computing technologies it seems appropriate to model the studied systems and their behavior under different working conditions. The paper proposes an approach to conducting a full-scale, simulation, virtual and analytical modeling, as well as their combinling — hybrid mode simulation. Such approach allows to investigate the behavior of distributed systems from different perspectives, taking into account features of the architecture, software, purposes of these systems and operation conditions. The paper also describes the developed modeling software, the way of its extension and how to work with API of modeling environment.
+     </p>
+   item_keywords: grid-computing, cloud-computing, distributed computer systems, information security, modeling, full-scale modeling, virtual modeling, simulation, hybrid modeling
+   item_pages: 21–33
+ - doi:
+   link: _3_2014_5
+   udk: '004.853'
+   item_authors: Nokel M. A., Loukachevitch N. V.
+   item_name: Topic Models in the Task of Single-Word Term Extraction
+   item_authors_address: '<b> M. A. Nokel </b>, e-mail: mnokel@gmail.com, <b> N. V. Loukachevitch </b> '
+   item_annot: |
+      <p> The paper describes the results of an experimental study of statistical topic models applied to the task of automatic single-word term extraction. The English part of the Europarl parallel corpus from the socio-political domain and the Russian articles taken from online banking magazines were used as target text collections. The experiments demonstrate that topic information can improve the quality of single-word term extraction regardless of the subject area and the target language.
+      </p>
+   item_keywords: topic models, clustering, single-word term extraction
+   item_pages: 34–40
+ - doi:
+   link: _3_2014_6
+   udk: '004.89'
+   item_authors: Alekseev A. A.
+   item_name: Thematic Analysis of a News Cluster as a Basis for Automatic Summarization
+   item_authors_address: '<b> A. A. Alekseev </b>, e-mail: a.a.alekseew@gmail.com'
+   item_annot: |
+     <p> In this paper we consider a method for extraction of various references of a concept or a named entity mentioned in a news cluster. The method is based on joint applying of heterogeneous similarity features, such as the structural organization of news clusters, comparison of various word contexts, and information from predefined resources. The word contexts are used as basis for multiword expression extraction and main entity detection. At the end of cluster processing groups of thematically-related elements are obtained, in which the main element of a group is determined. Evaluation of the proposed algorithm is performed in news cluster summarization task..
+     </p>
+   item_keywords: artificial intelligence, computational linguistics, automatic summarization, information extraction
+   item_pages: 41–48
+
+---

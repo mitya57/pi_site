@@ -1,0 +1,32 @@
+<%= render '/top_eng.html', :title => @item[:title] %>
+
+<%= render '/menu_eng.html' %>
+            <%= yield %>
+
+    <p class="main_content_title">Issue content</p>
+    <p><%= @item[:title] %></p>
+    <div class="issue_content">
+    
+    <% for @itm in @item[:content] %>
+     <div class="issue_item">
+      <% unless @itm[:item_authors].nil? %>
+       <div class="item_authors"><%= @itm[:item_authors] %></div>
+      <% end %>
+      <div class="item_name">
+       <% if @itm[:item_authors].nil? %>
+        <%= @itm[:item_name] %>
+       <% else %>
+        <% if @itm[:doi].nil? %>
+          <a href="eng/10.17587/prin.<%= @itm[:link]%>.html"><%= @itm[:item_name] %></a>
+        <% else %>
+          <a href="eng/10.17587/prin.<%= @itm[:doi]%>.html"><%= @itm[:item_name] %></a>
+        <% end %>
+       <% end %>
+      </div>
+
+      <div class="item_pages">pp. <%= @itm[:item_pages] %></div>
+     </div>
+    <% end %>
+ </div>
+
+<%= render '/buttom_eng.html' %>

@@ -1,0 +1,75 @@
+---
+title: Issue N12 2013 year
+content:
+ - doi: 
+   link: _12_2013_1
+   udk: '004.41'
+   item_authors: Lipaev V. V. 
+   item_name: Four Standard in the Development of Large Complex Real-Time Software Systems
+   item_authors_address: '<b> V. V. Lipaev </b>, e-mail: vlip28@mail.ru'
+   item_annot: |
+     <p> Based on the analysis of the results of research and author's own experience, isolated and discusses the features of the four basic standards used in the production of complex software systems, real-time. The key features of these standards and the application of the basic requirements for their adequacy, in the production of software products to ensure their quality.
+     </p>
+   item_keywords: software, standards, requirements, components, tests, dynamic program systems, simulators of the environment
+   item_pages: 2–9
+
+ - doi: 
+   link: _12_2013_2
+   udk: "004.4'418"
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V. 
+   item_name: 'Open64: A Compiler Development Infrastructure'
+   item_authors_address: ' <b> N. I. Vyukova </b>, <b> V. A. Galatenko </b>, <b> S. V. Samborskij </b>, e-mail: niva@niisi.msk.ru'
+   item_annot: |
+     <p> The paper discusses the compiler development infrastructure Open64. It presents the overall structure of Open64, internal representation of programs, methods of description of target processor architectures as well as a brief comparison of Open64 with other free compilers: GCC and LLVM.
+     </p>
+   item_keywords: compiler, loop nest optimization, internal representation of a program, WHIRL
+   item_pages: 10–19
+
+ - doi: 
+   link: _12_2013_3
+   udk: '004.42:62-519'
+   item_authors: Zaborovsky V. S., Gook M. Yu., Ilyashenko A. S., Muliukha V. A., Silinenko A. V., Seleznev K. S. 
+   item_name: Software for the Working Out the Interactive Algorithms of the Remote Robot Control from the ISS
+   item_authors_address: ' <b> V. S. Zaborovsky </b>, e-mail: vlad@neva.ru, <b> M. Yu. Gook </b>,  <b> A. S. Ilyashenko </b>, <b> V. A. Muliukha </b>, <b> A. V. Silinenko </b>,  <b> K. S. Seleznev </b> '
+   item_annot: |
+     <p> The paper focuses on software development for interactive remote control of dynamic object with the force-torque sensitization. There are proposed new models and control algorithms, which let to expand the usage of network technology for applications depended critically on the delays in the communication channels. Software environment that provides opportunities for the debugging of manipulating objects algorithms in real time has been created. The paper analyzes the algorithm for the dynamic adjustment of the model parameters that are used to form the force-torque effect of the joystick lever to the operator's hand. The architecture of the software used for the sensitizing the network channel delays.
+     </p>
+   item_keywords: interactive two-circuit remote control, force-torque sensitization, dynamic adaptation
+   item_pages: 20–26
+
+ - doi: 
+   link: _12_2013_4
+   udk: '004.728.5 + 004.451.87 + 004.624'
+   item_authors: Sannikov A. A., Bogoiavlenskaia O. Yu., Bogoiavlenskii I. A. 
+   item_name: System for Behavior Analysis and Performance Monitoring of Internet Transport Layer
+   item_authors_address: '<b> A. A. Sannikov </b>,  <b> O. Yu. Bogoiavlenskaia </b>, <b> I. A. Bogoiavlenskii </b>, e-mail: ybgv@cs.karelia.ru'
+   item_annot: |
+     <p> The system allowing to monitor network activity of a host at the kernel level of Linux operating system is described. Architecture, subsystems and mechanisms of the system are presented. Testing network and test results are given. An example of integrating the system with the Ganglia package is discussed.
+     </p>
+   item_keywords: monitoring, OS Linux Kernel, performance, data transition networks, TCP Connections
+   item_pages: 27–33
+
+ - doi: 
+   link: _12_2013_5
+   udk: '004.825'
+   item_authors: Makhortov S. D., Shmarin A. N. 
+   item_name: Fuzzy LP-Inference and its Software Implementation
+   item_authors_address: '<b> Makhortov S. D.</b>, e-mail: sd@expert.vrn.ru, <b> A. N. Shmarin </b>'
+   item_annot: |
+     <p> The modification of LP-inference is presented. This modification based on the idea of dynamic programming — breaking down the main problem into individual parts (subproblems) and solving each subproblem only once. The features of the "fast" computing of truth degrees are presented. The method for improving the quality of solutions in the cluster-relevant LP-inference is presented. This method based on the possible solutions rating calculation without constructing preimages. The software implementation is described.
+     </p>
+   item_keywords: LP-inference, AND/OR graph, dynamic programming, fuzzy rules, software implementation
+   item_pages: 34–38
+
+ - doi: 
+   link: _12_2013_6
+   udk: '004.023'
+   item_authors: Matrenin P. V., Sekaev V. G.  
+   item_name: Systems Approach to Swarm Intelligence
+   item_authors_address: '<b> P. V. Matrenin </b>, e-mail: pavel.matrenin@gmail.com, <b> V. G.  Sekaev </b>'
+   item_annot: |
+     <p> The article considers swarm intelligence algorithms from the position of system approach. It gives definitions to basic concepts of algorithms in terms of systems theory and suggests a unified scheme of description for all swarm intelligence algorithms. The scheme is applied to describe the Particle Swarm Optimization and Ant Colony Optimization.
+     </p>
+   item_keywords: Ant Colony Optimization, Particle Swarm Optimization, global optimization, swarm intelligence, system approach
+   item_pages: 39–45
+---

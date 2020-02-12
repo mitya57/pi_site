@@ -1,0 +1,82 @@
+---
+title: Issue N5 2012 year
+content:
+ - doi:
+   link: _5_2012_1
+   udk: '004.416.2'
+   item_authors: Galatenko V. A., Kostukhin K. A., Shmyrev N. V., Aristov M. S.
+   item_name: Using Open Source Tools for Programs Source Code Static Analysis in the Process of Developing Applications for Real-Time Operating Systems
+   item_authors_address: ' <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru, <b> K. A. Kostukhin </b>, e-mail: kost@niisi.msk.ru, <b> N. V. Shmyrev </b>, e-mail: shmyrev@niisi.msk.ru, <b> M. S. Aristov </b>, e-mail: maristov@niisi.ras.ru '
+   item_annot: |
+     <p> Modern real-time operating systems (RTOS) have some characteristics related to the particular of inferior quality. In this paper typical RTOS developers errors discussed, as well as methods of diagnosis and detection of these errors based on the use of static analysis of source code
+     </p>
+   item_keywords: static analysis, debugging, RTOS
+   item_pages: 2–5
+ - doi:
+   link: _5_2012_2
+   udk: '004.4, 004.8'
+   item_authors: Korzun D. G., Lomov A. A., Vanag P. I.
+   item_name: Automated Model-Driven Agent Development for Space-Based Applications on the Smart-M3 Platform
+   item_authors_address: ' <b> D. G. Korzun </b>, <b>  A. A. Lomov </b>, <b> P. I.  Vanag </b>, e-mail: dkorzun@cs.karelia.ru'
+   item_annot: |
+     <p> The paper considers the problem of automated model-driven application development for Smart-M3 when structure of problem domain is specified as OWL-ontology. Each software agent uses its own OWL-ontology to access the smart spaces in accordance with its role and interests. Given the ontology, the code of ontological library is generated in a target programming language. Transformation of the high-level OWL-model of problem domain into the low-level RDF-model of Smart-M3 is hidden from the developer. Our solution is realized in SmartSlog, a high-level software development kit for Smart-M3.
+     </p>
+   item_keywords: smart spaces, Smart-M3, OWL, RDF, ontology library, code generation
+   item_pages: 6–14
+ - doi:
+   link: _5_2012_3
+   udk: '004.4'
+   item_authors: Kostyuk V. V., Bovkunovich M. A.
+   item_name: Elements of Service-Oriented Development of Architecture for Software on Base of Business Models
+   item_authors_address: ' <b> V. V. Kostyuk </b>, <b>  M. A. Bovkunovich </b>, e-mail: Viacheslav.Kostyuk@itbu.ru'
+   item_annot: |
+     <p> In this article are regarded questions of receiving of WSDL interface on base of principle "Top-Down", etc. from models to code by transformation of models of business level to code level. General target of transformation — to resolve of problem of decomposition of information system corresponding to business processes. This target is reaching. This corresponds to main conception SOA — confluence of business logic with logic of information technologies realizing this business logic.
+     </p>
+   item_keywords: business modeling, service-oriented architecture, SOA, transformations, generation of code, WSDL
+   item_pages: 15–20
+ - doi:
+   link: _5_2012_4
+   udk: '004.78:519.7'
+   item_authors: Soloviev S. V., Zatoka I. V., Lavlinskaya O. P.
+   item_name: Particularity of Information Systems Projecting Used for Supporting Technical Information Protection Activity
+   item_authors_address: '<b> S. V. Soloviev </b>, <b> I. V.Zatoka </b>, <b> O. P. Lavlinskaya </b>, e-mail: O-Lavl@yandex.ru'
+   item_annot: |
+     <p> It is examined the possibility of expert methods usage by information systems projecting used for supporting technical information protection activity on the example of information systems in the sphere of personal data protection.
+     </p>
+   item_keywords: personal data, personal data information system, expert system
+   item_pages: 21–27
+ - doi:
+   link: _5_2012_5
+   udk: '004.4;616-072.1'
+   item_authors: Zhukov I. U., Mikhaylov D. M., Kukushkin A. V., Starikovski A. V., Ivanova E. V., Fedorov E. D., Tolstaya A. M. 
+   item_name: Program Methods of Recognition of the Gastrointestinal Tract Sections, Polyps and Bleedings in the Wireless Capsule Endoscopy
+   item_authors_address: '<b> I. U. Zhukov </b>,<b> D. M. Mikhaylov</b>, e-mail: mr.mdmitry@gmail.com, <b> A. V. Kukushkin </b>, <b>  A. V. Starikovski </b>, <b> E. V. Ivanova </b>, <b> E. D. Fedorov </b>, <b>  A. M. Tolstaya </b> '
+   item_annot: |
+     <p> This article is devoted to module description that increases the efficiency of pathologies and morphological changes detection in the gastrointestinal tract and its sections on the images from the wireless endoscopic capsule. The method of bleeding and sections detection of the gastrointestinal tract is based on pixel analysis. Detection of polyps is based on analysis of convexity of the surface. 3D-models are constructed and measured. The algorithm indicates that in the original image at the pixel corresponding to this element a polyp takes place.
+     </p>
+   item_keywords: capsule endoscopy, bleeding, polyp, sections, brightness, saturation, pixel analysis of the curvature
+   item_pages: 28–33
+
+ - doi:
+   link: _5_2012_6
+   udk: '004.82, 002:372.8'
+   item_authors: Cheremisina E. N., Belov M. A., Antipov O. E., Sorokin A. V.
+   item_name: Innovational Approach to E-learning in Dubna University based on Virtual Computerized Laboratory and  Cloud Computing
+   item_authors_address: '<b> E. N. Cheremisina </b>, <b> M. A.Belov </b>, <b> O. E. Antipov </b>, <b> A. V. Sorokin </b>, e-mail: alexander_sorokin@ru.ibm.com'
+   item_annot: |
+     <p> The article describes best practices for training highly qualified specialists with use of virtual computer laboratory, based on service-oriented architecture and cloud computing technology. The authors focuses on key components of the virtual computer lab, its integration, and explain step by step information about hardware and software used for development of system kernel, as well as educational and methodological aspects of successful use in the learning environment.
+     </p>
+   item_keywords: virtual computer lab, cloud computing, innovative technique of corporate software studying, training of highly qualified IT professionals
+   item_pages: 34–41
+ - doi:
+   link: _5_2012_7
+   udk: '004.891.2'
+   item_authors: Slavin B. B.
+   item_name: Postcrowdsourcing as a Architecture of Expert Networks
+   item_authors_address: '<b> B. B.  Slavin </b>, e-mail: bbslavin@gmail.com'
+   item_annot: |
+     <p> The paper analyzes the architecture of the expert networks and their place in the overall spectrum of information technology. The author displays the functionality difference between network of experts and the social network. The paper points to correlation the appearance of postcrowdsourcing technology and the "information explosion". The different paths of development of postcrowdsourcing technology are described.
+     </p>
+   item_keywords: crowdsourcing, social networks, expert networks, automation, "information explosion", information society
+   item_pages: 42–47
+---

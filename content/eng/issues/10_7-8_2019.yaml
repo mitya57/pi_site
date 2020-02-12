@@ -1,0 +1,137 @@
+---
+title: Issue N7-8 2019 year
+content:
+ - doi: 10.291-296
+   udk: "004.4’233"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "Reversible Debugging"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b>  K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: Kost@niisi.ras.ru'
+   item_rec_on:  April 08, 2019
+   item_acc_on:  April 16, 2019
+   item_annot: |
+     <p> Reversible debugging is the ability of the debugger to stop the execution of a program/system after an error/abnormal situation occurs and to perform a "reverse" in time (physical or logical) execution of the debugged program until the error occurs.
+     Despite the fact that experiments in the field of reversible execution began 40 years ago, the topic of reversible debugging became relevant about 10 years ago, when developers of complex, often distributed and heterogeneous, hardware and software systems faced problems of non-deterministic errors and the complexity of their reproduction and localization.
+     Lets define reversible debugging as the ability of the debugger to set a breakpoint in the program and then go back in time until the breakpoint is triggered. There are various ways to implement reversible debugging, for example, program control events record-replay, reverse execution, typical for simulators of hardware and software systems.
+     Reversible debugging is sometimes called bidirectional debugging. Reversible debugging is different from classic cyclic debugging, where you run the program again under debugger control until the error is reproduced and localized. Successful cyclic debugging requires that each run the debugged program behaves the same way, i.e., is deterministic. This is typical for non-interactive single-threaded programs, but for real-time programs, parallel programs, or programs that use asynchronous I/O, re-execution does not always produce the same result. Using the debugger often breaks the cyclograms of parallel programs and real-time programs, so the error becomes masked. Such errors are called Heisenbugs because the act of observation changes the behavior of the system being debugged.
+     This article will review the history and methods of reversible debugging, consider a number of both commercial and free reversible debugging tools.
+   item_keywords: debugging, reversible debugging, record-replay debugging, real-time systems, embedded systems, simulators, virtual machines, reverse step, reverse execution
+   item_pages: 291–296
+   item_citation: ' Galatenko V. A., Kostyukhin K. A. Reversible Debugging, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 291—296.'
+ - doi: 10.297-304
+   udk: "004.5"
+   item_authors: "Chitalov D. I., Kalashnikov S. T."
+   item_name: "Development of a Module for Implementing the Mirroring of Computational Meshes around a Given Plane in the Graphical User Interface of the OpenFOAM Platform"
+   item_authors_address: |
+     <b> D. I. Chitalov</b>, cdi9@yandex.ru, <b> S. T. Kalashnikov</b>, src@makeyev.ru, South Urals Federal ResearchCentre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, 456317, Miass, Ilmen reserve, Russian Federation
+   item_corr_author: "Chitalov Dmitry Iv., Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Russia, Chelyabinsk region, 456317, Miass, Ilmen reserve, Russian Federation, E-mail: cdi9@yandex.ru"
+   item_rec_on:  April 11, 2019
+   item_acc_on:  May 25, 2019
+   item_annot: |
+     <p> This article is devoted to the features of the development of a module for modifying computational meshes by mirroring mesh models using the mirrorMesh utility at the preprocessing stage of modeling continuum mechanics (CM). Mirror mapping of mesh models is carried out in OpenFOAM using the mirrorMesh utility and allows you to change the geometry characteristics if the CM task requires it. The module is supposed to be integrated into the graphical interface developed by the authors for carrying out numerical simulation of CM problems based on the OpenFOAM platform. This will expand the capabilities of the interface and provide the possibility of its application in more areas of the CM. The article defines the set of tasks and development tools necessary to achieve the goal, a diagram describing the mechanisms of the proposed module is presented. The results of using the module are described using the example of one of the CM training tasks for the OpenFOAM platform, including the visualization of the results using the ParaView package. The mechanisms proposed and implemented in the module are described. The conclusions of the study are formulated, their practical significance is determined. A link is provided to the source code of the module on the GitHub IT project hosting service.
+     </p>
+   item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOARM, Pyton 3.5, open source suftware, mirrorMesh utility, PyQt5, SQLite
+   item_pages: 297–304
+   item_citation: 'Chitalov D. I., Kalashnikov S. T. Development of a Module for Implementing the Mirroring of Computational Meshes around a Given Plane in the Graphical User Interface of the OpenFOAM Platform, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 297-304.'
+ - doi: 10.305-310
+   udk: "004.056.55"
+   item_authors: "Matveev E. A., Igoshina S. E., Karmanov A. A."
+   item_name: "Quantum Phase Transition as a Basis for Practical Realization of the ATF Communication Technology"
+   item_authors_address: |
+     <b> E. A. Matveev</b>, eugene.cs@hotmail.com, Cryptosoft, Penza, 440026, Russian Federation, <b> S. E. Igoshina</b>, sigoshina@mail.ru, <b> A. A. Karmanov</b>, starosta07km1@mail.ru, Penza State University,
+     Penza, 440026, Russian Federation
+   item_corr_author: " Igoshina Svetlana E., Associate Professor, Penza State University, 440026, Penza, Russian Federation, E-mail: sigoshina@mail.ru"
+   item_rec_on:  April 24, 2019
+   item_acc_on:  May 29, 2019
+   item_annot: |
+     <p> This article analyzes the main ideas and results of recently published scientific articles devoted to the study of a physical phenomenon called as "quantum phase transition" in context of the practical implementation of ATF communication technology. ATF-technology is the newest technology of quantum communication, on the basis of which promising hardware-software complexes of secure information transmission systems can be built. The purpose of this paper is an analytical review of the main results of recent publications [1, 2] devoted to the study "quantum phase transition". These articles are analyzed in context of applicability to the implementation of ATF communication technology [3], a promising technology of quantum communication based on the use of non-local effects of quantum nonseparable states and KPP. ATF-technology can be effectively used as a base when building hardware-software systems used for secure transmission of information. In context of the practical implementation of ATF-technology, the main results of advanced work in the field of quantum phase transitions are analyzed. It is shown that the hypothesis T, underlying the ATF com­munication technology, does not contradict modern experimental data. It is noted that the hypothesis T can be extended to nonstationary quantum systems in which the dynamics of quantum phase transitions must be taken into account.
+     Based on the results obtained, it is impossible to say whether they confirm or disprove hypothesis T, in the context of its consistency with modern ideas about the well-known physical phenomenon called "quantum phase transition". However, the results obtained in [1] and [2] can be used to extend the hypothesis T to nonstationary quantum systems, in which the dynamics of a quantum phase transition must be taken into account.
+     </p>
+   item_keywords:  information security, ATF-technology of communication, hypothesis T, quantum phase transition, quantum Kibble—Zurek mechanism, quantum fluctuations
+   item_pages: 305–310
+   item_citation: 'Matveev E. A., Igoshina S. E., Karmanov A. A. Quantum Phase Transition as a Basis for Practical Realization of the ATF Communication Technology, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 305—310.'
+ - doi: 10.311-316
+   udk: "004.4"
+   item_authors: "Skvortsov A. A."
+   item_name: "Design and Implementation of Multitasking Embedded Control Systems on Microcontrollers: Operating System or State Machines?"
+   item_authors_address: |
+     <b> A. A. Skvortsov</b>, skvalexei@mail.ru, Vyatka State University, Kirov, 610000, Russian Federation
+   item_corr_author: " Skvortsov Aleksey A., Associate Professor, Vyatka State University, Kirov, 610000, Russian Federation, E-mail: skvalexei@mail.ru"
+   item_rec_on:  June 06, 2019
+   item_acc_on:  June 17, 2019
+   item_annot: |
+     <p> The article presents a comparison of two ways of designing and implementing multitasking embedded control systems on microcontrollers: using a real-time operating system and using finite state machines. With the growth of computing power of microcontrollers (MC), real-time operating systems are becoming increasingly popular. But the application of real-time OS takes up a substantial part of the program memory of the MC, and the CPU time for task switching. In this regard, the use of real-time OS is justified only in multitasking control systems. However, for such control systems there is an alternative approach that can significantly save MC resources — automata-based programming. The purpose of this study is to choose the method of design and implementation of embedded multitasking control systems on the MC: on the basis of real-time OS or using finite state machines. An example of the development and implementation of a simple multitasking embedded control system consisting of five typical tasks is given: receiving commands from the serial port; displaying symbols on the liquid crystal display; producing sound of a given duration; scanning the keyboard and transmitting the code of the pressed button to the port; led alarm. The efficiency of design and implementation of this multitasking system with the help of real-time OS and with the help of several finite state machines was investigated. The study showed that the use of finite state machines with a small increase in design time significantly reduces the amount of programs memory of MC, the amount of data memory, as well as the implementation time of simple control systems. With a high degree of confidence, we can assume that the presented method of designing and implementing embedded multitasking control systems using finite state machines will be effective for many similar example developments.
+     </p>
+   item_keywords: embedded control system, microcontroller, design, implementation, real-time operating system, automata-based programming, finite state machine, switch-technology
+   item_pages: 311–316.
+   item_citation: ' Skvortsov A. A. Design and Implementation of Multitasking Embedded Control Systems on Microcontrollers: Operating System or State Machines? Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 311—316.'
+ - doi: 10.317-323
+   udk: "004.056.55"
+   item_authors: "Matveev E. A."
+   item_name: "Quantum Telegraph"
+   item_authors_address: |
+     <b> E. A. Matveev</b>, eugene.cs@hotmail.com, Cryptosoft, Penza, 440026, Russian Federation
+   item_corr_author: " Matveev Evgeny A., Director, Cryptosoft, Penza, 440026, Russian Federation, E-mail: eugene.cs@hotmail.com"
+   item_rec_on: June 11, 2019
+   item_acc_on:  June 25, 2019
+   item_annot: |
+     <p> This article presents the main provisions of the new technology of transmitting and receiving data, called "quantum telegraph". The key idea of the technology is the observation of the interference pattern (or its absence) created by particles from a set of entangled pairs as they pass through the screen with two slits and filters. While developing it, we took into account the experiments on the observation of the interference pattern from single photons, entangled photon pairs, as well as studies related to the "erasure" of information about the choice of the path, known as a "quantum eraser". Moreover, in the context of the proposed technology, the most important are experimental data demonstrating that the fundamental possibility of obtaining information about the choice of a path by a particle destroys the interference pattern in any analogue of a double-slit experiment, and "erasing" information about the choice of a path leads to its restoration. The scheme of a bit-by-bit message transfer between Alice and Bob is demonstrated, the basis of which is the fundamental possibility that Bob can observe the interference pattern created by one of the quits of the entangled pair. It is shown that when transmitting a bit of information, Alice can be guided by the "quantum eraser" strategy, namely, "erase" or leave fundamentally accessible information about the choice of the path by Bobs photon. It was concluded that any potential intruder who does not have access to the multiple pairs of particles distributed between Alice and Bob does not have the possibility of obtaining any information about the transmitted message. That to restore the state of Bell, pre-distributed between Alice and Bob, and destroyed during the execution of the protocol, there is a fundamental possibility of using a swapping (swap) operation to conduct remote regeneration. The proposed technology can be used as a basis for the development of promising software and hardware complexes of secure communication systems.
+     </p>
+   item_keywords: quantum telegraph, quantum computations, quantum information, nonseparable (entangled) states, interference pattern on two slits
+   item_pages: 317–323.
+   item_citation: 'Matveev E. A. Quantum Telegraph, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 317—323'
+ - doi: 10.324-333
+   udk: "004.492.3"
+   item_authors: "Skovoroda A. A., Gamayunov D. Yu."
+   item_name: "Dynamic Analysis of Android Applications"
+   item_authors_address: |
+     <b> A. A. Skovoroda</b>, nastya_jane@seclab.cs.msu.su, <b> D. Yu. Gamayunov</b>, gamajun@seclab.cs.msu.su, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Skovoroda Anastasia A., Programmer, Lomonosov Moscow State University, 119991, Moscow, Russian Federation, E-mail: nastya_jane@seclab.cs.msu.su"
+   item_rec_on:  April 10, 2019
+   item_acc_on:  April 19, 2019
+   item_annot: |
+     <p> In this article we consider a problem of automated detection of mobile malware applications and propose a method based on dynamic analysis of the application code. The proposed method is based on building dynamic model of the application represented by graph model of a special kind consisting of vertices representing the application states and edges representing transitions between states marked with "input"-"reaction" pairs. Input can be some user action or system event and reaction is execution of some API calls or actions sequence. Built models are compared with basic malware models which are preliminary obtained from malware collection using hierarchical clustering. The results of model comparison together with some other characteristics including API call related information form feature vectors which are then used in classification with machine learning algorithms. The best classification results were obtained using gradient boosting algorithm — 85 % of the malicious applications from the test set were classified correctly while false alarms rate on real applications from Google Play resulted in 0,5 %. The proposed method suits for the usage as one of the automated checks on application marketplace side, it can also be used in corporate systems of Mobile Device Management class. Built models have a special value and might be used as auxiliary structures for manual analysis of the suspicious applications.
+     Keywords: Android applications, dynamic analysis, Android emulator, user interaction automation, API calls, permissions, dynamic behavior model, machine learning
+     </p>
+   item_keywords: Android applications, dynamic analysis, Android emulator, user interaction automation, API calls, permissions, dynamic behavior model, machine learning
+   item_pages: 324–333.
+   item_citation: ' Skovoroda A. A., Gamayunov D. Yu. Dynamic Analysis of Android Applications, Programmnaya Ingeneria, 2019, vol. 10, no. 7-8, pp. 324—333.'
+ - doi: 10.334-343
+   udk: "004.422"
+   item_authors: "Drachev V. V., Buzhinskaya N. V., Vaseva E. S."
+   item_name: "Development of a Software Solution to Automate the Operational Change of the Content of Sites Created Using CMS WordPress"
+   item_authors_address: |
+     <b> V. V. Drachev</b>, vowa.drachyov@yandex.ru, LLC iRidium mobile, Nizhny Tagil, 622000, Russian Federation, <b> N. V. Buzhinskaya</b>, nadezhdabuzh@gmail.com, <b> E. S. Vaseva</b>, e-s-vaseva@mail.ru, Nizhny Tagil state socio-pedagogical Institute (branch) of Federal State Autonomous educational institution Russian state vocational pedagogical University, Nizhny Tagil, 622031, Russian Federation
+   item_corr_author: 'Vaseva Elena S., Associate Professor, Nizhny Tagil state socio-pedagogical Institute (branch) of Federal state autonomous educational institution "Russian state vocational pedagogical university", Nizhny Tagil, 622031, Russian Federation, E-mail: e-s-vaseva@mail.ru'
+   item_rec_on: April 13, 2019
+   item_acc_on:  June 17, 2019
+   item_annot: |
+     <p> Nowadays, a majority of people as well as companies has a website. One of easy ways to create a site is to use CMS. Developers and users stick to a CMS called WordPress.
+     To update site content developed in WordPress it is necessary to use a control panel after being logged in. Then it is necessary to choose a site area and after that to update the content. The procedure takes significant time and that is why the development of duly updates software is a top priority objective.
+     The article describes software for duly updates at websites developed in WordPress. The updated area is determined by a shortcode. Attributes and content of shortcodes are in a database.
+     A technology for developing a plugin to accept the shortcode, choose a string in the database and show the content after a request from a mobile app is described. Plugin consists of two Events handlers, codes for Events handlers in PHP are described. The technology of a mobile app using Kotlin language is described.
+     This software ensures the interaction of the website developed in WordPress and the mobile app. The scope of the system is illustrated in the diagram of precedents.
+     These mechanisms were tested. Tests showed that every possible circumstance and users action have the expected result.
+     A conclusion can be carried out that the software coordinates with the demands: to change exterior of the website and text on any page. Changes depend on triggers and can be arranged by a task manager.
+     </p>
+   item_keywords: content management system, shortcode, plug-in, event handler, use case diagram, mobile application, class
+   item_pages: 334–343.
+   item_citation: Drachev V. V., Buzhinskaya N. V., Vaseva E. S. Development of a Software Solution to Automate the Operational Change of the Content of Sites Created Using CMS WordPress, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 334—343'
+ - doi: 10.344-352
+   udk: "004.056"
+   item_authors: "Komarova A. V., Korobeynikov A. G."
+   item_name: "An Overview of the History and Trends of Post-Quantum Cryptography based on the Lattice Theory"
+   item_authors_address: |
+     <b> A. V. Komarova</b>, piter-ton@mail.ru, St. Petersburg National Research University of Information Technologies, Mechanics and Optics, St. Petersburg, 197101, Russian Federation, <b> A. G. Korobeynikov</b>, korobeynikov_a_g@mail.ru, Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences St.-Petersburg Filial, St. Petersburg, 199034, Russian Federation
+   item_corr_author: " Komarova Antonina V., Postgraduate Student, St. Petersburg National Research University of Information Technologies, Mechanics and Optics, St. Petersburg, 197101, Russian Federation, E-mail: piter-ton@mail.ru"
+   item_rec_on: April 26, 2019
+   item_acc_on:  June 10, 2019
+   item_annot: |
+     <p> Every year quantum computing and quantum computer becomes more and more actual topic of the world scientific researches. In case of its appearance such а device will be able to compromise most of the asymmetric schemes used today. To ensure а proper level of security in single-key (symmetric) schemes and hash functions organizations will have to use so long keys and hash values, respectively, that will make it impossible to realize such schemes in real information and communication systems. The post-quantum cryptography began to rapidly develop after the sensational appearance of quantum Shors algorithm in 1994. This direction includes a number of approaches, however from the authors point of view, the most promising approach is a lattices-based cryptography. Unfortunately, in the Russian literature there are very few manuals devoted to post-quantum cryptography, in particular the lattice theory. The goal of this article is to fill this gap. The article deals with the main provisions, definitions and main lattice problems. The background information about the history as well as the latest trends is given. The studied question is relevant because the most part of popular cryptographic protocols, schemes and algorithms based on the number theory will become unsecure in the case of the quantum computer appearance.
+     </p>
+   item_keywords: cryptography, post-quantum cryptography, lattices-based cryptography, shortest vector problem, closest vector problem, learning with errors problem, short integer solution problem, public-key cryptography, qTESLA, CRYSTALS-DILITHIUM, FALCON
+   item_pages: 344–352.
+   item_comment: ' The work was supported by the National Research University of Information Technologies, Mechanics and Optics project nos. 619296 "Development of methods for the creation and implementation of cyberphysical systems"'
+   item_citation: 'Komarova A. V., Korobeynikov A. G. An Overview of the History and Trends of Post-Quantum Cryptography based on the Lattice Theory, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 344—352.'
+---

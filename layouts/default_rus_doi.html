@@ -1,0 +1,30 @@
+<%= render '/top_rus.html', :title => @item[:item_name] %>
+
+<%= render '/menu_rus.html' %>
+
+   <p><b><font size="+2"><%= yield %></font></b></p>
+   <div class="issue_content">
+    <div class="issue_item">
+    
+     <% unless @item[:doi].nil? %>
+      <div id="item_doi" class="item_element">DOI: 10.17587/prin.<%= @item[:doi] %></div>
+     <% end %>
+     <% unless @item[:udk].nil? %>
+       <div id="item_udk" class="item_element">УДК: <%= @item[:udk] %></div>
+     <% end %>
+
+     <%= render '/doi_common.inc' %>
+
+     <% unless @item[:item_keywords].nil? %>
+       <div id="item_keywords" class="item_element">Ключевые слова: <%= item[:item_keywords] %></div>
+     <% end %>
+     <div id="item_pages" class="item_element">Стр. <%= item[:item_pages] %></div>
+
+     <% unless @item[:item_comment].nil? %>
+      <div id="item_comment" class="item_element"><%= @item[:item_comment] %></div>
+     <% end %>
+          
+    </div>
+   </div>
+
+<%= render '/buttom_rus.html' %>

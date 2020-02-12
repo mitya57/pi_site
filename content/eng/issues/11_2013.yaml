@@ -1,0 +1,77 @@
+---
+title: Issue N11 2013 year
+content:
+ - doi: 
+   link: _11_2013_1
+   udk: '004.5'
+   item_authors: Velichkovsky B. B., Danilova A. I. 
+   item_name: The Influence of User's Working Memory Load on the Efficiency of Navigation in Mobile Device Menu
+   item_authors_address: ' <b> B. B. Velichkovsky</b>, e-mail: velitchk@mail.ru, <b> A. I. Danilova </b>'
+   item_annot: |
+     <p> Working memory is a subsystem of human memory for operative storage of information. This work shows experimentally that increase in working memory load decreases speed and accuracy of user's navigation in the menu of a simulated mobile device. Applications of the working memory construct to menu development for real mobile devices are discussed
+     </p>
+   item_keywords: working memory, menu navigation, mobile devices
+   item_pages: 2–7
+
+
+ - doi: 
+   link: _11_2013_2
+   udk: '004.82; 004.912; 81.322.2'
+   item_authors: Palchunov D. E., Stepanov P. A. 
+   item_name: The Use of Model-Theoretic Methods for Extracting Ontological Knowledge in the Domain of Information Security
+   item_authors_address: ' <b> D. E. Palchunov </b>, e-mail: palch@math.nsc.ru, <b> P. A. Stepanov </b>,  e-mail: stefan.nsk@gmail.com'
+   item_annot: |
+     <p> The paper is devoted to the methods for extracting on-tological information from natural language texts. We give a model-theoretic formalization of relations between concepts such as the synonymy relation, the hyponym-hypernym relation, the relation "one concept is used to define another concept". Methods for extracting these relationships, as well as extracting definitions of concepts from natural language texts, are presented. A language for describing linguistic patterns is used for natural text analysis. The developed software system showed very high accuracy and completeness of the extracted knowledge. The obtained results are used in the development of an expert system for information security and risk management systems for information security.      
+     </p>
+   item_keywords: subject domain ontology, information security, model-theoretic methods, the logical analysis of natural language, automata theory, non-deterministic automata, natural language processing, knowledge extraction, extraction of definitions of concepts
+   item_pages: 8–16
+
+ - doi: 
+   link: _11_2013_3
+   udk: '004.925'
+   item_authors: Pustigin A. N., Yazov Y. K., Mashin O. A., Zubov M. V. 
+   item_name: To the Question on Automatic Commenting in the Natural Language of Initial Texts Programs
+   item_authors_address: ' <b> A. N. Pustigin </b>,e-mail: p2007an@ya.ru,<b> Y. K. Yazov </b>, e-mail: yazoff_1946@mail.ru,<b> O. A. Mashin </b>, e-mail: plazma-m@mail.ru,<b> M. V. Zubov </b>, e-mail: zubovmv@gmail.com'
+   item_annot: |
+     <p> Article is devoted the analysis of approaches to automatic programs codes commenting creation mechanisms. It is noticed that formation of programs initial texts technical comments is not only volume, but also labour-consuming procedure. By results of such analysis offers on automation of the technical commenting means standardization, directed on formation of intermediate representations of the programs initial text uniform formats are presented.
+     </p>
+   item_keywords: programming, the technical comment, initial texts of programs, automatic commenting, programs code analysis, comment representation format, the standard
+   item_pages: 17–21
+
+ - doi: 
+   link: _11_2013_4
+   udk: '004.85; 004.91'
+   item_authors: Sergievsky N. A., Kharlamov A. A. 
+   item_name: Semantic Analysis as a Base for Duplicate Text Fragment Revealing
+   item_authors_address: '<b> N. A. Sergievsky </b>, <b>A. A. Kharlamov </b>, д e-mail: kharlamov@analyst.ru'
+   item_annot: |
+     <p> The article offers methods and means of mild duplicate text fragment search on the base of semantic text network analysis. Extracting of semantic network of text as the text semantic portrait is their base. The network is preparing with technology of automatic semantic text analysis Text-Analyst, and then is using for texts sense comparing. Proposed approach uses several levels of texts sifting for fast and exact text duplicates revealing: for the first time fast semantic networks comparison and then — revealing of mild copies of text fragments.
+     </p>
+   item_keywords: mild text duplicate, semantic network, sense comparing, mild copies revealing
+   item_pages: 22–31
+   
+ - doi: 
+   link: _11_2013_5
+   udk: '004.912'
+   item_authors: Bakhtin A. V. 
+   item_name: On Automated Information Extraction from CFP Messages
+   item_authors_address: '<b> A. V.  Bakhtin </b>, e-mail: anton@bakhtin.ru'
+   item_annot: |
+     <p> A large number of papers are published every year, and so amount of knowledge available for scientific society is increasing. However, a considerable lag exists between the paper creation time and the paper publication time due to various objective reasons. Conference proceedings have the lowest lag, but still for most of them papers must be submitted a few months before the date of the event. On the other hand, call for paper messages are available even before deadlines. Information they provide is useful not only for researchers seeking for an appropriate conference. For instance, topics of interest provide data for analysis of developing research fields, and program committee lists are sources of information concerned with researcher affiliation discovery task. Therefore, in this paper we consider a method to extract information from CFP messages.
+     </p>
+   item_keywords: information extraction, language processing
+   item_pages: 32–38
+
+ - doi: 
+   link: _11_2013_6
+   udk: '004.912'
+   item_authors: Chugunov A. Yu. 
+   item_name: Automatic Context-Dependent Text Document Summarization
+   item_authors_address: '<b> A. Yu. Chugunov </b>, e-mail: arcady.chugunov@gmail.com'
+   item_annot: |
+     <p> This article deals with the urgent task of context-dependent summarization considering user's search query. It's provided a brief review of existing studies on the subject, an analysis of their advantages and disadvantages. A mathematical model of annotating documents is considered. Special attention is given to the method of spectral estimation of lexical units of text with the appropriate mathematical tools. The results of the software implementation of the KGCD-algorithm on the news articles are provided. Via the test results there made some conclusions and the directions of extending the functionality of the algorithm selected for the implementation are given.
+     </p>
+   item_keywords: automatic summarization, document, context-dependent approach, dynamical summarization, spectral lexeme characteristics, Kenny-Goodman algorithm
+   item_pages: 39–46
+
+---

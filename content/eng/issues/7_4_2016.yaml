@@ -1,0 +1,85 @@
+---
+title: Vol. 7, no 4 2016 year
+content:
+ - doi: 7.147-157
+   link: 7.147-157
+   udk: "004.4'416"
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: Exploiting Vector Extensions of Modern Processors
+   item_authors_address: ' <b> N. I. Vyukova</b>, e-mail: niva@niisi.ras.ru, <b> V. A. Galatenko</b>, e-mail: galat@niisi.ras.ru, <b>  S. V. Samborskij</b>, e-mail: sambor@niisi.ras.ru, Federal State Institution "Scientific Research Institute of System Analysis of the Russian Academy of Science", Moscow, 117218, Russian Federation'
+   item_corr_author: 'Galatenko Vladimir A., Head of Sector, Federal State Institution "Scientific Research Institute of System Analysis of the Russian Academy of Science", Moscow, 117218, Russian Federation, e-mail: galat@niisi.ras.ru'
+   item_rec_on: ' December 11, 2015 '
+   item_acc_on: ' December 18, 2015'
+   item_annot: |
+     <p> Modern architectures increasingly rely on SIMD vectorization to improve performance for multimedia applications, various kinds of scientific applications, database processing. Compiler-based automatic vectorization seems to be a simple way to exploit vector processing in application code. However experience and recent research show that modern vectorizing compilers are capable of vectorizing only a small part of loops in real-life applications. Therefore programmers have to resort to various kinds of other means and tools for vectorization of program code.
+     </p><p>The paper provides a brief overview of common ways for exploiting vector instructions in application code. Some of these approaches are then discussed in more detail, namely the methods of automatic vectorization in modern compilers, use of libraries, manual writing of vector code both in high-level programming languages and in assembly. Special attention is paid to the properties of vector instruction set which help or impede efficient use of vector computations in manual and automatic vectorization.
+     </p>
+   item_keywords: vector extensions, SIMD (Single Instruction Multiple Data), automatic vectorization, SLP (Superword Level Parallelism)
+   item_pages: 147–157
+   item_citation: ' Vyukova N. I., Galatenko V. A., Samborskij S. V. Exploiting Vector Extensions of Modern Processors, <i>Programmnaya Ingeneria </i>, 2016, vol. 7, no. 4, pp. 147—157.'
+
+
+ - doi: 7.158-166
+   link: 7.158-166
+   udk: '004.415.2'
+   item_authors: Kajko-Mattsson M.
+   item_name: Minimal Effort and Maximal Output of Teaching Essence
+   item_authors_address: '<b> M. Kajko-Mattsson </b>, e-mail: mekm2@kth.se, School of Information and Communication Technology, KTH Royal Institute of Technology, SE-100 44 STOCKHOLM, Sweden '
+   item_corr_author: ' Kajko-Mattsson Mira, Associate Professor, School of Information and Communication Technology, KTH Royal Institute of Technology, SE-100 44 STOCKHOLM, Sweden e-mail: mekm2@kth.se'
+   item_rec_on: ' January 20, 2016 '
+   item_acc_on: ' January 27, 2016'
+   item_annot: |
+     <p> KTH Royal Institute of Technology Essence has been teaching ESSENCE on a bachelor degree level for four years. It started in 2012. At that time, ESSENCE was still in its cradle. The Alphas and its checklists were in a final polishing state and there were neither any teaching materials nor any other pedagogical tools for utilizing ESSENCE. Today, Essence has reached its full maturity and is equipped with educational material that is widely used worldwide. This paper gives an account of the four-year education of ESSENCE as experienced by one of the ESSENCE co-creators. The education took place on one project course on a bachelor degree level at KTH Royal Institute of Technology. The paper describes the history of teaching ESSENCE. It presents the development and evolution of educational material throughout the four years, and gives an account of students' attitudes towards and opinions about ESSENCE.
+     </p>
+   item_keywords: ESSENCE, Kernel, Alpha, OMG standard, software engineering education
+   item_pages: 158–166
+   item_citation: ' Kajko-Mattsson M. Minimal Effort and Maximal Output of Teaching Essence, <i>Programmnaya Ingeneria </i>, 2016, vol. 7, no. 4, pp. 158—166.'
+
+ - doi: 7.167-172
+   link: 7.167-172
+   udk: '004.045, 004.657'
+   item_authors: Reshetnikova O. V. 
+   item_name: Implementation of NoClone Customer Access Protocol to MS SQL Server Database
+   item_authors_address: ' <b> O. V. Reshetnikova</b>, ov13r@yandex.ru, Far Eastern State Transport University, Khabarovsk, 680021, Russian Federation '
+   item_corr_author: ' Reshetnikova Olga V., Associate Professor, Far Eastern State Transport University, Khabarovsk, 680021, Russian Federation, e-mail: ov13r@yandex.ru'
+   item_rec_on: ' December 28, 2015 '
+   item_acc_on: ' January 13, 2016'
+   item_annot: |
+     <p> Earlier studies on the organization of NoClone models of database access have identified the need for more detailed study in this field, requiring improvement of approaches to application implementation, including test bench. A variant of implementation of the protocol to organize client access to a database for specified NoClone models is proposed, it allows to minimize the possibility of duplicated records. This protocol allows to flexibly formulate concrete requests in accordance with desired address model and at the same time to get standard expected result sets. The interaction is carried out in the format of one-sided dialogue initiated by exchange between data packages of a fixed structure. Translation process of data packages includes a compulsory filtration stage against prescribed structures. A package transmitted via protocol is represented as XML-object and transport mechanism of Service Broker MS SQL Server component is used for its physical transmission. NoClone protocol implementation is one of the key steps to build simulation environment of software interaction objects with databases.
+     </p>
+   item_keywords: disconnected data access, duplicate records, protocol for data access, XML, send/receive message, Transact SQL, parsing strings
+   item_pages: 167–172
+   item_citation: ' Reshetnikova O. V. Implementation of NoClone Customer Access Protocol to MS SQL Server Database, <i>Programmnaya Ingeneria</i>, 2016, vol. 7, no. 4, pp. 167-172.'
+
+ - doi:  7.173-180
+   link: 7.173-180
+   udk: '629.73.02; 629.73.05/.06; 535.643'
+   item_authors: Zharinov I. O., Zharinov O. O. 
+   item_name: Software for Solving The Practical Problem of Calibrating Liquid Crystal Displays and Light-Emitting Diodes
+   item_authors_address: '<b> I. O. Zharinov</b>, igor_rabota@pisem.net, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation, Design Bureau "Electroavtomatika", Saint Petersburg, 198095, Russian Federation, <b> O. O. Zharinov</b>, zharinov73@hotbox.ru, Saint-Petersburg State University of Aerospace Instrumentation, Saint Petersburg, 190000, Russian Federation'
+   item_corr_author: ' Zharinov Igor O., Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), 197101, Saint Petersburg, Russian Federation e-mail: igor_rabota@pisem.net'
+   item_rec_on: January 15, 2016 '
+   item_acc_on: ' February 1, 2016'
+   item_annot: |
+     <p> The screen of modern displays is made on the basis of either liquid crystals or light emitting diodes. There is a mathematical model, representing color reproduction characteristics. Parameters of color reproduction for any given display aren't known a-priori. The evaluation of those parameters might be performed either by skilful analysis of product's specification or with the use of data processing, obtained through colorimetric measurements. The purpose of the research is to obtain mathematical equations for evaluation of parameters of the color reproduction model of display with the use of colorimetric measurements in the UV color space. To develop mathematical equations for evaluation of parameters of the color reproduction model of display one need to use Grassman's laws. Initial data for the proposal method are: 1) values of chromaticity coordinates in the vertices of display's color gamut triangle and preset white point coordinates as well, specified in the UV color space; 2) set of chromaticity coordinates values for any four arbitrary chosen colors, displayed on the screen, obtained with the use of colorimetric measurements in UV color space. New mathematical expressions for evaluation of parameters of the color reproduction model of display, which may be obtained by two different methods; analytical expressions for evaluation of both absolute and relative components of hardware-caused inaccuracy of indirect measurements for two considered methods; evaluation of chromaticity coordinates shifts for visually percepted image in terms are proposed. Those expressions presume calculations based on values of chromaticity coordinates of four colors. First method is based on values of UV-chromaticity coordinates for Red, Green, Blue and White colors, taken from display's specification. Four different colors for the second proposed method may be chosen arbitrary.
+     </p>
+   item_keywords: color reproduction, parameters evaluation, chromaticity coordinates, color space
+   item_pages: 173–180
+   item_citation: ' Zharinov I. O., Zharinov O. O. Software for Solving The Practical Problem of Calibrating Liquid Crystal Displays and Light-Emitting Diodes, <i>Programmnaya Ingeneria</i>, 2016, vol. 7, no. 4, pp. 173—180.'
+
+ - doi: 7.181-190
+   link: 7.181-190
+   udk: 519.61
+   item_authors: Ivanova K. F. 
+   item_name: Unification of Point Algebraic Techniques of an Exterior Estimation of Set Solutions Interval Systems
+   item_authors_address: '<b> K. F. Ivanova</b>, e-mail: Klara.I2010@yandex.ru, Saint-Petersburg State University, 195252, Saint Petersburg, Russian Federation '
+   item_corr_author: ' Ivanova Klara F., Doctorant, Saint-Petersburg State University, 195252, Saint Petersburg, Russian Federation e-mail: Klara.I2010@yandex.ru'
+   item_rec_on: ' December 05, 2015 '
+   item_acc_on: ' February 01, 2016'
+   item_annot: |
+     <p> In the work a unified technique of exterior estimating the solution sets of interval systems of the linear algebraic equations (ISLAE) with uncertain parameters in both narrow and wide interval ranges of modification of elements for systems with M-and H-matrices and to their modifications is offered. The offered technique of estimation is based on choice of point elements of an interval matrix and of a component of right-hand side vector entering into componentwise products of elements of an interval matrix on their algebraic deviations. This choice is carried out based on extremalizating the received scalar product by identifying the point value of an element of the new matrix with one of the corresponding boundary values of an element of an interval matrix and a point right-hand side new vector with boundary of a corresponding component of an interval right-hand side vector. As a result of the performed operation for choosing minimal and universal elements and the component is formed by two point matrices and two point vectors from which it is possible to generate two systems consisting of four point linear algebraic equations. The formalized point matrices ensure the minimal and maximal values of the determinants, similar to two boundaries of an interval determinant of an initial matrix. The solution of the obtained point set of equations there are double-dimension vectors х that have the minimal and maximal deviations as their components.      </p>
+   item_keywords: interval system, uncertainty of parameters, extremalization, a scalar product, the formalized matrixes, a technique of estimate, set solutions, an exterior estimation, the point equations
+   item_pages: 181–190
+   item_comment: This work was supported by research works on theme NIR "The structural fundamental focused modelling of polytechnical nanostructures" under the state contract № 9.0.112.2009.
+   item_citation: ' Ivanova K. F. Unification of Point Algebraic Techniques of an Exterior Estimation of Set Solutions Interval Systems, <i>Programmnaya Ingeneria</i>, 2016, vol. 7, no. 4, pp. 181—190.'
+---

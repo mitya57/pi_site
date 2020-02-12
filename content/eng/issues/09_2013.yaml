@@ -1,0 +1,76 @@
+---
+title: Issue N9 2013 year
+content:
+ - doi: 
+   link: _9_2013_1
+   udk: '004.432.2'
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: Support of Multithreading in C11
+   item_authors_address: ' <b> N. I. Vyukova </b>, <b> V. A. Galatenko </b>, <b> S. V. Samborskij </b>, e-mail: niva@niisi.msk.ru'    
+   item_annot: |
+     <p> The paper presents basic multithreading support features included to the ISO/IEC 9899:2011 standard of the C programming language adopted in December 2011. It discusses the library of thread control functions, atomic types and simple atomic operations as well as certain aspects of code generation for multithreaded programs.
+     </p>
+   item_keywords: C programming language, C11, multithreading, atomic data types, sequential consistency
+   item_pages: 2–8
+
+ - doi: 
+   link: _9_2013_2
+   udk: '004.272.44, 004.4.414, 004.81'
+   item_authors: Salibekyan S. M., Panfilov P. B. 
+   item_name: Language Analysis Assisted with Object-Attribute Approach to Computational Organization
+   item_authors_address: ' <b> S. M. Salibekyan </b>, e-mail: salibek@yandex.ru, <b> P. B. Panfilov </b>'
+   item_annot: |
+     <p> We describe how object-attribute approach (OAA) to the computational organization in a dataflow computer system can be applied for development of language analysis (compilation, interpretation, semantic analysis) application system as it is exemplified with programming language development efforts for the dataflow supercomputer simulation model. It is showed, that the approach has advantages over finite automation-based text analysis (compiler lexical analysis) such as wider functionality, computation parallelization capability and implementation in distributed computer environments, absence of semantic gap between high level programming language and level of machine language inherited with modern controlflow computer systems. We also describe the possible OAA application to the natural language semantic analysis problem.
+     </p>
+   item_keywords: object-attribute architecture, syntax diagram, language decomposition program, compilation, interpretation, language semantic analysis, natural language processing
+   item_pages: 9–16
+
+ - doi: 
+   link: _9_2013_3
+   udk: "004.4'23"
+   item_authors: Belyaev M. A., Belyaev A. V. 
+   item_name: 'On Designing Scalable and Fault-Tolerant Systems, Implementing the MVVM Pattern in the Context of Microsoft.NET Infrastructure'
+   item_authors_address: ' <b> M. A. Belyaev </b>, e-mail: belyaev.mark@gmail.com, <b>  A. V. Belyaev </b>, e-mail: nika@vnet.dn.ua'
+   item_annot: |
+     <p> In the paper a fundamental possibility of implementing some ideas from finite-state-machine programming together with some base concepts of the MVVM design pattern for designing fault-tolerant and extendable applied programs is analyzed. The assets of the Microsoft.NET Framework are used. Suggested approach is tested on the program, exposing some functions for working with graphs.
+     </p>
+   item_keywords: 'MVVM, state machines, programming patterns, Microsoft.NET'
+   item_pages: 17–23
+
+ - doi: 
+   link: _9_2013_4
+   udk: '517.977.1'
+   item_authors: Ivanova K. F. 
+   item_name: Sensitivity of a Dual Interval Linear Programming Problem
+   item_authors_address: '<b> K. F. Ivanova </b>, e-mail: klara.i2010@yandex.ru'
+   item_annot: |
+     <p> The new technique of an estimate of sensitivity conjugate linear programming problems (LPP) with interval representation of the entrance information is offered. The solution for the optimization of dual problems is reduced to the solution of point problems with one-sided bounds of the errors determined on a basis of a "sign" technique, developed for systems of the linear algebraic equations.
+     The basic idea of a sign technique consist in procedure of search maximum estimate of the tolerant solution proceeding from signs of an errors matrix coefficients and the right parts of inequality constrains. The estimate of solution for LPP is carried out both the primal and the dual problems. Definition of optimum plans of a problem and optimization of criterion function is carried out on the basis of the developed algorithm of modeling representation of a problem with attraction of the simplex method realized in system MATLAB.
+     </p>
+   item_keywords: 'conjugate interval problems, linear programming problem, sensitivity, a "sign" technique, tolerant solution, estimate of solution'
+   item_pages: 24–32
+
+ - doi: 
+   link: _9_2013_5
+   udk: '004.912'
+   item_authors: Gankin G. M. 
+   item_name: Recognizing Sentiments of Short Text Messages
+   item_authors_address: '<b> G. M. Gankin </b>, e-mail: gregorian21@yandex.ru'
+   item_annot: |
+     <p> This paper presents results of research aimed at the implementation of tools to recognize sentiments in text messages in Russian. In particular, we consider ways and means of classification of short texts on a scale of "positive-negative". The review of existing solutions and results in this area are showed, as well as their classification. The suggested solutions are based on a common machine learning algorithm — Support Vector Machine (SVM). The final part contains the results of a comparative analysis of the proposed and existing solutions
+     </p>
+   item_keywords: text analysis, opinion mining, machine learning
+   item_pages: 33–41
+
+ - doi: 
+   link: _9_2013_6
+   udk: '004.056.5'
+   item_authors: Solovyev V. P., Kornev D. A.
+   item_name: Network Communication in Virtualization System
+   item_authors_address: '<b> V. P. Solovyev </b>, <b> D. A. Kornev</b>, e-mail: da.kornev@gmail.com'
+   item_annot: |
+     <p> The article describes the main methods of network communication between virtual machines and the host implemented by most modern virtualization system. These include — NAT, network bridge, connect only to the host and the internal virtual network, which has no moving beyond the host and identifies the main problems of these regimes.
+     </p>
+   item_keywords: network technology, data security, anonymity in information networks, virtualization
+   item_pages: 42–47
+---

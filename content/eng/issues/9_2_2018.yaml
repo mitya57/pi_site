@@ -1,0 +1,113 @@
+---
+title: Issue N2 2018 year 
+content:
+ - doi: 9.51-58
+   link: 9.51-58
+   udk: "001, 004.4"
+   item_authors: "Sadovnichy V. A., Vasenin V. A."
+   item_name: "Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development"
+   item_authors_address: | 
+     <b> V. A. Sadovnichy</b>, info@rector.msu.ru, <b>  V. A. Vasenin</b>, vasenin@msu.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Vasenin Valery A., Professor, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: vasenin@msu.ru"
+   item_rec_on:  November 16, 2017
+   item_acc_on:  December 07, 2017
+   item_annot: |
+     <p> In the paper, the contents of which will be presented in two parts, the results of research and applicable investigations are presented, which are aimed at designing and introducing into practice, maintaining and developing large scientometrical systems for preparing and making decisions in the realm of organizing scientific, innovational and educational activity. The results of these investigations were obtained during developing, exploiting and introducing the "ISTINA" information analysis system (Intellectual System of Thematic Investigation of Scientometrical Data) in Lomonosov Moscow State University, which is aimed at solving the problems of this kind.
+     In the first part the background and brief information on creation and development of systems of such designation is given, the methodology of developing, maintaining and modifying them is presented. Applied to IAS "ISTINA" as a representative scientometrical system, its features which take the realities and specifics of Russia into account are mentioned.
+     In the second part based on the example of IAS "ISTINA" the most important, basic architectural and technological specifics of its implementation will be presented, which will illustrate on schemes and user interfaces the main technological processes that are being automated or ought to be automated using this system.</p>
+   item_keywords: scientometrical data, systems of preparing decisions, information analysis system, bibliometrics, methodological principles, architecture, collecting and verifying data
+   item_pages: 51–58
+   item_citation: ' Sadovnichy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58'
+ - doi: 9.59-68
+   link: 9.59-68
+   udk: "004.4, 004.94, 004.7"
+   item_authors: "Basavin D. A., Porshnev S. V., Petrosov D. A."
+   item_name: "Comparison of Sequential and Parallel Software Implementations of the Hybrid Fluid Model of Information Flows for Computer Networks with Complex Topology"
+   item_authors_address: | 
+     <b> D. A. Basavin</b><sup>1</sup>, basavind@gmail.com, <b> S. V. Porshnev</b><sup>2</sup>, sergey_porshnev@mail.ru, <b> D. A. Petrosov</b><sup>1</sup>, scorpionss2002@mail.ru,
+     <sup>1</sup>Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation
+     <sup>2</sup>Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620002, Russian Federation 
+   item_corr_author: " Basavin Dmitry A., Assistant, Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod Region, 308503 Russian Federation, E-mail: basavind@gmail.com "
+   item_rec_on:  December 01, 2017 
+   item_acc_on:  December 07, 2017
+   item_annot: |
+     <p> The article discusses the analysis and comparison of software implementations of the hybrid fluid model (HFM) of information flows in computer networks with complex topologies. The sequential version implemented on the central processing unit (CPU) and the parallel version implemented on the graphics processing unit (GPU) using general-purpose computing for graphics processing units (GPGPU) technology are considered.
+     During the analysis of the GPU based HFM implementation, it was verified against the CPU based implementation on a series of experiments. The results of the experiments confirmed the convergence of the results obtained by both versions and are presented in the article. A number of quantitative information flows characteristics were compared graphically and numerically to verify the results. Thus characteristics were the minimum, average and maximum input and output aggregated flow rates on routers.
+     A number of experiments were performed for performance estimation and acceleration of the parallel HFM relatively to sequential. The parameters of the experiments were selected to maximize the use of available computing resources. The size of the simulated network for each experiment increased exponentially. For each experiment, measurements of computation time for sequential and parallel implementations of HFM were carried out, after which they compared graphically and numerically.
+     During the comparison of software implementations, the hypothesis was confirmed by the advisability of using GPGPU technology to accelerate the calculations of HFM. It clearly demonstrated that the parallel software implementation makes sense to apply to the number of information flows >2^6.</p>
+   item_keywords: Internet traffic, computer networks, parallel hybrid fluid model, modeling, GPGPU
+   item_pages: 59–68
+   item_citation: ' Basavin D. A., Porshnev S. V., Petrosov D. A. Comparison of Sequential and Parallel Software Implementations of the Hybrid Fluid Model of Information Flows for Computer Networks with Complex Topology, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 59—68.'
+ - doi: 9.69-75
+   link: 9.69-75
+   udk: "004.056.53"
+   item_authors: "Zakalkin P. V., Mel'nikov P. V."
+   item_name: "System of the Analysis of the Software Regarding Lack of Undeclared Features"
+   item_authors_address: | 
+     <b>P. V. Zakalkin</b>, ansmed82@mail.ru, <b>P. V. Melnikov</b>, ansmed82@mail.ru, Academy of the Federal Guard Service of the Russian Federation, Orel, 302034, Russian Federation
+   item_corr_author: " Zakalkin Pavel V., Researcher, Academy of the Federal Guard Service of the Russian Federation, Orel, 302034, Russian Federation, E-mail: ansmed82@mail.ru "
+   item_rec_on:  November 18, 2017
+   item_acc_on:  December 07, 2017
+   item_annot: |
+     <p> In article the system of the analysis of the software regarding lack of not declared opportunities is considered. Such system is intended for protection of information resources of workstations and servers, their components, programs or data against unauthorized activity. It can be used for the analysis of a source code of the software, including, for example when carrying out certified tests of the software for lack of not declared opportunities. The existing systems of the analysis of the software possess a number of shortcomings which do not allow to compare results of researches with a control copy (version) of the same software. This circumstance leads to high time expenditure (at the expense of a full cycle of verifications of files of source texts of various versions of the software), and also to decrease in trust to results of researches.
+     Thus, there is a need to develop the system of the analysis of the software regarding lack of not declared opportunities, the reliability of results of the analysis of the software providing increase by fixing of an initial state, check of redundancy of source texts and the analysis of contextual information in source texts of the studied software.
+     </p>
+   item_keywords:  software, not declared opportunities, analysis of a source code, certified tests
+   item_pages: 69–75
+   item_citation: "Zakalkin P. V., Mel'nikov P. V. System of the Analysis of the Software Regarding Lack of Undeclared Features, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 69—75."
+ - doi: 9.76-81
+   link: 9.76-81
+   udk: "004.04"
+   item_authors: "Bernadotte A."
+   item_name: "Scientific Text Analysis and New World Trends"
+   item_authors_address: | 
+     <b> A. Bernadotte</b>, alexandra.bernadotte@gmail.com, Lomonosov Moscow State University, Moscow, 119991, Russian Federation; Department of Medical Biochemistry and Biophysics, Karolinska Institutet, S-171 77, Stockholm, Sweden
+   item_corr_author: " Bernadotte Alexandra, MD, PhD in Medicine, PhD candidate in Mathematics, Lomonosov Moscow State University, 119991, Moscow, Russian Federation; Adjunct Research Assistant Professor at Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, S-171 77, Sweden, E-mail: alexandra.bernadotte@gmail.com"
+   item_rec_on:  November 10, 2017
+   item_acc_on:  November 28, 2017
+   item_annot: |
+     <p> Many of us of different fields and branches who are diving deep in science can notice slight or even quite sharp changes in the scientific world. The changes touch upon every part of science including semantics, methodology, axiomatic base, and objectives. From our experience one of the current scientific trends is a shift from theoretical science research to empirical research. The second trend is directly connected with the first one; there is a transformation from the basic science into an applied one, with a rapid transition to the commercial area. Being scientists, we also can notice marks of politicization and globalization in the scientific world.
+     To transform our vague senses and feelings into the scientifically-recognizable form, we analyzed scientific papers published during the period of 20 years in frames of the top scientific journal — Science. To reach theory-practice equilibrium shift and dominance of commercialization and politicization we analyzed text data, assuming that the loss of interest of theoretical and basic knowledge correlates with the usage of the certain words and phrases in scientific papers, as well as changes in their meaning and usages.
+     Indeed, recent work has demonstrated a 20-years transformation of scientific semantics and scientific interests. This paper has shown the growing commercialization and politicization of science, and reflected the current primacy of the application of knowledge upon basic science.
+     This work also introduces a new word-classes model of document clustering algorithms based on preliminarily words clustering with a usage of ontology-based term similarity, which can be helpful for text data mining and recommendation system.      </p>
+   item_keywords: text analysis, semantic analysis, tf-idf, scientific text, cognition, scientific trends, text clustering, data mining
+   item_pages: 76–81
+   item_citation: 'Bernadotte A. Scientific Text Analysis and New World Trends, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 76—81. DOI: 10.17587/prin.9.76-81'
+ - doi: 9.82-90
+   link: 9.82-90
+   udk: "00 4.855.5"
+   item_authors: "Kharakhinov V. A., Sosinskaya S. S."
+   item_name: "The Effect of Dimension Reducing on Classification Results of Leaves of Various Plant Species"
+   item_authors_address: | 
+     <b> V. A. Kharakhinov</b>, e-mail: tes4obse@mail.ru, <b> S. S. Sosinskaya</b>, e-mail: sosinskaya@mail.ru, National Research Irkutsk State Technical University, Irkutsk, 664074, Russian Federation
+   item_corr_author: " Sosinskaya Sophia S., Professor, National Research Irkutsk State Technical University, Irkutsk, 664074, Russian Federation, E-mail: sosinskaya@mail.ru"
+   item_rec_on:  November 25, 2017
+   item_acc_on:  December 04, 2017
+   item_annot: |
+     <p> The article considers the process of classification of different plant species, described by a set of numeric properties, based on multilayer perceptron.
+     It was proposed to apply the factor analysis to reducing dimension of the original data set. Two well-known criteria for determining the number of factors was used. Such as Kaiser criteria and variance explained criteria.
+     The neural networks were trained on native data set and on factor scores to compare time expenditures of training process.
+     The quality of classifications for both cases is displayed in tables. The graph displays time expenditure decreasing for network training when factor scores were used. Also the graphs display relation of classification error rates from a number of factors. These graphs allow one to conclude which network, with proper selection of the number of factors, provide an efficient way to reduce the time expenditure of training process, at the same time allow achieving a high quality of classification.
+     </p>
+   item_keywords: classification, feedforward network, machine learning, factor analysis
+   item_pages: 82–90
+   item_citation: 'Kharakhinov V. A., Sosinskaya S. S. The Effect of Dimension Reducing on Classification Results of Leaves of Various Plunt Species, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 82—90.'
+ - doi: 9.91-96
+   link: 9.91-96
+   udk: "004.4"
+   item_authors: "Leonovets S. A., Gurjanov A. V., Shukalov A. V., Zharinov I. O."
+   item_name: "The Software for Automation Monitoring of Life Cycle of Text Documentation on Program-Driven Products"
+   item_authors_address: | 
+     <b> S. A. Leonovets</b><sup>1,2</sup>, ser2694@ya.ru, <b> A. V. Gurjanov</b><sup>2</sup>, postmaster@elavt.spb.ru, <b> A. V. Shukalov</b><sup>1,2</sup>, aviation78@mail.ru, <b> I. O. Zharinov</b><sup>1,2</sup>, igor_rabota@pisem.net
+     <sup>1</sup>Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation,
+     <sup>2</sup>Design Bureau "Electroavtomatika", Saint Petersburg, 198095, Russian Federation
+   item_corr_author: "Zharinov Igor O., Chef of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), 197101, Saint Petersburg, Russian Federation, E-mail: igor_rabota@pisem.net"
+   item_rec_on:  December 12, 2017 
+   item_acc_on:  December 27, 2017
+   item_annot: |
+     <p> The task of automating of process of preparation, storage and monitoring of versions of text designer and program documentation by means of the specialized software is considered. Automation the preparation of documentation is based on processing of engineering data which is contained in specifications and technical documentation. Data handling assumes existence of strictly structured electronic documents prepared in widespread formats according to templates on the basis of industry standards and generating the text techincal documenation by means of an automated method. Further life cycle of the document and the technical data which are contained in it is controlled. At each stage of life cycle the archive data storage is executed. The article presents the results of a research on estimating the performance of the text editor when using various widespread document formats for the stages of automated monitoring and storage of them. The new developed software and work benches facilitating development of the instrumental equipment is described.
+     </p>
+   item_keywords: design documentation, automation, text document, life cycle of the document
+   item_pages: 91–96
+   item_citation: 'Leonovets S. A., Gurjanov A. V., Shukalov A. V., Zharinov I. O. The Software for Automation Monitoring of Life Cycle of Text Documentation on Program-Driven Products, Programmnaya ingeneria, 2018, vol. 9, no. 2, pp. 91—96.'
+---

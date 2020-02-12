@@ -1,0 +1,93 @@
+---
+title: Issue N6 2018 year 
+content:
+ - doi: 9.243-252
+   link: 9.243-252
+   udk: "004.4, 004.94, 004.7"
+   item_authors: "Basavin D. A., Porshnev S. V., Petrosov D. A."
+   item_name: "Strategies of Parallel Hybrid Fluid Model Computing Algorithms"
+   item_authors_address: | 
+     <b> D. A. Basavin<sup>1</sup></b>, basavind@gmail.com, <b> S. V. Porshnev<sup>2</sup></b>, sergey_porshnev@mail.ru, <b> D. A. Petrosov<sup>1</sup></b>, scorpionss2002@mail.ru,
+     <br/><sup>1</sup>Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation,
+     <br/><sup>2</sup>Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620002, Russian Federation
+   item_corr_author: " Basavin Dmitry A., Assistant, Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation, E-mail: basavind@gmail.com"
+   item_rec_on:  March 14, 2018 
+   item_acc_on:  March 26, 2018
+   item_annot: |
+     <p> The article discusses strategies of load balancing in a heterogeneous computing environment that includes the central processing unit (CPU) and the graphics processing unit (GPU). The authors used these strategies during development of a hybrid fluid model (HFM) of information flows in modern computer networks with complex topologies. The HFM represents system of ordinary differential equations (ODE) from math point of view and a balance equation of informational flows that comes in and out from a corresponding node of a modeling computer network from physical point of view. Due to the lack of analytical solutions for systems of ODE, which are included in the HFM, it is necessary to develop appropriate software tools that allow making numerical solutions of ODE system in acceptable time.
+     It was noticed that a computation time of modeling of information flows characteristics in high-speed computer networks significantly depends on distribution of a computational load between components of the heterogeneous architecture. This assumption was formed during development and using of the parallel HFM software implementation based on the general-purpose computing for graphics processing units (GPGPU) technology. Due to this fact there is a need to choose a data exchange strategy between the random access memory (RAM) and the GPU. It should consider HFM computing algorithms details and provide balanced distribution of the computational load between components of the heterogeneous computing system. This paper describes the results of experimental researches of data exchange strategies.</p>
+   item_keywords: heterogeneous computing system, Internet traffic, computer networks, parallel hybrid fluid model, modeling, GPGPU, load balancing
+   item_pages: 243–252
+   item_citation: 'Basavin D. A., Porslmev S. V., Petrosov D. A. Strategies of Parallel Hybrid Fluid Model Computing Algorithms, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 243—252.'
+ - doi: 9.253-261
+   link: 9.253-261
+   udk: "004.415.25"
+   item_authors: "Yukhimets D. A., Yudinkov E. E."
+   item_name: "Development of Applied Programming Interface for Control of Manipulator Mitsubishi RV-2FB"
+   item_authors_address: | 
+     <b> D. A. Yukhimets</b>, undim@iacp.dvo.ru, Institute of automation and control processes FEB RAS, Vladivostok, 690041, Russian Federation, <b> E. E. Yudinkov</b>, anstertum@gmail.com, Far Eastern Federal University, Vladivostok, 690000, Russian Federation 
+   item_corr_author: " Yukhimets Dmitriy A., Senior Researcher, Institute of automation and control processes FEB RAS, Vladivostok, 690041, Russian Federation,E-mail: undim@iacp.dvo.ru"
+   item_rec_on:  February 27, 2018  
+   item_acc_on:  March 19, 2018
+   item_annot: |
+     <p> The implementation method of application programming interface for industrial manipulator on the base of web technologies for creating distributed control systems is proposed in this paper. Topicality of this task is defined by necessity integration of a standard industrial equipment with external intelligent systems of control and data processing for automatization of complex technological operations in uncertain environment.
+     The application programming interface for robot manipulator Mitsubishi RV-2FB is based on the popular software platform for development of web applications Vue.js and network communication library Flask as connected link between all modules of application interface.
+     Using this platform allows one to create interactive and dynamic user interfaces which satisfied conception of real-time control. Herewith using Flask library allows one to implement low-level communication between user interface and robot manipulator and provides stability of the connection. Final link of implemented system is the program on MELFA BASIC V language executing by industrial controller CR-750D. This program is responsible for receiving commands from user interface, their serialization and execution by controller resources.
+     Developed user interface consists of three main parts: users view implemented by components based on Vue.js platform; systems functions, implemented by Flask library and responsible for data transferring between system components; dispatcher (server), responsible for interacting of software part and manipulator.
+     Results of research confirm that implemented application programming interface for robot manipulator Mitsubishi RV2-FB has efficacy and reliability for transferring control messages. Also it provides simple control of manipulator movement without using of operators panel or necessity of writing programs for controllers CR-750D.</p>
+   item_keywords: manipulator, program interface, HTTP, distributed control, TCP/IP, motion control
+   item_pages: 253–261
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research (project No. 16-07-00718) '
+   item_citation: ' Yukhimets D. A., Yudinkov E. E. Development of Applied Programming Interface for Control of Manipulator Mitsubishi RV-2FB, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 253—261.'
+ - doi: 9.262-271
+   link: 9.262-271
+   udk: "004.912"
+   item_authors: "Lunev K. V."
+   item_name: "Graph Methods for Computing Semantic Similarity of a Hair of Keywords and Their Application to the Problem of Keywords Clustering"
+   item_authors_address: | 
+     <b> K. V. Lunev</b>, e-mail: kirilllunev@gmail.com, Faculty of mechanics and mathematics, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation 
+   item_corr_author: " Lunev Kirill V., Postgraduate Student, Faculty of mechanics and mathematics, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation, E-mail: kirilllunev@gmail.com"
+   item_rec_on:  March 03, 2018 
+   item_acc_on:  April 13, 2018
+   item_annot: |
+     <p> The article presents the results of research on the direction of search models, algorithms and software to determine the semantic similarity between two keywords. The methods which are used in the work are based on the graph theory algorithms. The document is represented as a set of keywords associated with the document. A measure of contextual similarity of a pair of keywords is developed. A keywords graph is constructed for a given collection of documents. The nodes of the graph correspond to the keywords, and edges represent the fact of the contextual closeness of a pair of words. The method of clustering of the constructed graph is presented below. The keywords included in one cluster have the property of semantic similarity, which is an important result of this work. Software implementation of the developed models has been tested on the collections of scientific publications keywords, as well as on the collection of posts tags in the VKontakte social network.
+     </p>
+   item_keywords: semantic similarity, natural language processing, graph algorithms, graph theory, clustering
+   item_pages: 262–271
+   item_citation: Lunev K. V. Graph Methods for Computing Semantic Similarity of a Pair of Keywords and Their Application to the Problem of Keywords Clustering, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 262—271.'
+ - doi: 9.272-280
+   link: 9.272-280
+   udk: "004.942"
+   item_authors: "Artemov A. A."
+   item_name: "A Predicative Estimation of Supremum of the Model's Forecast Error Resulting from a Conceptual Dataset Shift. on the Example of the Meme-gram-model"
+   item_authors_address: | 
+     <b> A. A. Artemov</b>, artemsince2@ya.ru, Center of Strategic Nuclear Forces Research at Academy of Military Sciences, Moscow Region, Jubileiny, 141090, Russian Federation 
+   item_corr_author: " Аrtemov Аrtem A., Research associate, Сenter of Strategic Nuclear Forces Research at Academy of Military Sciences, Moscow Region, Jubileiny, 141090, Russian Federation, E-mail: artemsince2@ya.ru"
+   item_rec_on:  February 26, 2018 
+   item_acc_on:  April 09, 2018
+   item_annot: |
+     <p> The paper presents a solution to the problem of estimating the forecast error of statistical probability of presence of a feature sequence in the objects verifying the model of the studied object domain. The author considers objects feature sequence as n-grams. The object is an n-gram of fixed length. A population of "mutating" objects, united by a given criterion (e.g. time), forms evolving multisets of variative power. With such formalization, a common element of two multisets or meme-gram identifies the presence of a feature sequence. The probability of such event is defined as a functional of the number of copies of a meme-gram. The model in which this axiomatics is determined is called a meme-gram model.
+     The presented solution focuses on the issue of estimating relative frequency of repeating elements of multisets with the condition of possibility of forecasting their number only for a part of these elements. The proposed solution is particularly in demand in the field of creating knowledge representation models for self-learning systems in the condition of limited amount of training examples from the total volume of permanently changing Big Data.      </p>
+   item_keywords:  Meme-gram model, m-gram, data shift, elements of heredity, memetic algorithm, evolving system of knowledge, similar multisets, embedded multisets, Rastorguevs theorem
+   item_pages: 272–280
+   item_citation: " Artemov A. A. A Predicative Estimation of Supremum of the Model's Forecast Error Resulting from а Conceptual Dataset Shift. On the Example of the Meme-gram-model, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 272—280."
+ - doi: 9.281-286
+   link: 9.281-286
+   udk: ""
+   item_authors: "Popov A. Yu., Belov S. A., Sorokin A. V."
+   item_name: "Сloud Based IT Learning Infrastructure to Support New Generation of Services"
+   item_authors_address: | 
+     <b> A. Yu. Popov</b>, Associate Professor, alexpopov@bmstu.ru, Bauman State Technical University, Moscow, 105005, Russian Federation, <b> S. A. Belov</b>, Acting University Relations Manager, Sergey_Belov@ru.ibm.com, <b>  A. V. Sorokin</b>, University Relations Manager in Russia and CIS countries, alexander_sorokin@ru.ibm.com, IBM Corporation, IBM East Europe/Asia Ltd., Moscow, 123112, Russian Federation 
+   item_corr_author: " Popov Aleksey Yu., Associate Professor, Bauman State Technical University, Moscow, 105005, Russian Federation, E-mail: alexpopov@bmstu.ru"
+   item_rec_on:  April 03, 2018 
+   item_acc_on:  April 12, 2018
+   item_annot: |
+     <p> As other technical universities, Bauman University is challenged with timely incorporating newly emerged information technologies, such as Internet of Things (IoT), in education and research. One of those challenges for universities today is implementation of cloud technologies to build flexible infrastructure to support education and research in wide area of disciplines.
+     Since the cloud has become the primary platform to host IoT services, universities need to integrate cloud-based resources into the IT infrastructure to support student projects. The target cloud platform has to be IoT enabled: it should be scalable to be connected with many thing instances; flexible to implement new features and services; and simple to reduce the development time.
+     In this paper we present an experience and example of implementation of multi-vendor cloud infrastructure to support modern research activities. Various cloud technologies implemented to improve educational process will be considered and some future work will be discussed on the example of Bauman University.
+     </p>
+   item_keywords: Cloud technology, IBM system, educational process, Bauman university, IBM Cloud cloud, cloud computing, learning management system, Internet of Things, systems of systems
+   item_pages: 281–286
+   item_citation: ' Popov A. Yu., Belov S. A., Sorokin A. V. Сloud Based IT Learning Infrastructure to Support New Generation of Services, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 281—286. 
+'
+---

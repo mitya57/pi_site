@@ -1,0 +1,92 @@
+---
+title: Issue N1 2018 year 
+content:
+ - doi: 9.3-10
+   link: 9.3-10
+   udk: "004.04"
+   item_authors: "Zmeev О. А., Politov А. M., Tsygankova Ya. M., Iurovskaya A. S."
+   item_name: "A Tool for Managing the Use Cases of the Application Being Developed"
+   item_authors_address: | 
+     <b> О. А. Zmeev</b>, ozmeyev@gmail.com, <b> А. M. Politov</b>, a.m.politov@gmail.com, <b> Ya. M. Tsygankova</b>, chaykayana@gmail.com, <b>  A. S. Iurovskaya</b>, yurovskaya.as@gmail.com, National Research Tomsk State University, Tomsk, 634050, Russian Federation
+   item_corr_author: "Zmeev Oleg A., Professor, National Research Tomsk State University, Tomsk, 634050, Russian Federation, E-mail: ozmeyev@gmail.com"
+   item_rec_on:  October 16, 2017  
+   item_acc_on:  November 09, 2017
+   item_annot: |
+     <p> The object of the study was the management of use cases and their transformation into analysis charts. The aim of the work was the development of a management tool for use cases that would support the ability to work with a full model of use cases and provide a functional transformation of the scenario of the use case in the corresponding UML analysis model.
+     </p>
+   item_keywords: use cases, textual representations, graphical representations, analysis model, unified model, extension modules
+   item_pages: 3–10
+   item_citation: ' Zmeev О. А., Politov А. M., Tsygankova Ya. M., Iurovskaya A. S. A Tool for Managing the Use Cases of the Application Being Developed, Programmnaya Ingeneria, 2018, vol. 9, no. 1, pp. 3—10.'
+ - doi: 9.11-21
+   link: 9.11-21
+   udk: "004.728.5+004.451.87+004.624"
+   item_authors: "Bogoiavlenskaia O. V."
+   item_name: "The Distributed Multi-agent System for Monitoring and Forecasting of the Networking Transport Layer Performance"
+   item_authors_address: | 
+     <b> O. V. Bogoiavlenskaia</b>, e-mail: olbgvl@cs.karelia.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation 
+   item_corr_author: " Bogoiavlenskaia Olga V., Associate Professor, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: olbgvl@cs.karelia.ru "
+   item_rec_on:  October 22, 2017
+   item_acc_on:  November 15, 2017
+   item_annot: |
+     <p> The paper describes the architecture of the distributed multi-agent system for monitoring and forecasting of the networking transport layer performance. The system consists of the set of the agents which monitor, analyze captured data and forecast the performance of most intensively used end-to-end paths. The forecast allows users and network application to choose most efficient strategies to utilize the capacity of network resources. Therefore the end-users, mobile devices, LAN administrations, and network applications can choose content provider, end-to-end-path or data source to avoid drawbacks of congested and/or unreliable end-to-end paths. Content providers can use the forecast to monitor QoS and/or QoE of their users and subscribers and thus adjust marketing policies and investment plans. The high level architecture consists of the monitoring module, forecasting module, list of the end-to-end paths under analysis, compressed data store and interface module. We define two levels of detailing for the agents architecture to reduce monitoring and processing overhead. The agents exchange data they possess about end-to-end paths performance and maintain list of agents they can communicate. The set of use cases is presented. The example of the experimental analysis for choosing video-content provider is presented as well.</p>
+   item_keywords: monitoring, Linux kernel, network performance, transport layer, open architecture, distributed systems, probalistic modeling, time-series analysis, video-streaming, multi-agent systems
+   item_pages: 11–21
+   item_citation: 'Bogoiavlenskaia O. V. The Distributed Multi-agent System for Monitoring and Forecasting of the Networking Transport Layer Performance, Programmnaya Ingeneria, 2018, vol. 9, no. 1, pp. 11—21.'
+ - doi: 9.22-28
+   link: 9.22-28
+   udk: "004.415.23"
+   item_authors: "Porshnev S. V., Ponomareva O. A., Borodin A. M., Mirvoda S. G."
+   item_name: "Improving Penalty Function of R-tree over Generalized Index Search Tree as Possible Way to Advance Performance of PostgreSQL Cube Extension"
+   item_authors_address: | 
+     <b>S. V. Porshnev</b>, s.v.porshnev@urfu.ru, <b>O. A. Ponomareva</b>, o.a.ponomareva@urfu.ru, Ural Federal University, 620002, Yekaterinburg, Russian Federation, <b>A. M. Borodin</b>, amborodin@urfu.ru, Yandex, 620014, Yekaterinburg, Russian Federation, <b> S. G. Mirvoda</b>, s.g.mirvoda@urfu.ru, Octonika, 620014, Yekaterinburg, Russian Federation
+   item_corr_author: " Ponomareva Olga A., Lector, Ural Federal University, 620002, Yekaterinburg, Russian Federation, E-mail: o.a.ponomareva@urfu.ru "
+   item_rec_on:  October 16, 2017 
+   item_acc_on:  October 25, 2017
+   item_annot: |
+     <p> At present time databases solve many different technical challenges. They store data compactly, resolve data write conflicts and allow efficient data querying. The last challenge is undertaken by so called access methods (AM), i.e. algorithms and data structures enabling quick retrieval of the data by certain conditions. The paramount of AMs for modern relational databases is a B-tree allowing fast retrieval of data by the primary key and many other useful operations. Generalized index search tree (GiST) is an AM technique, which allows abstraction of significant parts of the data access methods, structured as a balanced tree. Use of the GiST allows AM developer to concentrate on their own case-specific details of AM and skip common work on the tree structure implementation within database engine, a query language integration, a query planner support, etc. Generalized index search tree (GiST) greatly simplifies data access methods development. Important parts like query processing, failure recovery, memory management are implemented in generic code, so access method developer has to implement only specifics of the desired algorithm. But this generality comes with a significant cost of fitting a method for GiST API. In this paper we present a number of tweaks to the R-tree implementation inside PostgreSQL GiST framework and analyze possible ways of GiST API advancements.
+     </p>
+   item_keywords:  generalized index search tree, multidimensional access method, PostgreSQL, R-tree
+   item_pages: 22–28
+   item_citation: ' Porshnev S. V., Ponomareva O. A., Borodin A. M., Mirvoda S. G. Improving Penalty Function of R-tree over Generalized Index Search Tree as Possible Way to Advance Performance of PostgreSQL Cube Extension, Programmnaya Ingeneria, 2018, vol. 9, no 1, pp. 22—28.'
+ - doi: 9.29-34
+   link: 9.29-34
+   udk: "004.422"
+   item_authors: "Bolotova S. Yu., Zonov A. V., Tutin A. P."
+   item_name: "Indoor Navigation in Mobile Applications"
+   item_authors_address: | 
+     <b> S. Yu. Bolotova</b>, bolotova.svetlana@gmail.com, <b> A. V. Zonov</b>, andryzonov@gmail.com, <b> A. P. Tutin</b>, tyutin.ap@gmail.com, The Voronezh State University, Voronezh, 394018, Russian Federation 
+   item_corr_author: " Bolotova Svetlana Yu., Associate Professor, The Voronezh State University, 394018, Voronezh, Russian Federation E-mail: bolotova.svetlana@gmail.com"
+   item_rec_on:  October 2, 2017 
+   item_acc_on:  October 16, 2017
+   item_annot: |
+     <p> The present article describes basic ideas of implementation of mobile application dedicated to indoor navigation. Indoor navigation is a complex issue, especially when it comes to large buildings with lots of rooms and rich infrastructure. The goal of the research was to achieve high accuracy and performance of mobile device positioning and indoor routes calculation.
+     Bluetooth beacons were suggested to determine mobile device location. Analyzing the received signal strength indicator (RSSI) and beacons position on the map provided an ability to calculate the distance from each beacon to the mobile device.
+     Trilateration algorithms were composed with Kalman filter which allowed for fast and precise device positioning.
+     To calculate pedestrian-friendly indoor routes the authors addressed game development methods: room map was suggested to be in a form of a polygon with holes, which was decomposed via triangulation and tessellation algorithms. Among all triangulation algorithms that work with "holed" polygons the modification of Earcut triangulation algorithm was considered to be one of the most suitable and efficient. As a result, getting a polygonal mesh of high density allowed to use this mesh as a graph and apply any path searching algorithm to calculate the determined route.
+     The result of the whole research was a working prototype of a mobile application which satisfied performance and accuracy requirements. Preferred algorithms have good potential and can be used as a basis for future improvements. Inaccuracy of measurements should always be considered and its handling is a self-sufficient problem.
+     </p>
+   item_keywords: navigation, Bluetooth beacons, beacons, mobile applications, location, trilateration, triangulation, tessellation, route building
+   item_pages: 29–34
+   item_citation: 'Bolotova S. Yu., Zonov A. V., Tutin A. P. Indoor Navigation in Mobile Applications, Programmnaya Ingeneria, 2018, vol. 9, no. 1, pp. 29—34'
+ - doi: 9.35-45
+   link: 9.35-45
+   udk: "004.35; 004.42; 533.6.011.72"
+   item_authors: "Popovich S. S."
+   item_name: "Experimental Automation and Data Processing Features for Supersonic Heat Transfer Research"
+   item_authors_address: | 
+     <b> S. S. Popovich</b>, pss1@mail.ru, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation 
+   item_corr_author: " Popovich Sergey S., Research Scientist, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation E-mail: pss1@mail.ru"
+   item_rec_on:  October 10, 2017 
+   item_acc_on:  November 9, 2017
+   item_annot: |
+     <p> The paper presents an automation technique for thermophysical experiment in a supersonic wind tunnel by means of LabVIEW automation program and a technique for experimental data processing. The study of the heat transfer parameters was carried out on unsteady state regime during the start-up of the wind tunnel before reaching thermal equilibrium state. Mach number of the oncoming flow was 2.25, Reynolds number based on the length of the dynamic boundary layer was not less than 20 million at the nozzle cutoff. The graphs are presented for the change during the experiment of stagnation pressure and temperature, model wall temperature, static pressure, adiabatic wall temperature, heat flux and Stanton number. Research is carried out on the experimental facilities of the Institute of Mechanics of Lomonosov Moscow State University.
+     </p>
+   item_keywords: LabVIEW, wind tunnel, virtual device, supersonic flow, adiabatic wall temperature, temperature recovery factor, heat transfer coefficient
+   item_pages: 35–45
+   item_comment: ' The research was supported by Russian Science Foundation (Project 14-19-00699).'
+   item_citation: 'Popovich S. S. Experimental Automation and Data Processing Features for Supersonic Heat Transfer Research, Programmnaya Ingeneria, 2018, vol. 9, no. 1, pp. 35—45.'
+ - doi:
+   link: 9.46-48
+   item_name: "CEE-SECR 2017 Conference Results"
+   item_pages: 46–48
+---

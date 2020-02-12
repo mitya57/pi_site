@@ -1,0 +1,74 @@
+---
+title: Issue N11 2014 year
+content:
+ - doi:
+   link: _11_2014_1
+   udk: '519.683'
+   item_authors: Pozin B. A.
+   item_name: SEMAT — Software Engineering Method and Theory. About what, what for and to whom is it addressed?
+   item_authors_address: '<b> B. A. Pozin</b>, Professor, MIEM of National Research University Higher School of Economics, Chairman, SEMAT Russian Chapter, e-mail: bpozin@es-leasing.ru'
+   item_annot: |
+     <p> Article contains brief analysis of fundamentals of initiative SEMAT— Software Engineering Method and Theory with the aim of re-founding software engineering as a rigorous discipline. OMG standard named ESSENCE was developed and defined Kernel and Language for Software Engineering Methods. Kernel defines minimal number of key elements and relations between them in the process of creation of software system. Main reasons of effectiveness of the theory are discussing.
+     </p>
+   item_keywords: SEMAT, Essence, kernel, alpha, method, practice, control states
+   item_pages: 3–5
+ - doi:
+   link: _11_2014_2
+   udk: '519.683'
+   item_authors: Park J. S., Jacobson I., Myburgh B., Johnson P.
+   item_name: SEMAT Yesterday, Today and Tomorrow. An Industrial Perspective
+   item_authors_address: '<b> J. S. Park</b>, Professor, Korea Advanced Institute of Science and Technology, Daejeon, President, SEMAT Inc., South Korea, <b> I. Jacobson</b>, Professor, Chairman, Ivar Jacobson International, Switzerland, <b> B. Myburgh</b>, MBL, Joburg Centre for Software Engineering, University of the Witwatersrand, Johannesburg, South Africa, <b> P. Johnson</b>, Professor, Royal Institute of Technology, Stockholm, Sweden'
+   item_annot: |
+     <p> SEMAT Yesterday, Today and Tomorrow provides an historical overview of where SEMAT started, achievements of the past, today's priorities and plans for the future. The paper is aimed primarily at readers from Industry. While brief entries have been made about software engineering theory, the paper does little to develop discussion about theory. This will be done in a separate publication.
+     </p>
+   item_keywords: SEMAT, Essence, kernel, alpha, method, practice
+   item_pages: 6–16
+ - doi:
+   link: _11_2014_3
+   item_name: Essence Glossary
+   item_pages: 17–19
+ - doi:
+   link: _11_2014_4
+   udk: '004.728.5+51-74'
+   item_authors: Bogoiavlenskaia O. I.
+   item_name: Analysis of Congestion Avoidance Algorithm AIMD in the Data Communication Networks
+   item_authors_address: '<b> O. I. Bogoiavlenskaia</b>  , Associate Professor, e-mail: olbgvl@cs.karelia.ru, Petrozavodsk State University'
+   item_annot: |
+     <p> This paper describes probabilistic analysis of NewReno version of TCP protocol AIMD algorithm which plays key role for congestion avoidance in data communication infrastructure. The model is formulated as a piecewise-linear stochastic process which presents the congestion window size and the data loss events are described by the renewal process with absolutely continuous renewal function. Markovian moments sequence embedded in the piecewise-linear process is defined. Its further analysis yields theorems proved on the ergodic properties of the Markovian moments sequence and the piecewise-linear process itself. Characteristic functions of sliding window size distribution for the sequence and the process are obtained as well. Reverse transforms of the characteristic functions yields complete set of AIMD characteristics. Also we expand estimation of the average congestion window size to the case of renewal data loss process.
+     </p>
+   item_keywords: stochastic analysis, renewal process, data communication, AIMD, TCP protocol
+   item_pages: 20–25
+ - doi:
+   link: _11_2014_5
+   udk: '519.713.3'
+   item_authors: Aleksanrdov D. E.
+   item_name: Reducing the Automata Complexity of Regular Languages by Means of Language Extension
+   item_authors_address: '<b> D. E. Alexanrdov</b>, Postgraduate Student, Lomonosov Moscow State University, e-mail: dalexandrov@intsys.msu.ru'
+   item_annot: |
+     <p> This work addresses the problem of the "exponential explosion" of the number of states in a finite automata recognizing a set of regular languages specified by the union of regular expressions of the class.*R1.*R2.*, where R1 and R2 are arbitrary regular expressions. A method for reducing the number of states by extending the set to be recognized is proposed. Unimprovable estimates on the number of states of the automata under such modification in the case of an alphabet consisting of at least five symbols are presented. It is shown that the relative gain in the number of states may take arbitrary values. The efficiency of the method suggested is analyzed on regular expressions of Snort.
+     </p>
+   item_keywords: finite automata, regular expressions, network intrusion detection systems
+   item_pages: 26–34
+ - doi:
+   link: _11_2014_6
+   udk: '629.73.02; 629.73.05/.06; 535.643'
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_name: The Research of Uniformchromaticity Property of Color Spaces, used in Avionics Equipment
+   item_authors_address: '<b> I. O. Zharinov</b>, Assistant Professor, Chef of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chef of learning-scientists center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, e-mail: igor_rabota@pisem.net, <b> O. O. Zharinov</b>, Assistant Professor, Saint-Petersburg State University of Aerospace Equipment'
+   item_annot: |
+     <p> The problem of the research of uniformchromaticity property of color spaces, used in avionics equipment, is considered. Uniformchromaticity property of color spaces is decisive for calculation of quantitative measure of colors difference. Development of functional software for avionics indication equipment is based on color spaces, with graphical representation on XY- and UV-chromaticity planes. In according with modern standards (manuals R 52324—2005, R 52870—2007) it is recommended to use the coordinate system, based on UV-plane, as uniformchromatical one. Histograms of chromaticity coordinates distribution, obtained for both XY- and UV-planes by the use of mathematical modeling, are presented. There was established that chromaticity coordinates distributions on both planes significantly differ from uniform law. Taking this into account, both of considered color spaces can not be accepted as true uniform colour spaces, and hence, an estimation of colors difference value won't keep constant accuracy within the whole area of XY- and UV- chromaticity planes. Significant nonuniformity of chromaticity coordinates may be observed in every part of defined chromaticity area of XY-plane. For UV-plane, nonuniformity areas tend to be close to white color point and also concentrated along the lines drawn between points of some colors, namely: white-magenta, white-yellow, white-sky blue. Areas of non-equal contrast on UV-chromaticity plane were localized during the research.
+     </p>
+   item_keywords: color spaces, on-board indication equipment, avionics, uniformchromaticity property
+   item_pages: 35–43
+ - doi:
+   link: _11_2014_7
+   udk: '614.23:616.71, 62-1, 004.4'
+   item_authors: Antonova N. E., Bolshakov A. A., Lobanov V. V., Kiselev V. V., Perova L. G.
+   item_name: Program Complex of Support of Decision-Making of Medical Diagnostics of Diseases with Use of the Stabilometry Platform
+   item_authors_address: '<b> N. E. Antonova</b>, Postgraduate Student, e-mail: myasn.naty@gmail.com, <b> A. A. Bolshakov</b>, Professor, e-mail: bolshakov@overta.ru, <b> V. V. Lobanov</b>, Deputy Head of Chair, <b> V. V. Kiselev</b>, Assistant, <b> L. G. Perova</b>, Assistant, Yuri Gagarin State Technical University of Saratov '
+   item_annot: |
+     <p>The main idea of this article is to make a program realization of system of support of decision-making at medical diagnostics of diseases of the musculoskeletal device with application of a stabilometry platform is considered. The authors propose a methodology for a processing of medical data. The authors also propose the architecture of intellectual system. This architecture of intellectual system of diagnostics of diseases with use of the combined intellectual procedures and the built-in module of support the decision-making created in the LabVIEW language is offered. Developed software system will significantly improve the efficiency of diagnosis of various diseases of the musculoskeletal system. Given the characteristics of the registration stabilographic indicators, getting them without the distraction of a person from the activities performed and the high sensitivity of the method should be used as a convenient method Stabilographa assess the dynamics of the functional state of human rights in terms of functional disorders, various diseases of the central nervous system and musculoskeletal system. Computer stabilography is a promising method for the diagnosis, as well as rehabilitation (using the visual feedback) disorders after cerebral palsy, post-stroke hemiparesis and other disorders of motor function. This articles may be interesting for doctors, scientists. It may be applied in medicine and technic technology
+     </p>
+   item_keywords: system of support of decision-making, architecture of system of diagnostics, program complex, LabVIEW
+   item_pages: 44–48
+---

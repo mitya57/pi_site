@@ -1,0 +1,94 @@
+---
+title: Issue N1 2017 year 
+content:
+ - doi: 8.3-6
+   link: 8.3-6
+   udk: "004.4′233"
+   item_authors: "Galatenko V. A., Kostiukhin K. A., Dzabraev M. D."
+   item_name: "RSP Implementaion for the Purposes of the Embedded Applications Controlled Execution"
+   item_authors_address: | 
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b> K. A. Kostiukhin</b>, kost@niisi.ras.ru, <b> M. D. Dzabraev</b>, mdzabraev@niisi.ras.ru, Federal State Institution Scientific Research Institute of System Analysis of the Russian Academy of Science
+   item_corr_author: 'Kostiukhin Konstantin A., Senior Research Fellow, Federal State Institution "Scientific Research Institute of System Analysis of the Russian Academy of Science", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on:  October 28, 2016 
+   item_acc_on:  November 03, 2016
+   item_annot: |
+     <p> The article discusses the interactive debugging protocol (remote serial protocol, RSP), which is de facto standard of the distributed debugging tools.
+     At present, there is a wide range of embedded systems supporting the RSP and thus it makes possible to use RSP and one of it standard client (i. e GDB), as well as any other tools. It should be noted that RSP can be used not only for interactive debugging and monitoring purposes. Its easy to implement the protocol itself to build it into а new embedded system, and to create some extensions that enable flexible configuration of the target system and implementation of the embedded applications controlled execution.
+     In this article authors will examine the basic functionality of the RSP protocol, as well as its extension, created by the authors as a part of the work on the implementation of the concept of embedded and real-time systems controlled execution.
+     </p>
+   item_keywords: interactive debugging, monitoring, RSP, embedded systems, real-time systems
+   item_pages: 3–6
+   item_citation: 'Galatenko V. A., Kostiukhin K. A., Dzabraev M. D. RSP Implementaion for the Purposes of the Embedded Applications Controlled Execution, Programmnaya Ingeneria, 2017, vol. 8, no 1, pp. 3—6.'
+ - doi: 8.7-15
+   link: 8.7-15
+   udk: "621.382"
+   item_authors: "Bibilo P. N., Romanov V. I."
+   item_name: "Finding Energy-Intensive Tests for Logic Circuits that Implement Finite State Machines"
+   item_authors_address: | 
+     <b> P. N. Bibilo</b>, bibilo@newman.bas-net.by, <b> V. I. Romanov</b>, rom@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: " Bibilo Petr N., Head of Laboratory, the United Institute of Informatics Problems of the National Academy of Sciences of Belarus, 220012, Minsk, Belarus, E-mail: bibilo@newman.bas-net.by "
+   item_rec_on:  September 13, 2016
+   item_acc_on:  October 20, 2016
+   item_annot: |
+     <p> We propose to conduct an estimation of power consumption of finite state machines represented by logic circuits. We use structural and behavior VHDL-models of these circuits. Our approach to power consumption estimation of synchronous logic circuits of finite state machines is based on the implementation of extended functional VHDL-models of CMOS elements and fast tools of logical VHDL-simulation. An extended functional VHDL-model contains not only functions of its description but states which take into account variations of power consumption of inputs and outputs of elements. The technique of upper limitation of power consumption of logic circuits concludes in the process of looking for tests which induce reducing of power consumption — energy-intensive tests. We propose an algorithm for energy-intensive tests generation which uses cycle-accurate sequences: a set of tests T flows through S-state of a finite state machine; values of power consumption E of a logic circuit of a finite state machine. A common idea of the algorithm concludes in the process of finding a loop L into S (path in a graph of transitions of automaton). This loop is characterized with the maximum in a set of average values. On the last step of the algorithm is in the finding a path from an initial state to a vertex from the found loop. A set of tests from L occur m-fold in the resulting energy-intensive test Te, where m can vary. The experiments on VHDL benchmarks of finite states machines have shown that the proposed technique implementation of energy-intensive tests leads to 40 % increasing of power consumption for structural VHDL-models for the found tests. Generating energy-intensive tests allows us to test of digital blocks for operability in the high power consumption mode.</p>
+   item_keywords: logical circuit, CMOS technology, power consumption, tests, logical simulation
+   item_pages: 7–15
+   item_citation: 'Bibilo P. N., Romanov V. I. Finding Energy-Intensive Tests for Logic Circuits that Implement Finite State Machines, Programmnaya Ingeneria, 2017, vol. 8, no. 1, pp. 7—15.'
+ - doi: 8.16-25
+   link: 8.16-25
+   udk: "004.4"
+   item_authors: "Bourdonov I. B., Kossatchev A. S."
+   item_name: "Graph Learning by Group of Motionless Automata"
+   item_authors_address: | 
+     <b>I. B. Bourdonov</b>, igor@ispras.ru, <b>A. S. Kossatchev</b>, kos@ispras.ru, Institute for System Programming RAS, Moscow, 109004, Russian Federation
+   item_corr_author: " Bourdonov Igor B., Leading Researcher, Institute for System Programming RAS, 109004, Moscow, Russian Federation, E-mail: igor@ispras.ru "
+   item_rec_on:  August 01, 2016 
+   item_acc_on:  October 19, 2016
+   item_annot: |
+     <p> Graph learning or exploration tasks can be found in many applications, in particular, in exploration of networks, including Internet parts or GRIDs. For example, we can consider a WEB-page as a vertex, and each hyperlink as a directed arc. In this case an exploration of hypertext structure can be performed by executable agent tied with the vertices and communicating with each other by messages sent along the arcs.
+     This paper is third in a series of works devoted to graph exploration by automata. In the first and second papers we consider graph exploration tasks performed by automata moving along graph arcs. In the first paper we consider a single automaton, in the second one — several automata, which can communicate by messages sent through a network independent of the graph. In this paper we consider automata that are immobile and fixed in the graph vertices and communicate only by messages sent along directed graph arcs.
+     In the paper we investigate static and dynamic graph cases, and two tasks for each of the cases. While a static graph remains the same in the process of exploration, a dynamic graph can change — its arcs can appear and disappear, and they can change their ends. The first task considered is the graph exploration task, which is performed to learn its structure. The second task considered is parallel computation on the graph, more specifically, computation of some function of a multiset of values stored in graph vertices.
+     </p>
+   item_keywords:  directed graph, ordered graph, numerated graph, unknown graph, dynamic graph, graph learning, parallel computations, automaton, semirobot, automata group
+   item_pages: 16–25
+   item_citation: ' Bourdonov I. B., Kossatchev A. S. Graph Learning by Group of Motionless Automata, Programmnaya Ingeneria, 2017, vol. 8, no. 1, pp. 16—25.'
+ - doi: 8.26-37
+   link: 8.26-37
+   udk: "004.89"
+   item_authors: "Telnov V. P."
+   item_name: "The Contextual Search as a Technique for Extracting Knowledge on the Internet"
+   item_authors_address: | 
+     <b> V. P. Telnov</b>, telnov@bk.ru, National Research Nuclear University MEPhI,  Obninsk, 249040, Russian Federation 
+   item_corr_author: ' Telnov Victor P., Associate Professor, National Research Nuclear University "MEPhI", 249040, Obninsk, Russian Federation E-mail: telnov@bk.ru'
+   item_rec_on:  August 11, 2016
+   item_acc_on:  September 01, 2016
+   item_annot: |
+     <p> The subject of this paper is a pilot project devoted to creation and use of a retrieval agent in educational activity of universe, that provides to students, teachers and professors a means of contextual search of educational resources on the Internet. It describes an agent that provides a process for the extraction of training materials and other data from the World Wide Web and their systematization. The primary search of content on the Internet is carried out by the known search engines (Google Ajax Search, Yandex, Yahoo, Mail.ru).
+     An adaptive technology of sorting and clustering of the found network content on the basis of the Pareto dominance relation under the joint consideration of many aspects (relevance, pertinence, etc.) has been offered and implemented. Fuzzy text comparison is performed with use of the Levenshtein distance.
+     Key architectural, technological and design solutions are presented. Samples of the user interface are shown. Results of testing the software productivity ware are given. The article is aimed at a wide range of professionals who are interested in the application of contextual search on the Internet, as well as university students and teachers, who specialize in the field of informatics and computer science.
+     </p>
+   item_keywords: information technologies, higher education, contextual search, agent, Internet, Pareto dominance relation
+   item_pages: 26–37
+   item_comment: ' The work was supported by the NBO "Vladimir Potanin Charity Fund", project № ГК160001360 '
+   item_citation: 'Telnov V. P. The Contextual Search as a Technique for Extracting Knowledge on the Internet, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 26—37.'
+ - doi: 8.38-46
+   link: 8.38-46
+   udk: "629.7.058.74"
+   item_authors: "Kniga E. V., Shukalov A. V., Gurjanov A. V., Zharinov I. O., Zharinov O. O."
+   item_name: "Software and Brainware for Solving Practical Tasks of Graphics Rotation in Aircraft Instrumentation"
+   item_authors_address: | 
+     <b> E. V. Kniga</b>, ekovinskaya@gmail.com, Design Bureau Electroavtomatika, Saint Petersburg, 198095, Russian Federation, <b>  A. V. Shukalov</b>, aviation78@mail.ru, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation, Design Bureau Electroavtomatika, Saint Petersburg, 198095, Russian Federation, <b>  A. V. Gurjanov</b>, postmaster@elavt.spb.ru, Design Bureau Electroavtomatika, Saint Petersburg, 198095, Russian Federation, <b>  I. O. Zharinov</b>, igor_rabota@pisem.net, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation, Design Bureau Electroavtomatika, Saint Petersburg, 198095, Russian Federation, <b> O. O. Zharinov</b>, zharinov73@hotbox.ru, Saint-Petersburg State University of Aerospace Instrumentation, Saint Petersburg, 190000, Russian Federation
+   item_corr_author: " Zharinov Igor O., Chef of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), 197101, Saint Petersburg, Russian Federation E-mail: igor_rabota@pisem.net"
+   item_rec_on:  November 01, 2016
+   item_acc_on:  November 07, 2016
+   item_annot: |
+     <p> The practical task of graphical images rotation, which is actual for map information onboard system design in particular and for aviation instrumentation in general, is considered in the paper. Different mathematical bitmap rotation algorithms, which are aimed at next schematic realization based on Field-Programmable Gate Array in graphical modules, are studied in the paper. Mathematical modeling results of graphic image rotation algorithms and program code fragments for MATLab are presented in the paper. Test graphical images and graphical images rotation algorithms schematic fragments for the "Altera Quartus II" software are presented in the paper. Temporal and topological characteristics for different algorithms on onboard aviation hardware prototype are received in the study.
+     </p>
+   item_keywords: graphic modules, avionics, image rotation, algorithms, programs, Owen-Makedon
+   item_pages: 38–46
+   item_citation: 'Kniga E. V., Shukalov A. V., Gurjanov A. V., Zharinov I. O., Zharinov O. O. Software and Brainware for Solving Practical Tasks of Graphics Rotation in Aircraft Instrumentation, Programmnaya Inzheneria, 2017, vol. 8, no. 1 pp. 38-46.'
+ - doi:
+   link: 8.47-48
+   item_name: "CEE-SECR 2016 Conference Results"
+   item_pages: 47–48
+---

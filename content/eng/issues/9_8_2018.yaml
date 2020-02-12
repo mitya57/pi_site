@@ -1,0 +1,88 @@
+---
+title: Issue N8 2018 year
+content:
+ - doi: 9.339-348
+   link: 9.339-348
+   udk: "004.4'2"
+   item_authors: "Gribova V. V., Kleshchev A. S., Moskalenko F. M., Timchenko V. A., Shalfeeva E. A."
+   item_name: "Extensible Toolkit for the Development of Viable Systems with Knowledge Bases"
+   item_authors_address: |
+     <b> V. V. Gribova</b>, gribova@iacp.dvo.ru, <b>  A. S. Kleshchev</b>, kleschev@iacp.dvo.ru, <b> F. M. Moskalenko</b>, philipmm@iacp.dvo.ru, <b> V. A. Timchenko</b>, vadim@dvo.ru, <b> E. A. Shalfeeva</b>, shalf@iacp.dvo.ru, Institute of Automation and Control Processes,
+     Far Eastern Branch of the Russian Academy of Sciences (IACP FEB RAS), Vladivostok, 690041, Russian Federation
+   item_corr_author: "Gribova Valeriya V., Research Deputy Director, IACP FEB RAS, Vladivostok, 690041, Russian Federation E-mail: gribova@iacp.dvo.ru"
+   item_rec_on:  June 5, 2018
+   item_acc_on:  June 20, 2018
+   item_annot: |
+     <p> The paper presents the concept and architecture of an extensible toolkit for the development and maintenance of Knowledge Based Systems (KBSs). Such extensibility is a necessary condition for KBS viability in the course of changes of domain, user requirements and operating environment. The importance of provision of the toolkit extensibility by both its developers and users is justified. The key requirements for such a toolkit are identified: the possibility of its extensibility; the existence of a unified environment and instrumental support for the development and improvement of both KBSs and the toolkit itself. A three-level architecture of the extensible toolkit is proposed. It contains such levels as: an instrumental kernel, a basic and an extensible set of tools. The instrumental kernel defines the basic principle for the development of applied and instrumental services (systems): their software and information components are formed on the basis of a two-level approach. The instrumental kernel is sufficient to create information components by their structural models and to manage them and to specify declarative models of software components of all types. The basic toolkit includes a set of models and software sufficient to create and manage a KBS with the use of the basic technology. An extensible toolkit can include the following: new technologies for KBS development and their instrumental support (including tools for collective development and management), KBS shells, libraries of reusable components. The described concept is implemented within the toolkit of the IACPaaS cloud platform. It includes evolution mechanisms based on a unified declarative representation of information and software components with automatic generation of editors for their formation.
+     </p>
+   item_keywords: knowledge-based system (KBS), KBS development technology, software system maintenance, instrumental support for KBS development, development tools, model description language, model editor, problem solver editor, editor generator
+   item_pages: 339–348
+   item_comment: ' This work was partially supported by the Russian Foundation for Basic Research, project nos. 18-07-01079 and 16-07-00340 and by PFI "Far East"project no 18-MNT-009.'
+   item_citation: ' Gribova V. V., Kleshchev A. S., Moskalenko F. M., Timchenko V. A., Shalfeeva E. A. Extensible Toolkit for the Development of Viable Systems with Knowledge Bases, Programmnaya Ingeneria, 2018, vol. 9, no. 8, pp. 339—348.'
+ - doi: 9.349-360
+   link: 9.349-360
+   udk: "004.67"
+   item_authors: "Podkovalnikov S. V., Trofimov L. N."
+   item_name: "The Data Processing and Geo Information System Technological Aspects to Support Research in the field of Prospective Interstate Electric Power Interconnections Development"
+   item_authors_address: |
+     <b> S. V. Podkovalnikov</b>, spodkovalnikov@isem.irk.ru, <b>  L. N. Trofimov</b>, trofi@isem.irk.ru, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation
+   item_corr_author: " Trofimov Ivan L., Senior Engineer, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation, E-mail: t_john88@mail.ru "
+   item_rec_on:  May 23, 2018
+   item_acc_on:  July 19, 2018
+   item_annot: |
+     <p> The article describes Data Processing and Geo Information System (DPGIS), which is being developed in Melentiev Energy Systems Institute (ESI) of Siberian Branch of the Russian Academy of Sciences. The main purpose of developing software is to increase effectiveness of study and forecasting prospective interstate electric power connections. To study scenarios of expansion and operation of prospective electric power interconnections, special mathematical optimization model developed at ESI is used. Original technologies of data collection and storage in the Integrated Object-Oriented Database are offered. Technologies of data processing and representation in DPGIS Interface are considered. A computational experiment by DPGIS was performed; it has resulted in obtaining the most convenient aggregated forms for analysis and representation of optimization model solutions. Because of DPGIS application, efficiency and quality of scientific research in the field of prospective interstate electric power connections are increased.
+     </p>
+   item_keywords: geo information system, optimization model, data processing, object database, power plant, electric power system, interstate electric power interconnection
+   item_pages: 349–360
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project no 18-07-00495А '
+   item_citation: 'Podkovalnikov S. V., Trofimov L. N. The Data Processing and Geo Information System Technological Aspects to Support Research in the Field of Prospective Interstate Electric Power Interconnections Development, Programmnaya Ingeneria, 2018, vol. 9, no. 8, pp. 349—360.'
+ - doi: 9.361-368
+   link: 9.361-368
+   udk: "004.5"
+   item_authors: "Turovsky Ya. A., Surovtsev A. S."
+   item_name: "Software Package for Automatic Data Processing of Biomedical Signals for Exploratory Researches"
+   item_authors_address: |
+     <b>Ya. A. Turovsky</b>, yaroslav_turovsk@mail.ru, Voronezh State University, Voronezh, 394051, Russian Federation, <b>A. S. Surovtsev</b>, alexander.surovtsev.vrn@gmail.com, Voronezh State University of Engineering Technologies, Voronezh, 394065, Russian Federation
+   item_corr_author: " Turovsky Yaroslav A., PhD, Voronezh State University, 394051, Voronezh, Russian Federation, E-mail: yaroslav_turovsk@mail.ru"
+   item_rec_on:  June 16, 2018
+   item_acc_on:  July 17, 2018
+   item_annot: |
+     <p> This paper presents a software package for automatic processing of large amount of biomedical signals. The key purpose of this package is to conduct exploratory researches. The organization of the data processing is defined by specifying of computational scheme, that is, by determining a set of computational modules and data flows between this set of modules. Data processing is considered as a sum of three stages — sampling, preprocessing, and processing. While linkkkng tasks of processing of electroencephalogram data more than 50 computational modules are created. These modules can be used to do the time-frequency, factor, correlation, and statistical analysis of biomedical data. There is a sample of electroencephalogram records processing, which is aimed in the formation of a set of time-scaled digital signals for carrying out the correlation analysis. The possibility of extending the functions of this program package due to the addition of new computational modules opens up wide prospects for the further usage of it in the exploratory researches of biomedical signals.
+     </p>
+   item_keywords:  digital processing of biomedical signals, electroencephalogram, exploratory research of biomedical data
+   item_pages: 361–368
+   item_citation: 'Turovsky Ya. A., Surovtsev A. S. Software Package for Automatic Data Processing of Biomedical Signals for Exploratory Researches, Programmnaya Ingeneria, 2018, vol. 9, no. 8, pp. 361—368.'
+ - doi: 9.369-374
+   link: 9.369-374
+   udk:
+   item_authors: "Esmaeilishahmirzadi N., Mortezapour H."
+   item_name: "Preprocessing for Enhancing the Classification of Pulmonary Data Sets using Convolutional Neural Networks"
+   item_authors_address: |
+     <b> N. Esmaeilishahmirzadi</b>, Postgraduate Student, nasibe.smaeili@gmail.com, Lobachevsky State University, Department of Computer Science, Nizhny Novgorod, Russian Federation, <b> H. Mortezapour</b>, hr.mortezapour@gmail.com, Postgraduate Student Ferdowsi University of Mashhad, Department of Computer Engineering, Mashhad, Iran
+   item_corr_author: " Esmaeilishahmirzadi Nasibeh, Postgraduate Student, Lobachevsky State University, Nizhny Novgorod, Russian Federation, E-mail: nasibe.smaeili@gmail.com"
+   item_rec_on:  July 17, 2018
+   item_acc_on:  August 13, 2018
+   item_annot: |
+     <p> With growing lung cancer in the world the requirement of computer-aided diagnosis systems (CADs) has increased. In this work we present a method for enhancement of the data collection of pulmonary images using the method of data augmentation and filters in image processing. Our work consists of two components. We firstly present a novel method of image enhancement and secondly classify images into either nodule or non-nodule. For nodule classification the Residual convolutional neural network is proposed, which achieved better performance than state-of-the-art networks in our dataset.
+     Images are extracted from the LUNA16 database derived from the LIDC-IDRI database. For image enhancement we use compound images obtained from image processing filters. These filters are like Gabor and Average and rotate at 90 and 180 degrees to produce images similar to LUNA16 images. We produce 8 images similar to the original image and combine them into one image. We thus produce a new dataset. After testing various convolutional networks on a new dataset we found that the Residual convolutional neural network (ResNet) provides an accuracy of 96.214 % in the classification task. The accuracy demonstrates that the proposed method performs desirably and acceptably compared to other methods.
+     </p>
+   item_keywords: pulmonary nodule, lung images, residual neural network, deep learning, convolutional neural network CNN
+   item_pages: 369–374
+   item_citation: ' Esmaeilishahmirzadi N., Mortezapour H. Preprocessing for Enhancing the Classification of Pulmonary Data Sets using Convolutional Neural Networks, Programmnaya Ingeneria, 2018, vol. 9, no. 8, pp. 369—374.'
+ - doi: 9.375-384
+   link: 9.375-384
+   udk: "004.82"
+   item_authors: "Grif M. G., Lukoyanychev A. V."
+   item_name: "The Program Complex for Training Russian Sign Language Based on Unity3D"
+   item_authors_address: |
+     <b> M. G. Grif</b>, grifmg@mail.ru, <b> A. V. Lukoyanychev</b>, dizzystyle@yandex.com, Novosibirsk State technical University, Novosibirsk, 630073, Russian Federation
+   item_corr_author: 'Grif Michael G., Doctor of Department "Automated Control System", Novosibirsk State Technical University, Novosibirsk, 630073, Russian Federation E-mail: dizzystyle@yandex.com'
+   item_rec_on:  June 26, 2018
+   item_acc_on:  July 16, 2018
+   item_annot: |
+     <p> The article presents the results of the development of a software package for teaching sign language. Computer systems for training sign languages are built on the basis of notation records. The perspective grounds of Dimskis notation use for the computer implementation of Russian sign language are presented. The peculiarities of the notation record use for the control of a computer animated character that demonstrates dactilemas and words of sign language are considered. The graphics package Unity3D is used to implement the 3D model of the animated character (avatar). Dimskis notation is not completely computer-oriented, so the notation records are supplemented with required signs for the full descriptions of the word. For the convenience of working with Unity, the software complex has been developed that allows one to translate an animation clip created in Unity3D into a script text format and vice versa — the text format of a description in the animation movement. This approach allows us to increase the visibility of animation files and simplify the management of the avatar. The service symbols and words that allow you to organize the synchronization and relativity of avatar movements were introduced to the developed script language. The features of the realization of various animation ways for the demonstration of words and word combinations are considered. To realize this concept the software package with two modes: "Developer" and "User" has been developed. The article describes the hierarchical structure and functional possibilities of the software complex for the creating of sign language guide and lessons, and the prospects for its further use.
+     </p>
+   item_keywords: Russian Sign Language, a multimedia dictionary, notation Dimskis, Unity3D, animated character, avatar
+   item_pages: 375–384
+   item_citation: Grif M. G., Lukoyanychev A. V. The Program Complex for Training Russian Sign Language Based on Unity3D, Programmnaya Ingeneria, 2018, vol. 9, no. 8, pp. 375—384.
+---

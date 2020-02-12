@@ -1,0 +1,67 @@
+---
+title: Issue N6 2015 year
+content:
+ - doi:
+   link: _6_2015_1
+   item_authors: Godunov A. N., Soldatov V. A.
+   item_authors_address: '<b>A. N. Godunov</b>, Head of department, e-mail: nkag@niisi.ras.ru, <b>V. A. Soldatov</b>, Senior Scientific researcher, e-mail: nkvalera@niisi.ras.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA), Moscow'
+   item_name: ARINC Specification 653 and its Implementation in RTOS Baget 3
+   item_annot: |
+      <p> The paper describes the main aspects of the ARINC Specification 653 (Avionics Application Software Standard Interface). All Parts of ARINC Specification 653 are reviewed: Required Services and corresponding XML-configuration specification using this interface; Extended Services; Subset Services; Conformity Test Specification; port device driver services. The distinctions between similar services of POSIX Standard and ARINC specification 653 are noted: area of application; terminology; a number of interface functions. The following special features of ARINC specification 653 are noted: partition modes; resource management and its definition in configuration by system integrator; error handling based on error levels. Partition management based on module scheduling is considered. Module schedules are specified in configuration. All required services of ARINC Specification 653 are considered: interpartition communications (channels and ports management both queuing, sampling and SAP); intrapartition communications (semaphores, blackboards and buffers); logbooks; file systems; error handling and health monitoring; XML configuration specifications. For each service comparison with appropriate POSIX service is given and RTOS Baget 3 implementation of those services are discussed. Well-known RTOS's conforming with ARINC Specification 653 implementation are listed.
+      </p>
+   item_keywords: ARINC 653, POSIX, real-time operating system, reliability, RTOS Baget 3
+   item_pages: 3–17
+
+ - doi:
+   link: _6_2015_2
+   item_authors: Lipaev V. V.
+   item_authors_address: '<b>V. V. Lipaev</b>, Professor, Senior Scientific Researcher, e-mail: vlip28@mail.ru, Institute for System Programming of the Russian Academy of Sciences, Moscow'
+   item_name: To the Development of Dynamic External Environment for Custom Software Tests
+   item_annot: |
+      <p> Some software is designed to control dynamic (changing their state in time) objects. Such objects can be placed in the environment which is external to the main software of the system (and this software is specifically designed to control this system). Software packages like that can be divided into two actively interacting parts — the control part of the target system and dynamic part which implements the dynamic objects management in external environment. Different models like spacecraft flight models; models of air-traffic control stations in and around airport; models of objects of antiaircraft defense systems; avionics models — all these models can be external environment objects which are used during development and testing of intricately organized software packages as well as the whole target system. In a process of such software packages development one of the tasks is the creation and testing of mentioned before models of dynamic objects management in external environment. Due to the complexity of full-scale modelling of such objects' dynamics in actual practice, software simulators are used during the design and production stages. Modeling test desks are created for these purposes. They [desks] include problem-oriented complexes of the programs which model objects in the dynamic external environment. It should be noted that such complexes can be much bigger than corresponding tested control software. The first domestic (Soviet) software simulators of external environment, imitating flights of the different types of the aircrafts in external environment, were created in 1960s for testing the country's antiaircraft defense systems.
+      </p>
+      <p>The control systems in life cycle of the spacecrafts' onboard complexes of the control programs as well as the aircrafts' flight control systems and the dispatchers' control systems in air traffic control centers can be considered as examples of external environment models to check if they meet the feature and characteristic requirements of the complexes of control programs. The simulation of real-time changes of all information coming from the external environment must be provided for complex debugging and testing of the software of such control systems. The sources of information for the ATC centers' modeling test desks were radar stations, air crews on board, flying control officers. As a result, the necessity of dynamic simulation of several heterogeneous objects interaction, taking into account their influence on the control object, has emerged.
+      </p>
+      <p>Based on the author's experience in creation of dynamic external environment models for testing of the complexes of the target system control programs, the article presents: the approach to such environment models requirements development; the components which generate dynamic models of the environment; features of custom software testing in interaction with external environment models.
+      </p>
+   item_keywords: custom software, external environment of manager programs, dynamic objects of external environment, external environment models, external environment objects testing
+   item_pages: 18–23
+
+ - doi:
+   link: _6_2015_3
+   item_authors: Vasenin V. A., Krivchikov M. A.
+   item_authors_address: '<b>V. A. Vasenin</b>, Professor, e-mail: vasenin@msu.ru, <b>M. A. Krivchikov</b>, Researcher, e-mail: maxim.krivchikov@gmail.com, Institute of Mechanics, Lomonosov Moscow State University, Moscow'
+   item_name: Formal Models of Programming Languages and Programs. Part 2. Present State of Research
+   item_annot: |
+      <p> As noted in the first part of the present article, methods of the formal verification are in the focus of scientific research since the 1960s. Such methods, however, still have to become an accepted part of software engineering verification toolbox. Approaches to the formal verification are usually divided into two distinct classes: model-theoretic and proof-theoretic. Model-theoretic approaches, most commonly referred as the model checking, are concerned with the extensive automatic check of some finitely describable model of the program states. Proof-theoretic, or deductive verification approaches, are focused on constructing proofs of target program desirable properties as derivations in a certain formal system. One of deductive verification branches having a lot of recent research activity is the dependently-typed programming. Based on informal observation of the intuitionistic natural deduction interpretability in terms of typed lambda-calculus, it is possible to create a proof-automation system using an expressive statically-typed functional programming language as its specification language. Formal semantics of both the general purpose and domain-specific programming languages can be described in terms of interpreters based on such a system. This representation may be utilized to simplify the process of the formal model elaboration for the software of interest.
+      </p>
+      <p>The main contribution of the present article consists of literature review and critical analysis of the present state of research in the area of the formal verification, formal models of software and formally verifiable software development, based on the research results published in the time frame since 1990 to the present time. Publications on the listed topics are presented in a context of the software engineering development in general. The review is mainly concerned with the dependently-typed programming development and its application to the formal verification. Fundamental results associated with the main topic are also mentioned. In the conclusion possible directions of the further research is proposed. One of the mentioned further research areas of interest is the application of the formal verification to the language-oriented software engineering paradigm in form of domain-specific languages which have formal semantics defined by means of the generic dependently-typed intermediate representation.
+      </p>
+   item_keywords: formal verication, programming languages, domain-specific languages, programming language formal semantics, software engineering, bibliography
+   item_pages: 24–33
+
+
+ - doi:
+   link: _6_2015_4
+   item_authors: Kiselev Yu. A., Porshnev S. V., Muhkin M. Yu.
+   item_authors_address: '<b>Yu. A. Kiselev</b>, Junior Research Fellow, e-mail: yuri.kiselev@urfu.ru, <b>S. V. Porshnev</b>, Head of Department, e-mail: sergey_porshnev@mail.ru, <b>M. Yu. Muhkin</b>, Professor, e-mail: mfly@sky.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg'
+   item_name: 'Current Status of Russian Electronic Thesauri: Quality, Completeness and Availability'
+   item_annot: |
+      <p> The article discusses the problems existing in Russian electronic thesauri. The characteristic features of the most famous of them are studied. We analysed different aspects of electronic thesauri such as the quality, completeness, possibility of free use. Conclusions about the quality of thesauri are made based on the analysis of the size and composition of word lists and recall of synonymy relationships. Analysis of selected lexicographical resources and their comparison with the most famous analogue for English language discovered the need for designing methods that can allow at least partially automate the creation of Russian electronic thesaurus.
+      </p>
+   item_keywords: thesaurus, wordnet, lexical resource, Russian language
+   item_pages: 34–40
+
+ - doi:
+   link: _6_2015_5
+   item_authors: Trofimov I. V.
+   item_authors_address: '<b>I. V. Trofimov</b>, Senior Research Assistant, e-mail: itrofimov@gmail.com, Ailamazyan Program Systems Institute of Russian Academy of Sciences, Pereslavl-Zalessky'
+   item_name: Person Name Recognition in Newswire Text
+   item_annot: |
+      <p> Named entity recognition is an important part of present-day natural language processing. The paper is concerned with the problem of recognizing person mentions (in the form of proper names) in Russian-language newswire text. The goal of research is to determine what F-measure rates can be achieved for Russian with fairly simple dictionary-heuristic methods, the results serving as a starting point for further research. The method is based on the use of person first-name morphological dictionary (more than 12,000 names) and regular expressions describing name structure independently of context. The method was evaluated on a Russian-language newswire text corpus (more than 2,000 documents). The study showed that two simple regular expressions for full-name recognition, along with a procedure recognizing stand-alone surname reoccurrence, can yield an F-measure score in access of 94, for European names. As for non-European names, the F-measure value never came close to 80 (because of low recall), in spite of the fact that we used lists of common Muslim name parts, Chinese and Korean surname vocabulary, and took into account the inverted order (family name followed by the given name) typical of Chinese and Korean person names. Low recall is due to incompleteness of first-name vocabulary, inconsistent name transliteration, and some other factors. We believe that it is still possible to achieve higher F-measure scores (especially for Asian names) through mere vocabulary extension.
+      </p>
+      <p>The proposed approach can find application in tasks like hypertext content enrichment (content linking, semantic enrichment, name highlighting), person-based document indexing, or be used as part of an integrated text analysis system.
+      </p>
+   item_keywords: natural language processing, information extraction, named entity recognition, person name recognition, vocabulary of first names, vocabulary of family names, information extraction rules, annotated corpus, F-measure.
+   item_pages: 41–47
+---

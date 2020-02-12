@@ -1,0 +1,83 @@
+---
+title: Issue N6 2012 year
+content:
+ - doi:
+   link: _6_2012_1
+   udk: '004.4'
+   item_authors: Lipaev V. V.
+   item_name: The Development of Basic Standards of Software Engineering
+   item_authors_address: ' <b> V. V. Lipaev </b>, e-mail:vlip28@mail.ru '
+   item_annot: |
+     <p> Set out objectives and methodological foundations of standardization software and system engineering. The main features of standard software engineering ISO/IEC 12207:1995 — Software Life Cycle Processes of development and maintenance of the new upgraded standard ISO/IEC 12207:2008 and recommendations for its use. Noted the nature of its relationship to systems engineering standard ISO/IEC 15288:2005.
+     </p>
+   item_keywords: standardization, life cycle, software engineering, complex software, system engineering, software production, integration of components
+   item_pages: 2–7
+ - doi:
+   link: _6_2012_2
+   udk: "004.4'242, 004.4'23"
+   item_authors: Itsykson V. M., Zozulya A. V.
+   item_name: Automated Program Transformation for Migration to New Libraries
+   item_authors_address: ' <b> V. M. Itsykson </b>, <b> A. V. Zozulya </b>, e-mail: vlad@ftk.spbstu.ru'
+   item_annot: |
+     <p> The article is mainly focused on task of automation of transferring source code between two library environments. The classification of typical library entities having strong impact to software characteristics is defined. Special program annotation language (PanLang) is introduced. The problem of semantic conformance of source and target libraries' specifications is posed. Considered approach provides usage of special model of source code. Therefore after semantic conformance is proved, special transformation rules may be applied to mentioned model. These rules are based on both source and target partial specifications which guarantee correctness of result software. A simple prototype migration tool based on proposed approach is described.
+     </p>
+   item_keywords: software migration, library's environment, specification of library, function behavior semantic, re-engineering, program transformation
+   item_pages: 8–14
+
+ - doi:
+   link: _6_2012_3
+   udk: '004.424.32, 621.039'
+   item_authors: Vasenin V. A., Kryvchikov M. A., Kroshilin A. E., Kroshilin V. E., Ragulin A. D., Roganov V. A.
+   item_name: Parallelization of Three-Dimensional Thermal-Hydraulic Best-Estimate Code "BAGIRA" for Simulation of Multiphase Flow as Part of Full-Scale Supercomputer Simulator "Virtual Nuclear Power Plant"
+   item_authors_address: ' <b> V. A. Vasenin </b>, e-mail: vasenin@msu.ru <b> M. A. Kryvchikov </b>, e-mail: maxim.krivchikov@gmail.com, <b> A. E. Kroshilin </b>, e-mail: getget@online.ru, <b> V. E. Kroshilin </b>, e-mail: vkrosh@online.ru,<b> A. D. Ragulin </b>,  e-mail: alex.der.igel@gmail.com, <b> V. A. Roganov </b>, e-mail: raduga@butovo.com'
+   item_annot: |
+     <p> This article discusses approach to creating high-performance parallel version of the best-estimate thermal-hydraulic code BAGIRA, which is important part of the software suite for simulation of nuclear power plants with pressurized water reactors.
+     </p><p>We will also illustrate our experience with high-performance solvers for numeric sparse matrix factorization, which is used in BAGIRA code during implicit computational method step.
+     </p>
+   item_keywords: simulation, multiphase flow, thermal-hydraulic code, best-estimate code, nuclear reactors, pressurized water reactors, supercomputers, parallel computing
+   item_pages: 15–23
+ - doi:
+   link: _6_2012_4
+   udk: '004.383.4'
+   item_authors: Rechistov G. S., Ivanov A. A., Shishpor P. L., Pentkovski V. M.
+   item_name: Modeling of a Computer Cluster on a Distributed Simulator. Validation of Computing Node and Network Models
+   item_authors_address: '<b> G. S. Rechistov </b>, e-mail: grigory.rechistov@phystech.edu,<b> A. A. Ivanov </b>,  <b> P. L. Shishpor </b>,  <b> V. M. Pentkovski </b>'
+   item_annot: |
+     <p> In the paper we present an approach to modeling of large many cores cluster system consisting of several multi-core computers connected with high speed networks. A simulation solution, testing environment and methods of running tests are described. We give results of verification of computing nodes and interconnect model against their real counterparts and propose several solutions to overcome limitations discovered and ways of increasing the accuracy.
+     </p>
+   item_keywords: distributed simulation, Simics, multi-core systems, simulation performance, scalability, cluster, Linpack
+   item_pages: 24–29
+ - doi:
+   link: _6_2012_5
+   udk: '004.94'
+   item_authors: Danilkin V. A., Trukhachev A. A., Beltov A. G.
+   item_name: Building a Model of Vehicle Lane Change in Traffic Flow
+   item_authors_address: '<b> V. A. Danilkin </b>, e-mail: danilkinva@gmail.com, <b> A. A. Trukhachev </b>, e-mail: AATrukhachev@mephi.ru, <b> A. G. Beltov </b>, e-mail: beltov@mephi.ru'
+   item_annot: |
+     <p> This paper considers the extension of the Triber's intelligent driver model in case of vehicles movement on multilane highways. In contrast to previously proposed models, this model describes the process of lane changing in the maximum approximation to reality. This allows us to define additional delay in lane changing process, and expect the best match of the empirical data. Developed model was verified by simulation. Obtained results well correlate with data, which describes the effect of lane changing on the traffic flow.
+     </p>
+   item_keywords: traffic flows, models of vehicle lane change, simulation modeling
+   item_pages: 30–34
+ - doi:
+   link: _6_2012_6
+   udk: '004.42'
+   item_authors: Kroll T. Y., Kharin M. A.
+   item_name:  Electronic Archive System Building and Realization Experience Based on Scanning and Recognition System Flexi Capture
+   item_authors_address: '<b> T. Y. Kroll </b>, e-mail: tatyana.kroll@cit.ecm.ru,<b> M. A. Kharin </b>, e-mail: maxim.kharin@cit.ecm.ru'
+   item_annot: |
+     <p> Electronic archive system building principles and realization experience based on scanning and recognizing system ABBYY Flexi Capture are described in this article. Adding documents to archive scheme with main components of the system is given. Data access features are considered and archive components and database interaction scheme is given. Realization of scanning process and document recognizing using developed verification acceleration methods is described. Also realization of archive configuration system and web application for archive documents access is considered. Such experience can be used by developers while developing own electronic archive systems.
+     </p>
+   item_keywords: electronic archive, building and realization experience, data access, scanning, recognizing, verification, web application, ABBYY Flexi Capture
+   item_pages: 35–42
+ - doi:
+   link: _6_2012_7
+   udk: "004.4'423"
+   item_authors: Karpov P. M.
+   item_name: Fast Brainfuck Interpreter
+   item_authors_address: '<b> P. M. Karpov </b>, e-mail: reoser@mail.ru'
+   item_annot: |
+     <p> Present work introduces efficient interpreter of the Brain-fuck programming language and examines various optimization methods. Instruction merging technique supported by statistical analysis of Brainfuck programs serves as a basis of proposed virtual machine. Impact of different macroinstructions is examined and comparison with other interpreters is presented.
+     </p>
+   item_keywords: esoteric programming languages, interpreter, virtual machine
+   item_pages: 43–46
+---

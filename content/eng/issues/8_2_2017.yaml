@@ -1,0 +1,89 @@
+---
+title: Issue N2 2017 year 
+content:
+ - doi: 8.51-57
+   link: 8.51-57
+   udk: "004.4"
+   item_authors: '<span style="border:2px #000000  solid;">Lipaev V. V.</span>'
+   item_name: "On Development of Models of a Dynamic External Environment for Testing the Complex Software Products"
+   item_authors_address: | 
+     <b style="border:2px #000000  solid;"> V. V.  Lipaev</b>, Institute for System Programming of the Russian Academy of Sciences, 109004, Moscow, Russian Federation
+   item_rec_on:  April 20, 2015 
+   item_acc_on:  November 20, 2016
+   item_annot: |
+     <p> Some kinds of software projects are aimed at managing the dynamic objects (which change their state with time). Such objects can be placed in an environment that is external to the main programs of the large target system, managing of which is their task. Such software complexes can be divided into two actively interacting parts: part that manages the main processes of the target systems and part that implements control of dynamic objects in an external environment. Examples of objects of external environment are the following models: flight of spaceships, airport flight control points, air defense system objects, aviation on-board control system. One of the tasks when developing such software complexes is creating and testing the above noted models of dynamically managing the objects in an external environment.
+     Due to complexity of the full-scale modeling of such objects dynamics in real conditions, software emulators of external environments are used during the stages of modeling and production. For this task, the modeling test benches are created. They include problem-oriented software complexes which are modeling the objects in a dynamic external environment. It is worth noting that such complexes may be significantly larger than the corresponding managing software products being tested. The first Soviet Union software models of the external environment, imitating flight of various aircraft types in an external environment, were created already in 1960s for testing the air defense system of the country.
+     As examples of external environment models to be tested for qualifying for the requirements for the functions and characteristics of the managing programs complexes, one can take control systems of spaceships, and also aircraft flight and air traffic control systems. For complex debugging and testing of the program complexes of such control systems, imitation of all changes of information coming from the external environment should be implemented if needed. For modeling test benches of the air traffic control centers, sources of information were radars and personnel of the aircrafts. As a result, a need for dynamically imitating the interaction of a row of diverse objects, taking into account their influences on the control object, has emerged.
+     Attempts to developing the requirements for models of a dynamic external environment, components generating dynamic models of an environment, and specialities of testing the customized software projects in interaction with external environment models are presented in the article, based on the authors experience in developing such models.
+     </p>
+   item_keywords: customized software project, external environment of managing software products, dynamic objects of an external environment, testing the objects of an external environment
+   item_pages: 51–57
+   item_citation: ' Lipaev V. V. On Development of Models of a Dynamic External Environment for Testing the Complex Software Products, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 51—57.'
+ - doi: 8.58-65
+   link: 8.58-65
+   udk: "004.4’2 + 004.51"
+   item_authors: "Bakanov V. M."
+   item_name: "Program Complex for Development Methods Construction of Optimal Frame Parallel Program"
+   item_authors_address: | 
+     <b> V. M. Bakanov</b>, vbakanov@hse.ru, Higher School of Economics, National Research University, 101000, Moscow, Russian Federation 
+   item_corr_author: " Bakanov Valery M., Professor, Higher School of Economics, National Research University, 101000, Moscow, Russian Federation E-mail: vbakanov@hse.ru "
+   item_rec_on:  October 10, 2016 
+   item_acc_on:  October 28, 2016
+   item_annot: |
+     <p> Approaches to the problem of the development of rational (seeking optimal) planning techniques (drawing up the framework, the skeleton program in terms of parallelism) to perform the tasks of parallel computing systems with ho-mogeneous and heterogeneous field calculators. The informational graphs are used as a formalization of the algorithm. The possible criteria and parameters of the optimization planning methods with the use of stacked parallel form (SPF) information graph algorithm, or without it are described. Two basic strategies are formulated — preserving run time (without increasing the height of the original SPF) or an increase in the height of SPF. The first one is implemented on the basis of statements on location variability tiers SPF (while retaining the same information dependencies as in the original graph), the second one — by adding tiers in SPF and the transfer of the operators "top-down" on the written stage. The data on the developed for the implementation of such methods software system (the program stand) are provided. To implement methods (strategies) of rational development of parallel programs, the built-in high-level Lua scripting language is used. The confirmation of its effectiviness in this capacity is provided. The information on the set of API calls of the system is provided. A criterion of computational complexity of parallel programs execution plan building procedures is suggested. We give qualitative (in the form of strip-chart) and quantitative results of the application of some of the proposed strategies for building a rational planning of parallel programs with respect to the common algorithms of data processing.</p>
+   item_keywords: graph representations of the algorithm, analysis of the information structure of the program, longline-parallel form information graph, rational parameters of parallel programs, integrated Lua scripting language, strategy of building a rational plan for the parallel program execution
+   item_pages: 58–65
+   item_citation: ' Bakanov V. M. Program Complex for Development Methods Construction of Optimal Frame Parallel Program, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 58—65.'
+ - doi: 8.66-75
+   link: 8.66-75
+   udk: "519.688"
+   item_authors: "Kulyas M. E."
+   item_name: "Synthesis of Computer Programs for Long Integers Multiplication"
+   item_authors_address: | 
+     <b> M. E. Kulyas</b>, kuliasmy@mpei.ru, National Research University Moscow Power Engineering Institute, 111250, Russian Federation 
+   item_corr_author: ' Kulyas Mikhail E., PhD Student, National Research University "Moscow Power Engineering Institute", 111250, Russian Federation, E-mail: kuliasmy@mpei.ru'
+   item_rec_on: September 25, 2016 
+   item_acc_on: November 11, 2016
+   item_annot: |
+     <p> This article provides two variants of hybrid recursive algorithms of long integers multiplication, combining the asymptotically fast Karatsuba algorithm with shift-and-add algorithm at low levels of recursion. These algorithms can find a good use when creating computer algebra system libraries. The article introduces both the recursive and the sequential (linear) implementation of the algorithms in question. The performance of the experiments made it possible to define the applicability of the algorithms depending on the operands size. The article demonstrates the impact of forward recursion stop threshold in a hybrid algorithm on the computing speed. The optimal values of this parameter are determined. The research proposes an efficient computational scheme which doesnt use additional memory for signs of intermediate computations results (SKML algorithm). The author develops the memory organization schemes supporting both the recursive and the sequential implementation of the SKML and AKML algorithms. The research evaluates the programs memory size and the data memory size needed for efficient use of the algorithms in question. The author compares the computing efficiency of the algorithms in question against the well-known GMP and Boost libraries.
+     </p>
+   item_keywords:  long integers multiplication, Karatsuba algorithm, sequential program, recursion, computational complexity
+   item_pages: 66–75
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project № 14-01-00671-А. '
+   item_citation: ' Kulyas M. E. Synthesis of Computer Programs for Long Integers Multiplication, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 66—75.'
+ - doi: 8.76-87
+   link: 8.76-87
+   udk: "519.722"
+   item_authors: "Kukartsev A. M., Kuznetsov A. A."
+   item_name: "On the Fast Solution of the Jevons Group Action equation on Boolean functions"
+   item_authors_address: | 
+     <b> A. M. Kukartsev</b>, amkukarcev@yandex.ru, <b> A. A. Kuznetsov</b>, kuznetsov@sibsau.ru, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation 
+   item_corr_author: " Kukartsev Anatolii M., Senior Lecturer, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation, e-mail: amkukarcev@yandex.ru"
+   item_rec_on:  September 29, 2016 
+   item_acc_on:  November 14, 2016
+   item_annot: |
+     <p> Action of the Jevons group on Boolean functions of n arguments is intransitive and divides the set into orbits of the same cardinalities. In most cases number of elements in the orbit is equal of the group order, i.e. 2<sup>n</sup>n!. Calculation of the acting group element which links to two functions in the same orbit is a computationally hard mathematical problem. It refers to the problems of classification of Boolean functions relatively to group action. So this action is used as a cryptographic primitive of encryption algorithms that are based on managed operations where a key is an element of the Jevons group and Boolean functions are original encrypted data.
+     We propose an efficient algorithm for computing the acting group element which links (the) two functions. The time complexity of the algorithm is much less than complete enumeration. This algorithm is based on the sequential computation of factors of the acting element written in the canonical form. The presence or absence of a factor in such canonical representation in solution of the equation is determined by frequency characteristics of binary vectors which are equivalent to the unknown Boolean function. We prove the correctness of the algorithm and give the formula for calculating its time complexity. After that an example demonstrates a solution of the equation for Boolean functions of four arguments.
+     We calculate the maximum and minimum theoretical estimates of the time complexity. A number of numerical experiments allowed us to formulate the assumption that complexity of the solution is O(n<sup>2</sup>) in most cases. Such assessment of complexity is characteristic for equations including Boolean functions with nontrivial inertia subgroup of the Jevons group. For the numerical experiments a spectral analysis method of Boolean functions is developed. Using this method we calculate the minimum, maximum and average estimates of the algorithm complexity for all equations with Boolean functions of four and five arguments with a trivial inertia subgroup of the Jevons group. The results lead to the assumption that the algorithm will be effective for processing of real input data.
+     </p>
+   item_keywords: action on the set, frequency analysis, the Jevons group, Boolean functions, equations of group action on the set Boolean functions
+   item_pages: 76–87
+   item_comment: ' This work was supported by the Grant of Russian Federation President, project nos. MD-3952.2015.9 '
+   item_citation: ' Kukartsev A. M., Kuznetsov A. A. On the Fast Solution of the Jevons Group Action equation on Boolean functions, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 76—87.'
+ - doi: 8.88-95
+   link: 8.88-95
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Research in CEE-region: Changes Implementation in Software Production"
+   item_authors_address: | 
+     <b> D. S. Pashchenko</b>, denpas@rambler.ru, SlavaSoft, Moscow, 125368, Russian Federation 
+   item_corr_author: " Pashchenko Denis S., CEO, SlavaSoft, 125368, Moscow, Russian Federation E-mail: denpas@rambler.ru"
+   item_rec_on:  October 20, 2016 
+   item_acc_on:  November 21, 2016
+   item_annot: |
+     <p> Geographically distributed teams in projects of high-tech companies have become the de facto standard of the current business approaches. Market software development in Russia and CIS-region is developing according the global trends; the national IT leaders have a wide network of local offices with development centers. The main goal of this approach is a desire to optimize production costs and increase access to highly qualified human resources. However, projects with geographically distributed development also have a lot of specialties and associated risks that can neutralize the results of economic benefits. In this paper we are summarizing the experience of managers of international software companies with offices in the CIS countries in the management of geographically distributed software development. This experience has been presented to the author in a series of interviews in the autumn of 2016 by senior managers of those software vendors. There is a classification of specialties (and associated risks) on project level; the main focus of the paper is done on the "natural" and "organizational" groups of specialties. For each group a description and the set of major risks are given. In this paper the main approaches to the management of those risks are presented, and also examples of the own experience of the author are given.
+     </p>
+   item_keywords: geographically distributed software development, software project, software development, advanced software production practices
+   item_pages: 88–95
+   item_citation: ' Pashchenko D. S. Research in CEE-region: Changes Implementation in Software Production, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 88—95.'
+---

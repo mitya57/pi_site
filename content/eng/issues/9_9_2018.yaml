@@ -1,0 +1,80 @@
+---
+title: Issue N9 2018 year 
+content:
+ - doi: 
+   link: _9_2018_1
+   udk: ""
+   item_authors: "Vasenin V. A., Lavrischeva E. M., Petrenko A. K., Posin B. A."
+   item_name: "V. V. Lipaev's Scientific and Technical Contribution to the Development of Reliable and Quality Software Systems"
+   item_pages: 387–392
+   item_citation: "Vasenin V. A., Lavrischeva E. M., Petrenko A. K., Posin B. A. V. V. Lipaev's Scientific and Technical Contribution to the Development of Reliable and Quality Software Systems, Programmnaya Ingeneria, 2018, vol. 9, no. 9, pp. 387—392."
+ - doi: 9.393-403
+   link: 9.393-403
+   udk: "004.4'23"
+   item_authors: "V'yukova N. I., Galatenko V. A., Samborskij S. V."
+   item_name: "Support for Multicore Programming in the Compiler for the Komdiv Processors under the 'Baget' RTOS"
+   item_authors_address: | 
+     <b> N. I. Vyukova</b>, qniva@yandex.ru, <b> V. A. Galatenko</b>, galat@niisi.msk.ru, <b>  S. V. Samborskij</b>, sambor@niisi.msk.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: "Vyukova Nadezhda I., Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: qniva@yandex.ru"
+   item_rec_on:  August 20, 2018 
+   item_acc_on:  August 28, 2018
+   item_annot: |
+     <p> The processors of the MIPS-compatible architecture Komdiv were being developed in the Scientific Research Institute of System Development (NIISI) of the Russian Academy of Sciences during the last 20 years. Initially they were intended mainly for embedded systems including ones used in the aerospace industry. Modern models of the Komdiv processors are used also in design of common classes of computer systems — laptops, tablets, servers, network routers.
+     Special attention in the architectural design of the Komdiv processors is given to such characteristics as high computational efficiency, trustability, ability to function in extreme conditions and optimal trade-off between performance and energy consumption. The last property is achieved through the use of various kinds of parallelism provided with specialized coprocessors and use of multiprocessor configurations. The paper provides a brief review of programming tools which simplify development of efficient application software using specialized coprocessors and multiprocessor configurations.
+     One of the recent Komdiv processors 1890VM118 is a dual core processor with uniform memory access. The main part of the paper is devoted to the support of parallel and concurrent programming in the currently being developed compiler for Komdiv processor under control of the real time operating system (RTOS) Baget. We present the results of time measurements for a number of tests parallelized with use of OpenMP and C++ libraries <thread> and <future> and discuss restrictions in use of asyncronous tasks on RTOS Baget patforms. It is shown that there are certain performance reserves which may be put to use with additional code optimizations. In the conclusion the directions for future research and development are discussed.
+     </p>
+   item_keywords: Komdiv processor, parallel and concurrent programming, C++, OpenMP 
+   item_pages: 393–403
+   item_comment: ' The paper is published within the state assignment for conducting fundamental research on the topic (project) "38. Problems of creating global and integrated information and telecommunication systems and networks, developing the GRID technologies and standards. Developing tools for parallelizing programs for national multicore microprocessors (0065-2018-0010)."'
+   item_citation: "V'yukova N. I., Galatenko V. A., Samborskij S. V. Support for Multicore Programming in the Compiler for the Komdiv Processors under the 'Baget' RTOS, Programmnaya Ingeneria, 2018, vol. 9, no. 9, pp. 393—403."
+ - doi: 9.404-414
+   link: 9.404-414
+   udk: "004.052.42, 004.272.43, 004.056.55"
+   item_authors: "Elizarov S. G., Lukyanchenko G. A., Markov D. S., Monakhov A. M., Roganov V. A."
+   item_name: "Functional and Performance Validation of Many-Core Systems Based on the Ideas of the RSA Algorithm"
+   item_authors_address: | 
+     <b>S. G. Elizarov</b>, elizarov@physics.msu.ru, <b>G. A. Lukyanchenko</b>, lukyanchenko@physics.msu.ru, <b>D. S. Markov</b>, markovds@maltsystem.com, <b>A. M. Monakhov</b>, monahov.aleksandr@physics.msu.ru, <b>V. A. Roganov</b>, radug-a@ya.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Roganov Vladimir A., Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: radug-a@ya.ru"
+   item_rec_on:  June 28, 2018 
+   item_acc_on:  July 16, 2018
+   item_annot: |
+     <p> The article deals with a practical example of developing a software test based on the ideas of cryptographic algorithms for searching of problematic areas in the software and the hardware of high-performance many-core systems that contain hundreds of asynchronously interacting processing cores. Suitable cryptographic algorithms are public-key ciphers where computational complexity of hacking and decryption differ by many orders of magnitude. An example on the basis of the RSA algorithm is considered. The RSA algorithm is based on the computational complexity of integer factorization problem. A method for developing software test is proposed taking into account the specific features of processing cores, memory and the communication environment of many-core systems. Such a test can be scaled and parallelized achieving predictable and easily variable execu­tion time. An example test was developed using the described method and it is able to respond to single errors in arithmetic operations, and the result of its calculations can be hard to forecast without preliminary significant calculations, but could be checked on any simple Personal Computer easily. The method and sensitivity of the developed test to single errors have been tested on the emulator of many-core system. The possibility to introduce single errors in the multiplication operation for testing was implemented in this system emulator. In most cases the result was wrong with indicating an incorrect operation that demonstrates the effectiveness of the developed method.
+     </p>
+   item_keywords:  many-core systems, dynamic parallelization of calculations, localization of errors in equipment, RSA algorithm
+   item_pages: 404–414'
+   item_citation: 'Elizarov S. G., Lukyanchenko G. A., Markov D. S., Monakhov A. M., Roganov V. A. Functional and Performance Validation of Many-Core Systems Based on the Ideas of the RSA Algorithm, Programmnaya Ingeneria, 2018, vol. 9, no. 9, pp. 404—414'
+ - doi: 9.415-424
+   link: 9.415-424
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Engineering of Cognitive Synthesis Morphisms at the Artificial Intelligence Systems"
+   item_authors_address: | 
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation 
+   item_corr_author: "Kostenko Konstantin I., Head of Chair, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru"
+   item_rec_on:  June 19, 2018
+   item_acc_on:  July 25, 2018
+   item_annot: |
+     <p> The adaptation of artificial intelligence systems concepts to knowledge representation formalisms fundamental invariants is studied. The abstract knowledge inclusion and composition invariants of such formalisms used to be the main tools for simulating the knowledge semantic and algebraic structures. Formal analysis of these invariants provides specialists with a new application domain for developing the abstract mathematical systems general theory. This application relates to informal concept of knowledge processing operations and is based on fundamentals of linguistics, psychology, pedagogics and philosophy. Different classes of morphisms, usual for set theory, formal logic, abstract algebra, theory of algorithms and topology, are used for simulating such operations. Universal Blums classification of cognitive operations and goals used to be the completeness and independence criteria for introduced morphisms classification. Simulating of cognitive processes non-formal invariants by abstract morphisms classification for knowledge representation formalisms is realized by morphisms compositions considered as patterns of cognitive goals realizations within formalisms of abstract knowledge spaces. Such compositions define complex knowledge synthesis processes, based on subject domain elementary and simple knowledge sets, represented by knowledge area ontology. The morphisms formal classification agrees with the different types of weakly formalized cognitive goals and the thinking processes that search for such goals realizations. An application is proposed for morphisms compositions at artificial intelligent systems based on abstract morphisms transformation and realized as morphisms homomorphic extensions into professional tasks solution processes. An example of such a process is provided for creation of the products manufacturing plan. Product of every type is made by the sequence of products process­ing operations performed on machines with known properties and attributes. Morphisms composition engineering originates the plan-creating process. This process uses three general types of morphisms for complex knowledge synthesis processes represented by knowledge integration, knowledge transformation and knowledge tracing.
+     </p>
+   item_keywords: cognitive goal, cognitive operation, ontology, knowledge representation formalism, artificial intelligence, morphism, knowledge synthesis
+   item_pages: 415–424
+   item_comment: ' The Russian Foundation for Basic Research supported this work, project nos. 16-01-00214'
+   item_citation: ' Kostenko K. I. Engineering of Cognitive Synthesis Morphisms at the Artificial Intelligence Systems, Programmnaya Ingeneria, 2018, vol. 9, no. 9, pp. 415—424..'
+ - doi: 9.425-432
+   link: 9.425-432
+   udk: "004.912, 004.942"
+   item_authors: "Pimenov I. S., Salomatina N. V."
+   item_name: "Extraction of Explicit Consumer Intentions from Social Network Messages"
+   item_authors_address: | 
+     <b> I. S. Pimenov</b>, pimenov.1330@yandex.ru, Novosibirsk State University, Novosibirsk, 630090, Russian Federation, <b>  N. V. Salomatina</b>, salomatina_nv@live.ru, Sobolev institute of mathematics, Novosibirsk, 630090, Russian Federation
+   item_corr_author: "Salomatina Natalya V., PhD, Senior Researcher, Sobolev institute of mathematics, Novosibirsk, 630090, Russian Federation, E-mail: salomatina_nv@live.ru"
+   item_rec_on:  August 20, 2018
+   item_acc_on:  August 21, 2018
+   item_annot: |
+     <p> The problem of automatic extraction of facts from Russian texts was approached in this paper. The facts under examination were the intentions of social network users to purchase certain goods or use certain services. The utilized approach is based on the semantic tagging of user messages by an expert and the automatic construction of rules. A training set for expert annotation consisted of messages from the "VKontakte" social network, selected through the LeadScanner API. The invented system of semantic tags allowed distinguishing between various intentional blocks: objects, their different properties and emphatic constructions. Pre-processing of the training set included lemmatization and grammatical tagging with PyMorphy2. Then, on the material of the training set, a directed graph was constructed. Each node in this graph would correspond to an intentional block, including information about its expertly-assigned intentional tag, grammatical and/or lexical properties of its main word. The edges of the graph would connect the intentional blocks that could be found in adjacent positions across all the messages of the training set. Extraction of intention objects and their properties was achieved by test set analysis in accordance to the constructed graph. Test set included both messages containing non-consumer intentions or no intentions at all. The results of the testing stage show that the approach used allows ascertaining if a particular message expresses intention, and, if it does, extracting the intention object along with its relevant properties. The precision and recall of intention extraction was 81 % and 74 % respectively. The data extracted can be used for further refinement of message classification.
+     </p>
+   item_keywords: intention, intention marker, intentional block with annotation, directed graph, fact extraction
+   item_pages: 425–432
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project no. 0314-2016-0015.'
+   item_citation: 'Pimenov I. S., Salomatina N. V. Extraction of Explicit Consumer Intentions from Social Network Messages, Programmnaya Ingeneria, 2018, vol.9, no. 9, pp. 425—432'
+---

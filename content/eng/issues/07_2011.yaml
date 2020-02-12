@@ -1,0 +1,80 @@
+---
+title: Issue N7 2011 year 
+content:
+ - doi:
+   link: _7_2011_1
+   udk: "004.75"
+   item_authors: "Vasenin  V. A.,  Afonin  S. A.,   Golomazov  D. D."
+   item_name: "A Semantic Approach to Resource Discovery in Grid Computing Using a Domain Ontology"
+   item_authors_address: | 
+     <b>  V. A. Vasenin</b>, <b> S. A. Afonin  </b>,  <b> D. D. Golomazov  </b>, e-mail: vasenin@msu.ru
+   item_annot: |
+     <p> Discovery of resources available for remote use is a significant part of building composite applications in a distributed network environment. The present paper is devoted to resource discovery in grid systems. A brief review of existing approaches to the problem is presented. A novel method for resource discovery in grid systems is proposed. It is based on formal semantic descriptions of algorithms that are implemented by grid services. The descriptions are written in terms of a domain ontology. Some examples of using the approach are presented in the paper.
+     </p>
+   item_keywords:  grid computing, semantic grid, resource discovery, ontology, domain ontology
+   item_pages: 2–8
+ - doi:
+   link: _7_2011_2
+   udk: "004.05"
+   item_authors: "Politsyn S. A."
+   item_name: "Ways of Calculating Computer Application Development Projects Time Consumption"
+   item_authors_address: | 
+     <b> S. A.  Politsyn </b>, e-mail: pul_forever@mail.ru
+   item_annot: |
+     <p> Development teams are likely to have lots of difficulties while making more or less accurate estimations on a project: time assumptions, work assessments and required budget. One of the possible solutions could be plotting down a diagram of new defects against time. For different types of applications, big and tiny, these plots are sure to have similar characteristics. The ways making project time consumption estimations based on such plot is suggested and recommendations how to use this plot planning future release dates.
+     </p>
+   item_keywords: project management, resource allocation, time consumption
+   item_pages: 9–14
+ - doi:
+   link: _7_2011_3
+   udk: "004.451.2"
+   item_authors: "Zaborovsky N. V., Tormasov A. G."
+   item_name: "Computational Approach to Data-Race Static Analysis"
+   item_authors_address: | 
+     <b> N. V. Zaborovsky </b>, <b> A. G. Tormasov </b>, e-mail: turnik@mail.ru
+   item_annot: |
+     <p> 
+     There are various methodologies analyzing multithreaded algorithms. The article contains description and substantiation of the new approach to the problem of searching data-races in multithreaded programs. Suggested approach is basing on the static code analysis including analysis of some extra auxiliary constructions and also includes little computational part.
+     </p>
+   item_keywords: static analysis, data race, race condition, multithreaded execution
+   item_pages: 15–20
+ - doi:
+   link: _7_2011_4
+   udk: "004.75; 004.415, 004.946"
+   item_authors: "Kharitonov V. Y."
+   item_name: "Software Tools for Building Distributed Virtual Reality Systems. Part II"
+   item_authors_address: | 
+     <b> V. Y.  Kharitonov </b>, e-mail: kharitonovvy@gmail.com
+   item_annot: |
+     <p> This paper is devoted to the problem of distributed virtual reality (DVR) systems design which is important and relevant at the present time. An approach based on the creating of a specialized middleware allowing to simplify and at the same time to accelerate DVR system development is proposed.
+     In the second part of paper mechanisms to ensure data consistency in the proposed software architecture are considered. In addition the main features and implementation details of the TerraNet middleware are examined.
+     </p>
+   item_keywords: distributed virtual reality systems, data consistency, distributed simulation, 3D interactive computer graphics and computer networks    
+   item_pages: 21–28
+ - doi:
+   link: _7_2011_5
+   udk: "004.413.4"
+   item_authors: "Palchunov D. E., Yakhyaeva G. E., Hamutskaya A. A."
+   item_name: "Software System for Information Risk Management 'RiskPanel'   "
+   item_authors_address: | 
+     <b> D. E. Palchunov </b>, e-mail: palch@math.nsc.ru,
+     <b> G. E. Yakhyaeva </b>, e-mail: gulnara@math.nsc.ru,
+     <b> A. A. Hamutskaya </b>, e-mail: alena.khamutskaya@gmail.com
+   item_annot: |
+     <p> We consider the modern approaches to estimating risks to information security of corporate information system. The analysis of software systems intended for estimation of such risks is carried out. We present an approach to risk analysis based on construction of formal models of precedents of cyber attacks. Mathematical foundations of the presented approach are stated. Finally we describe software system RiskPanel which is an implementation of our approach.
+     </p>
+   item_keywords: information security, cyber attack, risk management, corporate information system, fuzzy model
+   item_pages: 29–36
+ - doi:
+   link: _7_2011_6
+   udk: "621.391:004.31:519.85"
+   item_authors: "Chichagov A. V."
+   item_name: "Evaluating the Adequacy of DSPs    "
+   item_authors_address: | 
+     <b> A. V. Chichagov </b>, e-mail: mail2tchi@yandex.ru
+   item_annot: |
+     <p> A criterion for evaluating the accuracy of DSPs is proposed. Numerical simulations evaluating the adequacy of Hilbert transform computational models are reported.
+     </p>
+   item_keywords: digital signal processor, DSP, Hilbert transformation, computational model, computational experiment
+   item_pages: 37–45
+---

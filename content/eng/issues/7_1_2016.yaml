@@ -1,0 +1,94 @@
+---
+title: Vol. 7, no 1 2016 year
+content:
+ - doi: 7.3-13
+   link: 7.3-13
+   udk: '004.051; 004.912'
+   item_authors: Vasenin V. A., Roganov V. A., Dzabraev M. D.
+   item_name: Real-Time Analysis of Streaming Data for Presence of Keywords and Key Phrases
+   item_authors_address: '<b>V. A. Vasenin</b>, vasenin@msu.ru, <b>V. A. Roganov</b>, var@msu.ru, Moscow State University, 119234, Moscow, Russian Federation, <b>M. D. Dzabraev</b>, dzabraew@gmail.com, Scientific Research Institute for System, Analysis of the Russian Academy of Science, 117218, Moscow, Russian Federation'
+   item_corr_author: 'Vasenin Valery A., Professor, Moscow State University, 119234, Moscow, Russian Federation, e-mail: vasenin@msu.ru'
+   item_rec_on: 'October 15, 2015'
+   item_acc_on: 'November 5, 2015'
+   item_annot: |
+     <p>In this article are presented the results of the first stage of research. Among them authors proposed the approach to the problem of detecting keywords and key phrases in streaming data. The key moment for solving this problem is the speed of computational kernel of analyzer, which must provide the real-time processing of intensive data streams. In the article are presented the examples of effective algorithms which solve the formulated problem. Most of them are used widely in many areas of data processing. Proposed approach is a kind of optimization of Rabin—Karp algorithm with use of special form of injective hash function and first fit decrease method (FFDM) combined. Additional special preprocessing of keyword list provides speed-up in two and more times comparing to widely used implementation of Commentz—Walter algorithm. The performance of existing CUDA-grep analyzer was evaluated too. The article contains benchmarks results for all considered analyzers. The parallel version of described algorithm is in a development stage. Simple experiment with such kind of algorithm showed that performance > 100 Gbit/s is reachable using single multi-core CPU. CUDA version of proposed analyzer is planned for implementation too.
+     </p>
+   item_keywords: deep packet inspection, DPI, text analyzer, deterministic finite state automata, nondeterministic finite state automata, perfect hash function, CUDA
+   item_pages: 3–13
+   item_comment:
+   item_citation: 'Vasenin V. A., Roganov V. A., Dzabraev M. D. Real-Time Analysis of Streaming Data for Presence of Keywords and Key Phrases, Programmnaya Ingeneria, 2016, vol. 7, no. 1, pp. 3—13.'
+ - doi: 7.14-20
+   link: 7.14-20
+   udk: '004.051; 004.912'
+   item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A.
+   item_name: The Base Technology for Intelligent Services Development with the Use of IACPaaS Cloud Platform. Part 2. Development of Agents and Message Templates
+   item_authors_address: '<b>V. V. Gribova</b>, gribova@iacp.dvo.ru, <b>A. S. Kleschev</b>, kleschev@iacp.dvo.ru, <b>D. A. Krylov</b>, dmalkr@gmail.com, <b>Ph. M. Moskalenko</b>, philipmm@iacp.dvo.ru, <b>V. A. Timchenko</b>, vadim@iacp.dvo.ru, <b>E. A. Shalfeyeva</b>, shalf@iacp.dvo.ru, Federal State Budgetary Institution of Science "Institute for Automation and Control Processes" (Far Eastern Branch of the Russian Academy of Sciences), Vladivostok, 690041, Russian Federation'
+   item_corr_author: 'Moskalenko Philip M., Researcher, Federal State Budgetary Institution of Science "Institute for Automation and Control Processes" (Far Eastern Branch of the Russian Academy of Sciences), Vladivostok, 690041, Russian Federation, e-mail: philipmm@iacp.dvo.ru'
+   item_rec_on: 'August 25, 2015'
+   item_acc_on: 'October 23, 2015'
+   item_annot: |
+     <p>The paper continues a series of works which present a base technology for development of intelligent multi-agent services and their components with the use of system tools of IACPaaS cloud platform. The technology is put to reduce the labour-intensiveness of development and first of all support for intelligent cloud services and proposes involvement of domain experts (without mediators or additional training) in these processes, whose task is to create and maintain information components of platforms' applied services in actual state during their lifecycle. This paper presents a technology for development of agents and message templates for problem solver of an intelligent service.
+     </p>
+   item_keywords: intelligent system, multi-agent system, intelligent software development technology, hierarchical semantic network, agent-oriented programming, cloud platform, cloud service
+   item_pages: 14–20
+   item_comment: |
+     <p>This work was supported by the Russian Foundation for Basic Research, project nos. 13-07-00024, 14-07-00299 and 15-07-03193 and by the Fundamental Scientific Research, Far East program.
+     </p>
+   item_citation: 'Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A. A Base Technology for Intelligent Services Development with the Use of IACPaaS Cloud Platform. Part 2. A Development of Agents and Message Templates, Programmnaya Ingeneria, 2016, vol. 7, no 1, pp. 14—20.'	 
+   item_references: 
+
+ - doi: 7.21-28
+   link: 7.21-28
+   udk: '004.051; 004.912'
+   item_authors: Khleborodov D. S.
+   item_name: Efficient Algorithm of Scalar Point Multiplication on Elliptic Curve Based on NAF-method
+   item_authors_address: '<b>D. S. Khleborodov</b>, dkhleborodov@gmail.com, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation'
+   item_corr_author: 'Khleborodov Denis S., Postgraduate Student, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation, e-mail: dkhleborodov@gmail.com'
+   item_rec_on: October 13, 2015 
+   item_acc_on: October 27, 2015
+   item_annot: |
+     <p>The issue of this paper — efficient algorithms for calculating transformations based on elliptic curves - is a relatively new area of research. Transformations based on elliptic curves are widely used in public-key cryptosystems, and are also used in cryptanalysis of asymmetric ciphers based on integer factorization problem. Efficiency of point scalar multiplication on an elliptic curve defined over the prime fields on the basis of the binary Non-Adjacent Form representation of the scalar was also investigated. To assess effectiveness of the received and previously proposed algorithms the criterion of effectiveness, based on the average computational complexity was introduced. For new algorithms the effective operation in prime field, operations with point (addition and doubling); composite operation "double and add"; scaling operation; affine coordinate system properties; properties of the coordinate system of Jacobi were used. Formulated and proved assertion regarding computational complexity for the proposed algorithm.
+     </p>
+   item_keywords: elliptic curves, ECC, fast algorithms, scalar multiplication, point multiplication, NAF, non-adjacent form
+   item_pages: 21–28
+   item_citation: 'Khleborodov D. S. Efficient Algorithm of Scalar Point Multiplication on Elliptic Curve Based on NAF-method, Programmnaya Ingeneria, 2016, vol. 7, no 1, pp. 21—28.'
+
+ - doi: 7.29-36
+   link: 7.29-36
+   udk: '519.72'
+   item_authors: Kukartsev A. M., Kuznetsov A. A.
+   item_name: About Actions of the Jevons Group on Sets of Binary Vectors and Boolean Functions for Engineering Solutions of Information Processing
+   item_authors_address: '<b>A. M. Kukartsev</b>, amkukarcev@yandex.ru, <b>A. A. Kuznetsov</b>, kuznetsov@sibsau.ru, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation'
+   item_corr_author: 'Kukartsev Anatolii M., Senior Lecturer, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 660014, Russian Federation, e-mail: amkukarcev@yandex.ru'
+   item_rec_on: September 11, 2015 
+   item_acc_on: September 25, 2015
+   item_annot: |
+     <p>Actions of the Jevons group on the set of binary vectors of the Boolean functions allow to build engineering solutions for the submission and processing of information. The materials are a continuation of the article "Constructive representation of the Jevons group for engineering solutions of information processing". In this case information will be presented as a binary vector of length 2n, associated with the Boolean function. The binary vector is a column of values of the Boolean function. This part provides rules for computing and commutating on the set of Boolean vectors and Boolean functions. The notion of equivalent actions (equimorphisms) on the set of Boolean functions is presented. Equimorphisms are allowed to improve significantly the performance of software and hardware implementations. As a result (along with the previous article) we offer a complete mathematical apparatus for converting information by means of elements of the Jevons group. It concludes with recommendations on the use of equimorphisms in real problems' descriptions and solutions. We have developed the library of software functions "domain operations processor" (or dop) based on the rules. The library is licensed under the GNU Lesser General Public License.
+     </p>
+   item_keywords: information representation, the Jevons group, action on the set, binary vectors, Boolean functions, computational tools
+   item_pages: 29–36
+   item_comment: |
+     <p>This work was supported by the Grant of Russian Federation President, project no. MD-3952.2015.9
+     </p>
+   item_citation: 'Kukartsev A. M., Kuznetsov A. A. About Actions of the Jevons Group on Sets of Binary Vectors and Boolean Functions for Engineering Solutions of Information Processing, Programmnaya Ingeneria, 2016, vol. 7, no 1, pp. 29—36.'
+
+ - doi: 7.37-45
+   link: 7.37-45
+   udk: '004.021'
+   item_authors: Efimova O. V., Pirogov S. A., Semenov S. A.
+   item_name: Internet Provider Comparison Algorithm, Based on the Family of ELECTRE Methods
+   item_authors_address: '<b>O. V. Efimova</b>, office-nsk@wellink.ru, <b>S. A. Pirogov</b>, spirogov@wellink.ru, Wellink Technologies Ltd, 630090, Novosibirsk, Russian Federation, <b>S. A. Semenov</b>, office-nsk@wellink.ru, Wellink LLC, 141401, Moscow, Russian Federation'
+   item_corr_author: 'Pirogov Sergey A., CEO, Wellink Technologies Ltd, 630090, Novosibirsk, Russian Federation, e-mail: office-nsk@wellink.ru'
+   item_rec_on: May 29, 2015 
+   item_acc_on: October 19, 2015
+   item_annot: |
+     <p>The number of Internet providers grows rapidly with the improvement of software and equipment used for Internet access. As a result, questions appear about the quality of the services, as well as the possibility of comparing and selecting the most appropriate provider according to users' particular needs and requirements. A multicriteria method for comparing Internet providers is presented in this work. This method is based on a family of ELECTRE methods which were designed to facilitate decision making process having several alternatives, according to several criteria. The following criteria are used to compare providers: 1) speed of data transfer; 2) time, when the measurement of speed is performed; 3) variety of tariff plans. Method allows users to compare any number of providers, taking into account their personal opinion, as well as a set of available measurements. For the latter, criteria weights are calculated according to Simos' procedure, which uses an imaginary set of playing cards. The method of calculating provider ratings is developed and implemented by Wellink LLC and can be used by Internet users to compare different providers in one or several cities. As a result, this program calculates provider ratings and plots them in the form of histograms.
+     </p>
+   item_keywords: method ELECTRE, provider rating, multi-criteria decision making, Simos' procedure, measurement of Internet connection speed
+   item_pages: 37–45
+   item_citation: 'Efimova O. V., Pirogov S. A., Semenov S. A. Internet Provider Comparison Algorithm, Based on the Family of ELECTRE Methods, Programmnaya Ingeneria, 2016, vol. 7, no 1, pp. 37-45'
+ - doi: 
+   link: _7_1_2016_1
+   item_name: 'Итоги работы V Всероссийской конференции с международным участием "Знания—Онтологии—Теории" (ЗОНТ-15)'
+   item_pages: 46–48
+---

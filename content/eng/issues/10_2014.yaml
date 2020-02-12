@@ -1,0 +1,74 @@
+---
+title: Issue N10 2014 year
+content:
+ - doi:
+   link: _10_2014_1
+   udk: "004.4'2; 004.056"
+   item_authors: Vasenin V. A., Pirogov M. V., Chechkin A. V.
+   item_name: Radical Modeling and Engineering of Complex Program System
+   item_authors_address: '<b> V. A. Vasenin</b>, Professor, Head of Department, Lomonosov Moscow State University, e-mail: vasenin@msu.ru, <b> M. V. Pirogov</b>, Engineer, NPO Lavochkin, Moscow, e-mail: pmv_mvp@mail.ru, <b> A. V. Chechkin</b>, Professor, Military Academy by Great Pieter, Moscow, e-mail: A.Chechkin@mail.ru'
+   item_annot: |
+     <p> Discuss issues related to support of complex purposeful hardware-software systems arising at various stages of their life cycle. Despite the fact that there are numerous considerable achievements in this area, and hardware and software solutions are widely used, the state of the area of complex purposeful systems is characterized as unsatisfactory. The key problem of purposeful system is marked out: it is a problem of the information system security ensuring. The aspects of information system security are described. These aspects are the information security and the system safety. The offered approach to ensuring the information system security is an intelligent management based on a new type of modelling called "radical modelling". The conception of radical environment, the special formalism of schemes of radicals ("RADICAL" — universal language of informatics) and the wide use of hardware and software are the basis of radical modelling. The basics of language "RADICAL" are symbolic, geometric, and tabular presentations of schemes of radicals. Goals, resources, conflicts, rules, algorithms, questions, tasks, problem-solving procedures, hardware and software, all significant components of the problem area, their properties and connections, they are all uniformly presented with the schemes of radicals. Radical model describing the process of functioning of the purposeful system has a multilevel structure. The main structural levels of the radical models are discussed. The intelligent management based on the radical model of problem area allows to provide information system security of complex purposeful systems. The offered universal language "RADICAL" is a common information base of purposeful systems modelling. "RADICAL" allows to reach the completeness (redundancy) of presenting the problem area of purposeful systems, which is necessary to solve both standard and non-standard tasks during the life cycle of such systems.
+     </p>
+   item_keywords: complex system, purposeful system, critical system, information system security, intelligent management, radical environment, scheme of radicals, universal language of informatics, "RADICAL", radical modeling, hardware and software, software engineering
+   item_pages: 3–10
+ - doi:
+   link: _10_2014_2
+   udk: "004.41:004.4'2"
+   item_authors: Bukhtiyarov I. V., Zybarev Y. M.
+   item_name: Service-Oriented Environment for Organizing a Virtual Enterprise for the Software Production
+   item_authors_address: '<b> I. V. Bukhtiyarov</b>, Junior Researcher, e-mail: bukhtiyarov_i@mail.ru, <b> Y. M. Zybarev</b>, Deputy Director, e-mail: ymz@sscc.ru, Institute of Computational Mathematics and Mathematical Geophysics of Siberian Branch of the Russian Academy of Sciences, Novosibirsk'
+   item_annot: |
+     <p> The article is devoted to conceptual provisions on the organization of virtual enterprise/virtual team for the software production and the creation a specialized service-oriented informational environment in the Internet/Intranet. This environment provides informational technological and organizational support for joint project activities of virtual expert teams. Specific factors affecting the organization and logistics of considered type production systems are formulated. The functional model of the proposed specialized service-oriented informational environment is described. According to the developed functional model the complex of implemented software and technology solutions is considered in this research. The aim of these solutions is creation of the proposed information environment as a virtual technological platform. Generalized scenario of production and releasing software products in conditions of use of basic platform services is presented. These services provide support for versioning such production objects like source code and documentation files.
+     </p>
+   item_keywords: virtual enterprise, logistics, virtual team, software engineering, software production, project activity, informational environment
+   item_pages: 11–18
+ - doi:
+   link: _10_2014_3
+   udk: '004.925.83'
+   item_authors: Grudinin S. N., Frolovsky V. D.
+   item_name: Development and Comparison of Algorithms of Creation the Virtual Mannequin Parametrized Models Taking into Account the Geometric Form Features
+   item_authors_address: '<b> S. N. Grudinin</b>, Postgraduate Student, e-mail: sn_grudinin@mail.ru, <b> V. D. Frolovsky</b>, Professor, e-mail: frolovsky@asu.cs.nstu.ru, Novosibirsk State Technical University'
+   item_annot: |
+     <p> The paper describes a method of reconstruction and parameterization of three-dimensional mannequin models. The proposed algorithms were developed for the purpose of creation the base model in the virtual mannequin parametric modeling. The initial model is represented by a set of the horizontal equidistant sections which are analyzed to determine the geometric features: the characteristic levels and the characteristic points. The diverse methods for determining features are considered. A resulting surface is based on the resulting features and has the form of the frame (a quadrangular grid structure) which is approximated by the linear Koons surfaces. The research of the influence of different ways of choosing the geometric features on the modeling results is carried out. Evaluation of similarity of the resulting model and the original object is based on the total criterion which includes four metrics calculated on a set of horizontal sections. The proposed parameterization allows deformation of the mannequin base model by changing the position of the characteristic points while preserving inalterability of the framework parameters which are coefficients of the approximating polynominals.
+     </p>
+   item_keywords: a virtual mannequin, a base model, the parametric modeling, the Koons surface, the form features, the criterion of similarity
+   item_pages: 19–26
+ - doi:
+   link: _10_2014_4
+   udk: '004.02'
+   item_authors: Limanova N. I., Serov V. A
+   item_name: Cross-Platform Information-Bibliographic Search Web-Service
+   item_authors_address: '<b> N. I. Limanova</b>, Professor, <b> V. A. Serov</b>, Postgraduate Student, e-mail: serov@rozhdestveno.info, Volga State University of Telecommunications and Informatics, Samara'
+   item_annot: |
+     <p> This article describes the problem of "Mark" programs module application, namely SQL-Internet-version (Windows) by library institutions on their own sites of information, when using third-party hosting services.
+     </p><p>A new method for authors, which uses a database of bibliographic records created automated bibliographic information system Mark-SQL to create cross-platform information-bibliographic search Web-service.
+     </p><p>The proposed method is implemented at the programming language PHP using the database management system MySQL. This enables the use is information-bibliographic search web-service directly on the websites of library institutions located at hostings.
+     </p>
+   item_keywords: web-service, MySQL, PHP, search, bibliography
+   item_pages: 27–32
+ - doi:
+   link: _10_2014_5
+   udk: '511.3, 004.4'
+   item_authors: Astapov I. S., Astapov N. S.
+   item_name: Solving Third- and Fourth-Order Algebraic Equations by Methods of Computer Algebra
+   item_authors_address: '<b> I. S. Astapov</b>, Senior Researcher, Institute of Mechanics Lomonosov Moscow State University, e-mail: velais@imec.msu.ru, <b> N. S. Astapov</b>, Associate Professor, Senior Researcher, Lavrentyev Institute of Hydrodynamics SB RAS, Novosibirsk, e-mail: nika@hydro.nsc.ru'
+   item_annot: |
+     <p> Various methods of expressing the roots of third- and fourth-order algebraic equations as exact functions of the coefficients are analyzed. A special case of a third-order equation or a fourth-order equation resolvent function with three real roots is investigated. In this case Cardano's formulas are difficult to implement accurately, since there is no efficient algorithm for finding the cube roots of a complex number. The trigonometrical (Viete's) formula for the roots is too cumbersome for use in analytical manipulations.
+     </p><p>In some particular cases of additional constraints imposed on the coefficients the roots may sometimes be obtained as from the coefficients with formulas that are much simpler than those in, e. g., software system Mathematica 8.0. Such formulas are proposed in the present paper. These are based on Theorems 2 and 3. Theorem 2 finds the solutions to an infinite set of cubic equation from the solution to a single equation. In Theorem 3 it is proved that a fourth-order equation with complex coefficients can be reduced to a generalized reciprocal equation by linear substitution. This equation can be easily solved in symbolic form. For fourth-order algebraic equation a resolvent function is found in the theorem. The function differs from those found by the conventional methods of solving these equations. Hence, some particular fourth-order equations can be effectively solved. The distribution and multiplicity of real roots of fourth-order equations with real coefficients are completely studied in the paper.
+     </p><p>These results can be used for the creation of computer programs in additions to the programs of solving third- and fourth-order algebraic equations available in conventional software.
+     </p>
+   item_keywords: cubic, fourth-degree equation, Cardano's formula, discriminant, resolvent, computer algebra, software
+   item_pages: 33–41
+ - doi:
+   link: _10_2014_6
+   udk: '004.2, 004.4'
+   item_authors: Lipaev V. V.
+   item_name: 'Cross-Programming Systems for Defense Purposes: through the Pages of the 1970s History'
+   item_authors_address: '<b> V. V. Lipaev</b>, Professor, Senior Scientific Researcher, e-mail: vlip28@mail.ru, Institute for System Programming of the Russian Academy of Sciences, Moscow'
+   item_annot: |
+     <p> The publication contains fragments of history of the cross-programming systems development and usage for creation of the complex control program systems for the multiple defenses. They provided the effective development of the country's weapons systems in conditions of relatively poor quality and insufficient resources of the existing in those years computers.
+     </p>
+   item_keywords: translator, debug, software components, PROMETHEUS technology, design, production, tests, maintenance of programming system YaUZA-6
+   item_pages: 43–48
+---

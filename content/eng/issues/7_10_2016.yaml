@@ -1,0 +1,88 @@
+---
+title: Issue N10 2016 year 
+content:
+ - doi: 7.435-445
+   link: 7.435-445
+   udk: "004.4'416"
+   item_authors: "Vyukova N. I., Galatenko V. A., Samborskij S. V."
+   item_name: "Directive and Automatic Loop Vectorization"
+   item_authors_address: | 
+     <b> N. I. Vyukova</b>, niva@niisi.ras.ru, <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b> S. V. Samborskij</b>, sambor@niisi.ras.ru, Federal State Institution Scientific Research Institute of System Analysis of the Russian Academy of Science, Moscow, 117218, Russian Federation 
+   item_corr_author: " Galatenko Vladimir A., Head of Sector, Federal State Institution Scientific Research Institute of System Analysis of the Russian Academy of Science, Moscow, 117218, Russian Federation, e-mail: galat@niisi.ras.ru"
+   item_rec_on:  July 26, 2016 
+   item_acc_on:  July 29, 2016
+   item_annot: |
+     <p> Nearly all todays computer platforms include Single Instruction Multiple Data (SIMD) extensions. The SIMD model allows for exploiting the data level parallelism present in computationally intensive applications. The auto-vectorization techniques became common in modern compilers. However the compilers ability for auto-vectorization is limited with certain requirements of language standards, lack of information about data dependencies and alignment and other factors. A programmer can assist the compiler by providing explicit vectorization directives with parameters specifying the properties of data and operations essential for the vectorization process. This opens the opportunities for effective vectorization of a much wider spectrum of loops.
+     The purpose of this paper is to evaluate and compare some available implementations of automatic and directive vectorization. The capabilities of automatic vectorization are presented with recent versions of GCC. The facilities of directive vectorization are exemplified with the features of the OpenMP 4.0 standard implemented in GCC and the source-to source vectorizing preprocessor named Scout. We analyze the results of applying the above tools to a number of program loops with various specific features (presence of conditional computations, function calls, noncontiguous memory access, nested loops) and evaluate the advantages and limitations of each tool. In the conclusion an approach to their conjoint usage is proposed.
+     </p>
+   item_keywords: vector extensions, SIMD (Single Instruction Multiple Data), vectorization, explicit vector programming, Scout, OpenMP
+   item_pages: 435–445
+   item_citation: ' Vyukova N. I., Galatenko V. A., Samborskij S. V. Directive and Automatic Loop Vectorization, Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 435—445.'
+ - doi: 7.446-455
+   link: 7.446-455
+   udk: "004.021   "
+   item_authors: "Golosovskiy M. S."
+   item_name: "Model for Estimation Software Development Effort and Duration on Initiation Project Phase"
+   item_authors_address: | 
+     <b> M. S. Golosovskiy</b>, golosovskiy@yandex.ru, Moscow Witte University, Moscow, 115432, Russian Federation 
+   item_corr_author: " Golosovskiy Mikhail S., Project Manager, Moscow Witte University, Moscow, 115432, Russian Federation, e-mail: golosovskiy@yandex.ru"
+   item_rec_on:  July 04, 2016 
+   item_acc_on:  July 21, 2016
+   item_annot: |
+     <p> A number of models exist for estimating software development and duration. The most popular are COCOMO II, COSYSMO, and SLIM. Most of them use a line of codes as input data and do not give interval estimation results. In this article, a model for estimating software development effort and duration on the initiation project phase is proposed. The result which can be reasonably anticipated is based on the criteria outlined in Steven C. Mc-Connells research. The input data for the model, taken from the project charter, contains a description of high level requirements and risks. The input data for the model use fuzzy linguistic variable forms represented by Gaussian combination membership functions. Calculations are based on operations with fuzzy numbers. For the estimation of project duration, a modified Takagi-Sugeno (TSK) fuzzy inference model has been used. TSK models usually have a crisp input and output values. For the modified model, a method for calculating the degree to which fuzzy input belong to fuzzy sets via membership functions has been suggested. In addition, proposed a method for calculating fuzzy output of TSK model. The fuzzy output from the modified TSK model has been used for calculating the cumulative distribution function of the project duration. Finally, a comparison has been made between the proposed model and COCOMO II. It shows that the proposed model is more optimistic in effort estimation than COCOMO II.</p>
+   item_keywords: Sugeno system, fuzzy system, fuzzy variable, fuzzification, COCOMO I, project charter, expert judgments, software development effort, estimate project duration, COSYSMO
+   item_pages: 446–455
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-06-00486. '
+   item_citation: 'Golosovskiy M. S. Model For Estimation Software Development Effort and Duration on Initiation Project Phase, Programmnaya Ingeneria, 2016. vol. 7. no. 10. pp. 446—455'
+ - doi: 7.456-463
+   link: 7.456-463
+   udk: "004.056.57"
+   item_authors: "Zhernakov S. V., Gavrilov G. N."
+   item_name: "Methods of Detection of Malicious Software in Operating Systems for Mobile Devices (for Example, the Android Operating System)"
+   item_authors_address: | 
+     <b> S. V. Zhernakov</b>, zhsviit@mail.ru, <b> G. N. Gavrilov</b>, grigrorijgavrilov@mail.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation 
+   item_rec_on:  May 05, 2016 
+   item_acc_on:  July 22, 2016
+   item_annot: |
+     <p> The results of the analysis of the Android operating system security for mobile devices and the formalization of malware samples in order to identify features inherent in their behavior are presented. Based on the received results, an sample set was developed, describing the behavior of two types of programs: malicious and safe; the best method for classifying this sample was chosen by means of experiments with using different classification methods (classical, neural networks, and support vector machines). The task of improving the efficiency of malware detection was solved using a technique developed for this purpose based on support vector machines and fuzzy logic. This technique is implemented as a research prototype malware detection system.
+     </p>
+   item_keywords: Android, malware, neural networks, support vector machine, odd logic, technique, operating system
+   item_pages: 456–463
+   item_citation: 'Zhernakov S. V., Gavrilov G. N. Methods of Detection of Malicious Software in Operating Systems for Mobile Devices (for Example, the Android Operating System), Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 456—463.'
+ - doi: 7.464-471
+   link: 7.464-471
+   udk: "004.65"
+   item_authors: "Borodin A. M., Mirvoda S. G., Porshnev S. V."
+   item_name: "Database Index Debug Techniques: Application for Corporative Information System"
+   item_authors_address: | 
+     <b> A. M. Borodin</b>, amborodin@acm.org, <b> S. G. Mirvoda</b>, sergey@mirvoda.com, <b> S. V. Porshnev</b>, s.v.porshnev@urfu.ru, Ural Federal University, Yekaterinburg, 620002, Russian Federation 
+   item_corr_author: " Borodin Andrey M., Associate Professor. Ural Federal University. Yekaterinburg. 620002. Russian Federation. e-mail: amborodin@acm.org"
+   item_rec_on:  June 23, 2016
+   item_acc_on:  July 18, 2016
+   item_annot: |
+     <p> Index corruption may lead to serious problems ranging from the temporary system outage to the loss of sensitive data. In this article we discuss the techniques, that we found helpful in assuring the data index consistency during the development of specific indexing algorithms for a multidimensional BI system featuring both OLAP and OLTP aspects.
+     Use of the techniques described in this article from the very beginning of the project development helped to save sufficient resources during the development and debugging.
+     The main purpose of a database is to reliably store data. A database index provides a way of storing data in a specific format for the fast query execution, reducing the usage of crucial resources, such as the disk access, buffer memory, CPU cycles, and cache lines. An index is a data structure and a set of algorithms dealing with the memory hierarchy, concurrent data modification, resources locks, and complex computations on a big amount of data.
+     </p>
+   item_keywords: data, database, index, quality assurance, durability, debug
+   item_pages: 464–471
+   item_citation: 'Borodin A. M., Mirvoda S. G., Porshnev S. V. Database Index Debug Techniques: Application for Corporative Information System, Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 464—471.'
+ - doi: 7.472-480
+   link: 7.472-480
+   udk: "001.89, 004.415.2"
+   item_authors: "Vasenin V. A., Zenzinov A. A., Lunev K. V."
+   item_name: "The Usage of CRIS-systems for the Contest Procedures Automation in Terms of the ISTINA Information System"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, vasenin@msu.ru, <b> A. A. Zenzinov</b>, andrey.zenzinov@gmail.com, Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, <b> K. V. Lunev</b>, kirilllunev@gmail.com, Mechanics and Mathematics Department,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation 
+   item_corr_author: " Zenzinov Andrey A., Junior Research Fellow, Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, e-mail: andrey.zenzinov@gmail.com "
+   item_rec_on:  July 04, 2016
+   item_acc_on:  July 29, 2016
+   item_annot: |
+     <p> CRIS (Current-Research Information Systems) systems are designed for collection, storing and processing information about the scientific and educational activities at multiple levels: from several researchers to the entire organization (university, institute). Information analysis in such systems is usually used for preparation of management decisions aimed at organization efficiency improvement. Conduction of various stimulating contests looks as one of the ap-proaches to stimulate research organizations and universities activity. Procedures automation for each contest both significantly simplifies them and solves a number of administrative problems. For this purpose, it seems convenient to use mechanisms of CRIS-systems, which are widely used in scientific and educational organizations to date.
+     In this paper we present an approach for the automation of the contest procedures. Such approach has been implemented in the ISTINA information system of Lomonosov Moscow State University.
+     </p>
+   item_keywords: CRIS-systems, scientometrics, contests, automation
+   item_pages: 472–480
+   item_citation: Vasenin V. A., Zenzinov A. A., Lunev K. V. The Usage of CRIS-systems for the Contest Procedures Automation in Terms of the ISTINA Information System, Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 472—480.'
+---

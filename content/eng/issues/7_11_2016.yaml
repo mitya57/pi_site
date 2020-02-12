@@ -1,0 +1,107 @@
+---
+title: Issue N11 2016 year 
+content:
+ - doi: 7.483-489
+   link: 7.483-489
+   udk: "004.052"
+   item_authors: "Gvozdev V. E., Blinova D. V., Davlieva A. S., Teslenko V. V."
+   item_name: "Construction of Basic Functioning Efficiency Models of the Hardware-Software Complexes, Based on the Mathematical Statistics Methods"
+   item_authors_address: | 
+     <b> V. E. Gvozdev</b>, wega55@mail.ru, <b> D. V. Blinova</b>, blinova.darya@gmail.com, <b> A. S. Davlieva</b>, aliyasr21@gmail.com, <b> V. V. Teslenko</b>, sltl@yandex.ru, Ufa State Aviation Technical University, Ufa, 450000, Russian Federation 
+   item_corr_author: " Gvozdev Vladimir E., Professor, Ufa State Aviation Technical University, 450000, Ufa, Russian Federation, e-mail: wega55@mail.ru"
+   item_rec_on:  July 01, 2016 
+   item_acc_on:  August 31, 2016
+   item_annot: |
+     <p> An approach to the basic models construction of the functioning efficiency hardware and software systems is considered, taking into account the uncertainty of system components characteristics, which is a development of the well-known Markov analysis apparatus. We discuss the conceptual statement basis of the basic model formation problem, taking into account the statistical uncertainty of the system components, and provide a formal problem statement. The results of computational experiments are provided, corresponding to the case when the statistical uncertainty is taken into account in the form of random variables distribution laws.
+     </p>
+   item_keywords: base model, the hardware-software complex, defect, statistical uncertainty, the functioning efficiency of the object, state graph, mathematical statistics method, the transitions intensity
+   item_pages: 483–489
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-08-00442 '
+   item_citation: ' Gvozdev V. E., Blinova D. V., Davlieva A. S., Teslenko V. V. Construction of Basic Functioning Efficiency Models of the Hardware-Software Complexes, Based on the Mathematical Statistics Methods, Programmnaya Ingeneria, 2016, vol. 7, no 11, pp. 483—489.'
+ - doi: 7.490-497
+   link: 7.490-497
+   udk: "004.738"
+   item_authors: "Asratian R. E."
+   item_name: "Internet Service for Protected Information Queries Processing in Distributed Systems"
+   item_authors_address: | 
+     <b> R. E. Asratian</b>, rea@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation 
+   item_corr_author: " Asratian Ruben E., Leading Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, e-mail: rea@ipu.ru "
+   item_rec_on:  July 06, 2016
+   item_acc_on:  July 13, 2016
+   item_annot: |
+     <p> Principles of organization of a network service, intended for protected queries processing in distributed information systems, are considered. We will call this service "Protected Message Service" (PMS). A distinctive feature of this service is the close integration of authentication and data protection functions with functions of network information exchange. From the client point of view the service architecture is based on two main program classes: "Protected message" and "Network Connection". These classes offer necessary functionality not only for creating and protecting messages, but also for transferring them to remote server via established network connections for processing. Contrary to web-services, based on remote function call model, PMS-service is based on message processing model: all service functions receive object of "Protected message" class as a parameter and return another object of the same class as a result of processing. Main advantages of proposed service include high speed of processing (small overhead for data transmission) and a possibility of debugging both client and server components of system out of the network environment. The experimental implementation of PMS in C# for Microsoft Framework 4.0 and the study of performance of new service (in comparison with web services in.NET architecture) were carried out and the area of its effective application is outlined. This area includes distributed systems in which requirements of high processing rate and information security are considered more important than flexibility in service functions specifications.</p>
+   item_keywords: distributed systems, web-technologies, Internet-technologies, network interactions, data security
+   item_pages: 490–497
+   item_citation: 'Asratian R. E. Internet Service for Protected Information Queries Processing in Distributed Systems, Programmnaya Ingeneria, 2016, vol. 7, no. 11, pp. 490—497.'
+ - doi: 7.498-508
+   link: 7.498-508
+   udk: "004.4"
+   item_authors: "Bourdonov I. B., Kossatchev A. S."
+   item_name: "Graph Learning by Automaton"
+   item_authors_address: | 
+     <b> I. B. Bourdonov</b>, igor@ispras.ru, <b>  A. S. Kossatchev</b>, kos@ispras.ru, Institute for System Programming RAS, Moscow, 109004, Russian Federation
+   item_corr_author: " Bourdonov Igor B., Leading Researcher, Institute for System Programming RAS, 109004, Moscow, Russian Federation, e-mail: igor@ispras.ru"
+   item_rec_on:  July 22, 2016 
+   item_acc_on:  August 22, 2016
+   item_annot: |
+     <p> Graph models of technical objects and processes are used widely in hardware and software dealing with those objects and processes. So, various graph analysis algorithms are important to development of such software.
+     This article is the first one in a series of publications devoted to graph learning algorithms performed by automata. We consider a case of a graph explored by an automaton, which moves through graph edges (according to their orientation in case of directed graph or in any direction in undirected case), can store some data in graph vertices and read them when visiting a vertex later. The edges leading from a vertex are enumerated (such a graph is called an ordered one) and the automaton staying in a vertex specifies the edge number to move on this edge. We study and design algorithms executed by the automaton that performs graph learning or exploration — construction of a path containing all the graph edges, such a path is called a traversal. We provide exploration algorithm complexity estimations, which depend on the type of graph (directed or undirected, with the structure known or unknown at the start of exploration) or the type of automaton used (with various bounds on available resources and operations). Most attention is given to the case of unknown graph, the case of known structure of the graph is investigated to get the estimation of minimal traversal length. For unknown graph we consider irredundant and free automata. Irredundant automaton can execute an operation returning the number of all edges leading from the current vertex, so it can know all the valid edge numbers just after entering a vertex. Free automaton has no such operation; it can only try to use various numbers to move from the current vertex. If there exists an outgoing edge with such a number, the move is successful and the automaton enters the end vertex of this edge; if there are no such outgoing edges, the automaton remains in the current vertex. Automata types can differ by the size of their internal memory: a robot is a finite automaton with bounded memory; an automaton is a semi-robot if its memory size depends on the graph size, however the graph cant be located in automaton memory; an unbounded automaton can store the entire structure of the graph in its internal memory. We also consider different types of exploration: a primary exploration is performed on the graph without any information in its vertices, a secondary exploration is performed on a graph already explored and having some data stored in its vertices.
+     In the next papers we plan to present results concerning algorithms of graph exploration performed by several automata working in parallel. A graph explored can be nondeterministic or even dynamic, changing its structure during the exploration.
+     </p>
+   item_keywords: graph learning, graph exploration, graph traversal, undirected graph, directed graph, labyrinth, ordered graph, numerated graph, unknown graph, automaton, robot
+   item_pages: 498–508
+   item_citation: 'Bourdonov I. B., Kossatchev A. S. Graph Learning by Automaton, Programmnaya Ingeneria, 2016, vol. 7, no 11, pp. 498—508.'
+ - doi: 7.509-514
+   link: 7.509-514
+   udk: "004.02"
+   item_authors: "Malakhov D. A., Serebriakov V. A."
+   item_name: "Methods of OWL Objects Clustering"
+   item_authors_address: | 
+     <b> D. A. Malakhov</b>, 79155155577@ya.ru, <b>  V. A. Serebriakov</b>, serebr@ultimeta.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation 
+   item_corr_author: " Malakhov Dmitriy A., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, e-mail: 79155155577@ya.ru"
+   item_rec_on:  July 20, 2016 
+   item_acc_on:  July 28, 2016
+   item_annot: |
+     <p> This paper is devoted to solving the problem of clustering OWL-objects. The popularity and the relevance of this problem are demonstrated in the article. The solution to the problem is also suitable for tasks such as semantic repository scaling, semantic data visualization and extraction of links between OWL-objects. Existing solutions use links between OWL-objects, but there are several limitations. Therefore, these solutions are not universal. Proposed approach overcomes some of these limitations.
+     Model of S-tag has been introduced in this paper. S-tag allows one to use any thesaurus to add semantics into the classic clustering process. The S-tag clustering algorithm has been introduced here with a demonstration model features. A natural language sentence is the implementation of the S-tag model. Sentences of the OWL-object description can be used as S-tags attached to the OWL-objects. OWL-objects can be distributed across clusters of their S-tags. This approach is suitable when the separation of objects depends on the semantics of OWL-object descriptions.
+     A set of OWL-objects with a small number of links has been clustered as an example of this approach. The clustering of this set makes finding of new links between OWL-objects possible. This set cant be clustered by existing solutions which use links between OWL-objects.
+     It is planned to implement of S- tags and search engine indexing. Algorithms for the qualitative detection and extraction of tags in the text have to be also developed. In addition, there are plans for further studying of the properties of the S-tag model and the possibility of using this model in other areas.
+     </p>
+   item_keywords: ontology clustering, scaling of the semantic storage, S-tag clustering, visualization of ontologies, k-means++, model of S-tag, OWL-object, partition RDF-links
+   item_pages: 509–514
+   item_citation: Malakhov D. A., Serebriakov V. A. Methods of OWL Objects Clustering, Programmnaya Ingeneria, 2016, vol. 7, no. 11, рр. 509—514.'
+ - doi: 7.515-521
+   link: 7.515-521
+   udk: "519.72"
+   item_authors: "Kukartsev A. M."
+   item_name: "On Frequency Characteristics Jevons Group Action on Boolean Functions"
+   item_authors_address: | 
+     <b> A. M. Kukartsev</b>, amkukarcev@yandex.ru, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 6600014, Russian Federation 
+   item_corr_author: " Kukartsev Anatolii M., Senior Lecturer, Siberian State Aerospace University named after academician M. F. Reshetnev, Krasnoyarsk, 6600014, Russian Federation, e-mail: amkukarcev@yandex.ru"
+   item_rec_on:  June 13, 2016
+   item_acc_on:  August 29, 2016
+   item_annot: |
+     <p> Many data processing algorithms are based on statistical methods. Entropy, as the assessment, is characteristic of input and output information objects of such algorithms. Some algorithms use not only entropy but a more detailed assessment — frequencies of symbols. An information object can be created using different alphabets. In particular the object of length 2<sup>n</sup> can be constructed on an alphabet of one, two, four, eight, etc. symbols. Construction of information objects with the same frequency characteristics in all its permissible alphabets simultaneously is a difficult problem. The data in modern computers is presented mostly in binary form. Special coding methods allow you to set an injection of information objects of any length into objects of length 2<sup>n</sup>. With this coding appears a natural bijection between the information object of length 2<sup>n</sup> and a Boolean function. Bit numbers in the binary form are actually arguments of a Boolean function, and bits of the information object are its values. Some transformations of Boolean functions preserve frequency characteristics of theirs information objects. Such transformations of the Boolean function are complements and/or permutations of its arguments. Both sets of acting elements are described by groups of inversion and permutation of variables. Together complements and permutations of arguments are presented by a larger structure — the Jevons group, which is a semi-direct product of these groups.
+     We study the frequency properties of the Jevons group actions on Boolean functions in this article. We prove that frequency characteristics of the information object preserve in all permissible alphabets simultaneously. Also we show that there is a canonical decomposition of any element of the Jevons group. We offer to use these properties for solution of complex mathematical problems related with actions of the Jevons group and it subgroups on the set of Boolean functions. We show methods of creating information objects with the identical and/or equivalent frequency characteristics in all its permissible alphabets simultaneously. The obtained objects can be used for analysis and modification of data processing algorithms.
+     </p>
+   item_keywords: Shannon entropy, action on the set, frequency analysis, the Jevons group, Boolean functions
+   item_pages: 515–521
+   item_comment: ' This work was supported by the Grant of Russian Federation President, project nos. MD-3952.2015.9 '
+   item_citation: 'Kukartsev A. M. On Frequency Characteristics Jevons Group Action on Boolean Functions, Programmnaya Ingeneria, 2016, vol. 7, no. 11, pp. 515—521.'
+ - doi: 7.522-528
+   link: 7.522-528
+   udk: "681.5.015.42"
+   item_authors: "Martirosyan K. V., Martirosyan A. V."
+   item_name: "Distributed Control System Synthesis for Spatially Nonuniform Hydrogeological Objects"
+   item_authors_address: | 
+     <b> K. V. Martirosyan</b>, kv1961@live.ru, <b> A. V. Martirosyan</b>, martalex11@mail.ru, North-Caucasus Federal University, Stavropol, 355009, Russian Federation
+   item_corr_author: " Martirosyan Alexander V., Postgraduate Student, North-Caucasus Federal University, 355009, Stavropol, Russian Federation, e-mail: martalex11@mail.ru"
+   item_rec_on:  June 15, 2016 
+   item_acc_on:  August 25, 2016
+   item_annot: |
+     <p> This article presents an algorithm for simulation of hydrodynamic processes of a complex hydrogeological object. The formulation of the problem of modeling of hydrodynamic processes as the steps of the synthesis of distributed control systems is presented. The control object is described. Mathematical model of an object is also presented. Nagutskoe mineral water field was selected as a control object, and also as the most advanced field of Caucasus Mineral Waters region. Taking possible spatial heterogeneity factors into account will significantly complicate the calculation. However, it is proposed to amend the classical approach of controller synthesis for a hydrogeological object problem formulation. It is proposed to explore the possibility of obtaining more reliable simulation results by providing spillover factor as an array of data that reflects the spatial variation of the value of this coefficient. In the standard modeling of a hydrological object problem formulation the migration coefficient is set separately for each stratum. Thus, earlier the average gain value of migration was used. This means that the spatial variation of migration coefficient was neglected to simplify the model. This study shows that the application of the proposed presentation factor increases the accuracy of simulation and stability of the system, which confirms the feasibility of this solution.
+     </p>
+   item_keywords: control systems, distributed systems, system synthesis, mathematical modeling, models of hydrogeological objects
+   item_pages: 522–528
+   item_citation: ' Martirosyan K. V., Martirosyan A. V. Distributed Control System Synthesis for Spatially Nonuniform Hydrogeological Objects, Programmnaya Ingeneria, 2016, vol. 7, no. 11, pp. 522—528.'
+---

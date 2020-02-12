@@ -1,0 +1,120 @@
+---
+title: Issue N3 2018 year 
+content:
+ - doi: 9.99-108
+   link: 9.99-108
+   udk: "004.02"
+   item_authors: "Kalyanov G. N."
+   item_name: "On the Theory of Business Processes"
+   item_authors_address: | 
+     <b> G. N. Kalyanov</b>, kalyanov@mail.ru, Institute of Control Sciences Russian Academy of Sciences, Moscow, 117997, Russian Federation 
+   item_corr_author: " Kalyanov Georgyi N., Professor, Institute of Control Sciences Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: kalyanov@mail.ru"
+   item_rec_on:  December 14, 2017
+   item_acc_on:  December 21, 2017
+   item_annot: |
+     <p> The current state of the theory of business processes is analyzed. The brief historical background, sources and fundamentals of the theory are classified. For each of these areas a brief overview of the main models and methods is provided.
+     The necessity of forming an independent theory of BP is due to the following reasons:
+     <ul>
+     <li>there are new tasks, not put before and not solved in the general theory of processes (e. g., reengineering BP);</li>
+     <li>the formal apparatus absent in some areas (for example, to convert models to model the requirements for their automation);</li>
+     <li>the other directions have a lot of non-formalized methods and models, there is the need for their systematization.</li>
+     </ul>
+     This article discusses the following parts of the theory:
+     <ul>
+     <li>modeling languages and BP-models,</li>
+     <li>BP modeling technology,</li>
+     <li>methods of structuring/decomposition of BP,</li>
+     <li>methods of engineering/re-engineering of BP,</li>
+     <li>methods of analysis and verification of BP,</li>
+     <li>methods of transition from BP-models to requirements for automation of BP.</li>
+     </ul>
+     The theory of business processes is an integral part of the general theory of processes, which is a branch of mathematical theory of programming, 
+     studying mathematical models of the behavior of dynamical systems.
+     The formal apparatus underlying the theory of BP was based on the theory of programming: formal grammar and languages; parallel processes and methods of paralleling; the theory of software testing; methods of optimization, verification, analysis and evaluation of quality; the theory of databases and knowledge bases; structural and object-oriented analysis and design etc..</p>
+   item_keywords: process, business process, model, verification, engineering /reengineering, requirements to automation
+   item_pages: 99–108
+   item_citation: 'Kalyanov G. N. On the Theory of Business Processes, Programmnaya Ingeneria, 2018, vol. 9, no. 3, pp. 99—108.'
+ - doi: 9.109-122
+   link: 9.109-122
+   udk: "681.5:519.7:519.767.4:004.58:004.823:811.93:007.51"
+   item_authors: "Stepanov M. F., Stepanov A. M."
+   item_name: "Adaptive User Interface For Computer-Aided Control System Design"
+   item_authors_address: | 
+     <b> M. F. Stepanov</b>, mfstepanov@mail.ru, Institute of Electrical and Mechanical Engineering of Yury Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation, <b> A. M. Stepanov</b>, amstepanov@mail.ru, Institute of Precision Mechanics and Control of Russian Academy of Sciences, Saratov, 410028, Russian Federation
+   item_corr_author: " Stepanov Mikhail F., Professor, Institute of Electrical and Mechanical Engineering of Yury Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation, E-mail: mfstepanov@mail.ru "
+   item_rec_on:  November 21, 2017 
+   item_acc_on:  January 09, 2018
+   item_annot: |
+     <p> The problem of the variety of various types and forms of mathematical models of control systems components is considered. This problem creates additional difficulties in the development of open systems for automation of control tasks. The aim of the work is to develop a method and means for implementing the openness of automation systems for solving problems, both in the types of mathematical models used and in the composition of the set of design operations used in solving problems. We will achieve this goal through the implementation of an adaptive interface that automatically adjusts to tasks, types of mathematical models using user-preferred designations.
+     For achievement of a goal, we need to solve the following tasks:
+     <ol>
+     <li>developing a declarative representation of mathematical models of control theory concepts;</li>
+     <li>developing universal dynamic data structures of the internal representation of mathematical models;</li>
+     <li>developing a procedural means for interpreting the internal representation of mathematical models, including the automatic creation of the user interface.</li>
+     </ol>
+     An approach to solving the problem is proposed based on the principle of separating the declarative description of mathematical models of the components of control systems and their procedural interpretation. The basis of the approach is a model of a formalized representation of knowledge of the subject domain of automatic control in the form of a triad of "predmets — actions — relations". The predmets represent models of concepts of control theory, the actions are operations on them, and the relations determine the connections between them, set requirements for the results of solving problems. The declarative component of the model uses the frame representation of knowledge. To describe the components of the knowledge representation model used, the formal INSTRUMENT-P language was developed. The procedural component complements the description of actions and relations by software implementation in the form of functions of the traditional programming language.
+     In the GAMMA-3 system, to provide flexibility, automatic adjustment (adaptability) of the user interface, universal dynamic structures of the internal data representation are developed in the form of a system of interconnected classes of the C++ language. Their formation is performed automatically by the built-in translator according to the descriptions given by the user in the INSTRUMENT-P language. Thanks to this, the user helps the system to adapt the human-machine interface to its own preferences. Essentially, based on a user-defined declarative description, the system determines the users preferences by the classes of tasks to be solved, the types of mathematical models of the control system components used, taking into account the preferred designations.
+     Particularly it should be noted that it is possible to specify a mathematical representation of mathematical models for subsequent display on the screen forms of the user interface. For this goal we use a record of mathematical expressions in the language of LaTeX, for which a special translator is designed.
+     Next, the user interface is created automatically. Thus, the proposed approach makes it possible to realize the adaptability of the user interface, as well as the openness of the GAMMA-3 system to extensions. This is done through the automated connection to the system of dynamic load libraries, including software implementations of new design operations (actions) of the control theory domain model to enable the solution of new tasks.
+     Further work is aimed at simplifying the creation of new design operations. The user does not need to access the software development tools. In the further based on algorithm set by the user, creation of the software of design operations will be carried out by means of system GAMMA-3.
+     The idea of creation of the computer-aided control system design software for engineers-designers belongs to Professor Albert Georgievich Aleksandrov, the Great Teacher and the Person. Grateful disciples conduct researches in the given direction now. To memory of the professor Aleksandrovs it is devoted.
+     </p>
+   item_keywords: computer-aided control system design, presentation of data and knowledge, linguistic data providing, automatic creation of user interface
+   item_pages: 109–122
+   item_comment: ' Work is executed at support of the Russian Foundation for Basic Research (RFBR) (projects 13-07-00647, 15-07-99684)'
+   item_citation: ' Stepanov M. F., Stepanov A. M. Adaptive User Interface For Computer-Aided Control System Design, Programmnaya Ingeneria, 2018, vol. 9, no. 3, pp. 109—122.'
+ - doi: 9.123-131
+   link: 9.123-131
+   udk: "004.75"
+   item_authors: "Potapov V. P., Popov S. E., Oshchepkov A. Ju."
+   item_name: "Storage and Data Handling Multi and Hyperspectral Satellite Images based on Apache Parquet"
+   item_authors_address: | 
+     <b>V. P. Potapov</b>, potapov@ict.sbras.ru, <b>S. E. Popov</b>, popov@ict.sbras.ru, <b>A. Ju. Oshchepkov</b>, aosivt@gmail.com, Institute of Computational Technologies SB RAS, Novosibirsk, 630090, Russian Federation
+   item_corr_author: " Popov Semion E., Chief Scientist, Institute of Computational Technologies SB RAS, Novosibirsk, 630090, Russian Federation, E-mail: popov@ict.sbras.ru "
+   item_rec_on:  December 15, 2017 
+   item_acc_on:  January 12, 2018
+   item_annot: |
+     <p> The article describes ways storing and processing the satellite spectral imaging data by means of distributed computing systems included in the Apache Hadoop. The review of different works devoted to the distributed processing of such data shows that improvement of the performance is achieving by the build-up or extending hardware parts of the computing cluster.
+     The distinctive feature of the proposed approach is the way of storing the spectral images data in the Parquet-file format. It shows that a columnar disposition of the data provides an access to different pieces of the image pixel values like to the record in the database, avoiding the whole image loading into CPU memory. Besides, it retains the way of the parallel image processing by the per-pixel manner.
+     The authors have made a comparative analysis of the storage formats for the spectral images, such as JSON, XML, sequence-file, Apache Avro, Apache Parquet. Which is consists from the following steps: the data extraction from Parquet-file, the data conversion to the Spark or Flink Dataset, the computing of the normalized vegetation index, and includes the process of the result data iterating and saving them to the HDFS.
+     The stress tests have been accomplished on the hybrid frameworks of the Apache Hadoop ecosystem. The Apache Spark API has been chosen as the preferable spectral images processor by the reason of the native input/output methods for the Parquet-file and lesser load to the cluster hardware.
+     In conclusion, authors demonstrate the calculating of the normalized vegetation index (NDVI) on the example of two images of the spacecraft missions (Resource-P and Sentinel-1A) based on the Apache Spark and the Apache Flink frameworks for the auditing and confirmation that the choice of the technology described in the work was correct.
+     </p>
+   item_keywords:  Apache Parquet, Apache Spark, Apache Flink, Java, GDAL, distributed information systems, remote sensing data, spectral satellite images
+   item_pages: 123–131
+   item_citation: ' Potapov V. P., Popov S. E., Oshchepkov A. Ju. Storage and Data Handling Multi and Hyperspectral Satellite Images based on Apache Parquet, Programmnaya Ingeneria, 2018, vol. 9., no 3, pp. 123—131.
+'
+ - doi: 9.132-139
+   link: 9.132-139
+   udk: "004.422"
+   item_authors: "Makhortov S. D., Kleymenov I. V."
+   item_name: "A Mobile Application for Frequency Recognition and Fetching Notes from Acoustic Signal"
+   item_authors_address: | 
+     <b> S. D. Makhortov</b>, msd_exp@outlook.com, <b> I. V. Kleymenov</b>, alenor96@gmail.com, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: " Makhortov Sergey D., Professor, Head of Department, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: msd_exp@outlook.com"
+   item_rec_on:  December 15, 2017 
+   item_acc_on:  December 27, 2017
+   item_annot: |
+     <p>This article describes common approaches to frequency and notes recognition on mobile devices and demonstrates advantages of YIN algorithm for solving this problem. Considering the fact that mobile devices have less memory and less processor power, it is important to find a solution that allows performing computation with low resource requirement. In addition, for proper musical notes fetching the fast run-time environment is needed. Usually Fast Fourier Transformation is used for solving this problem but it has to perform many difficult mathematic operations that may take a lot of time. This article proves practicability of using a different method — YIN algorithm. The YIN was invented by Alain de Cheveigne and Hideki Kawahara in 2002 as an alternative to well-known methods such as Fast Fourier Transformation (FFT). This algorithm is based on autocorrelation method with several essential improvements which makes it possible to decrease error probability in acoustic signal processing. As at the moment of writing there are no applications for Android OS that could reliably perform frequency to notes transformation with following music sheet creation, an attempt was made to develop such an application. This paper describes application architecture and provides detail about the responsibility of each module. Article presents comparison of YIN and FFT algorithms based on speed that was measured on an Android device with multiple input acoustic signal configurations. These results prove the practicability of YIN usage as it provides faster calculation with less memory resource consumption. </p>
+   item_keywords: frequency spectrum, YIN, acoustic signal, notes recognition, mobile application
+   item_pages: 132–139
+   item_citation: 'Makhortov S. D., Kleymenov I. V. A Mobile Application for Frequency Recognition and Fetching Notes from Acoustic Signal, Programmnaya Ingeneria, 2018, vol. 9, no. 3, pp. 132—139.'
+ - doi: 9.140-144
+   link: 9.140-144
+   udk: "004.932.4"
+   item_authors: "Sverdlov S. Z."
+   item_name: "Automatic Sharpness Adjustion when Reducing Digital Images"
+   item_authors_address: | 
+     <b> S. Z. Sverdlov</b>, c3c@uni-vologda.ac.ru, Vologda State University, Vologda, 160600, Russian Federation 
+   item_corr_author: " Sverdlov Sergey Z., Associate Professor, Vologda State University, Vologda, 160600, Russian Federation. E-mail: c3c@uni-vologda.ac.ru"
+   item_rec_on:  January 8, 2018 
+   item_acc_on:  January 15, 2018
+   item_annot: |
+     <p> When you reduce raster digital images, you need a sharpening effect. When processing a series of photos (for example, using Actions in Adobe Photoshop), setting the sharpness manually for each photo reduces the responsiveness of the work. Setting the fixed gain of sharpness for all photos in the series does not allow to take the features of each picture into account. In this connection, there is a need for an algorithm that automatically selects the level of sharpening and takes into account the specific features of a particular photograph.
+     The limitation of sharpening is the appearance of artifacts that manifest themselves in the form of dark and light haloes, visual thickening of fine lines, the appearance of very light and very dark dots. With sharpening, pixels that are darker than their surroundings become even darker, those that are lighter than surrounding pixels become lighter. This can lead to the fact that the color of the pixels after the conversion, associated with the sharpening, goes beyond the color gamut. When exiting for gamut, clipping algorithms come into play, which can distort the color tone of the pixels, lead to the fusion of different colors. Such distortions manifest themselves as unacceptable artifacts of sharpening.
+     The presented algorithm for automatic adjustment of the sharpness of raster digital images is based on limiting the level of artifacts that occur when the color leaves behind the gamut of the color space. To select the sharpness adjustment parameter, a cubic approximation is used for the dependence of the proportion of the color values beyond the coverage on the gamut.
+     </p>
+   item_keywords: Image processing, digital photo, resize, raster graphics, software, plug-ins, sharpness
+   item_pages: 140–144
+   item_citation: 'Sverdlov S. Z. Automatic Sharpness Adjustion when Reducing Digital Images, Programmnaya Ingeneria, 2018, vol. 9, no. 3, pp. 140—144.'
+---

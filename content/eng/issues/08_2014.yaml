@@ -1,0 +1,79 @@
+---
+title: Issue N8 2014 year
+content:
+ - doi:
+   link: _8_2014_1
+   udk: "004.4'42"
+   item_authors: Pilipenko A. V., Pliss O. A.
+   item_name: Method Reachability Analysis and Selective Class Initialization for Java Programs
+   item_authors_address: '<b> A. V. Pilipenko</b>, Postgraduate Student, SPbSU, e-mail: artur.pilipenko@gmail.com, <b> O. A. Pliss</b>, Principal Member of Technical Staff, Oralce, Santa Clara, USA, e-mail: oleg.pliss@gmail.com'
+   item_annot: |
+     <p> Method reachability analysis during Java program romization is considered. Eager class initialization is one of the romization optimizations. Class initialization in Java involve execution of class initializers. Execution of class initializers may create objects which affect methods reachability. Standard analysis algorithms don't take these objects into account. We propose method reachability analysis algorithm which selectively initializes classes and takes objects created by class initializers into consideration.
+     </p><p>This algorithm is based on Rapid Type Analysis (RTA) algorithm. RTA algorithm keeps track of classes which could be instantiated by reachable methods. Instantiable classes set is used to determine which methods could be invoked by virtual and interface calls. The proposed algorithm also keeps track of classes which could be initialized by reachable methods. Not all of these classes could be initialized at romization stage. Eager initialization of some classes may affect application behavior. Simple euristic is used to choose safe to initialize classses.
+     </p><p>All the objects which remain reachable after class initialization considered reachable for the application. These objects could be used for virtual and interface calls. Therefore classes of reachable objects are included to the set of instantiable classes.
+     </p>
+   item_keywords: Java, virtual machine, romization, class initialization, method reachability analysis, indirect invocations
+   item_pages: 3–8
+ - doi:
+   link: _8_2014_2
+   udk: '621.039.58'
+   item_authors: Fedotov V. A., Gulina O. M.
+   item_name: Development of Decision Support System on the Prediction of the Life of NPP Equipment under Erosion-Corrosion Conditions
+   item_authors_address: '<b> V. A. Fedotov</b> <sup> 1, 2</sup>, Postgraduate Student, System Maintenance Team Leader of the IT department, e-mail: workstudio@yandex.ru, <b> O. M. Gulina</b> <sup>2</sup>, Professor, e-mail: olga@iate.obninsk.ru<br><sup>1</sup>National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) Institute of Nuclear Power Engineering, Obninsk<br><sup>2</sup>JSC "Instrumental plant "Signal", Obninsk '
+   item_annot: |
+     <p> Ensuring of safe and reliable operation of nuclear power plants equipment must be based on making decisions on risk management throughout its life cycle.
+     </p><p>The pipeline system of power units, working in conditions of flow-accelerated corrosion (FAC), significantly affects the quality, cost and safety of the nuclear power station in whole.
+     </p><p>On this point reliable and long-term practice of observations, as well as application of sophisticated mathematical methods of forecasting, based on physical or empirical models of the investigated process is important.
+     </p><p>In this regard there is an urgent need for creation of Russian analytical software with a common structured database of performance characteristics conducting reliable calculation of FAC process intensity as well as determining the residual life of equipment elements.
+     </p><p>Such computer system should not concede to analogues in the possibilities of ergonomics and process orientation, but should take into account the specifics of Russian nuclear industry and experience of research in the field of designing analytical models for the prediction of the equipment life.
+     </p><p>The article is devoted to the description of scientific and practical researches on creation of decision support system on the management of the life of NPP equipment.
+     </p><p>The test model of the application solves the tasks of regular pipes wall thickness control data collection and storage mathematical prediction of the FAC speed and determination of residual life of nuclear power plant pipelines elements.
+     </p><p>The system is intended primarily for the personnel of the nuclear power station, so it is developed with use of modern algorithmic and software tools to ensure a safe and comfortable work with a common database in the mode of "one window".
+     </p>
+   item_keywords: automated system, nuclear power plant, data base, standard, interface, lifetime, piping, flow-accelerated corrosion
+   item_pages: 9–16
+ - doi:
+   link: _8_2014_3
+   udk: '519.612'
+   item_authors: Ivanova K. F.
+   item_name: Angular Solutions ISLAE of a High Order on the Basis of a Sign Technique
+   item_authors_address: '<b> K. F. Ivanova</b>, Saint-Petersburg State University, e-mail: klara.i2010@yandex.ru '
+   item_annot: |
+     <p> The work purpose is the estimation of an error of the solution of interval system of the linear algebraic equations (ISLAE) with interval factors of matrixes and components of the right parts in a narrow interval of their change on a basis of a "sign technique". The specialized algorithm is designed, allowing to find estimations of angular vectors of the solution of the formalized point systems, similar to results of "external" estimation of set of solutions ISLAE in interval algebra. The technique of the algebraic approach to the solution of systems of a different order is theoretically proved and is confirmed by numerical examples, in what degree quantitative uncertainty of the initial information makes qualitative impact on the solution.
+     </p>
+   item_keywords: '"sign" technique, angular a vector, "external" estimation, point systems, set of solutions'
+   item_pages: 17–22
+ - doi:
+   link: _8_2014_4
+   udk: '510.22/519.61'
+   item_authors: Vorontsov Y. A., Matveev M. G.
+   item_authors_address: '<b> Y. A. Vorontsov</b>, Postgraduate Student, e-mail: voroncov_ya@sc.vsu.ru,<b> M. G. Matveev</b>, Professor, Head of Chair, e-mail: mgmatveev@yandex.ru, Voronezh State University'
+   item_name: L-transform Based Algebraic Operations on fuzzy LR-numbers
+   item_annot: |
+     <p> This paper proposes fuzzy calculations technique which is based on L-transform of α-cuts of fuzzy numbers. It covers the properties of the transform in order to demonstrate applicability of L-transform for fuzzy problems which are solved as a union of crisp problems on each predefined α-level. The paper also introduces an algebra for modified fuzzy numbers and proves the properties of basic algebraic operations, neutral and inverse elements of modified fuzzy numbers set. Usage of these operations is illustrated through some examples. The results of the research show that the proposed L-transform for triangular fuzzy numbers allows to overcome drawbacks of existing algebras of LR-numbers. The transform itself is proven to be a general case of existing methods of selection of point valuation on -cuts. Since the set K of L-transform results is viewed as a linear space, it allows the further development of L-transform-based calculations for fuzzy numbers in perspective.
+     </p>
+   item_keywords: fuzzy parameters, α-cut, L-transform, algebra of fuzzy numbers, point valuations, modified fuzzy numbers
+   item_pages: 23–29
+ - doi:
+   link: _8_2014_5
+   udk: '004.912'
+   item_authors: Lunev K. V.
+   item_name: Measuring Semantic Similarity between Two Sentences
+   item_authors_address: '<b> K. V. Lunev</b>, Student, Programmer, Lomonosov Moscow State University, e-mail: kirilllunev@gmail.com'
+   item_annot: |
+     <p> In this paper the results of initial researches on retrievals of models, algorithms and software tools of the determination of the semantic similarity of two sentences are presented. These results can be used by search engines for outputting more relevant content, and also in solving the problems of clustering, generalization, text indexing and many others. As it is supposed by the author in the paper, sentences can be divided into three parts, each of these parts is the definition of a fact, to be exact: what happened, where and when. The algorithm of the division into these parts is not considered in this stage of the research. The author proposes the metrics, on the basis of which the semantic similarity of the parts of sentences is determined. The data of this semantic similarity are used for the searching the semantic similarity the whole sentences. For this purpose the semantic net WordNet, the search engine Yandex, the Geocoding API and proper algorithms are used.
+     </p>
+   item_keywords: natural language processing, sentence semantic similarity, algorithms, search engine, geocoding
+   item_pages: 30–39
+ - doi:
+   link: _8_2014_6
+   udk: '629.73.02; 629.73.05/.06; 535.643'
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_name: "Research of Properties of an Assessment of the Resolution of Grassmann's Transformation in Chromaticity Coding Systems, Applied in Avionic Equipment"
+   item_authors_address:  '<b>I. O. Zharinov</b>, Assistant Professor, Chef of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO); Chef of learning-scientists center, SPb Scientific Design Bureau "Electroavtomatica" n.a. P. A. Efimova, e-mail: igor_rabota@pisem.net, <b>O. O. Zharinov</b>, Assistant Professor, Saint-Petersburg state university of aerospace equipment'
+   item_annot: |
+     <p> Research of properties of an assessment of the resolution of Grassmann's transformation in order to motivate a choice of metrological characteristics (resolution ability) of colorimeters, used in experiments with color displays, where coding systems of RGB and XY formats are implemented, is considered. An analytical expression, which refers to the assessment value of the resolution of Grassmann's transformation, suitable for various standards of combining of basic colors (red, green, blue) and for various systems of white balance evaluation in according to recommendations of International Commission on Illumination, is proposed. The assessment of the resolution value is obtaining through calculation of minimal value among augmentations, appearing in every coordinate on XY-chromaticity plane, when RGB code components incremented by any presumed value of Δ. Histograms of assessment values distribution, obtained by numerical calculation procedure for Δ = 1 and Δ = 5, are shown. Tables with minimal and maximal values of assessment are presented. There was established, that resolution ability of modern colorimeters can't allow proper differentiation of major part of chromaticity coordinates assessments. Set of characteristics, establishing relations between value of fraction (ranging from 0 to 100 %) of chromaticity coordinates augmentations on XY-plane, which may be correctly measured by colorimeter, out of total quantity of non-zero augmentations, with chromaticity coordinates resolution value of given colorimeter 0,0001 ≤ h ≤ 0,01, for various incrementation steps 1 ≤ Δ ≤10, separately for horizontal, vertical and diagonal augmentation values
+     </p>
+   item_keywords: "Grassmann's transformation, chromaticity coordinates, assessment of the resolution ability, histogram, operating characteristics of chromaticity coordinates resolution"
+   item_pages: 40–47
+---

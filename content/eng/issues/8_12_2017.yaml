@@ -1,0 +1,73 @@
+---
+title: Issue N12 2017 year 
+content:
+ - doi: 8.531-542
+   link: 8.531-542
+   udk: "004.272.45, 004.031.6, 004.4’233"
+   item_authors: "Elizarov S. G., Lukyanchenko G. A., Markov D. S., Roganov V. A."
+   item_name: "Debugging Software for Multi-Core Processors"
+   item_authors_address: | 
+     <b> S. G. Elizarov</b>, elizarov@physics.msu.ru, <b>  G. A. Lukyanchenko</b>, egorxe@yandex.ru, <b> D. S. Markov</b>, markovds@maltsystem.com, <b> V. A. Roganov</b>, radug-a@ya.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Roganov Vladimir A., Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: radug-a@ya.ru"
+   item_rec_on:  September 18, 2017 
+   item_acc_on:  October 04, 2017
+   item_annot: |
+     <p> In this article we discuss our experience in designing a set of debugging tools for a novel many-core CPU consisting of hundreds of computational cores communicating with each other asynchronously. We describe an approach based on which we have created an emulator, debugger and profiler for such many-core system. As a base of this softwaretoolset we’ve used standard open source debugging and profiling software created for use in traditional programming environment. The main reason of debugging software complexity for many-core architectures is that all interactions between computational cores of the CPU (synchronization, data exchange, etc.) take place deeply inside the chip, so they cannot be intercepted using classical techniques designed for traditional single- and multi-core CPUs. Execution interception in many-core systems on a chip is complicated even more by lack of access to IO ports from the most of computational cores. This fact complexifies implementation of even the simplest debug methods (printing to console, for example) on such systems. In this article we suggest several methods which allowed us to create debugging tools taking into account physical parallelism on all execution levels. We demonstrate how applying these methods allows us to localize bugs on all software levels and to optimize system performance. In the article we advert to practical aspects of using standard open source software for debugging and performance profiling of parallel software made for prospective many-core processors.
+     </p>
+   item_keywords: debugging technologies, many-core processors, systems on a chip, hardware emulators, profiling tools
+   item_pages: 531–542
+   item_citation: ' Elizarov S. G., Lukyanchenko G. A., Markov D. S., Roganov V. A. Debugging Software for Multi-Core Processors, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 531—542.'
+ - doi: 8.543-555
+   link: 8.543-555
+   udk: "519.685.4"
+   item_authors: "Sokolov A. P., Pershin A. Yu."
+   item_name: "Software Tools for Development of Input Data Subsystems of Computer-Aided Engineering Complexes"
+   item_authors_address: | 
+     <b> A. P. Sokolov</b>, e-mail: alsokolo@bmstu.ru, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation, <b>  A. Yu. Pershin</b>, e-mail: tony.pershin@gmail.com, mmap@leeds.ac.uk, University of Leeds, Leeds, LS2 9JT, United Kingdom
+   item_corr_author: "Sokolov Alexandr P., Associate Professor, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation, E-mail: alsokolo@bmstu.ru"
+   item_rec_on:  August 08, 2017 
+   item_acc_on:  September 21, 2017
+   item_annot: |
+     <p> A software approach to the development of subsystems for initial data input for systems of computer-aided engineering (CAE) is presented. Proposed approach is based on usage of specialized text data format named aINI, its parser and corresponding graphical user interface (GUI) generators. Graphical user interface generators and alNI-parsers were developed for various platforms using C++ and Python. The approach allows one to make changes to the requirements for the list and types of input data of a wide class of engineering tasks at any stage of development of the corresponding software without the need to change the source code, which significantly speeds up the development process. The proposed approach was implemented in software Distributed Computational System GCD in its subsystem for initial data input. Some ideas implemented in the presented approach are borrowed from the field of development of large distributed industrial software systems (ERP). The reason for creating the approach was the need to simplify, standardize and systematize the processes of software development which are required in framework of numerous research and development (R&D) projects and applied science research carrying out by the authors at the Bauman Moscow State Technical University in the field of mathematical modeling of various physical processes. Examples of dynamically generated graphical user interfaces for defining initial data for a series of computational tasks are presented. The effectiveness of the approach is confirmed by the examples of successfully implemented series of applied research and development projects based on use of Distributed Computational System GCD.
+     </p>
+   item_keywords: software development, initials input subsystems, dynamic and adaptive graphical user interfaces, automation of data entry processes, parsers, text data interpretation, technologies for the development of computer-aided engineering systems, distributed software systems, model-view controller
+   item_pages: 543–555
+   item_citation: 'Sokolov A. P., Pershin A. Yu. Software Tools for Development of Input Data Subsystems of Computer-Aided Engineering Complexes, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 543—555.'
+ - doi: 8.556-562
+   link: 8.556-562
+   udk: "004.4"
+   item_authors: "Kozitsin A. S., Afonin S. A."
+   item_name: "The Resolution of Ambiguities in the Identification of Authors of the Publication with the Use of Co-Authors' Graphs in Large Collections of Bibliographic Data"
+   item_authors_address: | 
+     <b> A. S. Kozitsin</b>, alexanderkz@mail.ru, <b> S. A. Afonin</b>, serg@msu.ru, Lomonosov Moscow State University, Moscow, 117223, Russian Federation 
+   item_corr_author: " Kozitsin Alexander S., Researcher, Lomonosov Moscow State University, Moscow, 117223, Russian Federation, E-mail: alexanderkz@mail.ru "
+   item_rec_on:  July 18, 2017  
+   item_acc_on:  August 02, 2017
+   item_annot: |
+     <p> This article addresses problems related to automated processing of bibliographic data in scientometric systems by means of statistical analysis of large collections of such data. Experimental results on authors identification in bibliographic data are based on the data set presented in ISTINA, a scientometric information system developed and deployed at Moscow State University. The new algorithm for authors identification, presented in this paper, shows 95 % accuracy on the considered data set. Utilization of this algorithm improves the quality of data entered into the system, thus leading to a more reliable scientometric characteristics of individual researchers and administrative units. The paper also discusses possible approaches to some related practically important problems, such as thematic search and classification of publications using coauthoring graph and thematic classification of scientific journals. Automatic discovery of researchers topics of interest allows for on-demand generation of various documents suitable for decision making in specific research areas and could be useful for supplying system users with information on relevant journals or upcoming scientific events.
+     </p>
+   item_keywords: succometrics, detection of regularities, bibliographic data, graph, citation, author, thematic analysis
+   item_pages: 556–562
+   item_citation: "Kozitsin A. S., Afonin S. A. The Resolution of Ambiguities in the Identification of Authors of the Publication with the Use of Co-Authors' Graphs in Large Collections of Bibliographic Data, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 556—562."
+ - doi: 8.563-574
+   link: 8.563-574
+   udk: "532.517"
+   item_authors: "Lushchik V. G., Makarova M. S., Yakubenko A. E."
+   item_name: "Application of the Three-Parameter Model of Shear Turbulence for Solving Problems of External Flowing on Permeable Surfaces by a Compressible Gas Flow"
+   item_authors_address: | 
+     <b> V. G. Lushchik</b>, vgl_41@mail.u, <b> M. S. Makarova</b>, april27_86@mail.ru, <b> A. E. Yakubenko</b>, yakub@imec.msu.ru, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation
+   item_corr_author: " Makarova Mariia S., Researcher, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation, E-mail: april27_86@mail.ru "
+   item_rec_on:  September 27, 2017
+   item_acc_on:  October 09, 2017
+   item_annot: |
+     <p> In this paper, a technique for numerical investigation of problems of external flowing on permeable surfaces by compressible gas flows using a differential three-parameter model of shear turbulence is described. The results of numerous studies using the proposed technique are presented, one of the goals of that presentation is the verification of this method.
+     </p>
+   item_keywords: differential turbulence model, compressible boundary layer, laminar-turbulent transition, gas injection (suction), pressure gradient, turbulent Prandtl number
+   item_pages: 563–574
+   item_comment: 'This work was supported by Russian Foundation for Basic Research (project no 17-08-00115) and the Grant Council of the President of the Russian Federation (MK-6025.2016.8). '
+   item_citation: 'Lushchik V. G., Makarova M. S., Yakubenko A. E. Application of the Three-Parameter Model of Shear Turbulence for Solving Problems of External Flowing on Permeable Surfaces by a Compressible Gas Flow, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 563—574.'
+ - doi:
+   link: 8.575-576
+   item_name: "Index of Articles Published in the Journal 'Software Engineering' in 2017"
+   item_pages: 575–576
+---

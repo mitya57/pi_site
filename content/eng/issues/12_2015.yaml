@@ -1,0 +1,66 @@
+---
+title: Issue N12 2015 year
+content:
+ - doi:
+   link: _12_2015_1
+   item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A.
+   item_authors_address: '<b>V. V. Gribova</b>, Research Deputy Director, e-mail: gribova@iacp.dvo.ru, <b>A. S. Kleschev</b>, Leading Researcher, e-mail: kleschev@iacp.dvo.ru, <b>D. A. Krylov</b>, Leading Software-Engineer, e-mail: dmalkr@gmail.com, <b>Ph. M. Moskalenko</b>, Researcher, e-mail: philipmm@iacp.dvo.ru, <b>V. A. Timchenko</b>, Researcher, e-mail: vadim@iacp.dvo.ru, <b>E. A. Shalfeyeva</b>, Senior Researcher, e-mail: shalf@iacp.dvo.ru, Institute for Automation and Control Processes, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok'
+   item_name: A Base Technology for Development of Intelligent Services with the Use of IACPaaS Cloud Platform. Part 1. A Development of Knowledge Base and Problem Solver
+   item_annot: |
+     <p>The paper opens a series of three works which describe a base technology for development of intelligent multi-agent cloud services and their components with the use of system tools of IACPaaS platform. The technology is put to reduce the labour-intensiveness of development and support for intelligent services and proposes involvement of domain experts (without mediators or additional training) in these processes, whose task is to create and maintain information components of platforms' applied services in actual state during their lifecycle. This first part presents a description of conceptual architecture of IACPaaS platform (system, fund, services, and management); a definition of intelligent service and a description of its assembly with the use of software and program components; a technology for development of an information resource (ontology or knowledge/data base); a definition of a problem solver and a technology for its assembly.
+     </p>
+   item_keywords: intelligent system, multi-agent system, intelligent software development technology, hierarchical semantic network, agent-oriented programming, cloud platform, cloud service
+   item_pages: 3–11
+ - doi:
+   link: _12_2015_2
+   item_authors: Ermakov A. E.
+   item_authors_address: '<b>A. E. Ermakov</b>, Senior Specialist, e-mail: ermakov@rco.ru, Kribrum ltd, RCO LIc, Moscow'
+   item_name: Grammar Description Meta-Language for Natural Language Syntactic Parsers Based on Object-Oriented Programming Language
+   item_annot: |
+     <p>The article describes key features of the natural language text syntactic parser, which is the fasters parser among syntactic parsers developed in Russia. Linguistic analyzers of Russian and English texts based on the described parser are used in electronic social network monitoring services for machine-based detection of positive and negative appraisals of target objects and extraction of facts on target objects and authors of messages.
+     </p><p>The parser is based on the model of the syntactic structure of sentences in the form of syntactic constituent trees. The parser provides the application of formal grammar rules to the sequence of sentence's constituents and constructs all possible parsing variants — trees of constituents — with the choice of the best one, without repeating construction of occurring sub-trees. To ensure maximum speed performance of parsing, both the parsing algorithm and the natural language grammar rule description are written in C++.
+     </p><p>To avoid grammar descriptions which are 'unreadable for a human' because of including procedural logic into the rules (conditional branching, cycles, access to members of a class, variable assignment) and to make it possible for a linguist unfamiliar with the programming to write new rules, a declarative meta-language, which works above the C++ language, and its interpreter have been developed. The described meta-language allows creating grammar rules by means of C++ declarative tools: Boolean expressions and specifically implemented procedures; while the necessary procedural component is implemented by the meta-language interpreter in the course of text parsing. To write non-standard grammar rules in exceptional cases there is a possibility to use all means of procedural programming language C++.
+     </p><p>The description of the syntactic parser is given at the level of description of the basic algorithm of its work. The description of the meta-language is detailed, with examples of the Russian grammar rules implementation and software code of interpreter core in C++.
+     </p>
+   item_keywords: computational natural language processing, syntactic parser, meta-language for formal grammar description, syntactic constituent tree, tree of syntactic and semantic relations
+   item_pages: 12–21
+ - doi:
+   link: _12_2015_3
+   item_authors: Turovsky Ya. A., Kurgalin S. D., Vahtin A. A., Borzunov S. V., Surovcev A. S.
+   item_authors_address: '<b>Ya. A. Turovsky</b>, Associate Professor, Head of Laboratory, e-mail: yaroslav_turovsk@mail.ru, <b>S. D. Kurgalin</b>, Head of Department, <b>A. A. Vahtin</b>, Associate Professor, <b>S. V. Borzunov</b>, Associate Professor, Voronezh State University, <b>A. S. Surovcev</b>, Postgraduate Student, Voronezh State University of Engineering Technologies'
+   item_name: Comparative Description Involuntarily Controllable Functional Dependent Human-Computer Interfaces
+   item_annot: |
+     <p>We have studied the basic principles of functioning for spontaneously managed functionally-dependent human-PC interface. The interface is based on recording of human's functional tension, which, in particular, reflects the emotional component of a person's daily activities. In order to manage the interface we used heart rate variability signal (HRV). In this paper we have demonstrated that this signal can be applied in the interface for generating controlling commands in the Windows operating systems and their software applications. Also, we showed that the interface based on Fourier transformation or on evaluation of statistical parameters, is significantly faster in data transfer than an interface based on the wavelet transformation. It is proven that in terms of functioning accuracy, physiological interpretation of the recorded phenomena, time of reaction to changes in the user's state, low intensity and simplicity of the software implementation, the appropriate one is human-PC interface based on Fourier's method of spectral evaluation. This allows us to recommend it for creating a new kind of functionally-dependent channel of communication between a human and a computer.
+     </p>
+   item_keywords: human-computer interfaces, involuntarily controllable interfaces, emotion
+   item_pages: 22–31
+ - doi:
+   link: _12_2015_4
+   item_authors: Makhortov S. D.
+   item_authors_address: '<b>S. D. Makhortov</b>, Associate Professor, Head of Department, e-mail: sd@expert.vrn.ru, Voronezh State University'
+   item_name: The Algebraic Model of the Distributed Logical System of the Production Type
+   item_annot: |
+     <p>The most common approach to the construction and research of the distributed artificial intelligence is the multi-agent systems concept, but at the same time there are other approaches that have their own advantages in solving the specific problems associated with distributed intelligent systems.
+     </p><p>In the last decade the author and his students obtained a number of important results in the field of knowledge management that are associated with the production logic systems that became very widespread in the computer science. They developed an algebraic theory of the LP structures, which provides the justification and the effective solution to the problems of the equivalent transformations, verification, knowledge bases minimization and speeding-up the logical inference using the parallel computing. It is implemented in a number of software products which demonstrate its practical significance. This theory also can be used to describe the other systems, that were not considered as production system before.
+     </p><p>The article describes the next step of the LP structures theory development in context of the fundamental algebraic approach for the construction of the extandable range of the production systems and similar to them. For the corresponding knowledge bases this step consists of moving from the parallel processing to the distributed one. The paper formulates the extended algebraic model which has a number of significant capabilities that cover the distributed production-logical systems. As a result, the LP structure theory advantages become available in the such systems construction and research.
+     </p>
+   item_keywords: distributed knowledge base, production system, LP structure, logical closure, equivalent transformation, logical reduction
+   item_pages: 32–38
+ - doi:
+   link: _12_2015_5
+   item_authors: Ivanchik A. M.
+   item_authors_address: '<b>A. M. Ivanchik</b>, Graduate Student, Leading Programmer, e-mail: antonishka@gmail.com, Marine Hydrophysical Institute, Sevastopol'
+   item_name: The Validation Automatic System Structure of the Diagnosis and Prognosis the Black Sea State Results
+   item_annot: |
+     <p>This article describes the automatic validation system of forecast data resulting from the operation of the model MHIC2 intended for the diagnosis and prognosis of physical fields of the Black sea — sea level anomalies, sea temperature, salinity and current velocities developed in Marine hydrophysical Institute of the RAS. Operational validation system is being developed since 2012, and currently consists of three subsystems: validation by sea surface temperature satellite data, validation by in situ data of ARGO buoys, validation by sea level anomalies satellite data. Discusses the structure and operation of each of the subsystems, as well as the mechanism of interaction between subsystems.
+     </p><p>When developing the requirements to the system parameters necessary for its effective functioning are formulated. In accordance with this requirements the system of operational validation had been developed. The developed system has a modular structure. The modular structure of the system has the advantage that errors of various origins in any subsystem, the remaining parts of the system continue to work.
+     </p><p>The system operates in a cyclic mode (the start time is set in system settings), daily consistently starting programs that control the validation subsystems on various data, analyzes the results, automatically maintains logs of work. The logs of the system is available for remote control. Remotely accessible logs allow you to monitor what is happening in the system at any time and from any location that is limited only by the availability of the Internet. This gives you the ability to respond quickly to situations that require quick solution.
+     </p><p>The operational validation automatic system of the diagnosis and prognosis the Black sea state results operates in MHI RAS for three years. The system has good reliability and high efficiency due to elimination of manual work operations and for quick control of the system at any stage using the logs of the system.
+     </p>
+   item_keywords: automatic systems, validation, marine forecast, the Black sea, sea level anomaly, sea surface temperature, salinity, automatic systems development tools, methods of programs operation control
+   item_pages: 39–46
+ - doi:
+   link: _12_2015_6
+   item_name: 'Index of articles published in the journal "Software Engineering" in 2015'
+   item_pages: 47–48
+---

@@ -1,0 +1,114 @@
+---
+title: Vol. 7, no 3 2016 year
+content:
+ - doi:  7.99-107
+   link: 7.99-107
+   udk: '004.89'
+   item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Fedorischev L. A., Shalfeyeva E. A.
+   item_name: The Base Technology for Intelligent Services Development with the Use of IACPaaS Cloud Platform. Part 3. An Interface Development and an Example of Applied Services Creation
+   item_authors_address: ' <b> V. V. Gribova</b>, gribova@iacp.dvo.ru, A. S. Kleschev, kleschev@iacp.dvo.ru, <b> D. A. Krylov</b>, dmalkr@gmail.com, <b>  Ph. M. Moskalenko</b>, philipmm@iacp.dvo.ru, <b> V. A. Timchenko</b>, vadim@iacp.dvo.ru, <b> L. A. Fedorischev</b>, fedorischev@iacp.dvo.ru, <b> E. A. Shalfeyeva</b>, shalf@iacp.dvo.ru, Federal State Budgetary Institution of Science "Institute for Automation and Control Processes" (Far Eastern Branch of the Russian Academy of Sciences), Vladivostok, 690041, Russian Federation'
+   item_corr_author: 'Moskalenko Philip M., Researcher, Federal State Budgetary Institution of Science "Institute for Automation and Control Processes" (Far Eastern Branch of the Russian Academy of Sciences), 690041, Vladivostok, Russian Federation, e-mail: philipmm@iacp.dvo.ru'
+   item_rec_on: ' August 25, 2015 '
+   item_acc_on: ' December 24, 2015'
+   item_annot: |
+     <p> The paper concludes a series of works which present a base technology for development of intelligent multi-agent cloud services and their components with the use of system tools of IACPaaS platform. The technology is put to reduce the labour-intensiveness of development and first of all support for intelligent cloud services and proposes involvement of domain experts (without mediators or additional training) in these processes, whose task is to create and maintain information components of platforms' applied services in actual state during their lifecycle. This part describes a technology for development of user interface of an intelligent cloud service and describes an example of usage of the base technology for development of applied intelligent services in the field of ophthalmology.
+     </p>
+   item_keywords: intelligent system, multi-agent system, intelligent software development technology, hierarchical semantic network, agent-oriented programming, cloud platform, cloud service
+   item_pages: 99–107
+   item_comment: This work was supported by the Russian Foundation for Basic Research, project nos. 13-07-00024, 14-07-00299 and 15-07-03193 and by the Fundamental Scientific Research, Far East program
+   item_citation: 'Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Fedorischev L. A., Shalfeyeva E. A. The Base Technology for Intelligent Services Development with the Use of IACPaaS Cloud Platform. Part 3. An Interface Development and an Example of Applied Services Creation, Programmnaya Ingeneria, 2016, vol. 7, no. 3, pp. 99-107.'
+
+
+ - doi:  7.108-116
+   link: 7.108-116
+   udk: '004.415.2'
+   item_authors: Stennikov V. A., Barakhtenko E. A., Sokolov D. V.
+   item_name: Model-Driven Engineering in the Software for Parameter Optimization of Heat Supply Systems
+   item_authors_address: '<b> V. A. Stennikov</b>, sva@isem.irk.ru, <b> E. A. Barakhtenko</b>, barakhtenko@isem.irk.ru, <b> D. V. Sokolov</b>, sokolov_dv@isem.irk.ru, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation'
+   item_corr_author: 'Barakhtenko Evgeny A., Senior Researcher, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation, e-mail: barakhtenko@isem.irk.ru'
+   item_rec_on: 'June 04, 2015'
+   item_acc_on: 'December 21, 2015'
+   item_annot: |
+     <p> This paper presents a new methodology for the creation of software for parameter optimization of heat supply systems. The methodology is based on the Model-Driven Engineering paradigm. The essence of this paradigm is that the software is generated on the basis of formal description represented by models. This methodology allows us to automate the process of software creation. The ontologies of heat supply systems, problems, and software are a means of representing the models.
+     </p><p>The authors suggest metaprogramming to create a software architecture flexibly adjustable to the problem of parameter optimization of a concrete heat supply system in the course of the problem-solving process. Metaprogramming technologies allow us to develop the software that changes or creates software components when solving the problem.
+     </p><p>The proposed methodology of software development includes four stages.
+     </p><p>Stage 1. Development of a computer model of the heat supply system.
+     </p><p>Stage 2. Formalization of the applied problem.
+     </p><p>Stage 3. Automatic building of the software model.
+     </p><p>Stage 4. Automatic building of the software on the basis of the model.
+     </p><p>The suggested methodology underlies the software SOSNA intended for solving the parameter optimization problems of heat supply systems. The software makes it possible to calculate large-scale systems which have a complex structure with any set of nodes, sections, and circuits. The use of the software for the control of heat supply system development will enhance their energy efficiency and cost-effectiveness. The software was applied to solving the optimal reconstruction problems of urban heat supply systems.
+      </p>
+   item_keywords: Model-Driven Engineering, methodology, metaprogramming, ontology, software, automation of programming, software architecture, software engineering, heat supply system, optimization methods, nonlinear programming
+   item_pages: 108–116
+   item_comment: This work was supported by the Russian Foundation for Basic Research, project no. 13-07-00297.
+   item_citation: ' Stennikov V. A., Barakhtenko E. A., Sokolov D. V. Model-Driven Engineering in the Software for Parameter Optimization of Heat Supply Systems, Programmnaya Ingeneria, 2016, vol. 7, no. 3, pp. 108—116.'
+
+ - doi: 7.117-125
+   link: 3_2014_3
+   udk: '004.056.5'
+   item_authors: Galatenko V. A. 
+   item_name: Cybersecurity in Healthcare
+   item_authors_address: ' <b> V. A. Galatenko</b> , galat@niisi.ras.ru, Federal State Institution "Scientific Research Institute of System Analysis of the Russian Academy of Science", Moscow, 117218, Russian Federation'
+   item_corr_author: ' Galatenko Vladimir A., Head of Sector, Federal State Institution "Scientific Research Institute of System Analysis of the Russian Academy of Science", Moscow, 117218, Russian Federation e-mail: galat@niisi.ras.ru'
+   item_rec_on: ' December 01, 2015'
+   item_acc_on: ' December 11, 2015'
+   item_annot: |
+     <p> The widespread use of information technologies in healthcare may improve the quality of care, facilitate the work of medical staff, reduce costs. At the same time it is necessary to pay attention to the problems of cybersecurity which can be of either technical or behavioral character.
+     </p><p>Security problems may affect confidentiality and integrity of data, availability of medical services. The issue of privacy is of special importance in the area of healthcare. Standard cybersecurity means may be inapplicable in healthcare due to specifities of this area and stress working conditions of medical personnel. Further complexities are caused by use of legacy medical equipment which may be vulnerable to potential security attacks. This paper is an attempt to systematize the problems of cybersecurity in healthcare and propose possible solutions.
+     </p><p>The issues discussed are cybersecurity of Electronic Health Records (EHR), the problem of BYOD (bring your own device) in healthcare, mobile healthcare applications (mHealth) cybersecurity, medical devices cybersecurity, cloud and big data cybersecurity in healthcare.
+     </p>
+   item_keywords: cybersecurity, privacy, healthcare, Electronic Health Record, behavioral information security, medical devices cybersecurity
+   item_pages: 117–125
+   item_citation: ' Galatenko V. A. Cybersecurity in Healthcare, Programmnaya Ingeneria, 2016, vol. 7, no. 3, pp. 117—125.'
+
+ - doi:  7.126-131
+   link: 7.126-131
+   udk: '624.1'
+   item_authors: Bykova N. M., Zainagabdinov D. A., Belyalov T. Sh., Meshkov I. V. 
+   item_name: Technological Bases of Software-Instrumental Accompaniment Electronic Deformation Monitoring of Railway Tunnels
+   item_authors_address: '<b> N. M. Bykova</b>, bikovanm@mail.ru, <b> D. A. Zainagabdinov</b>, damirmt@mail.ru, T. Sh. Belyalov, belyalov_timur@mail.ru, <b> I. V. Meshkov</b>, nerig@rambler.ru, Irkutsk State University of Railway Transport, Irkutsk, 664074, Russian Federation'
+   item_corr_author: ' Meshkov Ivan V., Postgraduate Student, State University of Railway Transport, Irkutsk, 664074, Russian Federation, e-mail: nerig@rambler.ru'
+   item_rec_on: 'October 10, 2015 '
+   item_acc_on: 'November 19, 2015'
+   item_annot: |
+     <p> In the article the authors developed the methods of constructing the hardware and software complex for automated monitoring of deformations (AMD) railway tunnels. The technological scheme of AMD, general description of the software-instrumental complex and basics of software development are discussed. The principles of creation of the hardware including sensors of the control strain of construction, receiving and recording device, the information acquisition unit and transfer to the server were developed. The relationship between acquisition units and the data with specialized software, and optional units developmental functions of collection, processing, storage and transmission of data to remote workstations are considered. The software structure associated with a task execution unit for collection, storage and processing of data, unit of analysis of the stress-strain state of tunnel structures using numerical models, the analytical unit category assignments of geodynamic safety, alarm, visualization and the generation of control solutions unit are describe. The analytical unit responsible for the monitoring of deformations of tunnel and intended to assign three categories of geodynamic safety, development the fundamentals of alarm systems and visualization of the results of the analytical unit and the software for this unit are also discussed in this paper.
+     </p>
+   item_keywords: software, deformation monitoring, geodynamic safety, railway tunnels
+   item_pages: 126–131
+   item_citation: ' Bykova N. M., Zainagabdinov D. A., Belyalov T. Sh., Meshkov I. V. Technological Bases of Software-Instrumental Accompaniment Electronic Deformation Monitoring of Railway Tunnels, Programmnaya Ingeneria, 2016, vol. 7, no 3, pp. 126—131.'
+
+ - doi: 7.132-139
+   link: 7.132-139
+   udk: '004.9'
+   item_authors: Yurushkin M. V. 
+   item_name: Double Block Data Layout in High Performance Matrix Multiplication Algorithm
+   item_authors_address: '<b> M. V. Yurushkin</b>, m.yurushkin@gmail.com, SFEDU, Rostov on Don, 344090, Russian Federation '
+   item_corr_author: ' Yurushkin Mikhail V., Engineer, SFEDU, Rostov on Don, 344090, Russian Federation, e-mail: m.yurushkin@gmail.com'
+   item_rec_on: ' November 04, 2015'
+   item_acc_on: ' December 21, 2015'
+   item_annot: |
+     <p> In this paper matrix multiplication algorithm with double block data layout is suggested. This data layout method allows remarkably decrease amount of cache misses, TLB-cache misses and archive 97 % of peak performance. In the last section results of suggested algorithm with existing packages (MKL, PLASMA, OpenBLAS) comparison are reported. Author outlines that suggested algorithm supports only block matrices in contrast to MKL and OpenBLAS packages, which support matrices with standard data layout. As a consequence, suggested algorithm doesn't replace existing algorithms, but only supplements them.
+     </p>
+   item_keywords: cache memory, block data layout, tilling, high performance computing
+   item_pages: 132–139
+   item_citation: ' Yurushkin M. V. Double Block Data Layout in High Performance Matrix Multiplication Algorithm, Programmnaya Ingeneria, 2016, vol. 7, no. 3, pp. 132-139.'
+
+ - doi:  7.140-144
+   link: 3_2016_6
+   udk: '004.932.4'
+   item_authors: Sverdlov S. Z. 
+   item_name: Saturation Adjustment in the Digital Images Processing
+   item_authors_address: '<b> S. Z. Sverdlov</b>, c3c@uni-vologda.ac.ru, Vologda State University, Vologda, 160600, Russian Federation '
+   item_corr_author: ' Sverdlov Sergey Z., Professor, Vologda State University, Vologda, 160600, Russian Federation, e-mail: c3c@uni-vologda.ac.ru'
+   item_rec_on: ' November 03, 2015'
+   item_acc_on: ' December 22, 2015'
+   item_annot: |
+     <p> Standardized RGB-spaces such as sRGB, Adobe RGB and etc. are common for image processing. Those spaces are non-linear (e.g. using gamma correction), so color calculations in such spaces are incorrect from a physical (colorimetric) point of view. Use of the linearized RGB space is proposed for adjusting the saturation.
+     </p><p>A method for calculating the saturation employed in HSL and HSB color spaces (color models) is based solely on geometric considerations and does not provide a strict justification. The paper proposes a method for modifying the saturation leaving the lightness and color hue unchanged, which is correct from colorimetrical perspective. Proposed formulas do not require orthogonal RGB spaces. A concept of relative saturation is introduced.
+     </p><p>An algorithm for maximizing digital image saturation is proposed. The linear saturation of image pixels is increased by the same factor without moving out of RGB-space gamut. The algorithm is implemented in C3C Color Wizard software that is the only implementation currently known to the author.
+     </p><p>An algorithm for saturation limitation followed by contrast increase is proposed on the basis of P. Kosenko's approach. The algorithm allows harmonizing visual perception of digital photography in some cases.
+     </p>
+   item_keywords: digital photography, color coordinate system, processing of digital color images, saturation, chroma, software, color adjustment
+   item_pages: 140–144
+   item_citation: 'Sverdlov S. Z. About Saturation Adjustment in the Digital Images Processing, Programmnaya Ingeneria, 2016, vol. 7, no. 3, pp. 140—144.'
+---

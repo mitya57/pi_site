@@ -1,0 +1,92 @@
+---
+title: Issue N4 2012 year
+content:
+ - doi:
+   link: _4_2012_1
+   udk: '004.7'
+   item_authors: Vasenin V. A., Lyovin V. Yu., Puchkov F. M., Shapchenko K. A.
+   item_name: Towards Creating a Next Generation Overlay Network for Data Communication
+   item_authors_address: ' <b> V. A. Vasenin </b>, e-mail: vasenin@msu.ru, <b> V. Yu. Lyovin </b>, e-mail: levval@yandex.ru, <b> F. M. Puchkov </b>, e-mail: fedormex@gmail.com, <b> K. A. Shapchenko </b>, e-mail: shapchenko@iisi.msu.ru '
+   item_annot: |
+     <p> In this paper we present preliminary results on creating a new overlay network with higher level of data and communication protection in distributed automated systems, mainly oriented towards using over public communication networks.</p>
+   item_keywords: information security, distributed systems, overlay network, network topology, decentralization, communication concealment
+   item_pages: 2–8
+ - doi:
+   link: _4_2012_2
+   udk: '004.056'
+   item_authors: Galatenko V. A. 
+   item_name: 'Automation of the Analysis and Processing of Security Information Content: Futher Development of SCAP Protocol'
+   item_authors_address: ' <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru'
+   item_annot: |
+     <p> The article is devoted to new aspects of Security Content Automation Protocol (SCAP), that have arised in the version 1.2.
+     </p>
+   item_keywords: Information Security, Security Content, Automation Protocol
+   item_pages: 9–12
+ - doi:
+   link: _4_2012_3
+   udk: '004.051'
+   item_authors: Udovichenko A. O., Putsko N. N.
+   item_name: Comprehensive Software Rejuvenation Procedure
+   item_authors_address: ' <b> A. O. Udovichenko </b>,  e-mail: aspudovichenko@mail.ru, <b> N. N.Putsko </b> '
+   item_annot: |
+     <p> Comprehensive software rejuvenation approach for virtual infrastructure is proposed in the paper. All components of the approach and its operation are considering. Results of the experiments are provided showing proving the efficiency of the proposed approach
+     </p>
+   item_keywords: software, aging, rejuvenation, server, virtual machine, efficient, procedure
+   item_pages: 13–18
+ - doi:
+   link: _4_2012_4
+   udk: '004.42'
+   item_authors: Kolchugina E. A.
+   item_name: "Application of Numberings Theory Methods for Representation of Software Agents's Code Evolution in Temporal Databases"
+   item_authors_address: '<b> E. A. Kolchugina </b>, e-mail: kea-sci@list.ru'
+   item_annot: |
+     <p> In this paper we are considering questions of evolutionary software agents's code representation in temporal databases. The methods of convolutions performance on the basis of numbering of the Cantor are considered. To reduce the growth of the convolution function's value it is offered to use the pairing tree-like scheme.
+     </p>
+   item_keywords: numberings theory, software agents, temporal databases, convolution and development of sequences
+   item_pages: 19–22
+ - doi:
+   link: _4_2012_5
+   udk: '004.436.2'
+   item_authors: Zharkovskiy A. V., Lyamkin A. A., Mikulenko N. P.
+   item_name: Structurograms Based on the Object-Feature Language
+   item_authors_address: '<b> A. V. Zharkovskiy</b>, <b> A. A. Lyamkin </b>, <b> N. P. Mikulenko </b>, e-mail: av.jarkov@yandex.ru'
+   item_annot: |
+     <p> An improved form of structurograms is proposed for representation of system functioning process models based on the object-feature language.
+     </p>
+   item_keywords: structurogram, model, object-feature language, algorithm
+   item_pages: 23–26
+ - doi:
+   link: _4_2012_6
+   udk: '004.7.056'
+   item_authors: Tarasov V. N., Mezentseva E. M.
+   item_name: Computer Network Security. Web Programming of Multi-Modular Spam Filter 
+   item_authors_address: '<b> V. N. Tarasov </b>,  <b> E. M. Mezentseva </b>,  e-mail: katya-mem@psati.ru'
+   item_annot: |
+     <p> In this work spam filter construction algorithms are considered. They based on Bayes and Fisher methods. Source code on PHP programming language and testing results of trained filter are presented.
+     </p>
+   item_keywords: messages, spam, Bayes classification, a priori knowledge, Fisher method, chi-squared distribution
+   item_pages: 27–32
+ - doi:
+   link: _4_2012_7
+   udk: '004.41, 004.42, 511, 519.6'
+   item_authors: Orlov D. A.
+   item_name: Implementation of Extended-length Arithmetic on Graphics Processor Units
+   item_authors_address: '<b> D. A. Orlov </b>, e-mail: orlovdmal@gmail.com'
+   item_annot: |
+     <p> Nowadays the new filed in programming general purpose computations on graphics processor units — GP GPU is developing dramatically. Peak performance of graphics processor units (GPU) is much higher than one of central processors.
+     </p><p>In this paper the opportunity of using GPU for computation with extended-length numbers is shown. Two variants of algorithms of arithmetic operations are proposed. The application field of proposed algorithms is shown.
+     </p>
+   item_keywords: GPU, parallel computation, computer arithmetic, CUDA, GP GPU, numbers of extended length
+   item_pages: 33–43
+ - doi:
+   link: _4_2012_8
+   udk: '004.41, 004.02, 372.8'
+   item_authors: Khritankov A. S.
+   item_name: Experience with a University Course on Software Design
+   item_authors_address: '<b> A. S. Khritankov </b>, e-mail: anton.khritankov@acm.org'
+   item_annot: |
+     <p> In this paper, we discuss our experience with a university course on software design included in software engineering curricula at MIPT. The course has been delivered six times; the total audience is more than a hundred students. We explain why we do not strictly follow IEEE/ACM recommendations (SEEK), how we organize student assignments, what tools we employ and results we have achieved.
+     </p>
+   item_keywords: software design, undergraduate education
+   item_pages: 44–47
+---

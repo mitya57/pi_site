@@ -1,0 +1,81 @@
+---
+title: Issue N1 2014 year
+content:
+ - doi:
+   link: _1_2014_1
+   udk: "004.4'22"
+   item_authors: Koznov D. V., Kudryavtsev D. V., Grigoriev L. Yu., Gagarskii R. K., Romanovskii K. Yu.
+   item_name: An Architecture of Visual Modeling Tool of ORG-Master Toolset
+   item_authors_address: ' <b> D. V. Koznov,</b> . e-mail: dkoznov@yandex.ru, <b> . V. Kudryavtsev</b>, <b>L. Yu. Grigoriev</b>, <b>R. K. Gagarskii</b>, <b>K. Yu. Romanovskii </b>'
+   item_annot: |
+      <p> Enterprise Architecture Management (EAM) is a growing area, which supports enterprise transformations and provides business-IT alignment. ORG-Master is a Russian EAM tool, which is successfully applied in Russian industry during last 15 years. The paper presents of ORG-Master visual modeling tool architecture, which consists of the following parts: internal editors (for visual modeling inside of ORG-Master); external editors (to support of lightweight customer-oriented graphical notations); graphical reports (read only visual models, which can be automatic generated under ORG-Master model); import.
+      </p>
+   item_keywords: enterprise architecture, enterprise architecture modeling, enterprise architecture management, EAM, EAM tools, DSM, domain-specific modeling, mind map, concept map, BРMN, business processes
+   item_pages: 3–11
+ - doi:
+   link: _1_2014_2
+   udk: '519.688'
+   item_authors: Bolotova S. Yu.
+   item_name: Multi-threaded Relevant LP-inference Implementation
+   item_authors_address: ' <b> S. Yu. Bolotova </b> e-mail: bolotova.svetlana@gmail.com'
+   item_annot: |
+     <p Relevant LP-inference is a very effective tool used for development, research and optimization in the area of logic-production systems. This paper describes the computational algorithm implementation for the multithreaded relevant LP-inference. It is based on the parallelizing some of the steps used to create a number of sets of facts that are necessary for the inference. The paper gives the pseudo codes for some of the algorithms, the graph-style computational model and the basic architecture overview of the final program based on the algorithm itself.
+     </p>
+   item_keywords: backward inference, relevant backward inference, logical equations, parallelism, multithreading
+   item_pages: 12–18
+ - doi:
+   link: _1_2014_3
+   udk: '004.056'
+   item_authors: Sirota A. A., Titov K. A.
+   item_name: The Architecture of Distributed Information System to Support the Digital Watermarking Technology
+   item_authors_address: ' <b> A. A. Sirota</b>, <b>K. A. Titov </b>,  e-mail: ktitovy@gmail.com'
+   item_annot: |
+     <p> Proposed and justified architecture of distributed information system to provide support for the digital watermark to protect copyright on a multimedia content.
+     </p>
+   item_keywords: digital watermark, copyright protection, information security, distributed information system, media content
+   item_pages: 19–24
+ - doi:
+   link: _1_2014_4
+   udk: '004.624, 025.3/.6'
+   item_authors: Afonin S. A., Gaspariants A. E.
+   item_name: Scientific Article Authorship Disambiguation for Automated Bibliographic Records Processing
+   item_authors_address: '<b> S. A. Afonin</b>, e-mail: serg@msu.ru, <b> A. E. Gaspariants </b>'
+   item_annot: |
+     <p> In this paper the problem of automatic authorship disambiguation is considered. A number of formal parameters that take into account information about previous co-authorship are introduced. These parameters form the basis for disambiguation procedure. Experimental results conducted on real data show that algorithm precision is as high as 92 %.
+     </p>
+   item_keywords: bibliographic record, automated processing, authorship, disambiguation
+   item_pages: 25–28
+ - doi:
+   link: _1_2014_5
+   udk: '004.[056.53 + 451.5 + 514]'
+   item_authors: Efanov D. V., Roschin P. G.
+   item_name: Implementation Issues of Mandatory Multilevel Access Control Model in Graphical System
+   item_authors_address: '<b>D. V. Efanov</b>, <b>P. G. Roschin</b>, e-mail: d@efanov.pro '
+   item_annot: |
+     <p> In article implementation issues of mandatory multilevel access control model in an operating system which includes multiwindow graphic system is considered. Basis for the graphic interface in the UNIX and Linux operating systems is the X Window system. For X Window the list of practical issues is given which developers of an trusted operating system need to solve, including visualization of the labels, the trusted X-clients and the web-browser.
+     </p>
+   item_keywords: mandatory access control, MAC, MLS, linux, X Window, selinux, graphic interface, web-browser
+   item_pages: 29–32
+ - doi:
+   link: _1_2014_6
+   udk: '004.056'
+   item_authors: Y. K. Yazov, A. L. Serdechnyy
+   item_name: By the Development of Quantitative Methods of Effectiveness Honeynets Evaluation
+   item_authors_address: '<b> Y. K. Yazov</b>, <b>A. L. Serdechnyy</b>, e-mail: gniii@fstec.ru'
+   item_annot: |
+     <p> The article proposes indicators and analytical relations for the quantitative evaluation of the effectiveness of the use of honeynets built with usage of virtualization as a means to protect production systems from network attacks. The main performance indicator used by the relative decline the possibility of unauthorized access to protected resources information system by providing a potential attacker using honeynets. During usage it ensures permissible load of computational resources of the developed system.
+     </p>
+   item_keywords: honeynets, virtualization, unauthorized access, efficiency defense, indicator to assess, computational resource
+   item_pages: 33–39
+ - doi: 
+   link: _1_2014_7
+   udk: '519.612'
+   item_authors: Ivanova K. F.
+   item_name: "Estimation of the United Solution Set of an Interval Leontjev's Model"
+   item_authors_address: '<b> K. F. Ivanova </b>,  e-mail: klara.i2010@yandex.ru '
+   item_annot: |
+     <p> The approach to the solution of a modelling V. V. Leontjev's problem described by interval system of linear equations (ISLAE) on the basis of application of a "sign" technique is offered. Intervals for total a component of a branch facilities as result of a special case of the solution of two point linear algebraic systems with positive square matrixes and with correct intervals of an interval right-hand side vector are received. The estimation of the united solution set with observance principle of the universality, previous to a principle of the existence, having a place at construction of an internal solution ISLAE is realized.
+     </p>
+   item_keywords: interval system of the equations, estimation of the tolerable solution set, "sign" technique, two point linear systems.
+   item_pages: 40–47
+---

@@ -1,0 +1,81 @@
+---
+title: Issue N5 2014 year
+content:
+ - doi:
+   link: _5_2014_1
+   udk: '004.75+004.41'
+   item_authors: Shundeev A. S.
+   item_name: Distributed Computing Systems Based on the Platform Erlang/OTP
+   item_authors_address: '<b> A. S. Shundeev </b>, e-mail: alex.shundeev@gmail.com'
+   item_annot: |
+     <p> We consider the following problem statement distributed computing. There is a dynamically generated set of computing nodes. At each node, such a computing task may be performed. Computing task is determined by the name of the program and command line arguments. The result of the computational tasks is the standard output of the program. On each compute node running the target component of a software system as a separate Erlang/OTP application. Such an application provides the ability to start a process, which manages the computing task will be executed and its result will be delivered to the consumer. The consumer has the opportunity to get a current list of nodes on which it can run computational tasks.
+     </p>
+   item_keywords: distributed computing, Erlang/OTP.
+   item_pages: 3–5
+ - doi:
+   link: _5_2014_2
+   udk: '004.04'
+   item_authors: Bakanov V. M., Palagin V. V.
+   item_name: Improving the Efficiency of Parallel Programs by the Time They Run through Judicious Placement of Data in a Distributed Memory Calculator
+   item_authors_address: '<b> V. M. Bakanov </b>, e-mail: vbakanov@hse.ru, <b> V. V. Palagin </b>'
+   item_annot: |
+     <p> This paper discusses the issues of effective distribution of data across local ethyl resources (RAM) Multiprocessor Computing Systems (MVS) MPP architecture to minimize downtime calculators during communication between nodes MVS. The formal model of the process of implementing such a distribution, source-level programs and the technique, optimization.
+     </p>
+   item_keywords: parallel programming, architecture MPP, the distribution of data across local storage resources of compute nodes, selects the optimal (rational) distribution
+   item_pages: 6–13
+ - doi:
+   link: _5_2014_3
+   udk: '004.056.5'
+   item_authors: Kornev D. A.
+   item_name: Dynamic Simulation of State Virtual Infrastructure Using Petri Nets
+   item_authors_address: ' <b> D. A. Kornev </b>, e-mail: da.kornev@gmail.com'
+   item_annot: |
+     <p> The article presents results of modeling of dynamic processes in a virtual environment for different algorithms for management of its resources. Defined performance criteria virtual infrastructure management. Methods of vector optimization objective function value calculated at conflicting criteria optimization algorithms and various resource management.
+     </p>
+   item_keywords: virtual infrastructure, Petri net, modeling resource allocation, optimal resource management
+   item_pages: 14–19
+ - doi:
+   link: _5_2014_4
+   udk: '004.946, 519.17'
+   item_authors: Mikhaylyuk M. V.
+   item_name: 2D Virtual Control Panels in Simulators
+   item_authors_address: '<b> M. V. Mikhaylyuk </b>,  e-mail: mix@niisi.ras.ru'
+   item_annot: |
+     <p> In the paper we describe the technology and using of virtual 2D control panels for simulators and learning systems. Technology is provided by four program components — visual editor for creation the virtual control panel, control elements moving modeling module, editor for functional control schemes and the module for computing control signals.
+     </p>
+   item_keywords: virtual control panels, visualization systems, simulators
+   item_pages: 20–25
+ - doi:
+   link: _5_2014_5
+   udk: '004.5'
+   item_authors: Turovsky Ya. A.
+   item_name: The Optimization of the Synchronous Brain- Computer Interfaces on Electroencephalogram Canal Selection Based
+   item_authors_address: '<b> Ya. A. Turovsky </b>, e-mail: yaroslav_turovsk@mail.ru '
+   item_annot: |
+     <p> The paper presents methods of training brain-computer interfaces (BCI) firmware to select a subset of electrodes from an aggregate, so that this subset forms the best signal/noise ratio for the subsequent spatial and temporal signal accumulation. These methods are proposed for three kinds of synchronous BCI: based on visual evoked potentials, sustainable visual evoked potentials and cognitive evoked potentials with P300 component. An algorithm offered to construct wavelet transformations of a specialized filter for evaluation of evoked potentials on the basis of analysis of the chains of local maxima and minima in the matrix of squares of the coefficients. The proposed approach allows to significantly simplify training system for BCI in case of position change of the recording electrodes, and, thereby, to increase the functionality of synchronous BCI.
+     </p>
+   item_keywords: electroencephalogram, wavelet analysis, chain of the local maximum, local spectrum
+   item_pages: 26–31
+ - doi:
+   link: _5_2014_6
+   udk: '004.89'
+   item_authors: Kolosovskiy M. A.
+   item_name: Tracking Pedestrians for Video Surveillance for Non-Signalized Pedestrian Crossings
+   item_authors_address: '<b> M. A. Kolosovskiy </b>, e-mail: maxim.astu@gmail.com'
+   item_annot: |
+     <p> This paper considers the task of video surveillance for pedestrian crossings. We analyzed peculiarities of the task, proposed the structure of the video surveillance system, and described the developed tracking subsystem. We evaluated accuracy, performance and robustness of the system. The precision of tracking is about 92 %, recall — 75...95% and its speed is close to real time mode.
+     </p>
+   item_keywords: video surveillance, object tracking, object detection, computer vision
+   item_pages: 32–40
+ - doi:
+   link: _5_2014_7
+   udk: '004.05'
+   item_authors: Levshin N. S.
+   item_name: On the Problematic Situation on the Market of Systems for Online Stores Organization
+   item_authors_address: '<b> N. S. Levshin </b>, e-mail:admin@biznes-informatika.ru'
+   item_annot: |
+     <p> In this article raises the problem of the low-quality software products and their unhindered access to the market of information systems ensuring the processes of e-commerce. To prove the relevance of this issue the article features a review of a new paid content-management system — "Shop-Script 5", intended for building online stores.
+     </p>
+   item_keywords: information systems, e-commerce, online store, Shop-Script 5, Schema.org, Joomla 2.5, CMS, content management system, search engine optimization
+   item_pages: 41–48
+---

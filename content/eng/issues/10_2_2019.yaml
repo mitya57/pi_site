@@ -1,0 +1,82 @@
+---
+title: Issue N2 2019 year
+content:
+ - doi: 10.51-58
+   udk: "004.451"
+   item_authors: "Godunov A. N., Soldatov V. A."
+   item_name: "Experience Creating a Compact Real-Time Operating System"
+   item_authors_address: |
+     <b> A. N. Godunov</b>, nkag@niisi.ras.ru, <b> V. A. Soldatov</b>, nkvalera@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA), Moscow, 117218, Russian Federation
+   item_corr_author: 'Godunov Alexander N., Head of Department, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences" (SRISA), Moscow, 117218, Russian Federation, E-mail: nkag@niisi.ras.ru'
+   item_rec_on:  December 03, 2018
+   item_acc_on:  December 20, 2018
+   item_annot: |
+     <p> RAM is a limited resource for a certain class of tasks that are performed in a hard real-time. First of all, this refers to the systems operating in the conditions of radiation exposure. Radiation resistant RAM is quite expensive. To reduce the size of memory required for RTOS, it was decided to use already existing RTOS, and to propose the methods allowing significant reduction of the amount of RAM required. The approach described allows reaching significant memory savings without making major changes in the RTOS, enabling the reduction of development efforts and providing greater reliability of the RTOS. The essential methods of reducing the amount of RAM required by the RTOS are the OS configuration, the placement of sections of RTOS used only for reading in flash memory, the use of the compiler optimization option that minimizes the amount of the required RAM. The work also describes the methods and features allowing quantifying the memory savings resulting from the use of methods indicated. Some parts of the RTOS (interrupt and exception handling, multi-threading, time service, memory allocation) are mandatory and cannot be completely excluded from the target image, but can only be reduced to some extents. All other parts of the operating system can be either significantly reduced or excluded unless they are used by the applica­tion program or the board support package (BSP). These include networking, file systems, block devices, basic input/output operations, debugging tools, condition variables, message queues, timers, regional settings, program channels, signals and semaphores. Hardware for development of the compact RTOS and the results obtained are also described.</p>
+   item_keywords: RTOS Baget, configuration, scaling, flash memory, ELF format, Random Access Memory, RAM, dynamic memory
+   item_pages: 51–58
+   item_comment: 'This work was supported by state research program of the Russian Federation (No. 0065-2018-0021)'
+   item_citation: 'Godunov A. N., Soldatov V. A. Experience Creating a Compact Real-Time Operating System, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 51—58'
+ - doi: 10.59-68
+   udk: "004.8"
+   item_authors: "Telnov V. P., Korovin Yu. A."
+   item_name: "Programming of Knowledge Graphs, Reasoning on Graphs"
+   item_authors_address: |
+     <b> V. P. Telnov</b>, telnov@bk.ru, <b> Yu. A. Korovin</b>, korovinyu@mail.ru, National Research Nuclear University MEPhl, Obninsk, 249040, Russian Federation
+   item_corr_author: 'Telnov Victor P., Associate Professor, National Research Nuclear University "MEPhI", Obninsk, 249040, Russian Federation, E-mail: telnov@bk.ru'
+   item_rec_on:  September 09, 2018
+   item_acc_on:  September 20, 2018
+   item_annot: |
+     <p> The paper is devoted to knowledge representation technologies, reasoning models and algorithms for generating cognitive hypotheses in intelligent systems. The emphasis is placed on applying problem—oriented graphs of knowl­edge in nuclear physics and nuclear power. The proposed technologies and methods cover the tasks of computer— aided detection and classification of nuclear knowledge and competences based on ontologies and representation of information objects in semantic graph data bases equipped with automated reasoning means. Templates for knowledge graphs designing for nuclear research and training centers are presented. Visual navigation and reasoning on the knowledge graphs are performed by means of special retrieval widgets and the smart RDF browser. The visual way of specifying the inference rules on the knowledge graphs is the highlight of the reasoner in the proposed project, which makes it stand out from the more traditional known reasoners, where inference rules are specified using logical predicates and SPARQL—like syntax. Operations with the semantic repository are implemented on cloud platforms through SPARQL queries and RESTful services. The proposed software solutions are based on the cloud comput­ing using DaaS, IaaS and PaaS service models to provide scalability of data warehouses and network services. The architecture of the software in UML notation is presented, examples of real use of the created technologies and software are given.</p>
+   item_keywords: semantic web, ontology, knowledge graph, graph database, cloud computing
+   item_pages: 59–68
+   item_comment: 'The reported study was funded by Russian Foundation for Basic Research according to the research project № 18-07-00583 А.'
+   item_citation: 'Telnov V. P., Korovin Yu. A. Programming of Knowledge Graphs, Reasoning on Graphs, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 59—68'
+ - doi: 10.69-76
+   udk:
+   item_authors: "Morozov A. Yu., Reviznikov D. L."
+   item_name: "Modelling of Dynamic Systems with Interval Parameters on Graphic Processors"
+   item_authors_address: |
+     <b>A. Yu. Morozov</b> <sup>1</sup>, Postgraduate Student, alex-icez@yandex.ru, <b>D. L. Reviznikov</b><sup>1, 2</sup>, Professor, reviznikov@gmail.com,<br/>
+     <sup>1</sup>The State Federal-Funded Educational Institution of Higher Professional Training "Moscow Aviation Institute (National Research University)", Moscow<br/>
+     <sup>2</sup>Federal Research Centre "Information and Control" of the Russian Academy of Sciences, Moscow
+   item_corr_author: 'Morozov Aleksandr Yu., Postgraduate Student, The State Federal-Funded Educational Institution of Higher Professional Training "Moscow Aviation Institute (National Research University)", Moscow, 125993, Russian Federation, E-mail: alex-icez@yandex.ru '
+   item_rec_on:  June 07, 2018
+   item_acc_on:  October 23, 2018
+   item_annot: |
+     <p> This paper presents the algorithm of adaptive interpolation on the basis of kd-tree for modeling of dynamic systems with interval parameters. The complexity of the algorithm is exponential against the number of interval parameters; therefore acceleration is a vital question. The main aspects of its parallelization and implementation using CUDA technology are presented here. The data structures used in the algorithm and their features in terms of parallel operation are described. The computation experiments conducted in some cases demonstrate hundred-fold acceleration in comparison with the central processor computing, which reveals the efficiency of suggested approaches to parallelization.
+     </p>
+   item_keywords:  CUDA, parallelization, kd-tree, algorithm of adaptive interpolation, structured grids, interval dynamic systems
+   item_pages: 69–76
+   item_citation: ' Morozov A. Yu., Reviznikov D. L. Modelling of Dynamic Systems with Interval Parameters on Graphic Processors, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 69—76.'
+ - doi: 10.77-86
+   udk: "514.18"
+   item_authors: "Konopatskiy E. V."
+   item_name: "Approach to the Construction of Geometric Models of Multifactor Processes and Phenomena by the Method of Multidimensional Interpolation"
+   item_authors_address: |
+     <b> E. V. Konopatskiy</b>, e.v.konopatskiy@mail.ru, Donbas National Academy of Civil Engineering and Architecture, Makeyevka, 286123, Donetsk Peoples Republic
+   item_corr_author: " Konopatskiy Evgeniy V., Associate Professor, Donbas National Academy of Civil Engineering and Architecture, Makeyevka, 286123, Donetsk Peoples Republic, E-mail: e.v.konopatskiy@mail.ru"
+   item_rec_on:  August 28, 2018
+   item_acc_on:  September 17, 2018
+   item_annot: |
+     <p> The paper presents an approach to the theoretical foundations the geometric modeling of multifactor processes and phenomena by the method of multidimensional interpolation, which include the method of modeling the arcs of algebraic curves passing through the pre-set points and the fundamental algorithm of the multifactor processes modeling. The proposed method of multi-dimensional interpolation allows one to analytically determine and optimize geometric models based on a discrete array of points in the form of initial experimental and statistical information. This approach is particularly effective in modeling those processes and phenomena that have a large number of interrelated factors. These examples confirm the effectiveness of the method of multidimensional interpolation and approximation in relation to the geometric modeling problems of multifactor processes and phenomena. They include a two-factor process and optimization of the composition the combined aggregate of fine-grained concrete by means of multidimensional interpolation, a three-factor process — modeling of the distribution of strength characteristics throughout the volume of the concrete column, as well as an analytical description and optimization of the geometric model of the dependence of the pre-case of the compressive strength fine-grained degtepolymerbeton from 4 factors. The prospect of further research is the application of the method of multidimensional interpolation to the geometric modeling and optimization of socio-economic, thermodynamic and lighting processes and phenomena.
+     </p>
+   item_keywords: geometric model, multifactor process, multidimensional interpolation, response function, influence factors, point equation, geometric model tree, curve arc, surface compartment, hypersurface compartment
+   item_pages: 77–86
+   item_citation: 'Konopatskiy E. V. Approach to the Construction of Geometric Models of Multifactor Processes and Phenomena by the Method of Multidimensional Interpolation, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 77—86. '
+ - doi: 10.87-96
+   udk: "519.876.5"
+   item_authors: "Akopov A. S., Beklaryan A. L., Saghatelyan A., Sahakyan L., Belyaeva O., Tepanosyan G."
+   item_name: "Decision Support System for the Rational Greening of the City on the Example of Yerevan, Republic of Armenia"
+   item_authors_address: |
+     <b> A. S. Akopov</b>, aakopov@hse.ru, <b> A. L. Beklaryan</b>, abeklaryan@hse.ru, National Research University Higher School of Economics, Moscow, 105187, Russian Federation, <b>  A. Saghatelyan</b>, ecocentr@sci.am, <b> L. Sahakyan</b>, lilit.sahakyan@cens.am, <b> O. Belyaeva</b>, olga.belyaeva@cens.am, <b> G. Tepanosyan</b>, gevorg.tepanosyan@cens.am, Center for Ecological-Noosphere Studies National Academy of Sciences, Yerevan, 0025, Armenia
+   item_corr_author: " Beklaryan Armen L., Associate Professor, National Research University Higher School of Economics, Moscow, 105187, Russian Federation, E-mail: abeklaryan@hse.ru"
+   item_rec_on:  October 11, 2018
+   item_acc_on:  October 31, 2018
+   item_annot: |
+     <p> This article presents the developed decision support system for the rational management of landscaping on the example of Yerevan, Republic of Armenia. Using agent-based modeling methods, a simulation model has been de­veloped for the distribution of emissions of harmful substances into the atmosphere, taking into account their inter­action with green plantings (trees) in order to minimize the concentration of harmful emissions in protected (socially significant) areas, in particular, in kindergarten areas. An important element of the developed system is the proposed genetic algorithm for real coding, aggregated with a simulation model of emission propagation, implemented on the AnyLogic platform. As a result of numerical experiments, the best configuration of tree planting around kindergartens in Yerevan has been obtained, ensuring the minimum level of concentration of harmful substances in the respective protected areas, taking into account the restrictions on the cost of the greening program. The developed software complex allows for: further detailing of the emission distribution simulation model; modeling strategies for vertical gardening (i.e., landscaping walls and roofs); clarification of the methodology for predicting the dynamics of the spread of harmful emissions; development of the software complex as a decision support system for environmental planning, taking into account the density of residents distribution, and remoteness of urban buildings from industrial enterprises and traffic flows (roads) in the formation of an optimal greening strategy.
+     </p>
+   item_keywords: genetic algorithm, greening, harmful emissions, environmental modeling, simulation modeling
+   item_pages: 87–96
+   item_comment: ' This work was partially supported by the Russian Foundation for Basic Research, project no. 18-51-05004, and by the Committee on Science of the Ministry of Education and Science of the Republic of Armenia, project no. 18RF-092. Project number in the period 2015—2017 was 15RF-061.'
+   item_citation: 'Akopov A. S., Beklaryan A. L., Saghatelyan A., Sahakyan L., Belyaeva O., Tepanosyan G. Decision Support System for the Rational Greening of the City on the Example of Yerevan, Republic of Armenia, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 87—96.'
+---

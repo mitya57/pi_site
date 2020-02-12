@@ -1,0 +1,90 @@
+---
+title: Issue N5 2018 year 
+content:
+ - doi: 9.195-208
+   link: 9.195-208
+   udk: "004"
+   item_authors: "Vasenin V. A., Itkes A. A."
+   item_name: "Using Relation-Based Access Control Model within Django-Based Web Application"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, e-mail: vasenin@msu.ru, Faculty of Mechanics and Mathematics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, <b> A. A. Itkes</b>, e-mail: itkes@imec.msu.ru, Scientific Research Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: " Vasenin Valery A., Professor, Moscow State University, Moscow, 119191, Russian Federation, E-mail: vasenin@msu.ru"
+   item_rec_on:  February 26, 2018
+   item_acc_on:  March 14, 2018
+   item_annot: |
+     <p> This article examines the approaches to implementation of relation-based access control model within Web applications based on the Django framework. It introduces the mechanisms of describing the access control models within the code of such systems providing ability to analyze the access control rules statically. At the same time the proposed access control implementation mechanism provides an easy way to maintain the access control model without need of writing access control rules on other languages but Python, which the Django library is written on. Also this article describes some ways of building automated tests for the relation-based access control mechanism.</p>
+   item_keywords: access control, information security, relation-based access control model, web applications
+   item_pages: 195–208
+   item_citation: 'Vasenin V. A., Itkes A. A. Using Relation-Based Access Control Model within Django-Based Web Applications, Programmnaya Ingeneria, 2018, vol. 9, no. 5, pp. 195—208.'
+ - doi: 9.209-220
+   link: 9.209-220
+   udk: "004.434"
+   item_authors: "Itsykson V. M."
+   item_name: "LibSL: Language for Specification of Software Libraries"
+   item_authors_address: | 
+     <b> V. M. Itsykson</b>, vlad@icc.spbstu.ru, Peter the Great St. Petersburg Polytechnic University, Saint-Petersburg, 195251, Russian Federation 
+   item_corr_author: " Itsykson Vladimir M., Chair of Computer Systems & Software Engineering department, Peter the Great St. Petersburg Polytechnic University, Saint-Petersburg, 195251, Russian Federation, E-mail: vlad@icc.spbstu.ru "
+   item_rec_on:  February 04, 2018 
+   item_acc_on:  February 20, 2018
+   item_annot: |
+     <p> Most of modern software applications widely use third-party components and libraries. It can simplify design and development and can reduce cost and time to market. The main problem of using third-party components is a lack of acceptable documentation. This lack is a cause of low quality of such multicomponent projects and leads to different program defects. The article reviews modern approaches to formal language-based specification of software libraries. Such language-based specifications can be used for automation of some class of software engineering tasks related to multicomponent projects when source code of components is unavailable. Based on formulated requirements syntax and semantics of new language LibSL for partial specification of libraries were developed. LibSL is based on formalism of interacting extended finite state machines which was created by author before. The created language can specify library interface and its visible behavior. Each public function from library API is described by its signature and high-level behavior. Interacted extended finite state machines are defined explicitly by means of states and shifts descriptions.
+     Such specifications can help automate several actual tasks of software engineering such as defect detection of software which uses external libraries, library access protocol correctness verification, libraries compatibility check, software reengineering etc.
+     </p>
+   item_keywords: software library, component of software, partial specification, behavior specification language
+   item_pages: 209–220
+   item_citation: ' Itsykson V. M. LibSL: Language for Specification of Software Libraries, Programmnaya Ingeneria, 2018, vol. 9, no. 5, pp. 209—220.'
+ - doi: 9.221-227
+   link: 9.221-227
+   udk: "004.056.55"
+   item_authors: "Suprunyuk S. O., Kurganov E. A."
+   item_name: "On Depth of the ZUC Stream Cipher Hardware Implementation"
+   item_authors_address: | 
+     <b> S. O. Suprunyuk</b>, sofia-92@mail.ru, <b> E. A. Kurganov</b>, kuev@yandex.ru, Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Kurganov Evgeny A., Postgraduate Student, Moscow State University, Moscow, 119991, Russian Federation, E-mail: kuev@yandex.ru"
+   item_rec_on:  January 04, 2018
+   item_acc_on:  January 23, 2018
+   item_annot: |
+     <p> A programmable logic device (PLD) is an electronic component that is used to build digital circuits that are reprogrammable. PLD is widely used in different implementations of information protection facilities. It offers high operating speed and possibility to quickly change compromised or obsolete encryption algorithms due to flexibility of programmatic methods and power of hardware implementations, such as ASIC.
+     This paper deals with a hardware implementation of ZUC cipher. This implementation can be implemented by using logical conjunction, disjunction, negation and delay blocks. The main indicator of productivity of such implementations is a circuit depth, namely the maximum length of a simple way of the circuit (negation elements are not taken into account).
+     ZUC is a stream cipher designed by the Data Assurance and Communication Security Research Center (DACAS) of the Chinese Academy of Sciences. The cipher forms the core of the 3GPP mobile standards 128-EEA3 (for encryption) and 128-EIA3 (for message integrity). It was proposed for inclusion in the Long Term Evolution (LTE) or the 4th generation of cellular wireless standards (4G).
+     A detailed description of ZUC cipher is provided at the beginning of the article. The depth estimation of basic components (Adder, S-box, etc.) and the simplest cipher implementation are presented. The article concludes with several optimizing circuit transformations and statements which contribute to reduction of implementation depth. The article also includes the review of existing studies.
+     </p>
+   item_keywords: hardware implementation, circuit depth optimization, stream ciphers, ZUC cipher, linear feedback shift registers, field
+   item_pages: 221–227
+   item_citation: 'Suprunyuk S. O., Kurganov E. A. On Depth of the ZUC Stream Cipher Hardware Implementation, Programmnaya Ingeneria, 2018, vol. 9, no. 5, pp. 221—227.'
+ - doi: 9.228-234
+   link: 9.228-234
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Basic Mistakes in Project Management in Custom Software Development"
+   item_authors_address: | 
+     <b> D. S. Pashchenko</b>, denpas@rambler.nj, Moscow, 123368, Russian Federation 
+   item_corr_author: " Pashchenko Denis S., Ph. D., MBA, Independent consultant in software development, Moscow, 123368, Russian Federation, E-mail: denpas@rambler.ru "
+   item_rec_on:  February 22, 2018
+   item_acc_on:  March 13, 2018
+   item_annot: |
+     <p> The growth of demand for custom software development services predetermines the appearance on the Russian market of new companies offering this service. Some of them come from related IT-spheres — distribution of hardware, consulting, advertising services, development of web-sites. Such companies participate in tenders and, in case of victory, hastily recruit a new team in the labor market to implement the project. This article describes typical errors of such teams in the management of projects of custom software development: from project planning to product and HR-management in the team. The article provides ways to identify such errors by analyzing project artifacts: project plan, risk plan, internal labor accounting documents in the team and architecture diagrams. For each group of detected errors the recommendations to correct the effects are presented, proven to reduce their negative impact. Recommendations for improving processes and artifacts in custom software development projects will be useful for executive managers in customer companies and project managers who lead newly formed software development teams in IT-companies from related fields.
+     </p>
+   item_keywords:  project management, software products, software development projects, production organization, custom software development
+   item_pages: 228–234
+   item_citation: ' Pashchenko D. S. Basic Mistakes in Project Management in Custom Software Development, Programmnaya Ingeneria, 2018, vol. 9, no. 5, pp. 228—234.'
+ - doi: 9.235-240
+   link: 9.235-240
+   udk: "004.421.6"
+   item_authors: "Makhortov S. D."
+   item_name: "On Expressive Possibilities of Schemes for Strings Structure Description"
+   item_authors_address: | 
+     <b> S. D. Makhortov</b>, msd_exp@outlook.com, Voronezh State University, Voronezh, 394018, Russian Federation 
+   item_corr_author: " Makhortov Sergey D., Head of Department of Applied and System Software, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: msd_exp@outlook.com"
+   item_rec_on:  March 22, 2018
+   item_acc_on:  April 05, 2018
+   item_annot: |
+     <p> The algorithms for computation on strings find increasing use in various applied fields, such as word processing, data compression, cryptography, speech recognition, computational geometry, molecular biology. Their relevance has significantly increased in recent decades with the appearance of new subject areas that require efficient processing of giant character sequences. These areas, in particular, include computer vision, information search in global networks, computational genomics and some others.
+     Many effective algorithms for texts comparing and analyzing are based on preprocessing — a preliminary study of the structure of a string. As a result of this processing, some auxiliary construction is built, which allows one to significantly reduce the number of redundant character comparisons. At this stage, only one of the processed strings (for example, a sample or text) is usually examined, and the other string compared can remain unknown. It is important that preprocessing takes an acceptable amount of time. This is followed by the phase of direct search or analysis of substrings, on which the earlier obtained information about the string is used to reduce the work.
+     This article considers two of the most well-known and effective schemes for preliminary analysis and description of the strings structure — borders arrays (prefix-function) and Z-blocks (Z-function). The author carries out a comparative analysis of their expressive possibilities. He also proposes and justifies a new linear algorithm for transforming a borders array into an array of Z-blocks, discusses some of its modifications that can improve the efficiency of work.
+     The results obtained can be applied to practical study of large character sequences.
+     </p>
+   item_keywords: string, string matching, preprocessing, prefix-function, Z-function, complexity analysis
+   item_pages: 235–240
+   item_citation: ' Makhortov S. D. On Expressive Possibilities of Schemes for Strings Structure Description, Programmnaya Ingeneria, 2018, vol. 9, no. 5, pp. 235—240.'
+---

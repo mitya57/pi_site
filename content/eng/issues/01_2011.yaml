@@ -1,0 +1,88 @@
+---
+title: Issue N1 2011 year 
+content:
+ - doi:
+   link: _1_2011_1
+   udk: "004.4"
+   item_authors: "Pozin B.A."
+   item_name: "Modern Software Engineering Problems"
+   item_authors_address: | 
+     <b> B. A. Pozin </b>, E-mail: contact@ec-leasing.ru
+   item_annot: |
+     <p> Article presents modern actual problems of Software Engineering. SWEBOK list of processing of Software Engineering is reviewed. Special interest of the investi-gation is information systems software maintenance in industrial mode. Object of interest is information systems software maintenance in large scale distributed organizations and special processed associated with them.
+     </p>
+   item_keywords: information systems software maintenance, SWEBOK, requirement management, functional, perfomance testing while software maintenance
+   item_pages: 2–6
+ - doi:
+   link: _1_2011_2
+   udk: "004.41 (075.8)"
+   item_authors: "Lipaev V. V."
+   item_name: "Engineering Psychology by Manufacture of Components of Software Solutions"
+   item_authors_address: | 
+     <b> V. V. Lipaev </b>, E-mail: alexlip@mail.ru 
+   item_annot: |
+     <p> The main concepts of engineering psychology of the collectives which are engaged in manufacture of difficult program complexes, as a direction which allows to describe psychological singularities of leaders of such collectives making them of industrial groups and separate experts are considered.      </p>
+   item_keywords: engineering professional psychology, human factors of leaders of collectives, psychological characteristics of experts, singularities of psychology of industrial groups, components of software solutions
+   item_pages: 7–15
+ - doi:
+   link: _1_2011_3
+   udk: "004.054"
+   item_authors: "Gvozdev V. E., Iliasov B.G."
+   item_name: "Program Project Pyramid"
+   item_authors_address: | 
+     <b> V. E. Gvozdev </b>,
+     <b> B. G. Iliasov </b>, E-mail: wega55@mail.ru
+   item_annot: |
+     <p> System model proposed, summarizing well known program project models — "project triangles" — and originating systematical approach for hierarchically organized models aggregate containing different types of models: structural, cognitive, mathematical. Program project environment and internal surrounding models, also cognitive program project model shows.
+     </p>
+   item_keywords: program project, program product, program project pyramid, project triangles, environment and internal surrounding models, cognitive model.
+   item_pages: 16–24
+ - doi:
+   link: _1_2011_4
+   udk: "004.4'24"
+   item_authors: "Guss S.V."
+   item_name: "Guidance Package for Development of Domain-Specific Program Family"
+   item_authors_address: | 
+     <b> S.V.Guss </b>,
+     E-mail: InfoGuss@gmail.com
+   item_annot: |
+     <p> The paper discusses common program family development tasks within the bounds of software-product line based on systematic software reuse. There is overview of foundations and principles underlying this practice. It also pays attention for characteristics of developers and their learning curve      </p>
+   item_keywords: program family, software product line, software reuse, software factory, domain modeling
+   item_pages: 25–33
+ - doi:
+   link: _1_2011_5
+   udk: "681.3.06+519.68"
+   item_authors: "Bakanov V.M."
+   item_name: "Efficiency of Multiprocessing Computing Systems at the Decision of Computing Problems "
+   item_authors_address: | 
+     <b> V. M. Bakanov </b>, E-mail: e881e@mail.ru
+   item_annot: |
+     <p> Problems of an effective utilization of resources of multiprocessing computing systems of MPP-architecture for calculations on concrete a parallel algorithms are discussed. The integrated quantity indicator effectivity performance of the given parallel program on the concrete multiprocessing computing system (MCS), considering both hardware indicators MCS, and quality parallelisation is offered.
+     </p>
+   item_keywords: parallel programming, architecture MPP, network technologies, latency, parallel program, technology MPI, efficiency parallelisation.
+   item_pages: 34–38
+ - doi:
+   link: _1_2011_6
+   udk: "004.4'2, 004.413, 378.14"
+   item_authors: "Pavlovskiy E. N."
+   item_name: "On Software Engineering Specialists Training"
+   item_authors_address: | 
+     <b> E. N. Pavlovskiy </b>, E-mail: euxsun@gmail.com
+   item_annot: |
+     <p> The paper is on using software engineering methodogies and instruments in educational process organization. It is suggested to use several tools: CMM-model for education, version control systems, bugtracking systems, formal ontologies, project management methodology and collective forms of learning.
+     </p>
+   item_keywords: version control systems, bugtracking systems, capability maturity model (СММ), formal ontologies, project management, motivating students
+   item_pages: 39–44
+ - doi:
+   link: _1_2011_7
+   udk: "378.016+004.413:339.1"
+   item_authors: "Ehlakov Yu. P."
+   item_name: "Development of the Professional Competences for the Educational Standard of Software Engineering"
+   item_authors_address: | 
+     <b> Yu. P. Ehlakov </b>, E-mail: upe@tusur.ru
+   item_annot: |
+     <p> Main problems are set out for university graduates in starting business activities on the market of applied software development. Complementary professional competencies are described and disclosed to form a modern approach among students for introducing software products into markets, and to develop practical knowledge for business organization and management.
+     </p>
+   item_keywords: software market, segmentation and positioning, legal regulations for small business, team creation, planning and analysis of financial activities, forms and methods of price formation.
+   item_pages: 45–47
+---

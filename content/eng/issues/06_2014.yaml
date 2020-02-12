@@ -1,0 +1,81 @@
+---
+title: Issue N6 2014 year
+content:
+ - doi:
+   link: _6_2014_1
+   udk: '004.432'
+   item_authors: Levin I. I., Dordopulo A. I., Kalyaev I. A., Gudkov V. A.
+   item_name: High-Performance Reconfigurable Computer Systems on the Base of Virtex-7 FPGAs
+   item_authors_address: '<b> I. I. Levin</b>, <b>A. I. Dordopulo</b>, <b>I. A. Kalyaev</b>, <b>V. A. Gudkov</b>, e-mail: lina@mvs.tsure.ru'
+   item_annot: |
+     <p> In the paper we compare parameters of reconfigurable computer systems (RCS) based on computational modules 24V7-750 and "Taygeta", which contain Xilinx Virtex-7 FPGAs. The distinctive features of RCSs based on Xilinx Virtex-7 in comparison with similar systems based on Xilinx Virtex-6 FPGAs are higher performance (in 1,7 times) and better technical and economic parameters such as specific performance, power efficiency, etc. We also consider solution of an application task with the help of developed application development suit for RCS.
+     </p>
+   item_keywords: reconfigurable computer system, computational module, FPGA, application software
+   item_pages: 3–7
+ - doi:
+   link: _6_2014_2
+   udk: "004.4'418"
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: Code Generation by Exact Joint Solution of the Instruction Selection and Scheduling Tasks
+   item_authors_address: '<b> N. I. Vyukova </b>, e-mail: niva@niisi.msk.ru, <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru, <b> S. V. Samborskij </b>'
+   item_annot: |
+     <p> The paper presents a code generation method based on the exact joint solution of instruction selection and scheduling tasks. The benefits of the method proposed are the maximal account for parallel execution during instruction selection, generation of the optimal spill code, automated use of instructions with multiple results. An experimental implementation of the code generator and possible directions of evolving the approach are discussed.
+     </p>
+   item_keywords: code optimization, instruction selection, instruction scheduling, integer linear programming
+   item_pages: 8–15
+ - doi:
+   link: _6_2014_3
+   udk: '004.3'
+   item_authors: Yurushkin M. V.
+   item_name: Block Data Layout Automation in C Language Compiler
+   item_authors_address: '<b> M. V. Yurushkin </b>, e-mail: m.yurushkin@gmail.com'
+   item_annot: |
+     <p> In this paper C language extension enabling automatic block data layout support is described. It was implemented in OPS (Optimizing Parallel System) using several compiler directives. Numerical experiments results of program acceleration using implemented directives are presented.
+     </p>
+   item_keywords: optimizing compilers, block data layout, data cache, TLB cache
+   item_pages: 16–18
+ - doi:
+   link: _6_2014_4
+   udk: '519.674'
+   item_authors: Karpukhin S. A.
+   item_name: On Geometric Optimization by Means of Minkowski Sums Rasterisation
+   item_authors_address: '<b> S. A. Karpukhin </b>, e-mail: ks-linp@yandex.ru'
+   item_annot: |
+     <p> A problem of finding the largest polytope of specied shape inside another is considered. A numerical method based on the rasterisation of inner and outer polytopes' Minkowsky sums is proposed. A proof of method's convergence in case of star-shaped polytopes is provided.
+     </p>
+   item_keywords: geometric optimisation, polytope placement, Minkowski sums, largest inscribed polytope
+   item_pages: 19–22
+ - doi:
+   link: _6_2014_5
+   udk: '004.5'
+   item_authors: Turovsky Ya. A..
+   item_name: The Creating, on the Genetic Algorithm Base, Filters for EEG-conditions Analysis
+   item_authors_address: '<b> Ya. A. Turovsky </b>, e-mail: yaroslav_turovsk@mail.ru '
+   item_annot: |
+     <p> The given article deals with the genetic algorithm of creating specialized filters for undimensional biomedical signals analysis. We offer several ways of action for each stage of the given algorithm's performance. We have shown the possibility of comparing both average modules of values of the difference between the coefficients of the convolution with such filters of two sets of EEG signals that correspond to the two explored states, and modules with a maximum difference of values of convolution coefficients. We offer two approaches of averaging the filters over the course of their "crossing": in the time and frequency domains. The advantages and disadvantages of each of these approaches are discussed. To carry out the "mutation", we apply noises: additive blue, flicker and/or white noise, and for "crossover" — the exchange of time sequences for the filters. There is demonstrated a successful implementation of the given algorithm for defining two states of EEG, received during the experiments with systems of human-machine interaction. We demonstrated that already by the 20th generation of filters the difference of coefficients of signals convolution with bred filters significantly increases compared to first generations. The offered approach lets drastically increase the research opportunities white detecting different functional states in humans and animals.
+     </p>
+   item_keywords: genetic algorithm, signal filtration, EEG
+   item_pages: 23–28
+ - doi:
+   link: _6_2014_6
+   udk: '534.1'
+   item_authors:  Ivanova O. A., Marchevsky I. K.
+   item_name: Modeling of the Unsteady Aeroelastic Oscillations of the Transmission Line Conductor Using Capabilities of Multiprocessor Computer Systems
+   item_authors_address: '<b> O. A. Ivanova,</b>, e-mail: ivanovaolgaal@mail.ru, <b> I. K. Marchevsky </b>'
+   item_annot: |
+     <p> The problem of mathematical modeling of overhead transmission line conductor galloping motion is considered. The conductor is assumed to be covered with asymmetrical icing. The aerodynamic loads acting on the conductor cross-sections are calculated through direct numerical simulation of the flow around them using meshfree viscous vortex domains method. In order to carry out effective numerical analysis of the problem the parallel computer program was developed.
+     </p>
+   item_keywords: mathematical modeling, overhead transmission line, galloping, aerodynamic loads, viscous vortex domains method, parallel algorithm
+   item_pages: 29–37
+ - doi:
+   link: _6_2014_7
+   udk: '929:004'
+   item_authors: Podlovchenko R. I.
+   item_name: The Origins of Russian Software Engineering in the Eyes of the Witness
+   item_authors_address: '<b> R. I. Podlovchenko </b>, e-mail: podlovchenko.rimma@gmail.com'
+   item_annot: |
+     <p> This paper is a story of the formation of software engineering in Russia in the light of contemporary and participant of the bygone events.
+     </p>
+   item_keywords: computational mathematics, software engineering, theory of program schemata, cybernetics
+   item_pages: 38–48
+---

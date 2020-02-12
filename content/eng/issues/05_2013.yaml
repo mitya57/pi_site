@@ -1,0 +1,87 @@
+---
+title: Issue N5 2013 year
+content:
+ - doi:
+   link: _5_2013_1
+   udk: '004.414'
+   item_authors: Gvozdev V. E., Blinova D. V., Rovneiko N. I., Yamalova O. P.
+   item_name: Systemic and Structural Modelling of Requirements to Software and Software Projects
+   item_authors_address: ' <b> V. E.Gvozdev </b>, <b> D. V. Blinova </b>,<b> N. I. Rovneiko </b>, <b> O. P. Yamalova </b>, e-mail: blinova.darya@gmail.com'
+   item_annot: |
+     <p> In this article considers the process of requirements formation to software projects, describes the process of formation of the framework of the requirements of a software project, given the systemic, structural and hierarchical model requirements.
+     </p>
+   item_keywords: requirements to software products and projects, the framework of requirements, system and structural model requirements
+   item_pages: 2–10
+
+ - doi:
+   link: _5_2013_2
+   udk: '004.8'
+   item_authors: Kolosovskiy M. A., Kryuchkova E. N.
+   item_name: Adaptation of Parameters of Image Segmentation Algorithm QuickShift
+   item_authors_address: ' <b> M. A.Kolosovskiy </b>, e-mail: maxim.astu@gmail.com,<b> E. N. Kryuchkova </b>, e-mail: kruchkova_elena@mail.ru'
+   item_annot: |
+     <p> This paper is about image segmentation algorithm QuickShift. The goal of the research is to explore how various values of algorithm parameters affect on segmentation results. The results of experiments are quality evaluation of segmentation with different parameter values, the most suitable cases for each parameter value and some recommendation on parameters adjusting.
+      </p>
+   item_keywords: image segmentation, QuickShift, superpixels
+   item_pages: 11–20
+
+ - doi:
+   link: _5_2013_3
+   udk: '61.004.62'
+   item_authors: Bolshakova M. A., Lobanov V. V.
+   item_name: Software Implementation of Intelligent Electronic Dictionary for Distance Learning
+   item_authors_address: ' <b> M. A. Bolshakova </b>, <b> V. V. Lobanov </b>,  e-mail: lobanovvv@gmail.com '
+   item_annot: |
+     <p> The article discusses the software implementation of intellectual electronic dictionary (IED) of robotics in the German language in the system of e-learning, as well as in the form of plug-language processor. Proposed hardware and technical architecture of IED selected models of knowledge representation, storage, and contents of the dictionary. The proposed solution provides the scalability, openness and virtuality. Shell IED provides the opportunity to work with a given subject area
+     </p>
+   item_keywords: e-learning, intelligent electronic dictionary, hardware-technical architecture, knowledge representation model, storage model, the software, Internet-service, WEB-interface
+   item_pages: 21–26
+
+ - doi:
+   link: _5_2013_4
+   udk: '004.056.5'
+   item_authors: Galatenko A. V., Galatenko V. A.
+   item_name: On Formulation of Access Control Problem in Distributed Object Environment 
+   item_authors_address: '<b> A. V. Galatenko </b>, e-mail: agalat@msu.ru, <b> V. A. Galatenko </b>, e-mail: galat@niisi.msk.ru'
+   item_annot: |
+     <p> We consider the problem of access control in object systems. From our point of view object approach combined with logical apparatus provides a natural and technological problem formulation. It is reasonable to apply the proposed approach to the framework of controlled execution.
+     </p>
+   item_keywords: access control, distributed object environment, predicate-based definition
+   item_pages: 27–30
+
+ - doi:
+   link: _5_2013_5
+   udk: '519.6'
+   item_authors: Kovartsev A. N., Popova-Kovartseva D. A.
+   item_name: Structural Optimization of a Control Flow Graph Based on the Algorithm of Topological Sort
+   item_authors_address: '<b> A. N. Kovartsev</b>, <b> D. A. Popova-Kovartseva </b>,  e-mail: kovr_ssau@mail.ru'
+   item_annot: |
+     <p> Algorithms for topological ordering of a directed graph are widely used wherever necessary to produce a reasonable sequence of actions when one action is dependent on others. In this paper, topological sorting algorithm is used as the basic heuristic to construct an approximate algorithm for structural optimization of the control graph of the program in order to reduce the number of the test paths. The feature of the proposed algorithm is that it works not only with the directed acyclic graphs, but with the graphs containing the cycles.
+     </p>
+   item_keywords: structural optimization, control flow graph, algorithm for topological ordering, global optimization
+   item_pages: 31–36
+
+ - doi:
+   link: _5_2013_6
+   udk: '005'
+   item_authors: Butyrin O. V., Pomogaev I. E.
+   item_name: The Method of Rational Planning Control State of the Rails by Manual Means of Defectoscopy
+   item_authors_address: '<b> O. V. Butyrin</b>, <b> I. E. Pomogaev </b>, e-mail: alz5@mail.ru'
+   item_annot: |
+     <p> The article considered issues of methodology of planning control state of the rails by manual means of defectoscopy relative to a given time interval by solving linear programming problems, considering a number of conditions.
+     </p>
+   item_keywords: inspection, defectoscopy, planning of control, problem of liner programming
+   item_pages: 37–43
+
+ - doi:
+   link: _5_2013_7
+   udk: '519.683'
+   item_authors: Seleznyov K. E.
+   item_name: 'Full Text Search in Accounting Encyclopedy "Berator"'
+   item_authors_address: '<b> K. E. Seleznyov </b>, e-mail: skostik@relex.ru'
+   item_annot: |
+     <p> The paper contains information about implementation of full-text search in Berator. Described modules provides powerful text search capabilities, but have minimal requirements on hardware and can work on mobile devices.
+     </p>
+   item_keywords: full text search, word morphology analysis, mobile devices
+   item_pages: 44–47
+---

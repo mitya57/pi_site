@@ -1,0 +1,96 @@
+---
+title: Issue N8 2017 year 
+content:
+ - doi: 8.339-344
+   link: 8.339-344
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Reflection in the Russian Practice of World Trends in Technologies, Tools and Approaches to Software Development"
+   item_authors_address: | 
+     <b> D. S. Pashchenko</b>, denpas@rambler.ru, SlavaSoft, Moscow, 125368, Russian Federation 
+   item_corr_author: " Pashchenko Denis S., CEO, SlavaSoft, Moscow, 125368, Russian Federation, E-mail: denpas@rambler.ru"
+   item_rec_on: May 26, 2017 
+   item_acc_on: June 09, 2017
+   item_annot: |
+     <p> Technologies and approaches to software development (SD) are changing rapidly, and in a highly competitive environment the maturity of production processes is an essential factor of commercial success. Russia is part of the global software development market, and Russian teams are involved in a large number of international projects. This article contains some of the results of the authors research finished in the spring of 2017 and covered 79 experienced engineers from all Federal Districts of Russia. The study demonstrated the relevance of the latest and significant global trends in technologies and approaches to software development in Russian regions. There is а strong demand for popular software development tools in Russian practice: from Git (version storage system) to JavaScript as a language for full-stack development. The panel of experts also noted the relative and lagging correspondence of Russian experience in software development approaches to current global trends and quite optimistic estimation of the demand for new trends.
+     </p>
+   item_keywords: software development technologies, software development tools, promising manufacturing practices, Russian experience
+   item_pages: 339–344
+   item_citation: 'Pashchenko D. S. Reflection in the Russian Practice of World Trends in Technologies, Tools and Approaches to Software Development, Programmnaya Ingeneria, 2017, vol. 8, no. 8, pp. 339—344.'
+ - doi: 8.345-353
+   link: 8.345-353
+   udk: "004.43"
+   item_authors: "Vasenin V. A., Krivchikov M. A."
+   item_name: "Program Intermediate Representation Techniques"
+   item_authors_address: | 
+     <b> V. A. Vasenin</b>, vasenin@msu.ru, <b> M. A. Krivchikov</b>, maxim.krivchikov@gmail.com, Lomonosov Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Krivchikov Maxim A., Senior Researcher, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: maxim.krivchikov@gmail.com"
+   item_rec_on:  April 21, 2017 
+   item_acc_on:  May 30, 2017
+   item_annot: |
+     <p> The concept of an intermediate representation of a program originates from software translation theory. In the present paper the classification of high-level intermediate representations is proposed, together with the review of current state-of-the-art research in intermediate representations. The paper presents a part of a research project aimed at development of intermediate representation for high-level specification of formal semantics for domain specific programming languages. The review is mostly concerned with mathematical representation of intermediate representations. The five proposed intermediate representation classes are:
+     <ul>
+     <li>low-level intermediate representations used mostly in compilers;</li>
+     <li>bytecode-based application virtual machines for imperative programming languages;</li>
+     <li>bytecode-based application virtual machines for functional programming languages;</li>
+     <li>internal graph-based intermediate representations;</li>
+     <li>high-level, programming language-specific intermediate representations based on canonical forms for the AST.</li></ul> The review contains 22 intermediate representations. Looking at them in chronological order we can observe the
+     following shift in problem statements. Earlier intermediate representations ([4, 6, 7, 11—14, 19, 21] and classical examples of SSA, RTL and three-address code) are used primarily as a fixed data structure, in other words, an interface between different stages of compilation pipeline. Recent intermediate representations ([2, 15—18, 20, 22, 23] and, to lesser degree, [4], mentioned previously) are more concerned with type system. These representations are used to simplify implementation of the type checker. In addition, we shall mention intermediate representations aimed at formal verification procedures ([1, 10, 24] and [22, 23] from previous group).
+     Industrial intermediate representations (in comparison with academic research) usually have more primitive instructions or commands. The increase is mostly due to primitive type constants, operations and relations. We shall also note the similarity between intermediate representations for the object-oriented programming languages (e.g. [4, 6]) and dynamically-typed programming languages ([8, 12]): in both cases instructions of the dynamical (run-time) type checking are present.
+     Related work includes the article [25], which contains systematic review of intermediate representations, and report [26] with rather detailed comparison of type system expressiveness for three typed intermediate representations.
+     </p>
+   item_keywords: programming languages, intermediate representation, program translation, formal semantics, software engineering, review, classification
+   item_pages: 354–353
+   item_citation: 'Vasenin V. A., Krivchikov M. A. Program Intermediate Representation Techniques, Programmnaya Ingeneria, 2017, vol. 8, no. 8, pp. 345—353'
+ - doi: 8.354-358
+   link: 8.354-358
+   udk: "004.921"
+   item_authors: "Mikhayluk M. V., Trushin A. M."
+   item_name: "Spheres Collision Detection Algorithms on GPU "
+   item_authors_address: | 
+     <b> M. V. Mikhayluk</b>, mix@niisi.ras.ru, D. Sc., Head of Department, <b>  A. M. Trushin</b>, Researcher, Scientific Research Institute of System Analysis Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: " Mikhayluk Mikhail V., Professor, D. Sc., Head of Department, Scientific Research Institute of System Analysis Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: mix@niisi.ras.ru "
+   item_rec_on:  April 05, 2017 
+   item_acc_on:  April 14, 2017
+   item_annot: |
+     <p> In the paper we consider the problem of pairwise collision detection of spheres and spheres with capsules in virtual object dynamics calculation systems. Performing this task in real-time on CPU (Central Processing Unit) for hundreds of thousands pairs of spheres and capsules is impossible. The algorithms to solve these tasks on GPU (Graphics Processing Unit) are proposed here. First, the technology and features of the CUDA (Compute Untied Device Architecture) architecture and features of work are described, in particular, memory organization, data transferring from CPU to GPU and back, the implementation of conditional statements, etc. Then, the algorithms of kernels to solve raised tasks are presented. In these algorithms conditional statements are replaced with simple expressions, involving condition flags. The proposed algorithms were tested on virtual scenes with different number of spheres and capsules (from several thousand to several million), and their working time on CPU was compared with the one computed with CUDA. It was shown that the tasks are solved on the GPU 50—100 times faster, starting from 17 thousand pairs for spheres and from 8,5 thousand sphere/capsule pairs. The developed software modules are implemented in the simulator for complex dynamic systems control, developed in Scientific Research Institute for System Analysis Russian Academy of Sciences. They can be used in multibody dynamics calculation systems, virtual environment systems, virtual laboratories, etc.
+     </p>
+   item_keywords: virtual objects, collision detection, sphere, capsule, GPU, CUDA, parallel computing, virtual environment systems
+   item_pages: 354–358
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-37-00218-мол_а.'
+   item_citation: ' Mikhayluk M. V., Trushin A. M. Spheres Collision Detection Algorithms on GPU, Programmnaya Ingeneria, 2017, vol. 8, no. 7, pp. 354—358.'
+ - doi: 8.359-368
+   link: 8.359-368
+   udk: "004.056"
+   item_authors: "Shniperov A. N., Chistyakov A. P."
+   item_name: "The Method and Information System for the Exchange of Confidential Information in Open Computer Networks"
+   item_authors_address: | 
+     <b> A. N. Shniperov</b>, ashniperov@sfu-kras.ru, <b> A. P. Chistyakov</b>, acella93@mail.ru, Siberian Federal University, Krasnoyarsk, 660074, Russian Federation 
+   item_corr_author: "Shniperov Alexey N., Head of Information Security Laboratory, Siberian Federal University, Krasnoyarsk, 660074, Russian Federation, E-mail: ashniperov@sfu-kras.ru"
+   item_rec_on: April 26, 2017
+   item_acc_on:  May 29, 2017
+   item_annot: |
+     <p> Submitted article considers the problem of protecting confidential information in open computer networks. The paper views the method and information system for instant messaging of confidential information in networks. The method is based on the idea of sharing cryptographic keys and distributing them through various network channels. The article reviews and analyzes the existing instant messaging applications including WhatsApp, Viber, Telegram, Threema in terms of security of information exchange. It is concluded that all the systems are subject to a classic MITM-attack on the key information coming from the server side. For example, this is possible for the government agencies with access to the server. The article proposes a model of the information system which basically solves this problem by dividing the shared secret via several communication channels. The Infrastructure of the encryption keys is described in detail, including the algorithms for their distribution. We also consider cryptographic primitives, which we used. The article considers the protocols of the network interaction of subscribers in the information system. In addition, the article describes the development technology, as well as the development tools which were used. The article deals with the architecture of the information system in terms of its load capacity and its scalability.
+     </p>
+   item_keywords: information security, cryptoprotocols, telecommunication security, MITM-attack, shared secret key, end-to-end encryption, instant messaging applications, fault tolerance, security network protocol
+   item_pages: 359–368
+   item_comment: ' This work was supported by the Krasnoyarsk Regional Foundation for Support of Scientific and Technical Activity '
+   item_citation: 'Shniperov A. N., Chistyakov A. P. The Method and Information System for the Exchange of Confidential Information in Open Computer Networks, Programmnaya Ingeneria, 2017, vol. 8, no 8, pp. 359—368. '
+ - doi: 8.369-384
+   link: 8.369-384
+   udk: "517.98"
+   item_authors: "Bibilo P. N., Lankevich Yu. Yu."
+   item_name: "The Use of Zhegalkin Polynomials for Minimization of Multilevel Representations of Boolean Functions Based on Shannon Expansion"
+   item_authors_address: | 
+     <b> P. N. Bibilo</b>, bibilo@newman.bas-net.by, <b> Yu. Yu. Lankevich</b>, yurafreedom18@gmail.com, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: " Bibilo Petr N., Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus, E-mail: bibilo@newman.bas-net.by"
+   item_rec_on:  April 26, 2017 
+   item_acc_on:  May 15, 2017
+   item_annot: |
+     <p> The synthesis of combinational logic is an actual task of automatic design of digital circuits. It is usually divided into two stages: technologically independent optimization and technological mapping to a given basis of logical elements. The first stage is the most significant one because the minimization of different forms of Boolean function representation is fulfilled in this stage. If the functions of a system are given in DNF (Disjunctive Normal Form) then change to multilevel representations based on Shannon expansion is expedient when synthesizing circuits from logic library elements. The graphical form of this representation is called BDD (Binary Decision Diagram). As a rule, the synthesis of circuits using logical equations that correspond to minimized BDD representation gives better results in comparison with the synthesis using minimized DNF.
+     A minimization of multilevel representation of Boolean function systems based on Shannon expansion with finding equal coefficients (accurate within inversion) and using Zhegalkin polynomials for these purposes is proposed. Zhegalkin polynomials are easily comparable and can be used to get function inversion. It reduces considerably the computation time. Application of a program that implements the proposed algorithms allows obtaining smaller areas of VLSI schemes in comparison with the circuits that are synthesized using minimized circuits of DNF and Shannon expansion where the coefficient inversion is not considered.
+     </p>
+   item_keywords: synthesis of logical circuits, minimization of Boolean functions, Shannon expansion, Zhegalkin polynomial
+   item_pages: 369–384
+   item_citation: ' Bibilo P. N., Lankevich Yu. Yu. The Use of Zhegalkin Polynomials for Minimization of Multilevel Representations of Boolean Functions Based on Shannon Expansion, Programmnaya Ingeneria, 2017, vol. 8, no. 8, pp. 369—384.'
+---

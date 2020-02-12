@@ -1,0 +1,78 @@
+---
+title: Issue N9 2012 year
+content:
+ - doi:
+   link: _9_2012_1
+   udk: '004.031.43:004.272.43:004.451.42'
+   item_authors: Dokuchaev A. N.
+   item_name: Feasibility of the Real-Time Scheduling on Multiprocessors with Impact of the Long-Term Blockings
+   item_authors_address: ' <b> A. N. Dokuchaev </b>, e-mail: a.n.dokuchaev@gmail.com'
+   item_annot: |
+     <p> The paper addresses the impact of the long-term blockings on the real-time multiprocessor scheduling techniques based on the forced preemptions. Applicability of the specified approaches with taking into account inter-tasks client-server communication is considered.
+     </p>
+   item_keywords: real-time systems, symmetric multiprocessing, multiprocessor scheduling, long-term blocking, scheduling with forced preemptions
+   item_pages: 2–7
+ - doi:
+   link: _9_2012_2
+   udk: '004.272'
+   item_authors: Pentkovsky V. M., Drozdov A. Y., Golenev A. D., Fonin Y. N., Shlykov S. L.
+   item_name: Developing and Python Implementation of the Method of Optimal Architecture Prediction Using Neuronal Networks and Graphite Simulator
+   item_authors_address: ' <b> V. M. Pentkovsky </b>,   <b> A. Y. Drozdov </b>, <b> A. D. Golenev </b>, <b> Y. N. Fonin </b>, e-mail: phonin@rambler.ru<b> S. L.Shlykov </b>'
+   item_annot: |
+     <p> A method of prediction of the optimal architecture using neural networks and Graphite simulator is present. A prediction algorithm has been described, also the Python implementation details of algorithms has been described. The results of experiments of searching optimal architectures for several algorithms are given with prediction mistake.
+     </p>
+   item_keywords: architecture, modeling, neural networks, prediction algorithm
+   item_pages: 8–15
+ - doi:
+   link: _9_2012_3
+   udk: '004.75'
+   item_authors: Shikota S. K., Menshutin A. Yu., Shchur L. N.
+   item_name: Platform for Research in Computational Physics
+   item_authors_address: ' <b> S. K. Shikota </b>, <b> A. Yu. Menshutin </b>, <b> L. N. Shchur </b>, e-mail: shchur@chg.ru'
+   item_annot: |
+     <p> Present paper concentrated on the discussion of the ways for development of platform combining software and hardware for the goal to simplify access to the resources for inexperienced user. Simply and intuitive, friendly interface to resources gives to user possibility to concentrate exclusively on the solving of his main task.
+     </p>
+   item_keywords: collaborative environment, web 2.0, cloud computing, visualization
+   item_pages: 16–22
+ - doi:
+   link: _9_2012_4
+   udk: '656.073 + 656.22; 004.75'
+   item_authors: Shabunin A. B., Markov S. N., Dmitriev D. V., Kuznetsov N. A., Skobelev P. O., Kozhevnikov S. S., Simonova E. V., Tsarev A. V.
+   item_name: Integration Platform Implementation as Network-Centric Approach for Distributed Intelligent Resource Management JSC "RZD" Systems
+   item_authors_address: |
+     <b> Shabunin A. B.</b>, e-mail: a_shabunin@hotmail.com,
+     <b>S. N. Markov </b>, e-mail: markovs@programpark.ru,
+     <b>D. V. Dmitriev </b>,  e-mail: dmtrvdnl@gmail.com,
+     <b>N. A. Kuznetsov </b>,  e-mail: kuznetsov@cplire.ru,
+     <b>P. O. Skobelev </b>, e-mail: petr.skobelev@gmail.com,
+     <b>S. S. Kozhevnikov </b>,  e-mail: Kozhevnikovss@gmail.com,
+     <b>E. V. Simonova </b,  e-mail: Simonova.Elena.V@gmail.com,
+     <b>A. V. Tsarev </b>, e-mail: at@anarun.net
+   item_annot: |
+     <p> The paper describes the implementation principles of integration platform for distributed intelligent resource management JSC "RZD" systems based on the network-centric approach. The integration platform architecture, principles of implementation, the DSL industry language are shown. The prototype of an integration platform is presented. This prototype of integration platform provides automated traffic control on the simulation model of railway direction between Saint-Petersburg and Moscow called "October Road."
+     </p>
+   item_keywords: network-centric approach, intelligent system, integration platform, ontology, the industry program language
+   item_pages: 23–28
+ - doi:
+   link: _9_2012_5
+   udk: '004.82'
+   item_authors: Sysoev I. S.
+   item_name: A Stereotype-Based Model of Reasoning
+   item_authors_address: '<b> I. S. Sysoev </b>, e-mail: jsysoev@yandex.ru'
+   item_annot: |
+     <p> The article presents a conceptual approach to representing Common-Sense Knowledge that supposedly allows to simplify this task. The approach is based on a symbolic model of mental images of prototypical situations. The key feature of the approach is its orientation towards pragmatics of knowledge. By means of this, precise definition of notions' semantics is not necessary within the approach. An informal description of the concept and a simple compu-tational model implementing the approach are presented.
+     </p>
+   item_keywords: knowledge representation, common-sense knowledge, mental image, stereotype
+   item_pages: 29–36
+ - doi:
+   link: _9_2012_6
+   udk: '004'
+   item_authors: Lipaev V. V.
+   item_name: Historical Aspects of the National Real-Time Software and Computer Network Air Defense System Development
+   item_authors_address: '<b>  V. V. Lipaev </b>, e-mail vlip28@mail.ru'
+   item_annot: |
+     <p> The paper reviews the main tasks that were being solved at the initial stage of the computer networks development, where the nodes were used for processing in real-time the radar data of the air defense moving objects. The difficulties, that arise in connection with the above mentioned, and the concept, adopted in the 1960s, of the real-time operating systems software design for the control of the data processing processes are described. The airborne objects radar data processing and transmission throughout the global air defense network system software architecture is provided.
+     </p>
+   item_keywords: real-time operating system, telecommunication networks, radar nodes, airborne context simulation
+   item_pages: 37–41
+---

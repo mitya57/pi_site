@@ -1,0 +1,93 @@
+---
+title: Issue N5 2017 year 
+content:
+ - doi: 8.195-206
+   link: 004.4, 004.94, 004.7
+   udk: "004.457+004.031.2+004.382.2"
+   item_authors: "Basavin D. A., Porsnev S. V., Petrosov D. A."
+   item_name: "Estimation of Maximum Number of Simulated Information Flows for Parallel Software Implementation of a Hybrid Fluid Model of Internet Traffic using GPGPU"
+   item_authors_address: | 
+     <b> D. A. Basavin</b>, basavind@gmail.com, Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation, <b> S. V. Porsnev</b>, sergey_porshnev@mail.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620002, Russian Federation, <b> D. A. Petrosov</b>, scorpionss2002@mail.ru, Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation
+   item_corr_author: " Basavin Dmitry A., Assistant, Belgorod State Agricultural University named after V. Gorin, Mayskiy, Belgorod region, 308503, Russian Federation, E-mail: basavind@gmail.com"
+   item_rec_on:  November 22, 2016 
+   item_acc_on:  March 02, 2017
+   item_annot: |
+     <p> The article discusses the hybrid fluid model (HFM) of Internet traffic, which describes the information flows in modern computer networks. Information flows in HFM are described by a system of ordinary differential equations (ODE). From the physical point of view this system of ODEs is the result of balance of information flows, which comes into the corresponding node of the network, and goes out of it. Due to the lack of analytical solutions, it is required to develop software tools to obtain numerical solutions of this system of ODEs included in HFM. The experience of practical usage of the well-known software HFM implementation with sequentially executable code showed that the time of calculating the information flows characteristics, even for relatively simple network configurations is quite large, and for the networks with a complex architecture it is unacceptably high. In this regard, it has been hypothesized that it is possible to apply parallel computing techniques based on GPGPU to software HFM implementation development. It should also be noted that the GPGPU technology can accelerate the complex calculations in a few dozen times in a variety of cases. Also, the technology is now one of the leading and the publicly available ones. However, one of its limitations is stiff hardware limitation of available GPU memory. It is therefore necessary to establish consistency between the hardware parameters (the GPU) and the maximum number of simulated information flows (the size of the network and its architecture, respectively). The paper proposes an estimation of the maximum number of simulated information flows via the parallel software HFM implementation based on GPGPU technology.
+     </p>
+   item_keywords: Internet traffic, computer networks, parallel hybrid fluid model, modeling, simulation, GPGPU
+   item_pages: 195–206
+   item_citation: 'Basavin D. A., Porsnev S. V., Petrosov D. A. Estimation of Maximum Number of Simulated Information Flows for Parallel Software Implementation of a Hybrid Fluid Model of Internet Traffic using GPGPU, Programmnaya Ingeneria, 2017, vol. 8, no. 5, pp. 195-206.'
+ - doi: 8.207-214
+   link: 8.207-214
+   udk: "57.087.1 + 519.165"
+   item_authors: "Poliakov A. V."
+   item_name: "Fingerprint Identification using Spherical Local-Sensitive Hashing"
+   item_authors_address: | 
+     <b> A. V. Poliakov</b>, e-mail: andre.levsha@gmail.com, Lomonosov Moscow State University, Moscow, 119234, Russian Federation 
+   item_corr_author: "Poliakov Andrey V., Postgraduate student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: andre.levsha@gmail.com"
+   item_rec_on:  February 18, 2017
+   item_acc_on:  March 01, 2017
+   item_annot: |
+     <p> Fingerprint recognition is a well-studied research area in which significant results have been achieved. Fingerprint recognition can be divided into two tasks: verification and identification. Fingerprint verification is used to verify the identity of an individual by 1:1 matching whereas identification is used to establish the identity by 1:N matching. Fingerprint identification thus becomes more challenging than verification because of high system penetration and false acceptance rate.
+     In the resolution of this problem, indexing algorithms have a fundamental role. In the literature, there are several proposals that make use of different features to characterize fingerprints.
+     Fingerprint indexing is an efficient technique that greatly improves the performance of fingerprint based person authentication systems by reducing the number of comparisons.
+     This article presents a novel fingerprint indexing algorithm for large databases. A spherical locality-sensitive hashing scheme has been designed relying on generalized Chebyshev polynomials approximation model.
+     One general approach to LSH is to "hash" items several times, in such a way that similar items are more likely to be hashed to the same bucket than dissimilar items. One can consider any pair that hashed to the same bucket for any of the hashings to be a candidate pair.
+     The analysis and the experimental results show a good performance in terms of accuracy and computational complexity.
+     Indexing experiments show remarkable results using public fingerprint database FVC2004 DB1.</p>
+   item_keywords: biometric identification, locality-sensitive hashing, generalized Chebyshev polynomials, orientation field, simplex
+   item_pages: 207–215
+   item_citation: ' Poliakov A. V. Fingerprint Identification using Spherical Local-Sensitive Hashing, Programmnaya Ingeneria, 2017, vol. 8, no. 5, pp. 207—214.'
+ - doi: 8.215-221
+   link: 8.215-221
+   udk: "004.4, 004.5, 004.9"
+   item_authors: "Svetushkov N. N."
+   item_name: "Program Interface for a Simple 3D-Graphical Editor Based on a Relationships Description Meta-Language"
+   item_authors_address: | 
+     <b> N. N. Svetushkov</b>, svetushkov@mai.ru, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation 
+   item_corr_author: " Svetushkov Nikolaj N., Associate Professor, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation, E-mail: svetushkov@mai.ru"
+   item_rec_on:  February 09, 2017
+   item_acc_on:  March 03, 2017
+   item_annot: |
+     <p> The basic requirements and approaches are presented as basis for the development of a simple graphics editor of three-dimensional objects. For the convenience it was decided to build the user interface fully on the context menu, which can easily be further complicated and modified by adding all sorts of options and special functions. As the data storage format a previously developed meta-language for describing relationships is used, one advantage of which it is a simple description of the complex three-dimensional scenes with the ability to support the established relationships between objects. The suggested the principles and approaches make it possible to create a software tool for editing, not overloaded with complex hierarchically organized menu and, at the same time, simplify the user process of learning to use it, as they provide an intuitive interface. Graphic editor in this case can be written entirely in C ++, and then be used as a simple tool for creating three-dimensional models for third-party developers. The purpose of the project, studies for which are discussed in the article, is providing the user simple interactive mechanisms for creating three-dimensional objects on the basis of tokens description language lexeme. Using the public API, one can develop custom applications, including both fully informational and applicable, for example, for the numerical simulation of complex physical processes.
+     </p>
+   item_keywords: 3D graphics, a language for describing three-dimensional objects, unified principles of editing, intuitive interface, context menus, dialog boxes, software
+   item_pages: 215–221
+   item_citation: ' Svetushkov N. N. Program Interface for a Simple 3D-Graphical Editor Based on a Relationships Description Meta-Language, Programmnaya Ingeneria, 2017, vol. 8, no. 5, pp. 215—221.'
+ - doi: 8.222-229
+   link: 8.222-229
+   udk: "004.055"
+   item_authors: "Abbasov A. Je."
+   item_name: "Analysis of Expert Information on Environmental Indicators Vehicles"
+   item_authors_address: | 
+     <b> A. Je. Abbasov</b>, alexn1smo@mail.ru, State Educational Institution of Higher Education of the Moscow region University of Technology, Korolev, Moscow region, 141070, Russian Federation 
+   item_corr_author: " Abbasov A. Je., Graduate Student, State Educational Institution of Higher Education of the Moscow region University of Technology, 141070, Korolev, Moscow region, Russian Federation, E-mail: alexn1smo@mail.ru"
+   item_rec_on:  October 11, 2016 
+   item_acc_on:  March 06, 2017
+   item_annot: |
+     <p> The results of the analysis of the problematic issues that arise in the creation and support of information systems for measuring and regulation of hazardous substances coming from polluting vehicles are given in the article. Based on the theoretical analysis of the subject area for an automated information system, which is based on a database of environmental indicators, a structure of an Internet resource for storing and processing information on the environmental control of vehicles is proposed. For the development of the Internet resource tools MySQL database and content management system MODx Revolution, Apache and phpMyAdmin technologies are offered.
+     To automate the expert assessment of the environmental performance of vehicle we have analyzed domain characterizing the environmental impact of vehicles, for subsequent creation of software multi-user information system. We have analyzed and grouped individual facts characterizing the control of the environmental performance of vehicles and the corresponding decrease in toxicity of the system. It revealed a generalized integral measure of the most important components of harmful substances emitted by motor vehicles in the atmosphere.
+     We used mathematical methods for processing experimental data obtained by the results of literature review to establish quantitative relationships between the technical characteristics of vehicles and environmental indicators. To create a statistical model of integrated environmental indicators, the method of the main components of the classical theory of factor analysis was applied.
+     We have defined the analytical dependences for calculating the integral of the generalized indicator of the level of environmental performance of vehicles. The choice of tools for Internet resource information system is proved. </p>
+   item_keywords: automated control, standardization of data, mathematical model, integrated environmental indicators, the performance of a web resource
+   item_pages: 222–229
+   item_citation: 'Abbasov A. Je. Analysis of Expert Information on Environmental Indicators Vehicles, Programmnaya Ingeneria, 2017, vol. 8, no. 5, pp. 222—229.'
+ - doi: 8.230-240
+   link: 8.230-240
+   udk: "004.35; 004.42; 533.075; 533.722; 536.75"
+   item_authors: "Strongin M. M., Vinogradov Yu. A., Zditovets A. G., Kiselev N. A., Popovich S. S."
+   item_name: "Applying of National Instruments Technologies in Experimental Research of Thermal Gas Dynamics Processes"
+   item_authors_address: | 
+     <b> M. M. Strongin</b>, strongiv@imec.msu.ru, <b> Yu. A. Vinogradov</b>, vinograd@imec.msu.ru, <b>  A. G. Zditovets</b>, zditovets@mail.ru, <b> N. A. Kiselev</b>, kiselev.nick.a@gmail.ru,
+     <b> S. S. Popovich</b>, pss1@mail.ru, Lomononosov Moscow State University, Institute of mechanics, Moscow, 119899, Russian Federation
+   item_corr_author: " Strongin Mark M., Senior Researcher, Moscow Lomonosov State University, Institute of Mechanics, Moscow, 119899, Russian Federation, E-mail: strongin@imec.msu.ru"
+   item_rec_on:  March 10, 2017 
+   item_acc_on:  March 27, 2017
+   item_annot: |
+     <p> Research of heat and mass transfer augmentation methods has attracted, attracts and will attract great attention of engineers, research workers and all those who are by some way connected with heat power engineering. At present, applica-tion of efficient methods of heat transfer processes augmentation is one of the main and most accessible ways to improve the efficiency and economy of power equipment. The paper presents the authors experience gained with the use of National Instruments technologies during experimental studies of thermal gas dynamics. Examples of equipping an experimental test stand for studying various aspects of heat and mass transfer by measuring equipment and special software demonstrate the efficiency of creating hardware and software packages solely by experimenters without professional programmers involvement. Successful experimental experience in the laboratory of thermal gas dynamics is described including National Instruments data recording systems, automated programs for sampling and processing of sensor device readings in LabVIEW development environment and primary mathematical processing of the accumulated data. These examples demonstrate high efficiency of the applied technologies in connection with high quality engineering of the measuring equipment (multifunctionality, multichannel, high response speed and high resolution). The software of experimental hardware measuring units in the LabVIEW environment can be easily developed by researchers thanks to intuitive approach to the creation of automated measuring systems. In general, a hardware measuring unit is rather mobile and easily reconfigurable even during the experiment. Special students practical works of the Mechanics and Mathematics faculty of Lomonosov Moscow State University and the Power Engineering faculty of Bauman Moscow State Technical University are conducted on the basis of the Thermal Gas Dynamics Laboratory experimental test stand.
+     </p>
+   item_keywords: National Instruments, LabVIEW, thermal gas dynamics, heat mass transfer, aerodynamic wind tunnel, virtual device
+   item_pages: 230–240
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 15-08-08428. '
+   item_citation: ' Strongin M. M., Vinogradov Yu. A., Zditovets A. G., Kiselev N. A., Popovich S. S. Applying of National Instruments Technologies in Experimental Research of Thermal Gas Dynamics Processes, Programmnaya Ingeneria, 2017, vol. 8, no. 5, pp. 230—240.'
+---

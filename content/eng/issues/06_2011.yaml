@@ -1,0 +1,77 @@
+---
+title: Issue N6 2011 year 
+content:
+ - doi:
+   link: _6_2011_1
+   udk: "004.415.2"
+   item_authors: "Kukharenko B. G."
+   item_name: "Open Closed Principle in Program Engineering and Design Patterns of Expression Templates. Part III"
+   item_authors_address: | 
+     <b> B. G. Kukharenko </b>, e-mail: kukharenko@imash.ru
+   item_annot: |
+     <p> As shown, Open Closed Principle in object oriented programming appears on program system microarchitecture level. Design patterns represent class hierarchies, which form a general solution of program system design problem. Design patterns are under study, which during programming a C++ code with class templates in use are helpful to design expression templates.
+     </p>
+   item_keywords: design patterns, class templates, expression templates, type mapping, traits, template metaprogramming, templates libraries
+   item_pages: 2–15
+ - doi:
+   link: _6_2011_2
+   udk: "004.75; 004.415, 004.946"
+   item_authors: "Kharitonov V. Y."
+   item_name: "Software Tools for Building Distributed Virtual Reality Systems. Part I"
+   item_authors_address: | 
+     <b> V. Y. Kharitonov </b>,e-mail: kharitonovvy@gmail.com
+   item_annot: |
+     <p> This paper is devoted to the problem of distributed virtual reality (DVR) systems design which is important and relevant at the present time. An approach based on the creating of a specialized middleware allowing to simplify and at the same time to accelerate DVR system development is proposed.
+     In the first part of paper a brief overview of related work in area of DVR systems and their main properties are examined. Software architecture and a high-level network protocol used as a basis for the proposed middleware are introduced.
+     </p>
+   item_keywords: distributed virtual reality systems, data consistency, distributed simulation, 3D interactive computer graphics and computer networks
+   item_pages: 16–23
+ - doi:
+   link: _6_2011_3
+   udk: "519.685"
+   item_authors: "Frolov A. B., Vinnikov A. M."
+   item_name: "On Machine Synthesis of Some Sequential Programs"
+   item_authors_address: | 
+     <b> A. B. Frolov </b>, <b> A. M. Vinnikov </b>,  e-mail: abfrolov@mail.ru
+   item_annot: |
+     <p> Two methods of automatic generation of sequential programs for multiplication of multidigit numbers using Karatsuba algorithm are discussed. They based on two recursive implementation of Karatsuba algorithm. Analogous approach is described in respect to synthesis of programs for multiplication of high degrees polynomials over finite fields. There is shown the method of comparison of synthesis results to proof the correctness of programs used for their producing. The complexity of those sequential programs is estimated.
+     </p>
+   item_keywords: programming automation, machine synthesis of programs, linear program, multiplication of multi-digit numbers, multiplication of polynomials over finite fields decomposition schema, Karatsuba method, recursion in depth, recursion in width, correctness of programs, complexity estimation
+   item_pages: 24–30
+ - doi:
+   link: _6_2011_4
+   udk: "004.415.2"
+   item_authors: "Stennikov V. A., Barakhtenko E. A., Sokolov D. V."
+   item_name: "Metaprogramming in the Software for Solving the Problems of Heat Supply System Schematic and Parametric Optimization"
+   item_authors_address: | 
+     <b> V. A. Stennikov </b>,  <b> E. A. Barakhtenko </b>, <b>  Sokolov </b>,  e-mail: barakhtenko@isem.sei.irk.ru
+   item_annot: |
+     <p> Modern practice of solving the design problems of heat supply systems generates the need to take into account various properties of their subsystems, conditions of expansion and existence of a developed market for the process equipment. The paper suggests an approach to creation of software, which makes it possible to consider the specified features of the problem solving. The approach is based on metaprogramming and ontologies. The developed approach has been used for implementation of the SOSNA-M software.
+     </p>
+   item_keywords: metaprogramming, ontology, component-based software engineering, Java, optimization methods
+   item_pages: 31–35
+ - doi:
+   link: _6_2011_5
+   udk: "004.4"
+   item_authors: "Vasenin V. A., Zanchurin M. A., Korshunov A. A."
+   item_name: "The Creation an Application of Monitoring the Operability State of Elements of Grid-system"
+   item_authors_address: | 
+     <b> V. A. Vasenin </b>, e-mail: vasenin@msu.ru, <b> M. A. Zanchurin </b>, e-mail: maxim.zanchurin@gmail.com, <b> A. A. Korshunov </b>,  e-mail: korsh@msu.ru
+   item_annot: |
+     <p> This paper discusses issues related to monitoring the operability state of elements of Grid systems. Proposed the authors solution to the problem of integrating the system FLAME for monitoring the state operability with information services of software package Globus Toolkit 4 (GT4) and, separately, are in the stage of development information services of software package Globus Toolkit 5.
+     </p>
+   item_keywords: GRID, GRID systems, monitoring system, monitoring the operability state, Globus toolkit, FLAME
+   item_pages: 36–43
+ - doi:
+   link: _6_2011_6
+   udk: "004.78:004.056"
+   item_authors: "Yazov Y. K.,  Kadykov V. B., Yeniutin A. U., Sukhoverkhov A. S."
+   item_name: "Fuzzing Technology Using for Searching Vulnerabilities in Hardware-Software Components of the Automated Control Systems of Technological Processes"
+   item_authors_address: | 
+     <b> Y. K. Yazov </b>, <b> V. B. Kadykov </b>, <b> A. U. Yeniutin </b>, <b> A. S. Sukhoverkhov </b>, e-mail: mostom84@mail.ru
+   item_annot: |
+     <p> In this article is considered possibility of fuzzing application for revealing of the automated control systems of technological processes software vulnerabilities. Classification of fuzzing methods is resulted and the basic hardware-software components of their realization are specified.
+     </p>
+   item_keywords: Information safety, fuzzing, vulnerability, automated control systems of technological processes
+   item_pages: 44–47
+---

@@ -1,0 +1,84 @@
+---
+title: Issue N2 2013 year
+content:
+ - doi: 
+   link: _2_2013_1
+   udk: "004.4'236"
+   item_authors: Shakurov A. R.
+   item_name: Component-Based Programming Technology Introducing Runtime Component Creation Capability	
+   item_authors_address: ' <b> A. R. Shakurov </b>, e-mail: amir-shak@yandex.ru'
+   item_annot: |
+     <p> A feature that hasn't yet received a full-fledged implementation from any component-based software development technology is examined. The feature consists in being able to create new data types (components) at runtime. An object-oriented architecture of a model providing this capability is presented.      
+     </p>
+   item_keywords: component, architecture, code reuse, metaprogramming
+   item_pages: 2–10
+
+ - doi: 
+   link: _2_2013_2
+   udk: '004.4+004.7'
+   item_authors: Bogoiavlenskii Iu. A.
+   item_name: Prototype of the Testbed Nest for Research of Network Management Methods and Models at the Enterprise Network Level
+   item_authors_address: '<b> Iu. A. Bogoiavlenskii</b>, e-mail: ybgv@cs.karelia.ru'
+   item_annot: |
+     <p> The architecture of the testbed Nest is proposed and its subsystems are presented. The Nest base on the enterprise architecture object model. The object graph of a concrete enterprise is stored in the database. The approach provides access to the different measurement data, made in the realistic workload conditions and structured by hardware, organizational and spatial units of the enterprise and by them arbitrary aggregations.      
+     </p>
+   item_keywords: network management models, internet service providers, testbeds enterprise architecture, object models, topology discovery, network visualization, measurement data
+   item_pages: 11–20
+
+ - doi: 
+   link: _2_2013_3
+   udk: '004.4+519.68'
+   item_authors: Palagin V.V.
+   item_name: To a Question of Acceleration of Parallel Programs for Scientific and Technical Calculations by Converting Nested Loops
+   item_authors_address: ' <b> V. V. Palagin </b>, e-mail: art.stritn@gmail.com'
+   item_annot: |
+     <p> This paper discusses issues related to the increase of performance multiprocessor systems (MVS) architecture MPP (Massive Parallel Processing) by converting the nested loops. The concomitant problems of scientific and technical results of the experiments.
+     </p>
+   item_keywords: parallel computing, multiprocessor computer systems, the development of parallel programs, programming languages an extra layer, the transformation of nested loops
+   item_pages: 21–24
+ - doi: 
+   link: _2_2013_4
+   udk: '004.032.26'
+   item_authors: Kolbin I. S.
+   item_name: Software Suite for the Solution of Mathematical Modeling Problems Using Neural Network Methodology
+   item_authors_address: '<b> I. S. Kolbin </b>, e-mail: iskolbin@gmail.com'
+   item_annot: |
+     <p> This article discusses the structure of software suite for solving mathematical modeling problems using neural networks methodology. The details of implementation of the developed software components are presented. This paper demonstrates the stages of functioning of software suite on the solution of the test problem.
+     </p>
+   item_keywords: software suite, numerical methods, neural network modeling, meshless methods, normalized radial-basis networks, NRBN
+   item_pages: 25–30
+ - doi: 
+   link: _2_2013_5
+   udk: '004.021'
+   item_authors: Reviznikov D. L., Semenov S. A.
+   item_name: Peculiarities of Molecular Dynamic Modeling of Nanostructures on Graphical Processors
+   item_authors_address: '<b> D. L.Reviznikov </b>, e-mail: reviznikov@inbox.ru,<b> S. A.Semenov </b>, e-mail: stdx@inbox.ru'
+   item_annot: |
+     <p> The article describes massive parallel computing on graphical processors applying to a problem of molecular dynamic modeling of carbon nanostructures. The details of algorithmic realization and some ways of improvement of software performance are discussed. The presented results show the high efficiency of parallel computing on GPUs for the considered class of problems
+     </p>
+   item_keywords: parallel computing, graphical processors, molecular dynamic modeling, carbon nanostructures
+   item_pages: 31–35
+ - doi: 
+   link: _2_2013_6
+   udk: '002.55'
+   item_authors: Petrov Yu. I., Shupikova Yu. V.
+   item_name: Modern Information Systems of Graduation Thesis Review
+   item_authors_address: '<b> Yu. I.Petrov </b>, <b> Yu. V. Shupikova</b>, e-mail:mailtoyuripetrov@gmail.com'
+   item_annot: |
+     <p> Article overviews information systems of graduation thesis review, presented in software market, and describes their key features. Based on made comparative analysis of their features, need of own software development, that corresponds to modern requirements and adapted to Russian practice, is noted.
+
+     </p>
+   item_keywords: information system, thesis review, graduation thesis, software
+   item_pages: 36–41
+ - doi: 
+   link: _2_2013_7
+   udk: '004.4'
+   item_authors: Kostyuk V. V., Ushanov M. A.
+   item_name: 'Configuration of Laboratory Practical Work Environment "Development of Information System Software on Base of IBM Products"'
+   item_authors_address: '<b> V. V. Kostyuk </b>, канд. техн. наук, доц., <b> M. A. Ushanov</b>, e-mail: Viacheslav.Kostyuk@itbu.ru'
+   item_annot: |
+     <p> This article reflects experience acquired by authors in process teaching of students by methods and equipments of java language programming with use of IBM products. Mastering by them different technologies of programming, configuration and tuning of development equipments of program products occurs within the framework of the laboratory practical work. In lead of development of collection and handling, storage and giving out software by requirements in information systems the questions arises from students. The questions are discussed, approach theirs solutions are considered within the framework of execution of the laboratory work.
+     </p>
+   item_keywords: programming, laboratory practical work, program technology, development of information system software, integration IBM products, configuration
+   item_pages: 42–47
+---

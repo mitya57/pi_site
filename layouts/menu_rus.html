@@ -1,0 +1,46 @@
+ <div id="content_body">
+ 
+  <div id="nav_links">
+
+   <div id="main_link" class="menu_item">
+     <a href="rus/index.html">Главная</a>
+   </div>
+   <div id="new_issue" class="menu_item">
+     <a href="rus/issues/<%= render '/new_issue.inc'%>">Новый номер</a>
+   </div>
+   <div id="archive" class="menu_item">
+     <a href="rus/archive.html">Архив</a>
+   </div>
+   <div id="editor_chief" class="menu_item">
+     <a href="rus/vasenin.html">Главный редактор</a>
+   </div>
+   <div id="editorial_board" class="menu_item">
+     <a href="rus/editorial_board.html">Редколлегия</a>
+   </div>
+   <div id="for_authors" class="menu_item">
+     <a href="rus/for_authors.html">Авторам</a>
+   </div>
+   <div id="ethic" class="menu_item">
+     <a href="rus/ethic.html">Этика публикаций</a>
+   </div>
+   <div id="peer_reviewing" class="menu_item">
+     <a href="rus/peer_reviewing.html">Рецензирование</a>
+   </div>
+   <div id="publisher" class="menu_item">
+     <a href="http://www.novtex.ru">Издательство</a>
+   </div>
+   <div id="old_site" class="menu_item">
+     <a href="http://www.novtex.ru/prin/old_site/pi.html">Старая версия сайта</a>
+   </div>
+
+   <div id="russian_link" class="menu_item">
+     <a href="eng/<%= @item.identifier.without_ext.gsub('/rus/','') + '.html' %>">English</a>
+   </div>
+
+  </div>
+
+ <!--  Main content DIV -->
+
+  
+  <div id="main_content">
+

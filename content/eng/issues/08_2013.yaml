@@ -1,0 +1,75 @@
+---
+title: Issue N8 2013 year
+content:
+ - doi:
+   link: _8_2013_1
+   udk: '004.432.2'
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: About the C11 Standard
+   item_authors_address: ' <b> N. I. Vyukova </b>, <b> V. A. Galatenko </b>, <b> S. V. Samborskij </b>, e-mail: niva@niisi.msk.ru'
+   item_annot: |
+     <p> The paper is devoted to the new standard of the C programming language, ISO/IEC 9899:2011 adopted in December 2011. It presents a brief overview of the previous C standards and discusses major innovations included to C11 with the exception of multithreading support features which are to be treated in another two papers.
+     </p>
+   item_keywords: the C programming language, C11, analyzability
+   item_pages: 2–9
+
+ - doi:
+   link: _8_2013_2
+   udk: '004.052, 004.056'
+   item_authors: Lipaev V. V.
+   item_name: Reliability and Functional Safety of Software Systems of Real Time
+   item_authors_address: ' <b> V. V. Lipaev </b>, e-mail: vlip28@mail.ru'
+   item_annot: |
+     <p> Considered are the main factors affecting the reliability and safety of the operation of the software products in realtime, characteristics of systems and environment for which must be ensured by their functional safety and the required resources. Outlines the requirements to the design of the functional suitability of the complex programs, organization, planning and development processes of the requirements to the security of software products. The major international standards of technological processes, ensuring functional security in a life cycle of complex software systems are described. Considerable attention is focused on testing of functional security of software products.
+     </p>
+   item_keywords: reliability, functional safety, functional suitability, life cycle, real time
+   item_pages: 10–18
+
+ - doi:
+   link: _8_2013_3
+   udk: '65.015.13'
+   item_authors: Seleznyov K. E. 
+   item_name: Synthesis of Information Search Software
+   item_authors_address: ' <b> K. E. Seleznyov </b>, e-mail: skostik@relex.ru'
+   item_annot: |
+     <p> The paper describes synthesis of information search software. This topic consists of several models which allow to describe software requirements, estimate software usability and compare various ways to implement such software. Intended models are applicable in development of special-purpose systems.
+     </p>
+   item_keywords: information search systems, software development lifecycle.
+   item_pages: 19–24
+
+ - doi:
+   link: _8_2013_4
+   udk: '004.82'
+   item_authors: Kostenko K. I., Lebedeva A. P.
+   item_name: On the Formalized Descriptions of Intellectual Program Systems Knowledge Spaces
+   item_authors_address: '<b> K. I. Kostenko </b>, e-mail: kostenko@kubsu.ru, <b> A. P. Lebedeva </b>,  e-mail: lebedeva@fpm.kubsu.ru,'
+   item_annot: |
+     <p> Elements of the universal language for knowledge system for arbitrary subject areas (knowledge spaces) are specified. The language is based on the formats of algebraic systems. Formal model of knowledge space is composed with special classes grouped into sections of data, morphysms, predicates and processes. The models are different in their completeness and abstractness. They allow applying special operations for models transformations and extensions.
+     </p>
+   item_keywords: intelligent system, knowledge space, algebraic model, knowledge representation, ontology, formal language.
+   item_pages: 25–34
+
+ - doi:
+   link: _8_2013_5
+   udk: '004.31'
+   item_authors: Bibilo P. N., Cheremisinova L. D., Kardash S. N., Kirienko N. A., Romanov V. I., Cheremisinov D. I. 
+   item_name: Low-Power Logical Synthesis of CMOS Circuits Automation
+   item_authors_address: '<b> P. N. Bibilo </b>, <b> L. D. Cheremisinova </b>, <b> S. N. Kardash </b>, <b> N. A. Kirienko </b>, e-mail: kir@newman.bas-net.by, <b> V. I. Romanov </b>, <b> D. I. Cheremisinov </b>'
+   item_annot: |
+     <p> The structure and the functionality of the software system for energy-saving logical synthesis (ELS) are described. The system is intended for cell library design automation of custom very large-scale integration CMOS circuits. The estimations of complexity and power consumption are accepted as optimality criteria when designing CMOS circuits.
+     </p>
+   item_keywords: design automation, custom CMOS VLSI, low-power synthesis
+   item_pages: 35–41
+
+ - doi:
+   link: _8_2013_6
+   udk: '004.932.2; 004.942'
+   item_authors: Kazakov M. G.
+   item_name: Increasing the Efficiency of 3D-geometry Extraction Using Semantic Analysis of Images
+   item_authors_address: '<b> M. G. Kazakov </b>,  e-mail: mike.kazakov@gmail.com'
+   item_annot: |
+     <p> A method for increasing the efficiency of 3D-geometry extraction is proposed. This method is based on semantic analysis of images using segmentation techniques and correlating the segments with affine transformations. Method details are given with according visualization and constants values are shown with graphs.
+     </p>
+   item_keywords: computer vision, structure from motion, 3D-reconstruction, image segmentation, affine transformations, interest point descriptors
+   item_pages: 42–47
+---

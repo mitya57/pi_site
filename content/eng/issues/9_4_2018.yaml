@@ -1,0 +1,90 @@
+---
+title: Issue N4 2018 year 
+content:
+ - doi: 9.147-155
+   link: 9.147-155
+   udk: "004.03"
+   item_authors: "Kuznetsov S. D."
+   item_name: "New Storage Devices and their Impact on Database Technology"
+   item_authors_address: | 
+     <b> S. D. Kuznetsov</b>, kuzloc@ispras.ru, Ivannikov Institute for System Programming of the RAS, Moscow, 109004, Russian Federation, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, Moscow Institute of Physics and Technology, Moscow Region, 141700, Russian Federation, Higher School of Economics, Moscow, 101000, Russian Federation
+   item_corr_author: " Kuznetsov Sergey D., Senior Researcher, Ivannikov Institute for System Programming of the RAS, Moscow, 109004, Russian Federation, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, Moscow Institute of Physics and Technology, Moscow Region, 141700, Russian Federation, Higher School of Economics, Moscow, 101000, Russian Federation, E-mail: kuzloc@ispras.ru"
+   item_rec_on:  December 12, 2017
+   item_acc_on:  January 10, 2018
+   item_annot: |
+     <p> At the beginning of the paper, it is demonstrated that the technology of the most widely used SQL-oriented DBMS is inextricably linked with HDD technology. Features of HDD affect the data structures and algorithms for performing operations, methods of managing the buffer pool of the DBMS, transaction management, query optimization, etc. An alternative to a disk DBMS is an in-memory DBMS, storing databases entirely in the main memory. Despite the fact that in-memory DBMS has a number of advantages over disk DBMS, at present there is practically no competition. This, first of all, is due to natural limitations on the size of databases, inherent in in-memory DBMS. At present, new types of data storage hardware have appeared: SSD — block solid-state drives and SCM — storage-class memory (non-volatile main memory). SSD characteristics made it expedient to develop a DBMS in terms of their exclusive use, so far no such DBMS has been created, and SSDs are used simply instead of HDDs in DBMS that do not take their features into account. The availability of SCM allows one to radically simplify the architecture of the database and significantly improve their performance. To do this, you need to review many of the ideas used in disk-based databases.</p>
+   item_keywords: SQL-based DBMS; Hard Disk Drive with movable Heads; cost-based query optimization; main-memory DBMS; Flash-based Solid State Drive; non-volatile main memory; storage-class memory
+   item_pages: 147–155
+   item_citation: 'Kuznetsov S. D. New Storage Devices and their Impact on Database Technology, Programmnaya Ingeneria, 2018, vol. 9, no. 4, pp. 147—155.'
+ - doi: 9.156-162
+   link: 9.156-162
+   udk: "004.27"
+   item_authors: "Baklanovsky M. V., Krivoshein B. N., Terekhov A. N., Terekhov M. A., Sibiryakov A. E."
+   item_name: "Asymmetric Marker Processing"
+   item_authors_address: | 
+     <b> M. V. Baklanovsky</b>, m.baklanovsky@spbu.ru, <b> B. N. Krivoshein</b>, bnkv@outlook.com, <b> A. N. Terekhov</b>, a.terekhov@spbu.ru, <b>  M. A. Terekhov</b>, st054464@student.spbu.ru, Saint Petersburg State University, Saint Petersburg, 199034, Russian Federation, <b> A. E. Sibiryakov</b>, a.sibiryakov@urfu.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620002, Russian Federation
+   item_corr_author: " Terekhov Andrey N., Professor, Saint Petersburg State University, 199034, Saint Petersburg, Russian Federation, E-mail: a.terekhov@spbu.ru"
+   item_rec_on:  January 29, 2018 
+   item_acc_on:  February 12, 2018
+   item_annot: |
+     <p> An approach is proposed to create heterogeneous computing systems with the capabilities of organizing a single computing environment with a unified mechanism for transferring control, a through design route, automatic generation of a part of the system elements in the compilation process, and with debugging at the system level. All stack protocols, implementation on shared memory and work with FPGA are described. The results of speed tests of the authors implementation are given. The approach can be used for elements of hardware protection against reverse analysis, for creating high-performance systems with specialized computing cores and partial parallelism and for improving fault tolerance.
+     </p>
+   item_keywords: processor, control transfer, protocol stack, reliability, performance, security, fault tolerance
+   item_pages: 156–162
+   item_citation: ' Baklanovsky M. V., Krivoshein B. N., Terekhov A. N., Terekhov M. A., Sibiryakov A. E. Asymmetric Marker Processing, Programmnaya Ingeneria, 2018, vol. 9, no. 4, pp. 156—162.'
+ - doi: 9.163-173
+   link: 9.163-173
+   udk: "519.724.2"
+   item_authors: "Kazakov I. B."
+   item_name: "Coding in a Covert Channel of Data Packages' Permutations"
+   item_authors_address: | 
+     <b> I. B. Kazakov</b>, i_b_kazakov@mail.ru, Lomonosov Moscow State University, Moscow, 119234, Russian Federation 
+   item_corr_author: " Kazakov Ilia B., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: i_b_kazakov@mail.ru"
+   item_rec_on:  January 19, 2018
+   item_acc_on:  February 13, 2018
+   item_annot: |
+     <p> We investigate a covert channel based on permutation of network packets. Consider n packets with increasing packet numbers. A malicious agent can swap the order in which packets are transmitted, thus allowing to encode n! values. However during transmission packets can be further swapped, so the permutation sent can differ from the permutation received. In order to make the channel error tolerant we construct a number of error-correcting codes. We consider three error models. In the first model we only allow to change packet order; in the second model we only allow packet insertion/deletion; the third model combines the first and the second one. The value of n varies from 3 to 9; the number of errors varies from 1 to 4. The problem is to construct an error-correcting code with the maximal cardinality (in other words, to find the maximal code). We prove that this problem is reduced to the well-known maximal clique problem, and search for large cliques in graphs generated by our error models. Since the maximal clique problem is NP-hard, and graph sizes are significant (the number of permutations on 9 elements is equal to 362880), for large values of n we found only approximately maximal codes. In order to estimate the quality we introduce simple lower and upper bounds on the cardinality of maximal codes.
+     </p>
+   item_keywords: covert channels, permutations, channel capacity, models of error, error correcting codes, maximum clique problem
+   item_pages: 163–173
+   item_citation: "Kazakov I. B. Coding in a Covert Channel of Data Packages' Permutations, Programmnaya Ingeneria, 2018, vol. 9, no. 4, pp. 163—173."
+ - doi: 9.174-184
+   link: 9.174-184
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Operations of Formalized Knowledge Cognitive Synthesis"
+   item_authors_address: | 
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation 
+   item_corr_author: " Kostenko Konstantin I., Assistant Professor, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru "
+   item_rec_on:  November 21, 2017
+   item_acc_on:  December 21, 2017
+   item_annot: |
+     <p> The cognitive goals classification problem relates to constructing the substantially full system of independent classes of such goals correlated with various philosophical, linguistic and psychological concepts and models. The formalized and unified systems of universal basic qualifiers of cognitive goals and knowledge synthesis operations, agreed with concept of knowledge representation formalisms, are considered. It allows presenting of any cognitive goal as combinations of the goals from basic classes and defining complex knowledge synthesis processes. The created classifications are based on specifications of weakly formalized and ambiguous concepts of cognitive goal and cognitive operation, offered by B. Bloom.
+     Such a classification is broad, tangled and ambiguous. Realization of goal from any offered class often suppose realization of goals from other classes and needs accommodation of a hardly realized multiplicity of relations between goals and operations.
+     Coordination of the created classification with knowledge representation formalisms invariants is realized by such a compression of cognitive goal and operation concepts that imply independence of goals and operations of different classes.
+     Relation of aggregation does not connect the elements of defined classes. It allows considering the simulated classes of cognitive goals in the narrow sense bounded by specific formalized requirements to their general properties and realization, own for each such class. The universal hierarchy of formalized classes of computable knowledge processing operations is unique for all knowledge representation formalisms. It is adapted to hierarchy of cognitive goals classes and is based on set-theoretic, algebraic, logical and topological aspects of such operations.
+     Transforming the mathematical concepts into the functional invariants for cognitive goals realizations for any knowledge representation formalism is coordinated with the universal invariants of knowledge algebraic and semantic structures.
+     The constructed versions of qualifiers expand theoretical and application-oriented opportunities for the concept of knowledge representation formalisms, keeping its generality, abstractness and universality.
+     </p>
+   item_keywords:  knowledge representation formalism, algebraic structure, task, knowledge processing, cognitive goal, homomorphic extension, knowledge synthesis, ontology
+   item_pages: 174–184
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00214'
+   item_citation: ' Kostenko K. I. Operations of Formalized Knowledge Cognitive Synthesis, Programmnaya Ingeneria, 2018, vol. 9, no. 4, pp. 174—184.'
+ - doi: 9.185-190
+   link: 9.185-190
+   udk: "004.5; 004.94"
+   item_authors: "Turovsky Ya. A., Adamenko A. A."
+   item_name: "Comparative Analysis of the Evolution Method with use of 'Isolates' and the Annealing Simulation Method in Learning of Artificial Neural Networks"
+   item_authors_address: | 
+     <b> Ya. A. Turovsky</b>, yaroslav_turovsk@mail.ru, Voronezh State University, Voronezh, 394018, Russian Federation, <b> A. A. Adamenko</b>, adamenko.artem@gmail.com, Voronezh State University of Engineering Technologies, Voronezh, 394036, Russian Federation
+   item_corr_author: " Turovsky Yaroslav A., Associate Professor, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: yaroslav_turovsk@mail.ru"
+   item_rec_on:  February 06, 2018 
+   item_acc_on:  February 13, 2018
+   item_annot: |
+     <p> A series of computational experiments on the training of artificial neural networks was carried out using the evolutionary method of teaching ANN with the use of "isolates" and an annealing simulation method. The results of a comparative analysis of these experiments showed the possibility of using the developed software package ANNBuilder to simulate the training of a neurochip (NP) with the aim of restoring damaged neural tissue. The first group of these experiments used a simple evolutionary algorithm for teaching ANN with the use of the "isolation" mechanism, which consists in crossing the parent ANN and the emergence of a daughter ANN inside one "isolate" — the spatially restricted region of weight coefficients (WC) of the ANN. The second group used the simulated annealing method, which is based on the physical process of heating the metal to a certain temperature, which forces the atoms of the crystal lattice to leave their positions. It is concluded that when using the evolutionary method of teaching ANN using the "isolation" mechanism in comparison with the second group of experiments, in most cases the best value of the ANN error function is achieved, which justifies the use of this method in simulating the training of low frequencies.
+     </p>
+   item_keywords: neurochip, evolutionary algorithm, annealing simulation method, isolation, isolate, artificial neural networks
+   item_pages: 185–190
+   item_citation: ' Turovsky Ya. A., Adamenko A. A. Comparative Analysis of the Evolution Method with use of "Isolates" and the Annealing Simulation Method in Learning of Artificial Neural Networks, Programmnaya Ingeneria, 2018, vol. 9, no. 4, pp. 185—190.
+'
+---

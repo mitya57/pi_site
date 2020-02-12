@@ -1,0 +1,88 @@
+---
+title: Issue N1 2012 year
+content:
+ - doi:
+   link: _1_2012_1
+   udk: '004.41'
+   item_authors: Lipaev V. V.
+   item_name: Estimation of Quantity of the Information in Difficult Custom-Made Software Products
+   item_authors_address: ' <b> V. V. Lipaev </b>, e-mail: alexlip@mail.ru'
+   item_annot: |
+     <p> The interrelation of methods and the means used in computer science and economies is considered, at creation of custom-made software products for difficult systems. Methods of estimation of quantity of the information and information complexity of software products in systems are offered. Ways of an estimation and comparison of economic characteristics of intellectual work, complexity of design and manufacture of software products are presented
+     </p>
+   item_keywords: custom-made software products, quantity of the information, information complexity, intellectual work, estimation of economic characteristics
+   item_pages: 2–9
+
+ - doi:
+   link: _1_2012_2
+   udk: '004.89; 004.416; 004.412'
+   item_authors: Shalfeeva E. A.
+   item_name: Monitoring of Information Resources of Viable Intellectual Program System
+   item_authors_address: ' <b> E. A. Shalfeeva </b>,  e-mail: shalf@iacp.dvo.ru'
+   item_annot: |
+     <p> The spectrum of subtasks of monitoring of the resources necessary for intellectual program systems control and the method of such monitoring are considered.
+     </p>
+   item_keywords: intelligent software system, problem solver, information resource, ontology, software models, program design model, graph model, structural property, design metric, intelligent software systems engineering
+   item_pages: 10–15
+
+ - doi:
+   link: _1_2012_3
+   udk: '004.421.4; 004.052; 519.686; 514'
+   item_authors: Orlov D. A.
+   item_name: Computation Anomalies Detection in Implementations of Algorithms
+   item_authors_address: ' <b> D. A. Orlov </b>, e-mail: orlovdmal@gmail.com'
+   item_annot: |
+     <p> In the majority of program implementations of algorithms, real numbers are substituted with floating-point numbers. In most cases the result obtained is near to exact result, and good enough for practical purposes. However, in some cases one can obtain result qualitatively different from the exact result. Such situations are called computation anomalies.
+     </p><p>In this paper the definition of computation anomaly is given, the mechanism of occurrence of computation anomalies is discussed. The methods of finding cases where computation anomaly can occur and algorithm implementation testing are proposed.
+     </p>
+   item_keywords: computation geometry, floating-point numbers, calculation errors, computation anomalies, software testing
+   item_pages: 16–27
+
+ - doi:
+   link: _1_2012_4
+   udk: '004.7'
+   item_authors: Vasenin V. A., Itkes A. A., Puchkov F. M., Shapchenko K. A.
+   item_name: 'Ensuring Information Security in Grid and Cloud Computing Distributed Environments: Traditional Security Mechanisms and Trust Asymmetry Issues'
+   item_authors_address: '<b> Vasenin V. A.</b>, <b> A. A. Itkes </b>, <b> F. M. Puchkov </b>, <b> K. A. Shapchenko </b>, e-mail: vasenin@msu.ru'
+   item_annot: |
+     <p> In this paper we consider traditional approaches to enforcing information security in distributed computing environments based on Grid and Cloud computing technologies. The trust asymmetry issue is emphasized, and several techniques of ensuring mutual trust between producers and consumers of computing services are discussed.
+     </p>
+   item_keywords: information security, distributed systems, Grid Computing, Cloud Computing, trust asymmetry, Trusted Computing, Trusted Platform Module, homomor-phic encryption
+   item_pages: 28–34
+
+ - doi:
+   link: _1_2012_5
+   udk: '004.056.53'
+   item_authors: Shumilin A. V.
+   item_name: Potential Approach to Information Protection against Unauthorized Access to Database Management Systems
+   item_authors_address: '<b> A. V.Shumilin </b>, e-mail: shums@inbox.ru'
+   item_annot: |
+     <p> In the article there is considered potential approach to information protection against unauthorized access to database management systems (DBMS) as a part of trusted computerized systems, and there is given the example of such an approach realization within the DBMS of special-purpose operation system produced locally and called Astra Linux Special Edition.
+     </p>
+   item_keywords: database management systems, information security, computer system, Astra Linux
+   item_pages: 35–41
+
+ - doi:
+   link: _1_2012_6
+   udk: '004:378'
+   item_authors: Kostyuk V. V., Panteleeva D. A.
+   item_name: Using of IBM Jazz Platform for Graduation Work
+   item_authors_address: '<b> V. V. Kostyuk </b,<b> D. A. Panteleeva </b>, e-mail: Viacheslav.Kostyuk@itbu.ru'
+   item_annot: |
+     <p> In this article are regarded questions of student graduation essay/work management, designing, development and documentation, executing by final-year students of institution of higher education. Using of system Jazz provides collective work with projects, makes more high productivity of graduation work fulfillment. In regarded instance collective consists from several participants, working to graduation essay/work: manager of project, consultants of different parts of graduation work and by student, realizing this work.
+     </p>
+   item_keywords: documentary of development, graduation work, collective, artifacts, planning of work items, distributed development, collaboration, software engineering
+   item_pages: 41–45
+
+ - doi:
+   link: _1_2012_7
+   udk: '004.414.2'
+   item_authors: Galiev T. E.
+   item_name: Imitating Models of the Information Search in Corporate Search Systems
+   item_authors_address: '<b> T. E. Galiev </b>, e-mail: timur_galiev@mail.ru'
+   item_annot: |
+     <p> This article deals with base search procedures used in corporate search engines. Imitating and mathematical models describing search are shown.
+     </p>
+   item_keywords: search procedures, search procedures imitation models
+   item_pages: 46–47
+---

@@ -1,0 +1,143 @@
+---
+title: Issue N1 2020 year
+content:
+ - doi: 11.3-13
+   udk: "004.052.42"
+   item_authors: "Fedotov I. A., Khritankov A. S."
+   item_name: "Systematic Review of Automatic Verification of Smart-Contracts"
+   item_authors_address: |
+     <b> I. A. Fedotov</b>, ivan.fedotov@phystech.edu, <b> A. S. Khritankov</b>, anton.khritankov@acm.org, Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region, 141701, Russian Federation
+   item_corr_author: "Fedotov Ivan A., PhD Student, Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region, 141701, Russian Federation, E-mail: ivan.fedotov@phystech.edu"
+   item_rec_on:  October 25, 2019
+   item_acc_on:  December 09, 2019
+   item_annot: |
+     <p> A smart contract is a special kind of software code that runs on a blockchain platform. As other software smart contracts can contain errors and vulnerabilities that could lead to substantial adverse results and financial losses. These risks are compounded by the growing popularity of blockchain-based systems, devices, and infrastructure in finance, legal, energy and other domains. Early detection of software errors can reduce losses and automatic verification tools are a method
+     of choice for situations where reliability and security is important.
+     This systematic review analyzes the state of the art in smart contracts verification in 2015—2019. The review gives a brief introduction to blockchain, smart contracts and decentralized applications (dApps), examines verification methods for smart contracts and related tools. Different verification methods are taken into account including formal verification, dynamic and static code analysis, deductive analysis, theorem provers tools, code and execution trace audit.
+     The following research questions have been considered:
+     <ul>
+     <li>What code verification methodologies are commonly applied to software verification?</li>
+     <li>Which of them are applicable to smart contracts and what tools are available?</li>
+     <li>What are current limitations in smart contract verification?</li>
+     <li>What are possible future directions in smart contract verification?</li>
+     </ul>
+     During the research process more than 100 academic papers and industrial reports, software tool documentation and guides were studied. As a result, 52 studies, basically in English, were included in the systematic review.
+     </p>
+   item_keywords: smart-contract, blockchain, verification, systematic review, Ethereum, BitCoin, model checking
+   item_pages: 3–13
+   item_citation: 'Fedotov I. A., Khritankov A. S. Systematic Review of Automatic Verification of Smart-Contracts, <i> Programmnaya Ingeneria</i>, 2020, vol. 11, no. 1, pp. 3—13.'
+ - doi: 11.14-20
+   udk: "007:004.451:004.75"
+   item_authors: "Kuzminsky M. B., Chernetsov A. M."
+   item_name: "Modern Parallel Programming Tools in a Distributed Memory Model"
+   item_authors_address: |
+     <b> M. B. Kuzminsky</b>, kus@free.net, Zelinsky Institute of Organic Chemistry RAS, Moscow, 119991, Russian Federation, <b>  A. M. Chernetsov</b>, chernetsovam@mpei.ru, National Research University Moscow Power Engineering Institute, Moscow, 111250, Russian Federation, an@ccas.ru, Dorodnicyn Computing Centre CSC RAS, Moscow, 119333, Russian Federation
+   item_corr_author: "Kuzminsky Mikhail B., Ph. D., Senior Researcher, Zelinsky Institute of Organic Chemistry RAS, Moscow, 119991, Russian Federation, E-mail: kus@free.net"
+   item_rec_on:  September 02, 2019
+   item_acc_on:  October 21, 2019
+   item_annot: |
+     <p> The paper provides an overview of the implementation of MPI parallelization tools, focused primarily on the field of high performance computing (HPC). Low-level communications software used in various MPI implementations (such as uDAPL, OFED, OFI, etc.), which significantly affect the achieved performance, is considered. For the most widely used MPI implementations in HPC (OpenMPI, MVAPICH2, Intel MPI), an analysis is made of the performance achieved in their modern versions using high-speed interconnects with remote direct access to RDMA memory (Ethernet 100 Gbit — RoCE / iWARP, Intel Omni-Path, Infiniband EDR) for communication of the most widely used computing nodes based on x86-64 processors. Among the characteristics of achieved performance, indicators of achieved throughput and message transmission delays are considered, including data in terms of achieved performance in widely used MPI microtests OMB (Ohio State University Micro Benchmarks) and IMB (Intel Micro Benchmark), taking into account its dependence from number of message and their sizes. These latency and throughput data also characterize the actual performance indicators of the interconnect hardware itself. More attention is paid in the review to one-way RMA communications, supported since MPI 2.0, which helps to increase productivity and support promising PGAS parallelization models. On the contrary, widespread performance tests using MPI applications, SPEC MPI 2007, that depend on a huge number of hardware and software parameters, not only related to interconnects and parallelization tools, are less relevant for HPC and are not analyzed in the paper.</p>
+   item_keywords: parallel programming tools, MPI, OpenMPI, MVAPICH2, Intel MPI, performance testing
+   item_pages: 14–20
+   item_citation: 'Kuzminsky M. B., Chernetsov A. M. Modern Parallel Programming Tools in a Distributed Memory Model, <i>Programmnaya Ingeneria</i>, 2020, vol. 11, no. 1, pp. 14—20.'
+ - doi: 11.21-25
+   udk: "004.3+004.8"
+   item_authors: "Korneev V. V."
+   item_name: "Approaches to Improving the Performance of Neural Network Computing"
+   item_authors_address: |
+     <b> V. V. Korneev</b>, korv@rdi-kvant.ru, Research and Development Institute Kvant, Moscow, 125438, Russian Federation
+   item_corr_author: "Korneev Victor V., Principal Researcher, Research and Development Institute Kvant, Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru"
+   item_rec_on:  October 22, 2019
+   item_acc_on:  November 09, 2019
+   item_annot: |
+     <p> Approaches to improving the performance of neural network computing are considered. The construction of neural network calculators for the traditional neural network paradigm by increasing the number of computational cores leads to increased energy consumption and heat dissipation problems. The root of the problem is the need to perform a multiplication operation on multi-bit floating-point operands.
+     A possible way to overcome this negative circumstance is to reduce the number of operations performed through the use of tensorized neural networks or transition to binary neural networks and networks with significantly low-bit weights and inputs.
+     The new neural network paradigm of neuromorphic neural networks also does not use multiplication operations on multi-bit floating-point operands.
+     Thus, the main way to improve the performance of neural network computing is the development of new algorithms. The architecture of neural network computers should provide fast access of many computational cores to local blocks of distributed single-level memory, which is typical for high-performance parallel systems, and is not specific to neural network computing. </p>
+   item_keywords:  neural network computing padigms, binary neural networks, tensorizing neural networks, neuromorphic neural networks
+   item_pages: 21–25
+   item_citation: 'Korneev V. V. Approaches to Improving the Performance of Neural Network Computing, <i>Programmnaya Ingeneria</i>, 2020, vol. 11, no. 1, pp. 21—25.'
+ - doi: 11.26-33
+   udk: "004.451"
+   item_authors: "Godunov A. N., Soldatov V. A., Homenkov I. I."
+   item_name: "Message Transfer in the RapidIO Interconnect for Baget Real-Time Operating Systems Family"
+   item_authors_address: |
+     <b> A. N. Godunov</b>, nkag@niisi.ras.ru, <b>  V. A. Soldatov</b>, nkvalera@niisi.ras.ru, <b> Homenkov I. I. </b>, nkigor@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA), Moscow, 117218, Russian Federation
+   item_corr_author: 'Godunov Alexander N., Head of Department, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences" (SRISA), Moscow, 117218, Russian Federation, E-mail: nkag@niisi.ras.ru'
+   item_rec_on:  October 25, 2019
+   item_acc_on:  November 22, 2019
+   item_annot: |
+     <p> Russian CPU modules of the Baget family, interacting via the RapidIO interconnect, are designed to build up multiprocessor computing and embedded systems. The hard real-time operating systems of the Baget family (RTOs Baget 2.x, RTOS Baget 3.x and RTOS Baget 4.0) support this hardware. Messaging functions available to developers of applications running on RTOS Baget 2.x, 3.x and 4.0 may somewhat vary, but in all RTOS of the Baget family, the same RapidIO device driver is used at the lower level of software for the RapidIO inter­connect. The interaction between the driver and RTOS is provided by calling a few driver functions and setting special event handlers (callback functions) to be called by driver if corresponding events occur. The RapidIO device driver allows to restore communication both in case of failures and after the partner is switched off and then switched on again. This allows to implement the "cold standby" feature when one partner-computer is switched off and replaced with another one, so that the link will be restored. Testing has shown high reliability of the developed software. Benchmarks of the data transfer rate showed that overhead costs are less than 6 % of the channel capacity.
+     </p>
+   item_keywords: RTOS BAGET, RapidIO, message transfer, message controller, driver, MESSAGE
+   item_pages: 26–33
+   item_citation: 'Godunov A. N., Soldatov V. A., Homenkov I. I. Message Transfer in the RapidIO Interconnect for Baget Real-Time Operating Systems Family, <i>Programmnaya Ingeneria</i>, 2020, vol. 11, no. 1, pp. 26—33.'
+ - doi: 11.34-39
+   udk: "004.272.44"
+   item_authors: "Nepomnyashchiy O. V., Ryzhenko I. N."
+   item_name: "The Method of High-Level Synthesis and Software Toolkit for Description Algorithm of VLSI"
+   item_authors_address: |
+     <b> O. V. Nepomnyashchiy</b>, 2955005@gmail.com, <b>  I. N. Ryzhenko</b>, rodgi@kras.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation
+   item_corr_author: " Ryzhenko Igor N., Postgraduate Student, Siberian Federal University, 660041, Krasnoyarsk, Russian Federation E-mail: rodgi.krs@gmail.com"
+   item_rec_on:  August 20, 2019
+   item_acc_on:  September 04, 2019
+   item_annot: |
+     <p> The article considers high-level design flow of single-chip systems for parallel data processing. The authors present solution on the base of the original functional data-flow language and the model of massive parallel processing. The language is used for description of the initial algorithm. The solution provides architectural independence of the program and allows to consider a wide variety of solutions taking constraints into account, and to select the optimal solution. The developed software toolkit for high-level design is described. The toolkit allows a developer to translate, debug, optimize programs and convert algorithm descriptions from the functional data stream language to a hardware description language. The developed software has been successfully tested on a number of test cases. </p>
+   item_keywords: VLSI (Very Large Scale Integration), parallel computing, functional programming, high-level synthesis, synthesizer, HDL, translator, compiler
+   item_pages: 34–39
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project nos. 17-07-00288.'
+   item_citation: ' Nepomnyashchiy O. V., Ryzhenko I. N. The Method of High-Level Synthesis and Software Toolkit for Description Algorithm of VLSI, <i>Programmnaya Ingeneria</i>,2020, vol. 11, no. 1, pp. 34—39.'
+ - doi: 11.40-46
+   udk: "519.7; 004.056"
+   item_authors: "Galatenko A. V., Pletneva V. A."
+   item_name: "Embeddability of Take-Grant and Noninterference Security Models in CBAC Model"
+   item_authors_address: |
+     <b> A. V. Galatenko</b>, agalat@msu.ru, <b> V. A. Pletneva</b>, pletnyova_va@mail.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Pletneva Vesta A., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: pletnyova_va@mail.ru"
+   item_rec_on:  September 12, 2019
+   item_acc_on:  October 24, 2019
+   item_annot: |
+     <p> Computer systems with high level of security require a formal proof of security in the framework of some mathematical models. There exists a sufficiently large number of such models; most of them have either a graph nature or an automata nature. In some models security is decidable in all cases, however there exist examples in which security is undecidable, so there emerges a need in additional constraints.
+     Another problem consists in mutual expressibility of different security models (e.g. in case of a merge of two systems into one). A possible way of such unification is embedding one system into another. Embedding is a mapping that satisfies three properties: injectivity, preserving security/insecurity and preserving functionality.
+     Our research is focused on Concept-Based Access Control (CBAC) model introduced by Afonin and Bonushkina in 2019. This is a graph model with undecidable security. We constructively show that two classical security models, namely take-grant and noninterference models, can be embedded in CBAC, and complexity of security validation in original systems and in CBAC images has the same order. Thus, CBAC is rich enough to naturally reflect properties of both graph-based models and automata-based models. Since security is decidable in take-grant and noninterference, embeddings produce two new subclasses of CBAC systems with decidable security.
+     </p>
+   item_keywords: formal security models, CBAC model, take-grant model, noninterference, embedding of models, security validation complexity
+   item_pages: 40–46
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project no. 18-07-01055. '
+   item_citation: 'Galatenko A. V., Pletneva V. A. Embeddability of Take-Grant and Noninterference Security Models in CBAC Model, <i>Programmnaya Ingeneria</i>,2020, vol. 11, no. 1, pp. 40—46.'
+ - doi: 11.47-53
+   udk: "004.4’418"
+   item_authors: "Sosinskaya S. S., Hristyuk V. V."
+   item_name: "The Frame Model for Describing the Technology of Complex Detail and its Transformation into an Object Model"
+   item_authors_address: |
+     <b> S. S. Sosinskaya</b>, sosinskaya@mail.ru, <b> V. V. Hristyuk</b>, just_smile08@mail.ru, National Research Irkutsk State Technical University, Irkutsk, 664074, Russian Federation
+   item_corr_author: "Sosinskaya Sophia S., Professor, National Research Irkutsk State Technical University, Irkutsk, 664074, Russian Federation, E-mail: sosinskaya@mail.ru"
+   item_rec_on:  July 27, 2019
+   item_acc_on:  September 05, 2019
+   item_annot: |
+     <p> An approach is proposed to describe the information model for the development of technological operations of a typical process for manufacturing parts. When building typical machining processes, a complex part is taken as the basis. A complex part is used to briefly describe the presentation of information about a group of parts — these are either the main elements of the real, most complex part of the group, or conditional, containing information about all the details of this group. Based on the presented subject area, an object model is formed as a set of intercon­nected classes, which is mapped into a frame model based on the KAPPA expert shell (ES). Due to a number of drawbacks of this ES, the frame model is then converted into a relational model through an intermediate object model. Such a transformation system uses a number of modern software tools and, as it seems to the authors, provides a higher degree of automation and, as a result, provides more detailed information than is currently done in enterprises.
+     </p>
+   item_keywords: object model, complex detail, context-free grammar, relational model, group processing, ANTLR system, Object-Relational Mapping, object-oriented approach
+   item_pages: 47–53
+   item_citation: ' Sosinskaya S. S., Hristyuk V. V. The Frame Model for Describing the Technology of Complex Detail and its Transformation into an Object Model, <i>Programmnaya Ingeneria</i>,2020, vol. 11, no. 1, pp. 47—53.'
+ - doi: 11.54-64
+   udk: "004.89"
+   item_authors: "Vychegzhanin S. V."
+   item_name: "Software System for Stance Detection Based on Compositional Approach"
+   item_authors_address: |
+     <b>  S. V. Vychegzhanin</b>  , vychegzhaninsv@gmail.com, Vyatka State University, Kirov, 610000, Russian Federation
+   item_corr_author: " Vychegzhanin Sergey V., Software Engineer, Vyatka State University, Kirov, 610000, Russian Federation, E-mail: vychegzhaninsv@gmail.com"
+   item_rec_on:  September 30, 2019
+   item_acc_on:  October 21, 2019
+   item_annot: |
+     <p> The article is devoted to the task of automatic stance detection. Stance detection is the task of automatically determining from text whether the author of the text is in favor of, against, or neutral towards a proposition or target. There is a wide range of areas where stance detection is used, including political, sociological and marketing research, the search engines, the human-computer interfaces.
+     The article proposes the structure of the software system for stance detection based on ensembles of methods for feature selection and ensembles of classifiers. The structure includes four main subsystems, namely text preprocessing,
+     feature space dimension reduction, creation of ensembles of classifiers and analysis subsystems. The system is implemented in accordance with the object-oriented approach. Main classes and their relations are described with UML class diagram.
+     The results of experimental research of developed system are presented. The research is performed using the text corpora composed of messages from users of the social network "VK" and online forums. These results show high quality stance detection that is superior to other machine learning methods.
+     The developed system can be used as a standalone application for stance detection. It is possible to integrate the system into third party services, that search and recommend documents based on information analysis.
+     </p>
+   item_keywords: natural language processing, opinion mining, stance detection, software system, class diagram
+   item_pages: 54–64
+   item_comment: 'This work was supported by the Ministry of Education and Science of the Russian Federation and by the Vyatka State University (the project "Development and research of sentiment lexicons for text sentiment analysis" No. 34.2092.2017/ 4.6). '
+   item_citation: 'Vychegzhanin S. V. Software System for Stance Detection Based on Compositional Approach, <i>Programmnaya Ingeneria</i>,2020, vol. 11, no. 1, pp. 54—64'
+---

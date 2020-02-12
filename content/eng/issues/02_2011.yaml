@@ -1,0 +1,89 @@
+---
+title: Issue N2 2011 year 
+content:
+ - doi:
+   link: _2_2011_1
+   udk: "004.4"
+   item_authors: "Guriev M. A."
+   item_name: "Review of Global Software Industry"
+   item_authors_address: | 
+     <b> M.A. Guriev </b>, E-mail: marat_guriev@ru.ibm.com
+   item_annot: |
+     <p> The article contains an analysis of the current state of the global software industry (GSI). General trends in industrys evolution are determined and analyzed. They include the movement of jobs toward local expertise on relevant professions, the transfer of critical IT-functionality in the outsourcing in specialized service companies, a growing interest in free software and the increase in acquisitions by leading companies the most successful competitors from the second echelon. Significant movements toward increasing quality requirements of both - software and programmers, as well as process engineering and technologies, lead us to conclusion about the possibilities of drastic changes in software engineering in nearest future.
+     </p>
+   item_keywords: global software industry (GSI), tendenetes of GSI dewelopment, rating of SW-500, rating of top100 changes in GSI
+   item_pages: 2–5
+ - doi:
+   link: _2_2011_2
+   udk: "004.054; 519.257"
+   item_authors: "Orlik S. W."
+   item_name: "Software Engineering and Software Projects Lifecycle Models in the context of SWEBOK. Part I	"
+   item_authors_address: | 
+     <b> S. W. Orlik</b>,  E-mail: sorlik@gmail.com
+   item_annot: |
+     <p> History and structure of SWEBOK are discussed as a general accepted view on software engineering. This work is based on the publically available translation of SWEBOK to the Russian language within notes and comments prepared by author.
+     </p>
+   item_keywords: SWEBOK, software engineering
+   item_pages: 6–9
+ - doi:
+   link: _2_2011_3
+   udk: "004.4'427"
+   item_authors: "Kazmin O. O.  "
+   item_name: "Source Code Translation in Dynamic Parallelization Systems Based on T-Approach"
+   item_authors_address: | 
+     <b> O. O.  Kazmin </b>,  E-mail: nutok@yandex.ru
+   item_annot: |
+     <p> The paper presents the results of research aimed at creating an effective preprocessor within the scope of development of automatic parallelization system.
+     The paper touches on existing solutions for static code analysis and describes the modification of one of these tools. Also discussed are code translation methods applicable to parallelization systems based on T-approach.
+     </p>
+   item_keywords: automatic parallelization, source code translation, static code analysis, T-approach, NewTS
+   item_pages: 10–13
+ - doi:
+   link: _2_2011_4
+   udk: "004.415.52"
+   item_authors: "Shelekhov V. I."
+   item_name: "Verification and Synthesis of Effective Programs for Standard Functions under Predicate Programming Technology"
+   item_authors_address: | 
+     <b> V. I. Shelekhov </b>, E-mail: vshel@iis.nsk.su
+   item_annot: |
+     <p> The technology of development of the effective standard functions isqrt, floor, and ilog2 is described. Correctness of the programs is achieved by application of deductive verification and program synthesis methods. The proof of program correctness conditions is supported by the PVS Verification System.
+     </p>
+   item_keywords: predicate programming, deductive verification, program synthesis, total correctness of program
+   item_pages: 14–21
+ - doi:
+   link: _2_2011_5
+   udk: "004.41"
+   item_authors: "Kryuchkova E. N., Staroletov S. M."
+   item_name: "Dynamic Testing of Networking Systems by Using an Automation Model"
+   item_authors_address: | 
+     <b> E. N. Kryuchkova </b>, <b> S. M. Staroletov </b>,  E-mail: kruchkova_elena@mail.ru
+   item_annot: |
+     <p> Model-based testing is presented in the article. Formal model of networking systems is offered and this model is realized as a Eclipse Plugins. The purpose of proposed Automatic Testing System is development process tracing from model description and programming up to software testing.
+     </p>
+   item_keywords: performance model, automaton, formal analyze, networking systems, model-based testing
+   item_pages: 22–26
+ - doi:
+   link: _2_2011_6
+   udk: "004"
+   item_authors: "Yablonsky S. A. "
+   item_name: "Cloud Computing Ecosystem Introduction"
+   item_authors_address: | 
+     <b> S. A. Yablonsky </b>,  E-mail: yablonsky.serge@gmail.com
+   item_annot: |
+     <p> This paper describes the importance of knowledge management of the cloud computing ecosystem. The methodology, the classification and organization ofdomain concepts, validation issues, analysis of some development tools, and the first pilot version of cloud computing ecosystem taxonomy is discussed. The cloud computing ecosystem taxonomy adds to current understanding of Cloud Services Innovation Semantic Workflow and Service Model Foundations; organization of Cloud Services domain knowledge in taxonomy form; identification and organization the concepts and instances (or examples) of concepts in a manner that achieves the taxonomys purpose and the types of clouds and the multilayer models of cloud services.
+     </p>
+   item_keywords: Cloud computing, Cloud Services, SaaS, PaaS, IaaS
+   item_pages: 27–38
+ - doi:
+   link: _2_2011_7
+   udk: "004.4"
+   item_authors: "Kostyuk V. V."
+   item_name: "History with Programming"
+   item_authors_address: | 
+     <b> V. V. Kostyuk </b>,  E-mail: Viacheslav.Kostyuk@itbu.ru
+   item_annot: |
+     <p> In this article are regarded questions of program code development, historical aspects of programming methods from sixties years of last century. This is selected stages from first steps of code writing in the full sense of the word in double presentation, up to development of program language systems on level of code generation on model basis.
+     </p>
+   item_keywords: programming, code generation, modeling, program methods, development of programming
+   item_pages: 39–47
+---

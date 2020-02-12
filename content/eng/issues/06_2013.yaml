@@ -1,0 +1,75 @@
+---
+title: Issue N6 2013 year
+content:
+ - doi:
+   link: _6_2013_1
+   udk: "004.4'418"
+   item_authors: Vyukova N. I., Galatenko V. A., Samborskij S. V.
+   item_name: LLVM as an Infrastructure for Compiler Development for Embedded Systems
+   item_authors_address: ' <b> N. I. Vyukova</b>, <b> V. A. Galatenko </b>, <b> S. V. Samborskij</b>, e-mail: niva@niisi.msk.ru'
+   item_annot: |
+     <p> The paper presents an overview of the LLVM infrastructure and its evaluation with respect to the specificity of compiler development for microprocessors used in embedded systems. It discusses LLVM features from the user's point of view, the overall structure of LLVM, and internal representation of a program.
+     </p>
+   item_keywords: compiler, LLVM, embedded systems, intermediate representation
+   item_pages: 2–10
+
+ - doi:
+   link: _6_2013_2
+   udk: "004.4'22"
+   item_authors: Terekhov A. N., Bryksin T. A., Litvinov Y. V.
+   item_name: 'QReal: Domain-Specific Visual Modeling Platform'
+   item_authors_address: ' <b> A. N. Terekhov </b>,  e-mail: Andrey.Terekhov@lanit-tercom.com, <b> T. A. Bryksin </b>,  <b> Y. V. Litvinov </b>'
+   item_annot: |
+     <p> Approach to a development of software, based on specialized visual languages is described in this article. Existing platforms for creation of specialized visual development environments are examined, QReal platform is described, which is developed on a software engineering chair of SPbSU, overview of its architecture and main functionality is given, examples of its practical use are presented.
+     </p>
+   item_keywords: domain-specific modeling, visual programming, DSM platforms, MetaCASE-systems
+   item_pages: 11–19
+
+ - doi:
+   link: _6_2013_3
+   udk: '681.3'
+   item_authors: Sheenok D. A.
+   item_name: Tool Design the Optimal Architecture of Fault-Tolerant Software Systems
+   item_authors_address: ' <b> D. A. Sheenok </b>, e-mail: dmitryshkras@rambler.ru'
+   item_annot: |
+     <p> Considered the problem of planning the cost of achieving the required level of reliability of failover software. Substantiated the necessity of the use of specialized optimization algorithms for solving this problem because of the large number of alternative options for building the software architecture. Described the algorithms of a software system to solve this optimization problem using exhaustive search options, or by using a specialized genetic algorithm. Proposed an algorithm for the use of tools in the software life cycle.
+     </p>
+   item_keywords: software architecture design, optimization, genetic algorithm
+   item_pages: 20–26
+
+ - doi:
+   link: _6_2013_4
+   udk: '512.563.6'
+   item_authors: Baranov D. V.
+   item_name: Computer Implementation of Redundant Rule Elimination in Conditional Rewrite Systems
+   item_authors_address: '<b> D. V. Baranov </b>, e-mail: Denis.Baranov@dataart.com'
+   item_annot: |
+     <p> This paper describes the implementation of the redundancy elimination algorithm. It is based on a new algebraic system with the semantics of a collection of rules of the conditional equational theory or conditional term rewriting system.
+     </p>
+   item_keywords: terms, equational theory, conditional rules, logical reduction, computer implementation
+   item_pages: 27–32
+
+ - doi:
+   link: _6_2013_5
+   udk: '800, 801'
+   item_authors: Kharlamov A. A., Ermolenko T. V.
+   item_name: Semantic Network of Subject Area as a Basis for Transition Network Compilation for Automatic Recognition of Key Words in Speech Flow
+   item_authors_address: '<b> A. A. Kharlamov </b>,  e-mail: kharlamov@analyst.ru, <b> T. V. Ermolenko </b>'
+   item_annot: |
+     <p> The task of automatic speech recognition has not decided successfully now yet. But products such companies like Nuance [1], Autonomy [2], and others are known now. The products are used in applications, and in Russian language ones. Hidden Markov Models approach is good for the automatic speech recognition. Mistake of the recognition system in low room in such a case become less than 15 %. There is one, but essential lack: the transition network between word models compiled by hand. But the process is very labor consuming.
+     </p>
+   item_keywords: speech recognition, key words, transition network between word models, text analysis, semantic network
+   item_pages: 33–40
+
+ - doi:
+   link: _6_2013_6
+   udk: '519.256'
+   item_authors: Ivanova A. V., Aduenko A. A., Strijov V. V.
+   item_name: Algorithm of Construction Logical Rules for Text Segmentation 
+   item_authors_address: '<b> A. V. Ivanova </b>, <b> A. A. Aduenko </b>, <b> Strijov V. V. </b>, e-mail: strijov@ccas.ru'
+   item_annot: |
+     <p> Consider the method of recovery of BibTeX-structure bibliographic records from their text representation. Structure is recovered using logical rules defined on an expert-given set of regular expressions. Algorithm based on stub covers is proposed for constructing the logic rules. The algorithm is illustrated with the problem of searching the structure in bibliographic records, represented by text strings.
+     </p>
+   item_keywords: bibliographic record, BibTeX, regular expression, stub cover, clustering
+   item_pages: 41–45
+---

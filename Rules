@@ -1,0 +1,120 @@
+#!/usr/bin/env ruby
+  require 'set'
+
+preprocess do
+
+   dois = Set.new
+
+  #@items.create('Hello', {}, '/dois/1.html')
+
+   all_issues = @items.find_all('/**/issues/*')
+   #all_issues = @items['/content/issues/*.*']
+
+   all_issues.each do |issue|
+
+      for itm in issue[:content] do
+        #@items.create(itm[:doi], { itm[:doi] => 'doi', itm[:item_authors] => 'item_authors' }, '/dois/'+ itm[:doi] + '.html')       
+        $s = ''
+        $i = 0
+
+        # Forming pathname without filename and last directory
+        # that's for correct path for doi files
+        while $i < issue.identifier.components.count - 2 do
+          $s = $s  + '/' + issue.identifier.components[$i]
+          $i += 1
+        end
+
+        if itm[:doi].nil?
+            @items.create(issue[:title], itm, $s + '/10.17587/prin.' + itm[:link] + '.html')       
+        else
+            @items.create(issue[:title], itm, $s + '/10.17587/prin.' +  itm[:doi] + '.html')       
+        end 
+      end  
+   end
+
+#  dois.each do |doi|
+  # items.create('Hello'"",
+#    { :doi => doi },
+#    "/dois/#{doi}/"
+#   )
+  #@items.create('Hello', {}, '/hello')
+#  end
+
+end
+
+
+
+compile '/**/eng/10.17587/*' do
+  layout '/default_eng_doi.html'
+end
+
+compile '/**/rus/10.17587/*' do
+  layout '/default_rus_doi.html'
+end
+
+compile '/**/rus/archive.html' do
+  layout '/archive_rus.html'
+end
+
+compile '/**/eng/archive.html' do
+  layout '/archive_eng.html'
+end
+
+compile '/**/eng/*.html' do
+  layout '/default_eng.html'
+end
+
+compile '/**/rus/*.html' do
+  layout '/default_rus.html'
+end
+
+compile '/**/eng/issues/*.yaml' do
+  layout '/default_eng_list.html'
+end
+ 
+compile '/**/rus/issues/*.yaml' do
+  layout '/default_rus_list.html'
+end
+# This is an example rule that matches Markdown (.md) files, and filters them
+# using the :kramdown filter. It is commented out by default, because kramdown
+# is not bundled with Nanoc or Ruby.
+#
+#compile '/**/*.md' do
+#  filter :kramdown
+#  layout '/default.*'
+#end
+
+#route '/**/*.{html,md}' do
+#  if item.identifier =~ '/index.*'
+#    '/eng/index.html'
+#  else
+#    item.identifier.without_ext + '/index.html'
+#  end
+#end
+
+route '/**/*.html' do
+    item.identifier.to_s
+end
+
+route '/**/10.17587/*' do
+    item.identifier.to_s
+end
+
+route '/**/issues/*.yaml' do
+    item.identifier.without_ext + '.html'
+end 
+
+
+compile '/*.css' do
+  write item.identifier.to_s
+end
+
+
+#compile '/images/*.*' do
+#  write item.identifier.to_s
+#end
+
+passthrough '/images/*' 
+passthrough '/full/*'
+
+layout '/**/*', :erb

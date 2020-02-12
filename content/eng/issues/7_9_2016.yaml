@@ -1,0 +1,111 @@
+---
+title: Issue N9 2016 year 
+content:
+ - doi: 7.387-394
+   link: 7.387-394
+   udk: "004.222"
+   item_authors: "Isupov K. S., Knyazkov V. S., Kuvaev A. S., Popov M. V."
+   item_name: "Development of High-Precision Arithmetic Package for Supercomputers with Graphics Processing Units"
+   item_authors_address: | 
+     <b> K. S. Isupov</b>, ks_isupov@vyatsu.ru, <b> V. S. Knyazkov</b>, knyazkov@vyatsu.ru, <b> A. S. Kuvaev</b>, kyvaevy@gmail.com, <b> M. V. Popov</b>, mihailpopov1993@mail.ru, Vyatka State University, Kirov, 610000, Russian Federation 
+   item_corr_author: " Isupov Konstantin S., Leading Researcher, Vyatka State University, 610000, Kirov, Russian Federation, e-mail: ks_isupov@vyatsu.ru "
+   item_rec_on:  May 30, 2016 
+   item_acc_on:  July 06, 2016
+   item_annot: |
+     <p> A multiple-precision software library for parallel computing systems with hybrid CPU/GPU architecture is considered in this paper. Three numeric data types are supported: fixed-precision extended-range floats, multiple-precision integers, and multiple-precision floats. The feature of the library is the use of residue number system (RNS) to represent multiple-precision significands. This makes it possible to effective parallel processing of significand digits due to the lack of carry propagation. The interval estimation of relative (fractional) values in RNS is used to perform complex operations, such as magnitude comparison and overflow detection.
+     </p>
+   item_keywords: multiple-precision computations, extended range, residue number system, CUDA, software
+   item_pages: 387–394
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project no. 16-37-60003 mol_a_dk '
+   item_citation: ' Isupov K. S., Knyazkov V. S., Kuvaev A. S., Popov M. V. Development of High-Precision Arithmetic Package for Supercomputers with Graphics Processing Units, Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 387—394. '
+ - doi: 7.395-399
+   link: 7.395-399
+   udk: "004.05"
+   item_authors: "Gvozdev V. E., Blinova D. V."
+   item_name: "Analysis of Functional Possibilities of Hardware-Software Complexes in the Early Stages of Designing with Considering the Opinions of Stakeholders"
+   item_authors_address: | 
+     <b> V. E. Gvozdev</b>, wega55@mail.ru, <b> D. V. Blinova</b>, blinova.darya@gmail.com, Ufa State Aviation Technical University, Ufa, 450044, Russian Federation 
+   item_corr_author: " Blinova Darya V., Assistant Professor, Ufa State Aviation Technical University, Ufa, 450044, Russian Federation, e-mail: blinova.darya@gmail.com "
+   item_rec_on:  May 12, 2016 
+   item_acc_on:  June 30, 2016
+   item_annot: |
+     <p> The paper discusses the functionality of the software-hardware complexes from the point of view of different stakeholders.
+     A vector model which characterizes the useful and harmful functions of the hardware-software complexes for different modes of use is proposed. The vector components characterize matching functionality and basic properties of the hardware-software systems. Basic properties are understood as the properties corresponding to the object’s base line.
+     Proposed is the multivariate model, which allows one to analyze the properties of hardware-software complexes taking differences in the points of view of stakeholders on the functional capabilities of object into account.
+     Use of the proposed models allows one to increase the degree of formalization of the functional requirements description on the early stages of designing, which makes it possible to develop formal conformity assessment procedures of properties of the base object to the desires and expectations of the non-homogeneous stakeholders.
+     Definitions of such concepts as "basic object", "reference object", "defect", "useful function", "harmful function" are given.
+     Offered is the procedure for assessing the significance of defects by set of estimates of stakeholders group, based onuse of membership functions.      </p>
+   item_keywords: defect, defectology, stakeholder, membership function, hardware- software complex, harmful function, useful function
+   item_pages: 395–399
+   item_comment: ' This work was supported by the Russian Foundation for Basic Research, project nos.16-08-00442. '
+   item_citation: ' Gvozdev V. E., Blinova D. V. Analysis of Functional Possibilities of Hardware-Software Complexes in the Early Stages of Designing with Considering the Opinions of Stakeholders, Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 395—399.
+'
+ - doi: 7.400-407
+   link: 7.400-407
+   udk: "004.7"
+   item_authors: "Andreev A. A., Kolosov A. S., Voronin A. V., Bogoiavlenskii Iu. A."
+   item_name: "Generalized Graph Model of the Physical, Link and Network Layers Structure of the ICT-infrastructure of a Local Network Service Provider"
+   item_authors_address: | 
+     <b> A. A. Andreev</b>, andreev@cs.petrsu.ru, <b> A. S. Kolosov</b>, akolosov@cs.petrsu.ru, <b> A. V. Voronin</b>, voronin@petrsu.ru, <b> Iu. A. Bogoiavlenskii</b>, ybgv@cs.petrsu.ru, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation, 
+   item_corr_author: " Andreev Anton A., Master Student, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation, e-mail: andreev@cs.karelia.ru "
+   item_rec_on:  June 23, 2016 
+   item_acc_on:  June 30, 2016
+   item_annot: |
+     <p> A systematic approach to management of a local network service provider’s ICT-infrastructure (network) requires a topology graph of the network’s three basic layers. Network topology discovery process is complicated due to lack of standard tools for devices detection, data incompleteness and heterogeneity. In such circumstances it is expedient to divide the problem of graph discovery into two parts: 1) collection of facts on the current network state from all available data sources; 2) analysis of collected facts in order to build graph fragments. This approach requires a generalized graph model of a Network structure, which could define a family of topology graphs of modern Networks. 
+     This paper proposes a generalized graph model of physical, link and network layers topology of a modern local network service provider’s Ethernet and IP based network. The model defines network topology graphs for each layer of an ICT-infrastructure and properties of this graphs. The paper also describes the process of building a network topology graph that is independent of specific data sources, and the formal rationale of its stages. 
+     The proposed model and the Network graph building process allow one to develop an efficient software system for automatized Network topology discovery.
+     </p>
+   item_keywords: network management, network service provider, ICT-infrastructure graph, topology discovery, graph model
+   item_pages: 400–407
+   item_citation: ' Andreev A. A., Kolosov A. S., Voronin A. V., Bogoiavlenskii Iu. A. Generalized Graph Model of the Physical, Link and Network Layers Structure of the ICT-infrastructure of a Local Network Service Provider, Programmnaya Ingeneria,  2016, vol. 7, no. 9, pp. 400—407. '
+ - doi: 7.408-413
+   link: 7.408-413
+   udk: "004.82"
+   item_authors: "Afonin S. A., Kozitsyn A. S., Shachnev D. A."
+   item_name: "Software Mechanisms for Scientometrical Data Aggregation Based on Ontological Representation of the Relational Database Structure"
+   item_authors_address: | 
+     <b> S. A. Afonin</b>, serg@msu.ru, <b> A. S. Kozitsyn</b>, alexanderkz@mail.ru, <b> D. A. Shachnev</b>, mitya57@mitya57.me, Moscow State University, Moscow, 119991, Russian Federation 
+   item_corr_author: " Shachnev Dmitry A., Postgraduate Student, Moscow State University, Moscow, 119991, Russian Federation,  e-mail: mitya57@mitya57.me "
+   item_rec_on:  May 19, 2016 
+   item_acc_on:  May 30, 2016
+   item_annot: |
+     <p> The article presents a mathematical model and a software implementation of the aggregator of scientometrical data which describes the results of individuals’ activities. The model is based on using the ontological structure of data categories and on summation of values of different parameters (indicators) which define various components of the activity measuring, for each of these categories. Based on calculation formulas the SQL queries to the relational database are built, which are used to fill the table with the activity results corresponding to the formula. The model can be used for finding the individuals or groups that have shown the best results in a certain area, and for collecting the statistics about the departments’ activities. As an example of database structure is used the structure of the ISTINA informational-analytical system (Intellectual System of Thematic Examination of Scientometrical data) which has been developed and successfully exploited for three years at Lomonosov Moscow State University. The data aggregation mechanisms have been successfully tested on that system.
+     </p>
+   item_keywords: ontologies, Semantic Web, scientometrical data, SQL query generation, data aggregation
+   item_pages: 408–413
+   item_citation: 'Afonin S. A., Kozitsyn A. S., Shachnev D. A. Software Mechanisms for Scientometrical Data Aggregation Based on Ontological Representation of the Relational Database Structure, Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 408—413. '
+ - doi: 7.414-423
+   link: 7.414-423
+   udk: "629.73.02; 629.73.05/.06; 535.643"
+   item_authors: "Zharinov I. O., Zharinov O. O."
+   item_name: "Methods of Evaluation of Coefficients of Color Profile Matrix for Displays with Three Primary Color Reproduction System"
+   item_authors_address: | 
+     <b> I. O. Zharinov</b>, igor_rabota@pisem.net, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, 197101, Russian Federation, Design Bureau Electroavtomatika, Saint Petersburg, 198095, Russian Federation, 
+     <b> O. O. Zharinov</b>, zharinov73@hotbox.ru, Saint-Petersburg State University of Aerospace Instrumentation, Saint Petersburg, 190000, Russian Federation 
+   item_corr_author: " Zharinov Igor O., Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO University), 197101, Saint Petersburg, Russian Federation e-mail: igor_rabota@pisem.net "
+   item_rec_on:  April 22, 2016   
+   item_acc_on:  May 31, 2016
+   item_annot: |
+     <p> The problem of evaluation of coefficients of color profile matrix for displays with three primary colors reproduction system is considered. According to three primary colors reproduction system, color of each pixel is created as combination of three sources of basic colors: red, green and blue. Such sources may be light emitting diodes or liquid crystals that polarize white backlight. Color profile matrix determines transformation of RGB codes into XYZ color coordinates and color gamut of the display depends upon matrix coefficients. Display manufacturers tend not to include values of coefficients of display’s profile matrix in corresponding technical manuals, whilst these data are necessary for advanced color management procedures. In this article seven different methods of evaluation of coefficients of display’s color profile matrix are proposed. To build all those methods, two approaches were used. First approach is based upon data in display’s technical manual, such as chromaticity coordinates of vertices of gamut triangle and white point chromaticity coordinates. Second approach is developed assuming results of experimental data, which may be obtained during colorimetric measurements in different color spaces. Measuring instruments to be used in colorimetric measurements must provide measurements at least in one of standard color spaces, such as XYZ, Yxy, Yu′v′.
+     </p>
+   item_keywords: color spaces, color profile matrix, display, colorimetric measurements, color coordinates, chromaticity coordinates
+   item_pages: 414–423
+   item_citation: 'Zharinov I. O., Zharinov O. O. Methods of Evaluation of Coefficients of Color Profile Matrix for Displays with Three Primary Color Reproduction System, Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 414—423.'
+ - doi: 7.424-431
+   link: 7.424-431
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Simulation of Inference Operator for Hierarchical Knowledge Representation Formalisms"
+   item_authors_address: | 
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation 
+   item_corr_author: " Kostenko Konstantin I., Head of Chair, Kuban State University, Krasnodar, 350040, Russian Federation,  e-mail: kostenko@kubsu.ru "
+   item_rec_on:  May 31, 2016   
+   item_acc_on:  June 30, 2016
+   item_annot: |
+     <p> Hierarchical knowledge representation formalisms provide more efficient tool for simulating the knowledge domains contents models compared to descriptive logics based models. These formalisms allow constructing complicated semantic structures, associated with given professional problems that needed searching for the solutions. Application of hierarchical formalisms to professional activity domains is associated with claim of formalization the inference operator concept, as the foundation for realization the decision searching processes. The universal unified inference operator definition is introduced. It uses task structure invariants and complex knowledge, synthesized by processing the subject area knowledge base. Such a base is represented by enumerable sets of elementary and simple knowledge extracted from subject domain content. The possibility of any task reducibility into tasks combination from four special classes is settled. Every inference operator allows implementation as set of tasks solving processes described by knowledge synthesis rules. Such an operator is supplied by knowledge structure tracing mappings as the tool for tasks solutions extracting from synthesized knowledge. Universal concepts and invariants are proposed for tasks decomposition and knowledge synthesis rules descriptions. The tasks structures and tasks solving processes rules serve to be the foundation for inference operator formal description. The rule premises types are represented by templates, conditions and procedures calls as well as rules’ conclusions templates. Rules’ premises templates provide components recognitions and analysis for sets of associated knowledge. Conditions and procedures calls allow describing complex situation of knowledge synthesis as specified at rules’ conclusions. Task structure is created by the task decomposition process. It defines the subtasks based processes that implement the scenario of tasks solving.
+     </p>
+   item_keywords: knowledge area, knowledge space, task structure, elementary knowledge, simple knowledge, knowledge synthesis, inference operator
+   item_pages: 424–431
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project nos. 16-01-00214 '
+   item_citation: 'Kostenko K. I. Simulation of Inference Operator for Hierarchical Knowledge Representation Formalisms,  Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 424—431. '
+---

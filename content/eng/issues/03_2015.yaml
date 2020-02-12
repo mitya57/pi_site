@@ -1,0 +1,78 @@
+---
+title: Issue N3 2015 year
+content:
+ - doi:
+   link: _3_2015_1
+   udk: 
+   item_authors: Bombin A. A., Galatenko V. A, Kostiukhin K. A.
+   item_authors_address: '<b>A. A. Bombin</b>, Engineer, <b>V. A. Galatenko</b>, Head of Department, <b>K. A. Kostiukhin</b>, Senior Researcher, e-mail: kost@niisi.msk.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA), Moscow'
+   item_name: About Software Self-Healing in ARING- and POSIX-compliant Systems
+   item_annot: |
+      <p> Attempts to solve the problem of complex systems management led to the idea of establishing mechanisms to help target system autonomously detect and handle errors, and also re-tune to reflect changing conditions. Thus, the new term "self-management software" was originated. This term includes the implementation of several "self-" functions (mechanisms), such as self-adaptation, self-defense, self-healing, and so on. Currently, these mechanisms are increasingly being used, and there are some researches on methods to implement them. This article discusses the existing mechanisms in the complex software systems self-management and describes self-healing tools of ARINC- and POSIX-compliant systems (such as the national real-time OS "Baget") developed with the participation of the authors.
+      </p>
+   item_keywords: self-healing, self-management, POSIX, ARINC
+   item_pages: 3–12
+
+ - doi:
+   link: _3_2015_2
+   udk: 
+   item_authors: Pozhilov I. A., Semenov A. S., Makagon D. V.
+   item_authors_address: '<b>I. A. Pozhilov</b>, Researcher, e-mail: ilyapoz@gmail.com, <b>A. S. Semenov</b>, Head от Sector, e-mail: alxdr.Semenov@gmail.com, <b>D. V. Makagon</b>, Head от Department, e-mail: makagond@nicevt.ru, Joint-stock company "Scientific Research Centre for Electronic Computer Technology", Moscow'
+   item_name: Connectivity Problem Solution for Direction Ordered Deterministic Routing in nD Torus
+   item_annot: |
+      <p> Connectivity problem for nD torus with link failures is addressed. An algorithm is proposed to solve the problem in the general case. Connectivity loss probability for given number of link failures examined for non-minimal direction ordered routing, First Step/Last Step method and the complete routing algorithms. First Step/Last Step is shown to be adequate for maintaining connectivity.
+      </p>
+   item_keywords: fault tolerance, communication networks, multidimensional torus, connectivity, deterministic routing, direction ordered routing
+   item_pages: 13–19
+
+ - doi:
+   link: _3_2015_3
+   udk: 
+   item_authors: Turovsky Y. A., Kurgalin S. D., Vahtin A. A., Belobrodsky V. A.
+   item_authors_address: '<b>Y. A. Turovsky</b>, Associate Professor, Head of Laboratory, e-mail: yaroslav_turovsk@mail.ru, <b>S. D. Kurgalin</b>, Head of the Department, <b>A. A. Vahtin</b>, Associate Professor, <b>V. A. Belobrodsky</b>, Postgraduate Student, Voronezh State University'
+   item_name: Human-Machine Interface with Evaluation of Human Functional Pressure
+   item_annot: |
+      <p> The paper offers an architectural solution, which was used to design a version of functionally dependent human-machine interface, based on the detection, analysis and practical application of biomedical signals. Such signals characterize the functional pressure experienced by a human, which also includes the emotional component of human behavior. The results of processing both time and frequency features of the wave structure of heart rate variability provide a certain set of parameters, which corresponds to processes occurring when functional pressure of a human changes. These parameters can be used for forming commands in the frames of a developed "human-machine" interface. It is shown that the HRV signal, after an appropriate processing, can be used to form control commands for software (operating system and software applications). Such commands may be commands to change color settings of graphic interface, priorities of the program operation in the operating system, changes in multimedia applications operation. The designed interface greatly expands the functionality of human-machine interaction.
+      </p>
+   item_keywords: human-computer interface, biomedical signal, digital signal processing, managing, wavelet-transformation, stress, heart rate variability
+   item_pages: 20–26
+
+ - doi:
+   link: _3_2015_4
+   udk: 
+   item_authors: Matrenin P. V.
+   item_authors_address: '<b>P. V. Matrenin</b>, Postgraduate Student, e-mail: pavel.matrenin@gmail.com, Novosibirsk State Technical University'
+   item_name: Description and Implementation of Swarm Intelligence Algorithms Using the system Approach
+   item_annot: |
+      <p> The article results analysis algorithms Swarm intelligence as a special class of optimization algorithms. It shows fundamental differences between Swarm Intelligence algorithms and other stochastic optimization algorithms. UML-diagrams illustrating the unified approach proposed by author to swarm intelligence algorithms are given.
+      </p><p>Swarm Intelligence algorithms should be considered as a special group among population-based optimization algorithms, since they share the same characteristic idea, based on the collective movements of decentralized agents and the indirect information exchange. This distinguishes Swarm Intelligence of evolutionary algorithms that mimics the process of natural selection.
+      </p><p>Proposed unified description of Swarm Intelligence algorithms in case of their implementation provides standardization, enhance flexibility and portability of software and increasing the speed of development.
+      </p><p>The scheme is applied to describe the Artificial Bee Colony Optimization and the Fish School Search. Analogous descriptions of the Particle Swarm Optimization and Ant Colony Optimization have been given in this journal, N. 12, 2013.
+      </p>
+   item_keywords: artificial bee colony optimization, fish school search, global optimization, probabilistic methods, Swarm Intelligence, system approach
+   item_pages: 27–34
+
+ - doi:
+   link: _3_2015_5
+   udk: 
+   item_authors: Zharinov I. O., Zharinov O. O.
+   item_authors_address: '<b>I. O. Zharinov</b>, Associate Professor, e-mail: igor_rabota@pisem.net, Chief of Department, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO), Chief of Learning-Scientists Center, SPb Scientific Design Bureau "Electroavtomatica" n. a. P. A. Efimov, <b>O. O. Zharinov</b>, Associate Professor, Saint-Petersburg State University of Aerospace Equipment'
+   item_name: Theoretical Evaluation of the Probability Density Function of Color Coordinates in On-Board Indication Equipment
+   item_annot: |
+      <p> The problem of evaluation of the probability density function of color coordinates that are used to display an image on on-board indication equipment is considered. A statistical approach for characterization of color coordinates distribution is necessary because of existing technological variations of the LCD-panels parameters. It is shown that the probability density function of color coordinates depends upon values of RGB codes, used in the color palette, and in particular cases refers to: uniform distribution, trapezoid-like function, triangle function and piecewise parabolic function. The analytical expressions for the probability density function of color coordinates for each particular type of mathematical models of technological variations and values of the LCD-panel profile coefficients are presented. The theoretical expressions for probability density function of color coordinates are confirmed by mathematical simulation, and the histograms representing the distributions of chromaticity coordinates were obtained during simulation. The result of the research establishes some technical requirements for technological variations of the values of LCD-panel profile coefficients, in order to ensure repeatability of color coordinates in serial manufacturing of LCD-panels.
+      </p>
+   item_keywords: color coordinates, indication systems, probability density function, sum of uniformly distributed random values, Irvin-Hall distibution
+   item_pages: 35–43
+
+ - doi:
+   link: _3_2015_6
+   udk: 
+   item_authors: Shundeev A. S. 
+   item_authors_address: '<b>A. S. Shundeev</b>, Leading Researcher, e-mail: alex.shundeev@gmail.com Institute of Mechanics Lomonosov Moscow State University'
+   item_name: Learning Input-Output Mechanisms in Programming Courses
+   item_annot: |
+      <p> The paper describes an approach to the study of mechanisms of input-output of the training course "Working on computers and programming." The approach is based on the formation of a set of recipes. Each recipe is an interrelated set of commonly used scripts, practices and examples of usage. The recipe is dedicated to a specific topic and contains the necessary theoretical information, sample programs, guidelines for the presentation of the material. The article deals with three subjects—reading a sequence of numbers from a file, buffered input and output, reading and writing structured data.
+      </p>
+   item_keywords: programming, input-output mechanisms, learning courses
+   item_pages: 44–48
+---
