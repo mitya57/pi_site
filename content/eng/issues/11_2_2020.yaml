@@ -1,0 +1,110 @@
+---
+title: Issue N2 2020 year
+content:
+ - doi: 11.67-76
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Modern World-Wide Practices in Software Engineering and Software Testing in the Russian IT Industry: Results of Researches (2017 and 2019)"
+   item_authors_address: |
+     <b> D. S. Pashchenko</b>, denpas@rambler.ru, Moscow, 125368, Russian Federation
+   item_corr_author: "Pashchenko Denis S., Moscow, 125368, Russian Federation, E-mail: denpas@rambler.ru"
+   item_rec_on:  December 17, 2019
+   item_acc_on:  February 10, 2020
+   item_annot: |
+     <p> The development of software engineering is a very fast process. Already long-growing trends in the transition to "flexible" and "lightweight" software development paradigms are joined by new technologies of version control management and methods of continuous integration and delivery of software releases. New forms of organizing development teams, including geographically distributed teams, work outside of offices, and mobile planning and communications tools, are gaining significant importance. This article summarizes some results of two author studies of 2017 and 2019 about the reflection of modern world practices in software engineering and software quality management in Russian IT companies. About 150 engineers, analysts, project managers from all federal districts of the Russian Federation took part in the researches. The article presents the corresponding analysis and conclusions about the dynamics of the main processes and the similarities of technological and organizational shifts in Russian software engineering in comparison with global trends.
+     </p>
+   item_keywords: software engineering, software quality management, organization of software teams, software project management
+   item_pages: 67–76
+   item_citation: 'Pashchenko D. S. Modern World-Wide Practices in Software Engineering and Software Testing in the Russian IT Industry: Results of Researches (2017 and 2019), Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 67—76'
+ - doi: 11.77-85
+   udk: "681.5; 004.5"
+   item_authors: "Bobyr M. V., Dorodnykh A. A., Yakushev A. S., Bulatnikov V. A."
+   item_name: "Hardware-Software Mechatronic Complex for Fixing Moving Objects"
+   item_authors_address: |
+     <b> M. V. Bobyr</b>, fregat_mn@rambler.ru, <b> A. A. Dorodnykh</b>, alex.dorodnych@mail.ru, <b> A. S. Yakushev</b>, alekseyakushev@yandex.ru, <b> V. A. Bulatnikov</b>, rb465687@gmail.com, South-West State University, Kursk, 305040, Russian Federation
+   item_corr_author: " Bobyr Mikhail V., Professor, South-West State University, Kursk, 305040, Russian Federation, E-mail: fregat_mn@rambler.ru"
+   item_rec_on:  November 15, 2019
+   item_acc_on:  December 20, 2019
+   item_annot: |
+     <p> The device of the research of mechatronic complex for detection, fixation, storage of mobile objects, its structure and the principle of action are presented in the article. The main components of the mechatronic complex are: pneumatic actuators controlled by Siemens S7-1200 programmable logic controller; the system for detecting moving objects and controlling the movement of actuators in real time, consisting of magnetic position sensors and an optical sensor.
+     There are problems in the automatic control mode of the mechatronic complex. It is necessary to determine the balance between minimum time for combining the axes of a moving object and pneumatic actuators and delay time for implementing a command to fix a moving object. These process variables are controlled by system delay timers. Thus, the technological operation of fixing a moving object is the most complicated operation in the mechatronic complex for programming.
+     The authors have developed mathematical methods and software to solve problems of combining the axes, allowing to synchronize technological operations in two modes. The kinematic model of the mechatronic complex, which allows to determine delay time for fixing a moving object, is presented. The sequence of movements of the actuator mechanisms, depending on the signal states of the optical and magnetic position sensors, is depicted as a cyclogram and implemented in the language of relay-contact circuits. Usage of system timers in the structure of the software code, which ensure the combination of axes of pneumatic capture and the moving object, is the main feature of the mechatronic complex. Experimental results show an improvement in reliability and speed when mechatronic complex works in the automatic control mode.</p>
+   item_keywords: mechatronic complex, program code, programmable logic controller, pneumatic actuators
+   item_pages: 77–85
+   item_comment: 'This article was completed with the support of State assignment: Agreement № 2.3440.2017/4.6 and grant of Russian Science Foundation № 16-19-00186'
+   item_citation: ' Bobyr M. V., Dorodnykh A. A., Yakushev A. S., Bulatnikov V. A. Hardware-Software Mechatronic Complex for Fixing Moving Objects, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 77—85'
+ - doi: 11.86-95
+   udk: "004.8, 004.93"
+   item_authors: "Rukhovich D. D."
+   item_name: "Estimation of Absolute Scale in Monocular SLAM Using Synthetic Data"
+   item_authors_address: |
+     <b> D. D. Rukhovich</b>, daniel-rukhovich@yandex.ru, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Rukhovich Danila D., Postgraduate Student, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation, E-mail: daniel-rukhovich@yandex.ru"
+   item_rec_on:  January 17, 2020
+   item_acc_on:  February 10, 2020
+   item_annot: |
+     <p> This paper addresses the problem of scale estimation in monocular SLAM by estimating absolute distances between camera centers of consecutive image frames. These estimates would improve the overall performance of classical (not deep) SLAM systems and allow metric feature locations to be recovered from a single monocular camera. We propose several network architectures that lead to an improvement of scale estimation accuracy over the state of the art. In addition, we exploit a possibility to train the neural network only with synthetic data derived from a computer graphics simulator. Our key insight is that, using only synthetic training inputs, we can achieve similar scale estimation accuracy as that obtained from real data. This fact indicates that fully annotated simulated data is a viable alternative to existing deep-learning-based SLAM systems trained on real (unlabeled) data. Our experiments with unsupervised domain adaptation also show that the difference in visual appearance between simulated and real data does not affect scale estimation results. Our method operates with low-resolution images (0.03MP), which makes it practical for real-time SLAM applications with a monocular camera.</p>
+   item_keywords:  machine learning, deep learning, SLAM, scale estimation
+   item_pages: 86–95
+   item_citation: 'Rukhovich D. D. Estimation of Absolute Scale in Monocular SLAM Using Synthetic Data, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 86—95'
+ - doi: 11.96-107
+   udk: "519.873"
+   item_authors: "Bukov V. N., Ageev A. M., Maltsev A. M."
+   item_name: "A Software Tool to Support the Synthesis of a Redundancy Management System for an Aircraft Equipment Complex"
+   item_authors_address: |
+     <b> V. N. Bukov</b>, v_bukov@mail.ru, Open Joint-Stock Company Airborne Navigation Systems, Moscow, 127015, Russian Federation, <b> A. M. Ageev</b>, ageev_bbc@mail.ru, <b> A. M. Maltsev</b>, max_alex_67@mail.ru, Military Training and Scientific Center of the Air Force Air Force Academy named after prof. N. E. Zhukovsky and Yu. A. Gagarin, Voronezh, 394064, Russian Federation
+   item_corr_author: 'Bukov Valentin N., D. Sc., Chief Scientific Researcher, Open Joint-Stock Company "Airborne Navigation Systems", Moscow, 127015, Russian Federation, E-mail: v_bukov@mail.ru'
+   item_rec_on:  November 13, 2019
+   item_acc_on:  December 13, 2019
+   item_annot: <p> Computer tools for the development of onboard equipment complexes of technical systems with managed redundancy are considered. These tools cover such phases as setting the initial data, including the nominal configuration, generating alternative configurations, and creating a table of configurations of the redundant complex. A methodological example is given. </p>
+   item_keywords: integrated onboard equipment complex, integrated modular avionics, redundancy management, alternative configuration generation, configuration supervisors
+   item_pages: 96–107
+   item_citation: 'Bukov V. N., Ageev A. M., Maltsev A. M. A Software Tool to Support the Synthesis of a Redundancy Management System for an Aircraft Equipment Complex, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 96—107'
+ - doi: 11.108-114
+   udk: "004.5"
+   item_authors: " Chitalov D. I."
+   item_name: "On the Development of a Module for Implementing Motion and Topological Changes in Computational Meshes and its Integration into the Graphical Shell for the OpenFOAM Platform"
+   item_authors_address: |
+     <b> D. I. Chitalov</b>, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Miass, Ilmen reserve, 456317, Chelyabinsk Region, Russian Federation
+   item_corr_author: " Chitalov Dmitry I., Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Miass, Ilmen reserve, 456317, Chelyabinsk Region, Russian Federation, E-mail: cdi9@yandex.ru"
+   item_rec_on:  January 21, 2020
+   item_acc_on:  February 10, 2020
+   item_annot: |
+     <p> This article highlights aspects of designing a software module that provides the ability to adjust the geometry of computational meshes by realizing their motion and topological changes as part of numerical experiments in the field of continuum mechanics using the OpenFOAM platform. This type of modification of the mesh model is carried out as part of the preprocessing of a numerical experiment using the moveDynamicMesh utility and allows you to take into account a larger number of parameters of a real object or process in the numerical model. The module is integrated into the basic version of the graphical shell for working with the OpenFOAM platform, thereby expanding the capabilities of the graphical shell and making it effective for solving a larger list of problems in continuum mechanics. The relevance of the study is determined, the shortcomings of existing solutions are identified. A description of the moveDynamicMesh utility, the features of the formation of the corresponding dictionary file, and a list of its possible parameters that determine the characteristics of the numerical model are given. At the beginning of the article, the goal of the study and the set of tasks necessary for its achievement are formulated. The diagrams of the structure and logic of the module, as well as descriptions of the diagrams are given. A stack of technologies is presented, on the basis of which a module is implemented, including the language for implementing the logic of its operation and a framework for designing a graphic component. The results of module tests are presented on the example of one of the standard tasks of continuum mechanics included in the OpenFOAM distribution. The final conclusions, novelty and practical value of the study are formulated. The source code of the module is hosted on the hosting service of GitHub IT projects, the corresponding link is provided.</p>
+   item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python 3.5, open source software, moveDynamicMesh utility, PyQt5, SQLite
+   item_pages: 108–114
+   item_citation: ' Chitalov D. I. On the Development of a Module for Implementing Motion and Topological Changes in Computational Meshes and its Integration into the Graphical Shell for the OpenFOAM Platform, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 108—114'
+ - doi: 11.115-122
+   udk: "004.658"
+   item_authors: "Asratian R. E."
+   item_name: " Scheduled Data Processing Service for the PostgreSQL DBMS in Linux Environment"
+   item_authors_address: |
+     <b> R. E. Asratian</b>, rea@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: " Asratian Ruben E., Leading Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: rea@ipu.ru"
+   item_rec_on:  February 11, 2020
+   item_acc_on:  February 14, 2020
+   item_annot: |
+     <p> The basics of the organization and operation of the background program PdbCron, designed to perform periodic scheduled data processing in the PostgreSQL DBMS (cleaning temporary or outdated data, checking the correct­ness or backup data) on its own schedule in automatic mode in the operating environment of Linux are considered. The approach is entirely founded on free distributed Postgres software (including libpq function library and utility pgdump). Likewise a well-known program Cron the program PdbCron is a permanently active "daemon" in Linux environment, but is entirely focused on databases processing instead of tasks scheduling in the system. Unlike the Cron, the program uses different formats of schedule items based not only on the month format (year — month — day — hour — minute), but on the week format (year — week — day — hour — minute) or short year format (year— day of year — hour — minute). The number of a week in the year is determined according to ISO 8601 standard. Every schedule item can be associated with an arbitrary list of processing steps applied to arbitrary subset of databases on a Postgres server (including an SQL-statement execution, a stored function call or dump generation). The structure of PdbCron and the functions of its main components are described. Although the program was intended for use in a very specific project, its authors tried to develop it so that the features of this project in no way affect its properties and capabilities. Maximum versatility and the capability of reuse were considered among the main priorities.
+     </p>
+   item_keywords: information systems, data bases, PostgreSQL DBMS, OS Linux, operation schedule
+   item_pages: 115–122
+   item_citation: 'Asratian R. E. Scheduled Data Processing Service for the PostgreSQL DBMS in Linux Environment, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 115—122'
+ - doi: 11.123-128
+   udk: "004.056.5"
+   item_authors: "Vaseva E. S., Buzhinskaya N. V., Shushpanov M. S."
+   item_name: "Towards the Development of an Information System for the Automation of Secure Storage and Data Transfer"
+   item_authors_address: |
+     <b> E. S. Vaseva</b>, e-s-vaseva@mail.ru, <b> N. V. Buzhinskaya</b>, nadezhdabuzh@gmail.com, <b> M. S. Shushpanov</b>, max.shushpanov@gmail.com, Nizhny Tagil state socio-pedagogical Institute (branch) of Federal State Autonomous educational institution Russian State Vocational Pedagogical University, Nizhny Tagil, 622031, Russian Federation
+   item_corr_author: "Vaseva Elena S., Associate Professor, Nizhny Tagil State Socio-Pedagogical Institute (branch) of Federal State Autonomous Educational Institution Russian State Vocational Pedagogical University, Nizhny Tagil, 622031, Russian Federation E-mail: e-s-vaseva@mail.ru"
+   item_rec_on:  January 24, 2020
+   item_acc_on:  February 28, 2020
+   item_annot: |
+     <p> Need for data encryption process automation system implementation at the operations is updated. Such system will help to make the information more protected and to avoid failures in company operating activities. Development strategy is considered for the system intended for alphanumeric data protection by means of encryption. Development kits are selected and the information system functioning mechanisms are discussed. The proposed system consists of an application realized through C# programming language means and a data base created in the MySQL data base control system.
+     Certain demands were placed on the system and taken into account in the course of development; they include user-friendly interface, reliable encryption of alphanumeric data, decryption of alphanumeric data, encrypted data storage in the Cloud Storage, the stored data priority selection option, search for required content among the saved data, flexible choice of encryption algorithm (AES, SHA-1, RSA); scalability; application language selection option; setting of all important aspects of the system under development; convenient text loading and key obtaining with reliable tools; key format selection option, automatic sending of an encrypted text, plain text, key or QR-code to email addresses, maximum application independence from additional operations except for installation.
+     The developed system will allow the user without any additional training or financial costs to receive alphanumerical data in the form protected from intruders. Upon completion of the encryption process the user will receive an encrypted text and a key to it with an option of saving it by several convenient ways and transferring it using the application tools.
+     The software may be used by small businesses, small companies, individual entrepreneurs and individual users for additional protection of confidential information represented in an alphanumerical form.
+     </p>
+   item_keywords: code, encryption, de-encryption, encryption algorithm, AES, SHA-1, RSA, information system, application, data base
+   item_pages: 123–128
+   item_citation: ' Vaseva E. S., Buzhinskaya N. V., Shushpanov M. S. Towards the Development of an Information System for the Automation of Secure Storage and Data Transfer, Programmnaya Ingeneria, 2020, vol. 11, no. 2, pp. 123—128'
+---
