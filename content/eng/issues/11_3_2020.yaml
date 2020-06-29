@@ -1,0 +1,98 @@
+---
+title: Issue N3 2020 year
+content:
+ - doi: 11.131-141
+   udk: "004.4"
+   item_authors: "Vasenin V. А., Yavtushenko E. D."
+   item_name: "Tools for Supporting the Processes of Restricting Access to Large Scientometric Data Using Visual Presentation Mechanisms"
+   item_authors_address: |
+     <b> V. А. Vasenin</b>, vasenin@msu.ru, <b> E. D. Yavtushenko</b>, evgeniya_40@mail.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: " Vasenin Valery A., Professor, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: vasenin@msu.ru"
+   item_rec_on:  February 28, 2020
+   item_acc_on:  March 31, 2020
+   item_annot: |
+     <p> In modern conditions, protection data from unauthorized access is one of the main tasks for the design, creation and support of the systems associated with big data processing. In such multi-user information systems, the defined access control rules determine the restriction of access to certain actions with system data. The process of adequately and conveniently presentation of these access rules is an important and difficult task. This article presents a mecha­nism for visualizing the processes of access control to multi-user system data using system "ISTINA" example.
+     The first section describes the relational model of logical access control based on relations chains, which is used in a big scientometric system. Requirements are formed, both to the system itself and to the access control model.
+     The second section of the article presents the visualization model, which is a component of the general access control model to big data of the system. The developed visualization subsystem provides data for administrator in an accessible and understandable form. On the basis of these data the administrator evaluates the current security policy, analyzes the access control rules. The third section briefly describes the software implementation and testing of the visualization subsystem.
+     The mechanisms for visualizing the processes of big data access control in the scientometric content system presented in this article are an important addition to the relational access control model. These mechanisms provide effective system support during its exploitation.
+     </p>
+   item_keywords: access control, relational model, visualization, information security, graph model
+   item_pages: 131–141
+   item_citation: ' Vasenin V. А., Yavtushenko E. D. Tools for Supporting the Processes of Restricting Access to Large Scientometric Data Using Visual Presentation Mechanisms, Programmnaya Ingeneria, 2020, vol. 11, no. 3, pp. 131—141.'
+ - doi: 11.142-151
+   udk: "004.89"
+   item_authors: "Vasilyev V. I., Vulfin A. M., Chernyakhovskaya L. R."
+   item_name: "Risk Analysis of Innovative Projects with Use of Multilayer Fuzzy Cognitive Maps"
+   item_authors_address: |
+     <b> V. I. Vasilyev</b>, vasilyev@ugatu.ac.ru, <b>  A. M. Vulfin</b>, vulfin.alexey@gmail.com, <b> L. R. Chernyakhovskaya</b>, lrchern@yandex.ru, Ufa State Aviation Technical University, Ufa, 450000, Russian Federation
+   item_corr_author: "Vulfin Aleksey M., Associate Professor, Ufa State Aviation Technical University, Ufa, 450000, Russian Federation E-mail: vulfin.alexey@gmail.com"
+   item_rec_on: November 25, 2019
+   item_acc_on: December 26, 2019
+   item_annot: |
+     <p> The problem of innovative projects risks assessment with use of fuzzy cognitive maps is considered. The special attention is paid to applying a new advanced class of cognitive models for these purposes — multilayer (nested) fuzzy grey cognitive maps (FGCM). The advantages of this class of models, allowing us to reveal the structure of causal relationships between elements of explored system with account of knowledge and experience of experts in considered subject domain, are described. The technique of choosing the rational structure of these models on the basis of formal decomposition rules for initial fuzzy cognitive map taking into account the specifics of the task being solved is offered. In accordance with this technique, at first the construction of initial (enlarged) FGCM is carried out by highlighting its basic concepts, including the risk factors, their consequences, and resulting risks of innovative project. The next stage consits in construction of the set of partial FGCMs revealing the content of each basic concept with use of additional local information about their inner structure. Further, the experts assign weights to the grey connections of the partial FGCMs. The final stage of the offered technique consists in modeling the obtained FGCM for different scenarios taking into account the influence of the different risk factors on potential risks of the innovative project implementation. The example of using this technique for risk assessment of the creation of a new innovative product in the sphere of infotelecommunication services is considered. The results of conducted computer experiments with use of the developed instrumental software tool "Cognitive Map Constructor" are considered.</p>
+   item_keywords: innovative project, cognitive modeling, multilayer fuzzy grey cognitive map, decomposition, risk assessment
+   item_pages: 142–151
+   item_citation: 'Vasilyev V. I., Vulfin A. M., Chernyakhovskaya L. R. Risk Analysis of Innovative Projects with Use of Multilayer Fuzzy Cognitive Maps, Programmnaya Ingeneria, 2020, vol. 11, no. 3, pp. 142—151.'
+ - doi: 11.152-168
+   udk: "517.98"
+   item_authors: "Bibilo P. N."
+   item_name: "Minimization of Binary Decision Diagrams for Systems of Incompletely Defined Boolean Functions Using Inverse Cofactors"
+   item_authors_address: |
+     <b> P. N. Bibilo</b>, bibilo@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: " Bibilo Petr N., Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, 220012, Minsk, Belarus E-mail: bibilo@newman.bas-net.by"
+   item_rec_on:  January 09, 2020
+   item_acc_on:  March 03, 2020
+   item_annot: |
+     <p> Completely defined Boolean functions are mathematical models of combinational logic circuits. In design practice, models of incompletely defined (partial) Boolean functions are also used. Uncertain values of such functions in the design process are determined in order to obtain the best characteristics of logic circuits. The main characteristics of logic circuits are chip size, delays and power consumption. Currently, the circuit implementation of systems of partial functions uses two approaches. The first approach assumes minimization of the initial representation of systems of partial functions in the class of disjunctive normal forms (DNF). The second approach is related to obtaining minimized multilevel representations of a system of functions. Finding multilevel representations corresponds to solving various problems of decomposition of systems of partial functions. Among the many types of functional decomposition and the corresponding forms of representations of function systems, the multilevel representations of function systems based on the Shannon expansion were the most effective, which are also known as BDD representations in the literature.
+     In this article, algorithms for the logical minimization of BDD representations (BDD — Binary Decision Diagram) of systems of partial Boolean functions are proposed. The result of the minimization is the multilevel BDD representations of systems of completely defined functions in the form of Shannon expansion formulas using both identical and mutually inverse cofactors. The minimization of the number of mutually inverse partial cofactors at the same level of the BDD representation of the system of partial functions is reduced to solving the combinatorial problem of finding the shortest implicating form of the ternary matrix that defines the values of the cofactors of this level of the BDD representation.. </p>
+   item_keywords:  Boolean function, disjunctive normal form, Shannon expansion, binary decision diagram (BDD), graph coloring, synthesis of logical circuit
+   item_pages: 152–168
+   item_citation: 'Bibilo P. N. Minimization of Binary Decision Diagrams for Systems of Incompletely Defined Boolean Functions Using Inverse Cofactors, Programmnaya Ingeneria, 2020, vol. 11, no. 3, pp. 152—168'
+ - doi: 11.169-176
+   udk: "004.421, 004.04, 519.688"
+   item_authors: "Kalmychkov V. A., Matveeva I. V."
+   item_name: "Automated Generation of Quantum Circuit Specifications Based on Reed — Muller Expressions"
+   item_authors_address: |
+     <b> V. A. Kalmychkov</b>, vakalmychkov@etu.ru, <b> I. V. Matveeva</b>, ir_mat@mail.ru, Faculty of Computer Science and Technology, Saint Petersburg Electrotechnical University LETI, Saint Petersburg, 197376, Russian Federation
+   item_corr_author: 'Kalmychkov Vitaly A., Associate Professor, Saint Petersburg Electrotechnical University "LETI", Saint Petersburg, 197376, Russian Federation, E-mail: vakalmychkov@etu.ru'
+   item_rec_on:  February 20, 2020
+   item_acc_on:  March 27, 2020
+   item_annot: |
+     <p> Quantum computing is gradually reaching the applied level from the theoretical field due to the rapid progress of the technological base and the emergence of real quantum computer prototypes. Logical operations are the basis of computing devices, therefore quantum logical operations must be present in the quantum circuit, which is a model of quantum computing at the logical level.
+     This paper presents our experience in automated synthesis and analysis of quantum circuit specifications and the re­sults of using a set of developed applications to support these processes. The design, generation of possible variants and selection of a suitable quantum circuit are the iterative problem of multi-criteria search. The article considers the stages of a set of polarized Reed— Muller expressions of fixed polarity (FPRM) synthesis at the logical level by the truth table and automatic generation of sets of quantum Boolean schemes in notation of quantum gates. Results of using auto-minimize templates for SWAP gates composition in the transition to the architecture of linear nearest neighbor (LNN) are demonstrated.
+     For qualitative and quantitative evaluation of automatically obtained specifications, the developed applications provide lexical verification of the generated quantum circuits based on symbolic notation for the coefficients of the involved qubits. The results of the automatic formation of the statistical analysis table for the choice of the quantum circuit according to the criteria set by the assumed technology of physical realization are presented.
+     </p>
+   item_keywords: qubit, quantum gate, quantum circuits, linear nearest neighbor architectures, quantum computer, quantum cost, fixed-polarity Reed — Muller expressions (FPRM)
+   item_pages: 169–176
+   item_citation: 'Kalmychkov V. A., Matveeva I. V. Automated Generation of Quantum Circuit Specifications Based on Reed — Muller Expressions, Programmnaya Ingeneria, 2020, vol. 11, no. 3, pp. 169—176'
+ - doi: 11.177-182
+   udk: "004.023"
+   item_authors: "Kryukova E. S., Parashchuk I. B."
+   item_name: "Software Tool for Modeling the State Transition of a Quality Indicator of an Electronic library: a Method for Determining the Key Elements of a Model"
+   item_authors_address: |
+     <b> E. S. Kryukova</b>, e.kkrukovaa69@yandex.ru, <b> I. B. Parashchuk</b>, e-mail: shchuk@rambler.ru, The Military Academy of Telecommunications named after Marshal of the Soviet Union S. M. Budenny, St. Petersburg, 194064, Russian Federation
+   item_corr_author: " Parashchuk Igor B., Professor, The Military Academy of Telecommunications named after Marshal of the Soviet Union S. M. Budenny, St. Petersburg, 194064, Russian Federation, E-mail: shchuk@rambler.ru"
+   item_rec_on:  March 06, 2020
+   item_acc_on:  March 25, 2020
+   item_annot: |
+     <p> An approach to the mathematical description and software implementation of the algorithm for determining the elements of the transition probability matrix as a key object of the Markov probability-time model of the process of changing the states of the average waiting time for users to access an electronic information resource is proposed. From the point of view of mathematical implementation, the approach is based on the provisions of the theory of queuing, relies on the initial data on the intensity of applications for the information resource of the electronic library and the parameters of its queue for service. Software implementation takes into account the features and advantages of modern programming languages. </p>
+   item_keywords: software tool, model, electronic library, quality indicator, intensity, matrix, transition probabilities, state, information resource, request, queue, timeout, access
+   item_pages: 177–182
+   item_citation: 'Kryukova E. S., Parashchuk I. B. Software Tool for Modeling the State Transition of a Quality Indicator of an Electronic library: a Method for Determining the Key Elements of a Model, Programmnaya Ingeneria, 2020, vol. 11, no. 3, pp. 177—182'
+ - doi: 11.183-192
+   udk: "004.514"
+   item_authors: "Kompaniets V. S., Kazanskaya A. Yu., Lyz A. E., Grigoriev A. O."
+   item_name: "Systematization of User Experience Design Procedures in the Applied Informatics Master's Training"
+   item_authors_address: |
+     <b> V. S. Kompaniets</b>, kompaniets@sfedu.ru, <b>  A. Yu. Kazanskaya</b>, akazanskaya@sfedu.ru, <b>  A. E. Lyz</b>, aelyz@sfedu.ru, <b>  A. O. Grigoriev</b>, agrigorev@sfedu.ru, Engineering and Technology Academy, Federal State Autonomous Educational Institution of Higher Education Southern Federal University, Taganrog, 347928, Russian Federation
+   item_corr_author: " Kompaniets Vitaly S., Associate Professor, Engineering and Technology Academy of Southern Federal University, Taganrog, 347928, Russian Federation E-mail: kompaniets@sfedu.ru"
+   item_rec_on:  February 18, 2020
+   item_acc_on:  March 11, 2020
+   item_annot: |
+     <p> The design and implementation experience of the university master program "User Interface Ergodesign" is de­scribed. The competence model of the graduate is formed in this program according to the current requirements of the new generation of the federal standard (federal state educational standard of higher education hereafter — FSES HE 3++) and in accordance with the functional map of the profile professional standard "Specialist in the design of graphic and user interfaces". The content of the curriculum, in which an important role is assigned to the profes­sional module "UX/UI-design", is briefly presented. The five-year experience of teaching students in the classical level system of elements of J. Garrett is described and illustrated in detail with a step-by-step example. It is shown how the framework of system levels can be filled with a minimum set of specific methods and tools that have proven their effectiveness and didactic value.
+     It is concluded that J. Garretts system of elements still has high practical importance as a visual tool for teaching students the classical UX process. Thanks to the approach, that was proven in practice, the conditions for university training of UX/UI design specialists, demanded on the labor market, are created.
+     </p>
+   item_keywords: classical process UX, the UI, the elements of J. Garrett, user interface Ergodesign, eye tracking, Eye Tribe, neuro headset, NeuroSky, electroencephalography
+   item_pages: 183–192
+   item_citation: Kompaniets V. S., Kazanskaya A. Yu., Lyz A. E., Grigoriev A. O. Systematization of User Experience Design Procedures in the Applied Informatics Master's Training, Programmпaya Ingeneria, 2020, vol. 11, no. 3, pp. 183—192'
+---
