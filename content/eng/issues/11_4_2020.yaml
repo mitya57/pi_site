@@ -1,0 +1,114 @@
+---
+title: Issue N4 2020 year
+content:
+ - doi: 11.195-204
+   udk: "004.896"
+   item_authors: "Sidnyaev N. I., Butenko Yu. I., Bolotova E. E."
+   item_name: "Logical Model of Information and System Reliability Requirements for Knowledge Bases of Intellectual Systems"
+   item_authors_address: |
+     <b> N. I. Sidnyaev</b>, sidnyaev@bmstu.ru, <b> Yu. I. Butenko</b>, iuliiabutenko2015@yandex.ru, <b> E. E. Bolotova</b>, lisayshka_bolotova@mail.ru, Moscow State Technical University, Moscow, 105005, Russian Federation
+   item_corr_author: "Bolotova Elizaveta E., Master, Moscow State Technical University, Moscow, 105005, Russian Federation, E-mail: lisayshka_bolotova@mail.ru "
+   item_rec_on:  April 16, 2020
+   item_acc_on:  May 20, 2020
+   item_annot: |
+     <p> The paper proposes a logical model of knowledge representation, forms requirements for information and system reliability of knowledge bases of intelligent systems, justifies a set of indicators of information-system reliability knowledge base, provides the analysis of the characteristics of the situational approach in management and its ap­plication for condition monitoring knowledge base. The article presents the image of the monitoring system to ensure information and system reliability of the intellectual system. The main requirements for ensuring reliable behavior and operability of information systems are identified and developed.
+     </p>
+   item_keywords: knowledge base, information systems, control, reliability, monitoring, information, data, knowledge
+   item_pages: 195–204
+   item_citation: 'Sidnyaev N. I., Butenko Yu. I., Bolotova E. E. Logical Model of Information and System Reliability Requirements for Knowledge Bases of Intellectual Systems, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 195—204'
+ - doi: 11.205-212
+   udk: "004.42:612.82"
+   item_authors: "Bulgakov D. Yu., Bulgakova Ya. V., Karatygin N. A."
+   item_name: "Up-to-date Open-Source Software for the Analysis and Processing of Electroencephalograms: Opportunities and the Choices"
+   item_authors_address: |
+     <b> D. Yu. Bulgakov</b>, dbulgakov7@yandex.ru, Management Academy of the Ministry of the Interior of Russia, Moscow, 125993, Russian Federation, <b> Ya. V. Bulgakova</b>, yaroslava.v.bulgakova@mail.ru, <b> N. A. Karatygin</b>, nikol.karatygin@yandex.ru, I. M. Sechenov First Moscow State Medical University (Sechenov University), Moscow, 119435, Russian Federation
+   item_corr_author: "Bulgakova Yaroslava V., Associate Professor, I. M. Sechenov First Moscow State Medical University (Sechenov University), 119435, Moscow, Russian Federation, E-mail: yaroslava.v.bulgakova@mail.ru"
+   item_rec_on: March 30, 2020
+   item_acc_on: June 09, 2020
+   item_annot: |
+     <p> The authors carried out the analytic comparison of up-to-date open-source software for the analysis and processing of electroencephalograms (EEG) and other biomedical signals. We consider the features of stand-alone applications and specialized libraries developed in the popular software environments MATLAB, GNU Octave, Python. Materials include a comparative description of the software for biomedical signals processing.
+     Authors conclude that if traditional methods are sufficient for the purposes of the study, it would be optimal to use the proprietary software that comes with the equipment. But an investigator can use open-source software as well. For example, the "Brainstorm" software has quite wide capabilities and allows users who are not programmers or mathematicians to work with EEG signals.
+     If specific processing of EEG data is required, then you can use software libraries from such software systems as MATLAB (or its free analogue GNU Octave) or Python. For MATLAB, products like EEGLAB, The BioSig Project, FieldTrip toolbox can be recommended. For Python, you can use MNE-Python and Visbrain. In this case, you should be ready to write a part of the program code yourself to automate the interaction of various libraries and convert EEG files.
+     The material assists in the selection of EEG processing tools for both beginners and experienced professionals.</p>
+   item_keywords: open-source software, Python, digital signal processing, DSP, biomedical signals, electroencephalography, NumPy, Brainstorm, MATLAB, EEGLAB
+   item_pages: 205–212
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project No. 19-29-01156 MK.'
+   item_citation: 'Bulgakov D. Yu., Bulgakova Ya. V., Karatygin N. A. Up-to-date Open-Source Software for the Analysis and Processing of Electroencephalograms: Opportunities and the Choices, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 205—212'
+ - doi: 11.213-218
+   udk: "004.921"
+   item_authors: "Maltsev A. V."
+   item_name: "Methods for Distributed Rendering of Virtual Scenes on GPU with Motion Blur Implementation"
+   item_authors_address: |
+     <b> A. V. Maltsev</b>, avmaltcev@mail.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: " Maltsev Andrey V., Ph.D., Leading Researcher, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: avmaltcev@mail.ru"
+   item_rec_on:  May 21, 2020
+   item_acc_on:  May 29, 2020
+   item_annot: |
+     <p> The paper presents methods and approaches for distributed visualization of three-dimensional virtual scenes with imitation of motion blur effect arising because simulated surveillance devices or objects in their field of view move with high speed. The effect is implemented by means of post-processing images of virtual environment on a GPU using a special fragment shader. This shader blurs an input image based on velocity vector (in screen space coordinate system) at each pixel. For static scenes, where only a virtual camera can move and rotate, the proposed solution is a completely separate stage executed after common scene rendering. Velocity vectors are computed from depth buffer data at this stage. In the case of dynamic virtual scenes, it also requires minor changes of the main fragment program to calculate velocity vectors and save them in a data texture read by motion blur shader. Based on methods and algorithms proposed in this work, software modules were implemented. Approbation of these modules in the visualization system, which was developed in Scientific Research Institute for System Analysis of the Russian Academy of Sciences, showed that created methods and algorithms for motion blur simulation meet high requirements of real-time visualization. The modules use distributed computing by means of multicore GPU, provide real-time rendering of complex virtual scenes, and can have practical application in visualization systems for simulation-training complexes, virtual environment systems etc. </p>
+   item_keywords:  rendering, real time, virtual camera, graphics processor, motion blur
+   item_pages: 213–218
+   item_comment: 'This research was carried out with the financial support of the Russian Foundation for Basic Research in the framework of the scientific project No. 19-07-00393.'
+   item_citation: 'Maltsev A. V. Methods for Distributed Rendering of Virtual Scenes on GPU with Motion Blur Implementation, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 213—218'
+ - doi: 11.219-229
+   udk: "004.67; 519.22; 330.4"
+   item_authors: "Orlova E. V."
+   item_name: "Methods and Models of Data Analysis and Machine Learning in the Problem of Labor Productivity Management"
+   item_authors_address: |
+     <b> E. V. Orlova</b>  , ekorl@mail.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
+   item_corr_author: "Orlova Ekaterina V., Dr. Sc., Professor, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation, E-mail: ekorl@mail.ru"
+   item_rec_on:  April 18, 2020
+   item_acc_on:  May 22, 2020
+   item_annot: |
+     <p> The article considers the problem of labor productivity growth of the enterprise, taking into account economic, demographic, social factors and subjective information about the quality of staff health.
+     A critical analysis of existing approaches, methods and models in this area has been carried out and a number of significant shortcomings of the presented approaches has been identified that limit the scope of their application. There are no. methods for quantifying the impact of health on labor productivity and developing further recommendations for managing employees health in order to increase their labor productivity.
+     The technology for labor productivity management has been developed based on the phased processing and modeling of quantitative and qualitative data taking into account objective information about economic, demographic, social factors and subjective information about the factors of the health quality. The technology is based on statistical analysis and machine learning, and support managerial decision-making in planning health-saving strategies to increase labor productivity
+     It is proved that to solve the problem of employee clustering and forming their homogeneous groups, it is most advisable to use the k-means method, which is more stable compared to the clustering method based on Kohonen neural networks. In the problem which contains many qualitative variables, such as gender, education, high-quality self-esteem of health for identifying the profile of new employees, the classification method based on the support vector method has demonstrated great efficiency.
+     </p>
+   item_keywords: data analysis, machine learning, classification, clustering, labor productivity
+   item_pages: 219–229
+   item_citation: 'Orlova E. V. Methods and Models of Data Analysis and Machine Learning in the Problem of Labor Productivity Management, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 219—229'
+ - doi: 11.230-241
+   udk: "004.056.5, 004.94"
+   item_authors: "Devyanin P. N., Leonova M. A."
+   item_name: "Application of Subtypes and Total Functions of Event-B Formal Method for the Formalization and Verification of the MROSL DP-Model"
+   item_authors_address: |
+     <b>P. N. Devyanin</b>, pdevyanin@astralinux.ru, <b>M. A. Leonova</b>, mleonova@astralinux.ru, RusBITech-Astra, Moscow, 117105, Russian Federation
+   item_corr_author: " Devyanin Petr N., Chief Researcher, RusBITech-Astra, Moscow, 117105, Russian Federation, E-mail: pdevyanin@astralinux.ru"
+   item_rec_on: March 25, 2020
+   item_acc_on: May 20, 2020
+   item_annot: |
+     <p> Formal access control models are used to design, implement and justify the security of the access control mechanism, which is part of many information security systems such as operating systems (OS), DBMS. Russian practice of developing information security systems, it is advisable to mention the mandatory entity-role model of access control and information flows in OS of Linux set (MROSL DP-model), developed for implementation in OS Astra Linux Special Edition. The model is formalized using Event-B formal method (formalized notation) and its correctness is formally verified with the help of the Rodin toolset. This article presents methods of formalization of the MROSL DP-model using subtypes and total functions of Event-B, which allow logically integrate checks of conditions specified for role-based access control (RBAC), mandatory integrity control (MIC) and multi-level security (MLS), and improve the structure of formalized notation elements used. The result of using these methods in refining the formalized notation was its approach to the practical implementation of the access control mechanism in the OS Astra Linux Special Edition; simplification of formal deductive verification of formalized notation using the Rodin tool, at the same time automated detection of possible errors or their duplication, addition of refinement levels also. Refinement levels simulate (other) systems interacting with OS. Those systems implement complex access control mechanisms independently, for example, DBMS PostgreSQL. These methods are used in development of the MROSL DP-model, and can also be useful in development of other formal access control models and verification using tools, which meet the actual regulatory documents of FSTEC Russia.
+     </p>
+   item_keywords: formal access control model, verification, Event-B, operating system
+   item_pages: 230–241
+   item_citation: 'Devyanin P. N., Leonova M. A. Application of Subtypes and Total Functions of Event-B Formal Method for the Formalization and Verification of the MROSL DP-Model, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 230—241'
+ - doi: 11.242-250
+   udk: "519.612.4"
+   item_authors: "Cherepnev M. A."
+   item_name: "Estimation of the Speed of a New Parallel Block Algorithm for Finding Solutions of the Large Sparse Linear Systems over a Large Prime Field"
+   item_authors_address: |
+     <b> M. A. Cherepnev</b>, Ph. D., Associate Professor, cherepniov@gmail.com, Lomonosov Moscow State University, Moscow, 119992, Russian Federation
+   item_corr_author: "Cherepnev Michail A., Ph. D., Associate Professor, Lomonosov Moscow State University, Moscow, 119992, Russian Federation, E-mail: cherepniov@gmail.com"
+   item_rec_on:  June 17, 2020
+   item_acc_on:  June 22, 2020
+   item_annot: |
+     <p> The question of how to estimate the running time of a program that implements an algorithm for solving a large sparse system of equations over a large prime field, described in [1,2], on a computer system of K independent computing nodes is considered. The article considers the topology that connects nodes of the computer network, "torus". At the same time, we believe that in each of the two directions of this torus, there are connections with different bandwidth. In reality, this may correspond to large computing clusters connected by a relatively slow Internet network, or multiple multi-core (possibly with virtual cores) processors in the same cluster. At the same time, the estimates of working time take into account not only the time for the invoice, as in [2], but also the time for forwarding. The block nature of the algorithm allows us to reduce the running time of the sequential scalar version (Montgomerys algorithm [3]) by approximately √K times, with K growing to the size of the original problem. At the same time, about half of all switching is allowed to be slow, which makes it possible to dial the necessary number of computing nodes from different clusters. A specific distributed storage of intermediate results of calculations is proposed. This results in saving not only computing resources, but also time for transmission, which is carried out in parallel over independent branches of our network. In addition, the solution of dense systems of linear equations, which must be done at each step of our algorithm, as well as the inversion of dense matrices, we suggest using parallel calculations. This will reduce the conversion time of matrices of size sxs to O(s<sup>2</sup>) and the total running time of the entire program for solving  a sparse system of linear equations in a space of dimension N to O(N<sup>2</sup>/√K) for an arbitrary K, from 1 to N. Thus, theoretically, the optimal time O(N<sup>3/2</sup>) is obtained. </p>
+   item_keywords: discrete logarithm method, Lanczos method, parallel computing, block algorithms
+   item_pages: 242–250
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project nos. 18-29-03421 мк. '
+   item_citation: 'Cherepnev M. A. Estimation of the Speed of a New Parallel Block Algorithm for Finding Solutions of the Large Sparse Linear Systems over a Large Prime Field, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 242—250'
+ - doi: 11.251-256
+   udk: "519.237.5"
+   item_authors: "Noskov S. I., Vergasov A. S."
+   item_name: "Regression Model of Structural Factors of Cyber Threats"
+   item_authors_address: |
+     <b> S. I. Noskov</b>, sergey.noskov.57@mail.ru, <b> A. S. Vergasov</b>, tluck@inbox.ru, Irkutsk State Transport University, Irkutsk, 664074, Russian Federation
+   item_corr_author: "Noskov Sergey I., Professor, Irkutsk State Transport University, 664074, Irkutsk, Russian Federation, E-mail: sergey.noskov.57@mail.ru"
+   item_rec_on:  March 19, 2020
+   item_acc_on:  June 08, 2020
+   item_annot: |
+     <p> The work is based on a statistical analysis of data on cyberthreats classified by three groups of factors: motives of intruders, categories of victims, objects of attacks. This classification was adopted by Positive Technologies, which specializes in the development of information security systems and a comprehensive analysis of current trends in the implementation of cyber threats. As a result of processing the quarterly statistical information (from the 1st quarter of 2017 to 2nd quarter of 2019), an open regression recursive model of the dynamics of the nineteen structural factors of cyberthreats was constructed, which allows solving a wide range of problems of analysis and forecasting.  </p>
+   item_keywords: regression model, cyberthreats, cyber kill chain, adequacy criteria, forecasting, recursion
+   item_pages: 251–256
+   item_citation: 'Noskov S. I., Vergasov A. S. Regression Model of Structural Factors of Cyber Threats, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 251—256'
+---
