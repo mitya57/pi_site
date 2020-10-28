@@ -1,0 +1,85 @@
+---
+title: Issue N5 2020 year
+content:
+ - doi: 11.259-269
+   udk: "004.7.056.5"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "IoT Information Security: Fundamental Statements Review"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b> K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on: July 27, 2020
+   item_acc_on: August 04, 2020
+   item_annot: |
+     <p> Internet of things technology is developing at an exceptionally fast pace. This applies to both industrial and consumer Internet. The "things" account for billions, and many areas of application have been formed. At the same time, the state of information security of the Internet of things is not satisfactory, and protective measures are clearly inferior to Commerce. This is especially dangerous because the Internet of things spans two worlds: digital and physical, and security breaches can cause both informational and physical damage.
+     The Internet of things is developing rapidly, so it is natural that it experiences typical growth diseases-fragmentation and uneven development. The base for ensuring security is mostly formed (but continues to be formed), the question is how quickly there will be a harmonization of approaches, and advanced ideas will be accepted by device manufacturers. Many state and non-state agencies actively promote security tools, inform and train manufacturers and consumers.
+     The article is an overview of the main provisions of information security of the Internet of things. An attempt is made to consider software and technical and legislative levels of Internet of things security. This makes it different from other publications of a similar nature. Only a holistic, integrated approach can improve real information security.
+     Authors outline basic concepts and describe a reference model of Internet of things, draw attention to the peculiarities of the Internet of things that are important from the security point of view, enumerate typical threats for Internet of things.
+     The legislative level of information security, security recommendations for the Internet of things, manufacturers description of usage, and installation of software corrections are considered in detail.
+     </p>
+   item_keywords: Internet of Things, IoT, Industrial Internet of Things, IIoT, cyber-physical systems, information security, cyber security, sensor, actuator
+   item_pages: 259–269
+   item_citation: 'Galatenko V. A., Kostyukhin K. A. IoT Information Security: Fundamental Statements Review, Programmnaya Ingeneria, 2020, vol. 11, no. 5, pp. 259—269'
+ - doi: 11.270-276
+   udk: "004.2"
+   item_authors: "Korneev V. V., Tarasov I. E."
+   item_name: "VLSI Architecture with a Configurable Pipeline"
+   item_authors_address: |
+     <b> V. V. Korneev</b>, korv@rdi-kvant.ru, <b>  I. E. Tarasov</b>, ilya_e_tarasov@mail.ru, Research and Development Institute Kvant, Moscow, 125438, Russian Federation
+   item_corr_author: 'Korneev Victor V., Principal Researcher, Research and Development Institute "Kvant", Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru'
+   item_rec_on: July 12, 2020
+   item_acc_on: July 30, 2020
+   item_annot: |
+     <p> The analysis carried out in the article shows the possibility of creating a problem-oriented VLSI, fabricated according to the technological standards of 28 nm or less, for at least one family of digital signal processing problems using similar computing nodes in structure. The use of distributed arithmetic allows one to apply a technique based on performing only those multiplication steps for which non-zero digits are set in the corresponding positions of the filter coefficients. Therefore, the performance of 200 nodes executing 2 steps at 1 GHz is equivalent to approximately 80 GMAC/s/mm2 for 16-bit coefficients. The VLSI architecture view opens up the possibility to study the effectiveness of implementing other families of tasks and refine the architectural parameters for their implementation. The proposed functionality of VLSI computing nodes allows them to be used in various fields of technology, which potentially increases the need for the release of such VLSI.</p>
+   item_keywords: VLSI, architecture, digital signal processing
+   item_pages: 270–276
+   item_citation: ' Korneev V. V., Tarasov I. E. VLSI Architecture with a Configurable Pipeline, Programmnaya Ingeneria, 2020, vol. 11, no. 5, pp. 270—276'
+ - doi: 11.277-284
+   udk: "519.724.2"
+   item_authors: "Kazakov I. B."
+   item_name: "Transmission of Information in Channels Specified by Structures of Partial Erasure. Part 1"
+   item_authors_address: |
+     <b> I. B. Kazakov</b>, i_b_kazakov@mail.ru, Lomonosov Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Kazakov Ilia B., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: i_b_kazakov@mail.ru"
+   item_rec_on:  May 06, 2020
+   item_acc_on:  July 08, 2020
+   item_annot: |
+     <p> We investigate covert channels that use players moves to transmit information. We assume that there exits noise generated by periods of invisiblility of the transmitting player (due to network failures, game mechanics, etc.); thus there arises the problem of reliable transmission of information over a noisy channel. The formal model that addresses this problem is referred to as a structure of partial erasure. In the framework of the model we prove the criterion of equivalence of a pair of trajectories on the receiving end of the channel. We also discuss a number of methods that prevent organization of covert channels of the type considered. </p>
+   item_keywords:  covert channels, walk on a plane, walk in Zк, structure of partial erasure
+   item_pages: 277–284
+   item_citation: 'Kazakov I. B. Transmission of Information in Channels Specified by Structures of Partial Erasure. Part 1, Programmnaya Ingeneria, 2020, vol. 11, no. 5, pp. 277—284'
+ - doi: 11.285-295
+   udk: "004.942 + 621.311.25:621.039.620.192"
+   item_authors: "Gulina O. M., Salnikov N. L., Semishkin V. P., Tipikina M. N."
+   item_name: "Development of Software Package for Managing the Lifetime of Mechanical Elements of Nuclear Power Plants under Flow-Accelerated Corrosion (FAC)"
+   item_authors_address: |
+     <b> O. M. Gulina1</b>, omgulina18@mail.ru, N. L. Salnikov2</b>, salnickovnickolay@yandex.ru, <b> V. P. Semishkin1</b>, semishkin@grpress.podolsk.ru, <b> M. N. Tipikina2</b>, tipikinamariya@mail.ru, 1OKB GIDROPRESS, Podolsk, 142103, Russian Federation
+     2Obninsk Institute for Nuclear Power Engineering (IATE MEPHI), Obninsk, 249040, Russian Federation
+   item_corr_author: "Tipikina Maria N., Graduate Student, Obninsk Institute for Nuclear Power Engineering (IATE MEPHI), Obninsk, 249040, Russian Federation, E-mail: tipikinamariya@mail.ru"
+   item_rec_on:  June 24, 2020
+   item_acc_on:  August 10, 2020
+   item_annot: |
+     <p> This article focuses on results of developing the system for managing the life time of equipment and pipelines of nuclear power plants (NPP). The system is designed to calculate the intensity of Flow-Accelerated Corrosion (FAC) and a residual lifetime of elements.
+     In Russia, the development of software for calculating the speed of FAC and value of thinning of the walls of pipelines of NPP has been carried out since the early 90s of the last century. The existing version of the software package for calculating the characteristics of FAC is implemented of loosely coupled software modules (standalone programs). There is no single concept of architecture, therefore, any modernization and addition of functionality comes down to rewriting old programs or writing new programs, loosely connected with the old ones.
+     This article contains results of research of the feasibility of implementing a software package for monitoring FAC in the form of a set of plug-in modules. This approach allows one to easily add new functionality without overwriting the existing kernel by adding or removing modules. Based on the general concept, several modules for calculating the characters of FAC and visualizing the control data have been developed.
+     </p>
+   item_keywords: erosion-corrosion wear, monitoring, processing of control results, visualization of control results, residual lifetime
+   item_pages: 285–295'
+   item_citation: ' Gulina O. M., Salnikov N. L., Semishkin V. P., Tipikina M. N. Development of Software Package for Managing the Lifetime of Mechanical Elements of Nuclear Power Plants under Flow-Accelerated Corrosion (FAC), Programmnaya Ingeneria, 2020, vol. 11, no. 5, pp. 285—295'
+ - doi: 11.296-308
+   udk: "004.4, 004.7"
+   item_authors: "Petrina O. B."
+   item_name: "Information Ranking Based on a Semantic Network for Constructing Digital Services for Personalized Support of Museum Activities"
+   item_authors_address: |
+     <b> O. B. Petrina</b>, petrina@cs.petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: " Petrina Oksana B., Junior Researcher, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: petrina@cs.petrsu.ru"
+   item_rec_on:  June 23, 2020
+   item_acc_on:  July 27, 2020
+   item_annot: |
+     <p> This paper explores the tasks of personalized support of the museum, for which it is proposed to use digital services. Services implement the selection of information sources using an additional semantic level. The seman­tic level is created above the catalog-oriented information storage of the museum. An ontological model has been developed, in accordance with which information is presented in the form of a semantic network. The local ranking model of semantic network objects is proposed, on the basis of which a ranking algorithm is developed. The software implementation of the local ranking algorithm in digital services of personalized support is presented on the example of the Museum of History of Petrozavodsk State University. The services provide personalized recommendations to museum visitors when studying the exposition. It requires various options for ranking exhibits and selecting exhibits with the highest rank.
+     </p>
+   item_keywords: ranking, semantic network, digital services, personalization, cultural and historical heritage
+   item_pages: 296–308
+   item_comment: ' The research was financially supported by RFBR (research project № 19-07-01027). The work is implemented within the Government Program of Flagship University Development for Petrozavodsk State University (PetrSU) in 2017-2021.'
+   item_citation: 'Petrina O. B. Information Ranking Based on a Semantic Network for Constructing Digital Services for Personalized Support of Museum Activities, Programmnaya Ingeneria, 2020, vol. 11, no. 5, pp. 296—308'
+---
