@@ -1,0 +1,103 @@
+---
+title: Issue N6 2020 year
+content:
+ - doi: 11.311-321
+   udk: "004.04"
+   item_authors: "Zmeev O. A., Zmeev D. O., Danilenko A. N."
+   item_name: "Implementation of Essence Practice into Azure DevOps Server System"
+   item_authors_address: |
+     <b> O. A. Zmeev</b>, ozmeyev@gmail.com, <b> D. O. Zmeev</b>, denis.zmeev@accounts.tsu.ru, <b> A. N. Danilenko</b>, danilenko.andrey.n@gmail.com, National Research Tomsk State University, 634050, Russian Federation
+   item_corr_author: "Zmeev Denis O., PhD Student, National Research Tomsk State University, 634050, Russian Federation, E -mail: denis.zmeev@accounts.tsu.ru "
+   item_rec_on: April 03, 2020
+   item_acc_on: September 16, 2020
+   item_annot: |
+     <p> Nowadays one of the important issues in software engineering is the question of creating business effective software development methods. The Essence language which was created by the SEMAT initiative makes it possible to have a common foundation and comparation tool for very different software development processes. However, the use of Essence is mostly focused on describing software development methods in their general form. In this work we propose a way to use Essence and its supporting tools to transform abstract practice into the Azure DevOps Server system entities and rules. To do this we firstly consider how relations from abstract level of Essence language trans­form into a specific practice by describing entities and relations between them. Then we demonstrate how a practice described in the Essence language should work using typical software project management system features. Then we look thorough different Azure DevOps Server features which allow to modify and upgrade systems. Finally, we describe how to modify an Azure DevOps Server system to support import of Essence practices and methods. To conclude, we consider in this paper a general description of Essence, what differs the abstract level of Essence from an Essence practice, what must be done to implement an Essence practice to any project management system, and describe our modification of the Azure DevOps Server.
+     </p>
+   item_keywords: SEMAT, Essence, software project management system, Azure DevOps Server, software development process (development method), development practice
+   item_pages: 311–321
+   item_citation: 'Zmeev O. A., Zmeev D. O., Danilenko A. N. Implementation of Essence Practice into Azure DevOps Server System, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 311—321'
+ - doi: 11.322-329
+   udk: "519.724.2"
+   item_authors: "Kazakov I. B."
+   item_name: "Transmission of Information in Channels Specified by Structures of Partial Erasure. Part 2"
+   item_authors_address: |
+     <b> I. B. Kazakov</b>, i_b_kazakov@mail.ru, Lomonosov Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Kazakov Ilia B., Postgraduate Student, Lomonosov Moscow State University, Moscow, 119234, Russian Federation, E-mail: i_b_kazakov@mail.ru"
+   item_rec_on: May 06, 2020
+   item_acc_on: July 08, 2020
+   item_annot: |
+     <p> The paper is the second part of the research. The main notion introduced in the first part is a structure of partial erasure. The second part is devoted to construction of a protocol for transmitting information via a channel specified by such structure. We formulate the mathematical model of the protocol, give an explicit example of implementation and estimate throughput of this example.</p>
+   item_keywords: covert channels, walk on a plane, structure of partial erasure, uniform coding, throughput
+   item_pages: 322–329
+   item_citation: 'Kazakov I. B. Transmission of Information in Channels Specified by Structures of Partial Erasure. Part 2, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 322—329'
+ - doi: 11.330-334
+   udk: "004.422"
+   item_authors: "Karelova R. A., Ignatov E. E."
+   item_name: "Features of the Development of a Neural Network to Automate the Recognition of Steel Defects"
+   item_authors_address: |
+     <b> R. A. Karelova</b>, riya2003@mail.ru, <b> E. E. Ignatov</b>, levia4119@gmail.com, Nizhny Tagil Technological Institute (branch) of the Ural Federal University named after the first President of Russia B. N. Yeltsin, Nizhny Tagil, 622031, Russian Federation
+   item_corr_author: "Karelova Riya A., PhD, Associate Professor, Nizhny Tagil Technological Institute (branch) of the Ural Federal University named after the first President of Russia B. N. Yeltsin, Nizhny Tagil, 622031, Russian Federation, E-mail: riya2003@mail.ru"
+   item_rec_on: July 06, 2020
+   item_acc_on: October 07, 2020
+   item_annot: |
+     <p> The article presents an embodiment of an artificial neural network for recognizing defects in images of steel sheets.
+     Several stages of solving the problem are described: the choice of a development environment, a programming language, and libraries necessary for the implementation; features of data analysis, graphing, histograms, finding dependencies; the selection of a suitable neural network, the choice of neural network architecture, the selection of an algorithm for assessing quality and accuracy; neural network spelling; training and checking accuracy and quality, checking for overfitting (retraining).
+     As development tools, Python language, PyTorch library, Jupyter development environment, convolutional neural network architecture — Unet are proposed. Features of the analysis of input images of steel sheets, features of the implementation of the neural network itself are described. The function of binary cross entropy was chosen as a criterion for assessing accuracy, since it seeks to bring the distribution of the network forecast to the target, fine not only for erroneous predictions, but also for uncertain ones.
+     For additional evaluation, the DICE method was also used. The accuracy of the resulting model is 84 %. The proposed solution can become part of a hardware-software system for automating the recognition of defects on metal sheets. </p>
+   item_keywords:  production digitalization, neural network, steel defects, image recognition, production automation, python, pytorch, unet architecture
+   item_pages: 330–334
+   item_citation: 'Karelova R. A., Ignatov E. E. Features of the Development of a Neural Network to Automate the Recognition of Steel Defects, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 330—334'
+ - doi: 11.335-341
+   udk: "004.912"
+   item_authors: "Kozitsyn A. S., Afonin S. A., Shachnev D. A."
+   item_name: "Method for Assessing the Thematic Proximity of Scientific Magazines"
+   item_authors_address: |
+     <b> A. S. Kozitsyn</b>, alexanderkz@mail.ru, <b> S. A. Afonin</b>, serg@msu.ru, <b> D. A. Shachnev</b>, mitya57@gmail.com, M. V. Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: "Kozitsyn Alexander S., Leading Researcher, M. V. Lomonosov Moscow State University, Moscow, 119192, Russian Federation, E-mail: alexanderkz@mail.ru"
+   item_rec_on:  September 16, 2020
+   item_acc_on:  October 01, 2020
+   item_annot: |
+     <p> The paper describes an algorithm for determining the thematic proximity of magazines. The results of its software implementation can be used to solve the following urgent tasks: clasification of the scientometric indicators values in the evaluation of scientific activity; assessment of the main trends in the development of the main scientific areas; determination of the relationships between data in information systems for constructing ontologies and defining safety rules within the framework of the ABAC model; creation of effective and convenient mechanisms for searching for scientific information.
+     A feature of the presented algorithm is the use of the co-authorship graph for constructing the thematic proximity metric and the ability to process magazines in different languages, which is difficult to implement for other thematic analysis algorithms based on the analysis of full-text information. The software implementation of the presented algorithm is used in practice in the scientometric system "ISTINA".
+     </p>
+   item_keywords: thematic analysis, scientometrics, information systems, bibliography, author, graph
+   item_pages: 335–341'
+   item_comment: ' This research was partly supported by RFBR (grant N18-07-01055)'
+   item_citation: ' Kozitsyn A. S., Afonin S. A., Shachnev D. A. Method for Assessing the Thematic Proximity of Scientific Magazines, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 335—341'
+ - doi: 11.342-348
+   udk: "004.825"
+   item_authors: "Makhortov S. D."
+   item_name: "Methods for Solving Production-Logical Equations in a Fuzzy LP-Structure"
+   item_authors_address: |
+     <b> S. D. Makhortov</b>, msd_exp@outlook.com, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: " Makhortov Sergey D., Head of Department, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: msd_exp@outlook.com"
+   item_rec_on:  August 12, 2020
+   item_acc_on:  September 14, 2020
+   item_annot: |
+     <p> Algebraic methods provide an effective formalism for constructing and researching models of a wide range of information systems, especially intelligent ones. This provision fully applies to the production-type logical systems widespread in computer science.
+     In the last decade, the author has created an algebraic theory of LP-structures (lattice production structures), which makes it possible to effectively solve a number of important problems related to production systems. Such tasks include equivalent transformations, verification, minimization of knowledge bases, and acceleration of logical inference. In particular, the method of relevant backward inference (LP-inference) was introduced and investigated, which significantly reduces the number of calls to external sources of information. Subsequently, this theory was expanded to model of distributed production systems.
+     An important property of modern intelligent systems is the fuzzy nature of knowledge and reasoning. Therefore, an urgent problem arises of extending the advantages of the theory of LP-structures to fuzzy production systems. The beginning of this direction was laid in the previous articles of the author. Concepts describing the fuzzy LP-structure were introduced, and some useful properties of fuzzy LP-inference were studied. In recent works, studies are pre­sented that systematically generalize the theory of LP-structures for managing fuzzy knowledge bases. The basic terminology of FLP-structures with a fuzzy logical relation (Fuzzy LP-structures) is introduced, the basic properties are proved — closedness, the existence of a canonical form and logical reduction.
+     This work complements this model by defining and investigating the apparatus of production-logical equations in the FLP-structure. Methods for solving these equations are proposed and substantiated. Finding a solution to the production-logical equation corresponds to the backward fuzzy inference. The presented theorems provide a theo­retical basis for further advances in the field of optimization of fuzzy inference.
+     As a continuation of the work, it is planned to consider questions about the direct solvability of simplified equations and the number of their solutions.
+     </p>
+   item_keywords: fuzzy production system, relevant backward inference, algebraic model, fuzzy LP-structure, production-logical equations
+   item_pages: 342–348
+   item_citation: 'Makhortov S. D. Methods for Solving Production-Logical Equations in a Fuzzy LP-Structure, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 342—348'
+ - doi: 11.349-360
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Ontologies' Closures Modeling by Formalisms of Semantic Hierarchies"
+   item_authors_address: |
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation
+   item_corr_author: " Kostenko Konstantin I., Associate Professor, Kuban State University, Krasnodar, 350040, Russian Federation E-mail: kostenko@kubsu.ru"
+   item_rec_on:  June 26, 2020
+   item_acc_on:  September 22, 2020
+   item_annot: |
+     <p> Schemes are studied for modeling the complex knowledge structures as synthesized from knowledge areas ontologies elements. These structures applications relate to knowledge life cycles and knowledge flows stages within intelligent systems. The format of semantic hierarchies is proposed as unified and universal for the synthesis of these structures. This allows replacing the general case of knowledge algebraic structures by special case of semantic hierarchies. Constructing the synthesized knowledge structures is performed by special operations knowledge alge­braic structures in any knowledge representation formalisms. These operations simulate fundamental mathematical systems functional aspects. They are adapted to the knowledge formalisms attributes. Attributes are explored within different knowledge areas. They associated generally with thinking operations and mind memory structure. Datasets (operations bases) of synthesis processes operations are constructed as special classes of knowledge with a uniform structure. Ontologies for considered knowledge areas are used as source of such bases constructing. Ontologies closures are defined as sets of knowledge that may be constructed off ontologies elements by synthesis operations.
+     They determine the ontologies expressive capabilities. The constructs and operations over ontologies, that proposed at descriptive logics, can be modelled by knowledge complete structural representations, adopted for semantic hierarchies formalisms. Such formalisms are convenient for simulating knowledge presentation and processing. They form foundation for constructing intelligent systems abstract and applied models.. The possibility is proved for trans­ferring the knowledge properties and knowledge processing schemes at semantic hierarchies to the general case of knowledge algebraic structures. The schemes for modeling the ontological constructions as semantic hierarchies are given. This proves possibility of applying such formalisms as the basis for modeling synthesis processes in ontolo­gies. Such schemes allow constructing the ontologies closures as generated by knowledge-processing operations sequences. Last fact means possibility for formalisms of semantic hierarchies to be uniform foundation of modelling the knowledge flows and knowledge transforming processes by intelligent systems.
+     </p>
+   item_keywords: knowledge area, knowledge space, task structure, elementary knowledge, knowledge synthesis, inference operator, backward inference, forward inference
+   item_pages: 349–360
+   item_comment: ' The reported study was funded by RFBR. Grant project number № 20-01-00289 '
+   item_citation: "Kostenko K. I. Ontologies' Closures Modeling by Formalisms of Semantic Hierarchies, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 349—360"
+---
