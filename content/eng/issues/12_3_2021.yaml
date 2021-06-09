@@ -1,0 +1,81 @@
+---
+title: Issue N3 2021 year
+content:
+ - doi: 12.115-126
+   udk: "004.4’2"
+   item_authors: "Gribova V. V., Moskalenko Ph. M., Timchenko V. A., Shalfeeva E. A."
+   item_name: "Control Graph Based Development of Problem Solvers for Systems with Knowledge Bases"
+   item_authors_address: |
+     <b> V. V. Gribova</b>, gribova@iacp.dvo.ru, <b>  Ph. M. Moskalenko</b>, philipmm@iacp.dvo.ru, <b> V. A. Timchenko</b>, vadim@dvo.ru, <b> E. A. Shalfeeva</b>, shalf@iacp.dvo.ru, Institute of Automation and Control Processes Far Eastern Branch of the Russian Academy of Sciences, Vladivostok, 690041, Russian Federation
+   item_corr_author: "Moskalenko Philip M., PhD, Senior Researcher, Institute of Automation and Control Processes Far Eastern Branch of the Russian Academy of Sciences, Vladivostok, 690041, Russian Federation, E-mail: philipmm@iacp.dvo.ru"
+   item_rec_on: November 13, 2020
+   item_acc_on: December 01, 2020
+   item_annot: |
+     <p> Reducing the complexity of developing software systems that solve complex problems of science and practice, as well as ensuring their viability are among urgent tasks of software engineering. For systems with knowledge bases, as noted in many literature sources, this problem is most acute, despite the fact that significant results have been achieved in its solving. This problem is especially critical for those systems in which one of the requirements is a time limit for decision-making. Given that the used solution methods belong to the class of exhaustive ones that have a large computational complexity, parallelization is required to reduce the execution time.
+     A methodology for using declaratively defined control graph structures for developing problem solvers for systems with knowledge bases is proposed. Special attention is paid to the processing of knowledge base fragments and the possibility of placing architectural components of the solver on different computing devices.
+     The structure of such an information-and-control graph includes related constructs (operators), one of which is marked as "initial". These structures can be divided into two main types: computing control structures and information processing structures. The developer can group individual operators into blocks — for their repeated usage (including organization of recursive calculations). The structure of the graph also includes a description of the data.
+     </p>
+   item_keywords: knowledge base, solver, control graph, software engineering, program development methodology, information processing
+   item_pages: 115–126
+   item_comment: 'This work was partially supported by the Russian Foundation for Basic Research, project nos. 19-07-00244 and 20-07-00670'
+   item_citation: 'Gribova V. V., Moskalenko Ph. M., Timchenko V. A., Shalfeeva E. A. Control Graph Based Development of Problem Solvers for Systems with Knowledge Bases, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 115—126'
+ - doi: 12.127-139
+   udk: "004.05"
+   item_authors: "Shelekhov V. I."
+   item_name: "Applying Program Transformations for Deductive Verification of the List Reverse Program"
+   item_authors_address: |
+     <b> V. I. Shelekhov</b>, vshel@iis.nsk.su, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+   item_corr_author: " Shelekhov Vlaimir I., Head of Laboratory. A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation, E-mail: vshel@iis.nsk.su"
+   item_rec_on:  December 16, 2020
+   item_acc_on:  February 01, 2021
+   item_annot: |
+     <p> The program transformation methods to simplify the deductive verification of programs with recursive data types are investigated. The list reversion program is considered as an example. A source program in the C language is translated to the cP functional language which includes no pointers. The resulting program is translated further to the WhyML language to perform deductive verification of the program. The cP language includes the same constructs of the C language except pointers. In the C program, all actions that include pointers are replaced by the equivalent fragments without pointers. These replacement are performed by the special transformations using the results of the program dataflow analysis.
+     Three variants of deductive verification of the transformed list reverse program in the Why3 verification platform with SMT solvers (Z3 4.8.6, CVC3 2.4.1, CVC4 1.7) are performed. First, the recursive WhyML program supplied with specifications was automatically verified successfully using only SMT solvers. Second, the recursive program was translated to the P predicate language. Correctness formulae were constructed for the P program and translated further to the why3 specification language. The formulae proving correctness were easy like the first variant. But correctness formulae for the first and second variants were different. Third, the "imperative" WhyML program that included while loop with additional invariant specifications was verified. The proving was easy but not automatic. So, for deductive verification, recursive program variant appears to be more preferable against imperative program variant.</p>
+   item_keywords: deductive verification, program transformation, functional program, predicate program, algebraic data type, linked list, Linux operating system
+   item_pages: 127–139
+   item_citation: 'Shelekhov V. I. Applying Program Transformations for Deductive Verification of the List Reverse Program, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 127—139'
+ - doi: 12.140-149
+   udk: "004.912"
+   item_authors: "Parinov S. I."
+   item_name: "Topic Modeling of the Research Papers' Citation Contexts: a Structure of an Author's Research Consumption"
+   item_authors_address: |
+     <b> S. I. Parinov</b>, sparinov@gmail.com, Central Economics and Mathematics Institute of RAS (CEMI RAS), Russian Presidential Academy of National Economy and Public Administration (RANEPA), Moscow, 117418, Russian Federation
+   item_corr_author: " Parinov Sergey I., D. Sc., Chief Researcher, Central Economics and Mathematics Institute of RAS (CEMI RAS), Russian Presidential Academy of National Economy and Public Administration (RANEPA), Moscow, 117418, Russian Federation, E-mail: sparinov@gmail.com"
+   item_rec_on:  January 11, 2021
+   item_acc_on:  February 01, 2021
+   item_annot: |
+     <p> Citation contexts from research papers, as a rule, contain information about the reasons and the character of using the cited research outputs. By extracting this information from the citation contexts, one can create different data sets for scientometric studies. The paper systematizes general possibilities of using data from the citation contexts for the development of the author-citation network analysis. As one of applications, the paper presents an approach to constructing the thematic structure of a research consumption based on topic modelling of the citation contexts from researchers papers. The thematic structure features built in the forms of a "word tree" and a flowchart are discussed. Possible directions of development of this approach are considered. The proposed thematic structure of the research consumption is a promising new data source for both scientometric studies and creation of new research services. </p>
+   item_keywords:  Cirtec project, citation contexts, topic modeling, structure of research consumption
+   item_pages: 140–149
+   item_citation: "Parinov S. I. Topic Modeling of the Research Papers' Citation Contexts: a Structure of an Author's Research Consumption, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 140—149"
+ - doi: 12.150-156
+   udk: "519.7; 004.056"
+   item_authors: "Galatenko A. V., Kuzovikhina V. A."
+   item_name: "A Model of Secure Functioning of Computer Systems"
+   item_authors_address: |
+     <b> A. V. Galatenko</b>, agalatenko@hse.ru, HSE University, Moscow, 101000, Russian Federation, <b> V. A. Kuzovikhina</b>, pletnyova_va@mail.ru, New school, Moscow, 119192, Russian Federation
+   item_corr_author: " Kuzovikhina Vesta A., Teacher, New school, Moscow, 119192, Russian Federation, E-mail: pletnyova_va@mail.ru"
+   item_rec_on:  December 29, 2020
+   item_acc_on:  January 15, 2021
+   item_annot: |
+     <p> We propose an automata model of computer system security. A system is represented by a finite automaton with states partitioned into two subsets: "secure" and "insecure". System functioning is secure if the number of consecutive insecure states is not greater than some nonnegative integer k. This definition allows one to formally reflect responsiveness to security breaches. The number of all input sequences that preserve security for the given value of k is referred to as a k-secure language. We prove that if a language is k-secure for some natural and automaton V, then it is also k-secure for any 0 < k < k and some automaton V = V (k). Reduction of the value of k is performed at the cost of amplification of the number of states. On the other hand, for any non-negative integer k there exists a k-secure language that is not k"-secure for any natural k" > k. The problem of reconstruction of a k-secure language using a conditional experiment is split into two subcases. If the cardinality of an input alphabet is bound by some constant, then the order of Shannon function of experiment complexity is the same for al k; otherwise there emerges a lower bound of the order nk. </p>
+   item_keywords:  formal security model, finite automata, regular languages, multiple conditional experiments
+   item_pages: 150–156
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project no. 18-07-01055.'
+   item_citation: 'Galatenko A. V., Kuzovikhina V. A. A Model of Secure Functioning of Computer Systems, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 150—156.'
+ - doi: 12.157-168
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Core Invariants of the Mathematical Model of an Intelligent System"
+   item_authors_address: |
+     <b> K. I. Kostenko</b>, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation
+   item_corr_author: " Kostenko Konstantin I., Associate Professor, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru"
+   item_rec_on:  December 11, 2020
+   item_acc_on:  January 15, 2021
+   item_annot: |
+     <p> A holistic description of a universal mathematical model for the concept of an intelligent system is given. It is based on formalized invariants associated with the processes of creating and applying such systems. The core of the model is formed by consistent descriptions for sections of knowledge formalisms, components of multidimensional architecture and knowledge flows processes within it, as well as cybernetic hierarchical multi agents systems that control the intelligent systems subjective existence. The fundamental invariants of the knowledge presentation and processing are directly implemented by these main sections basic elements. Invariants form unified set of intelligent systems general attributes. This set allows carrying out comprehensive formal modelling of the intelligence. These invariants are associated with knowledge aspects. They are developed and used at knowledge areas that deal with exploring the memory structural organization and thinking processes models. The tools for transforming the proposed abstract model into the models of specific intelligent systems are morphisms of homomorphic expansion. These morphisms concretize the content of the main structural and functional elements of the intelligent system fundamental model. At the same time, the varieties of entities implemented by model elements are narrowed to the families of objects that make up applied intelligent systems. These systems inherit the properties of fundamental model common elements. Intermediate models of the processes of converting the original model into applied ones allow studying these models properties by mathematical tools. Intermediate models form the basis for the subsequent development of the technology of creating and applying multilevel intelligent systems. </p>
+   item_keywords: intelligent system, knowledge representation formalism, knowledge dimension, knowledge flow process, ontology, knowledge synthesis, knowledge morphism, cognitive goal, intelligent agent
+   item_pages: 157–168
+   item_comment: ' The reported study was funded by RFBR. Grant project number № 20-01-00289.'
+   item_citation: 'Kostenko K. I. Core Invariants of the Mathematical Model of an Intelligent System, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 157—168'
+---
