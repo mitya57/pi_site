@@ -13,7 +13,7 @@ preprocess do
    all_issues.each do |issue|
 
       for itm in issue[:content] do
-        #@items.create(itm[:doi], { itm[:doi] => 'doi', itm[:item_authors] => 'item_authors' }, '/dois/'+ itm[:doi] + '.html')       
+        #@items.create(itm[:doi], { itm[:doi] => 'doi', itm[:item_authors] => 'item_authors' }, '/dois/'+ itm[:doi] + '.html')
         $s = ''
         $i = 0
 
@@ -25,11 +25,11 @@ preprocess do
         end
 
         if itm[:doi].nil?
-            @items.create(issue[:title], itm, $s + '/10.17587/prin.' + itm[:link] + '.html')       
+            @items.create(issue[:title], itm, $s + '/10.17587/prin.' + itm[:link] + '.html')
         else
-            @items.create(issue[:title], itm, $s + '/10.17587/prin.' +  itm[:doi] + '.html')       
-        end 
-      end  
+            @items.create(issue[:title], itm, $s + '/10.17587/prin.' +  itm[:doi] + '.html')
+        end
+      end
    end
 
 #  dois.each do |doi|
@@ -71,9 +71,13 @@ end
 compile '/**/eng/issues/*.yaml' do
   layout '/default_eng_list.html'
 end
- 
+
 compile '/**/rus/issues/*.yaml' do
   layout '/default_rus_list.html'
+end
+
+compile '/**/rus/most_citated.yaml' do
+  layout '/most_citated_rus.html'
 end
 # This is an example rule that matches Markdown (.md) files, and filters them
 # using the :kramdown filter. It is commented out by default, because kramdown
@@ -102,8 +106,11 @@ end
 
 route '/**/issues/*.yaml' do
     item.identifier.without_ext + '.html'
-end 
+end
 
+route '/**/rus/most_citated.yaml' do
+  item.identifier.without_ext + '.html'
+end
 
 compile '/*.css' do
   write item.identifier.to_s
@@ -114,7 +121,7 @@ end
 #  write item.identifier.to_s
 #end
 
-passthrough '/images/*' 
+passthrough '/images/*'
 passthrough '/full/*'
 
 layout '/**/*', :erb
