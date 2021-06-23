@@ -1,0 +1,37 @@
+<%= render '/top_rus.html', :title => @item[:title] %>
+
+<%= render '/menu_rus.html' %>
+            <%= yield %>
+
+    <p class="main_content_title">10 наиболее цитируемых статей по версии elibrary.ru</p>
+
+    <div class="most_citated_content">
+
+    <ol>
+    <% for @itm in @item[:content] %>
+    <li>
+      <div class="article_info">
+      <% if @itm[:doi].nil? %>
+          <a href="rus/10.17587/prin.<%= @itm[:link]%>.html"><%= @itm[:item_title] %></a>
+      <% else %>
+          <a href="rus/10.17587/prin.<%= @itm[:doi]%>.html"><%= @itm[:item_title] %></a>
+      <% end %>
+
+      <br/>
+      <% unless @itm[:item_authors].nil? %>
+        <i><%= @itm[:item_authors] %></i><br/>
+      <% end %>
+      <%= @itm[:item_year] %>
+      <% unless @itm[:item_volume].nil? %>
+        , Том <%= @itm[:item_volume] %>
+      <% end %>
+      <% unless @itm[:item_issue].nil? %>
+        , номер <%= @itm[:item_issue] %>
+      <% end %>
+     </div>
+    </li>
+    <% end %>
+    </ol>
+    </div>
+
+<%= render '/buttom_rus.html' %>
