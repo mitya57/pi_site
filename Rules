@@ -79,7 +79,10 @@ end
 compile '/**/rus/most_citated.yaml' do
   layout '/most_citated_rus.html'
 end
-# This is an example rule that matches Markdown (.md) files, and filters them
+compile '/**/eng/most_citated.yaml' do
+  layout '/most_citated_eng.html'
+  # This is an example rule that matches Markdown (.md) files, and filters them
+end
 # using the :kramdown filter. It is commented out by default, because kramdown
 # is not bundled with Nanoc or Ruby.
 #
@@ -109,6 +112,10 @@ route '/**/issues/*.yaml' do
 end
 
 route '/**/rus/most_citated.yaml' do
+  item.identifier.without_ext + '.html'
+end
+
+route '/**/eng/most_citated.yaml' do
   item.identifier.without_ext + '.html'
 end
 
