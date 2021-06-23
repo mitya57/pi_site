@@ -1,28 +1,28 @@
 ---
-title: Наиболее цитируемые статьи
+title: Most citated articles
 content:
-  - item_title: "ТЕХНОЛОГИЯ СОЗДАНИЯ ТЕМАТИЧЕСКИХ ИНТЕЛЛЕКТУАЛЬНЫХ НАУЧНЫХ ИНТЕРНЕТ-РЕСУРСОВ, БАЗИРУЮЩАЯСЯ НА ОНТОЛОГИИ"
-    item_authors: "Загорулько Ю.А., Загорулько Г.Б., Боровикова О.И."
+  - item_title: "Technology for Building Subject-Based Intelligent Scientific Internet Resources Based on Ontology"
+    item_authors: "Zagorulko Yu. A., Zagorulko G. B., Borovikova O. I."
     item_year: 2016
     item_volume: 7
     item_issue: 2
     doi: 7.51-60
     link: 7.51-60
-  - item_title: "МЕХАНИЗМ, МОДЕЛИ И АЛГОРИТМЫ УПРАВЛЕНИЯ ПРОИЗВОДСТВЕННО-ЭКОНОМИЧЕСКИМИ СИСТЕМАМИ НА ПРИНЦИПАХ СОГЛАСОВАНИЯ КРИТЕРИЕВ ЗАИНТЕРЕСОВАННЫХ АГЕНТОВ"
-    item_authors: "Орлова Е.В."
+  - item_title: "Mechanism, Models and Control Algorithms for Productive and Economic System under Harmonization Criteria of Interested Agents"
+    item_authors: "Orlova E. V."
     item_year: 2016
     item_volume: 7
     item_issue: 2
     doi: 7.86-96
     link: 7.86-96
-  - item_title: "БАЗОВАЯ ТЕХНОЛОГИЯ РАЗРАБОТКИ ИНТЕЛЛЕКТУАЛЬНЫХ СЕРВИСОВ НА ОБЛАЧНОЙ ПЛАТФОРМЕ IACPAAS. ЧАСТЬ 1. РАЗРАБОТКА БАЗЫ ЗНАНИЙ И РЕШАТЕЛЯ ЗАДАЧ"
-    item_authors: Грибова В.В., Клещев А.С., Крылов Д.А., Москаленко Ф.М., Тимченко В.А., Шалфеева Е.А.
+  - item_title: "A Base Technology for Development of Intelligent Services with the Use of IACPaaS Cloud Platform. Part 1. A Development of Knowledge Base and Problem Solver"
+    item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A.
     item_year: 2015
     item_issue: 12
     doi:
     link: _12_2015_1
-  - item_title: "СРЕДСТВА СУПЕРКОМПЬЮТЕРНЫХ СИСТЕМ ДЛЯ РАБОТЫ С АГЕНТ-ОРИЕНТИРОВАННЫМИ МОДЕЛЯМИ"
-    item_authors: Макаров В.Л., Бахтизин А.Р., Васенин В.А., Роганов В.А., Трифонов И.А.
+  - item_title: "Capacities of Supercomputer System for Work with Agent-Based Models"
+    item_authors: Makarov V.L., Bahtizin A.R., Vasenin V.A., Roganov V.A., Trifonov I.A.
     item_year: 2011
     item_issue: 3
     doi:
