@@ -1,0 +1,98 @@
+---
+title: Issue N4 2021 year
+content:
+ - doi: 12.171-178
+   udk: "519.72"
+   item_authors: "Bukashkin S. А., Cherepniov M. A."
+   item_name: "Quantum Computer and Post-Quantum Cryptography"
+   item_authors_address: |
+     <b> S. А. Bukashkin</b>, sergey.bukashkin@gmail.com, JSC Concern Avtomatika, Moscow, 127276, Russian Federation, <b> М. А. Cherepniov</b>, cherepniov@gmail.com, MSU, Moscow, 115432, Russian Federation
+   item_corr_author: "Cherepniov Mikhail А., PhD, Professor, MSU, Moscow, 115432, Russian Federation E-mail: cherepniov@gmail.com"
+   item_rec_on:  February 28, 2021
+   item_acc_on: April 19, 2021
+   item_annot: |
+     <p> An overview of the current state of the problem of building a quantum computer and its hypothetical use for breaking cryptographic protocols is presented. The necessary parameters are considered. An overview of existing quantum algorithms and post-quantum cryptographic protocols that are strong with respect to them is presented. The problem of constructing a quantum computer is considered in comparison with the development of the theory and practice of conventional mechanical and electronic computers. The results of contests on the topic of post-quantum cryptography are presented.
+     </p>
+   item_keywords: quantum computer, quantum algorithms, post-quantum cryptography
+   item_pages: 171–178
+   item_comment: 'This work of M. A. Cherepniov was supported by the Russian Foundation for Basic Research, project no. 18-29- 03124\20. '
+   item_citation: 'Bukashkin S. А., Cherepniov M. A. Quantum Computer and Post-Quantum Cryptography, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 171—178'
+ - doi: 12.179-188
+   udk: "004.056.55"
+   item_authors: "Aliev F. K., Korolkov A. V., Matveev E. A., Sheremet I. A."
+   item_name: On the Sensitivity of the Gamma of the Quantum Cryptographic System AKM2017 to Changes in the Session Key
+   item_authors_address: |
+     <b> F. K. Aliev</b>, DIS of MD RF, Moscow, Russian Federation, <b> A. V. Korolkov</b>, Russian Technological University — MIREA, AK RF, Moscow, Russian Federation, <b> E. A. Matveev</b>, eugene.cs@hotmail.com, Cryptosoft, Penza, 440026, Russian Federation, <b> I. A. Sheremet</b>, RFBR, Moscow, Russian Federation
+   item_corr_author: " Matveev Evgeniy A., Director, Cryptosoft, Penza, 440026, Russian Federation E-mail: eugene.cs@hotmail.com"
+   item_rec_on:  December 16, 2020
+   item_acc_on:  February 24, 2021
+   item_annot: |
+     <p> The quantum cryptographic system AKM2017 is considered. The results of the analysis of the dependence of the degree of difference between the encryption and decryption gamut on the degree of difference between the corresponding session keys are presented. The equality of these degrees of distinction is revealed and substantiated. For an arbitrarily fixed encryption session key, the distribution of session decryption keys by classes is revealed and described, depending on the value of the degree of difference between the encryption and decryption gamuts. One class is made up of all session decryption keys, leading to the same value of the degree of difference between the encryption and decryption gamuts. A geometric interpretation of the specified distribution by classes is given in the form of placement along circles (class is a circle) on the surface of a sphere of unit radius centered at the origin of the Euclidean rectangular coordinate system in a three-dimensional linear space over the field of real numbers.
+     The stated results can be used to solve the problems of optimizing the values of the parameters of accuracy and reliability of the functioning of variants of practical implementations of the quantum cryptographic system AKM2017, for example, when setting up a session decryption key, which makes it possible to guarantee a predetermined small value of the mathematical expectation of the number of incorrectly decrypted binary plain text.</p>
+   item_keywords: quantum cryptography, cryptographic system, quantum computer, qubit, quantum system, inseparable (synonym — entangled) states, theoretical security, cryptographic technique, spin singlet state, measurement of the spin component along the axis
+   item_pages: 179–188
+   item_citation: 'Aliev F. K., Korolkov A. V., Matveev E. A., Sheremet I. A. On the Sensitivity of the Gamma of the Quantum Cryptographic System AKM2017 to Changes in the Session Key, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 179—188.'
+ - doi: 12.189-199
+   udk: "004.82"
+   item_authors: "Dolinina O. N., Kushnikov V. A."
+   item_name: "Methods and Technologies for Quality Assurance of Intelligent Decision-Making Systems"
+   item_authors_address: |
+     <b> O. N. Dolinina</b>, odolinina09@gmail.com, Yuri Gagarin State University of Saratov, Saratov, 410054, Russian Federation, <b> V. A. Kushnikov</b>, kushnikoff@yandex.ru, Saratov Scientific Center of Russian Academy of Sciences, Saratov, 410028, Russian Federation
+   item_corr_author: " Dolinina Olga N., PhD, Director of the Institute, Yuri Gagarin State University of Saratov, Saratov, 410054, Russian Federation, E-mail: odolinina09@gmail.com"
+   item_rec_on:  February 25, 2021
+   item_acc_on:  March 25, 2021
+   item_annot: |
+     <p> An increase in the degree of intellectualization of tasks requires the creation of methodology for improving the quality of intelligent decision-making systems. The possibility of automating decision-making in poorly formalized areas through the using of the expert knowledge leads to increasing of the number of errors in the software, and as a consequence to increasing of the number of various sources of failures.The article provides a detailed overview of existing methods and technologies for quality assurance of intelligent decision systems. The first part of the article describes the methodology for ensuring the quality of the intelligent systems (IS), based on the GOST/ ISO standards, where it is proposed to use a multilevel model to describe the quality of the IS software. It is shown that to ensure the required level of quality, an action plan can be formed and the use of a system dynamics model for the implementation of an action plan for ensuring the quality of IS is described. A comparative analysis of the complex criteria of quality and reliability is given. In the second part, the quality of knowledge base (KB) as a special element of the IS software is described, a comparative analysis of methods for static and dynamic analysis of knowledge bases is considered. An overview of research results in the classification of errors in the knowledge bases and their debugging is given. Special attention is given to the "forgetting about exception" type of errors. The concept of a statically correct knowledge base at the level of the knowledge structure is described and it is shown that statically correct knowledge bases can nevertheless give errors due to errors in the rules themselves because of the inconsistency of the field of studies. Neural network knowledge bases are allocated in a separate class, for neural networks methods of debugging are described. </p>
+   item_keywords:  quality of intelligent systems, quality assurance plan, reliability, knowledge base errors, "forgetting about an exception" error, debugging, inconsistency of knowledge, testing
+   item_pages: 189–199
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project nos. 20-17-50028/20'
+   item_citation: 'Dolinina O. N., Kushnikov V. A. Methods and Technologies for Quality Assurance of Intelligent Decision-Making Systems, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 189—199'
+ - doi: 12.200-208
+   udk: "004.4, 517.5"
+   item_authors: "Astapov N. S."
+   item_name: "Algorithms for Factorization of Polynomials of Low Degree"
+   item_authors_address: |
+     <b> N. S. Astapov</b>, e-mail: nika@hydro.nsc.ru, Lavrentyev Institute of Hudrodynamics of Siberian Branch of Russian Academy of Sciences, Novosibirsk, 630090, Russian Federation, Novosibirsk State University, Novosibirsk-90, 630090, Russian Federation
+   item_corr_author: "Astapov Nikolay S., Senior Researcher, Lavrentyev Institute of Hudrodynamics SB RAS, Novosibirsk, 630090, Russian Federation, E-mail: nika@hydro.nsc.ru"
+   item_rec_on:  March 03, 2021
+   item_acc_on:  March 29, 2021
+   item_annot: |
+     <p> For polynomials of the third degree of a special type, expansions into linear factors are found. Various methods of factorization of fourth-degree polynomials of general and particular types are proposed. For polynomials of the sixth degree of a special kind, representations are given in the form of a product of polynomials of lower degrees. Special attention is paid to representations through square trinomials.
+     The decomposition of the generalized reciprocal polynomial of the sixth degree into square trinomials is given.
+     </p>
+   item_keywords:  software, polynomial multipliers, resolvent, reciprocal polynomials
+   item_pages: 200–208
+   item_citation: ' Astapov N. S. Algorithms for Factorization of Polynomials of Low Degree, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 200—208'
+ - doi: 12.209-215
+   udk: "004.5"
+   item_authors: "Chitalov D. I."
+   item_name: "On the Development of a Module for the Modification of Computational Meshes by the dsmcInitialise Utility"
+   item_authors_address: |
+     <b> D. I. Chitalov</b>, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk Region, Miass, Ilmen reserve, 456317, Russian Federation
+   item_corr_author: " Chitalov Dmitry I., Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk Region, Miass, Ilmen reserve, 456317, Russian Federation, E-mail: cdi9@yandex.ru"
+   item_rec_on:  January 22, 2021
+   item_acc_on:  March 23, 2021
+   item_annot: |
+     <p> The research, the results of which are presented in this article, is devoted to the development of a software module with a graphical user interface that provides a modification of the computational mesh based on the dsmcInitialise utility, which is used at the preprocessing stage of numerical modeling of continuum mechanics problems using the OpenFOAM software environment. The paper describes the existing graphical shells for working with OpenFOAM with an indication of their shortcomings, formulates the relevance of the work, and defines the goals and objectives of the study. The article presents the features of the direct Monte Carlo simulation method, a description of the dsmcInitialise utility integrated into OpenFOAM and designed for such modeling, as well as a description of the corresponding dictionary file with parameters. The article includes diagrams of the structure and logic of the application, describes the technology stack used. The results of the application of the program on the example of one of the training problem of OpenFOAM are presented. The final conclusions are formulated, as well as the provisions that determine the scientific novelty of the research, and its intended practical value is determined. A link to the repository with the source code of the presented software module is provided. </p>
+   item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python, open source software, dsmcInitialise utility, PyQt, SQLite
+   item_pages: 209–215
+   item_citation: 'Chitalov D. I. On the Development of a Module for the Modification of Computational Meshes by the dsmcInitialise Utility, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 209—215'
+ - doi: 12.216-222
+   udk: "004.421"
+   item_authors: "Petrova N. K., Mukhachev A. P., Zagidullin A. A., Koutsenko S. M."
+   item_name: "Creating an Electronic Course on Programming in Python for the Android Platform"
+   item_authors_address: |
+     <b> N. K. Petrova</b><sup>1,2</sup>, nk_petrova@mail.ru, <b> A. P. Mukhachev</b><sup>1</sup>, houstondevs@gmail.com,
+     <b>A. A. Zagidullin</b><sup>2</sup>, arhtur.zagidullin@ya.ru, <b> S. M. Koutsenko</b><sup>1</sup>, s.koutsenko@mail.ru,
+     <br/> <sup>1</sup>Kazan Power Engineering University, Kazan, 420066, Russian Federation,
+     <br/><sup>2</sup>Kazan Federal University, Kazan, 420008, Russian Federation
+   item_corr_author: " Petrova Natalia K., Associate Professor, Kazan State Power Engineering University, Kazan, 420066, Russian Federation, Senior Researcher, Institute of Physics of the Kazan Federal University, Kazan, 420008, Russian Federation, E-mail: nk_petrova@mail.ru"
+   item_rec_on: September 29, 2020
+   item_acc_on:  April 19, 2021
+   item_annot: |
+     <p> The description and principles of developing a mobile application for the Android platform that provides free access to electronic courses on teaching the basic structures of the Python language and the construction of template programming algorithms based on them are presented. The content of the course is based on the principle of comparative analysis with the C++ language, one of the goals of which is to differentiate the tasks for which it is more efficient to use either the Python scripting language or the C++ compiler. The developed application is logically integral, allows the possibility of supplementing with new data — examples, types of algorithms — and, no less important, is free.</p>
+   item_keywords: training of algorithmization, programming basics, Python, platform, framework, mobile application, server
+   item_pages: 216–222
+   item_comment: 'This work was performed according to the Russian Government Program of Competitive Growth of Kazan Federal University and was partially supported by the Russian Foundation for Basic Research grant no. 19-32-50108\19мол_нр.'
+   item_citation: 'Petrova N. K., Mukhachev A. P., Zagidullin A. A., Koutsenko S. M. Creating an Electronic Course on Programming in Python for the Android Platform, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 216—222'
+---
