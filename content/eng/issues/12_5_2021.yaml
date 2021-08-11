@@ -1,0 +1,100 @@
+---
+title: Issue N5 2021 year
+content:
+ - doi: 12.227-232
+   udk: "004.4'233"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "Postmortem Analysis of Baget RTOS Processes"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b> K. A. Kostyukhin</b>, kost@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on: April 15, 2021
+   item_acc_on: May 18, 2021
+   item_annot: |
+     <p> Despite the best efforts of programmers to create high-quality software, some errors inevitably escape even the most rigorous testing process and are first encountered by end users of the software. When this happens, developers need to quickly understand the reasons for the errors that occurred and eliminate them. Back in 1951, at the dawn of modern computing, Stanley Gill wrote that special attention should be paid to those errors that occur after the program is started, and lead to its termination. Gill is considered the founder of the so-called postmortem debugging, when a program or system is modified to record its state at the time of failure, so that the programmer can later understand what happened and why such a situation occurred.
+     Since then, postmortem debugging technology has been used in many different systems, including all major general-purpose operating systems (OS), as well as specialized OS such as embedded systems and real-time systems. To ensure the high level of reliability expected from such critical systems, it is necessary, on the one hand, to implement the possibility of rapid recovery of the system or its part after a failure. On the other hand, it is necessary to provide a mechanism for storing as much information as possible after each failure, so that the cause of its occurrence can be determined later.
+     To understand the real potential of postmortem debugging tools, we will first consider the current state of debugging methods and the role of postmortem analysis tools, as well as the requirements for postmortem debugging tools for critical systems. Next, we will describe the mechanism of postmortem debugging implemented by the authors in the RTOS Baget and formulate tasks for further development.
+     </p>
+   item_keywords: corefile, postmortem analysis, RTOS Baget, debugging, memory dump, real-time debugger
+   item_pages: 227–232
+   item_citation: 'Galatenko V. A., Kostyukhin K. A. Postmortem Analysis of Baget RTOS Processes, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 227—232'
+ - doi: 12.233-245
+   udk: "004.75"
+   item_authors: "Bulgakov D. Yu."
+   item_name: "Using Distributed Cloud Computing to Solve Resource-Intensive Tasks"
+   item_authors_address: |
+     <b> D. Yu. Bulgakov</b>, dbulgakov7@yandex.ru, Management Academy of the Ministry of the Interior of Russia, Moscow, 125993, Russian Federation
+   item_corr_author: "Bulgakov Dmitry Yu., Adjunct, Management Academy of the Ministry of the Interior of Russia, Moscow, 125993, Russian Federation, E-mail: dbulgakov7@yandex.ru"
+   item_rec_on:  November 08, 2020
+   item_acc_on: May 19, 2021
+   item_annot: |
+     <p> A method for solving resource-intensive tasks that actively use the CPU, when the computing resources of one server become insufficient, is proposed. The need to solve this class of problems arises when using various machine learning models in a production environment, as well as in scientific research. Cloud computing allows you to organize distributed task processing on virtual servers that are easy to create, maintain, and replicate. An approach based on the use of free software implemented in the Python programming language is justified and proposed. The resulting solution is considered from the point of view of the theory of queuing. The effect of the proposed approach in solving problems of face recognition and analysis of biomedical signals is described.</p>
+   item_keywords: cloud computing, distributed computing, face recognition, Queuing theory, biomedical signals, EEG analysis, Python, Celery, Flask, RabbitMQ
+   item_pages: 233–245
+   item_citation: 'Bulgakov D. Yu. Using Distributed Cloud Computing to Solve Resource-Intensive Tasks, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 233—245.'
+ - doi: 12.246-259
+   udk: "004.421-423"
+   item_authors: "Popov S. E., Zamaraev R. Yu., Yukina N. I., Giniyatullina O. L., Mikov L. S., Kharlampenkov I. E., Schastlivtsev E. L."
+   item_name: "Software for Calculating Deformations of the Earth's Surface using Satellite Radar Data"
+   item_authors_address: |
+     <b> S. E. Popov</b>, popov@ict.sbras.ru, <b> R. Yu. Zamaraev</b>, zamaraev@ict.sbras.ru, <b> N. I. Yukina</b>, yukina@ict.sbras.ru, <b>  O. L. Giniyatullina</b>, skiporol@mail.ru, <b> L. S. Mikov</b>, mikov@ict.sbras.ru, <b> I. E. Kharlampenkov</b>, kharlampenkov@ict.sbras.ru, <b> E. L. Schastlivtsev</b>, schastlivtsev@ict.sbras.ru, Federal Research Center for Information and Computational Technologies, Novosibirsk, 630090, Russian Federation
+   item_corr_author: "Popov Sergey E., Senior Researcher, Federal Research Center for Information and Computational Technologies, Novosibirsk, 630090, Russian Federation, E-mail: popov@ict.sbras.ru"
+   item_rec_on:  May 05, 2021
+   item_acc_on:  May 25, 2021
+   item_annot: |
+     <p> The article presents a description of a software package for calculating displacement rates and detecting displacements of the earths surface over areas of intensive coal mining. The complex is built on the basis of the microservice architecture Docker Swarm in integration with the system of massively parallel execution of tasks Apache Spark, as a high-level tool for organizing container-type computations with orchestration of hardware resources. In the software package, the container is used as an element of the sequence of calculation stages of the mathematical model of interferometric processing, presented in the form of a managed service. The service itself is built on the basis of a microkernel of the specified operating system, with support for multitasking of process identifiers and network protocols. Due to the use of containerization of executor objects, the independence of calculations is achieved both within one pool of jobs and between different pools initialized in multi-user mode. The use of the cluster resource manage­ment system and YARN job scheduling made it possible to abstract all the computing resources of the cluster from the specific launch of jobs and to provide dispatching of distributed processing applications.
+     The use in the program code based on the Sentinel-1 Toolbox of the possibility of storing the intermediate results of the operation of procedures in the schemes for calculating the displacement rates makes it possible to carry out calculations with various parameters, and parallelization provides a reduction in the calculation time in comparison with commercial software products.
+     The combination of Docker Swarm and Apache Spark technologies in one software package made it possible to implement the idea of a high-performance computing system based on open source software and cross-platform programming languages Java and Python using low-budget hardware blocks, including those made in Russia.</p>
+   item_keywords:  Software package, differential interferometry, ground displacement velocities, constant reflector method, small baseline method
+   item_pages: 246–259
+   item_comment: 'The reported study was funded by RFBR and Kemerovo region, project number 20-47-420002. '
+   item_citation: "Popov S. E., Zamaraev R. Yu., Yukina N. I., Giniyatullina O. L., Mikov L. S., Kharlampenkov I. E., Schastlivtsev E. L. Software for Calculating Deformations of the Earth's Surface using Satellite Radar Data, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 246—259"
+ - doi: 12.260-266
+   udk: "004.424.4:004.891"
+   item_authors: "Shachnev D. A."
+   item_name: "Searching for Activity Results and Experts in a Given Subject Area, Taking Results Significance into Account"
+   item_authors_address: |
+     <b> D. A. Shachnev</b>, mitya57@mitya57.me, Software Engineer, Lomonosov Moscow State University, Institute of Mechanics Moscow, 119192, Russian Federation
+   item_corr_author: " Shachnev Dmitry A., Software Engineer, Lomonosov Moscow State University, Institute of Mechanics, Moscow, 119192, Russian Federation, E-mail: mitya57@mitya57.me"
+   item_rec_on:  April 12, 2021
+   item_acc_on:  May 12, 2021
+   item_annot: |
+     <p> The paper describes the mathematical models, algorithms and software tools developed by the author for searching for objects in information analysis systems. A search query is a subject area, which is specified by keywords or rubrics of various classifiers. The search takes into account the relevance of the objects to the query, which is calculated by constructing thematic portraits of the objects and comparing them to the query, as well as the significance of the objects, the rules for calculating which can be set dynamically. Thematic portraits of objects are built by analyzing their relations with other objects in the system, for which a topic is specified.
+     When applied to current research information systems, such an approach can be used to search for scientific results in a given subject area and for experts in this area.
+     </p>
+   item_keywords:  CRIS systems, information analysis systems, information search, subject area, keywords, similarity coefficient
+   item_pages: 260–266
+   item_citation: ' Shachnev D. A. Searching for Activity Results and Experts in a Given Subject Area, Taking Results Significance into Account, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 260—266. '
+ - doi: 12.267-273
+   udk: "004.051"
+   item_authors: "Nikolaev P. M."
+   item_name: "Improving the Efficiency of Calculating B-splines in parallel Programming Tasks"
+   item_authors_address: |
+     <b> P. M. Nikolaev</b>, prokopiy.nikolaev@tsagi.ru, Central Aerohydrodynamic Institute, Zhukovsky, 140181, Russian Federation
+   item_corr_author: " Pokoliy M. Nikolaev, Head of Department, Central Aerohydrodynamic Institute, 140181, Zhukovsky, Russian Federation, E-mail: prokopiy.nikolaev@tsagi.ru"
+   item_rec_on:  April 27, 2021
+   item_acc_on:  March 23, 2021
+   item_annot: |
+     <p> The use of parallel computing tools can significantly reduce the execution time of calculations in many engineer­ing tasks. One of the main difficulties in the development of multithreaded programs remains the organization of simultaneous access from different threads to shared data. The most common solution to this problem is to use locking facilities when accessing shared data. There are a number of tasks where data sharing is not needed, but you need to synchronize access to a limited resource, such as a temporary buffer. In such tasks, there is no data exchange between different threads, but there is an object that at a given time can be used by the code of only one thread. One such task is calculating the value of a B-spline. The software implementation of the functions for calculating B-splines, performed according to classical algorithms, requires the use of blocking objects when accessing the common array of intermediate data from different threads. This reduces the degree of parallelism and reduces the efficiency of computational programs using B-splines running on multiprocessor computing systems. The article discusses a way to improve the efficiency of calculating B-splines in parallel programming tasks by eliminating locks when accessing general modified data. A soft­ware implementation is presented in the form of a C++ class template, which provides placement of a temporary array used for calculating a B-spline into a local buffer of a given size with the possibility of increasing it if necessary. Using the developed template in conjunction with the threadlocal qualifier reduces the number of requests for increasing the buffer for high degree B-splines (larger than the initially specified buffer size). It is also possible to implement this scheme using the std::vector template of the C++ STL Standard Library. The results of the application of the developed class when calculating the values of B-splines in a multithreaded environment, showing a reduction in the calculation time in proportion to an increase in the number of computational processors, are presented. The methods of specifying arrays for storing intermediate calculation results considered in this article can be used in other parallel programming tasks.
+     </p>
+   item_keywords: parallel programming, multithreaded execution, asynchronous data access, local thread storage, B-spline
+   item_pages: 267–273
+   item_citation: 'Nikolaev P. M. Improving the Efficiency of Calculating B-splines in parallel Programming Tasks, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 267—273.'
+ - doi: 12.274-280
+   udk: "004.4, 004.9"
+   item_authors: "Kobzarenko D. N., Savzikhanova S. E., Shikhsaidov B. I."
+   item_name: "Automation Means for Controlling the Correctness of Typical Sections in a University Teacher's Document"
+   item_authors_address: |
+     <b> D. N. Kobzarenko</b>, kobzarenko_dm@mail.ru, <b> S. E. Savzikhanova</b>, sse1122@yandex.ru, Dagestan State University of National Economy, Makhachkala, 367008, Russian Federation, <b> B. I. Shikhsaidov</b>, dekan-52@mail.ru, Dagestan State Agrarian University named after M. M. Dzhambulatov, Makhachkala, 367032, Russian Federation
+   item_corr_author: "Kobzarenko Dmitry N., Leading Researcher, Dagestan State University of National Economy, Makhachkala, 367008, Russian Federation, E-mail: kobzarenko_dm@mail.ru"
+   item_rec_on: May 12, 2021
+   item_acc_on:  May 26, 2021
+   item_annot: |
+     <p> The paper discusses approach to automating the processes of monitoring and editing standard sections in a document of a university teacher in streaming mode. As a toolkit for solving the problem, it is proposed to use the Python programming language with the connection of the python-docx and pandas libraries.
+     Despite the fact that the projected automation tools are focused on a specific task to control documents of a university teacher, the development of the concept of their construction is carried out with an abstraction from the type of documentation. The set of functions may vary depending on the problem being solved.
+     As a result of work on the creation of tools for automating the control of the correctness of typical sections of a university teachers document, a framework of an open software environment for streaming verification of typical sections of documents in the Python language was designed, capable of adapting to the required verification tasks. The project is currently implemented for autonomous operation in Windows OS, it is also expected to be implemented as a web application. For active use in practice for specific tasks, the development of appropriate script packages is required.
+     The main purpose of the development is to release human resources from the routine process of document control and direct it to the implementation of the employees creative ideas.</p>
+   item_keywords: MS WORD document, streaming processing, Python, python-docx library, pandas library
+   item_pages: 273–280
+   item_citation: "Kobzarenko D. N., Savzikhanova S. E., Shikhsaidov B. I. Automation Means for Controlling the Correctness of Typical Sections in a University Teacher's Document, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 273—280."
+---
