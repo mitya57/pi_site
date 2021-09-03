@@ -1,0 +1,97 @@
+---
+title: Issue N6 2021 year 
+content:
+ - doi: 12.283-294
+   udk: "004.912"
+   item_authors: "Lunev K. V."
+   item_name: "Algorithm for Automated Generation of a Training Sample for Solving the Problem of Determining Semantic Similarity between a Pair of Keywords using Machine Learning Methods"
+   item_authors_address: | 
+     <b> K. V. Lunev</b>, kirilllunev@gmail.com, Moscow State University, Moscow, 119192, Russian Federation 
+   item_corr_author: " Lunev Kirill V., Postgraduate Student, Moscow State University, Moscow, 119192, Russian Federation, E-mail: kirilllunev@gmail.com"
+   item_rec_on:  May 10, 2021
+   item_acc_on:  May 31, 2021
+   item_annot: |
+     <p> Currently, machine learning is an effective approach to solving many problems of information-analytical systems. To use such approaches, a training set of examples is required. Collecting a training dataset is usually a time-consuming process. Its implementation requires the participation of several experts in the subject area for which the training set is collected. Moreover, for some tasks, including the task of determining the semantic similarity of keyword pairs, it is difficult even to correctly draw up instructions for experts to adequately evaluate the test examples. The reason for such difficulties is that semantic similarity is a subjective value and strongly depends on the scope, context, person, and task. The article presents the results of research on the search for models, algorithms and software tools for the automated formation of objects of the training sample in the problem of determining the semantic similarity of a pair of words. In addition, models built on an automated training sample allow us to solve not only the problem of determining semantic similarity, but also an arbitrary problem of classifying edges of a graph. The methods used in this paper are based on graph theory algorithms.
+     </p>
+   item_keywords: semantic similarity, natural language processing, graph algorithms, graph theory, machine learning
+   item_pages: 283–294
+   item_citation: 'Lunev K. V. Algorithm for Automated Generation of a Training Sample for Solving the Problem of Determining Semantic Similarity between a Pair of Keywords using Machine Learning Methods, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 283—294.'
+ - doi: 12.295-301
+   udk: "004.042"
+   item_authors: "Titova A. A., Roganov V. A., Lukyanchenko G. A., Elizarov S. G."
+   item_name: "Transaction Accelerator for Blockchain Networks Based on Cryptonight Algorithm using Specialized Multicore Processor MALT"
+   item_authors_address: | 
+     <b> A. A. Titova </b>, titova_a@maltsystem.com, <b> V. A. Roganov</b>,<b>  G. A. Lukyanchenko</b>, <b> S. G. Elizarov</b>, Digital Microelectronics Design Center of M. V. Lomonosov Moscow State University Faculty of Physics, Moscow, 119991, Russian Federation 
+   item_corr_author: " Titova Anna A., Researcher, Digital Microelectronics Design Center of M. V. Lomonosov Moscow State University Faculty of Physics, Moscow, 119991, Russian Federation, E-mail: titova_a@maltsystem.com"
+   item_rec_on:  March 04, 2021
+   item_acc_on: June 07, 2021
+   item_annot: |
+     <p> Cryptonight is one of the possible base algorithms for cryptocurrencies. It belongs to the group of memory-bound algorithms, designed to prevent mining on specialized processors and ASICs by using 2MB of memory for each hash. Thus, it is not easy to adapt for parallel computing. The aim of this work is to prove theoretically and experimentally that this algorithm can still be optimized for a specialized multicore processor to make mining more energetically efficient than on CPU.
+     This article describes the process of optimization, which was conducted using the following methods: data clustering, storage of repeatedly used data in local memory, usage of SIMD for parallel computing, data prefetch. Those methods are first explained, their supposed effectiveness analyzed, and then implemented. As a result, two schemes of algorithm optimization were created: first one is based on the usage of MALTs slave cores, which compute hashes independently. Although memory-boundness creates multiple problems, we were able to increase the efficiency by clustering data. The second scheme is more complicated, it suggests using SIMD processors for most cryptographic computations and also involves data prefetch, which becomes possible if more than one hash is calculated on one core at the same time.
+     All the results are demonstrated in the paper and they indicate that it is indeed possible to optimize Cryptonight for a specialized multicore processor MALT. The practical results show that energy efficiency has increased 5 times in comparison with CPU.
+     </p>
+   item_keywords: multicore processors, specialized processors, SIMD, cryptographic algorithms, Cryptonight, mining, memory-bound algorithms, cryptocurrencies
+   item_pages: 295–301
+   item_citation: ' Titova A. A., Roganov V. A., Lukyanchenko G. A., Elizarov S. G. Transaction Accelerator for Blockchain Networks Based on Cryptonight Algorithm using Specialized Multicore Processor MALT, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 295—301.'
+ - doi: 12.302-310
+   udk: "533.6.01:519.63:004.424:004.382.2"
+   item_authors: "Bessonov O. A., Kharchenko N. A."
+   item_name: "Software Platform for Supercomputer Modeling of Aerothermodynamics Problems"
+   item_authors_address: | 
+     <b> O. A. Bessonov</b>, bess@ipmnet.ru, Ishlinsky Institute for Problems in Mechanics RAS, Moscow, 119526, Russian Federation, <b> N. A. Kharchenko</b>, kharchenko.na@phystech.edu, Tactical Missiles Corporation, Moscow district, Korolev, 141080, Russian Federation
+   item_corr_author: " Bessonov Oleg A., Senior Research Scientist, Ishlinsky Institute for Problems in Mechanics RAS, Moscow, 119526, Russian Federation, E-mail: bess@ipmnet.ru"
+   item_rec_on:  April 15, 2021 
+   item_acc_on:  June 21, 2021
+   item_annot: |
+     <p> Numerical solution of aerothermodynamics problems requires a lot of processor time, and for this reason, the numerical codes for such simulations must be efficiently parallelized. This paper presents a software platform based on a technological approach that greatly simplifies the parallelization of problems with unstructured grids. The paper formulates the principle of a unified mathematical address space of the problem for all used cluster nodes. The formalization of the presented technological approach and the implementation of its software basis in the form of data structures, exchange routines and work rules form a software platform on the basis of which parallel computational programs can be built. This approach is implemented and tested for the problem of modeling the characteristics of aircrafts, but it can be applied to other problems using unstructured grids with one-dimensional cell numbering. In this case, the physical and mathematical specifics of the problem are not important. Parallelization of the code with the new approach is carried out with minimal effort, without changing the main parts of the program. As a result, a single computational code can be created for all regimes — sequential, multi-threaded, and cluster. The performance results obtained with the new code confirm the good scalability of the parallelization method.</p>
+   item_keywords:  computational aerothermodynamics, Navier—Stokes equation, unstructured grids, Cuthill—McKee algorithm, unified mathematical address space, grid partitioning, parallelization, OpenMP, MPI, performance evaluation
+   item_pages: 302–310
+   item_comment: ' This work was partially supported by the Russian State Assignment under Contract No. AAAA-A20-120011690131-7. '
+   item_citation: 'Bessonov O. A., Kharchenko N. A. Software Platform for Supercomputer Modeling of Aerothermodynamics Problems, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 302—310.'
+ - doi: 12.311-318
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Russian Experience in Organizing Fully Remote Software Development: an Industry Study of 2021"
+   item_authors_address: | 
+     <b> D. S. Pashchenko</b>, denpas@rambler.ru, Moscow, 125368, Russian Federation 
+   item_corr_author: " Pashchenko Denis S. Moscow, 125368, Russian Federation, E-mail: denpas@rambler.ru"
+   item_rec_on:  April 29, 2021
+   item_acc_on:  June 07, 2021
+   item_annot: |
+     <p> The pandemic and the COVID-economy continue to have a significant impact on the development of industries of the "new economy". We might see it in the acceleration of digitalization, visualization of work processes and the predominance of communications in electronic channels. The transition to fully remote development and support of software under the influence of the COVID factor not just changed the IT industry, but established a new standard of organization of the software production. This article presents the results of study that covered various aspects of fully remote software development in Russian companies, including VTB, Yandex, Sbertech, and others. More than 20 experts representing their development teams have identified the main approaches to ensuring the motivation and involvement of engineers and to ensuring favorable conditions for their professional growth. The study also identifies the prospects for the evolution of the fully remote software development as a new industry standard. The results of the study are accompanied by the brief conclusions, the main idea of which is the need to quickly understand a new trend in software development and the usage of this factor in the competitive struggle (hiring specialists, organizing teams, organizational development).
+     </p>
+   item_keywords:  remote work, information technology, software development, COVID-economy, software technology
+   item_pages: 311–318
+   item_citation: ' Pashchenko D. S. Russian Experience in Organizing Fully Remote Software Development: an Industry Study of 2021, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 311—318. '
+ - doi: 12.319-328
+   udk: "519.8"
+   item_authors: "Akopov A. S., Khachatryan N. K."
+   item_name: "Simulation Model of an Oil Refinery with a Complex Scheme of Equipment Interaction"
+   item_authors_address: | 
+     <b> A. S. Akopov</b>, akopovas@umail.ru, CEMI RAS, National Research University Higher School of Economics, Moscow, Russian Federation, <b> N. K. Khachatryan</b>, nerses@cemi.rssi.ru, CEMI RAS, Moscow, Russian Federation
+   item_corr_author: "Akopov Adranik S., Professor, Chief Researcher, CEMI RAS, Professor, National Research University Higher School of Economics, Moscow, 105187, Russian Federation, E-mail: akopovas@umail.ru"
+   item_rec_on:  May 20, 2021
+   item_acc_on:  June 21, 2021
+   item_annot: |
+     <p> The article presents the developed simulation model of an oil refinery. The feature of model is the use of agent-based and discrete-event modelling methods. Another feature is applying heuristic optimization technique to find the best values of key production and resource characteristics of oil refinery equipment interacting within the framework of a complex production scheme to build a refinery plant that provides a deep refining level. At the same time, the objective function of the system is the profit of refinery plant, which takes into account both the sale revenue of petroleum products and operating expenditure. The proposed model is implemented in the AnyLogic system and allows, in particular, maximising the profit of refinery plant at various restrictions, including the volumes of petroleum products supplies required to perform contractual obligations at specified times.
+     </p>
+   item_keywords: simulation modelling of production processes, oil refining, discrete-event modelling, agent-based modelling, optimal production planning, AnyLogic
+   item_pages: 319–328
+   item_citation: 'Akopov A. S., Khachatryan N. K. Simulation Model of an Oil Refinery with a Complex Scheme of Equipment Interaction, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 319—328.'
+ - doi: 12.329-335
+   udk: "004.5"
+   item_authors: "Turovsky Ya. A., Borzunov S. V., Vahtin A. A."
+   item_name: "Increasing Frequency Resolution in EEG Studies based on Covariation Analysis"
+   item_authors_address: | 
+     <b> Ya. A. Turovsky</b>, Yaroslav_turovsk@mail.ru, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation; Voronezh State University, Voronezh, 394018, Russian Federation, <b> S. V. Borzunov</b>, sborzunov@gmail.com, Associate Professor, <b> A. A. Vahtin</b>, alvahtin@gmail.com, Associate Professor, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: "Turovsky Yaroslav A., Principal Researcher, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences Moscow, 117997, Russian Federation, Head of Lab., Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: Yaroslav_turovsk@mail.ru"
+   item_rec_on: May 10, 2021
+   item_acc_on:  June 07, 2021
+   item_annot: |
+     <p> The paper discusses the application of the method of co-variance analysis of noisy signals using the example of an electroencephalogram to increase the frequency resolution in relation to the phenomena of electrical activity of the brain. The method is focused primarily on signals presented in digital form. The possibility of increasing the frequency resolution in comparison with the method of Fourier transform and wavelet transform is shown.
+     </p>
+   item_keywords: correlation, covariation analysis, electroencephalogram, Fourier transform, wavelet transform, Morlet wavelet, model signal, power spectrum
+   item_pages: 329–335
+   item_comment: ' The reported study was funded by RFBR according to the research project no. 19-29-01156_мк. '
+   item_citation: ' Turovsky Ya. A., Borzunov S. V., Vahtin A. A. Increasing Frequency Resolution in EEG Studies based on Covariation Analysis, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 329—335. '
+---
