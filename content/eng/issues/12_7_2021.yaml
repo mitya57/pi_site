@@ -1,0 +1,84 @@
+---
+title: Issue N7 2021 year
+content:
+ - doi: 12.339-349
+   udk: "004.414.38"
+   item_authors: "Kodubets A. A, Artemieva I. L."
+   item_name: "Requirements Engineering for Software Systems: A Systematic Literature Review"
+   item_authors_address: |
+     <b> A. A. Kodubets</b>, alexey@kodubets.ru, <b> I. L. Artemieva</b>, iartemeva@mail.ru, Far Estern Federal University, Vladivostok, 690922, Russian Federation
+   item_corr_author: " Kodubets Alexey A., Postgraduate Student, Far Estern Federal University, Vladivostok, 690922, Russian Federation, E-mail: alexey@kodubets.ru"
+   item_rec_on:  March 24, 2021
+   item_acc_on:  July 30, 2021
+   item_annot: |
+     <p> This article contains a systematic literature review of requirements engineering for software systems. The literature published within last 5 years was included into the review. A research question was defined as requirements development process of large scale software system (with thousands of requirements) and an interaction problem during this process (communication, coordination and control). The problem is caused by the fact that large-scale software system requirements process is a cross-disciplinary task and it involves multiple parties — stakeholders, domain experts, and suppliers with own goals and constrains, and thus, the interaction between them seriously slows down the overall requirements development process than writing the requirements specification itself. The research papers were classified by several research directions: Natural Language Processing for Requirements Engineering (NLP4RE), Requirement Prioritization, Requirements Traceability, Quality of Software Requirements, Non-functional Requirements and Requirements Elicitation. Motivation and intensity of each direction was described. Each direction was structured and represented with the key references. A contribution of each research direction into the research question was analyzed and summarized including potential further steps. It was identified that some researchers had met a part of the described problem in different forms during their researches. At the end, other researches were described additionally in a short overview. To approach the research question further potential direction was described.
+     </p>
+   item_keywords: requirements engineering, software requirements specification, large scale software systems
+   item_pages: 339–349
+   item_citation: ' Kodubets A. A, Artemieva I. L. Requirements Engineering for Software Systems: A Systematic Literature Review, Programmnaya Ingeneria, 2021, vol. 12, no. 7, pp. 339—349.'
+ - doi: 12.350-357
+   udk: "004.272.45"
+   item_authors: "Shevelev S. S."
+   item_name: "Device for Calculating Logical and Arithmetic Operations"
+   item_authors_address: |
+     <b> S. S. Shevelev</b>, schewelew@mail.ru, Southwestern State University, Kursk, 305040, Russian Federation
+   item_corr_author: "Shevelev Sergey S., Associate Professor, Southwestern State University, Kursk, 305040, Russian Federation, E-mail: schewelew@mail.ru"
+   item_rec_on:  June 01, 2021
+   item_acc_on: July 17, 2021
+   item_annot: |
+     <p> A device has been developed that performs logical and arithmetic operations, which can be used to create high-performance, high-speed computing systems. Specialized blocks perform logical operations: AND, OR, NOT, arith­metic operations: addition and subtraction of binary numbers. Arithmetic operations are performed in direct fixed-point codes. The device is presented in the form of a structural scheme, structural and functional schemes of blocks and an algorithm for the operation of the device.
+     </p>
+   item_keywords: binary number system, logical elements, adder-subtractor, transfer, loan, sum, difference
+   item_pages: 350–357
+   item_citation: 'Shevelev S. S. Device for Calculating Logical and Arithmetic Operations, Programmnaya Ingeneria, 2021, vol. 12, no. 7, pp. 350—357.'
+ - doi: 12.358-372
+   udk: "004.67; 519.22; 330.46"
+   item_authors: "Orlova E. V."
+   item_name: "Predictive Credit Risk Analytics Using Borrowers' Digital Footprint and Methods of Statistical Machine Learning"
+   item_authors_address: |
+     <b> E. V. Orlova</b>, ekorl@mail.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
+   item_corr_author: " Orlova Ekaterina V., Professor, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation, E-mail: ekorl@mail.ru"
+   item_rec_on:  May 20, 2021
+   item_acc_on:  June 21, 2021
+   item_annot: |
+     <p> The article considers the problem of reducing the banks credit risks associated with the insolvency of borrowers — individuals using financial, socio-economic factors and additional data about borrowers digital footprint. A critical analysis of existing approaches, methods and models in this area has been carried out and a number of significant shortcomings identified that limit their application. There is no comprehensive approach to identifying a borrowers creditworthiness based on information, including data from social networks and search engines.
+     The new methodological approach for assessing the borrowers risk profile based on the phased processing of quantitative and qualitative data and modeling using methods of statistical analysis and machine learning is proposed. Machine learning methods are supposed to solve clustering and classification problems. They allow to automatically determine the data structure and make decisions through flexible and local training on the data. The method of hierarchical clustering and the k-means method are used to identify similar social, anthropometric and financial indicators, as well as indicators characterizing the digital footprint of borrowers, and to determine the borrowers risk profile over group. The obtained homogeneous groups of borrowers with a unique risk profile are further used for detailed data analysis in the predictive classification model. The classification model is based on the stochastic gradient boosting method to predict the risk profile of a potencial borrower. The suggested approach for individuals creditworthiness assessing will reduce the banks credit risks, increase its stability and profitability.
+     The implementation results are of practical importance. Comparative analysis of the effectiveness of the existing and the proposed methodology for assessing credit risk showed that the new methodology provides predictive ana­lytics of heterogeneous information about a potential borrower and the accuracy of analytics is higher. The proposed techniques are the core for the decision support system for justification of individuals credit conditions, minimizing the aggregate credit risks.</p>
+   item_keywords:  data analytics, machine learning, clustering, classification, creditworthiness, digital footprint, reduction of credit risks
+   item_pages: 358–372
+   item_citation: "Orlova E. V. Predictive Credit Risk Analytics Using Borrowers' Digital Footprint and Methods of Statistical Machine Learning, Programmnaya Ingeneria, 2021, vol. 12, no. 7, pp. 358—372."
+ - doi: 12.373-384
+   udk: "004.8, 004.93"
+   item_authors: "Rukhovich D. D."
+   item_name: "2D-to-3D Projection for Monocular and Multi-View 3D Object Detection in Outdoor Scenes"
+   item_authors_address: |
+     <b> D. D. Rukhovich</b>, daniel-rukhovich@yandex.ru, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Rukhovich Danila D., Postgraduate Student, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation,  E-mail: daniel-rukhovich@yandex.ru"
+   item_rec_on:  June 16, 2021
+   item_acc_on:  July 07, 2021
+   item_annot: |
+     <p> In this article, we introduce the task of multi-view RGB-based 3D object detection as an end-to-end optimization problem. In a multi-view formulation of the 3D object detection problem, several images of a static scene are used to detect objects in the scene.
+     To address the 3D object detection problem in a multi-view formulation, we propose a novel 3D object detection method named ImVoxelNet. ImVoxelNet is based on a fully convolutional neural network. Unlike existing 3D object detection methods, ImVoxelNet works directly with 3D representations and does not mediate 3D object detection through 2D object detection. The proposed method accepts multi-view inputs. The number of monocular images in each multi-view input can vary during training and inference; actually, this number might be unique for each multi-view input. Moreover, we propose to treat a single RGB image as a special case of a multi-view input. Accordingly, the proposed method can also accept monocular inputs with no modifications.
+     Through extensive evaluation, we demonstrate that the proposed method successfully handles a variety of outdoor scenes. Specifically, it achieves state-of-the-art results in car detection on KITTI (monocular) and nuScenes (multi-view) benchmarks among all methods that accept RGB images.
+     The proposed method operates in real-time, which makes it possible to integrate it into the navigation systems of autonomous devices. The results of this study can be used to address tasks of navigation, path planning, and semantic scene mapping.
+     </p>
+   item_keywords:  machine learning, deep learning, 3D object detection
+   item_pages: 373–384
+   item_citation: ' Rukhovich D. D. 2D-to-3D Projection for Monocular and Multi-View 3D Object Detection in Outdoor Scenes, Programmnaya Ingeneria, 2017, vol. 12, no. 7, pp. 373—384.'
+ - doi: 12.385-392
+   udk: "004.94"
+   item_authors: "Torgashev M. A., Strashnov E. V."
+   item_name: "Collision Detection of Bounding Cylinders in Virtual Environment Systems"
+   item_authors_address: |
+     <b> M. A. Torgashev</b>, mtorg@mail.ru, <b> E. V. Strashnov</b>, strashnov_evg@mail.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: "Strashnov Evgeny V., Researcher, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: strashnov_evg@mail.ru"
+   item_rec_on:  July 16, 2021
+   item_acc_on:  August 10, 2021
+   item_annot: |
+     <p> The paper proposes methods and algorithms for collision detection of bounding cylinders that surround the geometry of virtual objects. The proposed solutions are based on the separating axis theorem and analysis of possible contact interaction cases between two cylinders. The idea is to approximate the cylinders by prisms with their Gauss map to the unit sphere, which reduces the number of separating axes. Also, to compute contact points, an approach was developed based on fast geometric tests, in which polygon and segment are clipping by a prism, as a common perpendicular between line segments and a point on the circle are found. Based on methods and algorithms proposed in this work, software modules were implemented. Approbation of these modules in the virtual environment system VirSim, which was developed in Scientific Research Institute for System Analysis of the Russian Academy of Sciences, showed the adequacy and effectiveness of created methods and algorithms for real-time simulation of virtual cylindrical objects. The results obtained in this work can be used to solve many practical problems in virtual environment systems, training complexes, educational applications, animation, computer games, etc.
+     </p>
+   item_keywords: collision detection, bounding cylinder, prism, separating axis theorem, Gauss map, clipping, virtual environment system
+   item_pages: 385–392
+   item_comment: 'This research was carried out with the financial Support of the Russian Foundation for Basic Research in the framework of the Scientific project № 19-07-00387. '
+   item_citation: 'Torgashev M. A., Strashnov E. V. Collision Detection of Bounding Cylinders in Virtual Environment Systems, Programmnaya Ingeneria, 2021, vol. 12, no. 7, pp. 385—392.'
+---
