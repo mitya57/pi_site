@@ -1,0 +1,105 @@
+---
+title: Issue N8 2021 year
+content:
+ - doi: 12.395-403
+   udk: "519.684.6"
+   item_authors: "Morozov A. Yu."
+   item_name: "Parallel Adaptive Interpolation Algorithm based on Sparse Grids for Modeling Dynamic Systems with Interval Parameters"
+   item_authors_address: |
+     <b> A. Yu. Morozov</b>, morozov@infway.ru, Federal Research Center Computer Science and Control of Russian Academy of Sciences, Moscow, Moscow Aviation Institute
+   item_corr_author: 'Morozov Alexander Yu., Researcher<sup>1</sup>, Senior Lecturer<sup>2</sup>,
+   <br/><sup>1</sup>Federal Research Center "Computer Science and Control" of Russian Academy of Sciences, Moscow,
+   <br/><sup>2</sup>Moscow Aviation Institute, E-mail: morozov@infway.ru'
+   item_rec_on: July 13, 2021
+   item_acc_on: September 02, 2021
+   item_annot: |
+     <p> The paper presents a parallel algorithm for adaptive interpolation based on sparse grids for modeling dynamic systems with interval parameters. The idea of the algorithm is to construct a piecewise polynomial function that interpolates the dependence of the solution to the problem on the point values of the interval parameters. In the classical version of the algorithm, polynomial interpolation on complete grids is used, and with a large number of uncertainties, the algorithm becomes difficult to apply due to the exponential growth of computational costs. The use of sparse grids can significantly reduce the computational costs, but nevertheless the complexity of the algorithm in the general case remains exponential with respect to the number of interval parameters. In this regard, the issue of accelerating the algorithm is relevant. The algorithm can be divided into several sets of independent subtasks: updating the values corresponding to the grid nodes; calculation of weighting factors; interpolation of values at new nodes. The last two sets imply parallelization of recursion, so here the techniques for traversing the width of the call graph are mainly used. The parallel implementation of the algorithm was tested on two ODE systems containing two and six interval parameters, respectively, using a different number of computing cores. The results obtained demonstrate the effectiveness of the approaches used.
+     </p>
+   item_keywords: parallelization, OpenMP, adaptive interpolation algorithm, adaptive sparse grids, multidimensional interpolation, interval systems of ordinary differential equations, large dimensions
+   item_pages: 395–403
+   item_citation: ' Morozov A. Yu. Parallel Adaptive Interpolation Algorithm based on Sparse Grids for Modeling Dynamic Systems with Interval Parameters, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 395—403.'
+ - doi: 12.404-412
+   udk: "004.9"
+   item_authors: "Timofeev E. G., Zhukov I. A., Teplyakova A. V."
+   item_name: "Program Complex for Automated Calculation of the Geometry of Impact Units of Machines"
+   item_authors_address: |
+     <b> E. G. Timofeev</b>, veefomit77777@yandex.ru, Siberian State Industrial University, Novokuznetsk, 654007, Russian Federation, <b> I. A. Zhukov</b>, tmmiok@yandex.ru, <b> A. V. Teplyakova</b>, teplyakovanu@mail.ru, Saint-Petersburg Mining University, Saint-Petersburg, 199106, Russian Federation
+   item_corr_author: " Zhukov Ivan A., Professor, Saint-Petersburg Mining University, Saint-Petersburg, 199106, Russian Federation, E-mail: tmmiok@yandex.ru"
+   item_rec_on:  July 01, 2021
+   item_acc_on: September 01, 2021
+   item_annot: |
+     <p> Improving the designs of impact mining machines in order to increase the productivity of drilling operations requires calculations of the geometric parameters of impact units. The greatest effect when the impact is applied to the rock is given by an impact pulse corresponding to the resistance forces of the object being destroyed. In turn, the shape and parameters of the impact pulse are determined by the geometry of the colliding bodies. Analytical methods for analyzing dynamic processes in impact systems involve the use of a very complex mathematical apparatus, which does not allow us to quickly solve the problems of engineering design of machines and mechanisms. The authors of this article have developed a numerical method for calculating and analyzing impact pulses generated in the machine system by bodies of any geometric complexity. The reliability of the theoretical approaches is confirmed by the results of a physical experiment. The developed software allows you to quickly and accurately solve the problem of finding and justifying rational geometric parameters of impact nodes of machines.
+     </p>
+   item_keywords: impact machine, impact, pulse, striker shape, analysis of the geometry of the impact node, automation of the calculation of the shock pulse
+   item_pages: 404–412
+   item_citation: 'Timofeev E. G., Zhukov I. A., Teplyakova A. V. Program Complex for Automated Calculation of the Geometry of Impact Units of Machines, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 404—412.'
+ - doi: 12.413-419
+   udk: "004.89; 681.518.5"
+   item_authors: "Prokopev A. P., Nabizhanov Zh. I., Ivanchura V. I., Emelyanov R. T."
+   item_name: "On the Issue of Designing a System for Continuous Control of Road Materials Compaction for Pavers"
+   item_authors_address: |
+     <b>A. P. Prokopev</b>, prok1@yandex.ru, <b> Zh. I. Nabizhanov</b>, jasur150691@yandex.ru, <b>V. I. Ivanchura</b>, ivan43ura@yandex.ru,  <b> R. T. Emelyanov</b>, ert-44@yandex.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation
+   item_corr_author: " Prokopev Andrey P., Associate Professor, Siberian Federal University, 660041, Krasnoyarsk, Russian Federation, E-mail: prok1@yandex.ru"
+   item_rec_on:  June 17, 2021
+   item_acc_on:  September 17, 2021
+   item_annot: |
+     <p> The results of the research on the creation of an automatic compaction control system (ACCS) for pavers in real time are considered. The research is based on the methods of artificial neural networks (ANN). In this paper, an ANN model is obtained, with the help of which it is possible to determine the compaction coefficient (CC) of an asphalt mixture. The input variables of the ACCS are the velocity of movement of the paver, the frequency of impacts of the tamper, the force in the pusher of the tamper, the type of mixture, the thickness of the layer. The results of a computational experiment on the calculation of Cc in real time are presented. The ANN is able to explain more than 98 % of the measured data.</p>
+   item_keywords:  automatic control system, artificial neural networks, non-destructive technologies, compaction control, road materials
+   item_pages: 413–419
+   item_comment: 'This work was supported by the Russian Foundation for Basic Research, project no. 19-37-90052'
+   item_citation: 'Prokopev A. P., Nabizhanov Zh. I., Ivanchura V. I., Emelyanov R. T. On the Issue of Designing a System for Continuous Control of Road Materials Compaction for Pavers, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 413—419.'
+ - doi: 12.420-424
+   udk: "519.237.5"
+   item_authors: "Galatenko V. A., Kostyukhin K. A., Levchenkova G. L."
+   item_name: "Integrity as an Aspect of Information Security: an Overview of Modern Apрroaches"
+   item_authors_address: |
+     <b> V. A. Galatenko</b>, galat@niisi.ras.ru, <b>  K. A. Kostyukhin</b>, kost@niisi.ras.ru, <b> G. L. Levchenkova</b>, galka@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: 'Kostyukhin Konstantin A., Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on:  August 04, 2021
+   item_acc_on:  August 13, 2021
+   item_annot: |
+     <p> There are three main aspects of the information security:
+     • confidentiality;
+     • availability;
+     • integrity.
+     Nowadays ensuring the confidentiality has ceased to be the dominant requirement, but privacy as an element of confidentiality (or as an independent aspect) attracts, perhaps, the greatest attention both at the legislative (personal data protection) and at the technical (depersonalization of big data) levels.
+     The Internet of Things has defined a new level of accessibility requirements. Network access has come to the fore, without it a (too) smart kettle will not boil water. (Attempts to block some Internet resources led to similar everyday problems.)
+     The number of entities whose integrity needs to be ensured has grown. These are data flows, hardware configurations, logistics chains, and much more. Integrity began to be understood not only as security against unauthorized modification, but also as the quality of data, their completeness and validity. This was the reason for writing this article. In our opinion, there is no systematic presentation of modern approaches to ensuring integrity in the literature and therefore it would be appropriate.
+     It makes no sense to rank the aspects of information security according to their importance, but we would like to emphasize the role of integrity. Integrity turns out to be the most important aspect of information security in those cases when information is a "guide to action" and serves to make decisions. The prescription of medicines, prescribed medical procedures, the set and characteristics of components, the course of the technological process — all these are examples of information, the violation of the integrity of which can literally be fatal. It is also unpleasant to distort official information, whether it is the text of the law or the page of the website of a government organization. Compromising the integrity of the electronic voting process casts doubt on the legitimacy of the authorities. Unauthorized influence on financial flows leads to material losses. Distortion of navigation data can lead to accidents. The article is an overview of modern approaches to ensuring integrity as an aspect of information security. An attempt is made to analyze the relevant models, policies and security mechanisms, as well as their application in different subject areas.
+     </p>
+   item_keywords:  information security, integrity, security mechanisms, security models, security policies, data quality
+   item_pages: 420–424
+   item_citation: ' Galatenko V. A., Kostyukhin K. A., Levchenkova G. L. Integrity as an Aspect of Information Security: an Overview of Modern Apрroaches, Programmnaya Jngeneria, 2021, vol. 12, no. 8, pp. 420—424.'
+ - doi: 12.425-430
+   udk: "004:519.688"
+   item_authors: "Ivanova K. F."
+   item_name: "Fractal Analysis of Interval Series of Prime Numbers"
+   item_authors_address: |
+     <b> K. F. Ivanova</b>, Klara.i2010@yandex.ru, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation
+   item_corr_author: "Ivanova Klara F., Postdoctorant, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation, E-mail: Klara.i2010@yandex.ru"
+   item_rec_on:  April 17, 2021
+   item_acc_on:  August 25, 2021
+   item_annot: |
+     <p> The paper presents a fractal analysis of interval series, the members of which are consecutive deviations of natural prime numbers. Fractal analysis, which has been in full force since the end of the last century, has made it possible to identify new, unusual properties of geometric and physical objects and processes, including predicting the behavior of time and spatial series. The combination of two structural blocks - the spatial interval series of increasing power and the fractal set made it possible to apply the fractal technique to the study of the sequence of intervals. With its help, the idea of the phenomenon of intervals of prime numbers as a structure that does not contradict the nature of most natural phenomena is expanded. Using the Hurst method and scaling it is established that the appearance of intervals of prime numbers is not random. With restrictions on the available computer memory, criteria-based estimates of interval series of different capacities were carried out and it was found that they have the properties of scale invariance, multifractality and self-similarity. The performed estimates confirm that the continuum of primes at all scale levels belongs to fractal sets.
+     </p>
+   item_keywords: primes, deviations, interval series, criterion estimates, self-similarity, fractal analysis, fractal dimension, Hurst index
+   item_pages: 425–430
+   item_citation: 'Ivanova K. F. Fractal Analysis of Interval Series of Prime Numbers, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 425—430.'
+ - doi: 12.431-439
+   udk: "004.75+004.41"
+   item_authors: "Shundeev A. S."
+   item_name: "Towards an Adaptive Educational Course on the Mathematical Foundations of Machine Learning"
+   item_authors_address: |
+     <b> A. S. Shundeev</b>, alex.shundeev@gmail.com, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: "Shundeev Aleksandr S., Leading Researcher, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, E-mail: alex.shundeev@gmail.com"
+   item_rec_on:  July 27, 2021
+   item_acc_on:  August 13, 2021
+   item_annot: |
+     <p> Today the development of information technology is closely related to the creation and application of machine learning and data analysis methods. In this regard, the need for training specialists in this area is growing.
+     Very often, the study of machine learning methods is combined with the study of a certain programming language and the tools of its specialized library. This approach is undoubtedly justified, because it provides the possibility of accelerated application of the knowledge gained in practice. At the same time, it should be noted that with this approach, it is rather not machine learning methods that are studied, but a certain set of methodological techniques for using the tools of the specialized library.
+     The presented work is devoted to the experience of creating an adaptive educational course on the mathematical foundations of machine learning. This course is aimed at undergraduate and graduate students of mathematical specialties. It is divided into core and variable parts. The obligatory core part is built around the PAC learning model and the binary classification problem. Within the variable part, issues of the weak learning model and the boosting methods are considered. Also a methodology of changing the variable part of the course is discussed.
+     </p>
+   item_keywords: educational course, machine learning, PAC learning, boosting
+   item_pages: 431–439
+   item_citation: 'Shundeev A. S. Towards an Adaptive Educational Course on the Mathematical Foundations of Machine Learning, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 431—439.'
+---
