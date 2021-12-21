@@ -1,0 +1,90 @@
+---
+title: Issue N9 2021 year
+content:
+ - doi: 12.443-449
+   udk: "004.724"
+   item_authors: "Khleborodov D. S."
+   item_name: "High-Granular Micro-Segmentation in Campus Networks based on Downloadable Access Control Lists"
+   item_authors_address: |
+     <b> D. S. Khleborodov </b>, dkhleborodov@gmail.com, Business Ecosystems, Skolkovo, Russia Territory of the Skolkovo innovation center, Moscow, 143026, Russian Federation
+   item_corr_author: " Khleborodov Denis S., PhD in Physics and Mathematics, CEO, Business Ecosystems, Skolkovo, Russia Territory of the Skolkovo innovation center, Moscow, 143026, Russian Federation, E-mail: dkhleborodov@gmail.com"
+   item_rec_on:  April 26, 2021
+   item_acc_on:  October 18, 2021
+   item_annot: |
+     <p> Micro-segmentation of local networks is an important element of network security. The main goal of micro-segmentation of network is to reduce a risk of compromising hosts during a cyber-attack.
+     In micro-segmented networks, if one of the hosts has been compromised, the malicious code or attacker will be limited in the "horizontal" actions by the micro-segment to which the compromised host belongs. Existing methods of micro-segmentation of networks have operational drawbacks that impede their effective practical application.
+     This article presents a new method of micro-segmentation of local wired and wireless networks based on downloadable and wireless access control lists, which allows to achieve a high level of granularity of network access policies by minimizing the microsegment, along with high operational characteristics.
+     </p>
+   item_keywords: network segmentation, network micro-segmentation, ACL, wireless ACL, dACL, wACL, downloadable access control lists, wireless access control lists
+   item_pages: 443–449
+   item_citation: 'Khleborodov D. S High-Granular Micro-Segmentation in Campus Networks based on Downloadable Access Control Lists, Programmnaya Ingeneria, 2021, vol. 12, no. 9, pp. 443– 449.'
+ - doi: 12.450-458
+   udk: "004.94"
+   item_authors: "Persova M. G., Soloveichik Yu. G., Grif A. M."
+   item_name: "Flow Balancing in Modeling of Multi-Phase Flow using Non-Conformal Finite Element Meshes"
+   item_authors_address: |
+     <b> M. G. Persova</b>, persova@ami.nstu.ru, <b> Yu. G. Soloveichik</b>, soloveychik@ami.nstu.ru, <b> A. M. Grif</b>, grif.2013@stud.nstu.ru, Novosibirsk State Technical University, Novosibirsk, 630073, Russian Federation
+   item_corr_author: " Grif Alexander M., Junior Researcher, Novosibirsk State Technical University, Novosibirsk, 630073, Russian Federation, E-mail: alexgrif@inbox.ru"
+   item_rec_on: September 14, 2021
+   item_acc_on: October 13, 2021
+   item_annot: |
+     <p> The method of balancing numerical finite element flows in modeling a process of multiphase flow using non-conformal hexagonal meshes is considered. Studies have been carried out for a simple reservoir configuration and on a more complex model of a real field of high-viscosity oil in the Tatarstan. The research results showed that the balancing method allows one to obtain a conservative solution when using non-conformal finite element meshes with sufficiently large cells. At the same time, this method is completely free of problems associated with grid orientation, even for complex models containing zones with highly variable permeability. The proposed algorithm for the adaptive choice of parameters allows to do the factorization of the SLAE matrix at sufficiently small number of time steps; therefore, the computational costs of the flow balancing procedure are an order of magnitude less than the costs associated with calculating the pressure field and phase transfer. The used non-conformal finite element meshes with an arbitrary number of docked hexagons can significantly reduce the number of degrees of freedom when modeling multiphase flows in reservoirs with much small local heterogeneity and in the presence of several perforated zones. As a result, computational costs are reduced by almost an order of magnitude, and, at the same time, the required approximation accuracy is maintained. With an increase in the scale of the model and the number of operating wells, this advantage increases even more.
+     </p>
+   item_keywords: modeling of oil and gas reservoirs; multiphase flow in porous media; finite element method; continuous Galerkin method; balancing flows; non-conformal meshes
+   item_pages: 450–458
+   item_comment: ' This work was financially supported by the Ministry of Science and Higher Education of the Russian Federation (Research Laboratory "Modeling and data processing of high technologies", the project code is FSUN-2020-0012)'
+   item_citation: 'Persova M. G., Soloveichik Yu. G., Grif A. M. Flow Balancing in Modeling of Multi-Phase Flow using Non-Conformal Finite Element Meshes, Рrogrammnaya Ingeneria, 2021, vol. 12, no. 9, pp. 450—458.'
+ - doi: 12.459-469
+   udk: "004.8, 004.93"
+   item_authors: "Rukhovich D. D."
+   item_name: "2D-to-3D Projection for Monocular and Multi-View 3D Multi-class Object Detection in Indoor Scenes"
+   item_authors_address: |
+     <b> D. D. Rukhovich</b>, daniel-rukhovich@yandex.ru, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation
+   item_corr_author: " Rukhovich Danila D., Postgraduate Student, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119234, Russian Federation, E-mail: daniel-rukhovich@yandex.ru"
+   item_rec_on:  August 24, 2021
+   item_acc_on:  September 17, 2021
+   item_annot: |
+     <p> In this paper, we propose a novel method of joint 3D object detection and room layout estimation. The proposed method surpasses all existing methods of 3D object detection from monocular images on the indoor SUN RGB-D dataset. Moreover, the proposed method shows competitive results on the ScanNet dataset in multi-view mode. Both these datasets are collected in various residential, administrative, educational and industrial spaces, and altogether they cover almost all possible use cases.
+     Moreover, we are the first to formulate and solve a problem of multi-class 3D object detection from multi-view inputs in indoor scenes.
+     The proposed method can be integrated into the controlling systems of mobile robots. The results of this study can be used to address a navigation task, as well as path planning, capturing and manipulating scene objects, and semantic scene mapping.</p>
+   item_keywords:  machine learning, deep learning, 3D object detection
+   item_pages: 459–469
+   item_citation: 'Rukhovich D. D. 2D-to-3D Projection for Monocular and Multi-View 3D Multi-class Object Detection in Indoor Scenes, Programmnaya Ingeneria, 2021, vol. 12, no. 9, pp. 459—469.'
+ - doi: 12.470-474
+   udk: "004.5"
+   item_authors: " Turovsky Ya. A., Borzunov S. V., Vahtin A. A."
+   item_name: "An Algorithm for Evaluating the Results of Statistical Analysis of Biomedical Data under the Conditions of the Effect of Multiple Comparisons"
+   item_authors_address: |
+     <b> Ya. A. Turovsky<sup>1,2</sup></b>, Yaroslav_turovsk@mail.ru, <b> S. V. Borzunov<sup>2</sup></b>, sborzunov@gmail.com, <b> A. A. Vahtin<sup>2</sup></b>, alvahtin@gmail.com
+     <br/><sup>1</sup>	V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation
+     <br/><sup>2</sup>	Voronezh State University, Voronezh, 394018, Russian Federation
+   item_corr_author: " Turovsky Yaroslav A., Principal Researcher, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences Moscow, 117997, Russian Federation, Head of Lab., Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: Yaroslav_turovsk@mail.ru"
+   item_rec_on:  September 06, 2021
+   item_acc_on:  October 15, 2021
+   item_annot: |
+     <p> The paper proposes an algorithm for assessing the significance of differences in the problem of managing research design under the conditions of the effect of multiple comparisons. Using the example of the problem of comparing data coming from paired channels of an electroencephalograph, the application of the algorithm is described.
+     </p>
+   item_keywords:  multiple comparisons, significance assessment, electroencephalogram, study design
+   item_pages: 470–474
+   item_comment: ' The reported study was funded by RFBR according to the research project no. 19-29-01156_мк'
+   item_citation: 'Turovsky Ya. A., Borzunov S. V., Vahtin A. A. An Algorithm for Evaluating the Results of Statistical Analysis of Biomedical Data under the Conditions of the Effect of Multiple Comparisons, Programmnaya Ingeneria, 2021, vol. 12, no. 9, pp. 470—474.'
+ - doi: 12.475-489
+   udk: "004.4, 004.9, 681.5"
+   item_authors: "Kachanova O. A., Levonevskiy D. K."
+   item_name: "Software Architecture of an Automated Greenhouse Complex based on Cloud Technologies"
+   item_authors_address: |
+     <b> O. A. Kachanova</b>, kachanova.o@iias.spb.su, <b> D. K. Levonevskiy</b>, DLewonewski.8781@gmail.com, St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
+   item_corr_author: "Levonevskiy Dmitriy К., PhD, Senior Researcher, St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation, E-mail: DLewonewski.8781@gmail.com"
+   item_rec_on:  June 07, 2021
+   item_acc_on:  October 13, 2021
+   item_annot: |
+     <p> To grow crops in greenhouse complexes, it is necessary to maintain the microclimatic conditions required for these crops and monitor them. Automation of these processes is an urgent task, and for its solution it is necessary to use both hardware and software. The paper proposes a cloud service architecture for managing robotic vertical farms, which allows for reliable two-way data transfer between the greenhouse modules and the operator and can be used for growing crops both in vertical hydroponic installations and in single-level greenhouses of greenhouses. The business processes are described that allow you to understand and evaluate the principles of organizing monitoring and management of cultivation. On the basis of the developed architecture, software has been implemented, which has been tested in the tasks of managing the greenhouse complex and obtaining data on the microclimate. Thanks to the use of wireless networks, the absence of restrictions on the type and location of modules, duplication of functionality and data replication, such a system can be considered flexible in use and scalable.
+     </p>
+   item_keywords: cloud services, software architecture, automated greenhouse complexes, cyber-physical systems, microclimate control
+   item_pages: 475–489
+   item_citation: 'Kachanova O. A., Levonevskiy D. K. Software Architecture of an Automated Greenhouse Complex based on Cloud Technologies, Programmnaya Ingeneria, 2021, vol. 12, no. 9, pp. 475—489.'
+ - doi:
+   link: 10.490-491
+   item_name: "Index of articles published in the journal 'Software Engineering' in 2021"
+   item_pages: 490–491
+---
