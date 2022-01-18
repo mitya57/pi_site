@@ -1,0 +1,67 @@
+---
+title: Issue N1 2022 year
+content:
+ - doi: 13.3-16
+   udk: "004.2+004.4"
+   item_authors: "Korneev V. V."
+   item_name: "Parallel Programming"
+   item_authors_address: |
+     <b> V. V. Korneev</b>, korv@rdi-kvant.ru, Research and Development Institute Kvant, Moscow, 125438, Russian Federation
+   item_corr_author: 'Korneev Victor V., Principal Researcher, Research and Development Institute "Kvant", Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru'
+   item_rec_on:  November 11, 2021
+   item_acc_on:  November 22, 2021
+   item_annot: |
+     <p> As a source for the introduction of parallel programming models, the article substantiates the development of the technology of VLSI and the corresponding change in the architecture of computing systems in the direction of increasing the parallelism of processing. That is, if the architecture changes significantly, then the parallel programming model should change in order to reduce the difficulty of effectively mapping program to hardware resources. A model of parallel programming on shared memory and synchronization based on FE-bits of shared memory words is considered. The architecture of the computing system of the exaflops performance level is also proposed, for which the considered programming model is adequate. The article tries to convey to the reader that this architecture originated as a synthesis of the development of VLSI technology, architecture of parallel systems and high-production parallel programming. It is indicated that when implementing the proposed architecture and programming model, an architecture with data flow processing is implemented. A parallel programming model for computing systems with local connections and optimal graphs of machine-to-machine connections are presented.
+     </p>
+   item_keywords: VLSI, architecture, parallel programming model, data flow processing, interconnection graph
+   item_pages: 3–16
+   item_citation: ' Korneev V. V. Parallel Programming, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 3—16.'
+ - doi: 13.17-31
+   udk: "004.414.38"
+   item_authors: "Kodubets A. A."
+   item_name: "Requirements Management Tools for Software Systems: A Systematic Tools Review"
+   item_authors_address: |
+     <b> A. A. Kodubets</b>, e-mail: alexey@kodubets.ru, Far Eastern Federal University, Vladivostok, 690922, Russian Federation
+   item_corr_author: "Kodubets Alexey A., Postgraduate Student, Far Eastern Federal University, Vladivostok, 690922, Russian Federation, E-mail: alexey@kodubets.ru"
+   item_rec_on:  October 25, 2021
+   item_acc_on:  November 18, 2021
+   item_annot: |
+     <p> This article contains a systematic review of Requirements Management tools (RM tools) for Software Systems. A research question was defined as the following: requirements development process of large-scale software system (with thousands of requirements) and an interaction problem during this process (communication, coordination and control). The problem is caused by the fact that the requirements development process is a cross-disciplinary task and it involves multiple parties — stakeholders, domain experts, and suppliers with own goals and constraints, and thus, the interaction between them seriously slows down the overall requirements development process more than writing the requirements specification itself. The tools were classified into the following classes: Requirements Management Tools, ALM/PLM/SDLC Tools, Model-based System Engineering tools with Requirements support, Natural Language based tools for Requirements Engineering, WYSIWYG-prototyping and Requirements platform, Open Source tools, and tools developed by Russian vendors. Each tool class was described and represented with list of relevant tools — including feature-rich solutions, and a description of key features. A contribution of functionality from each tool into the research question was analyzed and summarized including potential further improvement steps. Advantages and disadvantages of the existing RM tools were represented in this work. To approach the research question, further potential directions were described.</p>
+   item_keywords: requirements engineering, requirements management tools, large-scale software systems
+   item_pages: 17–31
+   item_citation: 'Kodubets A. A. Requirements Management Tools for Software Systems: A Systematic Tools Review, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 17—31.'
+ - doi: 13.32-40
+   udk: "004.65"
+   item_authors: "Kurako E. A., Orlov V. L."
+   item_name: "On the Issue of Migrating Databases from Oracle to PostgreSQL"
+   item_authors_address: |
+     <b> E. A. Kurako</b>, keaipu@yandex.ru, <b> V. L. Orlov</b>, ovl@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: " Kurako Evgeny A., Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: keaipu@yandex.ru"
+   item_rec_on:  October 19, 2021
+   item_acc_on:  November 18, 2021
+   item_annot: |
+     <p> The methods of data transfer from Oracle to PostgreSQL environment are considered, taking into account the step-by-step organization of actions and deter-mining the sequence of migration. The main directions for the transformation of the structure of databases, data formats and executed objects are highlighted. New methods and programs for converting the structure and formats in automatic mode are proposed. The methods of transformation of stored procedures and triggers written in procedural languages, which are PL/SQL and PL/PGSQL, are defined. For cases of possible ambiguous translation, programs have been developed that form hints that facilitate manual operation.
+     The task of managing transactions inside stored functions in PostgreSQL is difficult. If such transactions are possible for Oracle, then in the PostgreSQL environment, it is necessary to organize them only in external code. They are usually published on computers that work directly with the database server. In this case, the division of the original function into several functions is used, each of which is responsible for its own transaction block. Each such function is called from external code.
+     The issues of changing software on nodes directly connected (interfaced) with the database server and the issues of minimizing stops during migration are considered, which makes it possible to carry out migration for geographically distributed and round-the-clock functioning objects. Examples of changes in the speed of execution of requests before and after migration for various types of systems are given. </p>
+   item_keywords:  database, DBMS, Oracle, PostgreSQL, migration, structure, data, function, stored procedures, PL/SQL, PL/pgSQL
+   item_pages: 32–40
+   item_citation: 'Kurako E. A., Orlov V. L. On the Issue of Migrating Databases from Oracle to PostgreSQL, Programmnaya Ingeneria,2022, vol. 13, no. 1, pp. 32—40.'
+ - doi: 13.41-48
+   udk: "004.942"
+   item_authors: "Avdeev E. V."
+   item_name: "On some Aspects of the Refinement of the Temperature Distribution in the Developed Software Toolkit for Modeling Powder Heating by a Laser"
+   item_authors_address: |
+     <b> E. V. Avdeev</b>, j-avdeev@yandex.ru, Samara National Research University, Samara, 443086, Russian Federation
+   item_corr_author: "Avdeev Evgeniy V., Assistant, Samara National Research University, Samara, 443086, Russian Federation, E-mail: j-avdeev@yandex.ru"
+   item_rec_on:  October 31, 2021
+   item_acc_on:  November 17, 2021
+   item_annot: |
+     <p> Nowadays, the use of additive manufacturing is gaining popularity. The cost of product manufacturing with additive manufacturing (AM) in large-scale production is usually higher than the traditional technologies (for example, casting, milling), therefore AM is often used for prototyping and small-scale production.
+     The paper presents results of powder heating by a laser beam modeling, powder melting modeling, and area-bath melt formation. The presented results are part of the work of solver development for modeling the selective laser melting (SLM) process. SLM technology makes it possible to manufacture a product with a complex shape in a fairly short time. As a material SLM provides for the use of powder metals and alloys, including titanium, aluminum, stain­less steel. In this case, the shape of the manufactured parts is often prone to deformations and cracks. The reason for the deformation is the presence of inherited stresses due to cyclic uneven heating and cooling, arising during layer-by-layer melting of powder particles. To solve this problem, it was decided to develop a software tool that would analyze the manufacturing process and correct it, reducing the occurrence of residual stresses.
+     The article presents the results of modeling and calculating the geometric size of the melt pool in a dynamic setting. A comparison is made between the results obtained in the course of this work and the results of expe­riments.
+     Modeling the selective fusion process entails high computational costs. The article presents a method based on mesh adaptation, which allows to reduce the computational costs of modeling. The analysis of the effectiveness of this method is carried out..
+     </p>
+   item_keywords: selective laser melting, selective laser melting, SLM, additive technologies, OpenFOAM
+   item_pages: 41–48
+   item_citation: ' Avdeev E. V. On some Aspects of the Refinement of the Temperature Distribution in the Developed Software Toolkit for Modeling Powder Heating by a Laser, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 41—48.'
+---
