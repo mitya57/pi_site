@@ -1,0 +1,80 @@
+---
+title: Issue N2 2022 year
+content:
+ - doi: 13.51-67
+   udk: "519.714"
+   item_authors: "Bibilo P. N., Romanov V. I."
+   item_name: "Experimental Study of Algorithms for Minimization of Binary Decision Diagrams using Algebraic Representations of Cofactors"
+   item_authors_address: |
+     <b> Bibilo P. N. </b>, bibilo@newman.bas-net.by, <b> V. I. Romanov</b>, rom@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: "Bibilo Petr N., Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, 220012, Minsk, Belarus, E-mail: bibilo@newman.bas-net.by"
+   item_rec_on:  October 25, 2021
+   item_acc_on:  December 07, 2021
+   item_annot: |
+     <p> BDD (Binary Decision Diagram) is used for technology-independent optimization, performed as the first stage in the synthesis of logic circuits in the design of ASIC (application-specific integrated circuit). BDD is an acyclic graph defining a Boolean function or a system of Boolean functions. Each vertex of this graph is associated with the complete or reduced Shannon expansion formula. Binary decision diagrams with mutually inverse subfunctions (cofac-tors) are considered. We have developed algorithms for finding algebraic representations of cofactors of the same BDD level in the form of a disjunction or conjunction of other inverse or non-inverse cofactors of the same BDD level. The algorithms make it possible to reduce the number of literals by replacing the Shannon expansion formulas with simpler logical formulas and to reduce the number of literals in the description of a system of Boolean functions. We propose to use the developed algorithms for an additional logical optimization of the constructed BDD representations of systems of Boolean functions. Experimental results of the application of the corresponding programs in the synthesis of logic circuits in the design library of custom VLSI CMOS circuits are presented.
+     </p>
+   item_keywords: system of Boolean functions, Disjunctive Normal Form, Binary Decision Diagram, Shannon expansion, digital logic synthesis, VHDL, VLSI
+   item_pages: 51–67
+   item_citation: ' Bibilo P. N., Romanov V. I. Experimental Study of Algorithms for Minimization of Binary Decision Diagrams using Algebraic Representations of Cofactors, Programmnaya Ingeneria, 2022, vol. 13, no. 2, pp. 51—67.'
+ - doi: 13.68-80
+   udk: "004.056"
+   item_authors: "Vulfin A. M."
+   item_name: "Detection of Network Attacks in a Heterogeneous Industrial Network Based on Machine Learning"
+   item_authors_address: |
+     <b> A. M. Vulfin</b>  , vulfin.alexey@gmail.com, Ufa State Aviation Technical University
+   item_corr_author: "Vulfin Aleksey M., Associate Professor, Ufa State Aviation Technical University, E-mail: vulfin.alexey@gmail.com"
+   item_rec_on:  January 25, 2021
+   item_acc_on:  December 15, 2021
+   item_annot: |
+     <p> The paper discusses the issues of improving algorithms for detecting network attacks in a heterogeneous industrial Internet of Things network based on machine learning technologies for subsequent integration with the subsystems of the center for monitoring and responding to information security incidents. A structural diagram of a network attack detection system and an algorithm for intelligent analysis of network traffic parameters in the task of detecting malicious network activity have been developed. Variants of constructing ensembles of classifiers based on machine learning models and heterogeneous neural network models are analyzed. The F1-measure score when working with test samples reaches 96 %. The possibility of embedding the obtained models as modules of network equipment to increase the efficiency of the analysis of network traffic of industrial systems or use as part of a network intrusion detection system is considered. The efficiency of the obtained solutions in assessing the quality of network attack detection on the original datasets is comparable for the tested models. The most promising for use in specialized signal processors of network equipment is a classifier based on a committee of random trees, since it provides good quality detection of network attacks and does not require significant computing resources when launching a model with coefficients selected during training. Monitoring the state of information and network infrastructure is implemented on the basis of a deployed solution based on the ELK stack. A virtual testing ground has been developed to assess the effectiveness of ML-models for detecting network attacks. Further research is aimed at developing a methodology for testing models in various scenarios for the implementation of targeted multi-step network attacks.</p>
+   item_keywords: network attacks, machine learning, data mining, ensemble of classifiers, heterogeneous industrial network, monitoring and response to information security incidents
+   item_pages: 68–80
+   item_citation: 'Vulfin A. M. Detection of Network Attacks in a Heterogeneous Industrial Network Based on Machine Learning, Programmnaya Ingeneria, 2022, vol. 13, no. 2, pp. 68—80.'
+ - doi: 13.81-87
+   udk: "004.5"
+   item_authors: "Chitalov D. I."
+   item_name: "On the Development of a Module for Working with the buoyantSimpleFoam Solver and the postProcess Utility of the OpenFOAM Platform"
+   item_authors_address: |
+     <b> D. I. Chitalov</b>, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk Region, Miass, Ilmen reserve, 456317, Russian Federation
+   item_corr_author: " Chitalov Dmitry I., Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk Region, Miass, Ilmen reserve, 456317, Russian Federation E-mail: cdi9@yandex.ru"
+   item_rec_on:  December 19, 2021
+   item_acc_on:  December 27, 2021
+   item_annot: |
+     <p> The paper summarizes the results of research on the development of a software module that expands the source code of the OpenFOAM platform in terms of providing a specialist with access to new possibilities of a numerical ex­periment in relation to problems of continuum mechanics. The module provides the user with graphical and software tools for working with the buoyantSimpleFoam solver and postProcess utility. This work contains a description of the shortcomings of existing software solutions - analogs, the urgency of the problem under study is formulated. The author has set goals and defined the tasks necessary to achieve them. A description of the operation of the postProcess utility and the buoyantSimpleFoam solver is given, as well as the structure and parameters of the corresponding dictionary files of the design case. The author presents a set of technologies necessary for the implementation of the capabilities of a software module, typing, debugging and testing its program code. The performance of the developed software solution has been tested on the example of one of the fundamental problems of continuum mechanics, and the results of testing are presented. Based on the results of the study, the final conclusions are presented, as well as information on the scientific novelty and potential practical significance of the study. </p>
+   item_keywords:  numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python, open source software, postProcess utility, buoyantSimpleFoam solver, PyQt
+   item_pages: 81–87
+   item_citation: ' Chitalov D. I. On the Development of a Module for Working with the buoyantSimpleFoam Solver and the postProcess Utility of the OpenFOAM Platform, Programmnaya Ingeneria, 2022, vol. 13, no. 2, рр. 81—87.'
+ - doi: 13.88-93
+   udk: "004.514.2"
+   item_authors: "Korotysheva A. A., Zhukov S. N."
+   item_name: "Implementation of Augmented Reality Algorithms in Road Transport Navigation Using Open Services"
+   item_authors_address: |
+     <b> A. A. Korotysheva</b>, ania.korotishewa@yandex.ru, S. N. Zhukov, jsn@rf.unn.ru, National Research Lobachevsky State University of Nizhny Novgorod, Nizhny Novgorod, 603950, Russian Federation
+   item_corr_author: "Korotysheva Anna A., Masters Degree Student, National Research Lobachevsky State University of Nizhny Novgorod, 603950, Russian Federation, E-mail: ania.korotishewa@yandex.ru"
+   item_rec_on:  September 24, 2021
+   item_acc_on:  November 17, 2021
+   item_annot: |
+     <p> In the modern world, vehicle drivers use geographic information systems (GIS) — based navigators instead of the conventional paper maps to build traffic routes. One of the promising branches in this area is the use of augmented reality (AR) technology and head-up display (HUD) technology in the form of information projection onto the windshield of a car. The development and implementation of augmented reality algorithms together with the implementation of HUD technology is an urgent task to solve the problem of improving road safety. The objective of the study is to optimize the algorithm for constructing traffic routes for a car using geographic information services and augmented reality technology with projection of information onto the windshield of a car. In the present paper, an algorithm for visualizing objects with dynamic parameters functionally dependent on geographic information data using OpenStreet-Map and OSRM (Open Street Routing Machine) services is proposed and implemented as a software. Features of route optimization in OSRM based on efficient Contraction Hierarchies algorithm are shown, which has a number of advantages compared to commonly used Dijkstra and A* route construction algorithms — higher speed, less memory requirements, a relatively fast preprocessing. The simulation results are provided. Possibilities and prospects of using the proposed algorithm in the software of the vehicle navigation system are presented. The developed algorithm using geographic information services and augmented reality technology with the projection of information onto the windshield of a car makes it possible to optimize the route construction process. The interactive interface of the augmented reality visualization program with the projection of route indicators and other important information onto the windshield of a car has the integrated effect of combining the advantages of AR, HUD technologies and geographic information services. The use of the interface in the vehicle navigation system will help to improve traffic safety.
+     </p>
+   item_keywords: information technology, object visualization, augmented reality, visualization algorithms, geographic information data, geographic information system, graphic primitives
+   item_pages: 88–93.
+   item_citation: 'Korotysheva A. A., Zhukov S. N. Implementation of Augmented Reality Algorithms in Road Transport Navigation Using Open Services, Programmnaya Ingeneria, 2022, vol. 13, no. 2, pp. 88—93.'
+ - doi: 13.94-101
+   udk: "519.684.6"
+   item_authors: "Kapralov N. S., Morozov A. Yu., Nikulin S. P."
+   item_name: "Parallel Approximation of Multivariate Tensors using GPUs"
+   item_authors_address: |
+     <b> N. S. Kapralov</b><sup>1,2</sup>, nskaprl@gmail.com, <b> A. Yu. Morozov</b> <sup>1,3</sup>, morozov@infway.ru, <b> S. P. Nikulin</b> <sup>1</sup>, sergeynp@yandex.ru
+     <br/><sup>1</sup> Moscow Aviation Institute (MAI), Moscow, Russian Federation
+     <br/><sup>2</sup> Deutsche Bank Technology Center, Moscow, Russian Federation
+     <br/><sup>3</sup> Federal Research Center "Computer Science and Control" of Russian Academy of Sciences (FRC CSC RAS), Moscow, Russian Federation
+   item_corr_author: 'Morozov Alexander Yu., Senior Lecturer, Moscow Aviation Institute (MAI), Moscow, Russian Federation, Researcher, Federal Research Center "Computer Science and Control" of Russian Academy of Sciences (FRC CSC RAS), Moscow, Russian Federation, E-mail: morozov@infway.ru'
+   item_rec_on:  December 16, 2021
+   item_acc_on:  December 28, 2021
+   item_annot: |
+     <p> When solving many applied and research problems, it becomes necessary to work with multidimensional arrays (tensors). In practice, an efficient and compact representation of these objects is used in the form of so-called ten­sor trains. The paper considers a parallel implementation of the TT-cross algorithm, which allows one to obtain a decomposition of a multidimensional array into a tensor train using a graphics processor of the CUDA architecture. The main aspects and features of parallelization and implementation of the algorithm are presented. The obtained parallel implementation was tested on a representative number of examples. A significant reduction in computational time is demonstrated in comparison with a similar sequential implementation of the algorithm, which indicates the effectiveness of the proposed approaches to parallelization.
+     </p>
+   item_keywords: parallelization, tensor train, tensor decomposition, high dimensions, curse of dimensionality, multidimensional arrays, cross approximation, TT-cross, maxvol, low-rank approximation, CUDA, GPU, Nvidia
+   item_pages: 94–101
+   item_citation: ' Kapralov N. S., Morozov A. Yu., Nikulin S. P. Parallel Approximation of Multivariate Tensors using GPUs, Programmnaya Ingeneria, 2022, vol. 13, no. 2, pp. 94—101.'
+---
