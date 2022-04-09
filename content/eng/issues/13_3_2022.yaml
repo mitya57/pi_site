@@ -1,0 +1,95 @@
+---
+title: Issue N3 2022 year
+content:
+ - doi: 13.107-118
+   udk: "004.75"
+   item_authors: "Zatuliveter Yu. S., Fishchenko E. A."
+   item_name: "Synergy of Digital Universality of the Global Computer Environment"
+   item_authors_address: |
+     <b> Yu. S. Zatuliveter</b>, zvt@ipu.rssi.ru, <b> E. A. Fishchenko</b>, elena.fish@mail.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: "Zatuliveter Yury S., Ph.D. of Engineering Sciences, Leading Researcher, Senior Research Officer, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: zvt@ipu.rssi.ru"
+   item_rec_on:  December 14, 2021
+   item_acc_on:  January  28, 2022
+   item_annot: |
+     <p> The global computer environment (GCE) as a whole is considered an object of research. The system-wide as­pects of implementing the digital transformation of the sociotechnosphere through the GCE are analyzed. Factors of the destructive influence of the fundamental system-technical laws of the spontaneous growth of the GCE on the functioning/development of the sociotechnosphere are presented. Special attention is paid to the study of the features of the apperance of a positive synergetic network effect, expressed by Metcalfs law, in the conditions of the initially open intra-system heterogeneity of the network resources of the existing GCE. It is established that with the increase in the size of large distributed systems implemented in the GCE, the factor of heterogeneity of network resources becomes a source of negative (system-destructive) network synergy, which devalues the positive synergy of Metcalfs law. Examples of ecosystems implemented in the GCE through cloud technologies are considered. It is shown that in the conditions of initially open heterogeneity of network resources, the further increase in the size of large distributed systems leads to an insurmountable increase in the complexity of the system-functional integra­tion of network resources and an uncontrolled decrease in the stability of the sociotechnosphere. The principles of conceptual reengineering the GCE are presented to eliminate the causes of systemic heterogeneity and seamless/ cybersecurity distribution of algorithmic universality, closed in intracomputer resources, to any arbitrarily large subset of GCE computers. Such reengineering will allow neutralizing the negative synergy and maximizing the positive synergy of the Metcalf effect in large distributed systems without restrictions on their size.
+     </p>
+   item_keywords: computer environment, development trends, sociotechnosphere, digital transformation, positive network synergy, Metcalfs law, heterogeneity of network resources, negative synergy, cloud systems, conceptual reengineering, model of globally universal distributed computing, unified algorithmic space, seamless programming, cybersecurity
+   item_pages: 107–118
+   item_citation: ' Zatuliveter Yu. S., Fishchenko E. A. Synergy of Digital Universality of the Global Computer Environment, Programmnaya Ingeneria, 2022, vol. 13, no. 3, pp. 107—118.'
+ - doi: 13.119-123
+   udk: "519.682.6"
+   item_authors: "Sergievskiy M. V."
+   item_name: "Metaclasses in UML and in Programming Languages"
+   item_authors_address: |
+     <b> M. V. Sergievskiy</b>, sermax@yandex.ru, National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), Moscow, 115409, Russian Federation
+   item_corr_author: " Sergievskiy Maxim V., Associated Professor, National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), Moscow, 115409, Russian Federation, E-mail: sermax@yandex.ru"
+   item_rec_on:  January 16, 2022
+   item_acc_on:  January 26, 2022
+   item_annot: |
+     <p> Design and programming are important stages of the development process of object-oriented information systems. At the design stage, a domain model is built, in which metaclasses can be used. But, as widely known, there is no direct support for metaclasses in UML. The article describes how in some cases it is possible to switch from models with metaclasses to models with regular classes. Several variants of such a transition are given. Two concepts of the metaclass are considered, which have now found application.
+     Examples are given showing what capabilities the Python, Scala and Objective-C programming languages have for implementing such models. In addition, it analyzes how the concept of a metaclass is interpreted differently in programming languages.</p>
+   item_keywords: class, metaclass, object, UML, inheritance, classification relation, domain area
+   item_pages: 119–123
+   item_citation: ' Sergievskiy M. V. Metaclasses in UML and in Programming Languages, Programmnaya Ingeneria, 2022, vol. 13, no. 3, pp. 119—123.'
+ - doi: 13.124-131
+   udk: "004.658"
+   item_authors: "Asratian R. E."
+   item_name: "Secure Network Channel for Web Services based on SSL/TLS Technology in a Linux Environment"
+   item_authors_address: |
+     <b> R. E. Asratian</b>, rea@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: " Asratian Ruben E., Leading Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: rea@ipu.ru"
+   item_rec_on: January 27, 2022
+   item_acc_on: February 14, 2022
+   item_annot: |
+     <p> An approach to the organization of secure interaction in distributed systems via a public network is considered, based on the organization of secure communication channels based on sSl/TLS technology. Unlike VPN technology, the described approach is strictly focused on supporting only HTTP/SOAP interactions in distributed systems, which allows you to implement authentication and authorization based on HTTP-header data and client public key certifi­cates as ready-made technical solutions. The approach implies the use of special gateways that provide switching from HTTP to HTTPS on the client side and switching from HTTPS to HTTP on the web server side and make up a "transparent" communication channel for system components. It is assumed that both client programs and web serv­ers are located in the same secure private network (or even on the same network node) with the gateways serving them, and only the interaction between the gateways is carried out through the public network. The work of gateways is based on the use of SSL/TLS technology to add a secure channel over an already open TCP connection. The main idea of the approach is that in this case, security tools are connected at high levels of the OSI protocol hierarchy, which allows gateways to analyze high-level parameters of information requests and responses of web servers con­tained in HTTP-headers. And this, in turn, allows you to add additional "intelligence" to the gateways associated with authentication of servers and clients, as well as with the differentiation of access rights to information resources up to individual functions (methods) of web services based on the data contained in "Subject Name" attribute of public key certificates. The implementation of the approach in the Linux environment and the results of an experimental study are described. In particular, the study showed that when calling service functions with a runtime of 0.5 seconds or higher, the secure channel increases the total query execution time by only a few percent, even with a rather large amount of data being transmitted (up to 200 kilobytes). </p>
+   item_keywords:  distributed systems, information security, web services, SSL/TLS technology, public key certificates, Linux
+   item_pages: 124–131
+   item_citation: ' Asratian R. E. Secure Network Channel for Web Services based on SSL/TLS Technology in a Linux Environment, Programmnaya ingeneria, 2022, vol. 13, no. 3, 124—131.'
+ - doi: 13.132-141
+   udk: "004.358"
+   item_authors: "Bliznyuk A. E., Zhmud V. A., Trubin M. V., Trubin V. G."
+   item_name: "Programming of STM32F10x Microcontrollers Using the Built-in USART Bootloader"
+   item_authors_address: |
+     <b> A. E. Bliznyuk<sup>1</sup></b>, Master, bliznyuksaha@mail.ru, <b> V. A. Zhmud</b>, D. Sc., Deputy General Director<sup>2</sup>, Chief Researcher<sup>3</sup>, oao_nips@bk.ru, <b> M. V. Trubin<sup>1</sup></b>, Postgraduate Student, morkai@bk.ru, <b> V. G. Trubin</b>, Senior Lecturer<sup>1</sup>, Director<sup>4</sup>, trubin@ngs.ru,
+     <br/><sup>1</sup> Novosibirsk State Technical University, Novosibirsk, 630073, Russian Federation,
+     <br/><sup>2</sup> Novosibirsk Institute of Program Systems for Science JSC "Novosibirsk Institute of Program Systems" (NIPS), Novosibirsk, Russian Federation,
+     <br/><sup>3</sup> Institute of Laser Physics SB RAS, Novosibirsk, Russian Federation,
+     <br/><sup>4</sup> KB Avtomatika LLC
+   item_corr_author: 'Zhmud Vadim A., D. Sc., Deputy General Director of the Novosibirsk Institute of Program Systems for Science JSC "Novosibirsk Institute of Program Systems" (NIPS), Chief Researcher of the Institute of Laser Physics SB RAS, E-mail: oao_nips@bk.ru'
+   item_rec_on:  December 26, 2021
+   item_acc_on:  January 19, 2022
+   item_annot: |
+     <p> This paper is devoted to the description of the method of programming STM32F10x microcontrollers using the built-in bootloader via the USART serial interface, using the Flash Loader Demonstrator program from ST Microelec­tronics. To automate the programming process, the process of creating a batch file is described. Quite popular is the method of programming the microcontroller through the SWD interface using the ST-Link hardware programmer. However, due to the current shortage of microcircuits, the cost of electronic components has risen markedly, making this method of programming more expensive. Thus, at this point in time, the method of programming microcontrollers using the built-in bootloader via USART using the USB to RS-232 TTL converter is quite in demand. The article may be of interest to students and engineers. </p>
+   item_keywords: microcontroller, STM32, bootloader, serial interface, USART, USB to RS-232 TTL, CH340G, Flash Loader Demonstrator, COM port, ST Microelectronics
+   item_pages: 132–141
+   item_citation: 'Bliznyuk A. E., Zhmud V. A., Trubin M. V., Trubin V. G. Programming of STM32F10x Microcontrollers Using the Built-in USART Bootloader, Programmnaya Ingeneria, 2022, vol. 13, no. 3, pp. 132—141.'
+ - doi: 13.142-147
+   udk: "004.85"
+   item_authors: "Zhaxybayev D. O."
+   item_name: "The Application of Neural Networks in the Construction of a Program for the Markup of Text"
+   item_authors_address: |
+     <b> D. O. Zhaxybayev</b>, darhan.03.92@mail.ru, West Kazakhstan Agrarian and Technical University named after Zhangir Khan, Uralsk, Kazakhstan
+   item_corr_author: "Zhaxybayev Darkhan O., Master of Pedagogical Sciences, Lecturer, West Kazakhstan Agrarian and Technical University named after Zhangir Khan, Uralsk, Kazakhstan, E-mail: darhan.03.92@mail.ru"
+   item_rec_on:  December 19, 2021
+   item_acc_on:  January 19, 2022
+   item_annot: |
+     <p> This paper explores the use and applications of neural networks in the construction of a text markup program. This research paper describes various tasks that require textual data analysis and discusses the problems, issues, and solutions that accompany them. Interest in neural networks has increased in recent years, and they are find­ing applications in a wide variety of fields, such as business, medicine, engineering, geology, and physics. Neural networks have made great strides in forecasting, planning, and management. There are several reasons for this situation. Neural networks are very powerful modeling systems capable of creating complex dependencies. Neural networks can be widely used in areas such as text/speech recognition, semantic search, decision support/expert systems, inventory forecasting, data storage systems and content analysis. The object of the work is the process of functioning of neural networks and an algorithm for text markup recognition. The purpose of the scientific paper is the application of neural networks in the construction of the program for the markup of the text. In order to achieve the goal, the following tasks were put forward: a) study existing neural networks, b) choose a neural network to cre­ate a model and study its structure, c) convert input data to feed it into a neural network model. Representation and analysis of symbolic structures in neural networks seems to be an interesting and useful direction in neural network theory. In this paper, we have reviewed some neural network architectures that may merit further consideration in these circumstances. In what follows, we will focus on specific experiments in this area. Thus, this paper outlines a problem area for further research and testing.
+     </p>
+   item_keywords: neural networks, text markup, text data, neural network testing
+   item_pages: 142–147
+   item_citation: 'Zhaxybayev D. O. The Application of Neural Networks in the Construction of a Program for the Markup of Text, Programmnaya Ingeneria, 2022, vol. 13, no. 3, pp. 142-147.'
+ - doi: 13.148-152
+   udk: "004.5"
+   item_authors: "Turovsky Ya. A., Borzunov S. V., Vahtin A. A."
+   item_name: "An Algorithm for Correction of Statistical Estimations Taking into Account the Effect of Multiple Comparisons based on Test Results Grouping"
+   item_authors_address: |
+     <b> Ya. A. Turovsky</b>, Yaroslav_turovsk@mail.ru, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation; Voronezh State University, Voronezh, 394018, Russian Federation, <b> S. V. Borzunov</b>, sborzunov@gmail.com, Associate Professor, Voronezh State University, Voronezh, 394018, Russian Federation, <b> A. A. Vahtin</b>, alvahtin@gmail.com, Associate Professor, Voronezh State University, Voronezh, 394018, Russian Federation
+   item_rec_on:  December 05, 2021
+   item_acc_on:  January 28, 2022
+   item_annot: |
+     <p> Repeated application of statistical comparison criteria leads to a significant increase of the probability of erroneous identification of differences in cases where they are statistically insignificant. An algorithm is proposed for assessing the significance of differences in the problem of managing the design of a biomedical study, taking into account variations in the values of a pairwise statistical criterion. An example of using the algorithm for oculographic data is given. </p>
+   item_keywords: multiple comparisons, significance assessment, study design, eye tracking interface
+   item_pages: 148–152
+   item_comment: The reported study was funded by RFBR according to the research project no. 19-07-01037 А.
+   item_citation: 'Turovsky Ya. A., Borzunov S. V., Vahtin A. A. An Algorithm for Correction of Statistical Estimations Taking into Account the Effect of Multiple Comparisons based on Test Results Grouping, Programmnaya Ingeneria, 2022, vol. 13, no. 3, pp. 148—152.'
+---
