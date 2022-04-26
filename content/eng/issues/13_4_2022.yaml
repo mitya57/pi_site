@@ -1,0 +1,79 @@
+---
+title: Issue N4 2022 year
+content:
+ - doi: 13.155-167
+   udk: "004.05"
+   item_authors: "Shelekhov V. I."
+   item_name: "Automata-based Software Engineering with Event-B"
+   item_authors_address: |
+     <b> V. I. Shelekhov</b>, vshel@iis.nsk.su, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+   item_corr_author: " Shelekhov Vladimir I., Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation, E-mail: vshel@iis.nsk.su"
+   item_rec_on:  February 13, 2022
+   item_acc_on:  February 24, 2022
+   item_annot: |
+     <p> A new automata-based programming language has been built by extending the Event-B specification language. When developing models in Event-B, it becomes possible to use automata-based methods in addition to the popular refinement method. Automata-based software engineering, supported by deductive verification in Event-B, can be successfully used for the development of control systems in critical infrastructure with a high cost of error.
+     A model of the Event-B specification in the automata-based programming language is constructed. The Event-B specification is a chain of machine refinements. The machine is defined by a non-deterministic composition of events. An event is the equivalent of a simple conditional statement without else branch. In automata-based software engineering, in addition to non-deterministic composition, a number of other compositions are allowed. The main one is a hypergraphic composition with respect to control states. Parallel process composition, object-oriented and aspect-oriented compositions are also possible. A process can be called from another process. It is possible to send and receive messages. There are different time actions. It is not difficult to rewrite an automata-based program into the Event-B specification.
+     The automata-based software engineering with Event-B is demonstrated by the example of the problem of traffic control on the bridge from the Event-B system manual. A simpler solution with verification in the Rodin tool is proposed. The effectiveness of Event-B verification methods is confirmed by finding three non-trivial errors in our solution.
+     </p>
+   item_keywords: automata-based engineering, Event-B, refinement, requirements, program transformation, deductive verification, functional programming
+   item_pages: '155—167'
+   item_citation: ' Shelekhov V. I. Automata-based Software Engineering with Event-B, Programmnaya Ingeneria, 2022, vol. 13, no. 4, pp. 155—167.'
+ - doi: 13.168-177
+   udk: "004.054"
+   item_authors: "Godunov A. N., Khomenkov I. I., Shchepkov V. G., Khoroshilov A. V."
+   item_name: "Configurable Test System for RTOS of BAGET Family"
+   item_authors_address: |
+     <b> A. N. Godunov</b>, nkag@niisi.ras.ru, <b>  I. I. Khomenkov</b>, nkigor@niisi.ras.ru, <b> V. G. Shchepkov</b>, nkvs@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA RAS), Moscow, 117218, Russian Federation, <b> А. V. Khoroshilov</b>, khoroshilov@ispras.ru, Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation
+   item_corr_author: 'Shchepkov Vladimir G., Leading Engineer, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences" (SRISA RAS), Moscow, 117218, Russian Federation, E-mail: nkvs@niisi.ras.ru'
+   item_rec_on:  January 20, 2022
+   item_acc_on:  February 24, 2022
+   item_annot: |
+     <p> The article describes a test system designed for verification of the real-time operating system BAGET Family for embedded systems, developed and used at the Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA RAS). This Unix-like operating system is based on the POSIX and ARINC-653 pro­gramming standards. Of course, there is specialized software for automating testing of Unix-like operating systems, for example, Avocado, LAVA, Linux Test Project, Linux Distribution Checker, Open POSIX Test Suite, UnixBench, etc. But the use of such ready-made software systems is not always convenient since they either contain only highly specialized test suites, support only specific hardware, or do not contain a flexible configuration system. Therefore, In SRISA RAS, its own original test system was developed. The task was to create a convenient testing tool for both software testers and programmers. Many years of experience in utilizing the test system has shown the effectiveness of its use to improve the quality of software products, reduction of time spent on testing and analysis of results, maximum automation of software testing process, speed up the process of developing new software versions, as well as simplify the process of debugging, finding and fixing errors by software developers.</p>
+   item_keywords: real-time operating system, RTOS, software testing, automation of program developing, cross-platform software developing, program language C, C++, POSIX, ARINC-653
+   item_pages: '168—177'
+   item_citation: 'Godunov A. N., Khomenkov I. I., Shchepkov V. G., Khoroshilov A. V. Configurable Test System for RTOS of BAGET Family, Programmnaya Ingeneria, 2022, vol. 13, no. 4. 168—177'
+ - doi: 13.178-186
+   udk: "621"
+   item_authors: "Evgenev G. B."
+   item_name: "Russian Technology of Industry 5.0. Metaontology"
+   item_authors_address: |
+     <b> G. B. Evgenev</b>, g.evgenev@mail.ru, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation
+   item_corr_author: "  Evgenev Georgiy B., Professor, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation E-mail g.evgenev@mail.ru"
+   item_rec_on:  January 20, 2022
+   item_acc_on:  February 24, 2022
+   item_annot: |
+     <p> The methods and means of creating integrated intelligent systems for design and technological design in mechanical engineering are described. Introduced representation of knowledge modules for non-programmer </p>
+   item_keywords:  Industry 4.0, Industry 5.0, digital production, Internet of knowledge, Internet of things, integrated systems, intelligent systems
+   item_pages: '178—186'
+   item_citation: 'Evgenev G. B. Russian Technology of Industry 5.0. Metaontology, Programmnaya Ingeneria, 2022, vol. 13, no. 4, рр. 178—186.'
+ - doi: 13.187-199
+   udk: "004.852"
+   item_authors: "Gaydamaka K. I., Belonogova A. D."
+   item_name: "Applying Unsupervised Machine Learning Algorithms to Ensure Requirements Consistency"
+   item_authors_address: |
+     <b> K. I. Gaydamaka</b>, k.gaydamaka@gmail.com, Department of Systems Engineering, MIREA — Russian Technological University, Moscow, 119454, Russian Federation, <b> А. D. Belonogova</b>, alena.belonogova@yandex.ru, National Research Nuclear University MEPhI, Moscow, 115409, Russian Federation
+   item_corr_author: 'Gaydamaka Kirill I., Postgraduate Student, Department of Systems Engineering, "MIREA — Russian Technological University", Moscow, 119454, Russian Federation, E-mail: k.gaydamaka@gmail.com'
+   item_rec_on:  November 16, 2021
+   item_acc_on:  March 05, 2022
+   item_annot: |
+     <p> The article is devoted to the problem of ensuring the quality of requirements for complex technical systems. The purpose of this article is to apply unsupervised machine learning techniques to test a set of requirements for consistency. It is assumed that the clustering of requirements will allow us to determine the requirements that are closest in meaning to the given one, and this may indicate a possible contradiction and require additional check of potentially conflicting requirements. The article discusses a comparison of clustering methods such as k-means, agglomerative hierarchical clustering, DBSCAN, EM-algorithm, as well as methods for converting sentences into numeric vectors TF-IDF, doc2vec, BERT. BERT and k-means showed the best result — a cluster that included only conflicting requirements. </p>
+   item_keywords: natural language processing, requirements clustering, requirements management, requirements engineering, requirements consistency
+   item_pages: '187—199'
+   item_citation: 'Gaydamaka K. I., Belonogova A. D. Applying Unsupervised Machine Learning Algorithms to Ensure Requirements Consistency, Programmnaya Ingeneria, 2022, vol. 13, no. 4, pp. 187—199.'
+ - doi: 13.200-208
+   udk: "004.052.42"
+   item_authors: "Fedotov I. A., Khritankov A. S., Obidare M. D."
+   item_name: "Automated Verification of Multi-Party Agreements and Scheduling of Sending Messages in Distributed Ledger Systems"
+   item_authors_address: |
+     <b> I. A. Fedotov</b><sup>1</sup>, ivan.fedotov@phystech.edu, <b> A. S. Khritankov</b><sup>2</sup>, anton.khritankov@acm.org, <b> M. D. Obidare</b><sup>1</sup>, obidarefolu1@gmail.com,
+     <br/><sup>1</sup> MIPT, Dolgoprudny, Moscow Region, 141701, Russian Federation,
+     <br/><sup>2</sup> HSE, Moscow, 115432, Russian Federation
+   item_corr_author: "Fedotov Ivan A., Postgraduate Student, MIPT, Dolgoprudny, Moscow Region, 141701, Russian Federation, E-mail: ivan.fedotov@phystech.edu"
+   item_rec_on: February 28, 2022
+   item_acc_on: March 06, 2022
+   item_annot: |
+     <p> One can use a multi-party agreement in distributed ledger systems and blockchain networks to reach an agreement on changes of the state of the system. If one of the network members proposes а transaction, then certain network participants shall confirm it. After that the whole network can consider transaction as a valid one. A multiparty agreement or consensus determines the composition of these participants. Based on the historical data set, one can calculate the probability of confirming a transaction for each of the participants. In this paper, we use a statistical model checking approach to determine the likelihood that the network accepts a transaction. Sending confirmation requests may require an additional fee. We calculate the probability, and the mathematical expectation of the number of messages before reaching a consensus. Further, consensus models are built in the form of a Markov chain with various strategies for sending messages. Based on the proposed methods, we design a tool that automatically builds models for various strategies of sending messages and verifies the model using a statistical model verification approach. After choosing the optimal model, one can send confirmation messages using the scheduler module of developed tool. </p>
+   item_keywords: consensus, blockchain, verification, statistical model checking
+   item_pages: '200—208'
+   item_citation: 'Fedotov I. A., Khritankov A. S., Obidare M. D. Automated Verification of Multi-Party Agreements and Scheduling of Sending Messages in Distributed Ledger Systems, Programmnaya Ingeneria, 2022, vol. 13, no. 4, рр. 200—208.'
+---

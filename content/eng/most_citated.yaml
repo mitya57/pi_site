@@ -21,18 +21,18 @@ content:
     item_issue: 12
     doi:
     link: _12_2015_1
-  - item_title: "Capacities of Supercomputer System for Work with Agent-Based Models"
-    item_authors: Makarov V.L., Bahtizin A.R., Vasenin V.A., Roganov V.A., Trifonov I.A.
-    item_year: 2011
-    item_issue: 3
-    doi:
-    link: _3_2011_1
   - item_title: "Systems Approach to Swarm Intelligence"
     item_authors: Matrenin P. V., Sekaev V. G.
     item_year: 2013
     item_issue: 12
     doi:
     link: _12_2013_6
+  - item_title: "Capacities of Supercomputer System for Work with Agent-Based Models"
+    item_authors: Makarov V.L., Bahtizin A.R., Vasenin V.A., Roganov V.A., Trifonov I.A.
+    item_year: 2011
+    item_issue: 3
+    doi:
+    link: _3_2011_1
   - item_title: "Using UML class Diagrams for Design of Knowledge Bases of Rule-Base Expert systems"
     item_authors: Dorodnykh N. O., Yurin A. Yu.
     item_year: 2015
@@ -45,6 +45,12 @@ content:
     item_issue: 2
     doi:
     link: _2_2011_4
+  - item_title: "Software System for Information Risk Management 'RiskPanel'"
+    item_authors: Palchunov D. E., Yakhyaeva G. E., Hamutskaya A. A.
+    item_year: 2011
+    item_issue: 7
+    doi:
+    link: _7_2011_5
   - item_title: "Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats"
     item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
     item_year: 2014
@@ -57,10 +63,4 @@ content:
     item_issue: 8
     doi:
     link: _8_2014_6
-  - item_title: "Software System for Information Risk Management 'RiskPanel'"
-    item_authors: Palchunov D. E., Yakhyaeva G. E., Hamutskaya A. A.
-    item_year: 2011
-    item_issue: 7
-    doi:
-    link: _7_2011_5
 ---
