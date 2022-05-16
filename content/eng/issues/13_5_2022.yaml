@@ -1,0 +1,82 @@
+---
+title: Issue N5 2022 year
+content:
+ - doi: 13.211-218
+   udk: "004.773:004.056:654.073"
+   item_authors: "Stepanov P. P., Nikonova G. V., Pavlyuchenko T. S. Soloviev V. V."
+   item_name: "Features of Address Resolution Protocol Operation in Computer Networks"
+   item_authors_address: |
+     <b> P. P. Stepanov</b>, omsk.petr@gmail.com, <b> G. V. Nikonova</b>, ngvlad@mail.ru, <b> T. S. Pavlyuchenko</b>, taty.pavlychenko@gmail.com, <b>V. V. Soloviev</b>, svadim95@mail.ru, Omsk State Technical University, Omsk, 644050, Russian Federation
+   item_corr_author: " Nikonova Galina V., Associate Professor, Omsk State Technical University, Omsk, 644050, Russian Federation, E-mail: ngvlad@mail.ru"
+   item_rec_on:  August 03, 2021
+   item_acc_on:  March 10, 2022
+   item_annot: |
+     <p> The paper analyzes the network protocols of computer networks to identify potential vulnerabilities at the software level. The conditions for carrying out a man-in-the-middle attack in networks using the Address Resolution Protocol (ARP) are investigated. Such attacks are of a rather dangerous type, since they are based on the shortcomings of the ARP protocol. A detailed analysis of the stages of the attack and the sequence of impact on the attacked node is given. The technology of ARP spoofing (poisoning) and methods that allow one to infiltrate an existing connection and communication process are examined in detail. An implementation of an ARP spoofing attack in the Python and C# programming languages using the Soapy and SharpPcap libraries is presented. Examples of implementation of denial-of-service (DoS) attacks in a peer-to-peer network using the ARP protocol in C# are given. The article also describes examples of man-in-the-middle attacks associated with various protocols and infiltration into the address space of routers, such as DHCP (a protocol that dynamically assigns an IP address to a client computer) spoofing and ICMP (Internet Control Message Protocol) redirection. Methods for hacking a router and substituting a MAC address and examples of scripts that implement: sending a fake ARP packet; a function for performing a DoS attack; changing the Linux MAC address; router hacks, are presented in the article.
+     </p>
+   item_keywords: computer network, information security, ARP protocol, traffic interception, hacking
+   item_pages: '211—218'
+   item_citation: ' Stepanov P. P., Nikonova G. V., Pavlyuchenko T. S., Soloviev V. V. Features of Address Resolution Protocol Operation in Computer Networks, Programmnaya Ingeneria, 2022, vol. 13, no. 5, pp. 211—218.'
+ - doi: 13.219-225
+   udk: "007.05"
+   item_authors: "Boichenko A. V., Lukinova O. V."
+   item_name: "Current State and Prospects of Development of the General Theory of Systems"
+   item_authors_address: |
+     <b> А. V. Boichenko</b>, PhD in Technological Sciences, boichenko46@mail.ru, Plekhanov Russian University of Economics, Moscow, 115093, Russian Federation, <b> O. V. Lukinova</b>, Dr. Sci. Tech., lobars@mail.ru, V. A. Trapeznikov Institute of control sciences of the Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: "Boichenko Aleksandr V., PhD in Technological Sciences, Plekhanov Russian University of Economics, Moscow, 115093, Russian Federation, E-mail: Boichenko46@mail.ru"
+   item_rec_on:  April 22, 2021
+   item_acc_on:  March 23, 2022
+   item_annot: |
+     <p> In the article the approaches to the general theory of systems put by founders of this theory in the sixties of the last century are considered. These approaches are considerably characteristic also of todays submission of the general theory of systems. These approaches can be classified on three conditional groups — mathematical approach to the general theory of systems (M. Mesarovich, Y. Takahara), "physical" approach to the theory of open systems (L. von Bertalanfi, Y. L. Klimontovich) and approach on the basis of functional systems (P. K. Anokhin). The approaches offered by authors to further development of the general theory of systems and its practical application are considered.</p>
+   item_keywords: general theory of systems, mathematical approach to the general theory of systems, theory of open systems, functional systems, approaches to development of the general theory of systems
+   item_pages: ' 219–225'
+   item_citation: 'Boichenko A. V., Lukinova O. V. Current State and Prospects of Development of the General Theory of Systems, Programmnaya Ingeneria, 2022, vol. 13, no. 5, рр. 219—225'
+ - doi: 13.226-238
+   udk: "004.82"
+   item_authors: "Kostenko K. I."
+   item_name: "Regular Memory Structures and Domain Descriptions for Operations in Intelligence Systems"
+   item_authors_address: |
+     <b> K. I. Kostenko, </b>  kostenko@kubsu.ru  Kuban State University, Krasnodar, 350040,Russian Federation
+   item_corr_author: "  Kostenko Konstantin I., Associate Professor, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru"
+   item_rec_on:  March 01, 2022
+   item_acc_on:  March 13, 2022
+   item_annot: |
+     <p> The concept of a regular memory area of an artificial intelligence system defined. Semantic hierarchies are considered as a uniform and universal format for structural descriptions of knowledge representations. An infinite saturated binary tree, the vertices of which are binary sequences, implements a single memory format. Finite saturated binary trees with labeled vertices represent individual knowledge in infinite memory. Regular expressions are used as a specification for the memory areas in question. Regular memory domains generalize the system of morphism domain class developed for semantic hierarchy formalisms. The study of regular memory structures and the choice of special tools for modeling memory and thought processes in artificial intelligence systems carried out. The structure of regular memory is associated with classes of knowledge processing operations, as well as the goals of classifying, storing and applying knowledge of a given structure in such systems. Applications of regular memory structures creates conditions for a deep formalization of the tools of constructing memory structures and modeling thought processes in intelligent systems. Associating regular expressions with state machines allows using them as a parameter for effective modeling of the intelligent processes. </p>
+   item_keywords:  knowledge formalisms, knowledge morphism, morphism domain, memory regular structure, memory area, memory structure formulae
+   item_pages: '226—238'
+   item_comment: This work was funded by RFBR and administration of Krasnodar territory grant project number № 19-41-230008 and by RFBR grant project number № 20-01-00289.
+   item_citation: 'Kostenko K. I. Regular Memory Structures and Domain Descriptions for Operations in Intelligence Systems, Programmnaya Ingeneria, 2022, vol. 13, no. 5, pp. 226—238.'
+ - doi: 13.239-246
+   udk: "004.9"
+   item_authors: "Vorobyev A. A., Makeev S. M."
+   item_name: "An Algorithm for Finding Contradictions in Multiformat Data using Apache Spark"
+   item_authors_address: |
+     <b> A. A. Vorobyev</b>, Associate Professor, awa@mail.ru, <b>  S. M. Makeev</b>, PhD, maksm57@yandex.ru, Russian Federation Security Guard Service Federal Academy, Oryol, 302015, Russian Federation
+   item_corr_author: " Makeev Sergey M., PhD, Employer, Russian Federation Security Guard Service Federal Academy, Oryol, 302015, Russian Federation E-mail: maksm57@yandex.ru"
+   item_rec_on:  May 20, 2021
+   item_acc_on:  March 17, 2022
+   item_annot: |
+     <p> The quality of managerial decision-making is significantly influenced by the inconsistency and heterogeneity of information obtained from various sources with the inability to unambiguously determine their reliability, for example, social networks, electronic media, opinion polls, as well as the types of representations used, for example, texts, graphs or tables. The purpose of the work was to conduct theoretical and experimental studies that ensure the choice of methods and their implementation in the algorithm for processing multiformat data to solve the problem of inconsistency and heterogeneity of information. To achieve this goal, the following tasks were solved: comparative analysis of the possibilities of methods for finding contradictions in heterogeneous information: latent-semantic analysis, neural networks and others; development of an algorithm for intelligent processing of big data using the Apache Spark module; evaluation of the algorithms performance for obtaining a qualitative result within a given time interval. As a result of the research, in the framework of solving the problem of finding contradictions for processing media publications, it is proposed to consistently use latent semantic analysis to select articles on a given topic, and then the method of determining the tonality of articles, and for processing the results of sociological surveys, the method of calculating the integral indicator for the question selected from the questionnaire. Based on the selected methods, a multi-step algorithm was developed and then implemented in Python using the Apache Spark platform in the form of a software product registered in the Register of Computer Programs. Based on the results of the experiments conducted in the work, it was concluded that the use of the Apache Spark module with the developed algorithm makes it possible to ensure an effective search for contradictions in information with the fulfillment of the requirements for efficiency. </p>
+   item_keywords: heterogeneous information, contradiction, latent semantic analysis, text tonality, search algorithm, Apache Spark
+   item_pages: '239—246'
+   item_citation: 'Vorobyev A. A., Makeev S. M. An Algorithm for Finding Contradictions in Multiformat Data using Apache Spark, Programmnaya Ingeneria, 2022, vol. 13, no. 5, pp. 239—246.'
+ - doi: 13.247-256
+   udk: "004.9"
+   item_authors: "Zhukova L. V., Kovalchuk I. M., Kochnev A. A., Chugunov V. R."
+   item_name: "Building the Scale for Fraud Detection on the Internet Using ML"
+   item_authors_address: |
+     <b> L. V. Zhukova<sup>1</sup>,<sup>4</sup>, </b>  lvzhukova@hse.ru, <b> I. M. Kovalchuk<sup>2</sup>,<sup>4</sup>, </b> ikovalchuk@ec-leasing.ru, <b> A. A. Kochnev <sup>3</sup> <sup>4</sup>, </b>  akochnev@ec-leasing.ru, <b> V. R. Chugunov<sup>4</sup>, </b>  vchugunov@ec-leasing.ru,
+     <br/><sup>1</sup> National Research University Higher School of Economics, Moscow, 101000, Russian Federation,
+     <br/><sup>2</sup> MIREA — Russian Technological University, Moscow, Russian Federation,
+     <br/><sup>3</sup> Plekhanov Russian University of Economics, Moscow, Russian Federation,
+     <br/><sup>4</sup> JSC "EC-LEASING" CO., Moscow, 117587, Russian Federation
+   item_corr_author: 'Zhukova Ludmila V., Senior Lecturer, National Research University Higher School of Economics, Moscow, 101000, Russian Federation, Leading Analysist, JSC "EC-LEASING" Co., Moscow, 117587, Russian Federation, E-mail: lvzhukova@hse.ru'
+   item_rec_on:  November 08, 2021
+   item_acc_on:  March 31, 2022
+   item_annot: |
+     <p> The widespread digitalization of the modern society and the development of information technology have increased the number of methods of interaction between financial institutions and potential consumers of financial services. At the same time, the advent of new financial products inevitably leads to an increase in threats, and the use of information technology facilitates the continuous "improvement" of fraudulent schemes and unfair services that negatively impact both the financial market as a whole and its individual participants, such as financial institutions and their clients.
+     Due to the development of modern society, most financial transactions have moved to the Internet, including the fraudulent ones. When services are provided remotely, it is more difficult to trace and prosecute the beneficiary, but there are still ways to stop fraudulent activity. They can be characterized as labour-consuming, as the monitoring and analysis of huge amounts of unstructured information (BigData) located on the Internet take great amount of time and effort. The solution to detecting illegal activity in the financial market is based on open data intelligence, the application of machine learning methods and systems analysis techniques.
+     The article examines the types of financial services provided on the Internet, among which fraudulent activities are most common. In order to identify illegal financial services, criteria are identified and grouped according to their contribution to the decision-making process. The main result of the study is the construction of the scale of a complex indicator, which is used to develop a mathematical model based on the selected criteria and machine learning methods to identify the extent of illegality of financial services provided on the Internet.</p>
+   item_keywords: to unfair practices, financial services, Internet fraud, machine learning, system analysis, mathematical model, big data, complex indicator, open data analysis, Internet monitoring
+   item_pages: '247–256'
+   item_citation: 'Zhukova L. V., Kovalchuk I. M., Kochnev A. A., Chugunov V. R. Building the Scale for Fraud Detection on the Internet Using ML, Programmnaya Ingeneria, 2022, vol. 13, no. 5, pp. 247—256.'
+---
