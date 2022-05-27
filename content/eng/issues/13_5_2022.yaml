@@ -3,7 +3,7 @@ title: Issue N5 2022 year
 content:
  - doi: 13.211-218
    udk: "004.773:004.056:654.073"
-   item_authors: "Stepanov P. P., Nikonova G. V., Pavlyuchenko T. S. Soloviev V. V."
+   item_authors: "Stepanov P. P., Nikonova G. V., Pavlyuchenko T. S., Soloviev V. V."
    item_name: "Features of Address Resolution Protocol Operation in Computer Networks"
    item_authors_address: |
      <b> P. P. Stepanov</b>, omsk.petr@gmail.com, <b> G. V. Nikonova</b>, ngvlad@mail.ru, <b> T. S. Pavlyuchenko</b>, taty.pavlychenko@gmail.com, <b>V. V. Soloviev</b>, svadim95@mail.ru, Omsk State Technical University, Omsk, 644050, Russian Federation
@@ -64,7 +64,7 @@ content:
    item_authors: "Zhukova L. V., Kovalchuk I. M., Kochnev A. A., Chugunov V. R."
    item_name: "Building the Scale for Fraud Detection on the Internet Using ML"
    item_authors_address: |
-     <b> L. V. Zhukova<sup>1</sup>,<sup>4</sup>, </b>  lvzhukova@hse.ru, <b> I. M. Kovalchuk<sup>2</sup>,<sup>4</sup>, </b> ikovalchuk@ec-leasing.ru, <b> A. A. Kochnev <sup>3</sup> <sup>4</sup>, </b>  akochnev@ec-leasing.ru, <b> V. R. Chugunov<sup>4</sup>, </b>  vchugunov@ec-leasing.ru,
+     <b> L. V. Zhukova<sup>1,4</sup>, </b>  lvzhukova@hse.ru, <b> I. M. Kovalchuk<sup>2,4</sup>, </b> ikovalchuk@ec-leasing.ru, <b> A. A. Kochnev <sup>3,4</sup>, </b>  akochnev@ec-leasing.ru, <b> V. R. Chugunov<sup>4</sup>, </b>  vchugunov@ec-leasing.ru,
      <br/><sup>1</sup> National Research University Higher School of Economics, Moscow, 101000, Russian Federation,
      <br/><sup>2</sup> MIREA — Russian Technological University, Moscow, Russian Federation,
      <br/><sup>3</sup> Plekhanov Russian University of Economics, Moscow, Russian Federation,
