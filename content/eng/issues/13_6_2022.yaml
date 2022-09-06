@@ -1,0 +1,94 @@
+---
+title: Issue N6 2022 year
+content:
+ - doi: 13.259-271
+   udk: "004.051"
+   item_authors: "Romanova D. S., Nepomnyashchiy O. V., Legalov A. I., Ryzhenko I. N., Sirotinina N. Y."
+   item_name: "Parallelism Reduction Methods in the High-Level VLSI Synthesis Implementation"
+   item_authors_address: |
+     <b> D. S. Romanova</b>, daryaooo@mail.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation, Krasnoyarsk State Agrarian University, Krasnoyarsk, 660049, Russian Federation, <b> O. V. Nepomnyashchiy</b>, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation, <b>  A. I. Legalov</b>, legalov@mail.ru, National Research University — Higher School of Economics, Moscow, 101000, Russian Federation, <b> I. N. Ryzhenko</b>, rodgi.krs@gmail.com,
+     <b> N. Y. Sirotinina</b>, nsirotinina@sfu-kras.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation
+   item_corr_author: " Romanova Darya S., Postgraduate Student, Krasnoyarsk State Agrarian University, Krasnoyarsk, 660049, Russian Federation, E-mail: daryaooo@mail.ru"
+   item_rec_on:  July 14, 2021
+   item_acc_on:  April 15, 2022
+   item_annot: |
+     <p> The problems and solutions in the field of ensuring architectural independence and implementation of digital integrated circuits end-to-end design processes are considered. The paper focuses on the need to find a solution to the problem of program portability during the development of integrated circuits. A review of the main software and tools used to design digital circuits (Verilog, System-C, Handel-C, Lava, Hydra, Wired, COLAMO, Chisel and etc.) is presented. The method and language of parallel programming for functional flow synthesis of design solutions PIFAGOR is presented. The example of the source and generated code in the PIFAGOR and Verilog languages is given. During the method implementation, the tasks of reducing parallelism and estimating the occupied resources were highlighted. The main feature of the developed method is the introduction of the additional layer (HDL graph) into the synthesis process. Algorithms for the parallelism reduction have been developed. This method is demonstrated on the example of parallelism reduction while going to the FPGA platform solving the problem of calculating a 4-point FFT (Fast Fourier Transform). As part of the solution of this task, an assessment of memory resources and an assessment of computing resources were carried out. The results of software tools development for design support including the parallelism reduction preprocessor and resource estimation preprocessor and practical VLSI projects are presented.
+     </p>
+   item_keywords: integrated circuit, parallel computing model, algorithm, program, high-level synthesis, functional-stream language
+   item_pages: '259—271'
+   item_citation: 'Romanova D. S., Nepomnyashchiy O. V., Legalov A. I., Ryzhenko I. N., Sirotinina N. Y. Parallelism Reduction Methods in the High-Level VLSI Synthesis Implementation, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 259—271.'
+   item_comment: The article is based on the materials of the report at the Seventh International Conference "Actual problems of Systems and Software Engineering" APSSE 2021
+ - doi: 13.272-276
+   udk: "004.423"
+   item_authors: "Tretiak A. V., Vereschagina E. A., Struk P. V."
+   item_name: "Developing a System of Symbolic Macro Commands (Symcommands) of the Processor"
+   item_authors_address: |
+     <b> A. V. Tretiak</b>, alextretyak2@gmail.com, <b>  E. A. Vereschagina</b>, everesh@mail.ru, Far Eastern Federal University, Vladivostok, 690091, Russian Federation, <b> P. V. Struk</b>, pavelstruk@yandex.ru, Primorsky Aquarim, Vladivostok, 690922, Russian Federation
+   item_corr_author: " Tretiak Alexander V., Assistant, Far Eastern Federal University, Vladivostok, 690091, Russian Federation, E-mail: alextretyak2@gmail.com"
+   item_rec_on:  March 23, 2022
+   item_acc_on:  April 15, 2022
+   item_annot: |
+     <p> The traditional form of recording machine code is assembly language. Its commands correspond directly to individual machine commands or sequences of commands. The syntax of an assembly language program is determined mainly by the instruction system of the specific processor and the directive system of the specific translator. For some platforms, there may be several kinds of assembly language syntax that are not compatible with each other. For example, the most popular assembly language syntaxes for Intel-compatible processors are Intel syntax and AT&T syntax. However, all existing types of assembly language syntax are primarily focused on easy readability by the computer, not the programmer. The system of symbolic macro commands of the processor presented in the article is a more clear form of representation of machine code, which promotes productivity when the programmer works with it, and also minimization of errors.</p>
+   item_keywords: processor instruction set, assembly language, macro command
+   item_pages: ' 272–276'
+   item_citation: 'Tretiak A. V., Vereschagina E. A., Struk P. V. Developing a System of Symbolic Macro Commands (Symcommands) of the Processor, Programmnaya Ingeneria, 2022, vol. 13, no. 6, рр. 272—276.'
+ - doi: 13.277-285
+   udk: "004"
+   item_authors: "Avdoshin S. M., Pesotskaya E. Y., Kuruppuge D. M."
+   item_name: "Software Engineering Education: Discovering Future Skills"
+   item_authors_address: |
+     <b> S. M. Avdoshin</b>, Professor, savdoshin@hse.ru, <b> E. Y. Pesotskaya</b>, Associate Professor, epesotskaya@hse.ru, <b> D. M. Kuruppuge</b>, Graduate Student, dkuruppuge_1@edu.hse.ru, HSE University, Moscow, 101000, Russian Federation
+   item_corr_author: "  Pesotskaya Elena Y., Associate Professor, Faculty of Computer Science / School of Software Engineering, HSE University, Moscow, 101000, Russian Federation, E-mail: epesotskaya@hse.ru"
+   item_rec_on:  August 30, 2021
+   item_acc_on:  March 17, 2022
+   item_annot: |
+     <p> In the contemporary digital age the majority of industries become very much software dependent, require automation, digitization, and deployment of new technologies. The need for specialists, skilled in software engineering, is in high demand. In this study, we set out to investigate what challenges may arise in IT students skill sets and new competences in the software engineering context and answer the question how is skills demand evolving and where the gaps will be?". The paper analyzes what specific knowledge needs to be developed during university education and identifies their evolving skills demand. The paper recommends how students and young specialists in software engineering need to change themselves to adapt to the changing world. </p>
+   item_keywords:  software engineering, technologies, IT, education, skills
+   item_pages: '277—285'
+   item_comment: The article is based on the materials of the report at the Seventh International Conference "Actual problems of Systems and Software Engineering" APSSE 2021.
+   item_citation: 'Avdoshin S. M., Pesotskaya E. Y., Kuruppuge D. M. Software Engineering Education: Discovering Future Skills, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 277—285.'
+ - doi: 13.286-290
+   udk: "629.7.01"
+   item_authors: "Borgest N. M., Vlasov S. A."
+   item_name: "Using Virtual Reality Technology in the Design of Complex Systems"
+   item_authors_address: |
+     <b> N. M. Borgest</b>, PhD in Technological Sciences, borgest@yandex.ru, <b> S. А. Vlasov</b>, Postgraduate Student, vlasov.ssau@mail.ru, Samara University, Samara, 443086, Russian Federation
+   item_corr_author: " Vlasov Sergey D., Postgraduate Student, Samara University, Samara, 443086, Russian Federation, E-mail: vlasov.ssau@mail.ru"
+   item_rec_on:  April 22, 2021
+   item_acc_on:  April 26, 2022
+   item_annot: |
+     <p> This article provides a concrete example for using and creating a virtual environment for computer-aided design of complex systems. The subject area is design, and the object of research is an aircraft. CAD creates a parameterized 3D model, which is demonstrated and processed on a virtual stage using special equipment. Special equipment such as the HTC Vive Pro virtual reality helmet and the included controllers. The virtual assistant of the designer allows you to create detailed parameterized models of an aircraft, in particular, a transport aircraft based on the An-124 Ruslan, and virtual reality helps the user to learn more about the created project and make the necessary optimization edits directly in VR space. By changing the model in VR space, it will change in the main project. The work is a continuation of the development of a decision-making system, a virtual assistant to the designer: "Robot designer", whose application interface has been defined. The main control menu for the user in virtual space is shown, and the aircraft with the fuselage skin and cockpit removed is also shown. Plans for further use of virtual reality technology in the design of complex systems and training of specialists with the profile of aircraft engineers are presented. </p>
+   item_keywords: virtual reality, robot designer, 3D model, finite element model, thesaurus, aircraft
+   item_pages: '285—290'
+   item_comment: The article was based on the materials of the report at the IX All-Russian Scientific Conference "Information Technologies for Intelligent Decision Support" ITIDS'2021.
+   item_citation: 'Borgest N. M., Vlasov S. A. Using Virtual Reality Technology in the Design of Complex Systems, Programmnaya Ingeneria, 2022, vol. 13, no. 6, рр. 285—290.'
+ - doi: 13.291-300
+   udk: "004.912"
+   item_authors: "Kozitsyn A. S."
+   item_name: "Thematic Search Algorithms for Experts, Journals and Conferences"
+   item_authors_address: |
+     <b> A. S. Kozitsyn</b>, alexanderkz@mail.ru, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: "Kozitsyn Alexander S., Leading Researcher, Lomonosov Moscow State University, 119192, Moscow, Russian Federation, E-mail: alexanderkz@mail.ru"
+   item_rec_on:  April 02, 2022
+   item_acc_on:  April 14, 2022
+   item_annot: |
+     <p> The paper discusses methods for thematic search of experts, journals and conferences, provides a brief overview of existing systems with an indication of their main shortcomings, and describes the algorithms for the thematic search of experts developed by the authors, as well as algorithms for thematic search of journals and conferences. A brief description of the software implementation of the developed algorithms is given. User interfaces for searching for conferences are presented. The results of testing software implementations of algorithms based on the data of the scientometric system "ISTINA" are presented. The algorithms developed by the authors use data from scientometric systems, including graphs of mutual relations between objects, are able to filter data by narrowly focused thematic queries and rank search results by authority. The approach used makes it possible to perform a thematic search for conferences in different languages with the determination of their authority and the determination of their thematic proximity. Such thematic analysis makes it possible to normalize scientometric indicators depending on the subject of scientific research, to identify and analyze the main thematic directions in the development of science, to carry out a thematic search for objects (journals and conferences) in order to expand scientific contacts and create new research teams.</p>
+   item_keywords: thematic analysis, scientometrics, information systems, bibliography, author, graph
+   item_pages: '291—300'
+   item_citation: 'Kozitsyn A. S. Thematic Search Algorithms for Experts, Journals and Conferences, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 291—300.'
+ - doi: 13.301-308
+   udk: "004.032.26"
+   item_authors: "Palchevsky E. V., Antonov V. V."
+   item_name: "Decision Support System based on Application of the Second Generation Neural Network"
+   item_authors_address: |
+     <b> E. V. Palchevsky</b>, Lecturer, teelxp@inbox.ru, Financial University under the Government of the Russian Federation, Moscow, 125167, Russian Federation, <b>V. V. Antonov</b>, Professor, antonov.v@bashkortostan.ru, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
+   item_corr_author: "Palchevsky Evgeniy V., Lecturer, Financial University under the Government of the Russian Federation, Moscow, 125167, Russian Federation, E-mail: teelxp@inbox.ru"
+   item_rec_on:  October 28, 2021
+   item_acc_on:  April 25, 2022
+   item_annot: |
+     <p> The issue of the feasibility of using existing statistical and hydrological methods for short-term and early forecasting in the framework of forecasting the levels of water rise in water bodies is considered: a comparative review is given, which describes their advantages and disadvantages. In the course of analyzing the shortcomings of these methods, the problem of operational and early (advance) forecasting of water rise levels was identified. To solve this problem, a decision support system is proposed for predicting the water rise levels in advance, based on a neural network (intelligent) analysis of retrospective data (date, water level, air temperature, atmospheric pressure and wind speed) to calculate the water level values for 5 days in advance. The artificial neural network itself is based on the freely distributed library of machine learning programs "TensorFlow", and a modified backpropagation method is used as training, the main difference of which is an increase in the learning rate of an artificial neural network. The results of the analysis of the effectiveness showed that the proposed decision support system is more accurate (the error between the real and calculated values does not exceed 2.10 %), compared to existing common methods/systems (8.36 %). This will allow to give the necessary time to special services for the implementation of flood control measures to prepare for the protection of technical facilities of enterprises.</p>
+   item_keywords: forecasting, intellectual analysis, neural network analysis, retrospective data, data mining, forecasting water levels
+   item_pages: '301–308'
+   item_comment: 'The study is conducted with financial support from the Ministry of Education and Science of the Russian Federation as part of the basic part of the state assignment to higher education educational institutions # FEUE-2020-0007. The article was based on the materials of the report at the IX All-Russian Scientific Conference "Information Technologies for Intelligent Decision Support" ITIDS-2021.'
+   item_citation: 'Palchevsky E. V., Antonov V. V. Decision Support System based on Application of the Second Generation Neural Network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308.'
+---
