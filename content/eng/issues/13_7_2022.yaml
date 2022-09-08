@@ -1,0 +1,106 @@
+---
+title: Issue N7 2022 year
+content:
+ - doi: 13.311-321
+   udk: "004.413"
+   item_authors: "Zmeev D. O., Zmeev O. A., Ivanova L. S."
+   item_name: "Antipattern Practice for Essence Practice Library"
+   item_authors_address: |
+     <b> D. O. Zmeev</b>, denis.zmeev@accounts.tsu.ru, <b> O. A. Zmeev</b>, ozmeyev@gmail.com, <b> L. S. Ivanova</b>, lidiya.ivanova@persona.tsu.ru, Tomsk State University, Tomsk, 634050, Russian Federation
+   item_corr_author: "Lidiya S. Ivanova, Assistant, Tomsk State University, 634050, Tomsk, Russian Federation, E-mail: lidiya.ivanova@persona.tsu.ru"
+   item_rec_on:  April 03, 2022
+   item_acc_on:  May 26, 2022
+   item_annot: |
+     <p> The Essence graphical representation language allows to describe various project management practices in software development. At the moment, the Practice Library describes the most popular development methodologies, but work with various risks, such as code smells or antipatterns, which may be cause of future problems, is not represented.
+     This article presents an extension for the Practice Library of the Essence language in the form of a practice for working with antipatterns. To represent antipatterns in the system, the Antipattern subalpha, its states and checkpoints are proposed. Antipatterns states and checkpoints:
+     1.	Detected:
+     о Signs of poor-quality design or implementation of the Software System have been found.
+     о The boundaries of the low-quality area in the Software System have been defined.
+     о Work Products associated with the inferior part of the Software System have been defined.
+     2.	Identified:
+     о The Software System Elements included in the Antipattern have been determined. о The type of antipattern has been determined.
+     о Dependencies of the Software System on the antipattern elements have been determined. о The impact of the antipattern on the Software System has been estimated.
+     3.	Refactoring Method Defined:
+     о Possible options for refactoring have been identified. о The cost of the refactoring options has been assessed. о The most suitable refactoring method has been selected.
+     4.	Fixed:
+     о The Software System elements included in the antipattern are completely covered by tests. о The antipattern has been refactored.
+     о Tests confirm that the Software System remains operational.
+     о The Work Products related to the changed part of the Software System have been updated.
+     5.	Closed:
+     о Tests, reviews or other appropriate activities have been undertaken to ensure that the antipattern has been
+     corrected or shown not to actually be a fault or flaw. о The antipattern management has been finalized. о Technical debt has decreased. To record data about an antipattern, the work product Antipattern Report and its levels of details with checkpoints are proposed. Levels of details and checkpoints are:
+     1.	Antipattern detected:
+     о The components of the Software System included in the antipattern are defined.
+     2.	Antipatterns properties are determined:
+     о An antipattern type has been defined.
+     3.	Antipattern influence determined:
+     о The cost of antipattern fixing was estimated.
+     о An assessment of possible losses associated with the presence of an antipattern was carried out. о The antipattern is recognized as mandatory for elimination.
+     4.	Antipattern eliminated — optional:
+     о Refactoring completed.
+     о Testing showed the correct work of the components included in the antipattern. о Antipattern elimination activity completed. To analyze the architecture of the system, the Inspect Architecture activity is proposed. The Fix Architecture activity represents actions to fix architecture flaws. Code analysis is presented as a Review the Code activity, and correction of deficiencies found during the analysis is presented as a Refactor the Code activity. The influence of subalpha on the state of the Software System alpha is analyzed. Recommendations were given on the proposed activities. Information about activities is presented in the form of diagrams in the Essence language.
+     The proposed practice allows to record information about the found flaws in the code, process them correctly and avoid problems with the project in the future. It is an example of working with entities that negatively affect the progress of the project.
+     </p>
+   item_keywords: Antipattern, Code Review, Code Smell, Development, Essence, Practice, Practice Library, Project Management, Refactoring, SEMAT
+   item_pages: '311—321'
+   item_citation: ' Zmeev D. O., Zmeev O. A., Ivanova L. S. Antipattern Practice for Essence Practice Library, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 311—321.'
+ - doi: 13.322-330
+   udk: "004.852"
+   item_authors: "Gaydamaka K. I., Ognyanovich P. A."
+   item_name: "Applying Supervised Machine Learning Methods to Determine the Atomicity of Requirements for Complex Technical Systems"
+   item_authors_address: |
+     <b> K. I. Gaydamaka</b>, k.gaydamaka@gmail.com, Department of Systems Engineering, MIREA — Russian Technological University, Moscow, 119454, Russian Federation, <b> P. A. Ognyanovich</b>, Pasha2la71@gmail.com, National Research Nuclear University MEPhI
+   item_corr_author: 'Kirill I. Gaydamaka, Senior Lecturer, Department of Systems Engineering, "MIREA — Russian Technological University", Moscow, 119454, Russian Federation, E-mail: k.gaydamaka@gmail.com'
+   item_rec_on:  November 16, 2021
+   item_acc_on:  June 06, 2022
+   item_annot: |
+     <p> The article is devoted to the problem of determining the atomicity of requirements for complex technical systems. The purpose of this article is to apply supervised machine learning methods, namely classification, to determine the atomicity of requirements. It is assumed that feature engineering based on the linguistic features of requirements state­ments will make it possible to classify requirements into atomic and non-atomic ones with high accuracy. The article describes the use of the following methods for generating features: fastText, BERT, customFeature. Requirements are classified using a logistic classifier, decision trees, random forest, and gradient boosting. The best combination of methods turned out to be using customFeature with gradient boosting.</p>
+   item_keywords: gradient boosting, BERT, requirements management, machine learning, requirements atomicity, requirements quality
+   item_pages: '322—330'
+   item_comment: The article is based on the materials of the report at the Seventh International Conference "Actual problems of Systems and Software Engineering" APSSE 2021.
+   item_citation: 'Gaydamaka K. I., Ognyanovich P. A. Applying Supervised Machine Learning Methods to Determine the Atomicity of Requirements for Complex Technical Systems, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 322—330.'
+ - doi: 13.331-343
+   udk: "004.93'1"
+   item_authors: "Alexandrov D. V."
+   item_name: "Overview of Face Recognition Algorithms for Person Identification"
+   item_authors_address: |
+     <b> D. V. Alexandrov</b>, dmalex-m2@yandex.ru, School of Software Engineering, National Research University Higher School of Economics, Moscow, 109028, Russian Federation, Department of Corporate Information Systems MIREA — Russian Technological University, Moscow, 119454, Russian Federation
+   item_corr_author: " Dmitriy V. Alexandrov, Professor, National Research University Higher School of Economics, Moscow, 109028, Russian Federation, MIREA — Russian Technological University, Moscow, 119454, Russian Federation, E-mail: dmalex-m2@yandex.ru"
+   item_rec_on:  July 13, 2021
+   item_acc_on:  March 28, 2022
+   item_annot: |
+     <p> Trends in computer vision and pattern recognition and capabilities of modern computers contributed to a considerable amount of research of these areas application in facial recognition systems. The purpose of this paper is to investigate the most significant methods of face recognition. In the first two sections of current paper, the methods of face recognition and identification are presented. The analysis of these methods covers the most important features of the pattern recognition area. An application of groups of methods is considered for different purposes. This paper contains comments for capabilities of algorithms under observation. The third section reveals result of the algorithms testing using real-world datasets and examples.</p>
+   item_keywords:  person identification, face recognition, neural networks, machine learning
+   item_pages: '331—343'
+   item_comment: The article is based on the materials of the report at the Seventh International Conference "Actual problems of Systems and Software Engineering" APSSE 2021.
+   item_citation: 'Alexandrov D. V. Overview of Face Recognition Algorithms for Person Identification, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 331—343.'
+ - doi: 13.344-353
+   udk: "004.4'2"
+   item_authors: "Stupina M. V."
+   item_name: "The Architecture of the Software System for Supporting Attendance Records at the University"
+   item_authors_address: |
+     <b> M. V. Stupina</b>, masamvs@bk.ru, Don State Technical University, Rostov-on-Don, 344003, Russian Federation
+   item_corr_author: "Mariya V. Stupina, Associate Professor, Don State Technical University, Rostov-on-Don, 344003, Russian Federation, E-mail: masamvs@bk.ru"
+   item_rec_on:  April 07, 2022
+   item_acc_on:  May 11, 2022
+   item_annot: |
+     <p> Nowadays, in accordance with the modular rating system adopted in universities, as well as due to the shift in emphasis towards the independent work of students and the construction of individual educational trajectories, the task of accounting for attendance at classes is being updated. The purpose of this paper is to develop the architecture of a software system that allows you to automate the process of confirming the presence of students in the classroom. Based on the analysis of modern works and the technical capabilities of current software solutions, the method of scanning the unique QR code of each training session with the camera of the students mobile device was chosen as the most optimal means of solving this problem. The paper presents the results of visual modeling of the software system, as well as the structure of the system, which includes the teachers console in the form of a web application in PHP and a mobile application for the iOS platform developed in Swift. The organization of data storage in the MySQL DBMS, the structure of relations are described. The main algorithms for the operation of the main software modules for scanning and generating a QR code are considered. Test examples of the operation of a web application and a mobile application as the main components of the system are given. With a high degree of confidence, we can assume that the presented system will be effective for solving attendance accounting problems. </p>
+   item_keywords: attendance records, electronic journal, QR code, precedent diagram, system architecture, mobile application, web application, processing server, MySQL DBMS, Swift, PHP
+   item_pages: '344—353'
+   item_citation: ' Stupina M. V. The Architecture of the Software System for Supporting Attendance Records at the University, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 344—353.'
+ - doi: 13.354-359
+   udk: "004.891.2"
+   item_authors: "Ermilov E. E., Postnyi A. V."
+   item_name: "Curriculum Personalization through the Application of Reinforcement Learning Algorithms"
+   item_authors_address: |
+     <b> E. E. Ermilov</b>, Lead Data Scientist, egor.e.ermilov@gmail.com, <b> A. V. Postnyi</b>, Deputy Head of Methodological Department, alekh.po@gmail.com, Limited liability company Interda, Moscow, 117639, Russian Federation
+   item_corr_author: 'Egor E. Ermilov, Lead Data Scientist,Limited liability company "Interda", Moscow, 117639, Russian Federation, E-mail: egor.e.ermilov@gmail.com'
+   item_rec_on:  April 11, 2022
+   item_acc_on:  May 11, 2022
+   item_annot: |
+     <p> Individual curriculum Personalization contributes to improving the education quality. It takes into account the individual issues of each student and changes the program accordingly. This article discusses the application of recommender algorithms and Markov decision-making process to the problem of making an individual students schedule.
+     The algorithm is based on the collected historical data of assessments both to identify the most effective lesson chains among all students, and to combine individual lesson chains.</p>
+   item_keywords: education, personalization, artificial intelligence, machine learning, curriculum, schedule, reinforcement learning
+   item_pages: '354—359'
+   item_citation: 'Ermilov E. E., Postnyi A. V. Curriculum Personalization through the Application of Reinforcement Learning Algorithms, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 354—359.'
+---
