@@ -1,0 +1,66 @@
+---
+title: Issue N8 2022 year
+content:
+ - doi: 13.363-382
+   udk: "519.714"
+   item_authors: "Bibilo P. N."
+   item_name: "Hardware Implementation of Code Converters Designed to Reduce the Length of Binary Encoded Words"
+   item_authors_address: |
+     <b>P. N. Bibilo</b>, bibilo@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: "Petr N. Bibilo, Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, 220012, Minsk, Belarus, E-mail: petr.olibib@yandex.ru, bibilo@newman.bas-net.by"
+   item_rec_on:  June 09, 2022
+   item_acc_on:  June 27, 2022
+   item_annot: |
+     <p> The problem of synthesis of combinational circuits of code converters designed to reduce the length of words from a given set of encoded binary words is considered. The encoding assumes that different binary words will be encoded by different binary codes of shorter length. Code converters of this type are designed to reduce the length of binary words transmitted in digital systems over data buses when the bit depth of the transmitted words exceeds the bit depth of the data bus. For example, 18-bit or 17-bit words need to be transmitted over a 16-bit data bus. Each such word can be transmitted in two cycles of operation of a digital system, however, this approach reduces the overall performance of the system. One of the approaches to solve such problems is the development of combinational circuits that convert long binary encoded words into shorter ones.
+     The proposed methods for solving the problem of synthesizing circuits of code converters are based on the compilation and logical minimization of such forms of systems of incompletely specified Boolean functions as disjunc­tive normal forms (DNF) and binary decision diagrams (BDD). Using BDD to minimize representations of k-valued functions that depend on Boolean variables is also proposed. Technologically independent logical minimization of functional descriptions of the designed code converters is proposed to be performed by programs for minimizing systems of Boolean functions in the DNF class and programs for joint minimization of BDD representations of systems of completely specified Boolean functions. Minimization of functional descriptions is aimed at reducing the hardware complexity of combinational circuits in the basis of library elements or programmable FPGA elements implementing code converters of the class in question.</p>
+   item_keywords: code converter, system of Boolean functions, Disjunctive Normal Form, Binary Decision Diagram, Shannon expansion, digital logic synthesis, VHDL, VLSI
+   item_pages: ' 363–382'
+   item_citation: 'Bibilo P. N. Hardware Implementation of Code Converters Designed to Reduce the Length of Binary Encoded Words, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 363—382.'
+ - doi: 13.383-393
+   udk: "004.5"
+   item_authors: "Levonevskiy D. K., Motienko A. I."
+   item_name: "Scenario Models for the Functioning of a Medical Cyber-Physical System in Normal and Emergency Situations"
+   item_authors_address: |
+     <b> D. K. Levonevskiy</b>, levonevskij.d@iias.spb.su, <b> A. I. Motienko</b>, anna.gunchenko@gmail.com, St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
+   item_corr_author: " Dmitrii K. Levonevskiy, PhD, Head of Laboratory, St. Petersburg Federal Research Center of the Russian Academy of Sciences, Saint Petersburg, 199178, Russian Federation, E-mail: levonevskij.d@iias.spb.su"
+   item_rec_on:  May 05, 2022
+   item_acc_on:  June 27, 2022
+   item_annot: |
+     <p> The existing solutions in the field of medical cyber-physical systems, considers their individual components and patient monitoring systems are studied in the paper. It has been established that there are separate developments in this area, but there is no comprehensive approach to organizing the cyber-physical environment of patients in hospitals and various other inpatient institutions.
+     In the course of the study, some regular and emergency scenarios for the functioning of medical cyber-physical systems have been studied. Its are implemented when patients interact with the system while at home, as well as while in hospitals and various other inpatient institutions. These scenarios have been simulated at the logical level. To model processes, activity diagrams are constructed, data structures are described using class diagrams. The generalized architecture of the medical cyber-physical system is given. The obtained solutions can be used in the design and development of medical cyber-physical systems and their components that monitor the health status of patients, interact with them, collect and visualize health data, and solve auxiliary problems. The application of the proposed solutions will enable medical specialists to receive and evaluate information more quickly, which, in turn, will lead to an increase in the quality of medical services provided.</p>
+   item_keywords: medical cyber-physical system, smart space, human-machine interaction, decomposition, software design
+   item_pages: '383—393'
+   item_citation: 'Levonevskiy D. K., Motienko A. I. Scenario Models for the Functioning of a Medical Cyber-Physical System in Normal and Emergency Situations, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 383—393.'
+ - doi: 13.394-403
+   udk: "004.93'1"
+   item_authors: "Kapustin D. A., Shvyrov V. V., Shulika T. I."
+   item_name: "Static Analysis of the Source Code of Python Applications"
+   item_authors_address: |
+     <b> D. A. Kapustin</b>, kap-kapchik@mail.ru, <b> V. V. Shvyrov</b>, slsh@i.ua, <b> T. I. Shulika</b>,  shulika-tatyana@mail.ru, Lugansk State Pedagogical University, Lugansk, 91011, Lugansk Peoples Republic
+   item_corr_author: " Denis A. Kapustin, Associate Professor, Lugansk State Pedagogical University, Lugansk, 91011, Lugansk Peoples Republic, E-mail: kap-kapchik@mail.ru"
+   item_rec_on:  July 08, 2022
+   item_acc_on:  July 21, 2022
+   item_annot: |
+     <p> One of the popular methods of software code analysis is the static analysis method. This method allows not only to check the code for compliance with the language specification, but also to find potential vulnerabilities. The work performs a static analysis of a corpus of open source Python application. Using the Bandit library, statistical indicators of various categories of potential vulnerabilities are found, a rating table of vulnerabilities found in the studied data set is built. A qualitative analysis of threats is carried out according to their danger based on the CWE catalog data.
+     The purpose of this work is to analyze a corpus of open source Python listings for potential vulnerabilities using a static analyzer and rank threats based on the potential vulnerabilities found.
+     Thus, the study should answer the following questions:
+     Q1. What categories of potential vulnerabilities in the CWE catalog are most common in Python open source projects?
+     Q2. What categories of tests (checks) of the Bandit library found the most vulnerabilities? Q3. Is there a correlation between the obtained statistical data and the OWASP rating data?</p>
+   item_keywords:  bandit, big data, CWE, linters, OWASP, python dataset, security analysis, static analysis, source code analysis, threat, vulnerability
+   item_pages: ' 394–403'
+   item_citation: 'Kapustin D. A., Shvyrov V. V., Shulika T. I. Static Analysis of the Source Code of Python Applications, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 394—403.'
+ - doi: 13.404-412
+   udk: "004.82"
+   item_authors: "Lukoyanychev A. V."
+   item_name: "Integrated Learning System of Sign Language"
+   item_authors_address: |
+     <b>  A. V. Lukoyanychev</b>  , dizzystyle@yandex.com, Novosibirsk state technical University, Novosibirsk, 630073, Russian Federation
+   item_corr_author: " Alexey V. Lukoyanychev, Undergraduate, Novosibirsk state technical University, Novosibirsk, 630073, Russian Federation, E-mail: dizzystyle@yandex.com"
+   item_rec_on:  June 10, 2022
+   item_acc_on:  June 27, 2022
+   item_annot: |
+     <p> The developed integrated system of sign language teaching, aimed at a wide range of users, is considered. The Dimskis notation for sign language writing implementation and the Unity 3D cross-platform development to control an animated 3D character are used in this system. The approach for the describing of 3D character movements based on the meta-language is proposed. The Dimskis notation has been expanded, within the framework of the meta-language. Additional and service characters, control words, special coordinates were introduced. Special control symbols and rules for processes synchronization have been developed. It is allows one to implement the movement of several elements at different times, to create complex movements, returning them to the initial state, to cancel the transferences of individual moving elements by using the "fictitious" movement, to change only individual coordinates of the avatars hand. The technique of creating the sign language reference book is considered. The advantages of this approach are analyzed. In addition to this full-fledged functional toolkit for creating the reference book the integrated system has the ability to test the users knowledge. The mode gesture demonstration — answer selection is proposer for mobile devices. For stationary devices with a fixed web camera the user has to show the gesture proposed by the system. The following stages of this mode implementation are considered: image capture, gesture localization, gesture identification, decision making. The gesture localization is based on the double background subtraction and histogram method. The gesture identification is based on the projection method and is carried out in two stages. At the first stage the entire hand is analyzed. If it is difficult to make a decision at this stage, then the second stage is carried cut, where only fingers are analyzed. The trend of arm movement between key frames is additionally determined for dynamic gestures. The features of each of the stages are shown. The algorithm for making a decision is given. The results of an experimental investigation are presented.</p>
+   item_keywords: sign language, Dimskis notation, Unity 3D, avatar control meta-language, gesture localization, gesture identification
+   item_pages: '404—412'
+   item_citation: 'Lukoyanychev A. V. Integrated Learning System of Sign Language, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 404—412.'
+---
