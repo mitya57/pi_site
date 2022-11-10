@@ -1,0 +1,90 @@
+---
+title: Issue N9 2022 year
+content:
+ - doi: 13.415-424
+   udk: "519.237.5"
+   item_authors: "Galatenko V. A., Kostyukhin K. A."
+   item_name: "Hardware Debugging: an Overview of Modern Approaches"
+   item_authors_address: |
+     <b>V. A. Galatenko</b>, galat@niisi.ras.ru, <b>K. A. Kostyukhin</b>, kost@niisi.ras.ru,
+     Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
+   item_corr_author: 'Konstantin A. Kostyukhin, Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on:  July 12, 2022
+   item_acc_on:  July 27, 2022
+   item_annot: |
+     <p> The ubiquity of complex devices built on systems on chip (SoC) with multiple processor cores poses new challenges for developers of embedded systems. New development tools specifically designed for complex systems on chip can help solve them, but these tools are usually limited by the functionality of debugging support tools. High-quality debugging support with advanced features is necessary to take full advantage of complex SoC devices while reducing development time. The article discusses various mechanisms and ways to implement support for debugging systems on chip designed for complex real-time systems used, for example, in the Internet of Things (IoT) paradigm. This review includes an assessment of the available solutions and their suitability for use with the next generation of complex systems on chip with multiple processor cores. It is shown that many existing solutions do not allow developers to easily take advantage of complex functions integrated into the next-generation SoC. The basic debugging support functions for multicore SoCs are summarized and discussed. Recommendations are given for SoC develo­pers and for the future direction of research in this area in order to provide a more suitable basis for new development tools. Such tools are extremely necessary for all embedded hard real-time systems and are of high importance for minimizing the complexity of their development.
+     Modern systems and devices implementing the Internet of Things paradigm are increasingly required to have sufficiently high real-time performance while maintaining low power consumption. These requirements lead to the cre­ation of multicore SoC solutions with support for a wide range of peripheral devices and communication protocols. The systems are limited by the requirements for working in harsh conditions, such as, for example, in the engine compart­ment of a car or on a radar tower. The development of embedded hard real-time systems, in which a task that fails to be completed on time can lead to physical damage of the device, is a complex process.
+     Effective tools, such as interactive debuggers and profilers, are an integral part of solving these problems and are vital for developing reliable embedded systems. Modern technologies now allow the integration of the entire system on a single silicon chip, known as a system on a chip (SoC), which leads to the relocation of existing external interfaces, widely used for development purposes, to the chip. Traditionally, communication within an embedded system is carried out using an external processor system bus, which is implemented in the form of tracks on a printed circuit board. The printed circuit board must support the appropriate interfaces of development tools that require a physical connection, such as, for example, logic analyzers and oscilloscopes. Previously, placing exter­nal interfaces on a chip left fewer options for external analysis tools and, in fact, makes developers "blind" to the internal state of the SoC. Without a reliable and consistent representation of the state of the embedded system, the detection of defects or errors in the system may become difficult or even impossible. The main solution to the problem of the lack of external interfaces is to provide access to internal nodes from outside the system through existing interfaces. There are many different approaches to achieving the required visibility, and they are outlined in this review.</p>
+   item_keywords: system on a chip, hardware debugging, SoC, scan chains, JTAG, tracing
+   item_pages: '415—424'
+   item_citation: ' Galatenko V. A., Kostyukhin K. A. Hardware Debugging: an Overview of Modern Approaches, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 415—424.'
+ - doi: 13.425-439
+   udk: "004.67; 519.22; 330.46"
+   item_authors: "Orlova E. V."
+   item_name: "System Engineering of the Organizational and Technical Systems' Digital Twins Using Artificial Intelligence Methods"
+   item_authors_address: |
+     <b> E. V. Orlova</b>, ekorl@mail.ru, Department of economics and management,
+     Ufa state aviation technical university, Ufa, 450008, Russian Federation
+   item_corr_author: "Ekaterina V. Orlova, D. Sc., Professor, Department of economics and management, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation, E-mail: ekorl@mail.ru"
+   item_rec_on:  July 15, 2022
+   item_acc_on:  August 18, 2022
+   item_annot: |
+     <p> The article considers the problem of digital twin design of organizational and technical systems. The theoretical and methodological basis of the research is the fundamental scientific works and applied works of Russian and foreign scientists in the field of digitalization and digital twins. Following methods are used in the research: system analysis, statistical analysis, operational research, artificial intelligence.
+     A comprehensive analysis of approaches and methods for digital twin design of organizational and technical systems is carried out. It is shown that for complex organizational and technical systems operating under uncertainty, there is no comprehensive, universal technology (methodological approach) for organization the process of developing digital twins in order to accelerate their engineering.
+     The technology for organizing a digital twin design, combining design stages, methods and models, and providing its system engineering is proposed.
+     The decision support model is developed for diagnosing the technical state of an object (technical device), based on the methods of situational analysis and fuzzy logic, which provides the synthesis of effective solutions under various situations and combinations of heterogeneous factors characterizing the object and its external environment.
+     The practical significance of the research is the developed decision support system, which is the basis for control system in solving problems related to monitoring the current state of technical devices (instruments, equipment) and developing adequate decisions to eliminate their disfunctions.</p>
+   item_keywords: digital twin; methods for modeling digital twins; system design of digital twins; artificial intelligence methods
+   item_pages: '425—439'
+   item_citation: "Orlova E. V. System Engineering of the Organizational and Technical Systems' Digital Twins Using Artificial Intelligence Methods, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 425—439."
+ - doi: 13.440-448
+   udk: "004.42"
+   item_authors: "Kol'chugina E. A."
+   item_name: "Self-Synthesis of Programs Based on Artificial Chemistry Model"
+   item_authors_address: |
+     <b> E. A. Kolchugina</b>, kea_sci@list.ru, Department of Mathematical Support and Computer Application, Penza State University, Penza, 440026, Russian Federation
+   item_corr_author: " Elena A. Kolchugina, D. Sci., Professor, Department of Mathematical Support and Computer Application, Penza State University, Penza, 440026, Russian Federation, E-mail: kea_sci@list.ru"
+   item_rec_on: May 15, 2022
+   item_acc_on: September 05, 2022
+   item_annot: |
+     <p> Fully automatic software synthesis will become possible when simpler programs or program components become able to spontaneously and inevitably attract each other and connect with each other. To achieve this, it is necessary to construct special means to provide spontaneous interactions between programs, since currently there are no such means. In this article, using the principles of artificial chemistry, we propose an algebra of "sinks-and-sources", a concept of artificial atom and a model called H2O. We also describe experiments with this model, in which the formation of a model molecule of "water" is reproduced. We represent artificial atoms of simple substances, such as oxygen and hydrogen, as independent processes corresponding to two types of programs. We construct connections between individual atoms using sockets, which are necessary to simulate shared particles from outer orbitals. During the experiments, we registered the emergence of artificial molecules of "water" and other complex substances. The experimental results prove that simple software units implementing the proposed principles are capable of sponta­neously forming complex software structures without directed external influence. The achieved results are useful to software engineering, artificial life and artificial intelligence to provide self-development of software and complex logical structures capable of further evolution and self-improvement.</p>
+   item_keywords:  automatic software synthesis, spontaneous self-formation of complex programs, artificial chemistry, artificial atom
+   item_pages: '440—448'
+   item_citation: "Kol'chugina E. A. Self-Synthesis of Programs Based on Artificial Chemistry Model, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 440—448."
+ - doi: 13.449-461
+   udk: "004, 004.3, 004.9, 519.6, 519.7, 519.8"
+   item_authors: "Bernadotte A."
+   item_name: "Structural Modification of the Finite State Machine to Solve the Exponential Explosion Problem"
+   item_authors_address: |
+     <b>  Bernadotte A. </b>  , bernadotte.alexandra@intsys.msu.ru,
+     Department of Information Technologies and Computer Sciences, National University of Science and Technology MISIS (NUST MISIS), Moscow, 119049, Russia Federation, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119991, Russia Federation
+   item_corr_author: "Alexandra Bernadotte, Associate Professor, Department of Information Technologies and Computer Sciences, National University of Science and Technology MISIS (NUST MISIS), Moscow, 119049, Russian Federation, Faculty of Mechanics and Mathematics, Moscow State University, Moscow, 119991, Russian Federation, E-mail: bernadotte.alexandra@intsys.msu.ru"
+   item_rec_on:  July 07, 2022
+   item_acc_on:  August 10, 2022
+   item_annot: |
+     <p> In many modern applications, such as intrusion detection and prevention systems, expert knowledge can be formalized in the form of regular expressions. After this formalization, a finite automaton checks whether a word belongs to a regular language.
+     Deterministic finite automata have an optimal time complexity, but the number of automaton states (space com­plexity) can grow exponentially with the length of the regular expression. At the same time, the time complexity is the main disadvantage of non-deterministic finite automata. Therefore, reducing spatial complexity while maintaining low time complexity is highly relevant. In applied problems of regular language recognition, a significant problem is the problem of the exponentially growing number of states of the recognizing deterministic finite automaton depending on the length of regular expressions of the recognized language — the exponential explosion problem.
+     There are the following three main approaches to solving this problem using finite automata: 1) restriction on signatures given by experts; 2) regular language modification — this approach assumes the appearance in the solution of a practical problem of recognizing errors of the first and second kind; 3) finite automata modification without recognizing regular language changing. The third approach can be implemented as a finite automata modification through compression algorithms and particular structural elements.
+     The paper presents a review of modern solutions, the main idea of which is the transition from an abstract finite automaton, represented by a table-specified function, to a structural automaton that combines the abstract part stored in the memory and various structural elements such as bit arrays and counters.
+     Some ideas and algorithms have become especially successful when solving the exponential explosion problem by adding special structural elements.
+     First, such successful solutions include the use of counters. Second, the idea of storing additional information about the state machine. Third, the combination of non-deterministic and deterministic finite automata. Fourth, the economic attitude to the state machine regarding its location to fast and slow memory allows us to consider the em­pirical experience of accumulated malicious traffic in intrusion detection systems.</p>
+   item_keywords: finite state machine, exponential explosion problem, network intrusion detection systems, structural complexity, complexity reduction, regular languages, regular expressions
+   item_pages: '449—461'
+   item_citation: 'Bernadotte A. Structural Modification of the Finite State Machine to Solve the Exponential Explosion Problem, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 449—461.'
+ - doi: 13.462-468
+   udk: "629.113"
+   item_authors: "Zuev S. M., Varlamov D. O., Akramov U. I., Kuksa V. V."
+   item_name: "A Software-Implemented Model of a Device for Monitoring the Parameters of an Automatic Gearbox of a Car"
+   item_authors_address: |
+     <b>  S. M. Zuev</b>  , sergei_zuev@mail.ru,
+     MIREA — Russian Technological University, Moscow, 119454, Russian Federation, <b>   D. O. Varlamov</b>  , e-mail: varlamovd@mail.ru, <b>  U. I. Akramov</b>  , ulugbekakramov97@gmail.com, <b>   V. V. Kuksa</b>  , ya.vetal11@yandex.ru,
+     Moscow Polytechnic University, Moscow, 432700, Russian Federation
+   item_corr_author: "Sergei M. Zuev, PhD, Associate Professor, MIREA — Russian Technological University, Moscow, 119454, Russian Federation E-mail: sergei_zuev@mail.ru"
+   item_rec_on:  July 15, 2022
+   item_acc_on:  July 28, 2022
+   item_annot: |
+     <p> The paper presents a description of a device for monitoring the parameters of an automatic transmission of a car, which allows you to monitor in real time such parameters as the temperature of the automatic transmission oil, the rotational speed of the shafts, the serviceability of both the pressure sensors themselves and the valves that are responsible for the increase in pressure and keeping it within the required limits to activate certain pressure sensors. This device, due to its simplicity, has a wide range of applications, both in car service and in production. In addition, the device allows you to determine the cause of the automatic transmission malfunction at an early stage and prevent costly repairs.</p>
+   item_keywords: automatic gearbox (automatic transmission), Atmega32 microcontroller, Hall sensors, thermoresistive sensors, oil temperature, shaft speed
+   item_pages: '462—468'
+   item_citation: 'Zuev S. M., Varlamov D. O., Akramov U. I., Kuksa V. V. A Software-Implemented Model of a Device for Monitoring the Parameters of an Automatic Gearbox of a Car, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 462—468.'
+---
