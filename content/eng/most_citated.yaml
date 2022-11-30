@@ -39,6 +39,18 @@ content:
     item_issue: 4
     doi:
     link: _4_2015_1
+  - item_title: "Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems"
+    item_authors: V.L. Makarov,A.R. Bakhtizin, G.L. Beklaryan, A.S. Akopov
+    item_year: 2019
+    item_issue: 4
+    doi: 10.167-177
+    link: 10.167-177
+  - item_title: "Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats"
+    item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
+    item_year: 2014
+    item_issue: 3
+    doi:
+    link: _3_2014_3
   - item_title: "Verification and Synthesis of Effective Programs for Standard Functions under Predicate Programming Technology"
     item_authors: Shelekhov V. I.
     item_year: 2011
@@ -51,16 +63,4 @@ content:
     item_issue: 7
     doi:
     link: _7_2011_5
-  - item_title: "Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats"
-    item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
-    item_year: 2014
-    item_issue: 3
-    doi:
-    link: _3_2014_3
-  - item_title: "Research of Properties of an Assessment of the Resolution of Grassmann's Transformation in Chromaticity Coding Systems, Applied in Avionic Equipment"
-    item_authors: Zharinov I. O., Zharinov O. O.
-    item_year: 2014
-    item_issue: 8
-    doi:
-    link: _8_2014_6
 ---
