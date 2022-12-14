@@ -1,0 +1,85 @@
+---
+title: Issue N10 2022 year
+content:
+ - doi: 13.471-482
+   udk: "004.2+004.4"
+   item_authors: "Korneev V. V."
+   item_name: "Routing in a Communication Fabric of a Computing System with Distributed Shared Memory and Synchronization based on FE-Bits"
+   item_authors_address: |
+     <b> V. V. Korneev</b>, korv@rdi-kvant.ru,
+     FSUE R&D Institute "Kvant", Moscow, 125438, Russian Federation
+   item_corr_author: 'Victor V. Korneev, Principal Researcher, FSUE R&D Institute "Kvant", Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru'
+   item_rec_on: September 13, 2022
+   item_acc_on: September 29, 2022
+   item_annot: |
+     <p> This article discusses an architecture based on the paradigm of using all possible processes parallelism. The user should only specify which calculations can be performed in parallel threads over shared memory, conforming only to the selected algorithm. This allows you to create the maximum flow of memory accesses inherent in the algorithm. If necessary, read, and only then write a new value instead to the corresponding shared memory cell, the user believes that the conflict resolution mechanism is implemented by hardware memory access control. In general, the proposed architecture is aimed at solving the same problems as the EMU and PIUMA architectures, but uses "smart" controllers of shared memory blocks to synchronize threads and implement atomic operations.
+     For a large flow of accesses to distributed shared memory, energy-efficient routing is necessary. This paper proposes arithmetic routing, which is applicable in any communication fabrics, including with graphs of Dragonfly and graphs with the minimum possible length of the middle path and with the same number of vertices N and degrees of vertices v. An addressing and routing algorithm is proposed that provides energy-efficient access to distributed shared memory. Routing enables fault-tolerant operation based on the choice of alternative routes.</p>
+   item_keywords: architecture of a computing system with distributed shared memory, parallel programming model, coordinate addressing, energy-efficient routing, arithmetic routing
+   item_pages: '471—482'
+   item_citation: 'Korneev V. V. Routing in a Communication Fabric of a Computing System with Distributed Shared Memory and Synchronization based on FE-Bits, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 471—482.'
+ - doi: 13.483-496
+   udk: "004.05"
+   item_authors: "Abdullin A. M., Itsykson V. M."
+   item_name: "Reanimator: from Test Data to Code and Back"
+   item_authors_address: |
+     <b> A. M. Abdullin</b>, Post-Graduate Student, Senior Lecturer, azat.aam@gmail.com, <b> V. M. Itsykson</b>, PhD, Associate Professor, vlad@icc.spbstu.ru,
+     Peter the Great St. Petersburg Polytechnic University (SPbPU), Saint-Petersburg, 195251, Russian Federation
+   item_corr_author: "Azat M. Abdullin, Post-Graduate Student, Senior Lecturer, Peter the Great St.Petersburg Polytechnic University (SPbPU), Saint-Petersburg, 195251, Russian Federation, E-mail: azat.aam@gmail.com"
+   item_rec_on:  September 09, 2022
+   item_acc_on:  October 10, 2022
+   item_annot: |
+     <p> State-of-the-art automatic testing tools can efficiently detect various kinds of errors in software projects; however, these errors often cannot be automatically extracted to a standalone reproducing test case, a feature valuable for the purposes of further software maintenance. Objects present the main difficulty, as generating code to construct an object given its state is hard, due to the encapsulation principle.
+     In this paper we present an approach called Reanimator that, given an object representation, is able to generate a valid code snippet which constructs this object using its publicly available API. Reanimator can be applied to any automatic testing tool to help it generate reproducing test cases for detected failures.
+     We implemented our approach as a part of an automatic testing tool called Kex and evaluated it on a number of open-source projects from GitHub. Evaluation results showed that our approach is compatible with the state of the art techniques.</p>
+   item_keywords: automatic test generation, symbolic execution, software testing
+   item_pages: '483—496'
+   item_citation: 'Abdullin A. M., Itsykson V. M. Reanimator: from Test Data to Code and Back, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 483—496.'
+ - doi: 13.497-507
+   udk: "519.684.6"
+   item_authors: "Morozov A. Yu."
+   item_name: "Parallel Algorithm for Parametric Identification of Dynamical Systems with Interval Parameters"
+   item_authors_address: |
+     <b> A. Yu. Morozov</b>, morozov@infway.ru,
+     Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences (FRC CSC RAS), Moscow, 119333, Russian Federation
+   item_corr_author: 'Alexander Yu. Morozov, Researcher, Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences (FRC CSC RAS), Moscow, 119333, Russian Federation, E-mail: morozov@infway.ru'
+   item_rec_on: July 28, 2022
+   item_acc_on: August 10, 2022
+   item_annot: |
+     <p> The paper presents a parallel algorithm for the parametric identification of dynamical systems with interval parameters. The algorithm is based on the previously developed, substantiated and tested adaptive interpolation algorithm, which makes it possible to explicitly obtain the dependence of the states of a dynamic system on interval parameters. The solution of the problem of parametric identification is reduced to the problem of minimizing a certain objective function in the space of boundaries of interval parameter estimates. Due to the use of the adaptive interpolation algorithm when calculating the gradient of the objective function, there is no need for additional analysis and modeling of the original dynamic system, so it is convenient to use first-order methods for optimization. However, the task of calculating the objective function and the gradient includes a set of conditional minimization problems for explicit functions that can be solved independently of each other. The article discusses the main aspects and features of parallelization and implementation of the parametric identification algorithm and tests it on several representative examples. The acceleration and efficiency of parallelization are analyzed.
+     </p>
+   item_keywords:  parallelization, OpenMP, parametric identification algorithm, adaptive interpolation algorithm, multidimensional interpolation, interval systems of ordinary differential equations, gradient methods, optimization
+   item_pages: '497—507'
+   item_citation: 'Morozov A. Yu. Parallel Algorithm for Parametric Identification of Dynamical Systems with Interval Parameters, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 497—507.'
+ - doi: 13.508-514
+   udk: "004.5; 004.055; 004.4'2"
+   item_authors: "Belikova S. A., Rogozov Y. I."
+   item_name: "Designing a Conceptual Model of the Process of User Interface Construction"
+   item_authors_address: |
+     <b>  S. A. Belikova</b>  , Senior Lecturer, belousova@sfedu.ru, <b>  Y. I. Rogozov</b>  , Professor, Head of Department, yrogozov@sfedu.ru,
+     Southern Federal University, Taganrog, 347922, Russian Federation
+   item_corr_author: " Svetlana A. Belikova, Senior Lecturer, Southern Federal University, Taganrog, 347922, Russian Federation, E-mail: belousova@sfedu.ru"
+   item_rec_on:  November 20, 2021
+   item_acc_on: September 30, 2022
+   item_annot: |
+     <p> Article proposes a conceptual model of the process of user interface construction for information systems, within which it is proposed to include the user into the design process, which will solve the existing problems of the adequacy of the interface and user activity in the subject area. In this case, the user is invited to compose a description of his activities in the subject area in a language close to natural by himself. The sequence of steps with the participation of the user is presented, which constitute a conceptual model of interface design. The scientific novelty of the research lies in a fundamentally different approach to the interface development, in which the user designs the application forms, relying primarily on his professional activity, and user doesnt need take into account the structure of the stored data or their processing functions, he connects data objects needed to his professional actions. The advantages of the proposed conceptual model are that it becomes possible to consider the users activity as a whole, and on this basis to build an interface that best suits this activity, which will make the interface more understandable, reduce the level of discomfort when interacting with it, and increase user satisfaction.</p>
+   item_keywords: user interface, user activity, mechanism of action, semantic approach, activity model, interface design
+   item_pages: '508—514'
+   item_citation: ' Belikova S. A., Rogozov Y. I. Designing a Conceptual Model of the Process of User Interface Construction, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 508—514.'
+   item_comment: 'The study was financially supported by the Russian Science Foundation within the research project No. 22-19-00723.'
+ - doi: 13.515-524
+   udk: "004.942"
+   item_authors: "Jordan V. I., Shmakov I. A."
+   item_name: "3D Visualization of Heterophase Intermetallic Structures Based on Computer Simulation of SHS in a Nanosized Ti-Al Layered-Block Structure"
+   item_authors_address: |
+     <b>  V. I. Jordan</b>  , PhD, Associate Professor<sup>1</sup>, Leading Mathematician<sup>2</sup>, jordan@phys.asu.ru, <b>  I. A. Shmakov</b>  , Senior Lecturer<sup>1</sup>, ihammers.sia@gmail.com,
+     <br/><sup>1</sup>Altai State University, Barnaul, 656049, Russian Federation,
+     <br/><sup>2</sup>Khristianovich Institute of Theoretical and Applied Mechanics, SB RAS, Novosibirsk, 630090,  Russian Federation
+   item_corr_author: "Vladimir I. Jordan, PhD, Associate Professor<sup>1</sup>, Leading Mathematician<sup>2</sup>, <br/><sup>1</sup>Altai State University, Barnaul, 656049, Russian Federation <br/><sup>2</sup>Khristianovich Institute of Theoretical and Applied Mechanics, SB RAS, Novosibirsk, 630090,  Russian Federation, E-mail: jordan@phys.asu.ru"
+   item_rec_on:  July 27, 2022
+   item_acc_on:  September 22, 2022
+   item_annot: |
+     <p> The paper presents the results of thermal and microstructural analysis of the SHS of intermetallic compounds in a nanosized atomic layer-block structure of Ti-Al, obtained using the freely available software packages LAMMPS and OVITO, as well as using the software of the authors of the paper. Using the LAMMPS package in the version of parallel computing, the software implementation of which is based on the "molecular dynamics" method, the SHS process is simulated. For 3D visualization of simulation results, the OVITO package is used. Among the results of microstructural analysis, noteworthy is the appearance of stable heterophase intermetallic structures during the SHS reaction, which were confirmed using the OVITO package and the software module developed by the authors for calculating a set of matter density profiles of the SHS-product. In heterophase intermetallic structures, it was possible to detect local features in the form of layered quasi-coherent intermetallic interlayers with the presence of two-dimensional defects in crystal lattices — twinning planes delimiting pairs of grains (twins) with symmetrical lattices reorientation.</p>
+   item_keywords: SH-synthesis, molecular dynamics method, Ti-Al reagent system, unit cell, layered block structure (LBS), temperature profile, density profile, heterophase intermetallic structure, lattice defect, twinning, parallel computing, LAMMPS and OVITO packages
+   item_pages: '515—524'
+   item_citation: ' Jordan V. I., Shmakov I. A. 3D Visualization of Heterophase Intermetallic Structures Based on Computer Simulation of SHS in a Nanosized Ti-Al Layered-Block Structure, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 515—524'
+---
