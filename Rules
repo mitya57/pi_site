@@ -130,5 +130,6 @@ end
 
 passthrough '/images/*'
 passthrough '/full/*'
+passthrough '/full/articles/*'
 
 layout '/**/*', :erb
