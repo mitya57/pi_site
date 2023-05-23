@@ -1,0 +1,187 @@
+---
+title: Issue N5 2023 year
+content:
+ - doi: 14.207-216
+   udk: "004.6, 004.7, 004.8"
+   item_authors: "Korzun D. G., Bogoiavlenskaia O. Yu., Kulakov K. A."
+   item_name: "Applying the Random Backoff Algorithm for Active Information Exchange Control in Smart Internet Environment Server"
+   item_authors_address: |
+     <b> D. G. Korzun</b>, Adjunct Professor, Leading Research Scientist, dkorzun@cs.karelia.ru, <b> O. Yu. Bogoiavlenskaia</b>, Associate Professor, olbgvl@cs.petrsu.ru, <b> K. A. Kulakov</b>, Associate Professor, kulakov@cs.petrsu.ru, Department of Computer Science, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: "Dmitry G. Korzun, Adjunct Professor, Leading Research Scientist, Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: dkorzun@cs.karelia.ru"
+   item_rec_on: March 10, 2023
+   item_acc_on: April 04, 2023
+   item_annot: |
+     <p> The information exchange-as a way of interaction for participants in an Internet environment-is a fundamental function of a distributed system within the computing paradigms of Internet of Things, Cyber-Physical Systems, Ambient Intelligence etc. Participants in an Internet environment are represented by software agents running typically on low-performance edge computing devices. Interaction is implemented through exchange of information collected by the participants in a shared information store that implements the «intelligence» of this environment. The organization of agents access to the shared information and of their interaction uses a semantic information broker that manages information flows between participants. With an increase in the number, diversity, and activity of participants, the workload on the broker and the data transmission network increases. In this paper, a novel method is proposed to reduce the workload by delegating part of the control of the information exchange to the participants themselves. The subscription mechanism is modified for information changes in a shared information store. Instead of the passive op­tion, when the broker must notify all agents who have subscribed to the information being changed, the active option is used, when agents themselves can check for information changes. A new two-component control method based on the well-known backoff algorithm in combination with the well-known adaptive strategy for choosing the time of sending the next request from an agent to a broker for the presence of information changes is proposed. The control capabilities are studied experimentally using a simulated Internet environment.</p>
+   item_keywords: internet environment, information exchange, software agent, semantic broker, subscription, adaptive strategy, backoff
+   item_pages: 207–216
+   item_comment: The research is implemented with financial support by Russian Science Foundation, project no. 22-11-20040 (https://rscf.ru/en/project/22-11-20040/) jointly with Republic of Karelia and funding from Venture Investment Fund of Republic of Karelia (VIF RK).
+   item_citation: 'Korzun D. G., Bogoiavlenskaia O. Yu., Kulakov K. A. Applying the Random Backoff Algorithm for Active Information Exchange Control in Smart Internet Environment, Programmnaya Ingeneria, 2023, vol. 14, no. 5, pp. 207—216. DOI: 10.17587/prin.14.207-216. (in Russian).'
+   item_references: |
+     <li>  Aboubakar M., Kellil M., Roux P. A review of IoT network management: Current status and perspectives. Journal of King Saud University — Computer and Information Sciences, 2022, vol. 34, issue 7, pp. 4163—4176. DOI. 10.1016/j.jksuci.2021.03.006. </li>
+     <li>  Korzun D., Balandina E., Kashevnik A., Balandin S., Viola F. Ambient Intelligence Services in IoT Environments: Emerging Research and Opportunities, IGI Global, 2019, 199 p. DOI: 10.4018/978­1-5225-8973-0. </li>
+     <li>  VodyahoA., Osipov V., Zhukova N., Chernokulsky V. Data collection technology for ambient intelligence systems in internet of things, Electronics (Switzerland), 2020, vol. 9, no. 11, pp. 1-26. DOI: 10.3390/electronics9111846. </li>
+     <li>  Balicki J., Balicka H., Dryja P. Big Data from Sensor Network via Internet of Things to Edge Deep Learning for Smart City, Lecture Notes in Computer Science, 2021, vol. 12883 LNCS, pp. 357—368. DOI: 10.1007/978-3-030-84340-3_29. </li>
+     <li>  Bogoiavlenskaia O., Vdovenko A., Korzun D. G., Kashevnik A. Individual client strategies for active control of information-driven service construction in IoT-enabled smart spaces, International Journal of Distributed Systems and Technologies, 2019, vol. 10, no. 2, pp. 20—36. DOI: 10.4018/IJDST.2019040102. </li>
+     <li>  Bilal K. Potentials, trends, and prospects in edge technologies: Fog, cloudlet, mobile edge, and micro data centers, Computer Networks, 2018, vol. 130, pp. 94—120. DOI: 10.1016/j.com-net.2017.10.002. </li>
+     <li>  Bogoiavlenskaia O., Korzun D., Kulakov K. Random Backoff for Active Control of Information Updates in Smart Spaces, 24th Conference of Open Innovations Association, FRUCT, 2019, pp. 47—53. DOI: 10.23919/FRUCT.2019.8711980. </li>
+     <li>  Bender M. A., Fineman J. T., Gilbert S., Young M. Scaling exponential backoff: Constant throughput, polylogarithmic channel access attempts, and robustness, Journal of ACM, 2018, vol. 66, no. 1, pp. 6:1—6:33. DOI: 10.1145/3276769. </li>
+     <li>  Allman M., Paxson V., Blanton E. RFC 5681: TCP Congestion Control, available at: http://datatracker.ietf.org/doc/rfc5681/</li>
+     <li>  Kuptsov D., Nechaev B., Lukyanenko A., Gurtov A. How penalty leads to improvement: A measurement study of wireless backoff in IEEE 802.11 networks. Computer Networks, 2014, vol. 75, part A, pp. 37—57. DOI: 10.1016/j.comnet.2014.09.008. </li>
+     <li>  Anderton W. C., Chakraborty T., Young M. Windowed backoff algorithms for WiFi: theory and performance under batched arrivals, Distributed Computing, 2021, vol. 34, pp. 367—393. DOI: 10.1007/s00446-021-00403-9. </li>
+     <li>  Mouromtsev D. Semantic reference model for individualization of information processes in IoT heterogeneous environment, Electronics (Switzerland), 2021, vol. 10, no. 20, article 2523. DOI: 10.3390/electronics10202523. </li>
+     <li>  Marchenkov S. A. Computer-Aided Programming of Software Agents Based on Code Generation in Constructing Semantic Services of Smart Spaces. Part 1, Programmnaya Ingeneria, 2019, vol. 10, no. 6, pp. 257—264. DOI: 10.17587/prin.10.257-264 (in Russian). </li>
+     <li>  Kulakov K. An approach to efficiency evaluation of services with smart attributes, International Journal of Embedded and Real-Time Communication Systems, 2017, vol. 8, no. 1, pp. 64—83. DOI: 10.4018/IJERTCS.2017010105. </li>
+     <li>  Korzun D., Gurtov A. Structured peer-to-peer systems: Fundamentals of hierarchical organization, routing, scaling, and security, Springer New York, NY, 2013, 366 p. DOI: 10.1007/978-1-4614-5483-0. </li>
+ - doi: 14.217-224
+   udk: "338.364.2"
+   item_authors: "Pashchenko D. S."
+   item_name: "Fully Remote Software Development as a New Standard in the IT Industry: European Study 2022—2023"
+   item_authors_address: |
+     <b> D. S. Pashchenko</b>, denpas@rambler.ru, Moscow, 125368, Russian Federation
+   item_corr_author: "Denis S. Pashchenko, Moscow, 125368, Russian Federation, E-mail: denpas@rambler.ru"
+   item_rec_on: February 03, 2023
+   item_acc_on: March 22, 2023
+   item_annot: |
+     <p> The pandemic and the emergence of the COVID-economy continue to have a significant impact on the organization of labor in the industries of the "new economy", of which the information technology industry is a prominent representative. By 2023, a significant number of Russian, European and global IT corporations and small software companies are working in a completely remote mode — outside the offices and without personal meetings of employees even within the same software development team. This article presents the results of a European study (Dec. 2022 — Jan. 2023), covering the experience of 48 software development and IT support teams in companies headquartered in Europe: Yandex, Sberbank, VTB to Deutsche Bank, ATOS IT, Finastra, etc. The experts determined the level of demand for new organizational and production paradigms in software development and presented their ideas and forecasts on the development of fully remote software development as a new IT industry standard in the medium term 2023—2024. The results of the study are presented in the form of solving the relevant research problems and testing the hypotheses about the level of consolidation of new paradigms in the practice of leading IT companies and their impact on the corporate culture and business processes of IT companies.</p>
+   item_keywords: IT industry, remote work, information technology, software development, COVID economy, software
+   item_pages: 217–224
+   item_citation: 'Pashchenko D. S. Fully Remote Software Development as a New Standard in the IT Industry: European Study 2022—2023, Programmnaya ingeneria, 2023, vol. 14, no. 5 pp. 217—224. DOI: 10.17587/prin.14.217-224 (in Russian).'
+   item_references: |
+     <li> Kazakov A. Gibridnyi ofis: kak sozdat' prostranstvo mechty, VC.RU, 25.03.2022, available at: https://vc.ru/office/387324-gibrid-nyy-ofis-kak-sozdat-prostranstvo-mechty (date of access 03.02.2023) (in Russian). </li>
+     <li> Espinosa A., Slaughter S. A., Kraut R. E., Hersleb J. D. Team Knowledge and Coordination in Geographically Distributed Software Development, Journal of Management Information Systems, 2007, vol. 24, no. 1, pp. 135—169. DOI: 10.2753/MIS0742-1222240104. </li>
+     <li> Pashchenko D. S. Research in CEE-region: Changes Implementation in Software Production, Programmnaya Ingeneria, 2017, vol. 8, no. 2, pp. 88—95. DOI: 10.17587/prin.8.88-95 (in Russian). </li>
+     <li> Pashchenko D. Fully Remote Software Development Due to COVID Factor: Results of Industry Research, International Journal of Software Science and Computational Intelligence, 2020, vol. 13, no. 3, pp. 64—70. DOI: 10.4018/IJSSCI.2021070105. </li>
+     <li> Pashchenko D. S. Russian Experience in Organizing Fully Remote Software Development: an Industry Study of 2021, Programmnaya Ingeneria, 2021, vol. 12, no. 6, pp. 311—318. DOI: 10.17587/prin.12.311-318 (in Russian). </li>
+     <li> Zhai J., Yang Q., Yang Y., Xiao J., Wang Q., Li M. Automated Process Quality Assurance for Distributed Software Development, Software Engineering Approaches for Offshore and Outsourced Development. SEAFOOD 2008 /К. Berkling, M. Joseph, B. Meyer, M. Nordio (eds), Lecture Notes in Business Information Processing, Springer, Berlin, Heidelberg. 2009, vol. 16, pp. 196—210. DOI: 10.1007/978-3-642-01856-5_14. </li>
+     <li> Zeller M. Towards Continuous Safety Assessment in Context of DevOps, SAFECOMP 2021: Computer Safety, Reliability, and Security. SAFECOMP 2021 Workshops, 2021, Lecture Notes in Computer Science book series, vol. 12853, pp. 145—157. DOI: 10.1007/978-3-030-83906-2_11. </li>
+     <li> Sunil P. How COVID-19 is impacting HR practices in APAC: Pay freezes, cautious hiring, and more, 27.03.2020, avail­able at: https://www.humanresourcesonline.net/how-covid-19-is-impacting-hr-practices-in-apac-pay-freezes-cautious-hiring-and-more (date of access 03.02.2023). </li>
+     <li> Narain S. Post COVID-19 pandemic: Hybrid-work model in the new-normal, 10.09.2020, available at: https://www.downtoearth. org.in/blog/governance/post-covid-19-pandemic-hybrid-work-mod-el-in-the-new-normal-73313 (date of access 03.02.2023). </li>
+     <li> Gilbert N. 17 Remote Work Trends for 2023: Current Forecasts You Should Know, 2022, available at: https://financesonline.com/remote-work-trends/ (date of access 03.02.2023). </li>
+     <li> Gurova I. M. Remote Work as a Trend of Time: Results of Mass Testing, MIR (Modernizatsiia. Innovatsii. Razvitie), 2020, vol. 11, no. 2, pp. 128—147. DOI: 10.18184/2079-4665.2020.11.2.128­147 (in Russian). </li>
+ - doi: 14.225-231
+   udk: "004.23, 004.4'24, 004.4'42"
+   item_authors: "Sovietov P. N."
+   item_name: "Algorithms for Improving the Automatically Synthesized Instruction Set of an Extensible Processor"
+   item_authors_address: |
+     <b> D. N. Sovietov</b>, Associated Professor, sovetov@mirea.ru,
+     MIREA — Russian Technological University, Moscow, 119454, Russian Federation
+   item_corr_author: "Petr N. Sovietov, Associated Professor, MIREA — Russian Technological University, Moscow, 119454, Russian Federation, E-mail: sovetov@mirea.ru"
+   item_rec_on: March 05, 2023
+   item_acc_on: March 23, 2023
+   item_annot: |
+     <p> Processors with extensible instruction sets are often used today as programmable hardware accelerators for various domains. When extending RISC-V and other similar extensible processor architectures, the task of designing specialized instructions arises. This task can be solved automatically by using instruction synthesis algorithms. In this paper, we consider algorithms that can be used in addition to the known approaches and improve the synthesized instruction sets by recomputing common operations (the result of which is consumed by multiple operations) of a program inside clustered synthesized instructions (common operations clustering algorithm), and by identifying redundant (which have equivalents among the other instructions) synthesized instructions (subsuming functions algorithm).
+     Experimental evaluations of the developed algorithms are presented for the tests from the domains of cryptography and three-dimensional graphics. For Magma cipher test, the common operations clustering algorithm allows reducing the size of the compiled code by 9 %, and the subsuming functions algorithm allows reducing the synthesized instruction set extension size by 2 times. For AES cipher test, the common operations clustering algorithm allows reducing the size of the compiled code by 10 %, and the subsuming functions algorithm allows reducing the synthesized instruction set extension size by 2.5 times. Finally, for the instruction set extension from Volume Ray-Casting test, the additional use of subsuming functions algorithm allows reducing problem-specific instruction extension set size from 5 to only 2 instructions without losing its functionality.</p>
+   item_keywords:  instruction set synthesis, extensible processors, RISC-V, high-level design, dependency graph analysis, graph clustering, SMT solver
+   item_pages: 225–231
+   item_citation: ' Sovietov P. N. Algorithms for Improving the Automatically Synthesized Instruction Set of an Extensible Processor, Programmnaya ingeneria, 2023, vol. 14, no. 5, pp. 225—231. DOI: 10.17587/prin.14.225-231 (in Russian).'
+   item_references: |
+      <li>  Hennessy J. L., Patterson D. A. A new golden age for computer architecture, Communications of the ACM 2019, vol. 62, no. 2, pp. 48—60. DOI: 10.1145/3282307. </li>
+      <li>  Galuzzi C., Bertels K. The instruction-set extension problem: A survey, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2011, vol. 4, no. 2, pp. 1—28. DOI: 10.1145/1968502.1968509. </li>
+      <li>  Alippi C., Fornaciari W., Pozzi L., Sami M. A DAG-based design approach for reconfigurable VLIW processors, Proceedings of the confer­ence on design, automation and test in Europe. Association for Computing Machinery, NY, USA, 1999, pp. 57—es. DOI: 10.1145/307418.307504. </li>
+      <li>  Solar-Lezama A. Program sketching, International Journal on Software Tools for Technology Transfer, 2013,vol. 15, no. 5, pp. 475—495. DOI: 10.1007/s10009-012-0249-7. </li>
+      <li>  Sovetov P. Development of DSL compilers for specialized processors, Programming and Computer Software, 2021, vol. 47, no. 7, pp. 541—554. DOI: 10.1134/s0361768821070082. </li>
+      <li>  Nery A. S., Nedjah N., Franca F. M., Jozwiak L., Corpo-raal H. Automatic complex instruction identification for efficient application mapping onto ASIPs, 2014 IEEE 5th latin american symposium on circuits and systems, IEEE, 2014, pp. 1—4. DOI: 10.1109/lascas.2014.6820291. </li>
+      <li>  Cong J., Fan Y., Han G., Zhang Z. Application-specific instruction generation for configurable processor architectures, Proceedings of the 2004 ACM/SIGDA 12th international symposium on field programmable gate arrays, 2004, pp. 183—189. DOI: 10.1145/968280.968307. </li>
+      <li>  Peymandoust A., Pozzi L., Ienne P., De Micheli G. Automatic instruction set extension and utilization for embedded processors, Proceedings IEEE international conference on application-specific systems, architectures, and processors, ASAP 2003. IEEE, 2003, pp. 108—118. DOI: 10.1109/asap.2003.1212834. </li>
+      <li>  Clark N. T., Zhong H., Mahlke S. A. Automated custom instruction generation for domain-specific processor acceleration, IEEE Transactions on Computer 2005, vol. 54, no. 10, pp. 1258—1270. DOI: 10.1109/tc.2005.156.</li>
+      <li>  Pothineni N., Brisk P., Ienne P., Kumar A., Paul K. A high-level synthesis flow for custom instruction set extensions for application-specific processors, 2010 15th Asia and South Pacific design automation conference (ASP-DAC),IEEE, 2010, pp. 707—712. DOI: 10.1109/aspdac.2010.5419795.</li>
+      <li>  Atasu K., Diindar G., Ozturan C. An integer linear programming approach for identifying instruction-set extensions, Proceedings of the 3rd IEEE/ACM/IFIP international conference on hardware/software codesign and system synthesis, 2005, pp. 172—177. DOI: 10.1145/1084834.1084880. .</li>
+      <li>  Pozzi L., Atasu K., Ienne P. Exact and approximate algorithms for the extension of embedded processor instruction sets, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2006, vol. 25, no. 7, pp. 1209—1229. DOI: 10.1109/ tcad.2005.855950. </li>
+      <li>  Pulli A., Galuzzi C., Gaydadjiev G. Towards domain-specific instruction-set generation, 2014 24th international conference on field programmable logic and applications (FPL), IEEE, 2014, pp. 1—4. DOI: 10.1109/fpl.2014.6927423. </li>
+      <li>  Xiao C., Wang S., Liu W., Wang X., Casseau E. An optimal algorithm for enumerating connected convex subgraphs in acyclic digraphs, IEEE Transactions on Circuits and Systems II: Express Briefs., IEEE, 2020, vol. 68, no. 1, pp. 261—265. DOI: 10.1109/ TCSII.2020.3000297.</li>
+ - doi: 14.232-244
+   udk: "004.432"
+   item_authors: "Markov V. N."
+   item_name: "Enumerator-Arguments as a Language tool for Defining Loops"
+   item_authors_address: |
+     <b> V. N. Markov</b>, D. Sc. (Engineering), Professor, vinitar@yandex.ru,
+     Kuban State Technological University, Krasnodar, 350000, Krasnodar region, Russian Federation
+   item_corr_author: " Vitaly N. Markov, D. Sc. (Engineering), Professor, Kuban State Technological University, Krasnodar, 350000, Krasnodar Region, Russian Federation, E-mail: vinitar@yandex.ru"
+   item_rec_on:  February 13, 2023
+   item_acc_on:  February 27, 2023
+   item_annot: |
+     <p> The new syntactic construction for defining processing loops of collections and series of values in the form of expressions is proposed as part of the development of new programming languages and the improvement of existing languages. Its essence is to use index enumerators as arguments to operators and collection processing functions. Such enumerator-arguments allow you to express operators and functions for processing a slice/entire collection.
+     Translational semantics of enumerator-arguments for indexed and referenced collections is given. A number of examples of using enumerator-arguments for comparison with higher-order functions and list comprehension operators are shown. It is concluded that enumerator-arguments surpass second-order functions in conciseness and readability of the source code, and are not inferior to list comprehensions operators.
+     Further research is aimed at constructing enumerator-arguments of binary trees nodes using a parameter that is expressed as a number. Its binary digits are link ranks and uniquely position a node in the tree.
+     </p>
+   item_keywords: enumerator, iterator, indexator, readability of source code, conciseness of source code, slice of collection, higher-order function, list comprehension
+   item_pages: 232–244
+   item_citation:  'Markov V. N. Enumerator-Arguments as a Language tool for Defining Loops, Programmnaya ingeneria, 2023, vol. 14, no. 5 pp. 232—244. DOI: 10.17587/prin.14.232-244. (in Russian).'
+   item_references: |
+     <li> Knuth D. E. The Art of Computer Programmjng, vol. 1: Fundamental Algorithms, 3rd ed. Addison-Wesley, 1997, 650 p. </li>
+     <li> Sebesta R. W. Concepts of Programmjng Languages, 5th ed., Addison-Wesley, 2001, 720 p. </li>
+     <li> Pratt T. W., Zelkowitz M. V. Programmjng Languages: Desjgn and Implementation, 4th ed., Pearson, 2000, 672 p. </li>
+     <li> Pierce B. C. Types and Programmjng Languages, MIT, 2002, 648 p. </li>
+     <li> Field A. J., Harrison P. G. Functional Programmjng, Addison-Wesley, 1988, 616 p. </li>
+     <li> Python 3.11.2. Documentation. The Python Language Reference, available at: https://docs.python.org/3/reference/expressions.html (date of access 06.02.2023). </li>
+     <li> Ben-Ari M. Understandjng programmjng Languages,Wiley, 1996, 376 p. </li>
+     <li> Martin R. C. Clean Code: A Handbook of Agjle Software Craftsmanshjp, Pearson, 2008, 464 p.
+     <li> Solter N. A., Kleper S. J. Professjonal C++, Wrox, 2005, 864 p. </li>
+     <li> Watt S. M. A Technique for Generic Iteration and Its Optimization. Computer Scjence, 2006, available at: https://www.csd.uwo.ca/~watt/pub/reprints/2006-wgp-jflow.pdf. (date of access 06.02.2023). </li>
+     <li> A Gentle Introduction to Haskell, available at: https://www. haskell.org/tutorial/goodies.html (date of access 06.02.2023). </li>
+     <li> Sterling L., Shapiro E. The Art of Prolog: Advanced Programmjng Technjques, MIT, 1986, 437 p. </li>
+     <li> Visual Prolog. Fundamental Prolog Part 2, available at: https://wiki.visual-prolog.com/index.php?title=Fundamental_Pro-log_Part_2#Functors_and_Predicates (date of access 06.02.2023). </li>
+     <li> Dyalog. The tool of thought for software solutions, available at: https://www.dyalog.com/aplx.htm (date of access 06.02.2023). </li>
+     <li> Python 3.11.2. Documentation. The Python Standard Li­brary, available at: https://docs.python.org/3/library/stdtypes.html date of access 06.02.2023). </li>
+     <li> Markov V. N. Modern logjc programmjng jn Vjsual Prolog 7.5: textbook, SPb, BHV-Peterburg, 2016, 544 p. (in Russian). </li>
+     <li> Microsoft.NET. C# documentation. Iterators, available at: https://learn.microsoft.com/ru-ru/dotnet/csharp/iterators (date of access 06.02.2023). </li>
+     <li> Microsoft.NET. C# documentation. Using Properties, available at: https://learn.microsoft.com/en-us/dotnet/csharp/program-ming-guide/classes-and-structs/using-properties (date of access 06.02.2023).</li>
+ - doi: 14.245-253
+   udk: "004.056"
+   item_authors: "Nazarov D. I., Sigalov D. A., Gamayunov D. Yu."
+   item_name: "Mining Server HTTP Endpoints from Commented-Out Client-Side Code of Web Applications"
+   item_authors_address: |
+     <b> D. I. Nazarov</b>, Security Researcher, dmitry.nazarov@solidwall.io,
+     LTD "SolidSoft", Moscow, 117312, Russian Federation,
+     <b> D. A. Sigalov</b>, Junior Researcher, asterite@seclab.cs.msu.ru,
+     <b> D. Yu. Gamayunov</b>, Associate Professor, gamajun@seclab.cs.msu.su,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: 'Dmitry I. Nazarov, Security Researcher, LTD "SolidSoft", Moscow, 117312, Russian Federation, E-mail: dmitry.nazarov@solidwall.io'
+   item_rec_on: March 04, 2023
+   item_acc_on: March 22, 2023
+   item_annot: |
+     <p> In this paper we consider the problem of detecting information about HTTP endpoints on the server by extracting requests from the commented-out client code of web applications. The algorithm that extracts commented-out requests is proposed and implemented. The developed module was integrated into a static analyzer. An experiment was conducted on more than a million web pages belonging to more than 50 thousand web applications from the Alexa Top 1 million list. Requests unique to the commented code were selected for each page. Then a check was made for the existence of an associated endpoint on the server for each of them. According to the results of the experiment, it was found that commented-out requests actually occur in real web applications, they were detected in ~2.78 % of all explored sites. In addition, ~40 % of them were marked as "live", that is having an endpoint on the server. Also, a cursory analysis has shown that such endpoints often turn out to be vulnerable. The module can be used as part of a web security scanner to obtain more complete information about the server side of a web application using the black box method.
+     </p>
+   item_keywords: information security, web application, static analysis, search for vulnerabilities, HTTP-request, com-mented-out code
+   item_pages: 245–253
+   item_citation: ' Nazarov D. I., Sigalov D. A., Gamayunov D. Yu. Mining Server HTTP Endpoints from Commented-Out Client-Side Code of Web Applications, Programmnaya Ingeneria, 2023, vol. 14, no. 5, pp. 245—253. DOI: 10.17587/prin.14.245-253 (in Russian).'
+   item_references: |
+     <li> Hedin D., Sabelfeld A. Information-Flow Security for a Core of JavaScript, IEEE 25th Computer Security Foundations Symposium, 2012, pp. 3—18. DOI: 10.1109/CSF.2012.19. </li>
+     <li> OWASP Foundation. DOM Based XSS, available at: https:// owasp.org/www-community/attacks/DOM_Based_XSS (date of ac­cess 02.03.2023). </li>
+     <li> Guha A., Krishnamurthi S., Jim T. Using static analy­sis for Ajax intrusion detection, Proceedings of the 18th international conference on World wide web, 2009, pp. 561—570. DOI: 10.1145/1526709.1526785. </li>
+     <li> Jensen S. H., Moller A., Thiemann P. Type Analysis for JavaScript, International Static Analysis Symposium, 2009, pp. 238—255. DOI: 10.1007/978-3-642-03237-0_17. </li>
+     <li> Lee H., Won S., Jin J., Cho J., Ryu S. Safe: Formal specification and implementation of a scalable analysis framework for ec-mascript, International Workshop on Foundations of Object- Oriented Languages, 2012, available at: https://junheecho.com/assets/papers/ fool12.pdf (date of access 02.03.2023). </li>
+     <li> The T. J. Watson Libraries for Analysis (WALA), available at: http://wala.sourceforge.net/ (date of access 02.03.2023). </li>
+     <li> Sigalov D. A., Khashaev A. A., Gamayunov D. Yu. Detecting server-side endpoints in web applications based on static analysis of client-side JavaScript code, Prikladnaya Diskretnaya Matematika, 2021, no. 53, pp. 32—54. DOI: 10.17223/20710410/53/3 (in Russian). </li>
+     <li> Berners-Lee T., Fielding R., Masinter L. Uniform Resource Identifier (URI): Generic Syntax, document RFC 3986. 2005. avail­able at: https://www.ietf.org/rfc/rfc3986.txt (date of access 02.03.2023). </li>
+     <li> The URL standard, available at: https://url.spec.whatwg.org/(date of access 02.03.2023).</li>
+ - doi: 14.254-260
+   udk: "004.42"
+   item_authors: "Babbysh N. A."
+   item_name: "Software Platform for Reading, Processing and Analyzing EEG Data"
+   item_authors_address: |
+     <b> N. A. Babbysh</b>, Postgraduate Student, nickware@mail.ru,
+     Institute for Problems in Mechanical Engineering of the Russian Academy of Sciences, Saint-Petersburg, 199178, Russian Federation
+   item_corr_author: "Nikolay A. Babbysh, Postgraduate Student, Institute for Problems in Mechanical Engineering of the Russian Academy of Sciences, Saint-Petersburg, 199178, Russian Federation, E-mail: nickware@mail.ru"
+   item_rec_on:   March 14, 2023
+   item_acc_on: April 04, 2023
+   item_annot: |
+     <p> Electroencephalogram (EEG) data can be used in many different areas. For example, for diagnosing brain diseases, in brain computer interfaces, for conducting various studies, and much more. To apply EEG data, a large set of different algorithms for preprocessing and analyzing these data is needed. This paper describes a software platform containing a set of tools for automated processing of EEG signals and their analysis, including machine learning methods. The platform has a flexible architecture and consists of modules, which allows it to be used for various purposes. Data can be obtained both from files and directly from the electroencephalograph device in real time. The graphical interface provides a convenient way to configure the modules of the software. The software interface of client applications (API) makes it possible to use this platform to create prototypes of devices that use EEG data for their work.
+     </p>
+   item_keywords: signal analysis, EEG analysis, machine learning, brain rhythm indicators, signal filtering, brain rhythms, software platform
+   item_pages: 254–260
+   item_citation: 'Babbysh N. A. Software Platform for Reading, Processing and Analyzing EEG Data, Programmnaya Ingeneria, 2023, vol. 14, no. 5, pp. 254—260. DOI: 10.17587/prin.14.254-260 (in Russian).'
+   item_references: |
+     <li> Teplan M. Fundamentals of EEG measurement, Meas Sci. 2002, vol. 2, no. 2, pp. 1—11. </li>
+     <li> Britton J. W., Frey L. C., Hopp J. L. et al. Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants, American Epilepsy Society, 2016, available at: https://pubmed.ncbi.nlm.nih. gov/27748095/ (date of access 04.04.2023). </li>
+     <li> Sarah N., Ayman A., Mostafa-Sami M. Brain computer interfacing: Applications and challenges, Egyptian Informatics Journal, 2015, vol. 16, no. 2, pp. 213-230. DOI: 10.1016/j. eij.2015.06.002. </li>
+     <li> Hussin S., Hamid Z., Birasamy G. Design of Butterworth Band-Pass Filter, Politeknik & Kolej Komuniti Journal of Engi­neering and Technology, 2016, vol. 1, available at: https://myjms. mohe.gov.my/index.php/PMJET/article/view/1169 (date of access 04.04.2023). </li>
+     <li> Luo J., Ying K., Bai J. Savitzky—Golay smoothing and differentiation filter for even number data, Signal Processing, 2005, vol. 85, issue 7, pp. 1429 — 1434. DOI: 10.1016/j.sig-pro.2005.02.002. </li>
+     <li> Duhamel P., Vetterli M. Fast fourier transforms: A tutorial review and a state of the art, Signal Processing, 1990, vol. 19, issue 4, pp. 259—299. DOI: 10.1016/0165-1684(90)90158-U. </li>
+     <li> Babbysh N. Computing brain rhythm indicators of EEG signal, 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA), Kaliningrad, Russian Federation, 2021, pp. 32—35. </li>
+     <li> Jerome H. Greedy function approximation: A gradient boosting machine, The Annals of Statistics, Institute of Mathematical Statistics, 2001, pp. 1189—1232. </li>
+     <li> Babbysh N. Parametric synthesis of the interferential neural network, Bulletin of modern research, 2019, vol. 1, no. 13 (28), pp. 52—56 (in Russian). </li>
+     <li> Babbysh N., Ostanin M. Object recognition in high-resolution images using an interferential neural network, Molodej. Technika. Kosmos: Proceedings of the XI All-Russian Youth Scientific Technical Conference, Saint Petersburg, BSTU "Voenmeh", 2019, pp. 229—231 (in Russian). </li>
+     <li> Babbysh N. On the application of an interference neural network for dynamic data analysis in real time, Automation in Industry, 2020, vol. 4, pp. 19—21 (in Russian). </li>
+     <li> Interference C++ library. GitHub open repository, available at: https://github.com/nickware44/interference (date of access 12.03.2023).</li>
+---
