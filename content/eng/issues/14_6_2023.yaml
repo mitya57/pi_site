@@ -1,0 +1,165 @@
+---
+title: Issue N6 2023 year
+content:
+ - doi: 14.263-277
+   udk: "004.8"
+   item_authors: "Vasenin V. A., Chechkin A. V., Pirogov M. V."
+   item_name: "Three Principles of Intellectualization of Automated Systems"
+   item_authors_address: |
+     <b> V. A. Vasenin</b>, Professor, vasenin@msu.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation,
+     <b> A. V. Chechkin</b>, Honorary Professor, A.Chechkin@mail.ru, Military Academy of the RVSN named after Peter the Great, Balashikha, 143900, Russian Federation,
+     <b> M. V. Pirogov</b>, Engineer of the 2nd category, pmv_mvp@mail.ru, S. A. Lavochkin NGO, Khimki, 141402, Russian Federation
+   item_corr_author: "Alexsandr V. Chechkin, Honorary Professor, Military Academy of the RVSN named after Peter the Great, Balashikha, 143900, Russian Federation, E-mail: A.Chechkin@mail.ru"
+   item_rec_on: February 16, 2023
+   item_acc_on: April 12, 2023
+   item_annot: |
+     <p>  The purpose of the research, the results of which are presented in the article, is to present the conceptual provisions of the new modeling and programming technology, called radical. It is intended for all stages of the life cycle of complex automated systems using the concept of a broad problem area and the methodology of intellectualization. Within the framework of the new radical technology, three principles of intellectualization are considered: diverse goal setting; necessary information and system redundancy; sufficient integrity in the provision of automation tools. Radical technology is based on mathematical objects — radicals and radical schemes, with the help of which the modeling of the problem area of complex automated systems should be carried out. The issues of standardization of technology for the creation and maintenance of automated systems based on the use of radical schemes are discussed. The necessity of using such schemes in the life cycle of an automated system is substantiated. The provisions of the proposed technology are briefly illustrated on the basis of the experience of their use in the development of programs for the operation of the target equipment of spacecraft. The issues of software development for automation of control processes of permanently developing and increasingly complex objects have always been and remain in the focus of attention of specialists in the field of computer science. A special place in the list of such objects is occupied, for example, by complexly organized systems of the aerospace complex. Due to the need to automate and intellectualize the processes of maintaining such a class of objects in a real environment, a new methodology and technology of software development and maintenance engineering is being developed in Russia and other countries.
+     The problem area of complex automated systems, which include, inter alia, space systems, covers a large number of diverse components of such systems, their properties and relationships. This class of automated systems is characterized by: variability; expansion of functionality; the need for the use of rapidly developing software and hardware for various purposes. The problem area of automated systems is characterized by both significant achievements and significant shortcomings. Disadvantages can (and do) lead to large-scale, irreparable losses, accidents and catastrophes. The presence of problem­atic issues of verification and ensuring a high degree of reliability, difficulties of modification and the possibility of semantic errors — all this is characteristic of modern automated systems, for their software and hardware.
+     The reason for the disadvantages of complex automated systems is the widespread use of technologies in their develop­ment that do not adequately cover the stages of pre-project research, including modeling. The old approach is character­ized by situations in which the problem area of an automated system, its components and their connections are not fully described. Hence the objective difficulties of software development and modification. The documentation of such software tools is characterized by the widespread use of information representation based on natural language. Automation of the processes of development and maintenance of such documentation, assessment of its completeness, correctness is sig­nificantly difficult. Mathematical formalization of the problem area of automated systems, as a rule, is insufficient. In this article, a new mathematical standardization of the formal description of the problem domain of automated systems and processes occurring in them, uniformly described on the basis of the concept of radical, is proposed. The most well-known of the approaches based on the methodology of software engineering applied to automated systems is the SEMAT (Soft­ware Engineering Method and Theory) project. The core and the domain model description language make up the basic part of the project, called Essence. An essential requirement for its components is the requirement of the possibility of an adequate and visual description for developers and an adequate (objective) assessment of the state of the target software product at all stages of its production. The project proposed in this article, based on the model of radical programming and radical modeling, is an analogue of the SEMAT/Essence project noted above. The model considered in this article is based on a uniform mathematically formalized standardization of the description of any problem area and its environment. The so-called radicals and the mechanisms of their interaction during the implementation of automated processes are considered as the basic atomic elements that make up the core of our approach. Within the framework of this model, a special modeling language, RADICAL, has been developed, taking into account the redundancy of the model description. With the help of such a language, an expressive, flexible and adequate representation of the problem area is provided, visually convenient for the developer to assess the condition of the target product at different stages of its life cycle.
+     The development and improvement of methods for mathematically rigorous description of automated systems and their environment based on such technology is a strategically important task. This publication attempts to describe the current state of exploratory research and applied work aimed at developing a project called «radical modeling and radical programming». The material presented in the publication, including a summary of the results in relation to the automation of objects in the aerospace field, can also be considered as an invitation to new researchers to participate in the work on the development of the project. The experience of practical application of the RADICAL language, as a universal one for describing schemes of interaction of radicals in such an environment, obtained when solving problems of automation of control of the instrument base of spacecraft for various purposes, suggests the urgent need to develop and develop a single, constantly expanding library of standard information forms designed to solve different classes of tasks. Such an expandable library of information forms (libraries of radicals) should lay the foundation for a developing knowledge base of radical technology in the context of a rapidly progressing variety of software and hardware.</p>
+   item_keywords: software, information support for the intellectualization of technical systems, information and system security of an automated system, satellite imagery, radical environment, radical scheme, radical modeling, radical programming, RADICAL language, information form
+   item_pages: 263–277
+   item_citation: 'Vasenin V. A., Chechkin A. V., Pirogov M. V. Three Principles of Intellectualization of Automated Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 6, pp. 263—277. DOI: 10.17587/prin.14.263-277. (in Russian).'
+   item_references: |
+     <li>  Lipaev V. V. Software engineering. Methodological foundations, Moscow, THEIS, 2006, 608 p. (in Russian). </li>
+     <li>  Vasenin V. A., Krivchikov M. A. Formal Models of Programming Languages and Programs. Part 1. Literature Review: 1930 — 1989, Programmnaya Ingeneria, 2015, no. 5, pp. 10 — 19 (in Russian). </li>
+     <li>  Vasenin V. A., Krivchikov M. A. Formal Models of Programming Languages and Programs. Part 2. Present State of Research, Programmnaya Ingeneria, 2015, no. 6, pp. 24—33 (in Russian). </li>
+     <li>  Pak J. S., Jacobson I., Mayburg B., Johnson P. SEMAT Yesterday, Today and Tomorrow. An Industrial Perspective, Programmnaya Ingeneria, 2014, no. 11, pp. 6—16 (in Russian). </li>
+     <li>  Zmeev D. O., Zmeev O. A., Ivanova L. S. Antipattern Practice for Essence Practice Library, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 311—321. DOI: 10.17587/prin.13.311-321 (in Russian). </li>
+     <li>  Posin B. A. SEMAT — Software Engineering Method and Theory. About what, what for and to whom is it addressed? Programmnaya Ingeneria, 2014, no. 11, pp. 3—5 (in Russian). </li>
+     <li>  Pirogov M. V. Radical Programming, Programmnaya Ingeneria, 2013, no. 4, pp. 2—15 (in Russian). </li>
+     <li>  Vasenin V. A., Pirogov M. V., Chechkin A. V. Radical Modeling and Engineering of Complex Program System, Programmnaya Ingeneria, 2014, no. 10, pp. 3—10 (in Russian). </li>
+     <li>  Vasenin V. A., Pirogov M. V., Chechkin A. V. Information and system security of critical systems: monograph, Moscow, COURSE, 2018, 352 p. (in Russian). </li>
+     <li>  Chechkin A. V. Mathematical informatics, Moscow, Nauka, 1991, 412 p. (in Russian). </li>
+     <li>  Soboleva T. S., Chechkin A. V. Discrete mathematics. Advanced course, Moscow, INFRA-M: Course, 2016. 276 p. (in Russian). </li>
+     <li>  Ershov A. P. Preliminary considerations on the programming lexicon, Selected works, Novosibirsk, 1994, pp. 395—406 (in Russian). </li>
+     <li>  Kotov V. E. The expanding universe of computer science, Andrey Petrovich Ershov is a scientist and a man, Novosibirsk, 2006, pp. 158—166 (in Russian). </li>
+     <li>  Chechkin A. V., Pirogov M. V. The programming lexicon of A. P. Ershov and the modeling environment of a wide problem area of targeted systems in the form of a radical environment, Neurocomputers: development, application, 2016, no. 11, pp. 3—14 (in Russian). </li>
+     <li>  Galatenko V. A., Kostyukhin K. A., Levchenkova G. L. Integrity as an Aspect of Information Security: an Overview of Modern Apрroaches, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 420—424. DOI: 10.17587/prin.12.420-424 (in Russian). </li>
+     <li>  GOST 34.003—90. Information technology. A set of stan­dards for automated systems. Automated systems. Terms and defini­tions (in Russian). </li>
+     <li>  Potyupkin A. Yu., Chechkin A. V. Artificial intelligence based on information-system redundancy: monograph, Moscow, COURSE, 2019, 384 p. (in Russian). </li>
+     <li>  Kolobov A. Yu., Pirogov M. V., Rozhkov V. V. Principles and basic schemes of radicals for building a database of the system of planning and control of the operation of the target equipment of the spacecraft, Bulletin of S. A. Lavochkin NGO. 2021, no. 2/52, pp. 73—79. DOI: 10.26162/LS.2021.52.2.010 (in Russian).</li>
+ - doi: 14.278-284
+   udk: "004.023"
+   item_authors: "Gostev I. M., Golosov P. E."
+   item_name: "Analysis of the Efficiency of the Simulation Model of Cloud Computing in Case of Multiple Server Failures"
+   item_authors_address: |
+     <b> I. M. Gostev</b>, Dr. Sci, Leader Researcher, igostev@gmail.com,
+     Institute for Information Transmission Problems of the Russian Academy of Sciences (Kharkevich Institute), Moscow, 127051, Russian Federation
+     <b> P. E. Golosov</b>, PhD, Dean, xasel@mail.ru, Russian Academy of National Economy and Public Administration under the Russian President (RANEPA), Moscow, 119571, Russian Federation
+   item_corr_author: "Ivan M. Gostev, Dr. Sci, Leader Researcher, Institute for Information Transmission Problems of the Russian Academy of Sciences (Kharkevich Institute), Moscow, 127051, Russian Federation, E-mail: igostev@gmail.com"
+   item_rec_on: March 23, 2023
+   item_acc_on: April 11, 2023
+   item_annot: |
+     <p> Currently, the use of distributed (cloud) resources is becoming more and more widespread. Despite the high reliability of equipment used in call centers, failures do occur. And if long-term storage systems have high reliability due to multiple duplication, then the failure of the server on which the task is performed in specialized computing systems (SCS) can correspond to the failure of the entire system. In order to eliminate it, a simulation model of a specialized computing system built in the Simulink (SimEvent) environment, classified in the queuing theory as G/G/n/, is investigated. It is characterized by many input streams with an infinite queue, has two feedbacks, reflecting reprocessing situations in case of a server failure or no solution at the first service attempt. The system architecture is focused on the parallel execution of a certain class of tasks, divided into data-independent sub-tasks. The main criterion for the functioning of such a system is the completion of all received tasks in a time not exceeding the deadline for their implementation. The purpose of the work, the results of which are presented in the article, is to study the reliability of the functioning of such a system for various values of the probability of server failure. Since the performance and efficiency of such a system has already been studied in previous works, the main direction of research will be focused on the impact of server failures on overall productivity and efficiency under various laws of input flows.</p>
+   item_keywords: simulation, cloud and distributed systems, scheduling, execution efficiency, deadline date, server failures
+   item_pages: 278–284
+   item_citation: 'Gostev I. M., Golosov P. E. Analysis of the Efficiency of the Simulation Model of Cloud Computing in Case of Multiple Server Failures, Programmnaya Ingeneria, 2023, vol. 14, no. 6, pp. 278—284. DOI: 10.17587/prin.14.278-284. (in Russian).'
+   item_references: |
+     <li> Malashenko Y. E., Nazarova I. A. Control model for heterogeneous computational tasks based on guaranteed estimates of execution times, J. Comput. Syst. Sci. Int., 2012, vol. 51, pp. 526—534. DOI: 10.1134/S1064230712040090 (in Russian). </li>
+     <li> Kupalov-Jaropolk I. K., Malashenko Ju. E., Nazarova I. A., Ronzhin A. F. Metody ocenki jeffektivnosti i direktivnyh srokov vypolnenija resursoemkih vychislitel’nyh zadanij, Informatika i ejo primenenie, 2013, vol. 7, no. 2, pp. 17—25 (in Russian). </li>
+     <li> BaranovA. V., Kiseljev A. V., Korneev B. V. et al. Software complex “Pyramid” organization of parallel computing with data parallelization, Proc. Int. Supercomputer conf. and conf. young scientists “Scientific service on the Internet: Supercomputer centers and tasks”, Moscow, MSU, 2010, pp. 299—302 (in Russian). </li>
+     <li> Zabrodin A. V., Levin V. K., Korneev B. B. Massively parallel systems МВС-100 and МВС-1000, Proc. Scientific Session MEPhI —2000, Moscow, MEPhI, 2000, vol. 2, pp. 194—195 (in Russian). </li>
+     <li> Brucker P. Scheduling Algorithms. 5th ed. Springer-Verlag Berlin and Heidelberg, 2007,  383 p. </li>
+     <li> Golosov P. E., Gostev I. M. About any simulation models of Schedulers Operational, Telecommunication, 2021, vol. 6, pp. 10—21 (in Russian). </li>
+     <li> Golosov P. E., Gostev I. M. On simulation modeling of operating system functioning with preemptive scheduling, Telecommunication, 2021, vol. 8, pp. 2—22 (in Russian). </li>
+     <li> Golosov P. E., Gostev I. M. Simulation of servers with Interrupt in Large Multiprocessors System, Izvestiya vysshikh uchebnykh zavedeniy. Priborostroenie, 2021, vol. 64, no. 11, pp. 879—886. DOI: 10.17586/0021-3454-2021-64-11-879-886 (in Russian). </li>
+     <li> Golosov P. E., Gostev I. M. About one cloud computing simulation model, Systems of Signals Generating and Processing in the Field of on Board Communications, Conference Proceedings, 2021, pp. 9416100. DOI: 10.1109/IEEECONF51389.2021.9416100. </li>
+     <li> Golosov P. E., Gostev I. M. Cloud computing simulation model with a sporadic mechanism of parallel problem solving control, Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2022, vol. 22, no. 2, pp. 269—278 (in Russian). </li>
+     <li> Reliability and efficiency in engineering: a Handbook. In 10 v. / On Ed. Avduevski V. C. etc. Moscow, Machinostroenie, 1988 (in Russian). </li>
+     <li> Pohabov J. P. Problems of reliability and ways to solve them when creating unique highly responsible systems, Reliability, 2019, no. 1, pp. 10—17 (in Russian). </li>
+     <li>  Rjabinin I. A. Reliability and safety of structurally complex systems, SpB., Politehnika, 2000, 248 p. (in Russian). </li>
+     <li> Strogonov A., Jdanov V. Overview of software systems for calculating the reliability of complex technical systems, Components and Technology, 2007, no. 5, pp. 183—190 (in Russian). </li>
+     <li> GOST 27.310—95. Reliability in Technology. Analysis of failure modes, consequences and criticality. Access from the legal reference system “Techexpert”, available at: http://docs.cntd.ru/document/gost-27-310-95 (in Russian) (date of access 28.03.2023). </li>
+     <li> GOST Р 51901.5—2005. Guidance on the application of reliability analysis methods. Access from the legal reference system “Techexpert”, available at http://docs.cntd.ru/document/1200041156 (in Russian) (date of access 28.03.2023). </li>
+ - doi: 14.285-291
+   udk: "004.942"
+   item_authors: "Teryokhina I. Yu."
+   item_name: "Anomaly Detection Using the DAG Process Models"
+   item_authors_address: |
+     <b> I. Yu. Teryokhina</b>, Assistant, iteryokhina@cs.msu.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: "  Irina Yu. Teryokhina, Assistant, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: iteryokhina@cs.msu.ru"
+   item_rec_on: April 17, 2023
+   item_acc_on: April 26, 2023
+   item_annot: |
+     <p> The problem of anomaly detection when several information technologies (processes) are functioning simultaneously is considered. It is assumed that the normal or typical functioning of the process can be described by some formal model. In this paper a directed acyclic graph (DAG) is considered as such formal model. It is considered that all necessary information about the processes possible executions can be received from an event log, which is considered given.
+     In this paper the event log traces containing the data from one and several processes were examined. The complexity estimates for solving anomaly detection problem with the use of the constructed earlier formal models are determined.
+     It has been shown that the solution of the anomaly detection problem has linear complexity with respect to the length of the trace, for which it is required to give an answer whether such trace contains an anomaly. Also, it has been proven that the solution of the anomaly detection problem has quadratic complexity with respect to the maximum possible number of actions and dependencies in one simulated process. Moreover, it has been demonstrated how the system of different representatives may help to effectively identify the trajectories of many different processes.</p>
+   item_keywords:  anomaly detection, directed acyclic graph, process mining, process model construction
+   item_pages: 285–291
+   item_citation: ' Teryokhina I. Yu. Anomaly Detection Using the DAG Process Models, Programmnaya Ingeneria, 2023, vol. 14,  no. 6, pp. 285—291. DOI: 10.17587/prin.14.285-291. (in Russian).'
+   item_references: |
+     <li>  Agrawal R., Gunopulos D., Leymann F. Mining process models from workflow logs, Advances in Database Technology—EDBT'98: 6th International Conference on Extending Database Technology Valencia, Spain, March 23—27, 1998 Proceedings 6, Springer Berlin Heidelberg, 1998, pp. 467—483. DOI: 10.1007/bfb0101003. </li>
+     <li>  Kunze M., Weske M. Behavioural models: From modelling finite automata to analysing business processes, Springer International Publishing, 2016, pp. 163—185. DOI: 10.1007/978-3-319-44960-9. </li>
+     <li>  Sommers D., Menkovski V., Fahland D. Supervised learning of process discovery techniques using graph neural networks, Information Systems, 2023, p. 102209. DOI: 10.1016/j.is.2023.102209. </li>
+     <li>  Liu C., Cheng, L., Zeng Q., Wen L. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net-Based Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. DOI: 10.1109/TSMC.2022.3195869. </li>
+     <li>  Httbscher G., Geist V., Auer D. et al. Graph-based managing and mining of processes and data in the domain of intellectual property, Infor­mation Systems, 2022, no. 106, p. 101844. DOI: 10.1016/j.is.2021.101844. </li>
+     <li>  Huang Y., Fan J., Yan Z. et al. Research on early warning for gas risks at a working face based on association rule mining, Energies, 2021, vol. 14, no. 21, p. 6889. DOI: 10.3390/en14216889. </li>
+     <li>  Teryokhina I. Yu., GrushoA. A., Timonina Е. Е., Shorgin S. Ya. Building process models with simple Petri nets, Sys­tems and Means of Informatics, 2020, vol. 30, no. 4, pp. 61—75. DOI: 10.14357/08696527200406 (in Russian). </li>
+     <li>  Teryokhina I. Anomaly detection in several running processes, International Journal of Open Information Technologies, 2021, vol. 10, no. 1, pp. 21—27. </li>
+     <li>  Cormen T. H., Leiserson C. E., Rivest R. L., Stein C. Introduction to algorithms, MIT press, 2022, 1312 p. </li>
+     <li>  Grusho A. A., TimoninaC. Е., Grusho N. A., Teryokhina I. Yu. Anomaly detection with metadata, Informatics and Applications, 2020, vol. 14, no. 3, pp. 76—80. DOI: 10.14357/19922264200311 (in Russian).</li>
+ - doi: 14.292-300
+   udk: "004.9"
+   item_authors: "Kulakov K. A., Moskin N. D., Rogov A. A., Voronov R. V."
+   item_name: "SMALT Software Package as a Tool for the Study of Graph-Theoretic Models of Texts"
+   item_authors_address: |
+     <b> K. A. Kulakov</b>, Associate Professor, kulakov@cs.petrsu.ru, <b> N. D. Moskin</b>, Associate Professor, moskin@petrsu.ru, <b> A. A. Rogov</b>, Head of Department, rogov@petrsu.ru, <b> R. V. Voronov</b>, Professor, rvoronov@petrsu.ru
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: " Nikolai D. Moskin, Associate Professor, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: moskin@petrsu.ru"
+   item_rec_on:  March 27, 2023
+   item_acc_on:  April 25, 2023
+   item_annot: |
+     <p> The SMALT software package (Statistical methods of analysis of literary texts) is implemented to conduct research in the field of attribution of literary texts. The article discusses new tools for storing, visualizing, comparing and search­ing data implemented in the system. They are implemented for text analysis using graph-theoretic models. Examples of philological studies performed using these tools are given. </p>
+   item_keywords: SMALT software package, text attribution, graph-theoretic model, visualization, comparison, storage
+   item_pages: 292–300
+   item_citation:  'Kulakov K. A., Moskin N. D., Rogov A. A., Voronov R. V. SMALT Software Package as a Tool for the Study of Graph-Theoretic Models of Texts, Programmnaya ingeneria, 2023, vol. 14, no. 6, pp. 292—300. DOI: 10.17587/prin.14.292-300 (in Russian).'
+   item_references: |
+     <li> Markov A. A. An example of a statistical study on the text "Eugene Onegin", illustrating the connection of trials in a chain, Izvestiya Imperatorskoj Akademii Nauk, 1913, vol. 7, no. 3, pp. 153— 162 (in Russian). </li>
+     <li> Morozov N. A. Linguistic spectra: a means to distinguish pla­giarisms from the true works of a given famous author. Stylometric study, Izvestiya otd. russkogo yazyka i slovestnosti Imp. Akad. nauk. Petrograd: tip. Imp. Akad. nauk, 1915, vol. XX, no. 4, pp. 93—134 (in Russian). </li>
+     <li> Milov L. V., Borodkin L. I., Ivanova T. V. et al. Ot Nestora do Fonvizina: novye metody opredeleniya avtorstva / Ed. L. V. Milov. Moscow, Progress, 1994, 445 p. (in Russian). </li>
+     <li> Shevelev O. G., Petrakov A. V. Text classification with deci­sion trees and feed-forward neural networks, Vestnik Tomskogo gosu-darstvennogo universiteta, 2006, no. 290, pp. 300—307 (in Russian). </li>
+     <li> Velikanova N. P., Orekhov B. V. Digital textology: text attri­bution on the example of the novel by M. A. Sholokhov «Quiet Flows the Don», Mir Sholohova, 2019, vol. 1, no. 11, pp. 70—82 (in Russian). </li>
+     <li> Masaeva O. S. Burrow's Delta method, Research work of students and young scientists: materials of the 74th All-Russian (with international participation) scientific conference of students and young scientists, Petrozavodsk, 2022, pp. 262—266 (in Russian). </li>
+     <li> Marusenko M. A. Attribution of anonymous and pseudony­mous texts as a typical task of pattern recognition, Istoriografiya i istoch-nikovedenie otechestvennoj istorii, 2003, no. 3, pp. 116—135 (in Russian). </li>
+     <li> Rogov A. A., Abramov R. V., Buchneva D. D. et al. The prob­lem of attribution in the magazines "Time", "Epoch" and the weekly "Citizen", Petrozavodsk, Islands Publ., 2021, 400 p. (in Russian). </li>
+     <li> Buchneva D. D. Problems of attribution in Dostoyevsky's "Citizen": debate and arguments, Neizvestnyj Dostoevskij, 2022, vol. 9, no. 3, pp. 25—53 (in Russian). </li>
+     <li> Buchneva D. D. Do modern statistical methods help in the attribution of texts? Materials of the IV International Scientific and Practical Conference "Formation of the professional competence of a philologist in a multicultural educational environment", Simferopol, 2021, pp. 47—53 (in Russian). </li>
+     <li> Zaharov V. N. Problems of attribution of anonymous articles in Dostoevsky's publications, Neizvestnyj Dostoevskij, 2022, vol. 9, no. 3, pp. 5—24 (in Russian). </li>
+     <li> Zaharova O. V. Attribution in the mirror of statistics: anonymous articles in the magazines of the Dostoevsky brothers "Time" and "Epoch", Neizvestnyj Dostoevskij, 2021, vol. 8, no. 2, pp. 81—106 (in Russian). </li>
+     <li> Lebedev A. A. Analysis of sequences of parts of speech and the category of idiostyle, Uchenye zapiski Petrozavodskogo gosudarst-vennogo universiteta, 2021, vol. 43, no. 5, pp. 29—31. DOI: 10.15393/ uchz.art.2021.633 (in Russian). </li>
+     <li> Rogov A. A., Kulakov K. A., Moskin N. D. Software support in solving the problem of text attribution, Programmnaya ingeneria, 2019, vol. 10, no. 5, pp. 234—240. DOI: 10.17587/prin.10.234-240 (in Russian). </li>
+     <li> Moskin N. D. Algorithms for comparing graphs and graph-theoretic models, Petrozavodsk, PetrSU Publ., 2009, 84 p. (in Russian). </li>
+     <li> Moskin N. D., Kulakov K. A., Rogov A. A., Abramov R. V. Research the Stability of Decision Trees Using Distances on Graphs, Trudy instituta sistemnogo analiza RAN, 2023, vol. 73, no. 1, рр. 94—100. DOI: 10.14357/20790279230111. </li>
+     <li> Abramov R. V., Kulakov K. A., Lebedev A. A., Moskin N. D., Rogov A. A. Research of features of Dostoevsky's publicistic style by using n-grams based on the materials of the "Time" and "Epoch" magazines, Vestnik Sankt-Peterburgskogo universiteta. Prikladnaya matematika. Informatika. Processy upravleniya, 2021, vol. 17, no. 4, pp. 389—396. DOI: 10.21638/11701/spbu10.2021.407. </li>
+     <li> Moskin N. D., Kulakov K. A., Rogov A. A., Abramov R. V. Characteristics of Lexical Spectra of Texts in the Problem of Establish­ing Authorship, Stability and Control Processes (SCP 2020): Proceedings of the 4th International Conference Dedicated to the Memory of Professor Vladimir Zubov, series Lecture Notes in Control and Information Sciences, Springer, 2022, pp. 761—768. DOI: 10.1007/978-3-030-87966-2_87.</li>
+ - doi: 14.301-306
+   udk: "004.032.26"
+   item_authors: "Palchevsky E. V."
+   item_name: "Method for Improving the Accuracy of Predictive Values of Time Series Based on the Imputation of Historical Data"
+   item_authors_address: |
+     <b> E. V. Palchevsky</b>, Lecturer, teelxp@inbox.ru, Faculty of Information Technology and Big Data Analysis, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation
+   item_corr_author: " Evgeniy V. Palchevsky, Lecturer, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation, E-mail: teelxp@inbox.ru"
+   item_rec_on:   April 09, 2023
+   item_acc_on: April 27, 2023
+   item_annot: |
+     <p> The developed method for imputing retrospective data to improve the accuracy of long-term neural network fore­casting is considered. The peculiarity of the method is to increase the accuracy of the predictive values of the time series obtained at the output of the recurrent neural network by increasing the amount of historical data provided by the production department of the Kumertau Electric Networks.
+     Using the example of forecasting the values of electricity consumption, an experiment was carried out on data imputation, which proves the effectiveness of using this method to improve accuracy in forecasting time series.
+     </p>
+   item_keywords: data imputation, electricity consumption forecasting, neural networks, intelligent forecasting system
+   item_pages: 301–306
+   item_citation: ' Palchevsky E. V. Method for Improving the Accuracy of Predictive Values of Time Series Based on the Imputation of Historical Data, Programmnaya Ingeneria, 2023, vol. 14, no. 6, pp. 301—306. DOI: 10.17587/prin.14.301-306.'
+   item_references: |
+     <li> Guo-Feng F., Xiao W., Ya-Ting L.,  Wei-Chiang H. Fore­casting electricity consumption using a novel hybrid model. Sustainable Cities and Society, 2020, vol. 61, pp. 102320. DOI: 10.1016/j. scs.2020.102320. </li>
+     <li> Wei-Chiang H. Hybrid Intelligent Technologies in Energy Demand Forecasting, Berlin, Springer, 2020, 192 p. </li>
+     <li> Losev A. S., Massel A. G. Prediction of solar radiation and data imputation for the digital twin of a solar power plant, Infor­mation and Mathematical Technologies in Science and Management, 2022, no. 1 (25), pp. 91—101. DOI: 10.38028/ESI.2022.25.1.008 (in Russian). </li>
+     <li> Kurapeev D. I., Lushnov M. S., Man T., Zhukova N. A. Imputation and system modeling of acid-base state parameters for different groups of patients, Scientific and technical journal of in­formation technologies, mechanics and optics, 2022, vol. 22, no. 1, pp. 155—166. DOI: 10.17586/2226-1494-2022-22-1-155-166. </li>
+     <li> Boseong S., Jaekyung S., Taejin K., Byeng D. Y. Missing data imputation using an iterative denoising autoencoder (IDAE) for dissolved gas analysis, Electric Power Systems Research, 2022, vol. 212, pp. 108642. DOI: 10.1016/j.epsr.2022.108642. </li>
+     <li> Yong C., Xiqun C. A novel reinforced dynamic graph convolutional network model with data imputation for network-wide traffic flow prediction, Transportation Research Part C: Emerging Technologies, 2022, vol. 143, pp. 103820. DOI:10.1016/j.trc.2022.103820. </li>
+     <li> Daoming W., Roozbeh R. F., Mehrdad S., Niloofar M. COLI: Collaborative clustering missing data imputation, Pattern Recognition Letters, 2021, vol. 152, pp. 420—427. DOI:10.1016/j.patrec.2021.11.011.
+     <li> Shatha A., Hossam F., Hazem H. EvoImputer: An evolutionary approach for Missing Data Imputation and feature selection in the context of supervised learning, Knowledge-Based Systems, 2022, vol. 236, pp. 107734. DOI: 10.1016/j.knosys.2021.107734. </li>
+     <li> Gideon A. L., Mohd Z., Anoop Krishman N. M., Sumanta D. Prediction of concrete strengths enabled by missing data im­putation and interpretable machine learning, Cement and Concrete Composites, 2022. vol. 128, pp. 104414. DOI: 10.1016/j.cemcon-comp.2022.104414. </li>
+     <li> Palchevsky E. V., Antonov V. V. Decision Support System based on Application of the Second Generation Neural Network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308. DOI: 10.17587/prin.13.301-308. </li>
+     <li> Palchevsky E. V., Antonov V. V., Enikeev R. R., Breikin T. A system based on an artificial neural network of the second gen­eration for decision support in especially significant situations, Journal of Hydrology, 2023. vol. 616, pp. 128844. DOI: 10.1016/j.jhydrol.2022.128844. </li>
+     <li> Palchevsky E. V., Antonov V. V., Kromina L. A., Rodionova L. E., Fakhrullina A. R. Artificial Neural Network for Forecasting Electricity Consumption in Energy Enterprises, Programmnaya Ingeneria, 2023, vol. 14, no. 1, pp. 34—41. DOI: 10.17587/prin.14.34-41.</li>
+---
