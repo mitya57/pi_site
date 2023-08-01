@@ -1,0 +1,249 @@
+---
+title: Issue N7 2023 year
+content:
+ - doi: 14.311-328
+   udk: "004.93, 004.032.26"
+   item_authors: "Shvyrov V. V., Kapustin D. A."
+   item_name: "Analysis of Modern Methods and Approaches to Object Detection in the Computer Vision Task"
+   item_authors_address: |
+     <b> V. V. Shvyrov</b>, Associate Professor, slsh@i.ua, <b> D. A. Kapustin</b>, Associate Professor, kap-kapchik@mail.ru, FSPU HE Lugansk State Pedagogical University, Lugansk, 91011, Lugansk Peoples Republic
+   item_corr_author: 'Denis A. Kapustin, Associate Professor, FSPU HE "Lugansk State Pedagogical University", Lugansk, 91011, Lugansk Peoples Republic, kap-kapchik@mail.ru'
+   item_rec_on: May 16, 2023
+   item_acc_on: June 01, 2023
+   item_annot: |
+     Object detection is one of the most important tasks of technical vision, which is actively used in various applied fields. This causes an extremely large number of publications, which are related to research in the field of object detection in an image or in a video stream, image classification, semantic segmentation, etc. due to the rapid growth of the entire field of artificial intelligence and the emergence of numerous new methods and approaches.
+     In this paper, we analyzed a corpus of 5792 English-language publications on the subject of object detection for 2018-2023. The key tendencies and directions in the field of object detection are determined. In particular, data were obtained on the data sets used, high-level neural network frameworks, current architectures for feature extraction and neural network architectures used in the object detection unit. Based on the data of the frequency analysis of the corpus of publications, trends and priority areas in the field of object detection over the past 5 years have been identified.
+     The results of the work should provide answers to the following questions:
+     <ul><li>Q1. What image datasets are used in object detection tasks?</li>
+     <li>Q2. What high-level frameworks for object detection are relevant at the moment?</li>
+     <li>Q3. What architectures for feature extraction (backbone-architectures) are the most relevant at the moment?</li>
+     <li>Q4. What neural network architectures for object detection are relevant and what is the actual rating for using various object detection methods?</li></ul>
+   item_keywords: backbone architecture, datasets, frequency analysis, object detection, computer vision, convolutional neural network, pattern recognition, Python, semantic analysis, neural network frameworks
+   item_pages: 311–328
+   item_citation: 'Shvyrov V. V., Kapustin D. A. Analysis of Modern Methods and Approaches to Object Detection in the Computer Vision Task, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 311—328. DOI: 10.17587/prin.14.311-328. (in Russian)'
+   item_references: |
+      <li>  Zou Z., Chen K., Shi Z., Guo Y., Ye J. Object Detection in 20 Years: A Survey, Proceedings of the IEEE, 2023, vol. 111, no. 3, pp. 257—276. DOI: 10.1109/JPROC.2023.3238524. </li>
+      <li> Viola P., Jones M. Rapid object detection using a boosted cascade of simple features, CVPR, IEEE, 2001, vol. 1, pp. 511—518. DOI: 10.1109/CVPR.2001.990517. </li>
+      <li> Viola P., Jones M. Robust real-time face detection, Interna­tional journal of computer vision, 2004, vol. 57, no. 2, pp. 137—154. DOI: 10.1023/B:VISI.0000013087.49260.fb. </li>
+      <li> Krizhevsky A., Sutskever I., Hinton G. E. Imagenet clas­sification with deep convolutional neural networks, Advances in neural information processing systems, 2012, pp. 1097—1105. DOI: 10.1145/3065386. </li>
+      <li> Girshick R., Donahue J., Darrell T., Malik J. Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014, pp. 580—587. DOI: 10.1109/CVPR.2014.81. </li>
+      <li> Girshick R., Donahue J., Darrell T., Malik J. Regionbased convolutional networks for accurate object detection and segmentation, IEEE transactions on pattern analysis and machine intelligence, 2016, vol. 38, no. 1, pp. 142—158. DOI: 10.1109/ TPAMI.2015.2437384. </li>
+      <li> He K., Zhang X., Ren S., Sun J. Spatial pyramid pool­ing in deep convolutional networks for visual recognition, ECCV, Springer, 2014, pp. 346—361. DOI: 10.1007/978-3-319-10578-9_23. </li>
+      <li> Girshick R. Fast R-CNN, ICCV, 2015, pp. 1440—1448. DOI: 10.1109/ICCV.2015.169. </li>
+      <li> Ren S., He K., Girshick R., Sun J. Faster R-CNN: Towards real-time object detection with region proposal networks, Advances in neural information processing systems, 2015, pp. 91—99. DOI: 10.1109/TPAMI.2016.2577031. </li>
+      <li> Lin T.-Y., Dollar P., Girshick R. B. et al. Feature pyramid networks for object detection, CVPR, 2017, vol. 1, no. 2, pp. 4. DOI: 10.1109/CVPR.2017.106. </li>
+      <li> Redmon J., Divvala S., Girshick R., Farhadi A. You only look once: Unified, real-time object detection, CVPR, 2016, pp. 779—788. DOI: 10.1109/CVPR.2016.91. </li>
+      <li> Liu W., Anguelov D., Erhan D. et al. SSD: Single shot multibox detector, ECCV. Springer, 2016, pp. 21—37. DOI: 10.1007/978-3-319-46448-0_2. </li>
+      <li> Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Advances in Neural Information Processing Systems, 2017, pp. 5998—6008. </li>
+      <li> Carion N., Massa F., Synnaeve G. et al. End-to-end object detection with transformers, European Conference on Computer Vision, Springer, 2020, pp. 213—229. DOI: 10.1007/978-3-030-58452-8_13. </li>
+      <li> Liu L., Ouyang W., Wang X. et al. Deep Learning for Ge­neric Object Detection: A Survey // International Journal of Com­puter Vision, 2019, vol. 128, pp. 261—318. DOI: 10.1007/s11263-019-01247-4. </li>
+      <li> Search | arXiv e-print repository, available at: https://arxiv. org/search/?searchtype=all&query=%22object+detection%22&abstr acts=show&size=200&order=-announced_date_first (date of access 28.04.2023). </li>
+      <li> Deerwester S., Dumais S. T., Fumas G W., Landau-er Т. К., Harshman R. Indexing by Latent Semantic Analysis, Journal of the American Society for Information Science, 1990, vol. 41, pp. 391—407. DOI: 10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9. </li>
+      <li> Foltz P. Latent Semantic Indexing for textbased research, Behavior Research Methods, Instruments, and Computers, 1996, vol. 28, pp. 197—202. </li>
+      <li> Foltz P., Kintsch W., Landauer T. K. The measurement of textual coherence with Latent Semantic Analysis, Discourse Processes, 1998, vol. 25, pp. 285—307. DOI: 10.1080/01638539809545029. </li>
+      <li> Shvyrov V. V., Korop G. V., Nechay T. A., Shishlakova V. N. Study of Methods and Approaches for Solving the SLAM Problem Using Statistical Analysis of the Corpus of English-Language Publications, Bulletin of the Luhansk State Pedagogical University: Sat. scientific tr., Lugansk: Knita, Series 5. Humanities. Technical science, 2022, vol. 3, no. 89, pp. 75—89. </li>
+      <li> Kapustin D. A., Shvyrov V. V., Shulika T. I. Static Analysis of the Source Code of Python Applications, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 394—403. DOI: 10.17587/prin.13.394-403 (in Russian). </li>
+      <li> beautifulsoup4 4.12.2, available at: https://pypi.org/project/ beautifulsoup4/ (date of access 28.04.2023). </li>
+      <li> Salton G., McGill M. J. Introduction to Modern Information Retrieval, McGraw-Hill Book Co., New York, 1983. </li>
+      <li> Ipsen G. The Ancient Orient and Indogermans Feast Scipts for W. Streitburg, Heidelberg, 1924, pp. 30—45. </li>
+      <li> Shur G. S. Field theories in linguistics: a monography, Mos­cow, Nauka, 1974, 254 p. (in Russian). </li>
+      <li> Admoni V. G. Syntax of modern German language: A system of relations and build system, Leningrad, Nauka, 1973, 366 p. </li>
+      <li> Everingham M., Gool L. V., Williams C., Winn J., Zisser-man A. The pascal visual object classes (voc) challenge, IJCV, 2010, vol. 88 (2), pp. 303—338. DOI: 10.1007/s11263-009-0275-4. </li>
+      <li> Deng J., Dong W., Socher R. et al. ImageNet: A large-scale hierarchical image database, 2009 IEEE Conference on Computer Vision and Pattern Recognition, Miami, FL, USA, 2009, pp. 248—255. DOI: 10.1109/CVPR.2009.5206848. </li>
+      <li> Lin T., Maire M., Belongie S. et al. Microsoft COCO: Common objects in context, ECCV, 2014, pp. 740—755. DOI: 10.1007/978-3-319-10602-1_48. </li>
+      <li> Machine Learning Datasets, available at: https://paperswith-code.com/datasets (date of access 28.04.2023). </li>
+      <li> Geiger A., Lenz P., Urtasun R. Are we ready for autonomous driving? The KITTI vision benchmark suite, 2012 IEEE Conference on Computer Vision and Pattern Recognition, Providence, RI, USA, 2012, pp. 3354—3361. DOI: 10.1109/CVPR.2012.6248074. </li>
+      <li> Caesar H., Bankiti V., Lang A. H. et al. nuScenes: A mul-timodal dataset for autonomous driving, CVPR, 2020, pp. 11618— 11628. DOI: 10.1109/cvpr42600.2020.01164. </li>
+      <li> Kuznetsova A., Rom H., Alldrin N. G. et al. The Open Images Dataset V4, International Journal of Computer Vision, 2018, vol. 128, pp. 1956—1981. DOI: 10.1007/s11263-020-01316-z. </li>
+      <li> Xia G., Bai X., Ding J. et al. DOTA: A Large-Scale Dataset for Object Detection in Aerial Images, 2018IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2017, pp. 3974—3983. DOI: 10.1109/CVPR.2018.00418. </li>
+      <li> Krishna R., Zhu Y., Groth O. et al. Visual Genome: Con­necting Language and Vision Using Crowdsourced Dense Image Annotations, International Journal of Computer Vision, 2016, vol. 123, pp. 32—73. DOI: 10.1007/s11263-016-0981-7. </li>
+      <li> Shao S., Zhao Z., Li B. et al. CrowdHuman: A Benchmark for Detecting Human in a Crowd, ArXiv, 2018, abs/1805.00123. </li>
+      <li> Shao S., Li Z., Zhang T. et al. Objects365: A Large-Scale, High-Quality Dataset for Object Detection, 2019 IEEE/CVF In­ternational Conference on Computer Vision (ICCV), 2019, pp. 8429— 8438. DOI: 10.1109/ICCV.2019.00852. </li>
+      <li> Collobert R., Bengio S., Mariethoz J. Torch: a modular ma­chine learning software library, Technical Report IDIAP-RR, 2002, IDIAP, pp. 2—46. </li>
+      <li> Bergstra J., Breuleux O., Bastien F. et al. Theano: A CPU and GPU Math Expression Compiler, Proceedings of the 9th Python in Science Conference, 2010, pp. 18—24. DOI: 10.25080/MAJORA-92BF1922-003. </li>
+      <li> Jia Y., Shelhamer E., Donahue J. et al. Caffe: Convolutional Architecture for Fast Feature Embedding, Proceedings of the 22nd ACM international conference on Multimedia, 2014, pp. 675—678. DOI: 10.1145/2647868.2654889. </li>
+      <li> Abadi M., Agarwal A., Barham P. et al. Tensorflow: Large-scale machine learning on heterogeneous distributed systems, ArXiv, 2016, abs/1603.04467. </li>
+      <li> TensorFlow, available at: https://www.tensorflow.org/ (date of access 28.04.2023). </li>
+      <li> Paszke A., Gross S., Massa F. et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library, ArXiv, 2019, abs/1912.01703. </li>
+      <li> PyTorch, available at: https://pytorch.org/ (date of access28.04.2023). </li>
+      <li> Darknet: Open source neural networks in c, available at: http://pjreddie.com/darknet (date of access 30.05.2023). </li>
+      <li> Chen T., Li M., Li Y. et al. MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems, ArXiv, 2015, abs/1512.01274. </li>
+      <li> Huawei Technologies Co., Ltd. Huawei MindSpore AI Development Framework, Artificial Intelligence Technology, Springer, Singapore, 2023. DOI: 10.1007/978-981-19-2879-6_5. </li>
+      <li> Keras: Deep Learning for humans, available at: https:// keras.io/ (date of access 30.05.2023). </li>
+      <li> Detectron, available at: https://github.com/facebookre-search/Detectron/ (date of access 30.05.2023). </li>
+      <li> Chen K., Wang J., Pang J. et al. MMDetection: Open MMLab Detection Toolbox and Benchmark, ArXiv, 2019, abs/1906.07155. </li>
+      <li> Krizhevsky A., Sutskever I., Hinton G. E. Imagenet classification with deep convolutional neural networks, NIPS, 2012,  pp. 1097—1105. DOI: 10.1145/3065386. </li>
+      <li> Szegedy C., Liu W., Jia Y. et al. Going deeper with convolu­tions, CVPR, 2015, pp. 1—9. DOI: 10.1109/CVPR.2015.7298594. </li>
+      <li> Hu J., Shen L., Sun G. Squeeze-and-excitation networks, 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, USA, 2018, pp. 7132—7141. DOI: 10.1109/CVPR.2018.00745. </li>
+      <li> Li W., Wang L., Li W.,Agustsson E., Gool L. WebVision Database: Visual Learning and Understanding from Web Data, ArXiv, 2017, abs/1708.02862. </li>
+      <li> Elharrouss O., Akbari Y., Almaadeed N., Al-ma'adeed S. Backbones-Review: Feature Extraction Networks for Deep Learn­ing and Deep Reinforcement Learning Approaches, ArXiv, 2022, abs/2206.08016. DOI: 10.48550/arXiv.2206.08016. </li>
+      <li> Lin M., Chen Q., Yan S. Network In Network, CoRR, 2014, abs/1312.4400. </li>
+      <li> Simonyan K., Zisserman A. Very Deep Convolutional Networks for Large-Scale Image Recognition, CoRR, 2014, abs/1409.1556. </li>
+      <li> He K., Zhang X., Ren S., Sun J. Deep residual learning for image recognition, 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, 2016, pp. 770—778. DOI: 10.1109/cvpr.2016.90. </li>
+      <li> Tan M., Le Q. V. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, Proceedings of the 36th Inter­national Conference on Machine Learning, ICML 2019, Long Beach, 9—15 June 2019, pp. 6105—6114. </li>
+      <li> Elsken T., Metzen J. H., Hutter F. Neural Architecture Search: A Survey, Journal of Machine Learning Research. 2018, vol. 20, pp. 55:1—55:21. arXiv:1808.05377. </li>
+      <li> Tan M., Pang R., Le Q. EfficientDet: Scalable and Ef­ficient Object Detection, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2020, pp. 10778—10787. DOI: 10.1109/CVPR42600.2020.01079. </li>
+      <li> Du X., Lin T., Jin P. et al. SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2020, pp. 11589—11598. DOI: 10.1109/ CVPR42600.2020.01161. </li>
+      <li> Zhou X., Wang D., Kriihenbiihl P. Objects as Points, ArXiv, 2019, abs/1904.07850. </li>
+      <li> Qin Z., Li Z. Zhang Z. et al. ThunderNet: Towards Real-Time Generic Object Detection on Mobile Devices, 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019, pp. 6717—6726. DOI: 10.1109/ICCV.2019.00682. </li>
+      <li> Wang C., Liao H. M., Yeh I. et al. CSPNet: A New Backbone that can Enhance Learning Capability of CNN, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 1571—1580. DOI: 10.1109/CVPRW50498.2020.00203. </li>
+      <li> Xie S., Girshick R., Dollar P. et al. Aggregated residual transformations for deep neural networks, Proceedings of the IEEE conference on computer vision and pattern recognition, 2017, pp. 1492—1500. DOI: 10.1109/CVPR.2017.634. </li>
+      <li> Liu Y., Zhang Y., Wang Y. et al. A Survey of Visual Transformers, IEEE transactions on neural networks and learning systems, 2023, pp. 1—21. DOI: 10.1109/tnnls.2022.3227717. </li>
+      <li> Dosovitskiy A., Beyer L., Kolesnikov A. et al. An image is worth 16x16 words: Transformers for image recognition at scale, ICLR, 2020, ArXiv, abs/2010.11929. </li>
+      <li> Liu Z., Lin Y., Cao Y. et al. Swin transformer: Hierarchical vision transformer using shifted windows 2021 IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, QC, Canada, 2021, pp. 9992—10002. DOI: 10.1109/ICCV48922.2021.00986. </li>
+      <li> Fedus W., Zoph B., Shazeer N. M. Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity, ArXiv, 2021, abs/2101.03961. </li>
+      <li> Liu Z., Hu H., Lin Y. et al. Swin Transformer V2: Scaling Up Capacity and Resolution, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 11999—12009. DOI: 10.1109/CVPR52688.2022.01170. </li>
+      <li> Zhai X., Kolesnikov A., Houlsby N., Beyer L. Scaling Vision Transformers, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 1204—1213. DOI: 10.1109/ CVPR52688.2022.01179. </li>
+      <li> An Overview of Object Detection Models | Papers With Code, available at: https://paperswithcode.com/methods/category/ object-detection-models (date of access 30.05.2023).</li>
+ - doi: 14.329-338
+   udk: "004.021, 004.42"
+   item_authors: "Egunov V. A., Kravets A. G."
+   item_name: "A Method for Improving the Caching Strategy for Computing Systems with Shared Memory"
+   item_authors_address: |
+     <b>  V. A. Egunov</b>, Assistant Professor, vegunov@mail.ru, <b>  A. G. Kravets</b>, Professor, allagkravets@yandex.ru,
+     Volgograd State Technical University, Volgograd, 400005, Russian Federation
+   item_corr_author: "Vitaly A. Egunov, Assistant Professor, Volgograd State Technical University, Volgograd, 400005, Russian Federation, E-mail: vegunov@mail.ru"
+   item_rec_on: April 14, 2023
+   item_acc_on: May 11, 2023
+   item_annot: |
+     <p> This paper considers the problem of increasing the software efficiency in terms of reducing the costs of their development and operation in the process of solving production and research tasks. We have analysed the existing approaches to solving this problem by example of parameterized algorithms for implementing mVm (matrix—vector multiplication) and MMM (matrix—matrix multiplication)) BLAS (Basic Linear Algebra Subroutines) operations. To achieve the goal of increasing the software efficiency, we proposed a new design method, designed to improve data caching algorithms in the software development for computing systems with a hierarchical memory structure. Using the proposed design procedure, we developed an analytical approach to evaluating the software effectiveness from the point of view of using a memory subsystem with a hierarchical structure is implemented. We applied the proposed method to the two-sided Householder transformation for the task of reducing the general form matrix to the Hessenberg form. Then we presented new algorithms for solving the problem, which are optimized variants of the Householder classical transformation: Row-Oriented Householder and Single-Pass Householder. The use of these algorithms can significantly reduce the software execution time. Computational experiments were carried out on a parallel computing system with shared memory, which is one of the nodes of the computing cluster of the Volgograd State Technical University. We made a comparison of the software execution time that reduce general-form matrices to Hessenberg form, written using the proposed algorithms and using the LAPACKE_dgehrd() function of the Intel MKL library. The conclusions made in the work are confirmed by the results of the conducted computational experiments.</p>
+   item_keywords: program efficiency, memory hierarchy, cache memory, householder transformation, efficiency evaluation
+   item_pages: 329–338
+   item_citation: 'Egunov V. A., Kravets A. G. A Method for Improving the Caching Strategy for Computing Systems with Shared Memory, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 329—338. DOI: 10.17587/prin.14.329-338. (in Russian)'
+   item_references: |
+     <li>  Nethercote N., Seward J. Valgrind. A Framework for Heavyweight Dynamic Binary Instrumentation, Proceedings of ACM SIGPLAN 2007 Conference on Programming Language Design and Implementation (PLDI 2007). ACM, 2007, pp. 89-100. DOI:10.1145/1273442.1250746. </li>
+     <li>  Lawson C. L., Hanson R. J., Kincaid D. R., Krogh F. T. Basic Linear Algebra Subprograms for Fortran Usage, ACM Trans­actions on Mathematical Software, 1979, vol. 5, no. 3, pp. 308—323. DOI: 10.1145/355841.355847. </li>
+     <li>  Dongarra J. J., Du Croz J., Hammarling S., Hanson R. J. An Extended Set of FORTRAN Basic Linear Algebra Subprograms, ACM Transactions on Mathematical Software, 1988. Vol. 14, no. 1. P. 1—17. DOI: 10.1145/42288.42291. </li>
+     <li>  Dongarra J. J., Du Croz J., Hammarling S., Duff I. S. A Set of Level 3 Basic Linear Algebra Subprograms, ACM Trans­actions on Mathematical Software, 1990, vol. 16, no. 1, pp. 1—17. DOI: 10.1145/77626.79170. </li>
+     <li>  Golub G., Van Loan C. Matrix Computations, 3rd ed.; The Johns Hopkins University Press: Baltimore, MD, USA, 1996, 728 p. </li>
+     <li>  Xianyi Z., Qian W., Yunquan Z. Model-driven level 3 BLAS performance optimization on Loongson 3A processor, 2012 IEEE 18th International Conference on Parallel and Distributed Systems, Singapore, December 17—19, 2012, Boston, Massachusetts, USA, IEEE Xplore Digital Library, 2012, pp. 684—691. DOI: 10.1109/ ICPADS.2012.97. </li>
+     <li>  Intel. Get Started with Intel® oneAPI Math Kernel Library, available at: https://www.intel.com/content/www/us/en/docs/onemkl/get-started-guide/2023-0/overview.html (date of access 14.05.2023). </li>
+     <li>  Goto K., Van De Geijn R. High-Performance Implementation of the Level-3 BLAS, ACM Transactions on Mathematical Software, 2008, vol. 35, no. 1, pp. 4:1—4:14. DOI: 10.1145/1377603.1377607. </li>
+     <li>   Goto K., Geijn R. A. Anatomy of High-Performance Matrix Multiplication, ACM Transactions on Mathematical Software, 2008, vol. 34, no. 3, pp. 12:1—12:25. DOI: 10.1145/1356052.1356053. </li>
+     <li>  Low T. M., Igual F. D., Smith T. M., Quintana-Orti E. S. Analytical Modeling Is Enough for High-Performance BLIS, ACM Transactions on Mathematical Software, 2016, vol. 43, no. 2, pp. 12:1—12:18. DOI: 10.1145/2925987. </li>
+     <li>  Levchenko N. N., Zmeev D. N. Dynamic control of the integrity of the computing process in a parallel streaming computing system, Informacionnye tekhnologii, 2021, vol. 27, no. 12, pp. 625—633. DOI: 10.17587/it.27.625-633 (in Russian). </li>
+     <li>  Bychkov I. V., Gorskij S. A., Feoktistov A. G., Kostromin R. O. Support for computing in distributed environments based on continuous integration, Informacionnye tekhnologii, 2021, vol. 27, no.12, pp. 619—625. DOI: 10.17587/it.27.619-625 (in Russian). </li>
+     <li>  Popov A. Yu. Principles of organization of a heterogeneous computing system with a set of discrete mathematics commands, Informacionnye tekhnologii, 2020, vol. 26, no. 2. pp. 67—79. DOI: 10.17587/it.26.67-79 (in Russian). </li>
+     <li>  Ortega J. M. Introduction to Parallel and Vector Solution of Linear Systems, Plenum Press, New York, NY, USA, 1988, 305 p. </li>
+     <li>  Demmel J. W. Applied Numerical Linear Algebra, SIAM, Philadelphia, PA, USA, 1997, 430 p. </li>
+     <li>  Tomov S., Nath R., Dongarra J. Accelerating the reduction to upper hessenberg, tridiagonal, and bidiagonal forms through hybrid GPU-based computing, Parallel Computing, 2010, vol. 36, pp. 645—654. DOI: 10.1016/j.parco.2010.06.001. </li>
+     <li>  Egunov V. A., Kravets A. G. Improving the efficiency of programs for computing systems with a hierarchical memory structure, Matematicheskie metody v tekhnologiyah i tekhnike, 2022, no. 4. pp. 100— 103. DOI: 10.52348/2712-8873_MMTT_2022_4_100 (in Russian). </li>
+     <li>  Kravets A. G., Egunov V. The Software Cache Optimization-Based Method for Decreasing Energy Consumption of Computational Clusters, Energies, 2022, 15, 7509. DOI: 10.3390/en15207509. </li>
+ - doi: 14.339-349
+   udk: "681.518.5 + 004.052.32"
+   item_authors: "Efanov D. V., Zueva M. V."
+   item_name: "Hsiao Codes Properties in Discrete Devices Technical Diagnostics Systems"
+   item_authors_address: |
+     <b> D. V. Efanov</b><sup>1,2,3,4</sup>, D. Sc. (Engineering), Professor, TrES-4b@yandex.ru, <b> M. V. Zueva</b><sup>4,5</sup>, Programmer-Analyst, marina-seo-media@yandex.ru
+     <br/><sup>1</sup> Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation,
+     <br/><sup>2</sup> Russian University of Transport, Moscow, 127994, Russian Federation,
+     <br/><sup>3</sup> Tashkent State Transport University, Tashkent, Uzbekistan,
+     <br/><sup>4</sup> LLC Research and Design Institute for Transport and Construction Safety, St. Petersburg, 192102, Russian Federation,
+     <br/><sup>5</sup> Bank "Saint-Petersburg" Public Joint-Stock Company, St. Petersburg, 195112, Russian Federation
+   item_corr_author: "  Dmitry V. Efanov, D. Sc. (Engineering), Professor, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation, Russian University of Transport, Moscow, 127994, Russian Federation, LLC Research and Design Institute for Transport and Construction Safety, St. Petersburg, 192102, Russian Federation, Tashkent State Transport University, Tashkent, 100167, Uzbekistan, E-mail: TrES-4b@yandex.ru"
+   item_rec_on: April 13, 2023
+   item_acc_on: May 04, 2023
+   item_annot: |
+     <p> The error detection features by modified Hamming codes — codes with odd column weights, or Hsiao codes — are analyzed. The error detection properties of Hsiao codes are considered separately for data symbols, as well as for all code word symbols. It is shown that Hsiao codes detect any errors with odd multiplicities and errors with multiplicities d < 4. The Hsiao codes error detection performance is compared with the error detection performance by classic Hamming codes. The experiments results showing the Hsiao codes high efficiency in organizing the calculation testing at the automation device outputs are given. Hsiao codes can be very effectively used in solving problems of automation devices synthesis with the malfunctions and errors detection in calculations, including the devices synthesis with controllable structures and with concurrent calculation testing circuits.</p>
+   item_keywords:  self-checking digital devices; Hamming codes; Hsiao codes; error detection in digital devices; concurrent error detection circuit; calculation testing by two diagnostic signs
+   item_pages: 339–349
+   item_citation: 'Efanov D. V., Zueva M. V. Hsiao Codes Properties in Discrete Devices Technical Diagnostics Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 339—349. DOI: 10.17587/prin.14.339-349 (in Russian)'
+   item_references: |
+     <li>  Hamming R. W. Error Detecting and Correcting Codes, Bell System Technical Journal, 1950, 29 (2), pp. 147—160. DOI: 10.1002/J.1538-7305.1950.TB00463.X. </li>
+     <li>  Hsiao M. Y. A Class of Optimal Minimum Odd-Weight-Column SEC-DED Codes, IBM Journal of Research and Development, 1970, vol. 14, issue 4, pp. 395—401. DOI: 10.1147/rd.144.0395. </li>
+     <li>  Sagalovich Yu. L. Error-Correcting Codes for Computer Memories, Avtomatika i Telemehanika, 1991, no. 5, pp. 3—45 (in Russian). </li>
+     <li>  Sapozhnikov V., Sapozhnikov Vl., Efanov D., Dmitriev V. Weighted Sum Code Without Carries — is an Optimum Code with Detection of Any Double Errors in Data Vectors, Proceedings of 14th IEEE East-West Design & Test Symposium (EWDTS'2016), Ye­revan, Armenia, October 14—17, 2016, pp. 134—141. DOI: 10.1109/EWDTS.2016.7807686. </li>
+     <li>  Stempkovskii A. L., Tel'pukhov D. V., Zhukova T. D., Demeneva A. I., Nadolenko V. V., Gurov S. I. Synthesis of a Concurrent Error Detection Circuit Based on the Spectral R-Code with the Par­titioning of Outputs into Groups, Mikrojelektronika, 2019, vol. 48, no. 4, pp. 284—294. DOI: 10.1134/S0544126919040094 (in Russian).
+     <li>  Sogomonyan E. S., Slabakov E. V. Self-Checking Devices and Fail-Safe Systems, Moscow: Radio and communication, 1989, 208 p. (in Russian). </li>
+     <li>  Tshagharyan G., Harutyunyan G., Shoukourian S., Zorian Y. Experimental Study on Hamming and Hsiao Codes in the Context of Embedded Applications, Proceedings of 15th IEEE East-West Design & Test Symposium (EWDTS'2017), Novi Sad, Ser­bia, September 29 — October 2, 2017, pp. 25—28. DOI: 10.1109/ EWDTS.2017.8110065. </li>
+     <li>  Stempkovsky A. L., Telpukhov D. V., Gurov S. I., Zhukova T. D., Shchelokov A. N., Novikov A. D. Synthesis Method of Fault-Tolerant Combination Circuits with CED Based on LDPC Code, Izvestiya YUFU. Tekhnicheskie nauki, 2019, no. 4 (206), pp. 195—206. DOI: 10.23683/2311-3103-2019-4-195-206 (in Rus­sian). </li>
+     <li>  Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Hamming Codes in Concurrent Error Detection Systems of Logic Devices, St. Petersburg: Nauka, 2018, 151 p. (in Russian). </li>
+     <li>  Stempkovsky A. L., Zhukova T. D., Telpukhov D. V., Gurov S. I. CICADA: A New Tool to Design Circuits with Correction and Detection Abilities, International Siberian Conference on Control and Communications (SIBCON), 13—15 May 2021, Kazan, Russia, 2021, pp. 1—5. DOI: 10.1109/SIBCON50419.2021.9438900. </li>
+     <li>  Telpukhov D. V., Zhukova T. D., Shchelokov A. N., Kretinina P. D. Application of the Hamming Code in the Problem of Increasing Fault Tolerance of Logic Circuits, Izvestiya YUFU. Tekhnicheskie nauki, 2021, no. 4 (221), pp. 220—231. DOI: 10.18522/2311­3103-2021-4-220-231 (in Russian). </li>
+     <li>  Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Theory of Synthesis of Self-Checking Digital Systems Based on Sum Codes, St. Petersburg, Lan, 2021, 580 p. (in Russian). </li>
+     <li>  Efanov D. Classification of Errors in Ternary Code Vectors from the Standpoint of Their Use in the Synthesis of Self-Checking Digital Systems, Proceedings of 18th IEEE East-West Design & Test Symposium (EWDTS'2020), Varna, Bulgaria, September 4—7, 2020, pp. 40—46. DOI: 10.1109/EWDTS50664.2020.9224826. </li>
+     <li>  Efanov D. V., Saposhnikov V. V., Saposhnikov Vl.V. On Summation Code Properties in Functional Control Circuits, Avtomatika i Telemehanika, 2010, no. 6, pp. 155—162 (in Russian). </li>
+     <li>  Goessel M., Ocheretny V., Sogomonyan E., Marienfeld D. New Methods of Concurrent Checking: Edition 1, Dordrecht, Springer Science + Business Media B. V., 2008, 184 p. </li>
+     <li>  Nikitin D., Manakov A., Nikitin A., Popov P., Kotenko A. Automatic Locomotive Signalization System Modification with Weight-Based Sum Codes, Proceedings of 15th IEEE East-West Design & Test Symposium (EWDTS'2017), Novi Sad, Serbia, September 29 — October 2, 2017, pp. 332—336. DOI: 10.1109/ EWDTS.2017.8110099. </li>
+     <li>  Sentovich E. M., Singh K. J., Moon C., Savoj H., Brayton R. K., Sangiovanni-Vincentelli A. Sequential Circuit Design Using Synthesis and Optimization, Proceedings IEEE International Conference on Computer Design: VLSI in Computers & Processors, 11—14 October 1992, Cambridge, MA, USA, pp. 328—333. DOI: 10.1109/ICCD.1992.276282. </li>
+     <li>  Collection of Digital Design Benchmarks, available at: http:// ddd.fit.cvut.cz/www/prj/Benchmarks/</li>
+     <li>  Efanov D., Osadchy G., Zueva M. Special Aspects of Errors Definition via Sum Codes within Embedded Control Schemas Being Realized by Means of Boolean Complement Method, Proceedings of 11th IEEE International Conference on Intelligent Data Acquisi­tion and Advanced Computing Systems: Technology and Applications
+     (IDAACS'2021), Vol. 1, Cracow, Poland, September 22—25, 2021, pp. 424—431. DOI: 10.1109/IDAACS53288.2021.9660837. </li>
+     <li>  Dmitriev V. V., Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. Sum Codes with Efficient Detection of Twofold Errors tor Organization of Concurrent Error-Detection Systems of Logical Devices, Avtomatika i Telemehanika, 2018, no. 4, pp. 105—122. DOI: 10.1134/S0005117918040082 (in Russian). </li>
+     <li>  Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. Synthesis of Self-Checking Combination Devices Based on Allocating Special Groups of Outputs, Avtomatika i Telemehanika, 2018, no. 9, pp. 79—94. DOI: 10.31857/S000523100001488-0 (in Russian). </li>
+     <li>  Efanov D. V., Pogodina T. S. Self-Dual Control of Combinational Circuits with Using Hamming Codes, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem (MES), 2022, no. 3, pp. 113—122. DOI: 10.31114/2078-7707-2022-3-113-122 (in Russian). </li>
+     <li>  Saposhnikov Vl.V., Dmitriev A., Goessel M., Saposhnikov V. V. Self-Dual Parity Checking — a New Method for on Line Testing, Proceedings of 14th IEEE VLSI Test Symposium, USA, Princeton, 1996, pp. 162—168. </li>
+     <li>  Efanov D. V., Pogodina T. S. Properties Investigation of Self-Dual Combinational Devices with Calculation Control Based on Hamming Codes, Informatika i Avtomatizatsiya, 2023, Vol. 22, Issue 2, pp. 349—392. DOI: 10.15622/ia.22.2.5 (in Russian). </li>
+     <li>  Efanov D. V., Pogodina T. S. Check of combinational devices by belonging of calculated functions to self-dual class with using signal compression circuit based on linear codes, Programmnaya Ingeneria, 2023, vol. 14, no. 4, pp. 175—186. DOI: 10.17587/prin.14.4.175-186 (in Russian). </li>
+     <li>  Efanov D. V., Pogodina T. S. Self-Dual Digital Devices with Calculations Testing by Hsiao Codes. Vestnik Tomskogo gosudarstvennogo universiteta. Upravlenie vychislitelnaja tehnika i informatika — Tomsk State University Journal of Control and Computer Science, 2023, no. 63, рр. 118—136. DOI: 10.17223/19988605/63/14 (in Russian).</li>
+ - doi: 14.350-357
+   udk: "004.8"
+   item_authors: "Telnov V. P., Odintsov K. V."
+   item_name: "Experience in Integration of University Knowledge Bases Based on Semantic Web Technologies"
+   item_authors_address: |
+     <b> V. P. Telnov</b>, Associate Professor, telnov@bk.ru, National Research Nuclear University MEPhI, Obninsk, 249040, Russian Federation, <b> K. V. Odintsov</b>, Postgraduate Student, mr.odintsov2@gmail.com, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: 'Victor P. Telnov, Associate Professor, National Research Nuclear University "MEPhI", Obninsk, 249040, Russian Federation, E-mail: telnov@bk.ru'
+   item_rec_on:  May 10, 2023
+   item_acc_on:  June 06, 2023
+   item_annot: |
+     <p> The paper is devoted to the study of optimal algorithms for virtual integration of university knowledge bases in the field of computer science and programming with external data sources in Russian and English. Data from external sources can be presented in RDF, OWL, XML, HTML, JSON, CSV formats, in the form of relational, graph databases, or not structured at all. The proposed algorithms will provide a methodological and technological basis for creating problem-oriented knowledge bases as artificial intelligence systems, as well as prerequisites for the development of semantic technologies for acquiring new knowledge on the Internet without direct human participation. Testing of the studied machine learning algorithms is carried out by the method of sliding control (cross-validation) on specialized text corpora. The novelty of the presented study is due to the application of the Paretos optimality principle for multicriteria evaluation and ranking of the studied algorithms in the absence of a priori information about the comparative significance of the criteria. The project is implemented in accordance with semantic web standards. The architecture of the semantic web portal and usage examples are given. The proposed software solutions are based on cloud computing using DBaaS and PaaS service models to ensure scalability of data warehouses and network services. The created software is publicly available and can be freely used.</p>
+   item_keywords: semantic web, knowledge base, machine learning, text classification, cloud computing
+   item_pages: 350–357
+   item_comment: The study was supported by the Russian Science Foundation grant No. 22-21-00182
+   item_citation: 'Telnov V. P., Odintsov K. V. Experience in Integration of University Knowledge Bases Based on Semantic Web Technologies, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 350—357. DOI: 10.17587/prin.14.350-357. (in Russian)'
+   item_references: |
+     <li> Knowledge graphs on computer science. Intelligent search agents, available at: http://vt.obninsk.ru/s/ (date of access 10.05.2023). </li>
+     <li> Geron A. Hands—On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd edition, O'Reilly Media, Inc. Sebastopol, 2019, 856 p. </li>
+     <li> W3C Semantic Web, available at: http://www.w3.org/stan-dards/semanticweb (date of access 10.05.2023). </li>
+     <li> Encyclopedia of Mathematics. Satisfiability, available at: https://encyclopediaofmath.org/wiki/Satisfiability (date of access 10.05.2023). </li>
+     <li> Encyclopedia of Mathematics. Consistency, available at: https://encyclopediaofmath.org/wiki/Consistency (date of access 10.05.2023). </li>
+     <li> Vilfredo Pareto, available at: http://www.newworldencyclo-pedia.org/entry/Vilfredo_Pareto (date of access 10.05.2023). </li>
+     <li> Fettach Y., Ghogho M., Benatallah B. Knowledge Graphs in Education and Employability: A Survey on Applications and Techniques, IEEE Access, 2022, vol. 10, pp. 80174—80183. DOI: 10.1109/ACCESS.2022.3194063. </li>
+     <li> Gutierrez C., Sequeda J. Knowledge graphs, Communications of the ACM, 2021, vol. 64, no. 5, pp. 96—104. DOI: 10.1145/3418294. </li>
+     <li> Grevisse C., Manrique R., Marino O., Rothkugel S. Knowledge Graph-Based Teacher Support for Learning Material Authoring, Colombian Conference on Computing, 2018, pp. 177—191. </li>
+     <li> Aliyu I., Kana A., Aliyu S. Development of knowledge graph for university courses management, Int. J. Educ. Manage. Eng., 2020, vol. 10, no. 2, pp. 1—10. DOI: 10.5815/ijeme.2020.02.01. </li>
+     <li> Donato D., Garofalo N., Malandrino D. et al. Education meets knowledge graphs for the knowledge management, In Methodologies and Intelligent Systems for Technology Enhanced Learning, 10th International Conference. Workshops. MIS4TEL. Springer, 2020, vol. 2, pp. 272—280. </li>
+     <li> Huang X. Study of personalized E-learning system based on knowledge structural graph, Procedia Engineering, 2011, vol. 15, pp. 3366—3370. DOI: 10.1016/j.proeng.2011.08.631. </li>
+     <li> Sun K., Liu Y., Guo Z., Wang C. EduVis: Visualization for education knowledge graph based on web data, Proc. 9th of the 9th International Symposium on Visual Information Communication and Interaction, 2016, pp. 138—139. DOI: 10.1145/2968220.2968227. </li>
+     <li> Zhao T., Chai C., Luo Y. et al. Towards automatic math­ematical exercise solving, Data Science Engineering, 2019, vol. 4, pp. 178—192. DOI: 10.1007/s41019-019-00098-w. </li>
+     <li> Lin Q., Zhu Z., Lu H., Shi K., Niu Z. Improving university faculty evaluations via multi-view knowledge graph, Future Genera­tion Computer Systems, 2021, vol. 117, pp. 181—192. DOI: 10.1016/j. future.2020.11.021. </li>
+     <li> Khadilkar K., Kulkarni S., Bone P. Plagiarism detection using semantic knowledge graphs, Proc. Fourth International Conference on Computing Communication Control and Automation (IC-CUBEA), Pune, India, IEEE, 2018, pp. 1—6. DOI: 10.1109/ICCUBEA.2018.8697404. </li>
+     <li> Telnov V. P., Korovin Yu. A. Programming of Knowledge Graphs, Reasoning on Graphs, Programmnaya Ingeneria, 2019, vol. 10, no. 2, pp. 59—68. DOI: 10.17587/prin.10.59-68 (in Russian). </li>
+     <li> Telnov V., Korovin Y. Semantic Web and Interactive Knowledge Graphs as Educational Technology, In Cloud Computing Security / Ed. Dinesh G. Harkut, 2020, IntechOpen, London, Ch. 6. DOI: 10.5772/intechopen.92433. </li>
+     <li> Telnov V., Korovin Y. Semantic web and knowledge graphs as an educational technology of personnel training for nuclear power engineering, Nuclear Energy and Technology, 2019, vol. 5, no. 3, pp. 273—280. DOI: 10.3897/nucet.5.39226. </li>
+     <li> Telnov V. P., Korovin Yu.A. Application of Machine Learning Methods for Filling and Updating Nuclear Knowledge Databases, Izvestiya vuzov. Yadernaya Energetika, 2022, no. 4, pp. 122—133. DOI: https://linkkk.org/10.26583/npe.2022.4.11 (in Russian). </li>
+     <li> Telnov V. P., Korovin Y. A., Odintsov K. V. On the Issue of Optimum Machine Learning Methods for Filling and Updating Nuclear Knowledge Graphs, Lobachevskii J. Math., 2023, vol. 44, no. 1, pp. 227—236. DOI: 10.1134/S1995080223010419. </li>
+     <li> Minaee S., Kalchbrenner N., Cambria E. et al. Deep Learning Based Text Classification: A Comprehensive Review, ACM Computing Surveys, 2022, vol. 54, no. 3, article 62, pp. 1—40. DOI: 10.1145/3439726. </li>
+     <li> National Open University «INTUIT», available at: https:// intuit.ru/ (date of access 10.05.2023).
+     <li> MIT OpenCourseWare, available at: http://ocw.mit.edu/</li> search/?s=department_course_numbers.sort_coursenum (date of access 10.05.2023).</li>
+ - doi: 14.358-364
+   udk: "004.021"
+   item_authors: "Onufrieva T. A., Borsuk N. A., Anokhina E. S."
+   item_name: "Development of an Application for Automated Testing of Web Forms"
+   item_authors_address: |
+     <b> T. A. Onufrieva</b>, Associate Professor, onufrievata@mail.ru, <b> N. A. Borsuk</b>, Associate Professor, borsuk65@yandex.ru, <b> E. S. Anokhina</b>, Student, gallaktine@gmail.com,
+     Bauman Moscow State Technical University, Kaluga Branch, Kaluga, 248000, Russian Federation
+   item_corr_author: " Tatyana A. Onufrieva, Associate Professor, Bauman Moscow State Technical University, Kaluga Branch, Kaluga, 248000, Russian Federation,  E-mail: onufrievata@mail.ru"
+   item_rec_on:   May 01, 2023
+   item_acc_on: June 23, 2023
+   item_annot: |
+     <p> The stages of automating the process of regression testing of a web form are considered. A feature of the work presented for consideration is a description of the main features of the development of an application for automated testing of web forms performed on the server side. The essence of the application concept is to use the algorithm proposed by the authors, which allows to significantly increase the speed and accuracy of tasks. The proposed algorithm is easily optimized for any browser by replacing the driver, and it can also be used with minor changes to test any other form. All algorithms of generation and subsequent analysis are universal.
+     The paper shows that the key factors in the choice of testing automation tools are: the ability to manage databases of libraries used in the project; cost; supported Python programming language.
+     The development features are related to the fact that the main information for testing is the data obtained from the Selenium WebDriver driver locators. The received data are stored on the server. The authors have developed an algorithm and sequential stages of testing.
+     Testing of the form should be as efficient as possible, productive and cover all possible defects before the release of the final version of the project.
+     Using the example of a specific form, it is shown that the proposed development is a simple and effective tool that can significantly increase the speed of testing filling out web forms on the server side and the correctness of filling out forms on the user side. The authors conducted a comparative analysis of manual and automated testing and showed the effectiveness of the proposed solution.
+     </p>
+   item_keywords: automation, testing, software, web technologies, algorithm, Python, driver, web form
+   item_pages: 358–364
+   item_citation: 'Onufrieva T. A., Borsuk N. A., Anokhina E. S. Development of an Application for Automated Testing of Web Forms, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 358—364. DOI: 10.17587/prin.14.358-364'
+   item_references: |
+     <li> Automation of testing, Performance Lab, available at: http:// www.performance-lab.ru/avtomatizacija-testirovanija (date of access 15.02.2023) (in Russian). </li>
+     <li> Fowler M. Templates of corporate applications, Moscow, Dia­lectics, 2018, 544 p. (in Russian). </li>
+     <li> Black R. Key testing processes, Moscow, Lori, 2014, 544 p. (in Russian). </li>
+     <li> Vinnichenko I. V. Automation of testing processes, Saint Petersburg, Piter, 2005, 203 p. (in Russian). </li>
+     <li> Demchenko Z. A. Lebedev V. D., Myasishchev D. G. Methodology of research activity: educational and methodical manual, Arkhangelsk, SAFU, 2015, 84 p. (in Russian). </li>
+     <li> The main provisions of testing, Interesting publications, Habrahabr, available at: https://habrahabr.ru/post/110307 (date of access 15.02.2023) (in Russian). </li>
+     <li> Pierce B. Types in programming languages, Moscow, Lambda Press Publishing House: Dobrosvet, 2011, 680 p. (in Russian). </li>
+     <li> Certification of software, National Certification Cham­ber, available at: http://www.nspru.ru/sertsoftware/ (date of access 15.02.2023) (in Russian). </li>
+     <li> Catalog Software Quality Management Platform, available at: https://katalon.com/pricing (date of access 15.02.2023).</li>
+---
