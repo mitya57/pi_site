@@ -20,13 +20,13 @@
      <% unless @item[:item_citation].nil? %>
       <div class="item_element" id="item_citation">For citation: <br><%= @item[:item_citation].sub(', Programmnaya Ingeneria,',', <i>Programmnaya Ingeneria</i>,') %></div>
      <% end %>
+     <% unless @item[:item_comment].nil? %>
+      <div class="item_element" id="item_comment"><%= @item[:item_comment] %></div>
+     <% end %>
      <% unless @item[:item_references].nil? %>
       <div class="item_element" id="item_references">References:
         <ol><%= @item[:item_references] %></ol>
       </div>
-     <% end %>
-     <% unless @item[:item_comment].nil? %>
-      <div class="item_element" id="item_comment"><br><i><%= @item[:item_comment] %></i></div>
      <% end %>
 
     </div>
