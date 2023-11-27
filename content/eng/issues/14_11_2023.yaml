@@ -1,0 +1,132 @@
+---
+title: Issue N11 2023 year
+content:
+ - doi: 14.523-530
+   udk: "004.021"
+   item_authors: "Basynya E. A., Karapetyants N., Karapetyants M."
+   item_name: "Bitcoin Transaction Analysis System"
+   item_authors_address: |
+     <b>E. A. Basinya</b>, Associate Professor, Leading Researcher, eabasynya@mephi.ru, <b>N. Karapetyants</b>, Assistant of Department, nkarapetyants@mephi.ru, <b>M. Karapetyants</b>, IICS Engineer, mkarapetyants@mephi.ru,
+     National Research Nuclear University "MEPhl", Moscow, 115409, Russian Federation
+   item_corr_author: 'Evgeniy A. Basynya, Associate Professor, Leading Researcher, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: eabаsynya@mephi.ru'
+   item_rec_on: June 14, 2023
+   item_acc_on: September 19, 2023
+   item_annot: |
+     <p>  The lack of a user identification system and the existence of a variety of ways to obfuscate a transaction on the Bitcoin network is of great interest to attackers and can be used by them to conduct illegal activities. There is a need to develop new methods of cash identification in the Bitcoin network. The purpose of this work is to develop a method of transaction verification in the Bitcoin network to improve the efficiency of the process of identification of illegally obtained funds and their sources. The work solves the following tasks: the development of a method for transaction verification in the Bitcoin network and the development of a decision support system, which includes the proposed method. The article describes each of the stages of the method: collection, aggregation, processing and analysis of information. The information analysis stage proposes a clustering method that takes into account an extended set of empirical rules (heuristics) of transaction analysis, as well as information about Bitcoin network address owners. The scientific novelty lies in increasing the efficiency of the identification process of illegally obtained funds and their sources through a comprehensive analysis of transactions, including the extended collection of information and its subsequent aggregation in the multi-model database of the decision support system. In contrast to existing methods, the reliability of the identification of Bitcoin network subjects is increased through the use of intelligent methods of data analysis. The results of this work will provide an opportunity to develop new and improve existing transaction analysis tools in future research, which will allow more effective identification of funds in the Bitcoin network associated with illegal activities.</p>
+   item_keywords: blockhain, Bitcoin, KYC, KYT, transaction analysis, clusterization, heuristic, DSS
+   item_pages: 523–530
+   item_comment: This work was supported by the Ministry of Science and Higher Education of the Russian Federation (state task project No. FSWU-2023-0031).
+   item_citation: "Basynya E. A., Karapetyants N., Karapetyants M. Bitcoin Transaction Analysis System, Programmnaya Ingeneria, 2023, vol. 14, no. 11, pp. 523—530. DOI: 10.17587/prin.14.523-530 (in Russian)."
+   item_references: |
+     <ul>
+     <li> Chainalysis — The 2023 Crypto Crime Report, Chainalysis, available at: https://go.chainalysis.com/2023-crypto-crime-report.html (date of access 01.06.2023). </li>
+     <li> Mezquita Y., Plaza-Hernandez M., Abbasi M., Prieto J. Cryp-tocurrencies, Systematic Literature Review on Their Current Context and Challenges. International Congress on Blockchain and Applications, 2023, vol. 595, pp. 162—172. DOI: 10.1007/978-3-031-21229-1_16. </li>
+     <li> Basynya E. A., Karapetyants N., Karapetyants M. A Study of Existing Approaches to Transaction Analysis in the Bitcoin Network, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 493—501. DOI: 10.17587/prin.14.493-501. </li>
+     <li> Tironsakkul T., Maarek M., Eross A., Just M. Context matters: Methods for Bitcoin tracking. Forensic Science International: Digital Investigation, 2022, vol. 42—43, id. 301475. DOI: 10.1016/j.fsidi.2022.301475. </li>
+     <li> Lin C-Y, Liao H-K, Tsai F-C. A Systematic Review of Detecting Illicit Bitcoin Transactions, Procedia Computer Science, 2022, vol. 207, pp. 3217—3225. DOI: 10.1016/j.procs.2022.09.379. </li>
+     <li> He X., He K., Lin S. et al. Bitcoin address clustering method based on multiple heuristic conditions, IET Blockchain, 2022, vol. 2, no. 2, pp. 44—56. DOI: 10.1049/blc2.12014. </li>
+     <li> Mun H., Lee Y. BitSQL: A SQL-based Bitcoin Analysis System, 2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), Shanghai, China, 2022, pp. 1—8. DOI: 10.1109/ ICBC54727.2022.9805551. </li>
+     <li> Zhang Y., Wang J., Luo J. Heuristic-Based Address Clustering in Bitcoin, IEEE Access, 2020, vol. 8, pp. 210582—210591. DOI: 10.1109/ACCESS.2020.3039570. </li>
+     <li> Gong Y., Chow K-P, Ting H-F et al. Analyzing the error rates of bitcoin clustering heuristics, Advances in Digital Fo-rensics XVIII: 18th IFIP WG 11.9 International Conference, Virtual Event, January 3—4, 2022, Revised Selected Papers, 2022, vol. 653, pp. 187—205. DOI: 10.1007/978-3-031-10078-9_11. </li>
+     <li> Zheng B., Zhu L., Shen M. et al. Identifying the vulnerabilities of bitcoin anonymous mechanism based on address clustering, Science China Information Sciences, 2020, vol. 63, article number 132101. DOI: 10.1007/s11432-019-9900-9. </li>
+     <li> Jeyasheela Rakkini M. J., Geetha K. Detection of Bitcoin Miners by Clustering Crypto Address with Google BigQuery Open Dataset, Soft Computing: Theories and Applications: Proceedings of SoCTA 2021, Singapore: Springer Nature Singapore, 2022, vol. 465, pp. 25—32. DOI: 10.1007/978-981-19-0707-4_3. </li>
+     <li> Kulkarni R. N., Srinivasa C. K. Abstraction of Activity Diagram from Sequence Diagram, Data Engineering and Intelligent Computing: Proceedings of 5th ICICC 2021, volume 1, Singapore: Springer Nature Singapore, 2022, vol. 446, pp. 145—156. DOI: 10.1007/978-981-19-1559-8_15.</li>
+     </ul>
+ - doi: 14.531-549
+   udk: "004.054"
+   item_authors: "Godunov A. N."
+   item_name: "Calculating Correctly Rounded Exponential Function in Double-Precision Using Extended Double-Precision Arithmetic"
+   item_authors_address: |
+     <b>  A. N. Godunov</b>, PhD, Head of Department, nkag@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences (SRISA), Moscow, 117218, Russian Federation
+   item_corr_author: 'Aleksandr N. Godunov, PhD, Head of Department, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences" (SRISA), Moscow, 117218, Russian Federation, E-mail: nkag@niisi.ras.ru'
+   item_rec_on: July 07, 2023
+   item_acc_on: August 28, 2023
+   item_annot: |
+     <p> The article presents an effective algorithm for calculating the correctly rounded exponent for any of the rounding modes specified by the IEEE 754 standard. The argument and the function value are double-precision numbers, but the algorithm itself uses extended double-precision arithmetic for calculations. At the argument reduction stage, we approximate the argument with numbers whose exponent value has a short mantissa, which makes calculations faster. The article gives a formal description of the algorithm and a proof of its correctness. The function has the shortest maximum execution time among the considered functions calculating correctly rounded exponent. The execution time slightly depends on the value of the argument, which may be important for critical applications.</p>
+   item_keywords: algorithm, exponent, correct rounding, double-precision
+   item_pages: 531–549
+   item_citation: "This work was supported by the State Research Program of the Russian Federation (Project Number FNEF-2022-002)."
+   item_citation: "Godunov A. N. Calculating Correctly Rounded Exponential Function in Double-Precision Using Extended Double-Precision Arithmetic, Programmnaya Ingeneria, 2023, vol. 14, no. 11, pp. 531—549. DOI: 10.17587/prin.14.531-549."
+   item_references: |
+     <ul>
+     <li>  IEEE Std. 754-2008 — IEEE Standard for Floating-Point Arithmetic, IEEE Std., 2018. </li>
+     <li>  Godunov A. N. Algorithm for Calculating Correctly Rounded Exponential Function in Double Precision Using Double-Extended Arithmetic, Programming and Computer Software, 2022, vol. 48, no. 6, pp. 369—375. DOI: 10.1134/S0361768822060032. </li>
+     <li>  Godunov A. Algorithms for Calculating Correctly Rounded Exponential Function in Double-Precision Arithmetic, IEEE Transactions on Computers, 2020, vol. 69, no. 9, pp. 1388—1400. DOI: 10.1109/TC.2020.2972901. </li>
+     <li>  Muller J.-M. Elementary Functions: Algorithms and Implementation. Birkhauser, 2005, 286 p. </li>
+     <li>  Lefevre V., Muller J.-M. Worst cases for correct rounding of the elementary functions in double precision, Proceedings of the 15th IEEE Symposium on Computer Arithmetic, June 2001, pp. 111—118. </li>
+     <li>  de Dinechin F., Defour D., Lauter C. Fast correct rounding of elementary functions in double precision using double-extended arithmetic, INRIA, Research Report, RR-5137, 2004, available at: http://inria.hal.science/inria-00071446/document (date of access 03.07.2023). </li>
+     <li>  Lefevre V. Hardest-to-Round Cases — Part 2, Journees TaMaDi, Lyon, Oct. 2013, available at: http://www.vinc17.org/re-search/slides/tamadi2013-10.pdf (date of access 03.07.2023). </li>
+     <li>  Daramy-Loirat C., Defour D., de Dinechin F., Gallet M., Gast N., Lauter C. Q., Muller J.-M. CR-LIBM, a library of correctly rounded elementary functions in double-precision, LIP, Research Report, 2006, available at: https://hal-ens-lyon.archives-ouvertes.fr/ensl-01529804 (date of access 03.07.2023). </li>
+     <li>  Chevillard S., Jolde§ M., Lauter C. Sollya: An Environment for the Development of Numerical Codes, Mathematical Software — ICMS 2010, Heidelberg, Germany, Springer, September 2010, pp. 28—31. </li>
+     <li>  Lauter C. A correctly rounded implementation of the exponential function on the Intel Itanium architecture. INRIA, Research Report, RR-5024, 2003, available at: https://hal.inria.fr/ inria-00071560/documnt (date of access 03.07.2023). </li>
+     <li>  Gelfond A. O. Transcendental and Algebraic Numbers, Dover, NewYork, 1960, 208 p. </li>
+     <li>  Shilov G. E. Elementary Real and Complex Analysis, Dover Pubns, NewYork, 1996, 516 p.</li>
+     </ul>
+ - doi: 14.550-562
+   udk: "004.051"
+   item_authors: "Zhukov S. V., Kovaleva O. A., Kovalev S. V."
+   item_name: "Analysis of the Impact of Automatic Content Reflow on the Speed of Full Page Rendering"
+   item_authors_address: |
+     <b> S. V. Zhukov</b>, Postgraduate Student, i@coder-stas.ru, <b> O. A. Kovaleva</b>, Dr. Sc., Tech., Professor, solomina-oa@yandex.ru, <b> S. V. Kovalev</b>, Dr. Sc., Tech., Professor, sseedd@mail.ru, Derzhavin Tambov State University, Tambov, 392000, Russian Federation
+   item_corr_author: " Stanislav V. Zhukov, Postgraduate Student, Derzhavin Tambov State University, Tambov, 392000, Russian Federation, E-mail: i@coder-stas.ru"
+   item_rec_on: July 15, 2023
+   item_acc_on: August 29, 2023
+   item_annot: |
+     <p> Now more and more information is transmitted via the Internet, including through websites. The speed with which sites are displayed to users affects their attitude to the resource they are viewing, and therefore, the speed also affects the success of the resource itself. For example, search engines will be less likely to offer users resources with lower behavioral factors. Despite this, the display speed of many sites is low. This state of affairs harms both the end user of information and the owners of Internet resources. To fix the download speed, you can apply content reflow to optimize the html document. Manually making such edits is a rather time-consuming process. It can be accelerated by automating content reflow through special algorithms. The aim of the work is to optimize the structure of the HTML page to increase the speed of its full display by the browser. A list of services is provided that allows you to check the page loading speed. The text describes the "mirror" script, designed to create copies of web site pages, to test html content optimization algorithms. Descriptions of algorithms developed to solve the problem of low download speed are given. The article presents the results of content optimization on the example of two sites. The full page rendering speed measurement model provided by the Google PageSpeed Insights tool was used, which includes the following metrics: First Contentful Paint (FCP), Speed Index (SI), Total Blocking Time (TBT), Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS). The developed algorithms for automatic reflow of html documents show their effectiveness in optimizing page loading speed according to Lighthouse 9 and 10 versions.</p>
+   item_keywords:  optimization, html, web page, loading speed, PageSpeed Insights, web content layout, script, algorithm, Lighthouse, bounce rate
+   item_pages: 550–562
+   item_citation: "Zhukov S. V., Kovaleva O. A., Kovalev S. V. Analysis of the Impact of Automatic Content Reflow on the Speed of Full Page Rendering, Programmnaya Ingeneria, 2023, vol. 14, no. 11, pp. 550—562. DOI: 10.17587/prin.14.550-562 (in Russian)."
+   item_references: |
+     <ul>
+     <li>Using site speed in web search ranking, available at: https:// developers.google.com/search/blog/2010/04/using-site-speed-in-web-search-ranking (date of access 14.07.2023). </li>
+     <li>Hoffman B. How Website Speed Actually Impacts Search Ranking, available at: http://moz.com/blog/how-website-speed-actually-impacts-search-ranking (date of access 14.07.2023). </li>
+     <li>Report: State of the Web, аvailable at: https://httparchive. org/reports/state-of-the-web/ (date of access 14.07.2023). </li>
+     <li>Azarenko N. Site bounce rate, аvailable at: https://www. unisender.com/ru/glossary/chto-takoe-pokazatel-otkazov/ (date of access 15.08.2023) (in Russian). </li>
+     <li>Silva C. What Is Bounce Rate and What Is a Good Rate? аvailable at: https://www.semrush.com/blog/bounce-rate/ (date of access July 14, 2023). </li>
+     <li>Behavioral factors, available at: https://blog.skillfactory.ru/glos-sary/povedencheskie-faktory/ (date of access 14.07.2023) (in Russian). </li>
+     <li>Ranking Factors 2.0, available at: https://www.semrush.com/ ranking-factors/ (date of access 14.07.2023). </li>
+     <li>Core Web Vitals — Updated Google Ranking Factor. How to prepare and what to look out for, available at: https://habr.com/ ru/sandbox/153080/ (date of access 14.07.2023) (in Russian). </li>
+     <li>Walton P. Web Vitals, available at: https://web.dev/i18n/ru/vitals/ (date of access 14.07.2023). </li>
+     <li>What is the average time before full desktop page load? available at: https://lp.littledata.io/average/time-before-full-desktop-page-load/ (date of access 14.07.2023). </li>
+     <li>About PageSpeed Insights, available at: https://developers. google.com/speed/docs/insights/v5/about?hl=en (date of access August 15, 2023). </li>
+     <li>Walton P. First rendering of content (FCP), available at: https://web.dev/fcp/ (date of access July 14, 2023) (in Russian). </li>
+     <li>Speed Index, available at: https://developer.chrome.com/docs/lighthouse/performance/speed-index/ (date of access 14.07.2023). </li>
+     <li>Walton P. Total Block Time (TBT), available at: https://web. dev/tbt/ (date of access 14.07.2023) (in Russian). </li>
+     <li>Walton P. Main content download speed (LCP), available at: https://web.dev/lcp/ (date of access 14.07.2023) (in Russian). </li>
+     <li>Walton P., Mihajlija M. Cumulative Layout Offset (CLS), available at: https://web.dev/cls/ (date of access 14.07.2023) (in Russian). </li>
+     <li>MinifyX, available at: https://docs.modx.pro/components/ minifyx (date of access 16.08.2023) (in Russian). </li>
+     <li>Grunt-critical, available at: https://github.com/bezoerb/ grunt-critical (date of access 16.08.2023).</li>
+     </ul>
+ - doi: 14.563-571
+   udk: "62-5"
+   item_authors: "Larchenko A. G."
+   item_name: "A Set of Products for Remote Control of Rolling Stock Characteristics"
+   item_authors_address: |
+     <b> A. G. Larchenko</b>, Associate Professor, Larchenkoa@inbox.ru, Irkutsk State Transport University, Irkutsk, 664074, Russian Federation
+   item_corr_author: "Anastasia G. Larchenko, Associate Professor, Irkutsk State Transport University, Irkutsk, 664074, Russian Federation, E-mail: Larchenkoa@inbox.ru"
+   item_rec_on: July 28, 2023
+   item_acc_on:  August 28, 2023
+   item_annot: |
+     <p> A modern specialist in the field of maintenance and repair of rolling stock needs to constantly have access to up-to-date information about the technical condition, equipment and location of serviced units. This article analyzes the existing software products and applications that allow you to plan and manage the processes of repair work and operation. The work is devoted to the creation of products for finding up-to-date information about the technical condition of rolling stock units both on a personal computer and in an online application environment. Programs have the ability to be updated and supported, including bug fixes. The use of the proposed tools will allow a specialist in the field of logistics, maintenance and repair of rolling stock to increase the efficiency of forecasting, organization of transport processes and repair work. The algorithms of operation of each software product are formed in the work. The algorithms are presented in the form of flowcharts. The generated database is presented. Geometric parameters and wheelset numbers, dates of the last maintenance and overhaul, location were added to the presented database in accordance with the number. An array of data with photos of car was also created. The article presents a text written in the Python programming language. This language made it possible to fully implement the algorithm of the products actions. During the testing of the programs, the operation of the main functions was checked, namely, the search for parameters by the composition number. The work solved the problem of displaying photos and videos on the screen at the users request. This function will reduce the time to choose a rolling stock unit for rent and control the quality of repairs. The results of the work of programs in the environment of online applications and on a personal computer are presented in the form of drawings. When creating a software product in an online application environment, the issue of data transfer security (whitelist, password encryption, end-to-end encryption, as well as copy and forwarding protection) was resolved.</p>
+   item_keywords: automation, management, repair, logistics, rolling stock, information technology, planning, remote control, mechanical engineering
+   item_pages: 563–571
+   item_citation: "Larchenko A. G. A Set of Products for Remote Control of Rolling Stock Characteristics, Programmnaya Ingeneria, 2023, vol. 14, no. 11, pp. 563—571. DOI: 10.17587/prin.14.563-571 (in Russian)."
+   item_references: |
+     <ul>
+     <li> Zharkova E. A. System aspects of the development of railway transport based on information technologies, Vestnik SGUPS: gumanitarnyye issledovaniya, 2018, no. 1 (3), pp. 10—14 (in Russian). </li>
+     <li> Ivanova Ye. I. Intelligent information system for solving the problems of predicting malfunctions of railcar equipment in railway transport, Programmnyye produkty i sistemy, 2015, no. 4 (112), pp. 231—236 (in Russian). </li>
+     <li> Kapustin K. A., Larchenko A. G. Information technologies and systems for comprehensive monitoring of the technical condition of wagons, Molodaya nauka Sibiri. Young Science of Siberia, 2023, no. 1 (19), pp. 182—191 (in Russian). </li>
+     <li> Vinokurtseva Ye. A. Information systems of the wagon economy: an analytical review, Vagony i vagonnoye khozyaystvo, 2021, no. 3 (67), pp. 46—48 (in Russian). </li>
+     <li> Course towards digital interaction, Zheleznodorozhnyy transport, 2021, no. 3, pр. 3 (in Russian).
+     <li> Sukonnikov G. V. Development of information technologies of Russian Railways, Avtomatika, svyaz', informatika, 2017, no. 9, pp. 16—18 (in Russian). </li>
+     <li> Yusupov I. M. Optimization of the work of Russian Railways by abandoning the ERP SAP system and switching to 1С, Molo-dezhnaya nauka; trudy XXVI Vserossijskoj studencheskoj nauchno-prakticheskoj konferencii KrIZhTIrGUPS, 2022, vol. 2, pp. 189—192 (in Russian). </li>
+     <li> Filipchenko S. A. Ledyayeva N. V., Kurenkov P. V. Modern technology for accounting for monitoring the fleet of freight cars, Zheleznodorozhnyy transport, 2016, no. 2, pp. 58—63 (in Russian). </li>
+     <li> Personal account of the client of Russian Railways, available at: https://ozd-center.ru/lk-new-doc (date of access 21.07.2023). </li>
+     <li> Kuleshov A. V., Pashkov N. P. Structural organization of the database of the information system for monitoring the technical condition of the car, Informatsionnyye tekhnologii i problemy matematicheskogo modelirovaniya slozhnykh system, 2008, no. 6, pp. 19—23 (in Russian). </li>
+     <li> Guidelines for the repair and maintenance of wheel sets with axle boxes for freight cars on 1520 gauge mainline railways. JSC VNIIZhT (in Russian). </li>
+     <li> Shumilina M. A., Korobko A. V. Development of a chatbot in the python programming language in the Telegram messenger, Nauchnyye izvestiya, 2022, no. 28, pp. 47—55 (in Russian). </li>
+     <li> Kozhekina Ye. N., Pechekin N. D., Borshchevskiy S. V. Automation of daily data collection using Telegram-bot, Vestnik Donetskogo natsional'nogo universiteta, Seria G: Technicheskie nauki, 2022, no. 2, pp. 22—30 (in Russian). </li>
+     <li> Transport company VagonService, available at: https://тквс.рф (date of access 21.07.2023). </li>
+     <li> Kapustin K. A., Larchenko A. G. Remote control and technical composition of the rolling stock in real time: certificate of state registration of the computer program. No. 2023665998 dated 07.25.2023</li>
+     </ul>
+---
