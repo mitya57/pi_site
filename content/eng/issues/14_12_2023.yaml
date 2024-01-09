@@ -16,9 +16,9 @@ content:
      The HIL modeling method involves partial use of real equipment as part of the model. The inclusion of standard components of the original object in the model does not require detailed mathematical model and at the same time provides a more complete correspondence to the original. Due to using a computer from the original object, the stand software operates under conditions close to the real technological process, which improves the quality of the simulation results.
      The HIL modeling stand includes the following components:
      <ol>
-     <li>control computer of automated process control system</li>;
-     <li>programmable logic controller PLC "Baget"</li>;
-     <lu>simulation computer.</li>
+     <li>control computer of automated process control system;</li>
+     <li>programmable logic controller PLC "Baget";</li>
+     <li>simulation computer.</li>
      </ol>
      The stand for the basic element of an automated process control system allows to speed up the process of prototyping and debugging even in the case of complex systems, because it will be easier to build the entire system from correctly functioning elements.
      Another advantage of this approach is that the stand is not tied to a specific type of technological process or to a narrow area of production — the stand allows the use of ready-made models, the development of new models, and the inclusion of various function libraries.
