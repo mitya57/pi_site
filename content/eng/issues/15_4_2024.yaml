@@ -1,0 +1,164 @@
+---
+title: Issue N4 2024 year 
+content:
+ - doi: 15.167-175
+   udk: "004.4, 004.6"
+   item_authors: "Zenzinov A. A."
+   item_name: "Input and Verification of Scientometric Data in Large, Complex Information Systems"
+   item_authors_address: | 
+     <b>A. A. Zenzinov</b>, Junior Scientific Researcher, andrey.zenzinov@gmail.com, Institute of Mechanics Lomonosov Moscow State University, 119192, Russian Federation
+   item_corr_author: "Andrey A. Zenzinov, Junior Scientific Researcher, andrey.zenzinov@gmail.com, Institute of Mechanics Lomonosov Moscow State University, 119192, Russian Federation, E-mail: andrey.zenzinov@gmail.com"
+   item_rec_on: December 12, 2023
+   item_acc_on: January 24, 2024
+   item_annot: |
+     <p>  For effective stimulation of the activities of organizations, collectives, and individual scientists in the field of scientific, research, experimental, design, and technological work, it is necessary to rely on up-to-date, comprehensive, and verified data on the results obtained from these activities. The article describes an approach to the organization of processes for input and multi-level verification of data into information-analytical scientometric systems used to support decision-making in scientific organizations.</p>
+   item_keywords: data input, data verification, scientometrics, bibliometrics, multi-layer verification
+   item_pages: 167–175
+   item_citation: "Zenzinov A. A. Input and Verification of Scientometric Data in Large, Complex Information Systems, Programmnaya Ingeneria, 2024, vol. 15, no. 4, pp. 167-175. DOI: 10.17587/prin.15.167-175 (in Russian)."
+   item_references: | 
+     <ul>     
+      <li> Hicks D., Wouters P., Waltman L. et al. Bibliometrics: The Leiden Manifesto for research metrics, Nature, 2015, vol. 512, no. 7548, pp. 429-431. DOI: 10.1038/520429a. </li>  
+      <li> Sadovnichy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51-58. DOI: 10.17587/prin.9.51-58 (in Russian). </li>  
+      <li> Afonin S. A., Gaspariants A. E. Disambiguation of authorship of publications during automatic processing of bibliographic data, Programmnaya Ingeneria, 2014, no. 1, pp. 25-29 (in Russian). </li>  
+      <li> Olensky M., Schmidt M., van Eck N. J. Evaluation of the citation matching algorithms of CWTS and iFQ in comparison to the Web of science, Journal of the Association for Information Science and Technology, 2016, vol. 67, no. 10, pp. 2550-2564. DOI: 10.1002/ asi.23590. </li>  
+      <li> Vasenin V. A., Afonin S. A., Gaspariants A. E., Zenzinov A. A. Method of input and multi-level verification of intensively received data in large information and analytical scientometric systems. Patent № 2763458 C1, 07.12.2020</li>  
+     </ul>
+ - doi: 15.176-189
+   udk: "519.714.5"
+   item_authors: "Bibilo P. N., Kirienko N. A., Romanov V. I."
+   item_name: "An Experimental Research of the Algorithm for Extracting of a Boolean Function Subsystems for Joint Multilevel Optimization"
+   item_authors_address: | 
+     <b> P. N. Bibilo</b>, Head of Laboratory, bibilo@newman.bas-net.by, <b>N. A. Kirienko</b>, Senior Researcher, kir@newman.bas-net.by <b> V. I. Romanov</b>, Leading Researcher, rom@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: " Petr N. Bibilo, Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus, E-mail: bibilo@newman.bas-net.by"
+   item_rec_on: January 11, 2024
+   item_acc_on: February 07, 2024
+   item_annot: |
+     <p> The results of an experimental comparison of programs for technologically independent minimization of complexity of multilevel representations of systems of fully defined functions based on the Shannon expansion are described. The main attention is paid to the effectiveness of using, when synthesizing logical circuits, a program that implements an algorithm for solving the problem of extracting from a system of functions such subsystems for which it is advisable to carry out joint minimization of multi-level representations of subsystems in the form of Binary Decision Diagrams, called BDD-representations, and in the form of Boolean net. The complexity of the representation is estimated by the total number of literals of Boolean variables in a set of interrelated logical equations that define a system of Boolean functions. After extracting the subsystems and their joint minimization, the synthesis of logic circuits is carried out in the design library of custom digital CMOS VLSIs, the results are compared in terms of chip area and speed (time delay) on a stream of 39 industrial examples of circuits. It was found that for 20 examples, the subsystem selection algorithm allows one to obtain better solutions than joint or separate minimization of multi-level representations based on Shannon expansion (13 examples). The three best solutions are obtained by applying the well-known Espresso program for minimizing functions in the DNF class, and the three solutions are obtained by the synthesizer using the original (non-optimized) matrix representations of DNF systems of Boolean functions.
+     </p>
+   item_keywords: the system of Boolean functions, disjunctive normal form (DNF), Binary Decision Diagram (BDD), Boolean net, digital logic synthesis, VHDL, VLSI, CMOS
+   item_pages: 176–189
+   item_citation: "Bibilo P. N., Kirienko N. A., Romanov V. I. An Experimental Research of the Algorithm for Extracting of a Boolean Function Subsystems for Joint Multilevel Optimization, Programmnaya Ingeneria, 2024, vol. 15, no. 4, pp. 176-189. DOI: 10.17587/prin.15.176-189 (in Russian)."
+   item_references: | 
+     <ul>     
+     <li>  	Synthesis of Asynchronous Automata on a Computer / Ed. A. D. Zakrevskiy, Minsk, Nauka i tekhnika, 1975, 184 p. (in Russian). </li>
+     <li>  Brayton R. K., Rudell R., Sangiovanni-Vincentelli A. L., Wang A. R. MIS: A multiple-level logic optimization systems, IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, 1987, vol. CAD-6, no. 6, pp. 1062-1081. </li>
+     <li>  Knut D. E. The Art of Computer Programming, Vol. 4A: Combinatorial Algorithms, Moscow, Vil'yams, 2013, 960 p. (in Russian). </li>
+     <li>  Amaru L. G New Data Structures and Algorithms for Logic Synthesis and Verification, Springer, 2017. 156 p. </li>
+     <li>  Scholl C. Functional Decomposition with Applications to FPGA Synthesis. Boston, Kluwer Academic Publishers, 2001, 288 p. </li>
+     <li>  Sasao T. Memory-Based Logic Synthesis. N. Y., Springer, 2011, 189 p. </li>
+     <li>  Bibilo P. N. Decomposition of Boolean functions on solving logical equations, Minsk, Belorusskaya nauka, 2009, 211 p. (in Russian). </li>
+     <li>  Bibilo P. N. Splitting a system of Boolean functions into subsystems of "related" functions, Teoriya i sistemyu pravleniya, 2019, no. 2, pp. 14-29. DOI: 10.1134/S0002338819020057 (in Russian). </li>
+     <li>  Bibilo P. N., Pazniak A. M. The search for subsystems of related functions from multilevel representation of systems of Boolean functions, Informatika, 2020, vol. 17, no. 1, pp. 63-77. DOI: 10.37661/1816-0301-2020-17-1-63-77 (in Russian). </li>
+     <li>  Bibilo P. N., Kirienko N. A., Romanov V. I. Extracting subsystems from a multilevel representation of a Boolean function system for joint logical minimization, Programmnye produkty i sistemy, 2023, vol. 36, no. 4, pp. 197-206. DOI: 10.15827/0236-235X.142.197-206 (in Russian). </li>
+     <li>  Bibilo P. N., Lankevich Yu. Yu., Romanov V. I. Logical minimization for combinatorial structure in FPGA, Informatika, 2021, vol. 18, no. 1, pp. 7-24. DOI: 10.37661/1816-0301-2021-181-7-24 (in Russian). </li>
+     <li>  Zakrevskij A. D. Logical Synthesis of Cascading Circuit, Moscow, Nauka, 1981, 416 р. (in Russian). </li>
+     <li>  Bibilo P. N., Romanov V. I. The system of logical optimization of functional structural descriptions of digital circuits based on production-frame knowledge representation model, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyhsistem, 2020, Sb. trudov / Ed. A. L. Stempkovskiy, Moscow, IPPMRAN, 2020, no. 4, pp. 9-16. DOI: 10.31114/2078-7707-2020-4-9-16 (in Russian). </li>
+     <li>  Bibilo P. N., Lankevich Yu. Yu. Experimental investigation of effectiveness of algorithms for minimizing BDD representations of Boolean function systems, Programmnye produkty i sistemy, 2020, vol. 33, no. 3, pp. 449-463. DOI:10.15827/0236-235X.131.449-463 (in Russian). </li>
+     <li>  Bibilo P. N. Binary decision diagrams in logical design. M.: LENAND, 2024. 560 p. (in Russian). </li>
+     <li>  Bibilo P. N. Integrated Circuit Design Systems Based on the VHDL Language. StateCAD, ModelSim, LeonardoSpectrum, Moscow, SOLON-Press Publ., 2005, 384 p. (in Russian). </li>
+     <li>  Lozhkin S. A., Zizov V. S., Shuplecov M. S. et al. On the complexity of inverse graphs implementing Boolean functions from a small number of variables, Problemy razrabotki per-spektivnyh mikro- i nanoelektronnyhsistem, 2020, Sb. trudov / Ed. A. L. Stempkovskiy. Moscow, IPPM RAN, 2020, no. 4, pp. 95-102. DOI: 10.31114/2078-7707-2020-4-95-102 (in Russian). </li>
+     <li>  Amaru L., Gaillardon P.-E., De Micheli G. The EPFL Combinational Benchmark Suite, available at: https://infoscience.epfl.ch/record/207551/files/IWLS15.pdf. </li>
+     <li>  Brayton K. R., Hachtel G. D., McMullen C., Sangiovanni-Vincentelli A. L. Logic Minimization Algorithm for VLSI Synthesis, Boston, Kluwer Academic Publishers, 1984, 193 p. </li>
+     <li>  Tarasov I. E. XILINX FPGA. Hardware Description Languages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya-Telekom, 2020, 538 р. (in Russian). </li>
+     <li>  Bibilo P. N. Joint and Separate Minimization of Multilevel Representations of Boolean Function Systems, Informacionnye tekhnologii, 2023, vol. 29, no. 11, pp. 574-582. DOI: 10.17587/it.29.574-582 (in Russian).</li>
+     </ul>
+ - doi: 15.190-198
+   udk: "004.43"
+   item_authors: "Lukichev R. V., Gosudarev I. B."
+   item_name: "Analysis of Interaction Mechanisms between Java and JavaScript Programming Languages: from LiveConnect to Graal.js"
+   item_authors_address: | 
+     <b> R. V. Lukichev</b>, Masters Degree Student, ruslanlukichev@gmail.com, <b>I. B. Gosudarev</b>, Associate Professor, goss@itmo.ru, Faculty of Software Engineering and Computer Systems, ITMO University, Saint Petersburg, 197101, Russian Federation 
+   item_corr_author: " Ruslan V. Lukichev, Masters Degree Student, ITMO University, Saint Petersburg, 197101, Russian Federation, E-mail: ruslanlukichev@gmail.com"
+   item_rec_on: November 02, 2023
+   item_acc_on: February 01, 2024
+   item_annot: |
+     <p> The article is devoted to the study of the mechanisms of interaction between the popular programming languages Java and JavaScript using a retrospective approach. The author consistently examines the development of tools of this kind, starting from LiveConnect technology and Java applets of the mid-1990s and ending with the interpreters of the last decade. Particular attention is paid to comparing the performance of the currently relevant tools Nashorn and Graal.js. The latter is an implementation of the JavaScript language based on the Truffle framework and Context API, which is a Polyglot context for executing all supported guest languages with the Graal JIT compiler, ensuring their optimal performance. The author gives a definition to the term "warm-up", which is recommended by the GraalVM developers to achieve the highest performance. This is a kind of pre-compilation mode, the process of repeated preliminary execution of JavaScript code by the interpreter before its actual usage in order to obtain information about the most frequently utilized fragments of the program, its functions, types and data structures, alongside with their subsequent caching and optimization. The results of testing based on a project from Oracle and the authors application made it possible to verify the results declared by the GraalVM developers and can be used to optimize and improve the performance of multilingual projects using a unified technology stack, as well as when migrating the server code base from Java to JavaScript.</p>
+   item_keywords: programming languages, Java, JavaScript, interpreter, Java virtual machine, Java applet, Nashorn, Graal.js, testing, interoperability
+   item_pages: 190–198
+   item_citation: "Lukichev R. V., Gosudarev I. B. Analysis of Interaction Mechanisms between Java and JavaScript Programming Languages: from LiveConnect to Graal.js, Programmnaya Ingeneria, 2024, vol. 15, no. 4, рр. 190-198. DOI: 10.17587/prin.15.190-198 (in Russian)."
+   item_references: | 
+     <ul>     
+     <li> Severance C. Designing a Language in 10 Days, Computer, 2012, vol. 45, р. 7-8. DOI: 10.1109/MC.2012.57. </li>
+     <li> Wirfs-Brock A., Eich B. JavaScript: The first 20 years, Proceedings of the ACM on Programming Languages, 2020, vol. 4, no. 77, pp. 1-189. DOI: 10.1145/3386327. </li>
+     <li> Sedykh A., Ryazanov Yu. D. Scripting language «Link» for programming scripts of executable event systems, Nauchnyy rezultat. Informatsionnyye tekhnologii, 2017, vol. 2, no. 2. pp. 21-33. DOI: 10.18413/2518-1092-2017-2-2-21-33 (in Russian). </li>
+     <li> Grimmer M., Schatz R., Seaton C. et al. Cross-Language Interoperability in a Multi-Language Runtime, ACM Transactions on Programming Languages and Systems, 2018, vol. 40, no. 2, article 8. DOI: 10.1145/3201898. </li>
+     <li> Netscape sharpens Javagator plans, CNET. Dec. 30, 1997, available at: https://www.cnet.com/tech/tech-industry/netscape-sharpens-javagator-plans/ (date of access 17.09.2023). </li>
+     <li> Glave J. Will Javagator Be Reborn as Jazilla? WIRED. Apr. 3, 1998, available at: https://www.wired.com/1998/04/will-javagator-be-reborn-as-jazilla/ (date of access 17.09.2023). </li>
+     <li> Flanagan D. JavaScript. Detailed guide, St. Petersburg: SymbolPlus, 2008, 992 p. (in Russian). </li>
+     <li> Byrne M. The rise and fall of the Java-applet: creative coding's awkward little square, Vice, Feb. 2, 2016, available at: https://www.vice.com/en/article/8q8n3k/a-brief-history-of-the-java-applet (date of access 24.09.2023). </li>
+     <li> Humble C. Nashorn Proposed as Replacement JavaScript Engine for OpenJDK, InfoQ, Nov. 29, 2012, available at: https://www.infoq.com/news/2012/11/Nashorn-proposal/ (date of access 24.09.2023). </li>
+     <li> Krill P. Oracle: Switch now from Nashorn JavaScript engine to GraalVM, InfoWorld, Jul. 20, 2018, available at: https://www. infoworld.com/article/3291322/oracle-switch-now-from-nashorn-javascript-engine-to-graalvm.html (date of access 30.09.2023). </li>
+     <li> Brown S. GraalVM: the holy graal of polyglot JVM? Trans-posit, Jan. 2, 2019, available at: https://www.transposit.com/devops-blog/devops/2019.01.02-graalvm-holy/ (date of access 30.09.2023). </li>
+     <li> Sipek M., Mihaljevic B., Radovan A. Exploring Aspects of Polyglot High-Performance Virtual Machine GraalVM, 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), Opatija, Croatia, 2019, pp. 1671-1676. DOI: 10.48550/arXiv2112.14716.</li>
+     </ul>
+ - doi: 15.199-205
+   udk: "004.032.26:303.724.32"
+   item_authors: "Rudenko O. V., Shkirya T. V."
+   item_name: "Regression and Neural Network Analysis of the System of Cardiorespiratory Synchronism Parameters to Predict the Minimum Limit of the Synchronization Range"
+   item_authors_address: | 
+     <b> O. V. Rudenko</b>, Ph.D. in Engineering Science, Associate Professor, olga_ned@mail.ru, Kuban State University, Krasnodar, 350040, Russian Federation, <b> T. V. Shkirya</b>, Programmer, shkiryatv@yandex.ru, Kuban State Medical University, Krasnodar, 350063, Russian Federation
+   item_corr_author: " Tatyana V. Shkirya, Programmer, Kuban State Medical University, 350063, Krasnodar, Russian Federation, E-mail: shkiryatv@yandex.ru"
+   item_rec_on: November 22, 2023
+   item_acc_on:  January 23, 2024
+   item_annot: |
+     <p> In order to improve the existing step-by-step principle of determining the limits of the range of cardiorespiratory synchronization (CRS) and the regulatory and adaptive capabilities of the human body, a regression analysis of measurements of the CRS parameters system was carried out. Statistical prediction of the minimum limit of the synchronization range in the CRS method was performed using linear, nonlinear multiple regression models, as well as neural network regression. The following parameters were used as the basis for predicting the minimum limit of the synchronization range: initial heart rate, initial respiratory rate, age and gender. The variable initial heart rate contributed the most to all regression models. A comparative analysis of the quality indicators of all models showed that the prediction of the minimum limit of the synchronization range can be carried out both by linear multiple regression and using neural network regression implemented by means of a 3-4-1 multilayer perceptrons. However, having already had a NN-regression forecast of maximum limit of the synchronization range, as well as a NN-classification of the level of regulatory-adaptive status, the use of NN-regression will be proposed as the main forecasting method for its implementation in the software of the CRS measurement system.</p>
+   item_keywords: neural network, regression analysis, simulation, cardiorespiratory synchronization, neural network sensitivity analysis, statistical prediction, linear regression, nonlinear regression, initial heart rate, minimum limit of the synchronization range
+   item_pages: 199–205
+   item_citation: "Rudenko O. V., Shkirya T. V. Regression and Neural Network Analysis of the System of Cardiorespiratory Synchronism Parameters to Predict the Minimum Limit of the Synchronization Range, Programmnaya Ingeneria, 2024, vol. 15, no. 4, pp. 199-205. DOI: 10.17587/prin.15.199-205 (in Russian)."
+   item_references: | 
+     <ul>  
+     <li> 	Ren Y., Zhang J. Increased cardiorespiratory synchronization evoked by a breath controller based on heartbeat detection, BioMed Eng OnLine, 2019, vol. 18, no. 1, article 61. DOI: 10.1186/s12938-019-0683-9. </li>
+     <li> Pokrovskii V. М. Cardiorespiratory synchronism used for estimation of regulatory-adaptive possibilities of organism. Krasnodar, Kuban-Kniga, 2010, 243 р. (in Russian). </li>
+     <li> Noskin L. A., Rubinskiy A. V., Romanchuk A. P. et al. Study of cardiovascular and respiratory synchronization in different types of breathing, Pathogenesis, 2018, vol. 16, no. 4, pp. 90-96 (in Russian). </li>
+     <li> Pokrovsky V. M., Usatikov S. V., Shkirya T. V., Polishchuk L. V. Statistical forecasting in the creation of an express methodology for determining the level of regulatory-adaptive status of the human body, Kub. Scientific Medical Bulletin, 2014, no. 6, pp. 65-70 (in Russian). </li>
+     <li> Pokrovsky V. M., Usatikov S. V., Shkirya T. V., Polishchuk L. V. Statistical forecasting of the maximum limit of the cardiorespiratory synchronization range, Kub. Scientific Medical Bulletin, 2015, no. 3, pp. 83-87. DOI: 10.25207/1608-6228-2015-3-83-87 (in Russian). </li>
+     <li> Usatikov S. V., Shkirya T. V. Algorithms for a decision support system when assessing the regulatory and adaptive capabilities of the human body using a hardware and software appliance, Scientific Works of the Kuban State Technological University, 2016, no. 16, pp. 20-24 (in Russian). </li>
+     <li> Polishchuk V. V., Shkirya T. V., Polishchuk S. V., Pokrovsky V. M. Program for determining the parameters of cardiorespiratory synchronization in humans / Certificate of official registration of computer program No. 2021611568 Russian Federation. Appl. 11.01.2021; reg. 01.02.2021. 1 p. </li>
+     </ul>
+ - doi: 15.206-215
+   udk: "004.436.2"
+   item_authors: "Vopilova E. V., Kryuchkova E. N."
+   item_name: "Methods of Automatic Analysis of Information Presentation Dynamics in Texts Based on Adaptable Dictionaries of Scientific Terms"
+   item_authors_address: | 
+     <b> E. V. Vopilova</b>, Postgraduate Student, vopilova.elena@gmail.com, <b> E. N. Kryuchkova</b>, Ph.D., Professor, kruchkova_elena@mail.ru, Polzunov Altai State Technical University, Barnaul, 656038, Russian Federation
+   item_corr_author: "Elena N. Kryuchkova, Ph.D., Professor, Polzunov Altai State Technical University, Barnaul, 656038, Russian Federation, Email: kruchkova_elena@mail.ru"
+   item_rec_on: January 17, 2024
+   item_acc_on:  February 07, 2024
+   item_annot: |
+     <p> The paper proposes a method for determining the dynamics of aspectual content of scientific texts. The problems arising in the automatic processing of scientific texts are discussed, approaches to the creation of a combined method of aspect-oriented analysis of scientific texts are proposed. The results of experiments of aspect analysis of scientific publications in the field of mathematics are given.
+     The algorithm of aspect analysis is built on the basis of processing both the semantic domain graph formed as a result of automatic extraction of information from the text of the mathematical encyclopedia and the weighted semantic graph of the publication. Weighting functions for calculating the dependence of links between professional terms of the semantic domain graph are proposed. During the processing the text of a scientific publication, the semantic domain graph is transformed into the semantic graph of the publication, the two-phase processing algorithm of which forms semantic dependencies between text fragments.</p>
+   item_keywords: aspect-oriented analysis, scientific vocabulary, semantic graph, classification of scientific text, automatic processing of unstructured texts
+   item_pages: 206–215
+   item_citation: "Vopilova E. V., Kryuchkova E. N. Methods of Automatic Analysis of Information Presentation Dynamics in Texts Based on Adaptable Dictionaries of Scientific Terms, Programmnaya Ingeneria, 2024, vol. 15, no. 4, pp. 206-215. DOI: 10.17587/prin.15.206-215  (in Russian)."
+   item_references: | 
+     <ul>     
+     <li> 	Bruches E. P., Batura T. V. Method for Automatic Term Extraction from Scientific Articles Based on Weak Supervision, Vestnik NSU, Series: Information Technologies, 2021, vol. 19, no. 2, pp. 5-16. DOI: 10.25205/1818-7900-2021-19-2-5-16 (in Russian). </li>
+     <li> Morozov D. A., Glazkova A. V., Tyutyulnikov M. A., Iomdin B. L. Keyphrase Generation for Abstracts of the Russian-Language Scientific Articles, Vestnik NSU, Series: Linguistics and Intercultural Communication, 2023, vol. 21, no. 1, pp. 54-66. DOI:10.25205/1818-7935-2023-21-1-54-66 (in Russian). </li>
+     <li> Altmami N., Menai M. Automatic Summarization of Scientific Articles: A Survey, Journal of King Saud University -Computer and Information Sciences, 2020, vol. 34, pp. 1011-1028. DOI:10.1016/j.jksuci.2020.04.020. </li>
+     <li> Benites F. Information Retrieval and Knowledge Extraction for Academic Writing, Digital Writing Technologies in Higher Education, 2023, pp. 303-315. DOI: 10.1007/978-3-031-36033-6_19. </li>
+     <li> Choudhary K., Kelley M. ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data, 2022, available at: https://arxiv.org/abs/2209.08203 (date of access 15.01.2024). </li>
+     <li> Bommarito M., Katz D., Detterman E. M. LexNLP: Natural Language Processing and Information Extraction For Legal and Regulatory Texts, InfoSciRN: Legal Informatics (Topic), 2018, available at: https://api.semanticscholar.org/CorpusID:47018490 (date of access 15.01.2024). </li>
+     <li> Borovikova O. I., Kononenko I. S., Sidorova E. A. An approach to information extraction from clinical trials protocols on the basis of medical ontology, System Informatics, 2017, no. 9, pp. 93-110. DOI: 10.31144/si.2307-6410.2017.n9.p93-110 (in Russian). </li>
+     <li> Beliga S., Mestrovic A., Martincic-Ipsic S. An Overview of Graph-Based Keyword Extraction Methods and Approaches, Journal of Information and Organizational Sciences, 2015, vol. 39, pp. 1-20. </li>
+     <li> Lunev K. V. Graph Methods for Computing Semantic Similarity of a Pair of Keywords and Their Application to the Problem of Keywords Clustering, Programmnaya Ingeneria, 2018, vol. 9, no. 6, pp. 262-271. DOI: 10.17587/prin.9.262-271 (in Russian). </li>
+     <li> Dubinina E. Y. Automatic extraction of key lexical units of the scientific texts at the process of summarization, Proc. The SUAP Scientific Session, 2018, vol. 3, pp. 115-118 (in Russian). </li>
+     <li> Hossari M., Dev S., Kelleher J. D. TEST: A Terminology Extraction System for Technology Related Terms, Proc. The 2019 11th International Conference on Computer and Automation Engineering, 2019, pp. 78-81. </li>
+     <li> Danilov G., Ishankulov T., Kotik K. et al. The Classification of Short Scientific Texts Using Pretrained BERT Model, Public Health and Informatics, 2021, vol. 281, pp. 83-87. DOI: 10.3233/SHTI210125. </li>
+     <li> Dunn A., Dagdelen J., Walker N. et al. Structured information extraction from complex scientific text with fine-tuned large language models, 2022, available at: https://linkkk.org/10.48550/arX-iv.2212.05238 (date of access 15.01.2024). </li>
+     <li> Qasemi Zadeh B., Schumann A. The ACL RD-TEC 2.0: A Language Resource for Evaluating Term Extraction and Entity Recognition Methods, Proc. The Tenth International Conference on Language Resources and Evaluation (LREC'16), 2016, pp. 1862-1868. </li>
+     <li> Rosario B., Hearst M. Classifying Semantic Relations in Bioscience Texts, Proc. The 42nd Annual Meeting of the Association for Computational Linguistics (ACL-04), 2004, pp. 430-473. </li>
+     <li> Stankovic R., Krstev C., Obradovic I. et al. Rule-based Automatic Multi-word Term Extraction and Lemmatization, Proc. Term Extraction and Lemmatization. The Tenth International Conference on Language Resources and Evaluation (LREC'16), 2016, pp. 507-514. </li>
+     <li> Hong Z., Tchoua R., Chard K., Foster I. SciNER: Extracting Named Entities from Scientific Literature, Proc. International Conference on Computational Science, 2020, vol. 12138, pp. 308-321. DOI: 10.1007/978-3-030-50417-5_23. </li>
+     <li> Bachishe O. I., Kryuchkova E. N., Shushakov D. S. Problems of automatic processing of scientific texts based on extraction of information from encyclopedias of relevant domain areas, Prog-tammnaya Ingeneria, 2023, vol. 14, no. 1, pp. 42-50. DOI: 10.17587/ prin.14.42-50 (in Russian). </li>
+     <li> Vinogradov M. Encyclopedia of Mathematics. The Soviet Encyclopedia, Moscow, 1977 (in Russian). </li>
+     <li> Korney A., Kryuchkova E., Savchenko V. Information Retrieval Approach Using Semiotic Models Based on Multi-layered Semantic Graphs, High-Performance Computing Systems and Technologies in Scientific Research, Automation of Control and Production,  2020, vol. 1304, pp. 162-177 (in Russian). </li>
+     <li> Qaiser S., Ramsha A. Text Mining: Use of TF-IDF to Examine the Relevance of Words to Documents, International Journal of Computer Applications, 2018, vol. 181, no. 1, pp. 25-28. DOI: 10.5120 /ijca2018917395. </li>
+     <li> Vopilova E. V., Kryuchkova E. N. Characteristic functions for calculating the significance of terms in a semantic model of scientific knowledge representation, Proc. The 9th International Conference Knowledge - Ontologies - Theories (KONT-2023), 2023, pp. 49-53 (in Russian). </li>
+     <li> Dmitriev I. N. Fast algorithm of cluster analysis k-melinkkkds, Applied Discrete Mathematics, 2018, no. 39, pp. 116-127. DOI: 10.17223/20710410/39/11 (in Russian). </li>
+     <li> Zagrebina S. A. Ed. Bulletin of the South Ural State University, Series Mathematics. Mechanics. Physics, 2022, vol. 14, no. 2-4, available at: https://vestnik.susu.ru/mmph/ (date of access 15.01.2024) (in Russian). </li>
+     <li> Sbornik: Mathematics, scientific journal, 2019, available at: http://www.mathnet.ru/msb (date of access 15.01.2024) (in Russian). </li>
+     <li> Jiapeng W. Yihong D. Measurement of Text Similarity: A Survey, Information, 2020, vol. 11 (9). DOI: 10.3390/info11090421. </li>
+     <li> Pimenov I. S., Salomatina N. V. Building a model of time-varying content of thematic clusters in collections of scientific texts, Proceedings of the International Conference "APCAM", 2019, pp. 385-392. DOI: 10.24411/9999-016A-2019-10062 (in Russian). </li>
+     <li> Natasha. Tools for Russian NLP: segmentation, embeddings, morphology, lemmatization, syntax, NER, fact extraction, available at: https://github.com/natasha (date of access 15.01.2024).</li>
+     </ul>
+---
