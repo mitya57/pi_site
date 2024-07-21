@@ -1,0 +1,203 @@
+---
+title: Issue N6 2024 year
+content:
+ - doi: 15.275-287
+   udk: "004.432"
+   item_authors: Markov V. N.
+   item_name: Language Tools for Processing Trees
+   item_authors_address: |
+     <b>V. N. Markov</b>, D. Sc. (Engineering), Professor, vinitar@yandex.ru, Kuban State Technological University, Krasnodar, 350000, Russian Federation
+   item_corr_author: "Vitaly N. Markov, D. Sc. (Engineering), Professor, Kuban State Technological University, Krasnodar, 350000, Russian Federation, E-mail: vinitar@yandex.ru"
+   item_rec_on: February 13, 2024
+   item_acc_on: March 26, 2024
+   item_annot: |
+     <p>The new language tools for processing trees based on nodes enumerators and determinants of the depth-first traversal are proposed. Node enumerators define a tree slice and set the directions and step of its breadth-first traversal: from left to right or from right to left, from root to crown or vice versa. The arguments of the nodes enumerators are the arithmetic series of their coordinates in the tree. The traversal determinants specify a way to recursively perform a depth-first traverse. The arguments of the determinants of the recursive depth-first traversal are the aliases of nodes and the ranks of references to their successors. The second-order functions and the recursive comprehension operators over trees similar to list comprehension operators are introduced.
+     Using these tools allows for concisely expressing the operators to building and processing trees/slice without explicitly using recursion.</p>
+   item_keywords: nodes enumerator, node coordinates, tree slice, code readability, code conciseness, higher-order function, recursive comprehensions
+   item_pages: 275—287
+   item_citation: "Markov V. N. Language Tools for Processing Trees, Programmnaya Ingeneria, 2024, vol. 15, no. 6, pp. 275—287. DOI: 10.17587/prin.15.275-287."
+   item_references: |
+     <li>Markov V. N. Enumerator-arguments as a language tool for defining loops, Programmnaya ingeneria, 2023, vol. 14, no. 5, pp. 232—244. DOI: 10.17587/prin.14.232-244 (in Russian).</li>
+     <li>Knuth D. E. The Art of Computer Programming, vol. 1: Fun­damental Algorithms, 3rd ed. Addison-Wesley, 1997, 650 p.</li>
+     <li>Kas'yanov V. N., Evstigneev V. A. Graphs in programming: processing, visualization and application, Saint Petersburg, BHV-Peterburg, 2003, 1104 p. (in Russian).</li>
+     <li>Wirth N. Algorithms + data structures = programs, Prentice-Hall, 1976, 361 p.</li>
+     <li>Skiena S. S. The Algorithm Design Manual, 3rd ed. Springer, 2020, 793 p.</li>
+     <li>de Berg M., van Kreveld M., Overmars M., Cheong O. (formerly Schwarzkopf O.). Computational geometry: algorithms and applications, 2nd, rev. ed. Springer, 2000, 367 p.</li>
+     <li>Markov V. N. Umbrella Trees for Nesting Problem, Informacionnye texnologii, 2023, vol. 29, no. 3, pp. 143—148. DOI: 10.17587/it.29.143-148 (in Russian).</li>
+     <li>Canon, available at: https://www.canon.ru/for_home/prod-uct_finder/cameras/digital_slr/eos_5ds_r/specifications.html (date of access 15.03.2024).</li>
+     <li>A Gentle Introduction to Haskell, available at: https://www. haskell.org/tutorial/goodies.html (date of access 07.02.2024).</li>
+     <li>Pierce Benjamin C. Types and Programming Languages, MIT, 2002, 648 pp.</li>
+     <li>Markov V. N. Modern logic programming in Visual Prolog 7.5: textbook, Saint Petersburg, BHV-Peterburg, 2016, 544 p. (in Russian).</li>
+     <li>Field Anthony J., Harrison Peter G. Functional Programming, Addison-Wesley, 1988, 616 p.</li>
+ - doi: 15.288-295
+   udk: "004.4'233"
+   item_authors: Kostiukhin K. A.
+   item_name: Self-Healing of Complex Hardware and Software Systems,
+   item_authors_address: |
+     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
+   item_corr_author: 'Konstantin A. Kostiukhin, Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on: April 01, 2024
+   item_acc_on:  April 11, 2024
+   item_annot: |
+     <p>The article discusses various approaches to the organization of self-healing of complex systems. Modern technologies for the development of self-stabilizing systems, including reflection, graceful degradation and rejuvenation of system components, are analyzed. The role of artificial intelligence in self-treatment and self-healing of systems is considered.
+     Modern hardware and software systems are becoming increasingly complex, which, in turn, increases the likelihood of events that may prevent the system from functioning normally. This can lead to huge losses for organizations that are becoming increasingly dependent on information systems. Various methods are traditionally used to minimize the risks associated with errors, attacks and failures. For example, an organization may decide to move to another resource in an alternative physical location (cloud), use data replication, backup servers, and so on. But as the system becomes more complex (more components, more external integrations), the implementation of some ways to ensure reliability and fault tolerance can be very expensive in terms of the resources needed for this.
+     In this paper, we consider an integrated approach that allows an information system to fulfill its mission, called self-healing of systems.</p>
+   item_keywords: complex systems, self-healing, self-control, self-stabilizing, graceful degradation, artificial intelligence
+   item_pages: 288—295
+   item_citation: "Kostiukhin K. A. Self-Healing of Complex Hardware and Software Systems, Programmnaya Ingeneria, 2024, vol. 15, no. 6, pp. 288—295. DOI: 10.17587/prin.15.288-295. (in Russian)."
+   item_references: |
+     <li>Metra C., Ferrari A., Omalia M., Pagni A. Hardware Re­configuration Scheme for High Availability Systems, Proceedings of the 10th IEEE International On-Line Testing Symposium (OLTS'04), IEEE, 2004, pp. 161—164. DOI: 10.1109/OLT.2004.1319675.</li>
+     <li>Venisbetti S. K., Akoglu A., Karla R. Hierarchical Built-in Self-testing and FPGA Based Healing Methodology for System-on-a-Chip, Proceedings of the Second NASA/ESA Conference on Adaptive Hardware and Systems (AHS 2007), IEEE, 2007, pp. 717—724. DOI: 10.1109/ AHS.2007.59.</li>
+     <li>Mitra S. Globally Optimized Robust Systems to Overcome Scaled CMOS Reliability Challenges, Proceedings of the EDAA 2008, 2088, pp. 941—946. DOI: 10.1109/DATE.2008.4484801.</li>
+     <li>Dijkstra E. W. Self-stabilizing systems in spite of distributed control, Communications of the ACM, 1974, vol. 17, pp. 643—644. DOI: 10.1145/361179.361202.</li>
+     <li>Brukman O., Dolev S., Haviv Y., Yagel R. Self-Stabilization as a Foundation for Autonomic Computing, Proceedings of the Sec­ond International Conference On Availability, Reliability and Security (ARES'07), IEEE, 2007, pp. 991—998. DOI: 10.1109/ARES.2007.141.</li>
+     <li>Wang Y., Mylopoulos J. Self-repair Through Reconfiguration: A Requirements Engineering Approach, Proceedings of the 2009 IEEE/ACM International Conference On Automated Software Engineering, 2009, pp. 257—268, DOI: 10.1109/ASE.2009.66.</li>
+     <li>Jung G., Margaria T., Wagner C., Bakera M. Formalizing A Methodology for Design- and Runtime Self-healing, Proceedings of the 2010 Seventh IEEE International Conference and Workshop On Engineering Of Autonomic and Autonomous Systems, 2010, pp. 106—115. DOI: 10.1109/EASe.2010.21.</li>
+     <li>Michiels S., Desmet L., Joosen W., Verbaeten P. The DiPS + Software Architecture for Self-healing Protocol Stacks, Proceedings of the Fourth Working IEEE/IFIP Conference on Software Architecture (WIC-SA'04), IEEE, 2004, pp. 233—242. DOI: 10.1109/WICSA.2004.1310706.</li>
+     <li>Andersson J., de Lemos R., Malek S., Weyns D. Reflecting on Self-Adaptive Software Systems, Proceedings of the SEAMS'09, May 18 — 19, 2009, Vancouver, Canada, 2009, pp. 38 — 47. DOI: 10.1109/SEAMS.2009.5069072.</li>
+     <li>Khalid A., Haye M. A., Khan M. J., Shamail S. Survey of Frameworks, Architectures and Techniques in Autonomic Computing, Proceedings of the 2009 Fifth International Conference On Autonomic and Autonomous Systems, 2009, pp. 220—225. DOI: 10.1109/ICAS. 2009.38.</li>
+     <li>Ravi R. K., Sathyanarayana V. Container based framework for Self-Healing Software Systems, Proceedings of the 10th IEEE International Workshop on Future Trends of Distributed Computing Systems (FTDCS'04), IEEE, 2004, pp. 306—310. DOI: 10.1109/FTDCS.2004.1316631.</li>
+     <li>Andrzejak A. Generic Self-Healing via Rejuvenation: Challenges, Status Quo and Solutions, Proceedings of the 2010 Fourth IEEE International Conference on Self-Adaptive and Self- Organazing Systems Workshop, 2010, pp. 239—242. DOI: 10.1109/SASOW.2010.68.</li>
+     <li>Dolev S., Yagel R. Towards Self-Stabilizing Operating Systems, IEEE Transactions on Software Engineering, 2008, vol. 34, issue 4, pp. 564—576. DOI: 10.1109/TSE.2008.46.</li>
+     <li>Dhall R. Designing Graceful Degradation in Software Sys­tems, Proceedings of the Second International Conference on Research in Intelligent and Computing in Engineering, ACSIS, 2017, vol. 10, pp. 171—179, available at: https://annals-csis.org/proceedings/ rice2017/drp/pdf/15.pdf (date of access 26.03.2024).</li>
+     <li>Nitin Kumar, Cuneyt Buyukbezci. Self-healing enterprise: how is AI changing the value profile of the enterprise? — Financier Worldwide Magazine, December, 2019, available at: https://www. financierworldwide.com/self-healing-enterprise-how-is-ai-changing-the-value-profile-of-the-enterprise (date of access 26.03.2024).</li>
+     <li>Betelin V. B., Galatenko V. A., Kostiukhin K. A. Os-novnye poniatiia kontroliruemogo vypolneniia slojnyh system, Informacionniе technologii, 2013, no. 3, supl., 32 p. (in Russian).</li>
+ - doi: 15.296-307
+   udk: "004.052.32 + 681.518.5"
+   item_authors: Efanov D. V., Yelina Y. I.
+   item_name: Synthesis of Weight-Based Code Encoders with Summation in the Ring of Residues for a Given Modulus
+   item_authors_address: |
+     <b>D. V. Efanov</b><sup>1, 2, 3, 4</sup>, D. Sc. (Engineering), Professor, TrES-4b@yandex.ru,
+     <b>Y. I. Yelina</b><sup>1</sup>, Postgraduate Student, eseniya-elina@mail.ru
+     <br>
+     <sup>1</sup> Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation
+     <br>
+     <sup>2</sup> Russian University of Transport, Moscow, 127994, Russian Federation
+     <br>
+     <sup>3</sup> Tashkent State Transport University, Tashkent, 100167, Uzbekistan
+     <br>
+     <sup>4</sup> Scientific Research and Design Institute "Transport and Construction Safety" LLC, St. Petersburg, 192102, Russian Federation
+   item_corr_author: "Dmitry V. Efanov, D. Sc. (Engineering), Professor, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation, E-mail: TrES-4b@yandex.ru"
+   item_rec_on: March 19, 2024
+   item_acc_on: April 16, 2024
+   item_annot: |
+     <p>To ensure one of the key principles of the development of the state, namely, the achievement of technological sovereignty, it is necessary to build all spheres of life at a qualitatively new technological level, own their own innova­tive technologies. In modern sanctions realities, the development of enterprises in the Russian Federation cannot be carried out without coordination with partners from Russia, as well as from China, India and other friendly countries. The selection of potential partners can be carried out on the basis of the identified importance of their patented technological solutions. Further ranking of potential partners can be carried out on the basis of the identified importance of their patented technologies. At the same time, in this study it is proposed to use three criteria: the mass nature of the subject of the patented invention in the current period; the predicted mass nature of the subject (technology) in the future period; the popularity of the patent in the information field. The authors have developed a method for predicting the importance of patented technologies and its software implementation.</p>
+   item_keywords:  patent, parsing, forecast, clustering, enterprise, information, data, Python
+   item_pages: 296—307
+   item_citation: "Efanov D. V., Yelina Y. I. Synthesis of Weight-Based Code Encoders with Summation in the Ring of Residues for a Given Modulus, Programmnaya Ingeneria, 2024, vol. 15, no. 6, pp. 296—307. DOI: 10.17587/prin.15.296-307 (in Russian)."
+   item_references: |
+     <li>Berger J. M. A Note on Error Detection Codes for Asymmetric Channels, Information and Control, 1961, vol. 4, issue 1, pp. 68—73. DOI: 10.1016/S0019-9958(61)80037-5.</li>
+     <li>Berger J. M. A Note on Burst Detection Sum Codes, Information and Control, 1961, vol. 4, issue 2—3, pp. 297—299. DOI: 10.1016/S0019-9958(61)80024-7.</li>
+     <li>Das D., Touba N. A. Weight-Based Codes and Their Application to Concurrent Error Detection of Multilevel Circuits, Proceedings of 17th IEEE Test Symposium, California, USA, 1999, pp. 370—376. DOI: 10.1109/VTEST.1999.766691.</li>
+     <li>Das D., Touba N. A., Seuring M., Gossel M. Low Cost Concurrent Error Detection Based on Modulo Weight-Based Codes, Proceedings o/the IEEE 6th International On-Line Testing Workshop (IOLTW), Spain, Palma de Mallorca, July 3—5, 2000, pp. 171—176. DOI: 10.1109/OLT.2000.856633.</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Summation codes /or technical diagnostics systems. Vol. 1: Classical Berger codes and their modifications, Moscow, Nauka, 2020, 383 p. (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Summation codes /or technical diagnostics systems. Vol. 2: Weighted codes with summation, Moscow, Nauka, 2021, 455 p. (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Weighted codes with summation for the organization of control of logical devices, Ehlektronnoe modelirovanie, 2014, vol. 36, no. 1, pp. 59—80 (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V., Ni-kitin D. A. Investigation of the properties of codes with summation with one weighted information discharge in functional control systems, Ehlektronnoe modelirovanie, 2015, vol. 37, no. 1, pp. 25—48 (in Russian).</li>
+     <li>Efanov D. V. On the issue of synthesis of generators of modified codes with summation of weighted information bits with the sequence of weight coefficients forming a natural series of numbers, Bulletin of Tomsk State University. Management, computer engineering and computer science, 2016, no. 4 (37), pp. 13—26. DOI: 10.17223/19988605/37/2 (in Russian).</li>
+     <li>Efanov D. V., Ten T. A method for synthesizing code generators with the summation of weighted information bits, Informatika i sistemy upravleniya, 2018, no. 4, pp. 82—91. DOI: 10.22250/isu.2018.58.82-91 (in Russian).</li>
+     <li>Efanov D. V., Sapozhnikov V. V., Sapozhnikov Vl. V. A method for constructing a family of codes with summation with the lowest total number of undetectable errors in information vectors, Informatika, 2019, vol. 16, no. 3, pp. 101—118 (in Russian).</li>
+     <li>Kang M. A Study of Self-Checking Circuit Design Based on Berger Code (in Chinese). Master's dissertation, Harbin Engineering University, 2007.</li>
+     <li>Harris D. M., Harris S. L. Digital Design and Computer Architecture, Morgan Kaufmann, 2012, 569 p.</li>
+     <li>Efanov D. V. Method of synthesis of weighted code generators with summation, Izvestiya vysshikh uchebnykh zavedenii. Fizika, 2016, vol. 59, no. 8/2, pp. 33—36 (in Russian).</li>
+     <li>Bibilo P. N. Synthesis of Modular Multipliers, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 377—387. DOI: 10.17587/prin.14.337-387 (in Russian).</li>
+     <li>Sentovich E. M., Singh K. J., Moon C. et al. Sequential Circuit Design Using Synthesis and Optimization, Proceedings IEEE International Conference on Computer Design: VLSI in Computers &Processors, 11-14 October 1992, Cambridge, MA, USA, pp. 328—333. DOI: 10.1109/ICCD.1992.276282.</li>
+     <li>Sentovich E. M., Singh K. J., Lavagno L. et al. SIS: A System for Sequential Circuit Synthesis, Electronics Research Laboratory, Department of Electrical Engineering and Computer Science, University of California, Berkeley, 4 May 1992, 45 p.</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Urganskov D. I. Universal structures of binary unit counters according to an arbitrary counting module, Ehlektronnoe modelirovanie, 2002, vol. 24, no. 4, pp. 65—81 (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Urganskov D. I. Block structure of a binary unit counter according to an arbitrary counting module, Ehlektronnoe modelirovanie, 2005, vol. 27, no. 4, pp. 65—81 (in Russian).</li>
+     <li>Saposhnikov V. V., Saposhnikov Vl. V., Urganskov D. I. Composite Structure of Binary Counter of Ones Arbitrary Modulo, Proceedings o/East-West Design & Test Workshop (EWDTW'05), 15—19 September 2005, Odessa, Ukraine, 2005, pp. 102—106.</li>
+     <li>Saposhnikov V. V., Saposhnikov Vl. V., Urganskov D. I. Multistage Regular Structure of Binary Counter of Ones Arbitrary Modulo, Proceedings of East-West Design & Test Workshop (EWDTW06), 15—19 September 2006, Sochi, Russia, 2006, pp. 287—290.</li>
+     <li>Bibilo P. N., Gorodetskii D. A. Automated Design of Modular Arithmetic Devices: Might CAD Replace an Engineer, Automatic Control and Computer Sciences, 2009, vol. 43, issue 2, pp. 63—73. DOI: 10.3103/S0146411609020023.</li>
+     <li>Suprun V. P., Gorodecky D. A. Realization of Addition and Multiplication Operations in Unitary Codesm, Automatic Control and Computer Sciences, 2010, vol. 44, issue 5, pp. 292—301. DOI: 10.3103/S014641161005007X.</li>
+     <li>Bibilo P. N., Kiriyenko N. A. Schematic implementation of modular adders in custom CMOS VLSI and FPGA, Izvestiya vysshikh uchebnykh zavedenii. Ehlektronika, 2022, vol. 27, no. 4, pp. 489—505 (in Russian).</li>
+ - doi: 15.308-321
+   udk: "004.89"
+   item_authors: Gribova V. V., Perevolotsky V. S.
+   item_name: Knowledge Graph Formation Using LLM for Disease Treatment in Decision Support Systems
+   item_authors_address: |
+     <b>V. V. Gribova</b>, D. Sc. (Technical Sciences), Deputy Director, Head of intelligent systems lab, gribova@iacp.dvo.ru, Institute of Automation and Control Processes, Far Eastern Branch of Russian, Academy of Sciences, Vladivostok, 690041, Russian Federation, Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
+     <b>V. S. Perevolotsky</b>, Postgraduate Student, lost.yayo@gmail.com, Far Eastern Federal University, Vladivostok, 690922, Russian Federation
+   item_corr_author: "Vladimir S. Perevolotsky, Postgraduate Student, Far Eastern Federal University, Vladivostok, 690922, Russian Federation, E-mail: lost.yayo@gmail.com"
+   item_rec_on: February 13, 2024
+   item_acc_on: March 26, 2024
+   item_annot: |
+     <p>The article presents an advanced method for creating knowledge graphs, applicable in medical decision support systems. It focuses on adapting the method to various clinical guidelines, making it particularly valuable in the medi­cal field. The developed universal ontological pattern allows for the formation of knowledge bases for a wide range of diseases, making the process flexible and scalable without the need for specific programming. This approach significantly reduces the labor intensity of creating medical support systems and facilitates their integration and adaptation to various clinical conditions and requirements.
+     The practical significance of the method was confirmed in the management systems for the therapy of various diseases, including allergic rhinitis, underscoring its universality and applicability in the current medical context. The effectiveness of the proposed approach opens new perspectives for the development and improvement of medical information systems, contributing to the improvement of patient care and treatment quality. Thus, the article makes a significant contribution to the advancement of information technology in medicine, offering a solution that can be adapted for a wide range of medical applications and research.</p>
+   item_keywords: artificial intelligence, clinical decision support systems, knowledge graphs, ontology, personalized treatment, treatment management automation, machine learning in medicine, LLM
+   item_pages: 308—321
+   item_comment: The work was carried out within the framework of the state assignment of the Institute of Automated Control of the Far Eastern Branch of the Russian Academy of Sciences (topic FWFW-2021-0004 — an approach for translating models of regulatory documents into a machine-understandable representation using LLM).
+   item_citation: "Gribova V. V., Perevolotsky V. S. Knowledge Graph Formation Using LLM for Disease Treatment in Decision Support Systems, Programmnaya Ingeneria, 2024, vol. 15, no. 6, pp. 308—321. DOI: 10.17587/prin.15.308-321. (in Russian)."
+   item_references: |
+     <li>Chen Z., Liang N., Zhang H. et al. Harnessing the power of clinical decision support systems: challenges and opportunities, Open Heart, 2023, vol. 10, no. 2, article e002432. DOI: 10.1136/openhrt-2023-002432.</li>
+     <li>Shahsavarani A. M., Azad Marz Abadi E., Hakimi Kalk-horan M. et al. Clinical decision support systems (CDSSs): state of the art review of literature, International Journal of Medical Reviews, 2015., vol. 2, no. 4, pp. 299—308.</li>
+     <li>Moja L., Kwag K. H., Lytras T. et al. Effectiveness of computerized decision support systems linked to electronic health records: a systematic review and meta-analysis, American journal of public health, 2014, vol. 104, no. 12, pp. e12—е22. DOI: 10.2105/ AJPH.2014.302164.</li>
+     <li>Potseluev E. L., Gorbunov A. E. Medical error and crime: equivalent concepts? Nauka. Obshhestvo. Gosudarstvo, 2017, vol. 5, no. 1, pp. 128—135 (in Russian).</li>
+     <li>Makhambetchin M. M., Shakeev K. T. Some aspects of the theory of physician errors, Zdravoohranenie Rossijskoj Federacii, 2021, vol. 65, no. 2, pp. 159—165. DOI: 10.47470/0044-197X-2021-65-2-159-165 (in Russian).</li>
+     <li>Rostovtsev V. N., Kobrinskii B. A. Principles and Possible Ways of Building an Intelligent System of Integral Medicine, Open Semantic Technologies for Intelligent Systems, 2021, no. 5. pp. 225—228.</li>
+     <li>Jia Qu. A Review on the Application of Knowledge Graph Technology in the Medical Field, Scientific Programming, 2022, vol. 2022, article ID 3212370, p. 12. DOI: 10.1155/2022/3212370.</li>
+     <li>Zhi Qi. A review on the construction and application of medical knowledge graph, Applied and Computational Engi­neering, 2023,vol. 4, no. 1, pp. 618—622. DOI: 10.54254/2755­2721/4/2023361.</li>
+     <li>Rajabi E., Kafaie S. Knowledge Graphs and Explainable AI in Healthcare, Information, 2022, vol. 13, no. 10, article 459. DOI: 10.3390/info13100459.</li>
+     <li>Chen X., Liu J., Xu L. et al. Knowledge graph of CO-VID-19 patient activity-a case study of Zhengzhou city, Journal of Wuhan Univ, 2020, vol. 45, pp. 816—824.</li>
+     <li>Jiajing Wu. Construct a Knowledge Graph for China Coronavirus (COVID-19) Patient Information Tracking, Risk Management and Healthcare Policy, 2021, vol. 2021:14, pp. 4321—4337. DOI: 10.2147/RMHP.S30973.</li>
+     <li>Zhao H., Chen J., Huang L. et al. Automatic Generation of Medical Report with Knowledge Graph, In 2021 10th International Conference on Computing and Pattern Recognition (ICCPR '21), 2021, October 15—17, Shanghai, China, 2021, pp. 1—10.</li>
+     <li>Chen T., Zhang Y., Qian X. et al. A knowledge graph-based method for epidemic contact tracing in public transportation, Transportation Research Part C: Emerging Technologies, 2022, vol. 137, article 103587. DOI: 10.1016/j.trc.2022.103587.</li>
+     <li>Zhang P., Bu Y., Jiang P. et al. Toward a Coronavirus Knowledge Graph, Genes, 2021, vol. 12, no. 7, article 998. DOI: 10.3390/genes12070998.</li>
+     <li>Yang Y., Cao Z., Zhao P. et al. Constructing public health evidence knowledge graph for decision-making support from COVID-19 literature of modelling study, Journal of Safety Science and Resilience, 2022, vol. 137, pp. 146—156. DOI: 10.1016/j.jnlssr.2021.08.002.</li>
+     <li>Gribova V. V., Moskalenko P. M., Timchenko V. A., Shalfeeva E. A. The IACPaaS Platform for Developing Systems Based on Ontologies: A Decade of Use, Scientific and Technical Information Processing, 2023, vol. 50, no. 5, pp. 1—7. DOI: 10.3103/ S0147688223050064.</li>
+     <li>Taejin Kim, Yeoil Yun, Namgyu Kim. Deep Learning-Based Knowledge Graph Generation for COVID-19, Sustainability, 2021, vol. 13, no. 4, article 2276. DOI: 10.3390/su13042276.</li>
+     <li>Tao X., Pham T., Zhang J. et al. Mining health knowledge graph for health risk prediction, World Wide Web, 2020, vol. 23, pp. 1—22. DOI: https://doi.org/10.1007/s11280-020-00810-1.</li>
+     <li>Chi Y., Yu C., Qi X. et al. Knowledge Management in Healthcare sustainability: a Smart Healthy Diet Assistant in Tra­ditional Chinese Medicine Culture, Sustainability, 2018, vol. 10, no. 11, article 4197. DOI: 10.3390/su10114197.</li>
+     <li>Rossanez A., dos Reis J. C., Torres R.d.S. et al. KGen: a knowledge graph generator from biomedical scientific literature, BMC Med Inform Decis. 2020, vol. 20 (suppl 4), article 314. DOI: 10.1186/s12911-020-01341-5.</li>
+     <li>Wu X., J. Duan Y., Pan Y. et al. Medical Knowledge Graph: Data Sources, Construction, Reasoning, and Applications, Big Data Mining and Analytics. 2023. vol. 6, no. 2, рр. 201—217. DOI: 10.26599/BDMA.2022.9020021.</li>
+     <li>Tong R., Sun C., Wang H. Construction of traditional Chinese, medical, knowledge, graph and its application, Journal of Medical Information, 2016, vol. 37, no. 4, рр. 8—13. DOI: 10.1155/2022/3212370.</li>
+     <li>Abu-Salih B., AL-Qurishi M., Alweshah M. et al. Health­care knowledge graph construction: A systematic review of the state-of-the-art, open issues, and opportunities, Journal of big data, 2023, vol. 10, no. 1, article 81. DOI: 10.1186/s40537-023-00774-9.</li>
+     <li>Cui H., Lu J., Wang S. et al. A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises. 2023. DOI: 10.48550/arXiv.2306.04802.</li>
+     <li>Wang Y., Ye F., Li B., Jin G., Xu D., Li F. UrbanFloodKG: An Urban Flood Knowledge Graph System for Risk Assessment, CIKM '23: The 32nd ACM International Conference on Information and Knowledge Management, 2023, pp. 2574—2584. DOI: 10.1145/3583780.3615105.</li>
+     <li>Zhong L., Wu J., Li Q. et al. A Comprehensive Survey on  Automatic Knowledge Graph Construction, ACM Computing Surveys, 2023, vol. 56, no. 4, article 94, pp. 1—62. DOI: 10.1145/3618295.</li>
+     <li>Zhong L., Wu J., Li Q., Peng H., Wu X. A Comprehensive Survey on Automatic Knowledge Graph Construction, ACM Computing Surveys, 2022, vol. 36, no. 4, article 66, pp. 1—50. DOI: 10.48550/arXiv.2302.05019.</li>
+     <li>Melnyk I., Dognin P., Das P. Knowledge Graph Generation From Text. [Preprint] arXiv:2211.1051. November 2022. DOI: 10.48550/arXiv.2211.10511.</li>
+     <li>Ni P., Okhrati R., Guan S. et al. Knowledge Graph and Deep Learning-based Text-to-GraphQL Model for Intelligent Medical Consultation Chatbot, Information Systems Frontiers, 2022, vol. 26, pp. 137—156. DOI: 10.1007/s10796-022-10295-0.</li>
+     <li>Gribova V., Kovalev R., Okun D. A Specialized Shell for Intelligent Systems of Prescribing Medication, Scientific and Technical Information Processing, 2021, vol. 48, no. 5, pp. 1—11. DOI: 10.3103/S0147688221050038.</li>
+     <li>Gribova V. V., Shalfeeva E. A., Petryaeva M. V. et al. Cloud service for differential diagnosis and personalized treatment of inflammatory heart diseases, Programmnye sistemy: teorija i prilozhenija, 2023, vol. 14, no. 4, pp. 141—188 (in Russian).</li>
+     <li>Gribova V. V., Kul'chin Y. N., Petryaeva M. V. et al. An Intel­ligent System for Medical Decision Support in Differential Diagnosis and Treatment of COVID-19, Herald of the Russian Academy of Sciences, 2022, vol. 92, no. 4, pp. 511—519. DOI: 10.1134/S1019331622040128.</li>
+     <li>Borodulina E. A., Gribova V. V., Eremenko E. P. et al. Intelligent service for managing the treatment process of patients with pulmonary tuberculosis, Vrach i informacionnye tehnologii, 2021, no. 2, pp. 36—45. DOI: 10.25881/18110193_2021_2_36 (in Russian).</li>
+     <li>International statistical classification of diseases and related health problems (10th revision) (ICD-10) (version 2.23 dated 07/19/2023). WHO Moscow Center for International Classification of Diseases, Russian Academy of Medical Sciences Research Insti­tute of Social Hygiene, Economics and Health Management named after. ON THE. Semashko (in Russian).</li>
+     <li>Jiang X., Zhang R., Xu Y. et al. Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. 2023. arXiv preprint arXiv:2312.15883.</li>
+     <li>Gribova V. V., Okun D. B. Ontologies for the formation of knowledge bases and the implementation of therapeutic measures in medical intelligent systems, Informatika i sistemy upravleniya, 2018, no. 3 (57), pp. 71—80. DOI: 10.22250/isu.2018.57.71-80 (in Russian).</li>
+     <li>Perevolotsky V. S., Kravchuk D. A. Using automated systems to create ontological knowledge bases, Naukoemkie tehnologii v kosmicheskih issledovanijah Zemli, 2024, vol. 16, no. 1, pp. 54—58 (in Russian).</li>
+ - doi: 15.322-328
+   udk: "004.89"
+   item_authors: Antonov V. V., Shkarov V. N., Rodionova L. E., Palchevsky E. V., Smetanina O. N.
+   item_name: Development of a Method of Ensuring Control over Deviations in the Work of Automated Systems of the Enterprise on the Example of the Electric Power Industry
+   item_authors_address: |
+     <b>V. V. Antonov</b><sup>1</sup>, D. Sc. (Technical), Head of Section, antonov.v@bashkortostan.ru,
+     <b>V. N. Shkarov</b><sup>2</sup>, Deputy Head of Department, alteroz87@gmail.com,
+     <b>L. E. Rodionova</b><sup>1</sup>, Associate Professor, RodionovaKF@yandex.ru,
+     <b>E. V. Palchevsky</b><sup>3</sup>, Senior Lecturer, teelxp@inbox.ru,
+     <b>O. N. Smetanina</b><sup>1</sup>, D. Sc., Professor, smoljushka@mail.ru,
+     <br>
+     <sup>1</sup> Ufa University of Science and Technology, Ufa, 450008, Russian Federation
+     <br>
+     <sup>2</sup> Ufa Instrument Manufacturing Association, Ufa, 450076, Russian Federation
+     <br>
+     <sup>3</sup> Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation
+   item_corr_author: "Evgeny V. Palchevsky, Senior Lecturer, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation, E-mail: teelxp@inbox.ru"
+   item_rec_on: February 12, 2024
+   item_acc_on: March 06, 2024
+   item_annot: |
+     <p>The article deals with the development of a method for ensuring the control of deviations in the automation of business processes on the example of the system of analytical control and forecasting in the electric power industry. On the basis of this method, it is possible to build a digital twin that allows one to control deviations of the developed business process models and create a ready model of the subject area of the information system depending on changes in business processes. In the article it is realized on the example of the rule of selection of the most accurate predictive results. The performed efficiency analysis showed that the most accurate result (with an error of 8.8 %) will be displayed in the web interface of the system of analytical control and power forecasting.</p>
+   item_keywords: information model, deviation control method, artificial neural networks, forecasting
+   item_pages: 322—328
+   item_comment: "The research is carried out with the financial support of the Ministry of Education and Science of the Russian Federation as part of the basic part of the state task for higher education institutions # FEUE-2023-0007."
+   item_citation: "Antonov V. V., Shkarov V. N., Rodionova L. E., Palchevsky E. V., Smetanina O. N. Development of a Method of Ensuring Control over Deviations in the Work of Automated Systems of the Enterprise on the Example of the Electric Power Industry, Programmnaya Ingeneria, 2024, vol. 15, no. 6, pp. 322—328. DOI: 10.17587/prin.15.322-328."
+   item_references: |
+     <li>Brinette S., Cheffou A., Tossan V. Management support and learning from innovation trophies: Insights from a large french energy company, Journal of Engineering and Technology Management, 2024, vol. 71, article 101794. DOI: 10.1016/j.jengtecman.2023.101794.</li>
+     <li>Blanka C. An individual-level perspective on intrapreneurship: a review and ways forward, Rev Manag Sci, 2019, vol. 13. pp. 919—961. DOI: 10.1007/s11846-018-0277-0.</li>
+     <li>Rahman M., Saha S., Hoque M. Unveiling the link between environmental management accounting, energy efficiency, and accountability in state-owned enterprises: An integrated analysis using PLS-SEM and fsQCA, Environmental Challenges, 2024, vol. 14, article 100832. DOI: 10.1016/j.envc.2023.100832.</li>
+     <li>Zhang P., Hao D. Enterprise financial management and fossil fuel energy efficiency for green economic growth, Resources Policy, 2023, vol. 84, article 103763. DOI: 10.1016/j.resourpol.2023.103763.</li>
+     <li>Anisimova T. Analysis of the Reasons of the Low Interest of Russian Enterprises in Applying the Energy Management System, Procedia Economics and Finance, 2015, vol. 23, pp. 111—117. DOI: 10.1016/S2212-5671(15)00424-4.</li>
+     <li>Patel J. D., Shah R., Trivedi R. H. Effects of energy man­agement practices on environmental performance of Indian small-and medium- sized enterprises, Journal of Cleaner Production, 2022, vol. 333, article 130170. DOI: 10.1016/j.jclepro.2021.130170.</li>
+     <li>Electric Power Industry system. Year of implementation: 2023, available at: https://elforecasting.com/?lang=eng.</li>
+     <li>ISO/IEC/IEEE 15288:2023, available at: https://www.iso.org/standard/81702.html</li>
+     <li>Kulikov G. G., Antonov V. V., Antonov D. V. Theoretical and applied aspects of building software systems models, LAMBERT Academic Publishing (LAP) GmbH&Co.KG, 2011, 134 p.</li>
+     <li>Palchevsky E. V., Antonov V. V., Rodionova L. A., Kromina A. R., Fakhrullina A. R. Intelligent forecasting of electricity consumption in managing energy enterprises in order to carry out energy-saving measures, Mekhatronika, Avtomatizatsiya, Upravlenie, 2023, vol. 24, no. 6, pp. 307—316. DOI: 10.17587/mau.24.307-316.</li>
