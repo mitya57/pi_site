@@ -1,0 +1,199 @@
+---
+title: Issue N7 2024 year
+content:
+ - doi: 15.331-339
+   udk: "004.946"
+   item_authors: Maltsev A. V.
+   item_name: Methods for Implementing Tactile Sensations in Virtual Space by Integrating Physical Objects with Their Computer Models
+   item_authors_address: |
+     <b>A. V. Maltsev</b>, Ph.D., Leading Researcher, avmaltcev@mail.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_corr_author: "Andrey V. Maltsev, Ph.D., Leading Researcher, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: avmaltcev@mail.ru"
+   item_rec_on: May 22, 2024
+   item_acc_on: May 30, 2024
+   item_annot: |
+     <p>The paper presents original methods and approaches for integrating, from the user's point of view, three-dimensional virtual models visible to them in a virtual reality headset, and their physical prototypes. This allows for the addition of some important elements of physical reality to the virtual environment, such as tactile and muscle-motor sensations. Developed solutions are based on the use of such wireless devices as HTC Vive Trackers, which determine their position and orientation in space, and can be placed on various objects of the real world. An original approach to making a tracking system by means of two HTC Base Stations and several Vive Trackers with selecting one anchor element is proposed, as well as new methods for real-time integration of physical reality objects with their virtual models by using functional control schemes with own blocks for trackers. Based on methods and approaches proposed in this work, software modules were implemented. Approbation of these modules in the VirSim virtual environment system, which was developed in Scientific Research Institute for System Analysis of the Russian Academy of Sciences, showed that the solutions developed are adequate and effective, and can have practical application in virtual environment systems and training complexes.</p>
+   item_keywords: virtual environment, VR headset, tracking system, visualization, three-dimensional scene, trackers, integration, functional scheme
+   item_pages: 331—339
+   item_comment: 'The publication is made within the state task of Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences" on topic No. FNEF-2024-0002 "Mathematical modeling of multiscale dynamic processes and virtual environment systems".'
+   item_citation: "Maltsev A. V. Methods for Implementing Tactile Sensations in Virtual Space by Integrating Physical Objects with Their Computer Models, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 331—339. DOI: 10.17587/prin.15.331-339 (in Russian)."
+   item_references: |
+     <li>Maltsev A. V., Strashnov E. V., Mikhaylyuk M. V. Methods and technologies of cosmonaut rescue simulation in virtual environment systems, Scientific Visualization, 2021, vol. 13, no. 4, pp. 52—65. DOI: 10.26583/sv.13.4.05.</li>
+     <li>W-WALL. VR simulator. Virtual reality in learning. Oil in­dustry, available at: https://www.youtube.com/watch?v=keXlfMKyxsI (date of access 20.05.2024).</li>
+     <li>Maltsev A. V. Computer simulation and visualization of wheel tracks on solid surfaces in virtual environment, Scientific Visualization, 2023, vol. 15, no. 2, pp. 80—89. DOI: 10.26583/sv.15.2.05.</li>
+     <li>Bruguera M. B., Ilk V., Ruber S., Ewald R. Use of virtual reality for astronaut training in future space missions — spacecraft piloting for the Lunar Orbital Platform — Gateway (LOP-G), 70th International Astronautics Congress, Washington D. C., 2019, pp. 1—10.</li>
+     <li>Garcia A. D., Schlueter J., Paddock E. Training astronauts using hardware-in-the-loop simulations and virtual reality, AIAA Sci-Tech Forum, Orlando, FL, 2020, pp. 1—13. DOI: 10.2514/6.2020-0167.</li>
+     <li>Mikhaylyuk M. V., Timokhin P. Yu. Memory-effective methods and algorithms of shader visualization of digital core material model, Sci­entific Visualization, 2019, vol. 11, no. 5, pp. 1—11. DOI: 10.26583/sv.11.5.01.</li>
+     <li>Pezent E., Macklin A., Yau J. M. et al. Multisensory Pseudo-Haptics for Rendering Manual Interactions with Virtual Objects, Advanced Intelligent Systems, 2023, vol. 5, pp. 1—13. DOI: 10.1002/aisy.202200303.</li>
+     <li>Hiilsrnariri F., Mattar N., Frohlich J., Wachsmuth I. Simu­lating Wind and Warmth in Virtual Reality: Conception, Realization and Evaluation for a CAVE Environment, Journal of Virtual Reality and Broadcasting, 2014, vol. 11, no. 10, pp. 1—21.</li>
+     <li>Kirvan P. CAVE (Cave Automatic Virtual Environment), available at: https://www.techtarget.com/whatis/definition/CAVE-Cave-Automatic-Virtual-Environment (date of access 20.05.2024).</li>
+     <li>Shen V., Shultz C., Harrison C. Mouth Haptics in VR using a Headset Ultrasound Phased Array, CHI'22: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, 2022, article no. 275, pp. 1—14. DOI: 10.1145/3491102.3501960.</li>
+     <li>Maltsev A. V. Computer simulation of video surveillance complexes in virtual environment systems, Scientific Visualization, 2022, vol. 14, no. 2, pp. 88—97. DOI: 10.26583/sv.14.2.08.</li>
+     <li>Mikhaylyuk M. V., Torgashev M. A. The Visual Editor and Calculation Module of Block Diagrams for Simulation and Training Complexes, Programmnye produkty i sistemy, 2014, no. 4, pp. 10—15 (in Russian). DOI: 10.15827/0236-235X.108.010-015.</li>
+     <li>Sablin I. P., Mikhaylyuk M. V., Omelchenko D. V. et al. Calculation of Tait-Bryan Angles of HTC VIVE Tracker Orientation, Trudy NIISIRAN, 2023, vol. 13, no. 1—2, pp. 25—31 (in Russian).</li>
+     <li>Mikhaylyuk M. V., Maltsev A. V., Timokhin et al. The VirSim Virtual Environment System for the Simulation Complexes of Cosmonaut Training, Pilotiruemye polety v kosmos, 2020, vol. 37, no. 4, pp. 72—95 (in Russian). DOI: 10.34131/MSF.20.4.72-95.</li>
+ - doi: 15.340-351
+   udk: "004.932"
+   item_authors: Filaretov V. F., Mursalimov E. Sh., Timoshenko A. A., Zuev A. V.
+   item_name: Method of Forming and Algorithm of Saving a Photo Map of the Seafloor during its Photography by an Unmanned Underwater Vehicle
+   item_authors_address: |
+     <b>V. F. Filaretov</b>, Professor, Chief Researcher, filaretov@inbox.ru, Sevastopol State University, Sevastopol, 299053, Russian Federation,
+     <b>E. Sh. Mursalimov</b>, PhD, Leading Researcher, murs@dvo.ru,
+     <b>A. A. Timoshenko</b>, Research Associate, officesuit@mail.ru, M. D. Ageev Institute of Marine Technology Problems FEB RAS, Vladivostok, 690091, Russian Federation,
+     <b>A. V. Zuev</b>, PhD, Leading Researcher, alvzuev@yandex.ru, Sevastopol State University, Sevastopol, 299053, Russian Federation
+   item_corr_author: "Eduard Sh. Mursalimov, PhD, Leading Researcher, M. D. Ageev Institute of Marine Technology Problems FEB RAS, Vladivostok, 690091, Russian Federation, E-mail: murs@dvo.ru"
+   item_rec_on: March 27, 2024
+   item_acc_on: June 04, 2024
+   item_annot: |
+     <p>The paper proposes a new method and algorithm for creating a photo map of the seabed from photographs obtained from on-board photo and video systems of autonomous uninhabited underwater vehicles during fulfillment of their various missions. This photo map is formed from photographs of the seabed by sequentially overlapping them. At the same time, data on the position of the underwater vehicle received from the on-board navigation system at the time of receipt of each photograph is used to position each photo image on the generated photo map. And to rotate and scale these photographic images, data on the orientation of the underwater vehicle in the global coordinate system and its height above the bottom, also obtained from the on-board navigation system, are used. To provide quick access to the photo map, it is proposed to store it on an on-board data storage device in the form of a tile map, widely used when creating interactive geographical maps, for example, Google Maps. However, the formation of a tile map is usually carried out on the basis of all the already received photographic images, as is done with satellite images, which cannot be applied on board underwater vehicles when data from the photo-video system is received sequentially. Therefore, a special algorithm has been developed and implemented that generates a tile map during the movement of the underwater vehicle and updates only the area of the tile map in which the photo is currently being taken. This minimizes the computational load and ensures the formation of a photo map of the bottom using standard on-board computing devices. The conducted semi-natural experiments with data obtained as a result of performing real missions using the MMT-3000 underwater vehicle confirmed the high efficiency of using the developed method and algorithm.</p>
+   item_keywords: autonomous uninhabited underwater vehicle, photo map, tile map, on-board photo and video system, navigation data, photo image processing
+   item_pages: 340—351
+   item_comment: This work was supported by the Sevastopol State University, project no. 42-01-09/253/2023-1.
+   item_citation: "Filaretov V. F., Mursalimov E. Sh., Timoshenko A. A., Zuev A. V. Method of Forming and Algorithm of Saving a Photo Map of the Seafloor during its Photography by an Unmanned Underwater Vehicle, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 340—351. DOI: 10.17587/prin.340-351. (in Russian)."
+   item_references: |
+     <li>Johansson B., Siesjo J., Furuholmen M. Seaeye Sabertooth, a hybrid AUV/ROV offshore system, Proceeding of the OCEANS 2010 MTS/IEEE SEATTLE, Seattle, WA, USA, 2010, pp. 1—3. DOI: 10.1109/OCEANS.2010.5663842.</li>
+     <li>Albiez J., Joyeux S., Gaudig C. et al. Flatfish — a compact subsea-resident inspection AUV, Proceeding of the OCEANS 2015-MTS/IEEE, Washington, Washington, DC, USA, 2015, pp. 1—8. DOI: 10.23919/OCEANS.2015.7404442.</li>
+     <li>Teledyne Marine: Gavia AUV software and data handling, available at: http://www.teledynemarine.com/gavia-auv-software-and-data-handling?BrandID=9</li>
+     <li>Gornak V. S., Inzartsev A. V., Lvov O. Yu., Matvienko Yu.V., Scherbatyuk A. Ph. ММТ-3000 — a new small-sized autonomous uninhabited underwater vehicle of the Institute of Marine Technol­ogy Problems of the FEB RAS, Podvodnie Issledovaniya i Robototehnika, 2007, no. 1, pp. 12—20 (in Russian).</li>
+     <li>Danckaers A., Seto M. L. Transmission of images by un­manned underwater vehicles, Autonomous Robots, 2020, vol. 44, no. 1, pp. 3—24. DOI: 10.1007/s10514-019-09866-z.</li>
+     <li>Ahn J., Yasukawa S., Sonoda T., Nishida Y., Ishii K., Ura T. An optical image transmission system for deep sea creature sampling missions using autonomous underwater vehicle, IEEE Journal of Oceanic Engineering, 2018, vol. 45, no. 2, pp. 350—361. DOI: 10.1109/JOE.2018.2872500.</li>
+     <li>Miroshnikova N. E., Petruchin G. S., Sherbakov A. V. Problems of Underwater Optical Links Modeling, 2019 Systems of Signal Synchronization, Generating and Processing in Telecommunications (SYNCHROINFO), Russia, 2019, pp. 1—9. DOI: 10.1109/SYN-CHROINFO.2019.8813996.</li>
+     <li>Wu T. C., Chi Y. C., Wang H. Y., Tsai C. T., Lin G. R. Blue laser diode enables underwater communication at 12.4 Gbps, Scien­tific reports, 2017, vol. 7, article 40480. DOI: 10.1038/srep40480.</li>
+     <li>Pontbriand C., Farr N., Hansen J. et al. Wireless data harvesting using the AUV Sentry and WHOI optical modem, Proceeding of the OCEANS 2015 — MTS/IEEE Washington, Washington, DC, USA, 2015, pp. 1—6. DOI: 10.23919/OCEANS.2015.7401985.</li>
+     <li>Khan S., Rahmani H., Shah S. A. A. et al. A guide to convolutional neural networks for computer vision, Synthesis Lectures on Computer Vision, 2018, vol. 8, no. 1, pp. 1—207.</li>
+     <li>Bulow H., Birk A. Fast and robust photomapping with an Unmanned Aerial Vehicle (UAV), Proceeding of the 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems, St. Louis, MO, USA, 2009, pp. 3368—3373. DOI: 10.1109/IROS.2009.5354505.</li>
+     <li>Bulow H., Birk A., Unnithan V. Online generation of an underwater photo map with improved fourier mellin based registration, Proceeding of the OCEANS 2009-EUROPE, Bremen, Germany, 2009, pp. 1—6. DOI: 10.1109/OCEANSE.2009.5278193.</li>
+     <li>Ait-Aoudia S., Mahiou R., Djebli H., Guerrout E. Satellite and aerial image mosaicking — A comparative insight, Proceeding of the 2012 16th International Conference on Information Visualisation, Montpellier, France, 2012, pp. 652—657. DOI: 10.1109/IV.2012.113.</li>
+     <li>Fischler M. A., Bolles R. C. Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, Communications of the ACM, 1981, vol. 24, iss. 6, pp. 381—395. DOI: 10.1145/358669. 358692.</li>
+     <li>Lowe D. G. Distinctive image features from scale-invariant keypoints, International Journal of Computer Vision, 2004, vol. 60, iss. 2, pp. 91—110. DOI: 10.1023/B:VISI.0000029664.99615.94.</li>
+     <li>Pathak K., Pfingsthorn M., Btlow H., Birk A. Robust estimation of camera-tilt for iFMI based underwater photo-mapping using a calibrated monocular camera, Proceeding of the 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, 2013, pp. 5111—5116. DOI: 10.1109/ICRA.2013.6631307.</li>
+     <li>Gracias X., Negahdaripour S. Underwater mosaic creation using video sequences from different altitudes, Proceedings of the OCEANS 2005 MTS/IEEE, Washington, DC, USA, 2005, pp. 1295—1300. DOI: 10.1109/OCEANS.2005.1639933.</li>
+     <li>Mizuno K., Tabeta S., MatsumotoY. et al. Development of a towed optical camera array system (SSS: Speedy Sea Scanner) for sea environmental monitoring, Proceedings of the 2018 OCEANS — MTS/IEEE Kobe Techno-Oceans (OTO), Kobe, Japan, 2018, pp. 1—5. DOI: 10.1109/OCEANSKOBE.2018.8558885.</li>
+     <li>Kamaev A. N., Smagin S. I. Image stitching in the creation of photographic maps of the seabed, Vichislitel'nie Tehnologii, 2018, vol. 23, no. 1, pp. 61—72 (in Russian).</li>
+     <li>Kamaev A. N. Automatic stitching of images obtained from the AUUV during the exploration of the seabed, Tehnicheskie Prob-lemi Osvoeniya Mirovogo Okeana, 2013, vol. 5, pp. 474—479 (in Russian).</li>
+     <li>Filaretov V., Yukhimets D. Synthesis method of control system for spatial motion of autonomous underwater vehicle, International Journal of Industrial Engineering and Management, 2012, vol. 3, pp. 133—141.</li>
+     <li>Osokin V. V., Gorojanin N. E., Vavilov V. R., Kamilov D. U. Fundamentals of the implementation of online geographical maps, Intellektual'nie Systemi. Teoriya i prilojeniya, 2015, vol. 19, no. 2. pp. 97—122 (in Russian).</li>
+     <li>Egorov P. V. Description of a method for building a library for displaying a raster map that is invariant to the formats of the target geospatial data, Trudi Nauchno-issledovatel'skogo Instituta Systemnih Issledovanii Rossiiskoi Akademii Nayk, 2021, vol. 11, no. 4, pp. 38—47. DOI: 10.25682/NIISI.2021.4.0004 (in Russian).</li>
+     <li>Timohin P. Yu., Mikhailyuk M. V. Ultra-large textures for highly realistic visualization of virtual landscapes, Infornatsionnie Technologii i Vichslitelnie Systemi, 2013, no. 3, pp. 46—54.</li>
+     <li>Leaflet: Overview: Leaflet — a JavaScript library for interac­tive maps, available at: https://leafletjs.com/</li>
+     <li>Reis D., Kupec J., Hong J., Daoudi A. Real-time flying object detection with YOLOv8, arXiv preprint arXiv:2305.09972, 2023. DOI: 10.48550/arXiv.2305.09972.</li>
+     <li>OpenCV: Introduction: Open-Source Computer Vision, available at: https://docs.opencv.org/3.4/d1/dfb/intro.html</li>
+     <li>Krasnopevtsev B. V. Photogrammetry, Moscow, UPP "Rep-tographiya" MIIGAiK, 2008, 160 p. (in Russian).</li>
+     <li>Deutsch L. P. DEFLATE Compressed Data Format Speci­fication version 1.3, IETF, 1996, pp. 1. DOI: 10.17487/RFC1951.</li>
+ - doi: 15.352-361
+   udk: "004.8"
+   item_authors: Petrishchev E. A.
+   item_name: Algorithms for Route Planning and Navigation of Unmanned Aerial Vehicles
+   item_authors_address: |
+     <b>E. A. Petrishchev</b>, Postgraduate Student, arnoa9129@gmail.com, Russian New University, Moscow, 105005, Russian Federation
+   item_corr_author: "Evgeniy A. Petrishchev, Postgraduate Student, Russian New University, Moscow, 105005, Russian Federation E-mail: arnoa9129@gmail.com"
+   item_rec_on: February 08, 2024
+   item_acc_on: May 20, 2024
+   item_annot: |
+     <p>A brief overview of the results of recent research published in open sources in the field of route planning and navigation algorithms for unmanned aerial vehicles (UAV) is presented. Works devoted to global and local planning of trajectories taking into account known and detected obstacles in flight, as well as issues of navigation of groups of drones, are considered. Various approaches are analyzed, including graph algorithms (A*, Dijkstra, Rapidly-exploring Random Trees), methods of data mining in real time, potential fields. Special attention is paid to work on the use of neural networks and machine learning, SLAM and multi-agent technologies for planning UAV routes. The advantages and disadvantages of the main groups of algorithms are considered. A conclusion is drawn about the prospects for using hybrid methods, as well as machine learning technologies, to build intelligent UAV traffic control systems.</p>
+   item_keywords: unmanned aerial vehicles, UAV, drones, navigation algorithms, route planning, global navigation, local navigation, SLAM, neural networks
+   item_pages: 352—361
+   item_citation: "Petrishchev E. A. Algorithms for Route Planning and Navigation of Unmanned Aerial Vehicles, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 352—361. DOI: 10.17587/prin.15.352-361. (in Russian)."
+   item_references: |
+     <li>Vasil'chenko A. S., Ivanov M. S., Kolmykov G. N. Forma­tion of flight routes for unmanned aerial vehicles taking into account the location of air defense and electronic warfare, Control, Communication and Security Systems, 2019, no. 4, pp. 403—420. DOI: 10.24411/2410-9916-2019-10416 (in Russian).</li>
+     <li>Gen K. K., Chulin N. A. Unmanned aerial vehicle navigation algorithm based on an improved simultaneous localization and mapping algorithm with an adaptive local observation range, Bulletin of the Bauman Moscow State Technical University, Instrument Engineering Series, 2017, no. 3, pp. 76—94. DOI: 10.18698/0236-3933-2017-3-76-94 (in Russian).</li>
+     <li>Ishchuk I. N., Likhachev M. A. Modelling of the optimal route of unmanned aerial vehicles based on infrared video navigation data based on the upgraded Dijkstra algorithm, Journal of Siberian Federal University. Engineering & Technologies, 2021, no. 7, available at: https://elib.sfu-kras.ru/bitstream/2311/144856/1/02a_Ischuk.pdf (date of access 22.01.2024) (in Russian).</li>
+     <li>Mikhailov R.L, Tzulun D. V. Application of shortest path search algorithms in planning unmanned aerial vehicle flight routes, Information Technology and Telecommunications, 2023, vol. 11, no. 1, pp. 26—38. DOI: 10.31854/2307-1303-2023-11-1-26-38 (in Russian).</li>
+     <li>Annaiyan A., Olivares-Mendez M. A., Voos H. Real-time graph-based SLAM in unknown environments using a small UAV, 2017 inter­national conference on unmanned aircraft systems (ICUAS), IEEE, 2017, pp. 1118—1123, available at: https://core.ac.uk/download/pdf/132585788.pdf</li>
+     <li>Goto T., Kosaka T., Noborio H. On the heuristics of A* or A algorithm in ITS and robot path-planning, Proceedings 2003 IEEE, RSJ International Conference on Intelligent Robots and Systems (IROS 2003), IEEE, 2003, vol. 2, pp. 1159—1166. DOI: 10.1109/IROS.2003.1248802.</li>
+     <li>Danielmeier L., Seitz S., Barz I. et al. Modified Constrained Wavefront Expansion Path Planning Algorithm for TiltWing UAV, 2022 International Conference on Unmanned Aircraft Systems (ICUAS), IEEE, 2022, pp. 676-6. DOI: 10.1109/ICU-AS54217.2022.9836126.</li>
+     <li>Nguyen Hoang Thuy Trang, Shydlouski S. Situations in construction of 3D mapping for SLAM, VIIIInternational Scientific and Practical Conference "Information and Measuring Equipment and Technologies". MATEC Web Conf., 2018, vol. 155, article 01055. DOI: 10.1051/matecconf/201815501055.</li>
+     <li>Cabreira T. M., Brisolara L. B., Ferreira P. R. Survey on coverage path planning with unmanned aerial vehicles, Drones, 2019, vol. 3, no. 1, article 4. DOI: 10.3390/drones3010004.</li>
+     <li>Wang Y., Yu B., Zhang Y. et al. TPLinker: Single-stage joint extraction of entities and relations through token pair linking, Proceedings of the 28th International Conference on Computational Linguistics, COLING 2020, pp. 1572—1582.</li>
+     <li>Li Pei, Lingyi Wang, Wei Wu et al. Graph neural network-based scheduling for multi-UAV-enabled communications in D2D networks, Digital Communications and Networks, 2024, vol. 10, no. 1, pp. 45—52. DOI: 10.1016/j.dcan.2022.05.014.</li>
+ - doi: 15.362-371
+   udk: "630*658.5"
+   item_authors: Sokolov A. P., Shabaev A. I.
+   item_name: Development of an Information System for Wood Harvesting Planning
+   item_authors_address: |
+     <b>A. P. Sokolov</b>, Professor, Head of Chair, a_sokolov@petrsu.ru,
+     <b>A. I. Shabaev</b>, Associate Professor, ashabaev@petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: "Anton P. Sokolov, Professor, Head of Chair, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation E-mail: a_sokolov@petrsu.ru"
+   item_rec_on: February 22, 2024
+   item_acc_on: April 11, 2024
+   item_annot: |
+     <p>The article presents the results of developing a software system for production planning in the field of wood harvesting. The objects of research are the planning of harvesting operations, forest transport, construction, repair and maintenance of forest roads, as well as solving various related problems. The purpose of the work is to develop a native specialized software system for production planning in the field of wood harvesting, which is integrated with existing accounting and monitoring systems and is based on solving complex optimization problems of large dimensions using original specially developed methods and algorithms that take into account all the features of wood harvesting production in the Russian Federation. As a result of this work, an approach to creating such а system was developed, which includes a set of requirements for the software product, as well as formulations of the main tasks to be solved, listing the necessary initial data and information obtained as an output. The proposed approach was implemented by Russian IT-company Opti-Soft in the form of software product Opti-Wood — a multipurpose Decision Support System (DSS) designed for the use at forestry enterprises as a tool for optimizing production planning, management and control. The Opti-Wood system was developed in close contact with a large wood harvesting enterprise in the Republic of Karelia. The system is based on original algorithms for solving several optimization problems of increased complexity. Using the system allows one to increase the efficiency of logging processes by reducing costs in supply chains, the volume of warehouse stocks, the number of required vehicles; by mutual agreement of plans for harvesting operations, forest transport, road construction, etc., as well as by significantly reducing the time for taking management decisions. Increased profitability occurs due to the identification of additional options for the sale of products.</p>
+   item_keywords: production planning information systems, decision support, mathematical programming, wood harvesting industry, harvesting operations, forest transport, forest roads, production planning
+   item_pages: 362—371
+   item_comment: This work was supported by the Russian Federation Ministry of Science and Higher Education (state research target, theme no. 075-03-2023-128).
+   item_citation: "Sokolov A. P., Shabaev A. I. Development of an Information System for Wood Harvesting Planning, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 362—371. DOI: 10.17587/prin.15.362-371 (in Russian)."
+   item_references: |
+     <li>Connected forest by Trimble Forestry, available at: https://forestry.trimble.com/ (date of access 19.02.24).</li>
+     <li>Forest by Pinja, available at: https://pinja.com/en/services/forest-industry/forest (date of access 19.02.24).</li>
+     <li>INFLOR Forest, available at: https://inflor.com/inflor-forest/ (date of access 19.02.24).</li>
+     <li>Smart Forestry, available at: https://afry.com/en/compe-tence/smart-forestry (date of access 19.02.24).</li>
+     <li>Creative optimization: Our solutions, available at: https://cre-ativeoptimization.se/language/en/solutions/ (date of access 19.02.24).</li>
+     <li>Sokolov A. P. Operational Logistics Management of Transport Processes in Wood, Lesnoj zhurnal, 2015, no. 4, pp. 87—103. DOI: 10.17238/issn0536-1036.2015.4.87 (in Russian).</li>
+     <li>Sokolov A. P. Evaluation of the results of production units on timber processing and transportation in production accounting and planning systems, Lesotekhnicheskij zhurnal, 2020, vol. 10, no. 2, pp. 143—150. DOI: 10.34220/issn.2222-7962/2020.2/14 (in Russian).</li>
+     <li>Sokolov A. P. Wood harvesting plan generation: task formulation. Modern forest complex of the country: problems and development trends: materials of the All-Russian scientific and practical conference, Voronezh, 2022, pp. 217—223 (in Russian).</li>
+     <li>Sokolov A. P., Gerasimov Y. Y. Functional logistics of the wood harvesting company, Petrozavodsk, PetrSU press, 2014, 86 p. (in Russian).</li>
+     <li>Sokolov A. P., Katarov V. K., Syunev V. S. Logistical sup­port of the wood harvesting, Petrozavodsk, PetrSU press, 2015, 160 p. (in Russian).</li>
+     <li>Sokolov A. P., Syunev V. S. Logistic concept of wood harvesting operations, Uchenye zapiski PetrGU, 2014, no. 4 (141), pp. 88—94 (in Russian).</li>
+     <li>Sokolov A. P., Syunev V. S., Seliverstov A. A., Sukhanov Y. V. Features of functional logistics for wood harvest­ing. Resources and Technology, 2014, vol. 11, no. 1, pp. 50 — 65. DOI: 10.15393/j2.art.2014.2781 (in Russian).</li>
+     <li>Sokolov A. P. Development of the wood harvesting planning system Opti-Wood, Proceedings of the seventh All-Russian national scientific and practical conference with international participation "Increasing the efficiency of the forest complex", Petrozavodsk, 2021, pp. 178—179 (in Russian).</li>
+     <li>Sokolov A. P. Planning system of wood procurement Opti-Wood. Proceedings of the XI International Scientific and Technical Conference "Automation and control in the pulp and paper industry, timber industry and energy sector", Petrozavodsk, 2016, pp. 26—28 (in Russian).</li>
+     <li>Sokolov A. P., Shabaev A. I. Opti-Wood: a system for wood harvesting operations planning. Collection of scientific papers "Current problems of the forest complex", 2018, vol. 53, pp. 145—148 (in Russian).</li>
+     <li>Opti-Soft, available at: https://www.opti-soft.ru/ (date of access 19.02.24).</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. Optimal Planning of Wood Harvesting and Timber Supply in Rus­sian Conditions, Forests, 2020, vol. 11, no. 6, article 662. pp. 1—17. DOI: 10.3390/f11060662.</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. Mathematical model and numerical methods of the wood harvesting machines scheduling, Resources and Technology, 2018, vol. 15, no. 1, pp. 23—38 (in Russian). DOI: 10.15393/j2.art.2018.4061.</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. An approach to the optimal timber transport scheduling, E3S Web of Conferences, 2020, vol. 164, article number 03019. DOI: 10.1051/e3sconf/202016403019.</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. Mathematical model and numerical methods for solving the problem of operational timber transport, Inzhenernyj vestnik Dona, 2018, no. 4, pp. 1—23 (in Russian).</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. An approach to the scheduling of wood harvesting machines, IOP Conference Series: Earth and Environmental Science, 2019, vol. 316, no. 1, article 012061. DOI: 10.1088/1755-1315/316/1/012061.</li>
+ - doi: 15.372-384
+   udk: "004.8:004.946"
+   item_authors: Kravets A. G., Matokhina A. V., Plotnikov I. N., Salnikova N. A.
+   item_name: New Approach to Personalizing Scenarios for a Single-Player 3D Soulslike Game
+   item_authors_address: |
+     <b>A. G. Kravets</b><sup>1, 2</sup>, D. Sc. (Tech.), Professor, allagkravets@yandex.ru,
+     <b>A. V. Matokhina</b><sup>1</sup>, Ph.D. (Tech.), Associate Professor, matokhina.a.v@gmail.com,
+     <b>I. N. Plotnikov</b><sup>1</sup>, Master's Student, evan-smit@mail.ru,
+     <b>N. A. Salnikova</b><sup>3</sup>, Ph.D. (Tech.), Associate Professor, ns3112@mail.ru,
+     <br>
+     <sup>1</sup> Volgograd State Technical University, Volgograd, 400066, Russian Federation,
+     <br>
+     <sup>2</sup> Dubna State University, Moscow Region, Dubna, 141980, Russian Federation,
+     <br>
+     <sup>3</sup> Volgograd Institute of Management — branch of the Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Volgograd, 400066, Russian Federation
+   item_corr_author: "Natalia A. Salnikova, Ph.D. (Tech.), Associate Professor, Volgograd Institute of Management — branch of the Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Volgograd, 400066, Russian Federation, E-mail: ns3112@mail.ru"
+   item_rec_on: March 22, 2024
+   item_acc_on: April 18, 2024
+   item_annot: |
+     <p>The results of an analysis of games in the Action/RPG genre and existing methods for personalizing their scenarios are presented, and the stages of developing a computer video game using methods for personalizing its scenarios are outlined. These include strengthening and weakening the player and opponents, as well as changing the environ­ment; approaches and technologies used to solve the problems of developing a system for gameplay personification of game scenarios and developing a software product are revealed. A description of the design stages by the authors of a Soulslike-style game application with the possibility of personalizing its scenarios, the results of functional testing and game performance in terms of the number of frames per second are presented.</p>
+   item_keywords: video games, game application design, scenario personification, computer game architecture, game engine, scripts, synchronization of indicators, performance, functional testing, programming
+   item_pages: 372—384
+   item_citation: "Kravets A. G., Matokhina A. V., Plotnikov I. N., Salnikova N. A. A New Approach to Personalizing Scenarios for a Single-Player 3D Soulslike Game, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 372—384. DOI: 10.17587/prin.15.372-384 (in Russian).."
+   item_references: |
+     <li>Klimenko R. G., Kravets A. G., Strukova I. V., Tatarova N. I. Analysis of people's fascinations for computer games, Information Innovative Technologies, International Scientific-Practical Conference, Moscow, 2022, pp. 48—57.</li>
+     <li>The game awards continues destroying the oscars with record 103 million viewers in 2022, Forbes, 2023, available at: https://www.forbes.com/sites/paultassi/2022/12/16/the-game-awards-continues-destroying-the-oscars-with-record-103-million-viewers-in-2022 (date of access 05.03.2024).</li>
+     <li>20 best video games with hollywood actors, The gamer, 2019, available at: https://www.thegamer.com/best-video-games-with-hollywood-actors/ (date of access 05.03.2024).</li>
+     <li>Action role-playing games, Great Russian Encyclopedia: scientific and educational portal, 2022, available at: https://big-enc.ru/c/ekshen-rolevye-igry-43d0e1/?v=5821017/ (date of access 15.04.2024).</li>
+     <li>Action-RPG games on PC, 2023, available at: https://www.goha.ru/games/collections/igry-ekshen-rpg-na-pk-24wqox (date of access 15.04.2024).</li>
+     <li>What is Souls-like and is this term even needed? 2023, avail­able at: https://dtf.ru/games/749082-chto-takoe-souls-like-i-nuzhen-li-voobshe-dannyi-termin (date of access 15.04.2024).</li>
+     <li>Souls-like evolution, 2023, available at: https://stopgame.ru/show/121141/evolyuciya_souls_like_kak_menyalsya_i_chem_stal_ samyy_bezzhalostnyy_zhanr (date of access 15.04.2024).</li>
+     <li>Kravec A. G., Sal'nikova N. A. Predskazatel'noe mode-lirovanie trendov tehnologicheskogo razvitija, Izvestija SPbGTI (TU), 2020, no. 55 (81), pp. 103—108. DOI: 10.36807/1998-9849-2020-55­81-103-108 (in Russian).</li>
+     <li>Shabalina O. A., Vorobkalov P. N., Kataev A. V., Kravets A. G. Educational computer games development: methodology, techniques, implementation, Proceedings of the 2016, Conference on Information Technologies in Science, Management, Social Sphere and Medicine (ITSMSSM 2016), Tomsk, 2016, pp. 419—423.</li>
+     <li>Bolshakov A. A., Klyuchikov A. V. Decision Support System for Selecting Designs of Autostereoscopic Displays, Cyber-Physical Systems: Design and Application for Industry 4.0 (Studies in Systems, Decision and Control), 2021, vol. 342, pp.73—88.</li>
+     <li>Kravets A. G., Kolesnikov S., Salnikova N., Lempert M., Poplavskaya O. The Study of Neural Networks Effective Architectures for Patents Images Processing, Communications in Computer and Information Science, 2019, vol. 1084, pp. 27—41. DOI: 10.1007/978-3-030-29750-3_3.</li>
+     <li>Grechkina A. O., Shherbak, D. S. Perspektivy razvitija Action-adventure i RPG kak zhanrov komp'juter nyhigr, Molodoj issledovatel' Dona, 2019, no. 2 (17), pp. 96—101 (in Russian).</li>
+     <li>Serhan B., Said B., Cheniti L., Khayat G. El. Personaliza­tion in serious games for assessment, ICERI2019 Proceedings, 2019, no. 12, pp. 4845—4852. DOI: 10.21125/iceri.2019.1187.</li>
+     <li>Shrejer D. Nazhmi Reset. Kak igrovaja industrija rushit kar'ery i daet vtoroj shans, Moscow, Eksmo, 2021, 368 p. (in Russian).</li>
+     <li>Sajahova D. K. Jazykovaja lokalizacija videoigr: lingvokul'turologicheskij i kognitivno-pragmaticheskij aspekty. Ph.D. the­sis, Bashkirskij gosudarstvennyj universitet, Ufa, 2021, 192 p. (in Russian).</li>
+     <li>Pact of Punishment, 2021, available at: https://hades.fan-dom.com/wiki/Pact_of_Punishment (date of access 05.03.2024).</li>
+     <li>Games and gameplay: different types of players, 2023, avail­able at: https://habr.com/ru/companies/appodeal/articles/329236/ (date of access 05.03.2024).</li>
+     <li>Own game engines. A little research, 2020, available at: https://habr.com/ru/articles/500320 (date of access 05.03.2024).</li>
+     <li>Overview of gaming AI implementation techniques, 2018, available at: https://habr.com/ru/articles/420219/ (date of access 05.03.2024).</li>
+     <li>Role-playing video game, 2019, available at: https://www.britannica.com/topic/role-playing-video-game (date of access 05.03.2024).</li>
+     <li>The most powerful real-time 3D creation tool, 2023, available at: https://www.unrealengine.com/en-US (date of access 05.03.2024).</li>
+     <li>Tips on Designing Non-Linear Single-Player Levels, 2021, available at: https://80.lv/articles/tips-on-designing-non-linear-single-player-levels/ (date of access 05.03.2024).</li>
+     <li>GameMaker, 2023, available at: https://en.wikipedia.org/wiki/GameMaker (date of access 05.03.2024).</li>
+     <li>Unity (game engine), 2023, available at: https://en.wikipedia.org/wiki/Unity_(game_engine) (date of access 05.03.2024).</li>
+     <li>Chegljaev M. M. Analiz dvizhkov Unreal Engine 5 i Unity 3D, Studencheskij vestnik, 2022, no. 17—10 (209), pp. 52—54 (in Russian).</li>
+     <li>What is a Gaming or Game Engine? 2023, available at: https://gamedev.ru/code/terms/FPS (date of access 05.03.2024).</li>
+     <li>GameMaker, 2023, available at: https://en.wikipedia.org/wiki/GameMaker (date of access 05.03.2024).</li>
+     <li>Godot (game engine), 2023, available at: https://en.wikipedia.org/wiki/Godot_(game_engine) (date of access 05.03.2024).</li>
+     <li>FPS: Frames Per Second (Frames per second), 2019, avail­able at: https://www.arm.com/glossary/gaming-engines (date of access 05.03.2024).</li>
+     <li>What FPS is considered optimal in games — what is it? What FPS in games is considered normal, available at: https://club-cs.ru/news/kakoj-fps-v-igrah-schitaetsya-optimalnym-chto-eto-takoe-kakoj-fps-v-igrah-schitaetsya-normalnym-18316 (date of access 05.03.2024).</li>
