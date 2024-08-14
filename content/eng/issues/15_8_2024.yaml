@@ -1,0 +1,197 @@
+---
+title: Issue N8 2024 year
+content:
+ - doi: 15.387-401
+   udk: "004.75"
+   item_authors: Repin V. O., Sidorov A. A.
+   item_name: Distributed Caching System with Strict Consistency Guarantee for Critical Information Infrastructure
+   item_authors_address: |
+     <b>V. O. Repin</b>, Postgraduate Student, hiddenstmail@gmail.com,
+     <b>A. A. Sidorov</b>, Head of Department, anatolii.a.sidorov@tusur.ru,
+     Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation
+   item_corr_author: "Anatoly A. Sidorov, Head of Department, Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation,  E-mail: anatolii.a.sidorov@tusur.ru"
+   item_rec_on: May 21, 2024
+   item_acc_on: June 25, 2024
+   item_annot: |
+     <p>The place of caching in modern information systems is considered. Typical models of network applications architecture construction and consistency guarantees that they provide to the end user are presented. A comparative analysis of analogues is given, which allows one to outline the features of the proposed system. The developed architecture is described. The architecture of a separate cluster node is described, as well as the architecture and implementation of software development kits for different programming languages. The specifics of designing complex client libra­ries for distributed systems are considered. The importance of consistency models is noted, their interrelationships and hierarchy are described based on the summarized information of existing research. A brief comparison of the two popular consensus algorithms, Raft and Paxos, is given in order to determine the basics of designing a common architecture. Industry leaders in caching systems emphasize performance, deliberately relaxing the consistency of the stored data. Using such systems in an environment that requires maintaining the order of events in the external world is difficult or involves the need for additional tools to maintain data consistency. This paper proposes a caching system that guarantees strict data consistency and provides a single interface for handling it, similar to industry leaders.</p>
+   item_keywords: cache, distributed systems, linearizability, consistency, fault-tolerance, architecture, distributed cache, cache eviction algorithms, critical, critical information infrastructure
+   item_pages: 387—401
+   item_comment: This research was funded by Ministry of Science and Higher Education of the Russian Federation; project FEWM-2023-0013.
+   item_citation: "Repin V. O., Sidorov A. A. Distributed Caching System with Strict Consistency Guarantee for Critical Information Infrastructure, Programmnaya Ingeneria, 2024, vol. 15, no. 8, pp. 387—401. DOI: 10.17587/prin.15.387-401."
+   item_references: |
+     <li>Rodriguez L. V., Yusuf F., Lyons S. et al. Learning Cache Replacement with Cacheus, In Proc. 19th USENIX Conference on File and Storage Technologies, Santa Clara, USA, Feb 2021, pp. 341— 354.</li>
+     <li>Liu Z., Bai Zh., Liu Zh. et al. Provable Load Balancing for LargeScale Storage Systems with Distributed Caching, 17th USENIX Conference on File and Storage Technologies (FAST 19), 2019, pp. 143—157.</li>
+     <li>Pang R., Caceres R., Burrows M. et al. Zanzibar: Google's Consistent, Global Authorization System, Usenix-atc. usenix. Renton, WA, USA, July 2019, pp. 33—46.</li>
+     <li>Bailis P., Davidson A., Fekete A. et al. Highly available transactions: Virtues and limitations, Proc. VLDB Endow., 2013, vol. 7, no. 3, pp. 181—192. DOI: 10.14778/2732232.2732237.</li>
+     <li>Viotti P., Vukolic M. Consistency in non-transactional distributed storage systems, ACM Comput. Surv., 2016, vol. 49, no. 1, pp. 1—34. DOI: 10.1145/2926965.</li>
+     <li>Ongaro D., Ousterhout J. In Search of an Understandable Consensus Algorithm, Proceedings of the 2014 USENIX conference on USENIX Annual Technical Conference (USENIX ATC'14), 2014, pp. 305—320.</li>
+     <li>Mohan S., Tay N. Scalable Distributed Cache Using Consistent Hashing, available at: https://www.scs.stanford.edu/22sp-cs244b/projects/Scalable%20Distributed%20Cache%20Using%20Consistent%20Hashing.pdf (date of access 15.04.2024).</li>
+     <li>Torabi H., Khazaei H., Litoiu M. A Learning-Based Caching Mechanism for Edge Content Delivery, arXiv:2402.02795 [cs. NI], 2024, available at: https://arxiv.org/abs/2402.02795v2 (date of access 15.04.2024).</li>
+     <li>Berger D. S., Berg B., Zhu T., Sen S., Harchol-Balte M. RobinHood: Tail Latency Aware Caching — Dynamic Reallocation from Cache-Rich to Cache-Poor, USENIX OSDI'18, 2018, pp. 195—212.</li>
+     <li>Abdi M., Mosayyebzadeh A., Hajkazemi M. H. et al. A Community Cache with Complete Information, FAST 2021, 2021, pp. 323—340.</li>
+     <li>Strati F., Mcallister S. DejaVu: KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving, arXiv:2403.01876 [cs. DC], 2024, available at: https://arxiv.org/abs/2403.01876 (date of access 15.04.2024).</li>
+     <li>Alam Sh.I., Wazir S., Khalique A., Hassan S. I. Data Cache with Distributed Cache: A Design Approach, SSRG International Journal of Computer Science and Engineering, 2017, vol. 4, no. 6, pp. 17—23. DOI: 10.14445/23488387/IJCSE-V4I6P104.</li>
+     <li>Cotroneo D., Natella R., Rosiello S. Dependability Evaluation of Middleware Technology for Large-scale Distributed Caching, arXiv:2008.06943v2 [cs.SE], 2020, available at: https://arxiv.org/ pdf/2008.06943 (date of access 17.04.2024).</li>
+     <li>Ren K., Thomson A., Abadi D. J. VLL: a lock manager redesign for main memory database systems, The VLDB Journal 24, January 2015, pp. 681—705. DOI: 10.1007/s00778-014-0377-7.</li>
+     <li>TIOBE Index for May 2024, available at: https://www.tiobe.com/tiobe-index (date of access 19.04.2024).</li>
+     <li>Lord of the io_uring, available at: https://unixism.net/loti/index.html (date of access 25.04.2024).</li>
+     <li>Leesatapornwongsa T., Lukman J. F., Lu Sh., Gunawi H. S. TaxDC: A Taxonomy of Non-Deterministic Concurrency Bugs in Datacenter Distributed Systems, ASPLOS'16, 2016, pp. 517—530. DOI: 10.1145/2872362.2872374.</li>
+     <li>Ganesan A., Alagappan R., Arpaci-Dusseau A. C., Arpaci-Dusseau R. H. Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions, FAST 17, 2017, pp. 149—165.</li>
+     <li>Lukman J. F., Ke H., Suminto R. O. et al. FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems, EuroSys'19, 2019. DOI: 10.1145/3302424.3303986.</li>
+ - doi: 15.402-410
+   udk: "004.023:519.87:519.6:519.178"
+   item_authors: Monakhova E. A., Monakhov O. G.
+   item_name: Generation and Analysis of a Dataset of Optimal Double-Loop Circulant Networks
+   item_authors_address: |
+     <b>E. A. Monakhova</b>, Leading Scientist, Associate Professor,
+     <b>O. G. Monakhov</b>, Leading Scientist, Senior Researcher, monakhov@rav.sscc.ru,
+     Institute of Computational Mathematics and Mathematical Geophysics SB RAS, Novosibirsk, 630090, Russian Federation
+   item_corr_author: "Emilia A. Monakhova, Leading Scientist, Associate Professor,  Institute of Computational Mathematics and Mathematical Geophysics of Siberian Branch of Russian Academy of Sciences, Novosibirsk, 630090, Russian Federation E-mail: emilia@rav.sscc.ru"
+   item_rec_on: June 07, 2024
+   item_acc_on:  June 25, 2024
+   item_annot: |
+     <p>Optimal circulant networks are of practical interest as graph models of reliable communication networks for supercomputer systems and networks on a chip. A large dataset of parameters of optimal double-loop circulant networks with a number of nodes of up to 50,000 and 451,000 points has been constructed. The dataset contains, for each number of vertices, all generators corresponding to optimal or suboptimal (in the absence of optimal) descriptions of the graph. This made it possible to find analytical dependencies of the parameters that define families of optimal graphs. Based on the analysis of the constructed dataset, the solution to the problem of determining optimal two-dimensional circulant networks is studied. A process is automated for determining analytical, parametric descriptions of the families of optimal double-loop networks, described polynomials of diameter. Having applied the methods of integrating differential evolution and reduced local search to the analysis of the generated dataset, we rediscovered a number of previously known families and found more than 200 new, different from all those known in literature, families of optimal double-loop networks with generators of linear and quadratic types of polynomials. Our new ap­proach can be applied to studing datasets of other promising classes of graphs and networks.</p>
+   item_keywords: dataset of optimal networks, undirected double-loop circulant networks, families of optimal circulant graphs, diameter, differential evolution, local search
+   item_pages: 402—410
+   item_citation: "Monakhova E. A., Monakhov O. G. Generation and Analysis of a Dataset of Optimal Double-Loop Circulant Networks, Programmnaya Ingeneria, 2024, vol. 15, no. 8, pp. 402—410. DOI: 10.17587/prin.15.402-410. (in Russian)."
+   item_references: |
+     <li>Bermond J.-C., Comellas F., Hsu D. F. Distributed loop computer networks: a survey, J. Parallel Distributed Comput., 1995, vol. 24, no. 1, pp. 2—10. DOI: 10.1006/jpdc.1995.1002.</li>
+     <li>Hwang F. K. A survey on multi-loop networks, Theoretical Computer Science, 2003, vol. 299, pp. 107—121. DOI: 10.1016/S0304-3975(01)00341-3.</li>
+     <li>Monakhova E. A. Structural and communicative properties of circulant networks, Prikladnaya diskretnaya matematika, 2011, no. 3, pp. 92—115 (in Russian).</li>
+     <li>Huang X., Ramos A. F., Deng Y. Optimal Circulant Graphs As Low-latency Network Topologies, J. Supercomput., 2022, vol. 78, pp. 13491—3510. DOI: 10.1007/s11227-022-04396-5.</li>
+     <li>Perez-Roses H., Bras-Amoros M., Seradilla-Merinero J. M. Greedy Routing in Circulant Networks, Graphs Combinatorics, 2022, vol. 38, no. 3. DOI: 10.1007/s00373-022-02489-9.</li>
+     <li>Monakhov O. G., Monakhova E. A., Romanov A. Y., Sukhov A. M., Lezhnev E. V. Adaptive Dynamic Shortest Path Search Algorithm in Networks-on-Chip Based on Circulant Topologies, IEEE Access, 2021,	vol. 9. pp. 160836—160846. DOI: 10.1109/ACCESS.2021.3131635.</li>
+     <li>Lewis R. R. Analysis and Construction of Extremal Circulant and Other Abelian Cayley Graphs, Ph.D thesis, The Open University, London, UK, 2021. DOI: 10.21954/ou.ro.00013612.</li>
+     <li>Hoffmann R., Deserable D., Seredynski F. Cellular automata rules solving the wireless sensor network coverage problem, Natural Computing, 2022, vol. 21. pp. 417—447. DOI: 10.1007/s11047-022-09888-0.</li>
+     <li>Fei J., Lu C. Adaptive sliding mode control of dynamic systems using double loop recurrent neural network structure, IEEE Trans. Neural Netw. Learn. Syst., 2018, vol. 29, no. 4, pp. 1275—1286. DOI: 10.1109/TNNLS.2017.2672998.</li>
+     <li>Du D.-Z., Hsu D. F., Li Q., Xu J. A combinatorial problem related to distributed loop networks, Networks, 1990, vol. 20, pp. 173—180.</li>
+     <li>Tzvieli D. Minimal diameter double-loop networks. 1. Large infinite optimal families, Networks, 1991, vol. 21, pp. 387—415.</li>
+     <li>Chen B.-X., Xiao W.-J., Parhami B. Diameter formulas for a class of undirected double-loop networks, J. Interconnection Networks, 2005, vol. 6, no. 1, pp. 1—15. DOI: 10.1142/S0219265905001289.</li>
+     <li>Chen B.-X., Meng J.-X., Xiao W.-J. Some new optimal and suboptimal infinite families of undirected double-loop networks, DMTCS, 2006, vol. 8, pp. 299—312. DOI: 10.46298/dmtcs.377.</li>
+     <li>Jha P. K., Tight-optimal circulants vis-a-vis twisted tori, Discrete Appl. Math., 2014, vol. 175. pp. 24—34. DOI: 10.1016/j.dam.2014.05.021.</li>
+     <li>Li Y., Chen Y., Tai W., Wang R. The minimum distance diagram and diameter of undirected double-loop networks, Proceedings of the 3rd Inter. Conf. On Materials Engineering, Manufacturing Technology and Cotrol (ICMEMTC 2016), 2016, pp. 1682—1687. DOI: 10.2991/ic-memtc-16.2016.319.</li>
+     <li>Liu H., Li X., Wang S. Construction of Dual Optimal Bidirectional Double-Loop Networks for Optimal Routing, Mathematics, 2022,	vol. 10, no. 21, pp. 4016. DOI: 10.3390/math10214016.</li>
+     <li>Loudiki L., Kchikech M., Essaky E. H. A New Approach for Computing the Distance and the Diameter in Circulant Graphs, arXiv 2210.11116. Oct 2022. DOI: 10.48550/arXiv.2210.11116.</li>
+     <li>Pai K.-J., Yang J.-S., Chen G.-Y., Chang J.-M. Configuring Protection Routing via Completely Independent Spanning Trees in Dense Gaussian on-Chip Networks, IEEE Trans. Netw. Sci. Eng., 2022, vol. 9, no. 2, pp. 932—946. DOI: 10.1109/TNSE.2022.3140329.</li>
+     <li>Korneev V. V. Computing systems, Gelios ARV, 2004, 512 p. (in Russian).</li>
+     <li>Monakhova E. A. On analytical representation of optimal two-dimensional Diophantine structures of homogeneous computer systems, Vychislitel'nye Sistemy, 1981, no. 90, pp. 81—91 (in Russian).</li>
+     <li>Boesch F., Wang J.-F. Reliable circulant networks with minimum transmission delay, IEEE Trans. Circuits Syst., 1985, vol. 32, no. 12, pp. 1286—1291.</li>
+     <li>Martinez C., Beivide R., Stafford E. et al. Modeling toroidal networks with the Gaussian integers, IEEE Trans. Comput., 2008, vol. 57, no. 8, pp. 1046—1056. DOI: 10.1109/TC.2008.57.</li>
+     <li>Monakhova E. A., Monakhov O. G., Romanov A. Y. Routing Algorithms in Optimal Degree Four Circulant Networks Based on Relative Addressing: Comparative Analysis for Networks-on-Chip, IEEE Trans. Netw. Sci. Eng., 2023, vol. 10, no. 1, pp. 413—425. DOI: 10.1109/TNSE.2022.3211985.</li>
+     <li>Monakhova E. A., Romanov A. Y., Lezhnev E. V. Shortest Path Search Algorithm in Optimal Two-dimensional Circulant Networks: Implementation for Networks-on-Chip, IEEE Access, 2020, vol. 8, pp. 215010—215019. DOI: 10.1109/ACCESS.2020.3040323.</li>
+     <li>Monakhova E. A. Synthesis of optimal Diophantine structures, Vychislitel'nye Sistemy, 1979, no. 80, pp. 18—35 (in Russian).</li>
+     <li>Jha P. K. Dimension-order routing algorithms for a family of minimal-diameter circulants, J. Interconnection Networks, 2013, vol. 14, no. 1, pp. 1350002 (24 p.). DOI: 10.1142/S0219265913500023.</li>
+     <li>Chen B.-X., Meng J.-X., Xiao W.-J. A Constant Time Optimal Routing Algorithm for Undirected Double-Loop Networks, Proceedings of the First Int. Conf. Mobile Ad-hoc and Sensor Networks. MSN 2005, 2005, pp. 309—316. DOI: 10.1007/11599463_31.</li>
+     <li>Jha P. K. Dense bipartite circulants and their routing via rectangular twisted torus, Discrete Appl. Math., 2014, vol. 166, pp. 141—158. DOI: 10.1016/j.dam.2013.09.021.</li>
+     <li>Jha P. K., Smith J. D. Cycle Kronecker products that are representable as optimal circulants, Discrete Appl. Math., 2015, vol. 181, pp. 130—138. DOI: 10.1016/j.dam.2014.08.027.</li>
+     <li>Liu H., Yang Y., Hu M. Tight optimal infinite families of undirected double-loop networks, Systems Engineering Theory and Practice, 2002, vol. 1, pp. 75—79.</li>
+     <li>Monakhova E. A., Monakhov O. G. Evolutionary synthesis of families of optimal two-dimensional circulant networks, Vestnik SibGUTI, 2014, no 2, pp. 72—81 (in Russian).</li>
+     <li>Romanov A. The Dataset for Optimal Circulant Topologies, Big Data Cogn. Comput., 2023, vol. 7, no. 2, article 80. DOI: 10.3390/ bdcc7020080.</li>
+     <li>Karpenko A. P. Modern search engine optimization algorithms. Algorithms inspired by nature, Moscow, Izdatel'stvo MGTU im. N. E. Baumana, 2014, 446 p. (in Russian).</li>
+     <li>Zaheer H., Pant M., Kumar S., Monakhov O., Monakhova E., Deep K. A new guiding force strategy for differential evolution, International Journal of System Assurance Engineering and Management, 2017, vol. 8, suppl. 4, pp. 2170—2183. DOI: 10.1007/s13198-014-0322-6</li>
+ - doi: 15.411-424
+   udk: "004.75"
+   item_authors: Moskalenko Ph. M., Timchenko V. A.
+   item_name: Development of Composite Intelligent Services Operating in a Heterogeneous Environment
+   item_authors_address: |
+     <b>Ph. M. Moskalenko</b>, Senior Researcher, philipmm@iacp.dvo.ru,
+     <b>V. A. Timchenko</b>, Senior Researcher, vadim@iacp.dvo.ru,
+     Institute of automation and control processes FEB RAS, Vladivostok, 690041, Russian Federation,
+     Far-eastern Federal University, Vladivostok, 690922, Russian Federation
+   item_corr_author: "Philip M. Moskalenko, Senior Researcher, Institute of automation and control processes FEB RAS, Vladivostok, 690041, Russian Federation, Far-eastern Federal University, Vladivostok, 690922, Russian Federation E-mail: philipmm@iacp.dvo.ru"
+   item_rec_on: May 07, 2024
+   item_acc_on: June 25, 2024
+   item_annot: |
+     <p>The paper discusses methods, approaches, tools and technologies for composite service development. The expediency of applying the considered principles to create software application of so-called composite artificial intelligence (AI) is noted in order to implement the latter within the "distributed artificial intelligence as a service" (DAIaaS) paradigm. With the participation of the authors, the IACPaaS (Intelligent Applications, Control and Platform as a Service) cloud platform has been created and continues to be actively developed. It is intended for the creation, use and maintenance of multi-agent intelligent services that process ontological knowledge graphs. Currently, the platform provides such cloud service delivery models as PaaS (platform as a service), SaaS (software as a service), DaaS (data as a service) and Desktop as a Service. One of development directions is to provide support for the DAIaaS paradigm. It consists in the designing and implementation of tools that make it possible to use the platform and its services as components of composite applications (including AI ones) operating in a heterogeneous distributed computing environment. As a result, language and software tools were created that allow the development of distributed intelligent systems, some of the components of which are located on the IACPaaS platform, and the rest are located elsewhere. Depending on where the leading component is placed, certain tools and technologies implemented on the platform are used. The article also contains examples of created services for several domains (medicine, transport modeling, laser additive manufacturing) and options for using the platform.</p>
+   item_keywords:  composite service, interaction language, graph knowledge base, intelligent service, distributed artificial intelligence, cloud computing, development technology, IACPaaS platform
+   item_pages: 411-424
+   item_comment: The development of tools of interaction with a hybrid intelligent system to provide modifying imports was carried out within the state assignment on the topic FZNS-2023-0010; the development of methods that provide the interaction of external components with data and services of a multi-agent execution environment was carried out within the state assignment of the Institute of Automation and Control Processes, Far astern Branch of the Russian Academy of Sciences (Theme FWFW-2021-0001).
+   item_citation: "Moskalenko Ph. M., Timchenko V. A. Development of Composite Intelligent Services Operating in a Heterogeneous Environment, Programmnaya Ingeneria, 2024, vol. 15, no. 8, pp. 411—424. DOI: 10.17587/prin.15.411-424."
+   item_references: |
+     <li>Borkus V. Composite Web services are becoming a reality, itWeek, 2004, no. 29, available at: https://www.itweek.ru/infra-structure/article/detail.php?ID=68094 (date of access 05.04.2024) (in Russian).</li>
+     <li>Gerasimov A. Technique for creating composite services based on virtualized network functions, CONNECT WIT, 2016, no. 10, available at: https://www.connect-wit.ru/tehnika-sozdaniya-kompozitnyh-servisov-na-baze-virtualizovannyh-setevyh-funktsij.html (date of access 05.04.2024) (in Russian).</li>
+     <li>Firdaus M., Noh S., Qian Zh., Larasati H. T., Rhee K.-H. Personalized federated learning for heterogeneous data: A distributed edge clustering approach, Mathematical Biosciences and Engineering, 2023,	vol. 20, no. 6, pp. 10725—10740. DOI: 10.3934/mbe.2023475.</li>
+     <li>Farshidi S., Kwantes I. B., Jansen S. Business process modeling language selection for research modelers, Software and Systems Modeling, 2024,	vol. 23, pp. 137—162. DOI: 10.1007/s10270-023-01110-8.</li>
+     <li>Velicogna M., Lupo G. ICT Development and Business Process Modelling in the Legal Domain: The Experience of e-CODEX, European Quarterly of Political Attitudes and Mentalities, 2019, vol. 8, no. 1, pp. 22—47.</li>
+     <li>Ammar N., Malik Z., Medjahed B., Alodib M. K-Anonymity Based Approach for Privacy-Preserving Web Service Selection, 2015 IEEE International Conference on Web Services, New York, NY, USA, 2015, pp. 281—288. DOI: 10.1109/ICWS.2015.46.</li>
+     <li>Stelmah S. Why Composite AI is a Critical Concept, itWeek, 2021, available at: https://www.itweek.ru/ai/article/detail.php7ID = 219809 (date of access 05.04.2024) (in Russian).</li>
+     <li>Gartner named the 12 most promising technologies for next year, Cifromed, 2021, available at: https://www.digitalms.ru/media/news/19/ (date of access 05.04.2024) (in Russian).</li>
+     <li>Gartner Identifies the Top Strategic Technology Trends for 2022, 2021, available at: https://www.gartner.com/en/news-room/press-releases/2021-10-18-gartner-identifies-the-top-strat-egic-technology-trends-for-2022.</li>
+     <li>Janbi N., Katib I., Albeshri A., Mehmood R. Distributed Artificial Intelligence-as-a-Service (DAIaaS) for Smarter IoE and 6G Environments, Sensors, 2020, vol. 20, no. 20, р. 5796. DOI: 10.3390/s20205796.</li>
+     <li>Janbi N., Katib I., Mehmood R. Distributed artificial intelligence: Taxonomy, review, framework, and reference architecture, Intelligent Systems with Applications, 2023, vol. 18, p. 200231. DOI: 10.1016/j.iswa.2023.200231.</li>
+     <li>Smirnov P. A., Kovalchuk S. V., Boukhanovsky A. V. Knowledge-based support for complex systems exploration in distributed problem solving environments, Communications in Computer and Information Science, 2013, vol. 394, pp. 147—161.</li>
+     <li>Melnik M. A., Nasonov D. A., Bukhanovsky A. V. Technology of intelligent organization of the process of executing heterogeneous composite applications in a distributed computing environment, News of higher educational institutions. Instrumentation, 2020, vol. 63, no. 2, pp. 191—193 (in Russian).</li>
+     <li>Oinn T., Addis M., Ferris J. et al. Taverna: a tool for the compo­sition and enactment of bioinformatics workflows, Bioinformatics, 2004, vol. 20, no. 17, pp. 3045—3054. DOI: 10.1093/bioinformatics/bth361.</li>
+     <li>Deelman E., Singh G., Su M. H. et al. Pegasus: A Framework for Mapping Complex Scientific Workflows onto Distributed Systems, Scientific Programming, 2005, vol. 13, no. 3, pp. 219—237.</li>
+     <li>Lackovic M., Talia D., Trunfio P. A framework for composing knowledge discovery workflows in grids, Foundations of Computational Intelligence, 2009, no. 6, pp. 345—369. DOI: 10.1002/cpe.2936.</li>
+     <li>Tolosana-Calasanz R., Banares J. A., Alvarez P. et al. An uncoordinated asynchronous checkpointing model for hierarchical scientific workflows, Journal of Computer and System Sciences, 2010, vol. 76, no. 6, pp. 403—415. 10.1016/j.jcss.2009.11.003.</li>
+     <li>Talia D. Workflow Systems for Science: Concepts and Tools, International Scholarly Research Notices, 2013, vol. 2013. DOI: 10.1155/2013/404525.</li>
+     <li>Alruwaili F. F. Artificial intelligence and multi agent based distributed ledger system for better privacy and security of electronic healthcare records, PeerJ Computer Science, 2020, no. 6, pp. 1—14. DOI: 10.7717/PEERJ-CS.323.</li>
+     <li>Gribova V. V., Moskalenko P. M., Timchenko V. A., Shalfeeva E. A. The IACPaaS Platform for Developing Systems Based on Ontologies: A Decade of Use, Scientific and Technical Information Processing, 2023, vol. 50, no. 5, pp. 406—413. DOI: 10.3103/ S0147688223050064.</li>
+     <li>Gribova V. V., Kleshchev A. S., Moskalenko F. M., Timchenko V. A. A Two-level Model of Information Units with Complex Struc­ture that Correspond to the Questioning Metaphor, Automatic Documentation and Mathematical Linguistics, 2015, vol. 49, no. 5, pp. 172—181.</li>
+     <li>Gribova V. V., Kleshchev A. S., Moskalenko F. M., Timchenko V. A. A Model for Generation of Directed Graphs of Information by the Directed Graph of Metainformation for a Two-Level Model of Information Units with a Complex Structure, Automatic Documentation and Mathematical Linguistics, 2015, vol. 49, no. 6, pp. 221—231.</li>
+     <li>Gribova V., Fedorischev L., Moskalenko Ph., Timchenko V. Interaction of cloud services with external software and its implementation on the IACPaaS platform, CEUR Workshop Proceedings, 2021, vol. 2930, pp. 8—18 (in Russian).</li>
+     <li>Gribova V., Kulchin Y., Nikitin A., Velichko A., Basakin A., Timchenko V. The Concept of Intelligent Support for Laser Additive Manufacturing Process Engineer, Artificial Intelligence in Models, Methods and Applications. AIES 2022. Studies in Systems, Decision and Control, 2023, no. 457, pp. 355—368. DOI: 10.1007/978-3-031-22938-1_25.</li>
+     <li>Thompson S. M., Bianc L., Shamsaeia N., Yadollahi A. An overview of Direct Laser Deposition for additive manufacturing; Part I: Transport phenomena, modeling and diagnostics, Additive Manufacturing, 2015, no. 8, pp. 36—62. DOI: 10.1016/j.addma.2015.07.001.</li>
+     <li>Yadav S., Paul C. P., Jinoop A. N., Rai A. K. et al. Laser Directed Energy Deposition based Additive Manufacturing of Copper: Process Development and Material Characterizations, Journal of Manufacturing Processes, 2020, no. 58, pp. 984—997. DOI: 10.1016/j.jmapro.2020.09.008.</li>
+     <li>Shakhgeldyan K. I., Geltser B. I., Gribova V. V., Shalfeeva E. A., Makarova K. E., Klenin A. S., Guz V. V., Ignatiev V. V., Kosterin V. V., Kovalev R. I., Kuksin N. S., Zdornov O. V., Shcheglov B. O. Telesfor medical decision support system, Pat. RF, № 2023662121, 2023 (in Russian).</li>
+ - doi: 15.425-433
+   udk: "004.9"
+   item_authors: Kotsyuba I. Y., Blinov I. S.
+   item_name: Tourism Application Development with a Recommendation System based on Fuzzy Logic
+   item_authors_address: |
+     <b>I. Y. Kotsyuba</b>, Ph.D. (Technical Science), Associate Professor, igor.kotciuba@gmail.com,
+     <b>I. S. Blinov</b>, Master's Student, isblinov0@outlook.com,
+     ITMO University, Saint Petersburg, 197101, Russian Federation
+   item_corr_author: "Ivan S. Blinov, Masters Student, ITMO University, Saint Petersburg, 197101, Russian Federation E-mail: isblinov0@outlook.com"
+   item_rec_on: May 27, 2024
+   item_acc_on: June 25, 2024
+   item_annot: |
+     <p>The article addresses issues related to the breadth and multifaceted aspects of the tourism industry. It discusses the practical benefits of using recommendation systems based on mobile devices. Mobile applications with recom­mendation systems play an important role in the tourism planning process, offering users personalized suggestions that enhance their travel experience. The main focus of this work is on the use of fuzzy logic as the basis for the rec­ommendation system, which allows for a more flexible and accurate suggestion mechanism that takes into account uncertainties and the diversity of user preferences. The methodology proposed by the authors is based on applying a fuzzy content model to the described problems as an effective extension of the collaborative model. The article describes a method for implementing the recommendation system algorithm, lists the technical tools used to imple­ment the application, presents an activity diagram of the working application, describes the process of searching, preparing, and annotating data used in the working application. The presented software and methodological tools help to solve problems associated with the clear categorization of tourist objects within traditional types of tourism, arising from the broad classification of tourist objects, thereby improving the quality of the tourist experience.</p>
+   item_keywords: tourism, tourism optimization, recommendation systems, collaborative filtering, fuzzy logic, mobile development.
+   item_pages: 425—433
+   item_citation: "Kotsyuba I. Y., Blinov I. S. Tourism Application Development with a Recommendation System based on Fuzzy Logic, Programmnaya Ingeneria, 2024, vol. 15, no. 8. pp. 425—433. DOI: 10.17587/prin.15.425-433. (in Russian)."
+   item_references: |
+     <li>Pajn B. D., Gilmor D. H. Jekonomika vpechatlenij: kak prevratit' pokupku v zahvatyvajushhee dejstvie, Moscow, Al'pina Pab-lisher, 2018, 384 p. (in Russian).</li>
+     <li>World Travel and Tourism Council. Economic Impact Re­search, available at: https://wttc.org/research/economic-impact (date of access 15.01.2024).</li>
+     <li>Kemp S. Digital 2023: Global Overview Report DataReportal Global Digital Insights. DataReportal Global Digital Insights, 2023, available at: https://datareportal.com/reports/digital-2023-global-overview-report (date of access 17.05.2024).</li>
+     <li>Zozulja D. A. Rol' social'nyh media, poiskovyh sistem i mobil'nyh prilozhenij v privlechenii i uderzhanii turistov, Vestnik nauki, 2023, no. 12 (69), pp. 129—134 (in Russian).</li>
+     <li>Cheskidov P. D., Cheskidova M. A. Obzor sushchestvuy-ushchikh podkhodov dlya realizatsii rekomendatel'nykh system, Nauka, tekhnologii, obrazovanie: aktual'nye voprosy, dostizheniya i innovatsii: sborn-ik statei II Mezhdunarodnoi nauchno-prakticheskoi konferentsii, Penza, MTNS "Nauka i Prosveshchenie", 2022, pр. 31—33 (in Russian).</li>
+     <li>Borodin E. I. Obzor rekomendatel'nyh metodov. Sovremennye problemy proektirovaniya, proizvodstva i ekspluatatsii radiotekhnicheskikh sistem: sb. nauch. trudov / otv. redaktor V. E. Dement'ev, Ulyanovsk, UlGTU, 2022, pр. 109—112 (in Russian).</li>
+     <li>Obolenskij D. M., Shevchenko V. I. Obzor sovremennyh metodov postroenija rekomendatel'nyh sistem na osnove kollaborativnoj fil'tracii, Mir komp'juternyh tehnologij: Sbornikstatey vserossiyskoy nauch-notekhnicheskoy konferentsii studentov, aspirantov i molodykh uchenykh, g. Sevastopol', 05—09 April 2021. Sevastopolskiy gosudarstvennyy universitet / nauch. red. E. N. Mashchenko. Sevastopol', SevGU, 2021, pp. 97—102 (in Russian).</li>
+     <li>Kuzina D. M. Razrabotka shemy gibridizacii dlja rekomendatel'nyh sistem v oblasti turizma, Nauka nastojashhego i budushhego, 2019, vol. 1, pp. 40—44 (in Russian).</li>
+     <li>Timirgaleeva R. R., Grishin I. Ju., Matjunina M. V. et al. Razvitie turistskih destinacij: modeli, metody, instrumenty: jelektronnoe nauchnoe izdanie, Majkop, JelIT, 2020, 292 p., available at: https://201824.selcdn.ru/elit-125/pdf/9785604474525.pdf (in Russian) (date of access 18.05.2024).</li>
+     <li>Soliman H., Burlov V. G. Izuchenie vlijanija metodov prinjatija reshenij (Klassicheskij metod, metod iskusstvennogo intellekta) na prostranstvennuju tochnost' v geodannyh v srede GIS, Innovacionnye metody matematiki i fiziki v jekologicheskih i gidrometeoro-logicheskih issledovanijah, 2023: sbornik trudov Vserossiyskoy nauch.-prakt. konf. (07.04.2023) / pod. red. I. V. Zaytsevoy, Saint Peterburg, RGGMU, 2023, pp. 207—221 (in Russian).</li>
+     <li>Molchanova N. V. Turizm kak sredstvo formirovanija tolerant-nosti, Vestnik Krasnojarskogo gosudarstvennogo pedagogicheskogo universiteta im. V. P. Astafeva, 2016, no. 1 (35), pp. 81—84 (in Russian).</li>
+     <li>Ponizovkin D. M. Model' rekomendatel'noj sistemy na nechetkih mnozhestvah kak jeffektivnoe rasshirenie kollaborativnoj modeli, Analitika i upravlenie dannymi v oblastyakh s intensivnym ispol'zovaniem dannykh: sbornik nauchnykh trudov XIXMezhdunar. konf. DAMDID / RCDL'2017, 10—13 October 2017, Moscow, MGU / Pod red. L. A. Kalinichenko, Ya. Manolopulos, N. A. Skvortsova, V. A. Sukhoblina, Moscow, FITs IU RAN, 2017, pp. 118—123 (in Russian).</li>
+     <li>Overpass API, available at: available at: https://wiki.openstreetmap.org/wiki/RU:Overpass_API (date of access 18.05.2024).</li>
+ - doi: 15.434-440
+   udk: "004.942; 004.65"
+   item_authors: Mongush Ch. M., Dalaa S. M., Dash A. A.
+   item_name: "IT Applications for the Tuvan Language: Regional Practices and Future Plans"
+   item_authors_address: |
+     <b>Ch. M. Mongush</b>, Associate Professor, mongushchod91@yandex.ru,
+     <b>S. M. Dalaa</b>, Associate Professor, dalaa@rambler.ru,
+     <b>A. A. Dash</b>, Senior Lecturer, tuvasat17@ya.ru,
+     Tuvan State University, Kyzyl, 667000, Russian Federation
+   item_corr_author: "Choduraa M. Mongush, Associate Professor, Tuvan State University, Kyzyl, 667000, Russian Federation, E-mail: mongushchod91@yandex.ru"
+   item_rec_on: June 05, 2024
+   item_acc_on: July 02, 2024
+   item_annot: |
+     <p>In the era of digitalization and globalization, the likelihood of the disappearance of small languages, including the Tuvan language is very high. One of the reliable and promising solutions for preserving a language is its inclusion in the digital space as a language of accumulation, processing and transmission of information, a language of communication on the Internet. Currently, a number of tasks aimed at preserving and popularizing the Tuvan language are being car­ried out within the framework of the state program to support the development of the Tuvan language in the Republic of Tuva. Various government agencies of the Republic of Tuva and interested IT specialists are working on the digitalization of the Tuvan language. Tuvan State University (TuvSU) also makes a significant contribution to the development and popularization of the Tuvan language. Teachers of the Department of Informatics of TuvSU together with scientists from the Faculty of Philology and the "Turkology" scientific and educational centerwork in the following areas: development of software products for teaching the Tuvan language, creation of software tools for text processing in the Tuvan language, creation of linguistic information resources. Along with TuvSU teachers, students from the faculties of physics, mathematics and philology also take part in this research work. The topics of students' coursework and final qualification papers are related to IT developments. This article presents the experience of research and development of teachers of the Department of Computer Science in the field of preservation, study and development of the Tuvan language using information and communication technologies in these three areas. In the first direction, electronic textbooks, interactive simulators, and mobile applications for teaching the Tuvan language are being developed. The second direction is focused on the creation of software products for processing texts in the Tuvan language — a morphological analyzer of the Tuvan language, program for checking Tuvan texts for plagiarism. The last direction is related to the creation of electronic dictionaries and translators for the Tuvan language, which can be used in all spheres of life.</p>
+   item_keywords: linguistic information resources, IT applications, database management systems, digitalization of the Tuvan language
+   item_pages: 434—440
+   item_citation: "Mongush Ch. M., Dalaa S. M., Dash A. A. IT Applications for the Tuvan Language: Regional Practices and Future Plans, Programmnaya Ingeneria, 2024, vol. 15, no.8, pp. 434—440. DOI: 10.17587/prin.15.434-440. (in Russian)."
+   item_references: |
+     <li>Bavuu-Syuryun M. V. Issues of creating electronic resources of the Tuvan language: some results, urgent tasks and prospects, Novye issledovaniya Tuvy, 2016, no. 4, pp. 4—27 (in Russian).</li>
+     <li>Sulejmanov D. SH. Infocommunication technologies and the Tatar language, Trudy XMezhdunarodnoj konferencii "Komp'yuternaya obrabotka tyurkskih yazykov. TURKLANG 2022", 2022, pp. 41—57 (in Russian).</li>
+     <li>Gatiatullin A. R., Kubedinova L. Sh., Prokop'ev N. A., Abduramanov I. A. Toolkit of the Turkic Morpheme portal for creating electronic corpora of Turkic languages within a single conceptual space, Trudy i materialy III Kazanskogo mezhdunarodnogo lingvis-ticheskogo sammita, 2023, pp. 12—16 (in Russian).</li>
+     <li>Khamroeva Sh. M. Finite state machine model of nouns for Uzbek language morphological analyzer, Trudy X Mezhdunarodnoj konferencii «Komp'yuternaya obrabotka tyurkskih yazykov. TURKLANG 2022», 2022, pp. 153—164.</li>
+     <li>Dalaa S. M. Computers and the Tuvan language: a review of the research works of Tuvan State University, Novye issledovaniya Tuvy, 2016, no. 4, pp. 28—35 (in Russian).</li>
+     <li>Papyn A. S. Tuvan keyboard layout, Novye issledovaniya Tuvy, 2010, no. 1, pp. 19—25 (in Russian).</li>
+     <li>Tuva tanal, Viki FU-Lab, available at: http://wiki.fu-lab.ru/index.php/ (date of access 28.06.2024) (in Russian).</li>
+     <li>Oorzhak Ch.B., Annaj E. K., Ondar Ch.G., Saaya O. M. Functioning of the Tuvan and Russian languages in the Republic of Tuva: an analysis experience, Nauchnoe obozrenie Sayano-Altaya, 2024, no. 1, pp. 64—73. DOI: 10.52782/KRIL.2024.1.41.006 (in Russian).</li>
+     <li>Bavuu-Syuryun M. V., Oorzhak B. Ch., Hertek A. B., Salchak A. Ya. 10 years of successful activity of the scientific and educational center «Turkology» TuvSU, Materialy Mezhdunarodnoj nauchno-prakticheskoj konferencii "Razvitie TuvGU v XXI veke: integraciya obrazovaniya, nauki i biznesa", posvyashchennoj 25-letiyu Tuvinskogo gosudarstvennogo universiteta, 2020, pp. 86—90 (in Russian).</li>
+     <li>Oorzhak Ch. K. The role of the mobile application "Learn to speak Tuvan" in learning your native language, Materialy ezhegodnoj nauchno-prakticheskoj konferencii prepodavatelej, sotrudnikov i aspirantov Tuvinskogo gosudarstvennogo universiteta, posvyashchennoj 25-letiyu Tuvinskogo gosudarstvennogo universiteta, 2021, pp. 14—16 (in Russian).</li>
+     <li>Dalaa S. M. Text processing in the Tuvan language by means of the PHP programming language, Materialy XIII mezhdunarodnoj konferencii, 2013, pp. 182—184 (in Russian).</li>
+     <li>Oficial'nye publikacii, Federal'nyj institut promyshlennoj sobstvennosti, available at: https://www.fips.ru/publication-web/ (date of access 22.05.2024) (in Russian).</li>
