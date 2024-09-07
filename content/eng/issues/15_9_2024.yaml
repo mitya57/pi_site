@@ -1,0 +1,201 @@
+---
+title: Issue N9 2024 year
+content:
+ - doi: 15.443-449
+   udk: "004.4'233"
+   item_authors: Kostiukhin K. A., Samborskii S. V.
+   item_name: Using Hardware Events to Detect Side-Channel Attacks
+   item_authors_address: |
+     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru,
+     <b>S. V. Samborskii</b>, Senior Researcher, sambor@niisi.ras.ru,
+     Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
+   item_corr_author: 'Konstantin A. Kostiukhin, Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on: July 04, 2024
+   item_acc_on: July 08, 2024
+   item_annot: |
+     <p>The article discusses the monitoring system being developed by authors for the detection of Side-Channel Attacks, SCA. The theoretical justification of the chosen method of detecting SCA attacks is given: analysis of hardware events of the target system. The architecture of the monitoring system is described, including low-level data collection processes and an expert system that analyzes the collected data. The results of the proof-of-concept on various classes of SCA-attacks are presented.
+     The paper considers a class of attacks on side-channels that use the processor cache to obtain secret information. A method of countering attacks of this class based on the use of a hardware event mechanism is proposed. As a result of the analysis of existing hardware events, predicates have been built for the Intel architecture, allowing one to identify the suspicious behavior of programs in the Linux OS environment. To test the proposed method, a prototype monitoring system was implemented that successfully coped with the detection of simulated SCA-attacks. The advantages and disadvantages of this method are considered, and the direction of further research is indicated.</p>
+   item_keywords: side-channel attacks, information security, hardware events, expert system, CLIPS
+   item_pages: 443—449
+   item_citation: "Kostiukhin K. A., Samborskii S. V. Using Hardware Events to Detect Side-Channel Attacks, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 443—449. DOI: 10.17587/prin.15.443-449."
+   item_references: |
+     <li>Maurice C. Introduction to micro-architectural attacks. Lecture in Ben Gurion University, Israel, April 30, 2019, available at: https://orenlab.sise.bgu.ac.il/AttacksonImplementation-sCourseBook/06_Cache_Attacks_Guest_Lecture (date of access 26.06.2024).</li>
+     <li>TEMPEST in Action. Digital Interruption, available at: https://www.digitalinterruption.com/tempest-in-action (date of access 26.06.2024).
+     <li>Meltdown and Spectre, available at: https://meltdownattack.com (date of access 26.06.2024).</li>
+     <li>Su Chao, Zeng Qingkai. Survey of CPU Cache-Based Side-Channel Attacks: Systematic Analysis, Security Models, and Countermeasures, Security and Communication Networks, 2021, vol. 2021, article ID 5559552, 15 p. DOI: 10.1155/2021/5559552.</li>
+     <li>Limin Wang, Lei Bu, Fu Song. SCAGuard: Detection and Classification of Cache Side-Channel Attacks via Attack Behavior Modeling and Similarity Comparison. Technical Report No. NJU-SEG-2023-IC-003, Nanjing University, 2023, available at: https://seg.nju.edu.cn/uploadPublication/copyright/123-652778460.pdf (date of access 26.06.2024).</li>
+     <li>Spectre vulnerability check, available at: https://github.com/adrb/public/tree/master/linux/spectre_multiarch (date of access 26.06.2024).</li>
+     <li>OProfile, available at: https://oprofile.sourceforge.io (date of access 26.06.2024).</li>
+     <li>PAPI User's Guide, available at: http://icl.cs.utk.edu/papi (date of access 26.06.2024).</li>
+     <li>Perf: Linux profiling with performance counters, available at: https://perf.wiki.kernel.org/index.php/Main_Page (date of access 26.06.2024).</li>
+     <li>Mastik: A Micro-Architectural Side-Channel Toolkit, available at: https://github.com/0xADE1A1DE/Mastik (date of access 26.06.2024).</li>
+     <li>Processor model specific performance counter events, available at: https://illumos.org/man/3CPC/tgl_events (date of access 26.06.2024).</li>
+     <li>Ferracci S. Detecting Cache-based Side Channel Attacks using Hardware Performance Counters. Master's thesis. Sapienza — University of Rome, 2019, available at: https://www.alessandropellegrini.it/publications/tFerr19.pdf (date of access 26.06.2024).</li>
+     <li>Tatar A., Trujillo D., Giuffrida C., Bos H. TLB;DR: Enhancing TLB-based Attacks with TLB Desynchronized Reverse Engineering, 31st USENIX Security Symposium, 10—12 August 2022, Boston, MA, USA, 2022, pp. 989—1007, available at: https://www.usenix.org/system/files/sec22fall_tatar.pdf (date of access 26.06.2024).</li>
+     <li>CLIPS, C Language Integrated Production System, available at: https://www.clipsrules.net (date of access 26.06.2024).</li>
+ - doi: 15.450-464
+   udk: "004.82 303.725.23"
+   item_authors: Kostenko K. I.
+   item_name: Formalization of Elements and Control Schemes in Intelligent System Models
+   item_authors_address: |
+     <b>K. I. Kostenko</b>, Associate Professor, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation
+   item_corr_author: "Konstantin I. Kostenko, Associate Professor, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru"
+   item_rec_on: December 24, 2023
+   item_acc_on: July 10, 2024
+   item_annot: |
+     <p>The purpose of the work is to formalize the concepts and principles that form the basis of the mathematical model for controlling the life cycles of intelligent systems. The controlling elements formal description is part of a universal model of such systems. This model part is important for implementing complex intelligent systems with a large amount and diversity of knowledge flows and knowledge processing schemes performed simultaneously. The other two areas of this model are associated with a unified logical-algebraic description of the concept of knowledge representation formalism, as well as concepts related to the architecture of intelligent systems. Formalization of ideas about control in intelligent systems is carried out according to the principle of a hierarchy of controlling elements and processes. The elements of the mathematical model that implements this principle correspond to event-controlled automata with infinite memory and associated algorithms for the automata simulation in specific systems. The objectives of the research include the development of formats for describing the hierarchy of diagrams and assemblies of control elements in a universal model of an intelligent system, and diagrams of algorithms for the functioning of intelligent systems based on the processing of model descriptions. Models of intelligent system control elements hierarchy and execution algorithms for the sets of activated control elements for the implementation time of life cycles of intelligent systems are described by extending the special ontological structures. These structures implement customizations of universal control model</p>
+   item_keywords: intelligent system, control element, control hierarchy, ontological model, mathematical model executor, assembly of control elements
+   item_pages: 450—464
+   item_citation: "Kostenko K. I. Formalization of Elements and Control Schemes in Intelligent System Models, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 450—464. DOI: 10.17587/prin.15.450-464 (in Russian)."
+   item_references: |
+     <li>Kostenko K. I. Core invariants of the intelligent system's mathematical model, Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 174—188. DOI: 10.17587/prin.12.157-168 (in Russian).</li>
+     <li>Mesarovic M., Takahara Y. General Systems Theory: Mathematical Foundations (Mathematics in Science and Engineering), Elsevier, 1975, 322 p.</li>
+     <li>Burgin M. Theory of Knowledge: Structures and Processes, World Scientific, 2017, 948 p.</li>
+     <li>Kostenko K. I. Operations of formalized knowledge cognitive synthesis, Programmnaya Ingeneria, 2018, vol. 9, no 4, pp. 174—184. DOI: 10.17587/prin.9.174-184 (in Russian).</li>
+     <li>Kostenko K. I. Principles of Customization for Models of Complexly Organized Intelligent Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 123—136. DOI: 10.17587/prin.14.123-136 (in Russian).</li>
+     <li>Wooldridge M. Intelligent Agents, Multiagent Systems (A Modern Approach to Distributed Modern Approach to Artificial Intelligence) / Eds by G. Weiss, The MIT Press, April 1999, pp. 27—122.</li>
+     <li>Tarasov V. B. From multiagent systems to intelligent organizations: Philosophy, psychology, and informatics, Moscow, Editorial URSS, 2002, 352 p. (in Russian).</li>
+     <li>Kostenko K. I. Regular Memory Structures and Operation Domains of Intelligent Systems, Programming and Com­puter Software, 2023, vol. 49, no. 8, pp. 881—893. DOI: 10.1134/S036176882308011X.</li>
+     <li>Kostenko K. I. The knowledge synthesis in memory structures complexly organized intelligent systems, Ecological Bulletin of Research Centers of the Black Sea Economic Cooperation, 2022, vol. 19, no. 4, pp. 9—19. DOI: 10.31429/vestnik-19-4-9-19 (in Russian).</li>
+ - doi: 15.465-475
+   udk: "004.89, 004.43"
+   item_authors: Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulia T. I.
+   item_name: Using Large Language Models to Classify Some Vulnerabilities in Program Code
+   item_authors_address: |
+     <b>V. V. Shvyrov</b>, Associate Professor, slshj@yandex.ru,
+     <b>D. A. Kapustin</b>, Associate Professor, kap-kapchik@mail.ru,
+     <b>R. N. Sentyay</b>, Senior Lecturer, sentyayroman@yandex.ru,
+     <b>T. I. Shulika</b>, Assistant, shulika-tatyana@mail.ru,
+     Lugansk State Pedagogical University, Lugansk, 91011, Russian Federation
+   item_corr_author: 'Denis A. Kapustin, Associate Professor, Lugansk State Pedagogical University, Lugansk, 91011, Russian Federation, E-mail: kap-kapchik@mail.ru'
+   item_rec_on: June 20, 2024
+   item_acc_on: July 23, 2024
+   item_annot: |
+     <p>The paper studies the effectiveness of using large language models to detect common types of vulnerabilities in Python program code. In particular, using the technique of low-rank adaptation of (LoRA) models, fine-tuning of the CodeBERT-python model is performed. To train the models, we use the author's dataset, which consists of marked-up program code in Python.
+     The trained models are used to detect and classify potential vulnerabilities. To evaluate the effectiveness of models, the number of false positives, false negatives, true positives and true negatives is determined. Also, accuracy, recall and F1-measures are calculated on a test data set for various configurations of model training macro parameters.</p>
+   item_keywords: language models, machine learning, static analysis, CodeBERT-python, LoRA, CWE, Transformer
+   item_pages: 465—475
+   item_citation: 'Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulia T. I. Using Large Language Models to Classify Some Vulnerabilities in Program Code, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 465—475. DOI: 10.17587/prin.15.465-475 (in Russian).'
+   item_references: |
+     <li>Cousot P., Cousot R. Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, 1977, pp. 238—252. DOI: 10.1145/512950.512973.</li>
+     <li>Allen F. Control flow analysis, ACM SIGPLAN Notices, 1970, vol. 5, issue 7, pp. 1—19. DOI: 10.1145/800028.808479.</li>
+     <li>Shalaginov A., Banin S., Dehghantanha A., Franke K. Machine Learning Aided Static Malware Analysis: A Survey and Tutorial, Advances in Information Security, 2018, vol. 70, pp. 7—45. DOI: 10.1007/978-3-319-73951-9_2.</li>
+     <li>Common Weakness Enumeration, available at: https://cwe. mitre.org/about/index.html (date of access 26.05.2024).</li>
+     <li>Threat Data Bank, available at: https://bdu.fstec.ru/threat? ysclid=lwna64j8nq760938681 (date of access 26.05.2024).</li>
+     <li>Rasheed Z., Sami M., Waseem M. et al. AI-powered Code Review with LLMs: Early Results, ArXiv, abs/2404.18496v1, 2024. DOI: 10.48550/arXiv.2404.18496.</li>
+     <li>Fan A., Gokkaya B., Harman M. et al. Large language mod­els for software engineering: Survey and open problems, 2023 IEEE/ ACM International Conference on Software Engineering: Future of Software Engineering (ICSE-FoSE), Melbourne, Australia, 2023, pp. 31—53. DOI: 10.1109/ICSE-FoSE59343.2023.00008.</li>
+     <li>Chen M., Tworek J., Jun H. et al. Evaluating large language models trained on code, ArXiv, abs/2107.03374, 2021.</li>
+     <li>Li H.-Y., Shi S.-T., Thung F. et al. Deepreview: automatic code review using deep multi-instance learning, Advances in Knowl­edge Discovery and Data Mining. 23rd Pacific-Asia Conference, PAK-DD 2019, Macau, China, April 14—17, 2019, Proceedings, Part II 23, Springer, pp. 318—330. DOI: 10.1007/978-3-030-16145-3_25.</li>
+     <li>Jeon S., Kim H. AutoVAS: An automated vulnerability analysis system with a deep learning approach, Computers & Security, 2021, vol. 106, article 102308. DOI: 10.1016/j.cose.2021.102308.</li>
+     <li>Sabetta A., Bezzi M. A practical approach to the automatic classification of security-relevant commits, IEEE International conference on software maintenance and evolution (ICSME), IEEE, 2018, pp. 579—582. DOI: 10.1109/ICSME.2018.00058.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Advances in Neural Information Processing Systems, 2017, pp. 5998—6008.</li>
+     <li>Hugging Face. Models, available at: https://huggingface.co/models (date of access 12.12.2023).</li>
+     <li>Pu G., Jain A., Yin J., Kaplan R. Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs, ArXiv, abs/2304.14999. 2023. DOI: 10.48550/arXiv.2304.14999.</li>
+     <li>Brian L., Rami A.-R., Noah C. The power of scale for parameter-efficient prompt tuning, ArXiv, abs/2104.08691, 2021.  DOI: 10.18653/v1/2021.emnlp-main.243.</li>
+     <li>Hu E., Shen Y., Wallis P. et al. LoRA: Low-Rank Adapta­tion of Large Language Models, ArXiv, abs/2106.09685, 2021.</li>
+     <li>Zhao J., Wang T., Abid W. et al. LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report, ArXiv, abs/2405.00732, 2024. DOI: 10.48550/arXiv.2405.00732.</li>
+     <li>Shazeer N., Mirhoseini A., Maziarz K. et al. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, ArXiv, abs/1701.06538, 2017.</li>
+     <li>Wu X., Huang S., Wei F. Mixture of LoRA Experts, ArXiv,  abs/2404.13628, 2024. DOI: 10.48550/arXiv.2404.13628.</li>
+     <li>Zadouri T., Ustun A., Ahmadian A. et al. Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning, ArXiv, abs/2309.05444, 2023. DOI: 10.48550/arXiv.2309.05444.</li>
+     <li>Liu Z., Wang H., Kang Y., Wang S. Mixture of Low-rank Experts for Transferable AI-Generated Image Detection, ArXiv, abs/2404.04883, 2024. DOI: 10.48550/arXiv.2404.04883.</li>
+     <li>Huang C., Liu Q., Lin B. et al. LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition, ArXiv, abs/2307.13269, 2023. DOI: 10.48550/arXiv.2307.13269.</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pre-training of deep bidirectional transformers for language understanding, Proc. Conf. North Amer. Chapter Assoc. Comput. Linguistics: Hum. Lang. Technol, 2019, pp. 4171—4186. DOI: 10.18653/v1/N19-1423.</li>
+     <li>Kapustin D., Shvyrov V., Shulika T. Static Analysis of Corpus of Source Codes of Python Applications, Program Comput. Soft., 2023, vol. 49, pp. 302—309. DOI: 10.1134/S0361768823040072.</li>
+     <li>Welcome to the Bandit documentation! Bandit documentation, available at: https://bandit.readthedocs.io/en/latest/ (date of access 26.05.2024).</li>
+     <li>Secure, Reliable, and Intelligent Systems Lab / SRI Group Website, available at: https://www.sri.inf.ethz.ch / (date of access 26.05.2024).</li>
+     <li>Shvyrov V., Kapustin D., Kushchenko A., Sentyay R. Large language models fine-tuning with the LoRA technique to solve problems of static analysis of program code, Bulletin of the Luhansk State Pedagogical University named V. Dahl, 2023, no 12 (78), pp. 210—215 (in Russian).</li>
+     <li>Zhou S., Alon U., Agarwal S., Neubig G. CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code, Conference on Empirical Methods in Natural Language Processing, 2023. DOI: 10.48550/arXiv.2302.05527.</li>
+     <li>Feng Z., Guo D., Tang D. et al. CodeBERT: A PreTrained Model for Programming and Natural Languages, ArXiv, abs/2002.08155, 2020. DOI: 10.18653/v1/2020.findings-emnlp.139.</li>
+     <li>codeparrot/github-code Datasets at Hugging Face, available at: https://huggingface.co/datasets/codeparrot/github-code (date of access 26.05.2024).</li>
+     <li>Transformers model to LoRA target module mapping, available at: https://github.com/huggingface/peft/blob/632997d1fb776c3cf05d8c2537ac9a98a7ce9435/src/peft/utils/other.py#L202 (date of access 26.05.2024).</li>
+     <li>Stehman S. Selecting and interpreting measures of thematic classification accuracy, Remote Sensing of Environment, 1997, vol. 62, no. 1, pp. 77—89. DOI: 10.1016/S0034-4257(97)00083-7.</li>
+ - doi: 15.476-484
+   udk: "004.42, 004.82"
+   item_authors: Shulga T. E., Khramov D. E.
+   item_name: Software System Architecture for Estimating Software Development Time
+   item_authors_address: |
+     <b>T. E. Shulga</b>, Professor, taiss@yandex.ru,
+     <b>D. E. Khramov</b>, Postgraduate Student, dmitriy-hramov@list.ru,
+     Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation
+   item_corr_author: 'Tatiana E. Shulga, Professor, Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation, E-mail: taiss@yandex.ru'
+   item_rec_on: April 29, 2024
+   item_acc_on: July 16, 2024
+   item_annot: |
+     <p> The article is devoted to the issues of estimating the duration of software development, the solution of which can significantly improve the efficiency of software projects. The relevance of the topic is conditioned by the rapid development of software development methodologies, on which the existing algorithms of such estimation depend, and, as a consequence, by the rapid obsolescence of approaches to solving this problem. A systematic analysis of the main algorithms for estimating software development duration is carried out. The classification of such algorithms is presented. The algorithm of software development duration estimation and the idea of the system implementing it, which will allow end users to automate this process, are proposed. The approaches to implementation of algorithms of retrospective (historical) estimation, PERT, expert estimation are considered. The prospectivity of researches in the field of implementation of methods of expert evaluation using neural networks is shown. The architecture of the proposed system is described. A prototype of the system implementing the method of retrospective evaluation based on the evaluation of the speed of the development team is developed.</p>
+   item_keywords: software development duration estimation algorithms, classification of algorithms, historical estimation, PERT, system analysis, neural networks, prediction problem, software development team speed.
+   item_pages: 476—484
+   item_citation: "Shulga T. E., Khramov D. E. Software System Architecture for Estimating Software Development Time, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 476—484. DOI: 10.17587/prin.15.476-484. (in Russian)."
+   item_references: |
+     <li>GOST R ISO/MEK 12207—2010. Informacionnaya tekhnologiya. Sistemnaya i programmnaya inzheneriya. Processy zhiznennogo cikla programmnyh sredstv, Moscow, Standartinform, 2011, 99 p. (in Russian).</li>
+     <li>CHAOSREPORT 2015, available at: https://www.standish-group.com/sample_research_files/CHAOSReport2015-Final.pdf (date of access 18.06.24).</li>
+     <li>Bakhirkin M. V. Decision support system for predicting software systems development cycle time: avtoref. ... dis. kan. tekh. nauk. Moscow, 2016. 22 p. (in Russian).</li>
+     <li>Policyn S. A. Development of special mathematical and algorithmic support for an analysis and decision-making system when managing software development projects: avtoref. ... dis. kan. tekh. nauk, Moscow, 2017, 20 p. (in Russian).</li>
+     <li>Galorath D., Evans M. Software Sizing, Estimation, and Risk Management: When Performance is Measured Performance Improves. CRC Press, 2006, 576 p. DOI: 10.1201/9781420013122.</li>
+     <li>Sytnik A. A., Shul'ga T. E., Danilov N. A. Ontology of the subject area "Software Usability", Trudy instituta sistemnogo programmirovaniya RAN, 2018, vol. 30, no. 2, pp. 195—214. DOI: 10.15514/ ISPRAS-2018-30(2)-10 (in Russian).</li>
+     <li>Shul'ga, T. E., Khramov D. E. Software Development Life Cycle Ontology, Vestnik Astrakhanskogo gosudarstvennogo tekhnicheskogo universiteta. Seriia: Upravlenie, vychislitel'naia tekhnika i informatika, 2023, no. 2, pp. 66—74. DOI: 10.24143/2072-9502­2023-2-66-74 (in Russian).</li>
+     <li>Murtazina M. Sh. Decision support system for a flexible approach to requirements engineering based on owl ontology, Vestnik Astrahanskogo gosudarstvennogo tekhnicheskogo universiteta. Seriya: Upravlenie, vychislitel'naya tekhnika i informatika, 2018, vol. 2018, no. 4, pp. 43—55. DOI: 10.24143/2072-9502-2018-4-43-55 (in Russian).</li>
+     <li>Brennan M. PERT and CPM: a Selected Bibliography, Committee of Planning Librarians. Exchange bibliography no. 53. Council of Planning Librarians. 1968.</li>
+     <li>Cohn M. Agile Estimating and Planning, Upper Saddle River, NJ, USA, Prentice Hall, 2005, 368 p.</li>
+     <li>Schofield C., Shepperd M. Estimating software project effort using analogy, Software Engineering, IEEE Transactions on, 1997, vol. 1, pp. 736—743. DOI: 10.1109/32.637387.</li>
+     <li>Marza V., Seyyedi M. A. Fuzzy Multiple Regression Model for Estimating Software Development Time, International Journal of Engineering Business Management, 2009, vol. 1. DOI: 10.5772/6775.</li>
+     <li>Garcia-Diaz N., Garcia-Virgen J., Farias-Mendoza N. et al. Software development time estimation based on a new Neuro-fuzzy approach, 2015 10th Iberian Conference on Information Systems and Technologies (CISTI), Aveiro, Portugal, 2015, рр. 1—7. DOI: 10.1109/CISTI.2015.7170378.</li>
+     <li>Hamada M., Abdallah A., Kasem M., Mahmoud M. Neural Network Estimation Model to Optimize Timing and Schedule of Software Projects, 2021 IEEE International Conference on Smart Information Systems and Technologies (SIST), 2021, pp. 1—7. DOI: 10.1109/SIST50301.2021.9465887.</li>
+     <li>Lopez-Martfn С., Abran A. Neural networks for predicting the duration of new software projects, Journal of Systems and Software, 2015, vol. 101, рр. 127—135. DOI: 10.1016/j.jss.2014.12.002.</li>
+     <li>Pospieszny P., Czarnacka-Chrobot B., Kobylinski A. An effective approach for software project effort and duration estimation with machine learning algorithms, The Journal of Systems & Software, 2018, vol. 137, pp. 184—196. DOI: 10.13140/ RG.2.2.15248.30724.</li>
+     <li>Tkinter — Python Wiki, available at: https://wiki.python.org/moin/TkInter (date of access 23.10.2023).</li>
+     <li>Riverbank Computing | Introduction, available at: https://riverbankcomputing.com/software/pyqt/intro (date of access 23.10.2023).</li>
+     <li>Python UY | Design GUI with Python | Python Bindings for Qt, available at: https://www.qt.io/qt-for-python (date of access 13.11.2023).</li>
+     <li>Python GUI, PyQt vs TKinter, available at: https://dev.to/amigosmaker/python-gui-pyqt-vs-tkinter-5hdd (date of access 23.10.2023).</li>
+     <li>PyQt vs. Tkinter — Which Should You Choose for Your Next GUI Project? available at: https://www.pythonguis.com/faq/pyqt-vs-tkinter/ (date of access 20.10.2023)</li>
+ - doi: 15.485-496
+   udk: "004.05"
+   item_authors: Shelekhov V. I.
+   item_name: Automata-based Model of Scientific Activity
+   item_authors_address: |
+     <b>V. I. Shelekhov</b>, Head of Laboratory, vshel@iis.nsk.su,
+     A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+   item_corr_author: 'Vladimir I. Shelekhov, Head of Laboratory, A. P. Ershov Institute of Informatics Systems, 630090, Novosibirsk, Russian Federation, E-mail: vshel@iis.nsk.su'
+   item_rec_on: April 15, 2024
+   item_acc_on: July 23, 2024
+   item_annot: |
+     <p>The automata model of scientific activity is defined as an extension of the automata model of arbitrary activity. The automata model is built hierarchically and consists of a static part in the form of a set of data sections and a dynamic part defining a set of model processes. The structure of arbitrary activity is considered from the perspective of requirements engineering. To describe the structure of objects, a new data type is introduced: tree set. Tree sets of objects and activities are defined in the activity model. Science as a whole has a hierarchical tree structure and is defined as a tree set of scientific disciplines. The objects of the model of scientific activity are a theory and a set of scientific projects for each scientific discipline. The organisation of scientific activity in Russia is still inefficient. As an alternative, an organisation based on a portfolio of scientific projects formed by a team of leaders for each scientific discipline is considered. The team of leaders is created and updated in accordance with the principle of maximum competence. The apparatus of formal methods and requirements engineering is used to build a model of scientific activity. The static part of the model proposed by the author is formalised.</p>
+   item_keywords: science of science, automata-based engineering, control system, requirement engineering, system engineering, formal methods, ontology, agent-based model
+   item_pages: 485—496
+   item_citation: "Shelekhov V. I. Automata-based Model of Scientific Activity, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 485—496. DOI: 10.17587/prin.15.485-496. (in Russian)."
+   item_references: |
+     <li>Shelekhov V. I., Tumurov E. G. Automata-based Software Engineering for Control System Design and Verification, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 73—86. DOI: 10.17587/prin.15.73-86 (in Russian).</li>
+     <li>Shelekhov V. I., Tumurov E. G. Applying Automata-based Software Engineering for the Lift Control Program, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 99—111 DOI: 10.17587/prin.8.99-111 (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based Program Optimization by Applying Requirement Transformations, Programmnaya Ingeneria, 2015, no. 11, pp. 3—13 (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based software engineering: the language and development methods, Programmnaya Ingeneria, 2014, no. 4, pp. 3—15. DOI: 10.17587/prin.8.99-111 (in Russian).</li>
+     <li>Levenchuk A. I. Systemic thinking: Textbook, Tollman, 2019, 534 p. (in Russian).</li>
+     <li>Abrial J.-R. Modeling in Event-B: System and Software Engineering, Cambridge University Press, 2010, 586 p.</li>
+     <li>Systems and software engineering — Life cycle processes — Requirements engineering. ISO/IEC/ IEEE 29148:2018, 2018.</li>
+     <li>Shelekhov V. I. Program Classification in Software Engineering, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 531—538. DOI: 10.17587/prin.7.531-538 (in Russian).</li>
+     <li>Hoare C. A. R. An axiomatic basis for computer programming, Communications of the ACM, 1969, vol. 12, no. 10, pp. 576— 585. DOI: 10.1145/363235.363259.</li>
+     <li>Makarov V. L., Bakhtizin A. R. New toolkit in social sciences — agent-based models: general description and specific examples, Economics and Management, 2009, no. 12, pp. 13—25 (in Russian).</li>
+     <li>Abramov V. I., Kudinov A. N., Evdokimov D. S. Application of social modelling using agent-based approach in the application to scientific and technological development, R&D implementation and maintenance of innovation potential, Vestnik VGUIT, 2019, vol. 81, no. 3, pp. 339—359. DOI: 10.20914/2310-1202-2019-3-339-359 (in Russian).</li>
+     <li>Zagorulko Yu. A. Construction of scientific knowledge portals on the basis of ontology, ZhVT, 2007, vol. 12, no. 2, pp. 169—177 (in Russian).</li>
+     <li>Zagorulko Yu. A., Borovikova O. I., Zagorulko G. B. Organisation of meaningful access to information resources on the basis of ontologies, Electronic libraries: promising methods and technologies, electronic collections, Proc. of 9th Russian Scientific Conference RCDL'2007, Pereslavl-Zalesskiy, 2007, vol. 1, pp. 217—224 (in Russian).</li>
+     <li>Agent-Based Modeling in the Philosophy of Science, Stanford Encyclopedia of Philosophy, 2023, available at: https://plato.stanford. edu/entries/agent-modeling-philscience/ (date of access 25.06.2024).</li>
+     <li>Wright S. The Roles of Mutation, Inbreeding, Crossbreeding, and Selection in Evolution, Sixth International Congress on Genetics, 1932, vol. 1, pp. 356—366.</li>
+     <li>Devyatkin D., Nechaeva E., Suvorov R., Tikhomirov I. Formation of scientific landscape in the field of agricultural sciences, Foresight, vol. 12, no. 1, 2018, pp. 69—78. DOI: 10.17323/2500­2597.2018.1.69.78 (in Russian).</li>
+     <li>Grimm V., Railsback S. F., Vincenot C. E. et al. The ODD Protocol for Describing Agent-Based and Other Simulation Models: A Second Update to Improve Clarity, Replication, and Structural Realism, Journal of Artificial Societies and Social Simulation, 2020, vol. 23, no. 2, article 7. DOI: 10.18564/jasss.4259.</li>
+     <li>Tsioptsias N., Tako A., Robinson S. Model Validation and Testing in Simulation: a Literature Review, Open Access Series in Informatics (OASIcs), 2016, vol. 50, pp. 6:1—6:11.</li>
+     <li>Niazi M., Hussain A., Kolberg M. Verification and Validation of Agent-Based Simulation using the VOMAS approach, Multi-Agent Systems and Simulation'09 (MASS '09), 2009, 7 p.</li>
+     <li>Niazi M., Hussain A. A Novel Agent-Based Simulation Framework for Sensing in Complex Adaptive Environments, IEEE Sensors Journal, 2011, vol. 11, no. 2, pp. 404—412. DOI: 10.1109/JSEN.2010.2068044.</li>
+     <li>Kefalas P., Holcombe M., Eleftherakis G., Gheorghe M. A Formal Method for the Development of Agent-Based Systems, Intelligent Agent Software Engineering, 2003, pp. 68—98. DOI: 10.4018/978-1-59140-046-2.ch004.</li>
+     <li>Jemni Ben Ayed L., Siala F. Event-B based Verification of Interaction Properties, Multi-Agent Systems, J. Softw., 2009, vol. 4, no. 4, pp. 357—364.</li>
+     <li>Jarrar A., Ait Wakrime A., Balouki Y. Formal approach to model complex adaptive computing systems, Complex Adapt Syst Model., 2020, vol. 8, article 3, 35 p. DOI: 10.1186/s40294-020-0069-7.</li>
+     <li>Parfenova S. L. Network model of scientific activity organization, Nauka. Innovations. Education, 2014, vol. 9, no. 2, pp. 78—89.</li>
+     <li>OKVED — Russian Classifier of Economic Activities, 2022, available at: https://www.regfile.ru/okved2.html (date of access 25.06.2024).</li>
+     <li>Ross T., Kardas M., Cucurull G., Scialom T., Hartshorn A., Saravia E., Poulton A., Kerkez V., Stojnic R. Galactica: A large language model for science. arXiv:2211.09085. 2022, 58 p.</li>
+     <li>Krivoruchko V. V. On key actions for further reforming Russian science, Science Management: Theory and Practice, 2021, vol. 3, no. 4, pp. 36—43. DOI: 10.19181/smtp.2021.3.4.4.4</li>
+     <li>Todosiychuk A. V. Science management in non-stationary economy, Science Studies, 2022, no. 3, pp. 71—85.</li>
+     <li>Index of branches of science, Wikipedia, available at: https:// en.wikipedia.org/wiki/Index_of_branches_of_science (date of access 25.06.2024).</li>
+     <li>Computing Curricula 2020: Paradigms for Global Computing Education, CC2020 Task Force Steering Committee; Gal-Ezer, Judith. Association for Computing Machinery (ACM) IEEE Computer Society (IEEE-CS), 2020.</li>
+     <li>Categories within Computer Science, Cornell University, 2023, available at: https://arxiv.org/archive/cs (date of access 25.06.2024).</li>
+     <li>Proydakov E. M. Tree of computer sciences, Naukovedcheskie issledovaniya, 2012, no. 2012, pp. 120—137.</li>
+     <li>Sadovnichiy V. A., Vasenin V. A. Intellectual system of thematic research of scientometric data: prerequisites of creation and methodology of development. Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58.</li>
+     <li>Kozitsyn A. S., Shachnev D. A. Towards creation of a system for determining the authority of conferences on the basis of scientometric data, Knowledge—Ontology—Theories (ZONT-23), Novosibirsk, IM SB RAS, 2023, pp. 160—168.</li>
+     <li>Lewin K., Lippitt R., White R. Patterns of aggressive behavior in experimentally created social climates, The Journal of Social Psychology, 1939, pp. 271—301.</li>
+     <li>Abakumova I. V., Elagina M. Y., Pronenko E. A., Nikonova D. Y. Semantic aspects of team interaction management, Young Researcher of Don, 2019, vol. 19, no. 4, pp. 121—126.</li>
