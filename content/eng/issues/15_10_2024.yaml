@@ -1,0 +1,173 @@
+---
+title: Issue N10 2024 year
+content:
+ - doi: 15.499-508
+   udk: "004.622:519.254"
+   item_authors: Bogoiavlenskaia O. Yu.
+   item_name: Fuzzy Method for Preliminary Classification of the Micro-Electromechanical Systems Data
+   item_authors_address: |
+     <b>O. Yu. Bogoiavlenskaia</b>, Associate Professor, olbgvl@cs.petrsu.ru,
+     Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: "Olga Yu. Bogoiavlenskaia, Associate Professor, Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: olbgvl@cs.karelia.ru"
+   item_rec_on: July 15, 2024
+   item_acc_on: August 20, 2024
+   item_annot: |
+     <p>Data of micro-electromechanical systems (sensors) are widely used in modern multipurpose intellectual environments, autonomous mobile robots and automated systems possessing intellectual components. Since the amount of data delivered by the sensors is rather considerable and their significance varies we propose a fuzzy method of the data preliminary classification aimed at selection of the data important for the planning and control decisions while meaningless data or data that do not contain new information are discarded. As a result the amount of the resource intensive intellectual processing and the workload in the network infrastructure could be reduced significantly. The paper presents the analysis for the preliminary classification problem, the abstract model of a sensor and classification method. The method is based on the delay which is controlled by multiplicative decrease additive increase rule and expresses the expectation of the context uncertainty. The delay decreases if the variables measured by the sensor presumably change and increases if it keep its value. Numerical examples are presented as well. They consider the set of mount chest accelerometer uncalibrated measurements. We compare source data set and set of the selected values formed by an algorithm implementing fuzzy preliminary classification. Several metrics were used to compare the selected values with the source data and with CMA filter as well.</p>
+   item_keywords: sensor, intellectual environment, data classification, time series, delay, algorithm, metrics, data analysis, accelerometer, modeling
+   item_pages: 499—508
+   item_citation: "Bogoiavlenskaia O. Yu. Fuzzy Method for Preliminary Classification of the Micro-Electromechanical Systems Data, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 499—508. DOI: 10.17587/prin.15.499-508 (in Russian)."
+   item_references: |
+     <li>Krishnamurthi R., Kumar A., Gopinathan D. et al. An Overview of IoT Sensor Data Processing, Fusion, and Analysis Tech­niques, Sensors, 2020, vol. 20, no. 21, article 6076. DOI: 10.3390/s20216076.</li>
+     <li>Korzun D., Balandina E., Kashevnik A. et al. Ambient Intelligence Services in IoT Environments: Emerging Research and Opportunities, IGI Global, 2021, 199 p. DOI: 10.4018/978-1-5225-8973-0.</li>
+     <li>Syafrudin M., Alfian G., Fitriyani N.-L., Rhee J. Performance Analysis of IoT-Based Sensor, Big Data Processing, and Machine Learning Model for Real-Time Monitoring System in Automotive Manufacturing, Sensors, 2018, vol. 18, article 946. DOI: 10.3390/s18092946.</li>
+     <li>Urblik L., Erik K., Peter P., Iveta Z. A Modular Framework for Data Processing at the Edge: Design and Implementation, Sensors, 2023, vol. 23, no. 17, article 7662. DOI: 10.3390/s23177662.</li>
+     <li>Barber R., Crespo J., Gomez C. et al. Mobile Robot Navigation in Indoor Environments: Geometric, Topological, and Semantic Navigation, Applications of Mobile Robots, IntechOpen, 2019, avail­able at: https://www.intechopen.com/books/722710 (date of access 14.07.2024).</li>
+     <li>Zhu Т., Dhelim S., Zhou Zh. et al. An architecture for aggregating information from distributed data nodes for industrial internet of things, Computers & Electrical Engineering, 2017, vol. 58, pp. 337—349. DOI: 10.1016/j.compeleceng.2016.08.018.</li>
+     <li>Kanawaday A., Sane A. Machine learning for predictive maintenance of industrial machines using IoT sensor data, 2017 8th IEEE International Conference on Software Engineering and Service Science (ICSESS), Beijing, China, 2017, pp. 87—90. DOI: 10.1109/ICSESS.2017.8342870.</li>
+     <li>Bogoiavlenskaia O., Korzun D. Intelligent Data Selection in Autonomous Robot Movement, 2021 29th Conference of Open Innovations Association (FRUCT), Tampere, Finland, 2021, pp. 49—54, DOI: 10.23919/FRUCT52173.2021.9435576.</li>
+     <li>Casale P., Pujol O., Radeva P. Activity Recognition from Single Chest-Mounted Accelerometer. UCI Machine Learning Repository. DOI: 10.24432/C56P5J.</li>
+     <li>Casale P., Pujol O., Radeva P. Human Activity Recognition from Accelerometer Data Using a Wearable Device, Pattern Recognit. Image Anal., 2011, vol. 6669. pp. 289—296. DOI: 10.1007/978-3-642-21257-4_36.</li>
+     <li>Hlavata R., Kamencay P., Hudec R., Sykora P. A New Deep-Learning Method for Human Activity Recognition, Sensors, 2023, vol. 23, article 2816. DOI: 10.3390/s23052816.</li>
+ - doi: 15.509-521
+   udk: "004.42, 004.62"
+   item_authors: Brykin D. O., Kaliberda E. A., Bahmutsky U. A.
+   item_name: About Air Quality Assessment using Time Series Analysis Techniques on Air Particles Data
+   item_authors_address: |
+     <b>D. O. Brykin</b>, Postgraduate Student, brykin.do@phystech.edu,
+     Moscow Institute of Physics and Technology, Moscow, 117303, Russian Federation,
+     <b>E. A. Kaliberda</b>, Associate Professor, eakaliberda@omgtu.ru,
+     <b>U. A. Bahmutsky</b>, Head of Department, yuabahmutskiy@omgtu.ru,
+     Omsk State Technical University, Omsk, 644050, Russian Federation
+   item_corr_author: "Dmitry O. Brykin, Postgraduate Student, Moscow Institute of Physics and Technology, Moscow, 117303, Russian Federation, E-mail: brykin.do@phystech.edu"
+   item_rec_on: May 30, 2024
+   item_acc_on: August 07, 2024
+   item_annot: |
+     <p>This study investigates the dynamics of air pollution caused by particulate matter (PM10 and PM2.5) in Omsk, Russia. Data collected from the Sensor.Community network between 2021 and 2023 were analyzed using time series analysis methods. The findings reveal a subtle weekly seasonality in the data, potentially attributed to fluctuations in industrial activity and traffic patterns throughout the week. Additionally, a concerning trend of deteriorating air quality was identified, characterized by increasing annual average concentrations of PM10 and PM2.5.
+     The study employed various time series analysis techniques, including Empirical Cumulative Distribution Function (ECDF), Seasonal and Trend decomposition using Loess (STL), and autocorrelation function (ACF) analysis.
+     These methods allowed for the visualization and examination of data distribution, trend identification, and seasonality detection. Furthermore, the Mann-Kendall test confirmed a statistically significant trend of increasing pollution levels over the three-year period.
+     To enhance the accuracy of spatial analysis, data interpolation was performed using kriging with a Gaussian model. This method, compared to simple interpolation, provides a more precise assessment of the spatial distribution of pollutants. The study also implemented Long Short-Term Memory (LSTM) for forecasting hourly pollution values. LSTM exhibited promising results, demonstrating its potential for developing early warning systems, particularly when combined with meteorological data such as wind forecasts.
+     The results highlight the need for effective measures to mitigate air pollution in Omsk and emphasize the importance of utilizing data from diverse sources, including official air quality monitoring stations, to ensure accuracy and reliability in air quality assessments.</p>
+   item_keywords: statistical analysis, atmospheric air, monitoring, time series, ECDF, STL, ARIMA, LSTM, PM10, PM2.5
+   item_pages: 509—521
+   item_citation: "Brykin D. O., Kaliberda E. A., Bahmutsky U. A. About Air Quality Assessment using Time Series Analysis Techniques on Air Particles Data, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 509—521. DOI: 10.17587/prin.15.509-521 (in Russian)."
+   item_references: |
+     <li>Popova A. Yu., Zaitseva N. V., Mai I. V. Population health as a target function and criterion of effectiveness of measures of the federal project "Clean Air", Analis riska zdoroviu, 2019, no. 4, pp. 4—13. DOI: 10.21668/health.risk/2019.4.01 (in Russian).</li>
+     <li>Mai I. V., Vekovshinina S. A., Klein S. V. Federal project "Clean Air": practical experience of chemical substances selection for the information system of atmospheric air quality analysis in Norilsk, Gigeyana i sanitaria, 2020, no. 8, vol. 99, pp. 766—772 (in Russian).</li>
+     <li>Zaitseva N. V., Mai I. V. Atmospheric air quality and health risk indicators as objective criteria of air protection activity efficiency in the territories of the cities-participants of the federal project "Clean Air", Analis riska zdoroviu, 2023, no. 1, pp. 4—12 (in Russian).</li>
+     <li>Piskunov V. N. Aerosol dynamics, Moscow, Fizmatlit, 2010, 296 p. (in Russian).</li>
+     <li>Lokoshchenko M. A., Elansky N. F., Trifanova A. V. On the limit levels of air pollution in Moscow, Vestnik Moskovskogo universiteta. Seriya 5. Geografiya, 2016, no. 4, pp. 29—39 (in Russian).</li>
+     <li>Tran H. M., Tsai F., Lee Y. et al. The impact of air pollu­tion on respiratory diseases in an era of climate change: A review of the current evidence, Science of The Total Environment, 2023, vol. 898, pp. 166340. DOI: 10.1016/j.scitotenv.2023.166340.</li>
+     <li>Morbidity of the Omsk Oblast population by main classes of diseases, Rosstat, available at: https://55.rosstat.gov.ru/storage/mediabank/zabol-2022.htm (in Russian) (date of access 10.04.2024).</li>
+     <li>Sensor.Community, official site, available at: https://sensor.community (date of access 10.04.2024).</li>
+     <li>Mahajan S., Kumar P., Pinto J. et al. A citizen science approach for enhancing public understanding of air pollution, Sustain Cities Soc., 2020, vol. 52, pp. 101800. DOI: 10.1016/j.scs.2019.101800.</li>
+     <li>Taboga M. Empirical distribution, Lectures on probability theory and mathematical statistics, 2021, avaliable at: https://www.statlect.com/asymptotic-theory/empirical-distribution (date of access 14.07.2024).</li>
+     <li>Decomposition by Seasonal Trends with LOESS, available at: https://doc.arcgis.com/ru/insights/latest/analyze/stl.htm (in Russian) (date of access 20.07.2024).</li>
+     <li>Hyndman, R.J, Athanasopoulos G. Forecasting: principles and practice, 2nd edition, OTexts. Australia, 2018.</li>
+     <li>Augmented Dickey Fuller Test (ADF Test), available at: https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/ (date of access 15.07.2024).</li>
+     <li>Koshel S. М., Music O. P. Digital Modeling Methods: Krig-ing and Radial Interpolation, Informacionniy bulliten GIS associacii, 2001, vol. 29, pp. 23—24 (in Russian).</li>
+     <li>Li J., Heap A. D. Spatial interpolation methods applied in the environmental sciences: A review, Environmental Modelling & Soft­ware, 2014, vol. 53, pp. 173—189. DOI: 10.1016/j.envsoft.2013.12.008.</li>
+     <li>Kratkovich P. V. Neural Networks and Arima Mod­els for Price Forecasting, Programmnie producti i systemi, 2011, vol. 1, pp. 95—98. avaliable at: https://swsys.ru/index.php?page=article&id=2724 (in Russian).</li>
+     <li>Bhatti U. A., Yan Y., Zhou M. et al. Time Series Analysis and Forecasting of Air Pollution Particulate Matter (PM 2.5): An SARIMA and Factor Analysis Approach, IEEE Access, 2021, vol. 9, pp. 41019—41031. DOI: 10.1109/ACCESS.2021.3060744.</li>
+     <li>Long Short-Term memory, available at: https://neerc.ifmo.ru/wiki/index.php?title=Долгая_кракосрочная_память (in Russian) (date of access 11.07.2024).</li>
+     <li>EN API Documentation, available at: https://github.com/opendata-stuttgart/meta/wiki/EN-APIs (date of access 11.07.2024).</li>
+ - doi: 15.522-531
+   udk: "004.512"
+   item_authors: Tsyguleva K. V., Zaitsev K. S., Dunaev M. E.
+   item_name: Design of a Universal Library of Components for the Development of Medical Systems in the Field of Thyroidology
+   item_authors_address: |
+     <b>K. V. Tsyguleva</b>, Engineer, k151201@yandex.ru,
+     <b>K. S. Zaitsev</b>, Professor, KSZajtsev@mephi.ru,
+     <b>M. E. Dunaev</b>, Teacher, max.dunaev@mail.ru,
+     National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation
+   item_corr_author: 'Ksenia V. Tsyguleva, Engineer, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: k151201@yandex.ru'
+   item_rec_on: July 15, 2024
+   item_acc_on: September 03, 2024
+   item_annot: |
+     <p>Reducing the time and cost of developing application information systems by increasing the efficiency of the work performed is one of the main priorities of their modern production. With the development of AI technologies in all areas of activity, including medicine, there is a need for continuous improvement of both the client and server parts of information systems for many different nosologies. The purpose of this study is to form a ready-made library of components for the template design of user interfaces in the field of thyroidology (a field of medicine aimed at diagnosing and treating thyroid diseases) based on the experience gained in the development of several medical information systems for identifying thyroid diseases. Ensuring a conveyor mechanism for developing interfaces for medical information systems is possible only with specialized components of the tool based on a detailed understanding of the specifics of the actions of an endocrinologist. The components of the developed library cover up to 60 % of the component base of the interface of thyroidological systems, and are divided into several parts: for manipulating medical images and texts, annotating, creating input forms, working with tables of medical values, etc. The developed component library has been tested in the creation of intelligent information systems for the work of doctors of ultrasound and cytological diagnostics of thyroid diseases.</p>
+   item_keywords: medical software, interfaces, UI/UX design, component libraries, frontend development
+   item_pages: 522—531
+   item_citation: 'Tsyguleva K. V., Zaitsev K. S., Dunaev M. E. Design of a Universal Library of Components for the Development of Medical Systems in the Field of Thyroidology, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 522—531. DOI: 10.17587/prin.15.522-531 (in Russian).'
+   item_references: |
+     <li>Savani N. The Future of Web Development: An In-depth Analysis of Micro-Frontend Approaches, International Journal of Computer Trends and Technology, 2023, vol. 71, no. 11, pp. 65—69. DOI: 10.14445/22312803/IJCTT-V71I11P109.</li>
+     <li>Nikulina O., Khatsko N. Method of converting the monolithic architecture of a front-end application to microfrontends, Bulletin of National Technical University KhPI Series System Analysis Control and Information Technologies, 2023, pp. 79—84. DOI: 10.20998/2079-0023.2023.02.12.</li>
+     <li>Emmani P. S. Revolutionizing Frontend Development: Embracing Micro UI Architecture with Cloud Integration, International Journal of Computing and Engineering, 2024, vol. 5, no. 4, pp. 1—10. DOI: 10.47941/ijce.1821.</li>
+     <li>Taibi D., Mezzalira L. Micro-Frontends: Principles, Implementations, and Pitfalls, ACM SIGSOFT Software Engineering Notes, 2022,	vol. 47, no. 4, pp. 25—29. DOI: 10.1145/3561846.3561853.</li>
+     <li>Bachina B. Implementing Micro-Frontend Architectures: Diverse Strategies with Vue.js, International Journal of Science and Research (IJSR). 2024, vol. 13, no. 4, pp. 1247—1251. DOI: 10.21275/SR24416194515.</li>
+     <li>Hallberg E. Evaluation of the Effectiveness of Implementing a UI Library in FinTech Applications. Umea University, Faculty of Science and Technology, Department of Computing Science, 2021, 72 p.</li>
+     <li>Karlsson A. Evaluating the State of Accessibility in React UI Component Libraries. Linnaeus University, Faculty of Technology, Department of computer science and media technology (CM), 2021, 39 p.</li>
+     <li>Bindra S., Jain R. Artificial intelligence in medical science: a review, Ir J Med Sci, 2024, vol. 193, no. 3. pp. 1419—1429. DOI: 10.1007/s11845-023-03570-9.</li>
+     <li>Alowais S. A., Alghamdi S. S., Alsuhebany N. et al. Revolutionizing healthcare: the role of artificial intelligence in clinical practice, BMC Med Educ., 2023, vol. 23, article number 689. DOI: 10.1186/s12909-023-04698-z.</li>
+     <li>Kumar Y., Koul A., Singla R. et al. Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda, J Ambient Intell Human Comput., 2023, vol. 14, pp. 8459—8486. DOI: 10.1007/s12652-021-03612-z.</li>
+     <li>Toro-Tobon D., Loor-Torres R., Duran M. et al. Artificial Intelligence in Thyroidology: A Narrative Review of the Current Applications, Associated Challenges, and Future Directions, Thyroid, 2023, vol. 33, no. 8, pp. 903—917. DOI: 10.1089/thy.2023.0132.</li>
+     <li>Peng S., Liu Y., Lv W. et al. Deep learning-based artificial intelligence model to assist thyroid nodule diagnosis and management: a multicentre diagnostic study, The Lancet Digital Health, 2021, vol. 3, no. 4, pp. e250—e259. DOI: 10.1016/S2589-7500(21)00041-8.</li>
+     <li>Ha E. J., Lee J. H., Lee D. H. et al. Artificial Intelligence Model Assisting Thyroid Nodule Diagnosis and Management: A Multicenter Diagnostic Study, The Journal of Clinical Endocrinology & Metabolism, 2024, vol. 109, no. 2, pp. 527—535. DOI: 10.1210/clinem/dgad503.</li>
+     <li>Trukhin A. A., Zakharova S. M., Dunaev M. E. et al. The role of artificial intelligence in differential ultrasound diagnostics of thyroid nodules, Klinicheskaya i eksperimental'naya tireoidologiya, 2022, vol. 18, no. 2, pp. 32—38. DOI: 10.14341/ket12730 (in Russian).</li>
+     <li>Fartushny E. N., Sych Yu. P., Fartushny I. E. et al. Stratification of thyroid nodules by Eu-TIRADS categories using transfer learning of convolutional neural networks, Klinicheskaya i eksperimental'naya tireoidologiya, 2022, vol. 18, no. 2, pp. 17—26. DOI: 10.14341/ket12724 (in Russian).</li>
+     <li>Manaev A. V., Trukhin A. A., Zakharova S. M. et al. Textural Statistical Features of Ultrasound Imaging of Thyroid Nodules in the Assessment of Malignancy Status, Physics of Atomic Nuclei, 2023, vol. 86, pp. 2500—2506. DOI: 10.1134/S1063778823110297.</li>
+     <li>Alekseev A. Control interfaces and something new, available at: https://habr.com/ru/articles/777356/ (in Russian) (date of access 07.07.2024).</li>
+     <li>Burukina I. P., Privalov A. E. Study of modern approaches to designing digital interfaces, Izvestiya vysshikh uchebnykh zavedeniy. Povolzhskiy region. Tekhnicheskie nauki, 2022, no. 1 (61), pp. 78—87. DOI: 10.21685/2072-3059-2022-1-7 (in Russian).</li>
+     <li>Approaches and tools for interface development, available at: https://infogra.ru/ui/podhody-i-instrumenty-dlya-razrabotki-interfejsa (in Russian). (date of access 06.07.2024).</li>
+     <li>Kazachkov A. Four principles of an effective user interface for warehouse management systems, available at: https://formatkoda.ru/blog/chetyre-princzipa-effektivnogo-polzovatelskogo-interfejsa-dlya-sistem-upravleniya-skladom/ (in Russian) (date of access 06.07.2024).</li>
+     <li>Andrianova A. 5 principles of a user-friendly interface, avail­able at: https://simpleone.ru/blog/5-princzipov-udobnogo-polzova-telskogo-interfejsa/ (in Russian) (date of access 06.07.2024).</li>
+     <li>Interface management, available at: https://sewiki.ru/ Управление_интерфейсами (in Russian) (date of access 07.07.2024).</li>
+     <li>Varnavsky I. The main principle of interface development, available at: https://habr.com/ru/articles/771092/ (in Russian) (date of access 07.07.2024).</li>
+     <li>Alcantara S. UI design trends of today and how to apply them in your apps, available at: https://bootcamp.uxdesign.cc/ui-design-trends-of-today-and-how-to-apply-them-in-your-apps-aa6cd66f9ccf (date of access 05.07.2024).</li>
+ - doi: 15.532-538
+   udk: "004.41"
+   item_authors: Shchegoleva L. V., Taritsyna A. S.
+   item_name: Development of an Algorithm for Determining the Class of an Obstacle in the Process of its Interaction with the Manipulator
+   item_authors_address: |
+     <b>L. V. Shchegoleva</b>, Associate Professor, Professor, schegoleva@petrsu.ru,
+     <b>A. S. Taritsyna</b>, Lecturer, taricyna@cs.petrsu.ru,
+     Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation
+   item_corr_author: "Anastasia S. Taritsyna, Lecturer, Petrozavodsk State University, 185910, Petrozavodsk, Russian Federation, E-mail: taricyna@cs.petrsu.ru"
+   item_rec_on: July 08, 2024
+   item_acc_on: August 28, 2024
+   item_annot: |
+     <p>The article discusses the problem of determining the nature of an obstacle using a force sensor for terrain mapping. Three classes of objects have been introduced: the first class is "static" obstacles, the second class is "moving" obstacles, the third class is "unstable" obstacles. To conduct experiments, a simulation system was built in the Gazebo modeling environment, including a manipulator with the ability to horizontally move a probe with a force sensor and a set of obstacles corresponding to three classes of obstacles. All experiments were carried out using the ROS framework, the Gazebo simulator and the Movelt manipulation software. Processing of signals from the force sensor showed that the sig­nals for the three classes of obstacles are different, which makes it possible to identify the class based on sensor readings. Based on the analysis of data received from the sensor, rules were formed that make it possible to determine the class of an obstacle during its interaction with the manipulator in real time. To determine the obstacle class, the values of the force sensor signals are considered, smoothed by the moving average method. According to the rules discussed in the article, an algorithm was developed to determine the class of obstacle, which was implemented in the Gazebo modeling environment. Testing of the algorithm showed the stability of its operation under the given experimental conditions. Successful determination of the obstacle class will allow one not only to construct a map of the area, but also to prevent damage to the device when exposed to a "static" object with excessive force. The presented approach can be expanded to narrower classes of obstacles that characterize objects that can be encountered by a mobile device when mapping a forest area.</p>
+   item_keywords: tactile sensing, force sensor, modeling, control, robotic systems, Gazebo
+   item_pages: 532—538
+   item_citation: "Shchegoleva L. V., Taritsyna A. S. Development of an Algorithm for Determining the Class of an Obstacle in the Process of its Interaction with the Manipulator, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 532—538. DOI: 10.17587/prin.15.532-538 (in Russian)."
+   item_references: |
+     <li>Taheri H., Xia Z. C. SLAM; definition and evolution, En­gineering Applications of Artificial Intelligence, 2021, vol. 97, article 104032. DOI: 10.1016/j.engappai.2020.104032.</li>
+     <li>Taketomi T., Uchiyama H., Ikeda S. Visual SLAM algorithms: a survey from 2010 to 2016, IPSJ Transactions on Computer Vision and Applications, 2017, vol. 9, article 16. DOI: 10.1186/s41074-017-0027-2.</li>
+     <li>Yadav M., Lohani B. Identification of trees and their trunks from mobile laser scanning data of roadway scenes, International Journal of Remote Sensing, 2020, vol. 47, no. 4, pp. 1233—1258. DOI: 10.1080/01431161.2019.1662966.</li>
+     <li>Gemuev Sh. Sh., Vorotnikov S. A. Robotic complex for sort­ing solid household waste, Caspian Journal: management and high technologies, 2019, no. 2, pp. 195—207 (in Russian).</li>
+     <li>Li Q., Kroemer O., Su Z. et al. A Review of Tactile Infor­mation: Perception and Action Through Touch, IEEE Transactions on Robotics, 2020, vol. 36, no. 6, pp. 1619—1634. DOI: 10.1109/TRO.2020.3003230.</li>
+     <li>Pyo S., Lee J., Bae K. et al. Recent Progress in Flexible Tactile Sensors for Human-Interactive Systems: From Sensors to Advanced Applications, Advanced Materials, 2021, vol. 33, no. 47, article 2005902. DOI: 10.1002/adma.202005902.</li>
+     <li>Ji S.-Q., Huang M.-B., Huang H.-P. Robot Intelligent Grasp of Unknown Objects Based on Multi-Sensor Information, Sensors, 2019, vol. 19, no. 7, article 159. DOI: 10.3390/s19071595.</li>
+     <li>Nguyen T.-D., Lee J. S. Recent Development of Flexible Tactile Sensors and Their Applications, Sensors, 2022, vol. 22, no. 1, article 50. DOI: 10.3390/s22010050.</li>
+     <li>Pirozzi S. Tactile Sensors for Robotic Applications, Sensors, 2020, vol. 20, no. 24, article 7009. DOI: 10.3390/s20247009.</li>
+     <li>Nottensteiner K., Sachtler A., Albu-Schaffer A. Towards Autonomous Robotic Assembly: Using Combined Visual and Tactile Sensing for Adaptive Task Execution, Journal of Intelligent & Robotic Systems, 2021, vol. 101, article 49. DOI: 10.1007/s10846-020-01303-z.</li>
+     <li>Ji S.-Q., Huang M.-B., Huang H.-P. Robot Intelligent Grasp of Unknown Objects Based on Multi-Sensor Information, Sensors, 2019, vol. 19, no. 7, article 1595. DOI: 10.3390/s19071595.</li>
+     <li>Pyo S., Lee J., Bae K. et al. Recent Progress in Flexible Tactile Sensors for Human-Interactive Systems: From Sensors to Advanced Applications, Advanced Materials, 2021, vol. 33, no. 47, article 2005902. DOI: 10.1002/adma.202005902.</li>
+     <li>Costanzo M., De Maria G., Natale C., Pirozzi S. Design and Calibration of a Force/Tactile Sensor for Dexterous Manipulation, Sensors, 2019, vol. 19, no. 4, article 966. DOI: 10.3390/s19040966.</li>
+     <li>Mishra R. B., El-Atab N., Hussain A. M., Hussain M. M. Recent Progress on Flexible Capacitive Pressure Sensors: From Design and Materials to Applications, Advanced Materials Technologies, 2021, vol. 6, no. 4, article 2001023. DOI: 10.1002/admt.202001023.</li>
+ - doi: 15.539-550
+   udk: "004.09"
+   item_authors: Vaseva E. S., Shikhov D. A.
+   item_name: Development of the Web Application to Support the Process of Conducting Intellectual Games
+   item_authors_address: |
+     <b>E. S. Vaseva</b>, Associate Professor, e-s-vaseva@mail.ru,
+     <b>D. A. Shikhov</b>, Student, shixov.77@mail.ru,
+     Nizhny Tagil State Socio-Pedagogical Institute (branch) of Federal State Autonomous educational institution "Russian State Vocational Pedagogical University", Nizhny Tagil, 622031, Russian Federation
+   item_corr_author: 'Elena S. Vaseva, Associate Professor, Nizhny Tagil State Socio-Pedagogical Institute (branch) of Federal State Autonomous educational institution "Russian State Vocational Pedagogical University", Nizhny Tagil, 622031, Russian Federation, E-mail: e-s-vaseva@mail.ru'
+   item_rec_on: July 09, 2024
+   item_acc_on: August 21, 2024
+   item_annot: |
+     <p>The article discusses technologies for developing the web application designed to accompany the process of conducting an intellectual game in the format of an interactive quiz. An analysis of similar applications was carried out, which showed that none of them satisfies all the criteria essential in this situation. Requirements for the web application have been determined: the ability to create a library of quizzes, various types of questions, edit ready-made quizzes, participants enter answers through their devices online, award points for the correctness and speed of answers, display questions on the presenter's screen and on team devices, view intermediate and final results in the form of a list, returning participants to the game if necessary, saving the points received. The process of developing an optimized user interface using HTML, CSS, JavaScript, which allows users to interact with the web application, is described, the structure of the web application, the main forms of the administrator and game participants are presented. The server side of the application was developed using Node.JS technologies, including the Socket.io library, and the MongoDB database, the resulting collection of non-relational database is shown. To implement the functionality of the application pages, JavaScript was used; examples of codes are presented that implement the mechanism for connecting the presenter to the game, retrieving information from the database, recording the team's response, and awarding points for the correctness and speed of the response.
+     The web application allows you to reduce the time spent by event organizers and participants and makes it possible to improve the organization of work in general.
+     The presented web application for accompanying intellectual games was successfully approbated during events at the Nizhny Tagil State Social-Pedagogical Institute (branch) of the Russian State Vocational Pedagogical University. The materials of the article can serve as practical recommendations for the development of such web applications to accompany intellectual games held in the format of interactive quizzes.</p>
+   item_keywords: intellectual game, quiz, web application, database, JavaScript
+   item_pages: 539—550
+   item_citation: "Vaseva E. S., Shikhov D. A. Development of the Web Application to Support the Process of Conducting Intellectual Games, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 539—550. DOI: 10.17587/prin.15.539-550. (in Russian)."
+   item_references: |
+     <li>Novikov M. Yu., Amosova V. I. Modernization of services for creating educational quests and quizzes, Mezhdunarodnyy nauchno-issledovatel'skiy zhurnal, 2022, no. 6—4 (120), pp. 59—62. DOI: 10.23670/IRJ.2022.120.6.144 (in Russian).</li>
+     <li>MyQuiz — platform for creating online quizzes and quizzes, available at: https://myquiz.ru/ (date of access 01.07.2024).</li>
+     <li>Quizizz, available at: https://quizizz.com/?lng=ru (date of access 01.07.2024).</li>
+     <li>TriviaMaker — Online Quiz Creator, available at: https://triviamaker.com/ (date of access 01.07.2024).</li>
+     <li>Socrative, available at: https://www.socrative.com/ (date of access 01.07.2024).</li>
+     <li>Stupina M. V. The architecture of the software system for supporting attendance records at the university, Programmnaya Ingeneria, 2022, vol. 13, no. 7, pp. 344—353. DOI: 10.17587/prin.13.344-353 (in Russian).</li>
+     <li>Shevnina Yu. S., Buravov A. N. Time tracking automation for employees working remotely, Programmnyye produkty i sistemy, 2022, no. 1, pp. 132—138. DOI: 10.15827/0236-235X.137.132-138 (in Russian).</li>
+     <li>Benker K. MongoDB in action, Moscow, DMK Press, 2023. 396 p. (in Russian).</li>
+     <li>Kherron D. Node.js. Development of server-side web applications in JavaScript, Moscow, DMK Press, 2023. 145 p. (in Russian)</li>
