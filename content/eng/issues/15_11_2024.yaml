@@ -1,0 +1,250 @@
+---
+title: Issue N11 2024 year
+content:
+ - doi: 15.555-569
+   udk: "004.89, 004.43"
+   item_authors: Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulika T. I.
+   item_name: Analysis of Datasets and Large Language Models for Vulnerability Detection in Imperative Programming Language Code
+   item_authors_address: |
+     <b>V. V. Shvyrov</b>, Associate Professor, slshj@yandex.ru,
+     <b>D. A. Kapustin</b>, Associate Professor, kap-kapchik@mail.ru,
+     <b>R. N. Sentyay</b>, Senior Lecturer, sentyayroman@yandex.ru,
+     <b>T. I. Shulika</b>, Assistant, shulika-tatyana@mail.ru,
+     Lugansk State Pedagogical University, Lugansk, 91011, Russian Federation
+   item_corr_author: 'Denis A. Kapustin, Associate Professor, Lugansk State Pedagogical University, Lugansk, 91011, Russian Federation, E-mail: kap-kapchik@mail.ru'
+   item_rec_on: August 27, 2024
+   item_acc_on: September 24, 2024
+   item_annot: |
+     <p>Large language models are machine learning models that enable the classification and generation of both natural language text and code in various programming languages. These models have billions of parameters and are trained on vast datasets. In recent years, such models have been successfully applied to a wide range of tasks in software engineering. The paper presents data on publication activity on the topic under study, which is obtained on the basis of statistical analysis of search results for relevant key queries. In addition, a review of recent publications in the field of using large language models to detect vulnerabilities in program code is carried out, and the results of the analysis of data sets that are used in training neural network models to search for vulnerabilities in program code are presented.</p>
+   item_keywords: CWE, Large Language Models, Programming Languages, Static Analysis, Vulnerability Dataset, Vulnerability Detection
+   item_pages: 555—569
+   item_citation: 'Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulika T. I. Analysis of Datasets and Large Language Models for Vulnerability Detection in Imperative Programming Language Code, Programmnaya Ingeneria, 2024, vol. 15, no. 11, pp. 555—569. DOI: 10.17587/prin.15.555-569. (in Russian).'
+   item_references: |
+     <li>Russell R., Kim L., Hamilton L. et al. Automated vulnerability detection in source code using deep representation learning, Proceedings of the 17th IEEE International Conference on Machine Learning and Applications (ICMLA 2018). IEEE, 2018, pp. 757—762. DOI: 10.1109/ICMLA.2018.00120.</li>
+     <li>Zhou Y., Liu S., Siow J. et al. Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks. 2019. arXiv:1909.03496.</li>      <li>Li Z., Zou D., Xu S. et al. SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities, IEEE Transactions on Dependable and Secure Computing, 2018, vol. 189, no. 4, pp. 2244—2258. DOI: 10.1109/TDSC.2021.3051525.</li>
+     <li>Bhandari G. P., Naseer A., Moonen L. CVEfixes: automated collection of vulnerabilities and their fixes from open-source software, Proceedings of the 17th International Conference on Predictive Models and Data Analytics in Software Engineering, 2021, pp. 30—39. DOI: 10.1145/3475960.3475985.</li>
+     <li>Chakraborty S., Krishna R., Ding Y., Ray B. Deep Learning Based Vulnerability Detection: Are We There Yet? IEEE Transactions on Software Engineering, 2022, vol. 48, no. 09. pp. 3280—3296. DOI: 10.1109/TSE.2021.3087402.</li>
+     <li>Sun Y., Wong A. K., Kamel M. S. Classification of Imbalanced Data: a Review, International journal of pattern recognition and artificial intelligence, 2009, vol. 23, no. 04, pp. 687—719. DOI: 10.1142/S0218001409007326.</li>
+     <li>Cheshkov A., Zadorozhny P. A., Levichev R. Evaluation of ChatGPT Model for Vulnerability Detection. ArXiv, abs/2304.07232, 2023. DOI: 10.48550/arXiv.2304.07232.</li>
+     <li>Fu M., Tantithamthavorn C. K., Nguyen V., Le T. ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We? 2023 30th Asia-Pacific Software Engineering Conference (AP-SEC), 2023, pp. 632—636. DOI: 10.1109/APSEC60848.2023.00085.</li>
+     <li>Fan J., Li Y., Wang S., Nguyen T. N. A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries, Proceedings of the 17th International Conference on Mining Software Repositories (MSR), 2020, pp. 508—512. DOI: 10.1145/3379597.3387501.</li>
+     <li>Fu M., Tantithamthavorn C. K., Le T. et al. AIBugHunter: A Practical tool for predicting, classifying and repairing software vulnerabilities, Empirical Software Engineering, 2023, vol. 29, article 4, pp. 1—33. DOI: 10.1007/s10664-023-10346-3.</li>
+     <li>Fu M., Nguyen V., Tantithamthavorn C. K. et al. VulExplainer: A Transformer-Based Hierarchical Distillation for Explaining Vulnerability Types, IEEE Transactions on Software Engineering, 2023, vol. 49, no. 10, pp. 4550—4565. DOI: 10.1109/TSE.2023.3305244.</li>
+     <li>Vaswani A., Shazeer N. M., Parmar N., Uszkoreit J. et al. Attention is All you Need, Neural Information Processing Systems, 2017, pp. 5998—6008.</li>
+     <li>Feng Z., Guo D., Tang D., Duan N. et al. CodeBERT: A Pre-Trained Model for Programming and Natural Languages, Findings of the Association for Computational Linguistics: EMNLP, 2020, pp. 1536—1547. DOI: 10.18653/v1/2020.findings-emnlp.139.</li>
+     <li>Fu M., Tantithamthavorn C. K. LineVul: A Transformerbased Line-Level Vulnerability Prediction, 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR), 2022, pp. 608—620. DOI: 10.1145/3524842.3528452.</li>
+     <li>CWE, available at: https://cwe.mitre.org/ (date of access 21.08.2024).</li>
+     <li>Hugging Face. The AI community building the future, available at: https://huggingface.co/ (date of access 21.08.2024).</li>
+     <li>The latest in Machine Learning. Papers With Code, available at: https://paperswithcode.com/ (date of access 21.08.2024).</li>
+     <li>CVE, available at: https://cve.mitre.org/ (date of access 21.08.2024).</li>
+     <li>Lin G., Wen S., Han Q. et al. Software Vulnerability Detection Using Deep Neural Networks: A Survey, Proceedings of the IEEE, 2020, vol. 108, no. 10, pp. 1825—1848. DOI: 10.1109/JPROC.2020.2993293.</li>
+     <li>Wu B., Zou F. Code Vulnerability Detection Based on Deep Sequence and Graph Models: A Survey, Security and Communication Networks, 2022. DOI: 10.1155/2022/1176898.</li>
+     <li>Hou X., Zhao Y., Liu Y. et al. Large Language Models for Software Engineering: A Systematic Literature Review, 2023. ArXiv, abs/2308.10620. DOI: 10.48550/arXiv.2308.10620.</li>
+     <li>Chan A., Kharkar A., Moghaddam R. Z., Mohylevskyy Y. et al. Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning? 2023. ArXiv, abs/2306.01754, DOI: 10.48550/arXiv.2306.01754.</li>
+     <li>Thapa C., Jang S. I., Ahmed M. E. et al. Transformer-Based Language Models for Software Vulnerability Detection, Proceedings of the 38th Annual Computer Security Applications Conference, 2022, pp. 481—496. DOI: 10.1145/3564625.3567985.</li>
+     <li>Zou D., Wang S., Xu S., Li Z., Jin H. VulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection, IEEE Transactions on Dependable and Secure Computing, 2022, vol. 18, no. 5, pp. 2224—2236. DOI: 10.1109/TDSC.2019.2942930.</li>
+     <li>Zhou X., Cao S., Sun X., Lo D. Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead, 2024. ArXiv, abs/2404.02525. DOI: 10.48550/arX-iv.2404.02525.</li>
+     <li>Hanif H., Maffeis S. VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection, 2022 International Joint Conference on Neural Networks (IJCNN), 2022, pp. 1—8. DOI: 10.1109/IJCNN55064.2022.9892280.</li>
+     <li>Lu S., Guo D., Ren S., Huang J. et al. CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation, 2021. ArXiv, 021.abs/2102.04664.</li>
+     <li>Purba M. D., Ghosh A., Radford B. J., Chu B. Software Vulnerability Detection using Large Language Models, 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2023, pp. 112—119. DOI: 10.1109/ISSREW60843.2023.00058.</li>
+     <li>Li R., Allal L. B., Zi Y. et al. StarCoder: may the source be with you! 2023. ArXiv, abs/2305.06161. DOI: 10.48550/arX-iv.2305.06161.</li>
+     <li>Luo Z., Xu C., Zhao P., Sun Q. et al. WizardCoder: Empowering Code Large Language Models with Evol-Instruct, 2023. ArXiv, abs/2306.08568. DOI: 10.48550/arXiv.2306.08568.</li>
+     <li>Shestov A., Cheshkov A., Levichev R., Mussabayev R. et al.  Finetuning Large Language Models for Vulnerability Detection, 2024. ArXiv, abs/2401.17010. DOI: 10.48550/arXiv.2401.17010.</li>
+     <li>Steenhoek B., Rahman M. M., Roy M. K. et al. A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection, 2024. ArXiv, abs/2403.17218. DOI: 10.48550/arXiv.2403.17218.</li>
+     <li>Casey B., Santos J. C., Perry G. A Survey of Source Code Representations for Machine Learning-Based Cybersecurity Tasks, 2024. ArXiv, abs/2403.10646. DOI: 10.48550/arXiv.2403.10646.</li>
+     <li>Mester A., Bodo Z. Malware Classification Based on Graph Convolutional Neural Networks and Static Call Graph Features, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, 2022, pp. 528—539. DOI: 10.1007/978-3-031-08530-7_45.</li>
+     <li>Cao S., Sun X., Bo L., Wei Y., Li B. BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection. Information and Software Technology, 2021, vol. 136, article 106576. DOI: 10.1016/J.INFSOF.2021.106576.</li>
+     <li>Siow J., Liu S., Xie X., Meng G., Liu Y. Learning Program Semantics with Code Representations: An Empirical Study, 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022, pp. 554—565. DOI: 10.48550/ arXiv.2203.11790.</li>
+     <li>Renjith G., Aji S. Vulnerability Analysis and Detection Using Graph Neural Networks for Android Operating System, International Conferences on Information Science and System, 2021, pp. 57—72. DOI: 10.1007/978-3-030-92571-0_4.</li>
+     <li>Wu H., Zhang Z., Wang S. et al. Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques, 2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE), 2021, pp. 378—389. DOI: 10.1109/ISSRE52982.2021.00047.</li>
+     <li>Zhou L., Huang M., Li Y. et al. GraphEye: A Novel Solution for Detecting Vulnerable Functions Based on Graph Attention Network, 2021 IEEE Sixth International Conference on Data Science in Cyberspace (DSC), 2021, pp. 381—388. DOI: 10.1109/dsc53577.2021.00060.</li>
+     <li>Partenza G., Amburgey T., Deng L. et al. Automatic Identification of Vulnerable Code: Investigations with an AST-Based Neural Network, 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021, pp. 1475—1482. DOI: 10.1109/COMPSAC51774.2021.00219.</li>
+     <li>Velickovic P., Cucurull G., Casanova A. et al. Graph Attention Networks, 2018. ArXiv, abs/1710.10903. DOI:10.17863/CAM.48429.</li>
+     <li>Do H., Elbaum S. G., Rothermel G. Supporting Controlled Experimentation with Testing Techniques: An Infrastructure and its Potential Impact, Empirical Software Engineering, 2005, vol. 10, no. 4, pp. 405—435. DOI: 10.1007/s10664-005-3861-2.</li>
+     <li>Okun V., Delaitre A., Black P. E. Report on the Static Analysis Tool Exposition (SATE) IV, NIST Special Publication, 2013, vol. 500. DOI:10.6028/NIST.SP.500-297.</li>
+     <li>OWASP. Benchmark Project, available at: https://owasp.org/www-project-benchmark/ (date of access 21.08.2024).</li>
+     <li>Software Assurance Reference Dataset, available at: https://samate.nist.gov/SARD/ (date of access 21.08.2024).</li>
+     <li>Wang C., Li Z., Peng Y., Gao S. et al. REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes, 2023 38th IEEE/ ACM International Conference on Automated Software Engineering (ASE), 2023, pp. 1952—1962. DOI: 10.1109/ASE56229.2023.00199.</li>
+     <li>Siddiq M., Santos J. SecurityEval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques, Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security, 2022, pp. 29—33. DOI: 10.1145/3549035.3561184.</li>
+     <li>Chen Y., Ding Z., Alowain L. et al. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection, Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses, 2023, pp. 654—668. DOI: 10.1145/3607199.3607242.</li>
+     <li>Nikitopoulos G., Dritsa K., Louridas P., Mitropoulos D. CrossVul: a cross-language vulnerability dataset with commit data, Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2021, pp. 1565—1569. DOI: 10.1145/3468264.3473122.</li>
+     <li>Ding Y., Fu Y., Ibrahim O. et al. Vulnerability Detection with Code Language Models: How Far Are We? 2024. ArXiv, abs/2403.18624, DOI: 10.48550/arXiv.2403.18624.</li>
+     <li>Choi M., Jeong S., Oh H., Choo J. End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks, 2017. ArXiv, abs/1703.02458. DOI: 10.24963/ijcai.2017/214.</li>
+     <li>Wartschinski L., Noller Y., Vogel T. et al. VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python, 2022. ArXiv, abs/2201.08441. DOI: 10.1016/j.infsof.2021.106809.</li>
+     <li>Reis S., Abreu R. A ground-truth dataset of real security patches, 2021. ArXiv, abs/2110.09635.</li>
+     <li>Ni C., Shen L., Yang X. et al. MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representations, 2024 IEEE/ACM 21st International Conference on Mining Software Repositories (MSR), 2024, pp. 738—742. DOI: 10.1145/3643991.3644886.</li>
+     <li>Github Inc. 2021. CodeQL for research, available at: https://securitylab.github.com/tools/codeql (date of access 21.08.2024).</li>
+ - doi: 15.570-577
+   udk: "004.2"
+   item_authors: Tarasov I. E.
+   item_name: Application of UVM Methodology to Modeling Precision Digital Signal Processing Devices
+   item_authors_address: |
+     <b>I. E. Tarasov</b>, Head of Laboratory of Specialized Computing Systems, ilya_e_tarasov@mail.ru,
+     RTU MIREA, Moscow, 119454, Russian Federation
+   item_corr_author: 'Ilya E. Tarasov, Head of Laboratory of Specialized Computing Systems, RTU MIREA, Moscow, 119454, Russian Federation E-mail: ilya_e_tarasov@mail.ru'
+   item_rec_on: August 02, 2024
+   item_acc_on: September 10, 2024
+   item_annot: |
+     <p>The purpose of the article is to analyze the Universal Verification Methodology (UVM) approach and develop its modification for modeling precision digital signal processing devices as part of periodic signal phase meters. The article proposes a partial implementation of UVM techniques and methods based on general-purpose programming languages, which is distinguished by the presence of a subsystem for metrological evaluation of the characteristics of the simulated measuring device, while the UVM approach, implemented in the Accelera class library in the System Verilog language, assumes the presence of a reference response with which comparison is made. Thus, the proposed approach, while preserving the methodological basis of UVM, allows modifying it for use in systems where the reference response is not assumed, since it is the subject of the study.</p>
+   item_keywords: modelling, measurement, phase, wavelet analysis, digital signal processing
+   item_pages: 570—577
+   item_comment: This work is supported by the Ministry of Science and Education of RF (Project No. FSFZ-2022-0004).
+   item_citation: 'Tarasov I. E. Application of UVM Methodology to Modeling Precision Digital Signal Processing Devices, Programmnaya Ingeneria, 2024, vol. 15, no. 10, pp. 570—577. DOI: 10.17587/prin.15.570-577. (in Russian).'
+   item_references: |
+     <li>Mallat S. A Wavelet Tour of Signal Processing. The Sparse Way. Third Edition, Academic Press, 2008, 700 p.</li>
+     <li>Potekhin D. S. Prikladnaya theoriya sinteza system obrabotki informacii na baze orthogonalnyh wavelet-filtrov: specialnost 05.13.01 "Sistemnyi analiz i obrabotka informacii": diss. d-ra techn. nauk. Serpukhov, 2012. 168 p. (in Russian).</li>
+     <li>Teterin E. P., Potekhin D. S., Tarasov I. E., Volgin A. V. Rapid analysis of liquid quality, Himicheskoe i neftegazovoe mashi-nostroenie, 1999, no. 3, pp. 21—22.</li>
+     <li>Potekhin D. S., Tarasov I. E., Khrenov M. A. et al. Shirikopolosny spectroanalizator realnogo vremeni s ispolzovaniem wavelet-analiza na baze PLIS Xilinx, Trudy XXI naucnoi konferencii po radiofizike, Nizhniy Novgorod, 15—22 May 2017, Nizhniy Novgorod, Nacionalny issledovatelskiy Nizhegorodskiy gosudarstvenniy uni-versitet im. N. I. Lobachevskogo, 2017, pp. 505—507 (in Russian).</li>
+     <li>Bernardino A., Jose Santos V. A Real-Time Gabor Primal Sketch for Visual Attention, IBPRIA — 2nd Iberian Conference on Pattern Recognition and Image Analysis, Estoril, Portugal, June 7—9 2005, pp. 335—342.</li>
+     <li>Cohen M. X. A better way to define and describe Morlet wavelets for time-frequency analysis. bioRxiv 397182. DOI: 10.1101/397182.</li>
+     <li>Smirnov A. V. Optimizaciya kharacteristik cifrovyh filtrov odnovremenno v chastotnoi i vremennoi oblastyakh, Russian Technological Journal, 2020, vol. 8, no. 6, pp. 63—77. DOI: 10.32362/2500-316X-2020-8-6-63-77 (in Russian).</li>
+     <li>Volder J. E. The CORDIC Computing Technique, Proceedings of the Western Joint Computer Conference (WJCC), San Francisco, California, USA: National Joint Computer Committee (NJCC), 1959, pp. 257—261.</li>
+     <li>Wu Y., Yu L., Zhuang W., Wang J. A Coverage-Driven Constraint Random-Based Functional Verification Method of Pipeline Unit, 2009 Eighth IEEE/ACIS International Conference on Computer and Information Science, Shanghai, China, 2009, pp. 1049—1054. DOI: 10.1109/ICIS.2009.34.</li>
+     <li>Tukey J. W. The Future of Data Analysis, Princeton University and Bell Telephone Laboratories, 1961, 67 p.</li>
+ - doi: 15.578-588
+   udk: "004.896"
+   item_authors: Bogdanov M. R., Shakhmametova G. R., Oskin N. N.
+   item_name: Possibility of Using the Attention Mechanism in Multimodal Recognition of Cardiovascular Diseases
+   item_authors_address: |
+     <b>M. R. Bogdanov</b>, Ph.D., Associate Professor, bogdanov_marat@mail.ru,
+     <b>G. R. Shakhmametova</b>, Ph.D., Professor, shakhgouzel@mail.ru,
+     Ufa University of Science and Technology, Ufa, 450005, Republic of Bashkortostan, Russian Federation,
+     <b>N. N. Oskin</b>, CEO, nonik2@mail.ru,
+     Siberian Telemetry Company, Penza, 440000, Penza Branch, Russian Federation'
+   item_corr_author: 'Marat R. Bogdanov, Ph.D., Associate Professor, Ufa University of Science and Technology, Ufa, 450005, Republic of Bashkortostan, Russian Federation, E-mail: bogdanov_marat@mail.ru'
+   item_rec_on: June 29, 2024
+   item_acc_on: September 18, 2024
+   item_annot: |
+     <p> The paper is about studying the possibility of using the attention mechanism in diagnosing various cardiovascular diseases. Biomedical data were presented in different modalities (text, images, and time series). A comparison of the efficiency of 5 transformers based on the attention mechanism (Dosovitsky transformer, compact convolutional trans­former, transformer with external attention, transformer based on tokenization with patch shift and local self-attention, transformer based on multiple deep attention) was carried out with the Exception convolutional neural network, three fully connected neural networks (MLP-Mixer, Fnet, and gMLP), and the YOLO architecture on the problem of multi-class classification (16 classes of dangerous arrhythmias). High efficiency of transformers in diagnosing cardiac diseases was shown. The transformer based on tokenization with patch shift and local self-attention showed the greatest efficiency.</p>
+   item_keywords:  attention mechanism, medical diagnostics, electrocardiogram, convolutional neural networks, transformers, fully connected neural networks, recurrent neural networks
+   item_pages: 578—588
+   item_comment: The research was supported by the grant of the Russian Science Foundation No. 22-19-00471.
+   item_citation: 'Bogdanov M. R., Shakhmametova G. R., Oskin N. N. On the Possibility of Using the Attention Mechanism in Multimodal Recognition of Cardiovascular Diseases, Programmnaya Ingeneria, 2024, vol. 15, no. 11, pp. 578—588. DOI: 10.17587/prin.15.578-588. (in Russian).'
+   item_references: |
+     <li>Dosovitskiy A., Beyer L., Kolesnikov A. et al. An image is worth 16x16 words: transformers for image recognition at scale. arXiv:2010.11929v2. 3 Jun 2021.</li>
+     <li>Iuliano A. D., Roguski K. M., Chang H. et al. Estimates of global seasonal influenza-associated respiratory mortality: a modelling study, Lancet, 2018, vol. 391, no. 10127, pp. 1285—1300. DOI: 10.1016/S0140-6736(17)33293-2.</li>
+     <li>ML: Attention — Attention mechanism, available at: https://qudata.com/ml/ru/NN_Attention.html (date of access 01.09.2024) (in Russian).</li>
+     <li>Gizlyuk D. Neural networks are simple (Part 8): Attention mechanisms, available at: https://www.mql5.com/ru/articles/8765 (date of access 01.09.2024) (in Russian).</li>
+     <li>Bahdanau D., Cho K., Bengio Y. Neural machine translation by jointly learning to align and translate. arXiv:1409.0473v7. 19 May 2016.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention Is All You Need. arXiv:1706.03762v7. 2 Aug 2023.</li>
+     <li>Gizlyuk D. Neural Networks Are Simple (Part 10): Multi-Head Attention, available at: https://www.mql5.com/ru/articles/8909 (date of access 01.09.2024) (in Russian).</li>
+     <li>Cameron R. How to Fine-Tune LLM with Supervised Fine-Tuning, available at: https://habr.com/ru/articles/830396/ (date of access 01.09.2024) (in Russian).</li>
+     <li>Lee H., Phatale S., Mansoor H. et al. RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback, Proceedings of the 41 st International Conference on Machine Learning, Vienna, Austria. 2024. arXiv:2309.00267v3. 3 Sep 2024.</li>
+     <li>Bai Y., Jones A., Ndousse K. et al. Training a helpful and harmless assistant with reinforcement learning from human feedback. arXiv preprint arXiv:2204.05862. 2022.</li>
+     <li>Zhenga Y., Gana W., Chena Z. et al. Large Language Models for Medicine: A Survey. arXiv:2405.13055v1. 20 May 2024.</li>
+     <li>Wu N., Green B., Ben X. et al. Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case. arXiv:2001.08317v1. 23 Jan 2020.</li>
+     <li>Wang H., Liu C., Xi N. et al. Huatuo: Tuning llama model with chinese medical knowledge, arXiv preprint arXiv:2304.06975 (2023).</li>
+     <li>Zeng A., Liu X., Du Z. et al. GLM-130B: An open bilingual pre-trained model, arXiv preprint arXiv:2210.02414. 2022.</li>
+     <li>Singhal K., Azizi S., Tu T. et al. Large language models encode clinical knowledge, arXiv preprint arXiv:2212.13138. 2022.</li>
+     <li>Lin X., Xu C., Xiong Z. et al. PanGu drug model: Learn a molecule like a human, Science China Life Sciences, 2023, vol. 66, pp. 879—882.</li>
+     <li>Fang X., Wang F., Liu L. et al. A method for multiple-sequence-alignment-free protein structure prediction using a protein lan­guage model, Nature Machine Intelligence, 2023, vol. 5, pp. 1087—1096.</li>
+     <li>Zhu M., Chen Z., Yuan Y. DSI-Net: Deep synergistic interaction network for joint classification and segmentation with endoscope images, IEEE Transactions on Medical Imaging, 2021, vol. 40, pp. 3315—3325.</li>
+     <li>Venigalla A., Frankle J., Carbin M. PubMed GPT: A domain-specific large language model for biomedical text, 2022, avail­able at: https://www.mosaicml.com/blog/introducing-pubmed-gpt (date of access 01.09.2024).</li>
+     <li>Yunxiang L., Zihan L., Kai Z. et al. Chatdoctor: A medi­cal chat model fine-tuned on llama model using medical domain knowledge, arXiv preprint arXiv: 2303.14070. 2023.</li>
+     <li>Liu F., Zhu T., Wu X. et al. A medical multimodal large language model for future pandemics, NPJ Digital Medicine, 2023, vol. 6, article 226. DOI: 10.1038/s41746-023-00952-2.</li>
+     <li>Greenwald S., Albrecht P., Moody G. et al. Estimating confidence limits for arrhythmia detector performance, Computers in Cardiology, 1985, vol. 12, pp. 383—386.</li>
+     <li>Manilo L., Nemirko A., Evdakova E., Tatarinova A. ECG Database for Evaluating the Efficiency of Recognizing Dangerous Arrhythmias, 2021 IEEE Ural-Siberian Conference on Computational Technologies in Cognitive Science, Genomics and Biomedicine (CSGB), 2021, pp. 120—123. DOI: 10.1109/CSGB53040.2021.9496029.</li>
+     <li>Francois C. Xception: Deep Learning with Depthwise Sepa­rable Convolutions. arXiv:1610.02357v3. 4 Apr 2017.</li>
+     <li>Tolstikhin I., Houlsby N., Kolesnikov A. et al. MLP-Mixer: An all-MLP. Architecture for Vision. arXiv:2105.01601v4. 11 Jun 2021.</li>
+     <li>Lee-Thorp J., Ainslie J., Eckstein I. et al. FNet: Mixing Tokens with Fourier Transforms. arXiv:2105.03824v4.26. May 2022.</li>
+     <li>Liu H., Dai Z., So D. et al. Pay Attention to MLPs. arXiv:2105.08050v2. 1 Jun 2021.</li>
+     <li>Ultralytics YOLOv8, available at: https://github.com/ultra-lytics/ultralytics (date of access 01.09.2024).</li>
+     <li>Hassani A., Walton S., Shah N. et al. Escaping the Big Data Paradigm with Compact Transformers. arXiv:2104.05704v4. 7 Jun 2022.</li>
+     <li>Guo M.-H., Liu Z.-N., Mu T.-J. et al. Beyond Selfattention: External Attention using Two Linear Layers for Visual Tasks. arXiv:2105.02358v2. 31 May 2021.</li>
+     <li>Lee S., Lee S., Song B. Vision Transformer for Small-Size Datasets. arXiv:2112.13492v1. 27 Dec 2021.</li>
+     <li>Ilse M., Tomczak J., Welling M. Attention-based Deep Multiple Instance Learning. arXiv:1802.04712v4. 28 Jun 2018.</li>
+     <li>Dietterich T., Lathrop R., Lozano-Perez T. Solving the multiple instance problem with axis-parallel rectangles, Artificial intelligence, 1997, vol. 89, no. 1—2, pp. 31—71.</li>
+     <li>Maron O., Lozano-Perez T. A framework for multiple-instance learning, NIPS, 1998, pp. 570—576.</li>
+     <li>Oquab M., Bottou L., Laptev I. et al. Weakly supervised object recognition with convolutional neural networks, NIPS, 2014, available at: https://inria.hal.science/hal-01015140v1 (date of access 01.09.2024).</li>
+     <li>Quellec G., Cazuguel G., Cochener B. et al. Multiple-instance learning for medical image and video analysis, IEEE Reviews in Biomedical Engineering, 2017, vol. 10, pp. 213—234. DOI: 10.1109/RBME.2017.2651164.</li>
+     <li>Liu G., Wu J., Zhou Z. Key instance detection in multi-instance learning, Proceedings of the Asian Conference on Machine Learning, 2012, vol. 25, pp. 253—268.</li>
+     <li>Xu K., Ba J., Kiros R. et al. Show, Attend and Tell: Neural image caption generation with visual attention, arXiv:1502.03044. 2015.</li>
+     <li>Bahdanau D., Cho K., Bengio Y. Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. 2014.</li>
+     <li>Astorino A., Fuduli A., Gaudioso M., Vocaturo E. Multiple Instance Learning algorithm for medical image, available at: https://ceur-ws.org/Vol-2400/paper-46.pdf (date of access 01.09.2024).</li>
+     <li>Sirinukunwattana K., Raza S., Ahmed E. et al. Locality sensitive deep learning for detection and classification of nuclei in routine colon cancer histology images, IEEE Transactions on Medical Imaging, 2016, vol. 35, no. 5, pp. 1196—1206. DOI: 10.1109/TMI.2016.2525803.</li>
+     <li>Manchev N. ML internals: Synthetic Minority Oversampling (SMOTE) Technique, available at: https://domino.ai/blog/smote-oversampling-technique (date of access 01.09.2024).</li>
+     <li>Wang Z., Yan W., Oates T. Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline. arXiv:1611.06455v4.14. Dec 2016.</li>
+ - doi: 15.589-599
+   udk: "004.93'1"
+   item_authors: Zaripov A. V., Kulshin R. S., Sidorov A. A.
+   item_name: Technology of Artificial Data Generation for Neural Network Training (using the Example of Quality Control of Laminate Production)
+   item_authors_address: |
+     <b>A. V. Zaripov</b>, Postgraduate Student, aleksei.v.zaripov@tusur.ru,
+     <b>R. S. Kulshin</b>, Graduate Student, roman.s.kulshin@tusur.ru,
+     <b>A. A. Sidorov</b>, Cand. Sci. (Econ.), Head of Department, anatolii.a.sidorov@tusur.ru,
+     Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation
+   item_corr_author: 'Anatoly A. Sidorov, Cand. Sci. (Econ.), Head of Department, Tomsk State University of Control Systems and Radioelectronics, 634050, Tomsk, Russian Federation, E-mail: anatolii.a.sidorov@tusur.ru'
+   item_rec_on: September 10, 2024
+   item_acc_on: October 01, 2024
+   item_annot: |
+     <p>The paper presents the results of a study on artificial data generation methods for computer vision tasks in the operation of conveyor-type technological lines. It identifies the problematic issues of high cost and low efficiency of traditional data collection methods such as video recording and manual markup. A generalized model of synthetic data generation using game engines and 3D modeling is proposed as a solution to these problems. The model was experimentally tested in the context of the laminate coating determination process. Synthetic data allowed the YOLOv8 neural network to be trained with high accuracy, achieving an mAP50 of 0.95. The results indicate that synthetic data can be used to improve the quality of models and optimize learning processes for neural networks in situations where real datasets are limited.</p>
+   item_keywords: data generation, neural network, synthetic data, computer vision, Yolo, Unity, conveyor, laminate, defect
+   item_pages: 589—599
+   item_comment: The work was carried out within the framework of the state task "Science"; project FEWM-2023-0013.
+   item_citation: 'Zaripov A. V., Kulshin R. S., Sidorov A. A. Technology of Artificial Data Generation for Neural Network Training (using the Example of Quality Control of Laminate Production), Programmnaya Ingeneria, 2024, vol. 15, no. 11, pp. 589—599. DOI: 10.17587/prin.15.589-599. (in Russian).'
+   item_references: |
+     <li>Greeshma C. A., Nidhindas K. R., Sreejith P. Traffic control using computer vision, International Journal of Advanced Research in Computer and Communication Engineering, 2019, vol. 8, no. 4, pp. 39—47.</li>
+     <li>Rusanovsky M., Beeri O., Oren G. An end-to-end computer vision methodology for quantitative metallography, Scientific Reports, 2022, vol. 12, no. 1, article 4776. DOI: 10.1038/s41598-022-08651-w.</li>
+     <li>Aydin I., Othman N. A. A new IoT combined face detection of people by using computer vision for security application, 2017 International Artificial Intelligence and Data Processing Symposium IDAP, 2017, pp. 1—6. DOI: 10.1109/IDAP.2017.8090171.</li>
+     <li>Costa C., Antonucci F., Pallottino F. et al. Shape analysis of agricultural products: a review of recent research advances and potential application to computer vision, Food and Bioprocess Technology, 2011, vol. 4, no. 5, pp. 673—692. DOI: 10.1007/s11947-011-0556-0.</li>
+     <li>Video analytics in production. How does artificial intelligence work where humans can't, available at: https://habr.com/ru/companies/evraz/articles/581882/ (date of access 31.04.2024) (in Russian).</li>
+     <li>Esteva A., Chou K., Yeung S. et al. Deep learning-enabled medical computer vision, NPJ digital medicine, 2021, vol. 4, no. 1, article 5. DOI: 10.1038/s41746-020-00376-2.</li>
+     <li>Villalba-Diez J., Schmidt D. et al. Deep learning for industrial computer vision quality control in the printing industry 4.0, Sensors, 2019, vol. 19, no. 18, article 3987. DOI: 10.3390/s19183987.</li>
+     <li>Kiefer B., Ott D., Zell A. Leveraging synthetic data in object detection on unmanned aerial vehicles, 2022 26th international conference on pattern recognition (ICPR), 2022, pp. 3564—3571. DOI: 10.1109/ICPR56361.2022.9956710.</li>
+     <li>Chumak R. A synthetic data generator. Training of neural networks for industrial flaw detection, available at: https://medium.com/phygitalism/synthetic-data-generator-a052d347468 (date of access 5.05.2024) (in Russian).</li>
+     <li>The Perception Camera Component, available at: https://docs.unity3d.com/Packages/com.unity.perception@1.0/manual/Per-ceptionCamera.html. (date of access 20.05.24).</li>
+     <li>Reutov I., Moskvin D., Voronova A., Venediktov M. Generating Synthetic Data To Solve Industrial Control Problems By Mod­eling A Belt Conveyor, Procedia Computer Science, 2022, vol. 212, pp. 264—274. DOI: 10.1016/j.procs.2022.11.010.</li>
+     <li>Pchelintsev S., Yulyashkov M. A., Kovaleva O. A. A method for creating synthetic datasets for training neural network models to recognize objects, Information management systems, 2022, no. 3, pp. 9—19. DOI: 10.31799/1684-8853-2022-3-9-19 (in Russian).</li>
+     <li>Magnus D., Predrag B., Hannie P. C++ Application of the fractal Perlin noise algorithm for the generation of simulated breast tissue, Medical Imaging 2015: Physics of Medical Imaging, 2015, vol. 9412, pp. 844—852.</li>
+     <li>Bazuhair W., Lee W. Detecting malign encrypted network traffic using perlin noise and convolutional neural network, 2020 10th Annual Computing and Communication Workshop and Con­ference (CCWC), 2020, pp. 0200—0206.</li>
+     <li>Li H., Tuo X., Liu Y., Jiang X. A parallel algorithm using Perlin noise superposition method for terrain generation based on CUDA architecture, International Conference on Materials Engineering and Information Technology Applications (MEITA 2015), 2015, pp. 967—974.</li>
+     <li>Ying X. An overview of overfitting and its solutions, Journal of physics: Conference series, 2019, vol. 1168, no. 2. DOI: 10.1088/1742­6596/1168/2/022022.</li>
+     <li>About Cinemachine, available at: https://docs.unity3d.com/Packages/com.unity.cinemachine@2.8/manual/index.html (date of access 26.05.24).</li>
+     <li>Particle system, available at: https://docs.unity3d.com/ru/530/Manual/ParticleSystems.html (date of access 26.05.2024).</li>
+     <li>Sohan M., Sai Ram T., Reddy R., Venkata C. A review on yolov8 and its advancements, International Conference on Data Intelligence and Cognitive Informatics, 2024, pp. 529—545. DOI: 10.1007/978-981-99-7962-2_39.</li>
+ - doi: 15.600-608
+   udk: "004.6"
+   item_authors: Sechenykh P. A.
+   item_name: Methodology of a Comprehensive Approach to the Analysis, Structuring, and Aggregation of Data Based on the Requirements of Resource-Intensive Applications
+   item_authors_address: |
+     <b>P. A. Sechenykh</b>, Junior Researcher<sup>1</sup>, Senior Teacher<sup>2</sup>, p-sechenyh@mail.ru,
+     <br>
+     <sup>1</sup> Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences (FRC CSC RAS), Moscow, 119333, Russian Federation,
+     <br>
+     <sup>2</sup> Moscow Aviation Institute, Moscow, 125993, Russian Federation
+   item_corr_author: |
+     Polina A. Sechenykh, Junior Researcher<sup>1</sup>, Senior Teacher<sup>2</sup>,
+     <br>
+     <sup>1</sup> Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences (FRC CSC RAS), Moscow, 119333, Russian Federation
+     <br>
+     <sup>2</sup> Moscow Aviation Institute, Moscow, 125993, Russian Federation,
+     E-mail: p-sechenyh@mail.ru
+   item_rec_on: September 09, 2024
+   item_acc_on:  October 07, 2024
+   item_annot: |
+     <p>The work presents a methodology for in-depth data description for resource-intensive applied tasks, particularly in the field of materials science. It consists of three basic stages. In the first stage, quantitative and semantic requirements are formalized, and working datasets are defined, which can be classified as reference, structured, instrumental, or experimental-computational, depending on the source. These datasets are stored in a specialized research area for further investigation. The second stage involves the analysis and hierarchical structuring of the accumulated information content. This allows for the refinement and comparison of data, storage of different sets, and the application of various processing tools. In the third stage, the data is aggregated and represented as objects in the domain area according to the database schema of the application support system. The steps outlined in the proposed methodology enable full utilization of the specialized research area of informational content for building object models of application scenarios, structuring the domain data representation schema, and forming event-information forms. The practical application of this methodology in the examined subject area clarified the requirements, criteria, and filters for information search, data description, parameter cataloging, and their verification when solving a number of practical tasks. The software implementation of this approach could be oriented towards a web platform for local and cloud technologies, allowing remote collaborative access to content requirements and solution catalogs with role-based access for different categories of researchers and users.</p>
+   item_keywords: semantic requirements, data analysis, structuring of information content, BPMN diagrams, cataloging, domain model
+   item_pages: 600—608
+   item_citation: 'Sechenykh P. A. Methodology of a Comprehensive Approach to the Analysis, Structuring, and Aggregation of Data Based on the Requirements of Resource-Intensive Applications, Programmnaya Ingeneria, 2024, vol. 15, no. 11, pp. 600—608. DOI: 10.17587/prin.15.600-608. (in Russian).'
+   item_references: |
+     <li>Kimball R., Caserta J. The Data Warehouse ETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data, John Wiley & Sons, 2004, 528 p.</li>
+     <li>Abgaryan K. K. Multiscale modeling in material science, Moscow, MAKS Press, 2017, 284 p. (in Russian).</li>
+     <li>BPMN Specification, available at: https://www.bpmn.org (date of access 01.07.2024).</li>
+     <li>Sechenykh P. A. Mathematical modeling of the metrical parameters of hexagonal close-packed metalls. Izvestiya Vysshikh Uchebnykh Zavedenii. Materialy Elektronnoi Tekhniki — Materials of Electronics Engineering, 2022, vol. 25, no. 4, pp. 283—287. DOI: 10.17073/1609-3577-2022-4-283-287 (in Russian).</li>
+     <li>Abgaryan K. K., Gavrilov E. S. Informational support of the multiscale modeling integration platform, Sistemy i Sredstva Informatiki, 2019, vol. 29, no. 1, pp. 53—62 (in Russian).</li>
+     <li>Crystallography Open Database, available at: http://www.crystallography.net (date of access 01.07.2024).</li>
+     <li>NIST Inorganic Crystal Structure Database, available at: https://icsd.nist.gov/ (date of access 01.07.2024).</li>
+     <li>Sechenykh P. A. Deep specification of the structural properties of crystalline compounds in the information support system for materials science problems, Highly Available Systems? 2023, vol. 19, no. 4, рр. 51—62. DOI: 10.18127/j20729472-202304-04 (in Russian).</li>
+     <li>NOU "INTUIT", available at: https://intuit.ru/studies/courses/611/467/lecture/28793?page=8#keyword161 (date of access 29.08.2023).</li>
+     <li>Hahn T. International Tables for Crystallography. vol. A, Springer, 2005, 911 p.</li>
+     <li>Huheey J. E. Inorganic Chemistry. Principles of structure and reactivity / J. E. Huheey. New York, 1983.</li>
+     <li>WebElements, available at: https://www.webelements.com (date of access 20.09.2022).</li>
+     <li>NSM Archive — Physical Properties of Semiconductors, available at: http://www.matprop.ru (date of access 01.07.2024).</li>
+     <li>Materials Studio, available at: https://www.3ds.com/prod-ucts/biovia/materials-studio (date of access 01.07.2024).</li>
+     <li>Overview — USPEX, available at: https://uspex-team.org/ru/uspex/overview (date of access 01.07.2024).</li>
+     <li>ToposPro, available at: https://topospro.com/ (date of access 01.07.2024).</li>
+     <li>Chemical Abstracts Service, available at: https://www.cas.org/ (date of access 01.07.2024).</li>
+     <li>Ulrichsweb — Global Serial Directory, available at: https://ulrichsweb.serialssolutions.com/. (date of access 01.07.2024).</li>
+     <li>VASP — Vienna Ab initio Simulation Package, available at: https://www.vasp.at/ (date of access 01.07.2024).</li>
+     <li>SIESTA — Spanish Initiative for Electronic Simulations with Thousands of Atoms, available at: https://siesta-project.org (date of access 01.07.2024).</li>
+     <li>Sechenykh P. A., Abgaryan K. K. Mathematical modeling of the crystal structure of metal oxides, Mater. I Mezhdunar. konf. Matematicheskoe modelirovaniye v materialovedenii elektronnykh komponentov» (MMMEK-2019), Moscow, 2019, MAKS Press, 2019, pp. 74—76. DOI: 10.29003/m682.MMMSEC-2019.</li>
