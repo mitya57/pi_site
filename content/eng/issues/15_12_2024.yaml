@@ -1,0 +1,195 @@
+---
+title: Issue N12 2024 year
+content:
+ - doi: 15.611-622
+   udk: "004.75"
+   item_authors: Zeynally T. E., Demidov D. G.
+   item_name: Evaluation of Scalability of Distributed Systems based on Algorithms for Iterative Task Execution with Coordination via Key-Value Storage
+   item_authors_address: |
+     <b>T. E. Zeynally</b>, Postgraduate Student, Assistant, z.teymur.e@gmail.com,
+     <b>D. G. Demidov</b>,  Ph.D., Associate Professor, Dean of IT Faculty, d.g.demidov@mospolytech.ru,
+     Moscow Polytechnic University, Moscow, 107023, Russian Federation
+   item_corr_author: 'Teymur E. Zeynally, Postgraduate Student, Assistant, Moscow Polytechnic University, Moscow, 107023, Russian Federation, E-mail: z.teymur.e@gmail.com'
+   item_rec_on: September 16, 2024
+   item_acc_on: October 08, 2024
+   item_annot: |
+     <p>This paper presents the results of research aimed at evaluating the scalability of distributed fault-tolerant systems for iterative task execution. The study focuses on peer-to-peer distributed systems capable of executing tasks iteratively according to a schedule, where the nodes are coordinated through a key-value store. The operation of such systems is based on Recurrent Worker Service (RWS) algorithms. The primary focus is on studying the dependency of metrics such as iteration accuracy and resource utilization on the number of system nodes, including both application and storage nodes. The experimental environment is deployed in Yandex Cloud infrastructure and consists of four servers, one of which is low-performance and three are high-performance. Tests were conducted under three scenarios: application node scalability, storage node scalability, and simultaneous scalability of both node categories. During the tests, performance differences between the two modes of RWS algorithms were studied. The results obtained in this work can be used in the design and optimization of distributed systems that require high performance and fault tolerance.</p>
+   item_keywords: distributed information systems, fault tolerance, system scaling, key-value storage, cloud infrastructure, iterative task execution, peer-to-peer distributed systems, iteration accuracy, payload
+   item_pages: 611—622
+   item_citation: 'Zeynally T. E., Demidov D. G. Evaluation of Scalability of Distributed Systems based on Algorithms for Iterative Task Execution with Coordination via Key-Value Storage, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 611—622. DOI: 10.17587/prin.15.611-622. (in Russian).'
+   item_references: |
+     <li>Mykhailyshyn H., Pasyeka N., Sheketa V. et al. Designing network computing systems for intensive processing of information flows of data, Lecture Notes on Data Engineering and Communications Technologies, 2021, vol. 48, pp. 391—422. DOI: 10.1007/978-3-030-43070-2_18.</li>
+     <li>Blinowski G., Ojdowska A., Przybylek A. Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation, IEEE Access, 2022, vol. 10, pp. 20357—20374. DOI: 10.1109/ACCESS.2022.3152803.</li>
+     <li>Distler T., Bahn C., Bessani A. et al. Extensible distributed coordination, Proceedings of the 10th European Conference on Computer Systems, EuroSys 2015, 2015, pp. 143—158. DOI: 10.1145/2741948.2741954.</li>
+     <li>Zeynally T., Demidov D. Fault Tolerance of Distributed Worker Processes in Corporate Information Systems and Technologies, Communications in Computer and Information Science, 2022, pp. 32—41. DOI: 10.1007/978-3-031-21340-3_4.</li>
+     <li>Etcd, available at: https://etcd.io/ (date of access 06.10.2024).</li>
+     <li>Zeynally T., Demidov D., Dimitrov L. Prioritization of Distributed Worker Processes Based on Etcd Locks, Communications in Computer and Information Science, 2022, pp. 93—103. DOI: 10.1007/978-3-031-21340-3_9.</li>
+     <li>Zeynally T., Demidov D. Evaluation of the Efficiency of Fault Tolerance Algorithms for Distributed Peer-To-Peer Worker Processes Connected Through a Key-Value Store, Communications in Computer and Information Science, 2023, pp. 87—98. DOI: 10.1007/978-3-031-31353-0_8.</li>
+     <li>Zeynally T. E. Comparative analysis of.NET-based solutions for iterative task execution in distributed fault-tolerant systems, International Journal of Open Information Technologies, 2024, vol. 12, no. 6, pp. 120—127 (in Russian).</li>
+     <li>Larsson L., Tarneberg W., Klein C. et al. Impact of etcd deployment on Kubernetes, Istio, and application performance, Software — Practice and Experience, 2020, vol. 50, no. 10, pp. 1986—2007. DOI: 10.1002/spe.2885.</li>
+     <li>Jeffery A., Howard H., Mortier R. Rearchitecting Kubernetes for the Edge, EdgeSys 2021, Proceedings of the 4th International Workshop on Edge Systems, Analytics and Networking, Part of Euro-Sys 2021, 2021, pp. 7—12. DOI: 10.1145/3434770.3459730.</li>
+     <li>Leesatapornwongsa T., Stuardo C. A., Suminto R. O. et al. Scalability Bugs: When 100-Node Testing is Not Enough, Proceedings of the Workshop on Hot Topics in Operating Systems — HOTOS,2017, pp. 24—29. DOI: 10.1145/3102980.3102985.</li>
+     <li>Avritzer A., Ferme V., Janes A. et al. Scalability Assessment of Microservice Architecture Deployment Configurations: A Domain-based Approach Leveraging Operational Profiles and Load Tests, Journal of Systems and Software, 2020, vol. 165, article 110564. DOI: 10.1016/j.jss.2020.110564.</li>
+     <li>van Dongen G., van den Poel D. Influencing Factors in the Scalability of Distributed Stream Processing Jobs, IEEE Access, 2021, vol. 9, pp. 109413—109431. DOI: 10.1109/ACCESS.2021.3102645.</li>
+     <li>Docker overview, available at: https://docs.docker.com/get-started/overview/ (date of access 08.01.2024).</li>
+     <li>Telegraf Docker Input Plugin, available at: https://github.com/influxdata/telegraf/blob/master/plugins/inputs/docker/ README.md (date of access 08.08.2024).</li>
+     <li>InfluxDB, available at: https://docs.influxdata.com/influx-db/v1/concepts/key_concepts/ (date of access 08.01.2024).</li>
+     <li>DateTimeOffset Ticks, available at: https://learn.microsoft.com/en-us/dotnet/api/system.datetimeoffset.ticks?view=net-7.0 (date of access 08.08.2024).</li>
+     <li>Gibadullin R. F. Thread-safe Control Calls in Enriched Client Applications, Programmnye sistemy i vychislitel'nye metody, 2022, no. 4, pp. 45—47. DOI: 10.7256/2454-0714.2022.4.39029 (in Russian).</li>
+     <li>Frequently asked questions, available at: https://etcd.io/docs/v3.4/faq/ (date of access).</li>
+ - doi: 15.623-630
+   udk: "004.67"
+   item_authors: Fedko V. S., Kovalev S. V., Kovaleva O. A.
+   item_name: Designing Information Technology for Determining the Level of Accessibility of Financial Services
+   item_authors_address: |
+     <b>V. S. Fedko</b>, Postgraduate Student, fedko.vasily.fedko@yandex.ru,
+     <b>S. V. Kovalev</b>, Associate Professor, Professor of the Department of Mathematical Modeling and Information Technologies, sseedd@mail.ru,
+     <b>O. A. Kovaleva</b>, Associate Professor, Professor of the Department of Mathematical Modeling and Information Technologies, solomina-oa@yandex.ru,
+     Derzhavin Tambov State University, Tambov, 392036, Russian Federation
+   item_corr_author: 'Vasily S. Fedko, Postgraduate Student, Derzhavin Tambov State University, Tambov, 392036, Russian Federation, E-mail: fedko.vasily.fedko@yandex.ru'
+   item_rec_on: September 09, 2024
+   item_acc_on: October 08, 2024
+   item_annot: |
+     <p>The article discusses the process of developing a geoinformation system reflecting the level of accessibility of financial services in the settlements of the region under consideration. Relevant GIS used in various countries and for a wide range of tasks are analyzed, for example, to display the location of medical schools in India, to select the location of solar power plants in Mecca, to analyze aspects of sustainable development of the Vologda Oblast of Russia. Some map constructors are also considered, their advantages and disadvantages are revealed. Based on the analyzed tools, the main criteria that the developed GIS should meet are formulated.
+     The next part of the article describes the structure of the tool being developed, consisting of three levels of visualization and two blocks of data storage. The structure of the database for storing information about settlements is presented, and the block for storing coordinates of municipal boundaries is described. The process of creating a border drawing module based on two-dimensional arrays with geographical points, along which polylines are built, taking into account the map scale and map distortions vertically and horizontally, is described. The following is an analysis of the module for displaying the location of settlements based on a bubble diagram, in which latitude and longitude act as values along the X and Y axes, and the size is determined by the number of inhabitants. When describing the module for displaying the availability of financial instruments in settlements, it describes the possibilities to simulta­neously demonstrate the location of settlements, the level of financial accessibility in settlements, the presence or absence of specific financial infrastructure tools, municipal and regional borders.
+     The main advantages of the developed product over similar ones are the ability to work in a completely offline mode without an Internet connection, maximum data detail, the ability to filter settlements by population. The developed GIS for visualization and analysis of the spatial distribution of financial services can help in planning the development of cities and regions.</p>
+   item_keywords: geoinformation system, spatial analysis, financial accessibility
+   item_pages: 623—630
+   item_citation: 'Fedko V. S., Kovalev S. V., Kovaleva O. A. Designing Information Technology for Determining the Level of Accessibility of Financial Services, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 623—630. DOI: 10.17587/prin.15.623-630 (in Russian).'
+   item_references: |
+     <li>Basic concepts in the field of financial accessibility, Bank of Russia, available: https://www.cbr.ru/develop/development_affor/dic (date of access 22.05.2024).</li>
+     <li>Eprintsev S. A., Shekoyan S. V. Geoinformation mapping of urbanized territories as a mechanism for spatial assessment of socio-environmental factors, Geopolitics and ecogeodynamics of regions, 2019, vol. 5 (15), no. 3, pp. 109—115 (in Russian).</li>
+     <li>Yarotskaya E. V., Patov A. M. Application of geoinformation systems in land management and cadastre for land management at the municipal level in the Karachay-Cherkess Republic, National interests: priorities and security, 2017, vol. 13, no. 4, pp. 660—670 (in Russian).</li>
+     <li>Karimi N., Tsun Wai Ng K., Richter A. Integrating Geographic Information System network analysis and nighttime light satellite imagery to optimize landfll regionalization on a regional level, Environmental Science and Pollution Research, 2022, no. 29, pp. 81492—81504. DOI:10.1007/s11356-022-21462-w.</li>
+     <li>Sk M. M., Ali S. A., Ahmad A. Optimal Sanitary Landfll Site Selection for Solid Waste Disposal in Durgapur City Using Geographic Information System and Multi-criteria Evaluation Technique, KN — Journal of Cartography and Geographic Information, 2020, vol. 70, pp. 163—180. DOI: 10.1007/s42489-020-00052-1.</li>
+     <li>Simakov A. V., Racen S. S. Features of creating a digital map using geoinformation technologies, International agricultural journal, 2021, vol. 64, no. 5, article 21. DOI: 10.24412/2588-0209-2021-10374 (in Russian).</li>
+     <li>Sabde Y., Diwan V., Mahadik V. K. et al. Medical schools in India: pattern of establishment and impact on public health — a Geographic Information System (GIS) based exploratory study, BMC Public Health, 2020, vol. 20, article 755. DOI: 10.1186/s12889-020-08797-0.</li>
+     <li>Singh A., Singh S. K., Meraj G. et al. Designing Geographic Information System Based Property Tax Assessment in India, Smart Cities, 2022, vol. 5, no. 1, pp. 364—381. DOI: 10.3390/smartcities5010021.</li>
+     <li>Bayounis A., Eldamaty T. Applying Geographic Information System (GIS) for Solar Power Plants Site Selection Support in Makkah, Technology and Investment, 2022, vol. 13, no. 2, pp. 37—58. DOI: 10.4236/ti.2022.132003.</li>
+     <li>Anisimov N. V., Bely A. V., Maksutova N. K. et al. Geo-information and cartographic support of environmental, economic and social aspects of sustainable development of the Vologda Oblast, The InterCarto. InterGIS, 2019, vol. 25, no. 1, pp. 89—101. DOI: 10.35595/2414-9179-2019-1-25-89-101 (in Russian).</li>
+ - doi: 15.631-647
+   udk: "004.942; 330.46"
+   item_authors: Orlova E. V.
+   item_name: A Model of Two-Group Conflict in R&D Processes at the Enterprise
+   item_authors_address: |
+     <b>E. V. Orlova</b>, Dr. of Sc. (in engineering), Professor, ekorl@mail.ru,
+     Ufa University of Science and Technology, Ufa, 450076, Russian Federation
+   item_corr_author: 'Ekaterina V. Orlova, Dr. of Sc. (in engineering), Professor, Ufa University of Science and Technology, Ufa, 450076, Russian Federation, E-mail: ekorl@mail.ru'
+   item_rec_on: August 27, 2024
+   item_acc_on: October 15, 2024
+   item_annot: |
+     <p>The purpose of the study is to substantiate the possibility and potential effects of using a new approach and class of models based on sociophysical analogies for modeling and managing conflicts in the business processes of research and development of an organization. A research methodology is proposed, based on the modern post-non-classical paradigm (synthetic picture of the world), formed on the principles of global evolutionism, interdisciplinarity, openness and nonlinearity; sociophysical approach for studying social conflicts and their modeling; historical method of study­ing social phenomena in time and determining the connection between past, present and future, critical-dialectical method of analyzing contradictions of social groups as a source of change, methods of system analysis of conflict as a complex process self-developing over time and system synthesis to resolve social contradictions in the process of development and implementation innovation of the organization.
+     It is shown that employees of an organization can be divided into two groups depending on their attitude to new ideas, technologies and style of behavior when solving new creative problems — innovators and adapters. When developing and implementing innovations, project teams should include workers of both types. The presence of workers in the same team with antagonistic positions can lead to conflict situations. It is substantiated that for the modeling and management of such social conflicts, methods and models of sociophysics can be applied, providing a representation of the conflict as a change in behavioral reactions, and aimed at ensuring the cohesion of group members and their depolarization.
+     The significance of the study is the ability to analyze the contradictions of interests of participants in the process of their interactions when implementing the tasks of developing and implementing innovations based on a sociophysical approach. The developed methodology takes into account the identified features of research and development processes, as well as complex intra-group and inter-group connections of conflicting groups, and allows us to develop requirements for modeling processes of conflict interaction and forecasting the options and nature of its development.</p>
+   item_keywords: social conflict; sociophysical model of conflict; conflict management; research and development (R&D)
+   item_pages: 631—647
+   item_citation: 'Orlova E. V. A Model of Two-Group Conflict in R&D Processes at the Enterprise, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 631-647. DOI: 10.17587/prin.15.631-647 (in Russian).'
+   item_references: |
+     <li>Akhremenko A. S. Political Analysis and Forecasting, Moscow, Gardariki, 2006, 243 p.</li>
+     <li>Simonov P. M., Prudskiy M. V. Statistical Analysis of Temporal Characteristics of Local Conflicts and Military Expenditures (on the Example of Russia and the USA), Bulletin of PSU. Series: Economics, 2017, vol. 12, no. 1, pp. 78—90 (in Russian).</li>
+     <li>Hodge J., Sprague-Williams F., Woelk J. Rank disequilibrium in multiple-criteria evaluation schemes, Involve, a Journal of Mathematics, 2017, no. 10, pp. 165—180. DOI: 10.2140/in-volve.2017.10.165.</li>
+     <li>Racek D., Thurner P., Kauermann G. Integrating Spatiotemporal Diffusion into Statistical Forecasting Models of Armed Conflict via Non-parametric Smoothing. Preprint, 2024. DOI: 10.31219/osf.io/q59dr.</li>
+     <li>Wei E., Tan S., Yu P. et al. A video-based decision aid improved knowledge and decreased decisional conflict for asymptomatic persistent endodontic lesions, International endodontic journal, 2017, vol. 57, no. 4, pp. 394—405. DOI: 10.1111/iej.14025.</li>
+     <li>Petukhov A. Yu., Malkhanov A. O., Sandalov V. M., Petukhov Yu.V. Modeling conflict in a social system using diffusion equations, News of universities. Applied nonlinear dynamics, 2016, vol. 24, no. 6, pp. 65—83. DOI: 10.18500/0869-6632-2016-24-6-65­83 (in Russian).</li>
+     <li>Kachanov I. A. On the quantum properties of economic systems, Sociophysics and social engineering 2018: Proceedings of the Second All-Russian interdisciplinary conference, Moscow, May 23—25, 2018, Moscow, V. A. Trapeznikov Institute of Control Sciences of the Russian Academy of Sciences, 2018, pp. 197—198 (in Russian).</li>
+     <li>Makarov V. L., Bakhtizin A. R., Beklaryan G. L. et al. Agent-based modeling of the socio-economic consequences of migration under state regulation of employment, Economics and Mathematical Methods, 2022, vol. 58, no. 1, pp. 113—130. DOI: 10.31857/S042473880018960-5 (in Russian).</li>
+     <li>Malinetsky G. G., Makhov S. A. Dynamics of macroeconomic indicators and mutual trade between the BRICS countries and the USA, Mathematical modeling and numerical methods, 2023, no. 1, pp. 112—123. DOI 10.18698/2309-3684-2023-1-112123 (in Russian).</li>
+     <li>Coleman P. T., Vallacher R. R., Nowak A., Bui-Wrzosinska L. Intractable conflict as an attractor: A dynamical systems approach to conflict escalation and intractability, American Behavioral Scientist, 2007, vol. 50, no. 11, pp. 1454—1475.</li>
+     <li>Liebovitch L. S., Naudot V., Vallacher R. et al. Dynamics of two-actor cooperation-competition conflict models, Physica A: Statistical Mechanics and its Applications, 2008, vol. 387, pp. 6360—6378.</li>
+     <li>Kaufman M., Kaufman S., Diep H. T. Social Depolarization: Blume—Capel Model, Physics, 2024, vol. 6, no. 1, pp. 138-147. DOI: 10.3390/physics6010010.</li>
+     <li>Aleksandrov V. A., Baluta V. I., Varykhanov S. S. et al. Modeling of antagonistic conflicts in the paradigm of third-order cybernetics, Preprints of the Keldysh Institute of Problems of Materials Science, 2018, no. 86, 22 p. DOI: 10.20948/prepr-2018-86 (in Russian).</li>
+     <li>Orlova E. V. Systems engineering of digital twins of organizational and technical systems using intelligent analysis methods, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 425—439. DOI: 10.17587/prin.13.425-439. (in Russian).</li>
+     <li>Orlova E. V. Design Technology and AI-Based Decision Making Model for Digital Twin Engineering, Future Internet, 2022, vol. 14, no. 9, article 248. DOI: 10.3390/fi14090248.</li>
+     <li>Thomas K. W., Kilmann R. H. Thomas-Kilmann Conflict Mode Instrument. TKI Profile & Interpretive Report, 1976. DOI: 10.1037/t02326-000.</li>
+     <li>Kirton M. J. Adaptors and innovators: a description and measure. Creativity Assessment: Readings and Resources, Buffalo, Creative Education Foundation Press, 1999. 197 p.</li>
+     <li>Mantegna N. Introduction to econophysics: Correlation and complexity in finance, Moscow, LIBROKOM, 2009, 192 p. (in Russian).</li>
+     <li>Bernstein S., Lebow R. N., Stein J. G., Weber S. God gave physics the easy problems: adapting social science to an unpredictable world, European Journal of International Relations, 2000, no. 6, pp. 43—76.</li>
+     <li>Galam S. Sociophysics: a physicist's modeling of psycho-political phenomena, Springer, Science & Business Media, 2012, 492 p.</li>
+     <li>Diep H. T., Kaufman M., Kaufman S. An Agent-Based Statistical Physics Model for Political Polarization: A Monte Carlo Study, Entropy, 2023, vol. 25, no. 7, article 981. DOI: 10.3390/e25070981.</li>
+     <li>Galam S. Unanimity, Coexistence, and Rigidity: Three Sides of Polarization, Entropy, 2023, vol. 25, no. 4, article 622. DOI: 10.3390/e25040622.</li>
+     <li>Epstein J. M. Agent-based computational models and generative social science, Complexity, 1999, no. 4, pp. 41— 60. DOI: 10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F.</li>
+     <li>Lempert R. Agent-based modeling as organizational and public policy simulators, Proceedings of the National Academy of Sciences, 2002, vol. 99, pp. 7195—7196. DOI: 10.1073/pnas.072079399.</li>
+     <li>Kaufman M., Diep H. T., Kaufman S. Sociophysics of intractable conflicts: Three-group dynamics, Physica A: Statistical Mechanics and its Applications, 2019, vol. 517, pp. 175—187. DOI: 10.1016/j.physa.2018.</li>
+     <li>Batty M., Torrens P. M. Modelling complexity: The limits to prediction, CyberGeo: European Journal of Geography, 2001, vol. 201. DOI: 10.4000/cybergeo.1035.</li>
+     <li>Vallacher R. R., Coleman P. T., Nowak A., Bui-Wrzosinska L. Rethinking intractable conflict: The perspective of dynamical systems, Conflict, Interdependence, and Justice, New York, Springer, 2011, pp. 65—94. DOI: 10.1037/a0019290.</li>
+     <li>Bercovitch J. Characteristics of Intractable Conflicts, Beyond Intractability / Eds. Guy Burgess, Heidi Burgess. Conflict Information Consortium. University of Colorado, Boulder, 2003, available at: http://www.beyondintractability.org /essay/character-istics-ic (date of access 25.08.2024).</li>
+     <li>Godoy A., Tabacof P., Von Zuben F. J. The role of the interaction network in the emergence of diversity of behavior, PLoS ONE, 2017, vol. 12, no. 2, article e0172073. DOI: 10.1371/journal.pone.0172073.</li>
+     <li>Hull D. The philosophy of Biological Science, N. Y., 1974, 168 p.</li>
+     <li>Biophilosophy / Eds. A. T. Shatalov, Moscow, INFRAN, 1997, 264 p. (in Russian).</li>
+     <li>Heisenberg W. Physics and Philosophy. Part and Whole, Moscow, Nauka, 1989 (in Russian).</li>
+     <li>Haken G. Synergetics: Hierarchy of Instabilities in Self-Organizing Systems and Devices, Moscow, Mir, 1985 (in Russian).</li>
+     <li>Prigogine I. Order from Chaos: New Dialogue between Man and Nature, Moscow, Progress, 1986, 432 p. (in Russian).</li>
+     <li>Borovik E. S., Eremenko V. V., Milner A. S. Lectures on Magnetism, Moscow, FIZMATLIT, 2005, 512 p. (in Russian).</li>
+     <li>Glazkov V. N. Magnetism: static and dynamic properties of magnets, Notes to a lecture on general physics, Moscow, MIPT, 2022, 67 p. (in Russian).</li>
+     <li>Trukhan S. N., Martyanov O. N. Magnetic properties of matter. Part 1. Fundamentals of structure, Novosibirsk, Boreskov Institute of Catalysis SB RAS, 2012, 75 p. (in Russian).</li>
+     <li>Orlova E. V. Methodology and Statistical Modeling of Social Capital Influence on Employees' Individual Innovativeness in a Company, Mathematics, 2022. vol. 10, no. 11, article 1809. DOI: 10.3390/math10111809.</li>
+     <li>Orlova E. V. Assessment of enterprise human capital and its management in the context of digital transformation of the economy, Journal of Applied Economic Research, 2021, vol. 20, no. 4, pp. 666—700. DOI: 10.15826/vestnik.2021.20.4.026 (in Russian).</li>
+     <li>Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition, The Measurement of Scientific, Technological and Innovation Activities, OECD Publishing, Paris/Eurostat, Luxembourg.</li>
+     <li>Oslo Manual: Guidelines for Collecting, Reporting and Using Data on Innovation: Joint Publication of the OECD and Eurostat / Organization for Economic Cooperation and Development, Statistical Office of the European Communities. 3rd ed. Tomsk, Center for Research and Statistics of Science, 2011, 205 p.</li>
+     <li>Harman G. New Directions in Internationalizing Higher Education: Australia's Development As an Exporter of Higher Education Services, Higher Education Policy, 2004, vol. 17, no. 1, pp. 101—120.</li>
+     <li>Larsen T. J., Wetherbe J. C. An Exploratory Field Study of Differences in Information Technology Use between More- and Less-innovative Middle Managers, Information and Management, 1999, vol. 36, no. 2, pp. 93—108.</li>
+     <li>Orlova E. V. Methods and Algorithms of RL for Modeling Individual Trajectories of Professional Development, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 613—625. DOI: 10.17587/ prin.14.613-625 (in Russian).</li>
+     <li>Orlova E. V. A Hybrid Approach to Modeling Labor Productivity Factors: Synthesis of Randomized Controlled Experiments and Causal Bayesian Networks, Economics and Mathematical Methods, 2024, vol. 60, no. 1, pp. 108—120 (in Russian).</li>
+ - doi: 15.648-661
+   udk: "004.75"
+   item_authors: Protasova Yu. V., Nemtinov V. A., Shipilova V. G., Morozov V. V., Rodina A. A., Nemtinov K. V.
+   item_name: Hybrid Educational Environment of the University's Engineering Schools for the Implementation of Early Career Guidance for Schoolchildren
+   item_authors_address: |
+     <b>Yu. V. Protasova</b>, Associate Professor, julia.nemtinova@yandex.ru, State University named after G. R. Derzhavin, Tambov, 392036, Russian Federation,
+     <b>V. A. Nemtinov</b>, Ph.D. (Eng), Professor., nemtinov.va@yandex.ru,
+     <b>V. G. Shipilova</b>, Graduate Student, shipilova.vika02@mail.ru,
+     <b>V. V. Morozov</b>, Engineer, tmb-morozov@yandex.ru,
+     <b>A. A. Rodina</b>, Head of Department, ant.rodina1209@yandex.ru,
+     <b>K. V. Nemtinov</b>, Leading Researcher, kir155@mail.ru,
+     Tambov State Technical University, Tambov, 392000, Russian Federation
+   item_corr_author: 'Vladimir A. Nemtinov, Ph.D. (Eng), Professor, Tambov State Technical University, Tambov, 392000, Russian Federation E-mail: nemtinov.va@yandex.ru'
+   item_rec_on: September 11, 2024
+   item_acc_on: October 15, 2024
+   item_annot: |
+     <p>The paper considers the issues of developing a technology for creating a hybrid educational environment, including, along with real research laboratories, various virtual laboratories with the possibility of fully immersing schoolchildren in their space, which would increase the level of vocational guidance for schoolchildren, namely: improving their knowledge of professions, interest in engineering areas, confidence in the choice a future career, the development of professionally significant competencies; and would also be very attractive to them. The authors of the work focus on the virtual component of the hybrid educational environment of the university's engineering school. The formal description of the technology uses functional diagrams in the IDEF0 notation. The following basic programming environments are used as development tools: Twinmotion, Bigscreen, 3DVista Tour, LMS Moodle.</p>
+   item_keywords: engineering schools, educational process, VR technology, e-learning, career guidance for schoolchildren, Twinmotion, Bigscreen, LMS Moodle, 3DVista Virtual Tour
+   item_pages: 648—661
+   item_citation: "Protasova Yu. V., Nemtinov V. A., Shipilova V. G., Morozov V. V., Rodina A. A., Nemtinov K. V. Hybrid Educational Environment of the University's Engineering Schools for the Implementation of Early Career Guidance for Schoolchildren, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 648—661. DOI: 10.17587/prin.14.648-661. (in Russian)."
+   item_references: |
+     <li>Prokhorov A. V. The University as a subject of career guid­ance work with schoolchildren, Vestnik Tambovskogo universiteta. Seriya: Gumanitarnye nauki, 2020, vol. 25, no. 187, pp. 15—20. DOI: 10.20310/1810-0201-2020-25-187-15-20 (in Russian).</li>
+     <li>Molotkova N., Egorov A. Career guidance work in the con­ditions of the regional system of continuous engineering education, Rektor VUZa, 2016; no. 8, pp. 24—29 (in Russian).</li>
+     <li>Anisimova T. I., Shatunova O. V. Technologies and models of engineering education development within the framework of vocational guidance work of schools and universities, Inzhenernoe obrazovanie, 2017, no. 21, pp. 175—180 (in Russian).</li>
+     <li>Nacional'ny'j proekt "Obrazovanie". = National project "Education". 2020, available at: https://projectobrazovanie.ru (date of access 05.03.2024) (in Russian).</li>
+     <li>Eremenko Yu. A, Zalata O. A. Psyhophysiological Approaches to Instructional Design for Immersive Environments, Voprosy' obrazovaniya, 2020, no. 4, pp. 207—231. DOI: 10.17323/1814-9545­2020-4-207-231 (in Russian).</li>
+     <li>Sheinbaum V. S. Interdisciplinary activity training in the virtual environment of professional activity-state, prospects, Vy'sshee obrazovanie v Rossii, 2017, no. 11, pp. 61—68 (in Russian).</li>
+     <li>Sheinbaum V. S. Competence "ability to work in a team" and its development using technology of interdisciplinary training in a virtual environment of professional activity, Vy'sshee obrazovanie v Rossii, 2018, no. 2, pp. 2—8. DOI: 10.25586/RNU.HET.18.02.P.02 (in Russian).</li>
+     <li>Krasnyansky M. N., Popov A. I., Obukhov A. D. Mathematical modeling of adaptive management system of vocational education, Vestnik Tambovskogo gosudarstvennogo texnicheskogo universiteta, 2017, vol. 23, no. 2, pp. 196—208. DOI: 10.17277/vestnik.2017.02.pp.196-208 (in Russian).</li>
+     <li>Krasnyansky M., Obukhov A., Dedov D., Siukhin A. Modeling of the learning process in adaptive training complexes, Journal of Applied Engineering Science, 2018, vol. 16, no. 4, pp. 487—493. DOI: 10.5937/jaes16-17627.</li>
+     <li>Krasnyansky M. N., Obukhov A. D., Dedov D. L. Control System for an Adaptive Running Platform for Moving in Virtual Reality, Automation and Remote Control, 2022, vol. 83, no. 3,pp. 355—366. DOI: 10.1134/S0005117922030055.</li>
+     <li>Kowalik D., Rusyn B. Innovative Vocational Didactics Aimed at the Preparation of Staff According to Industry 4.0 and Europe 2020, DEStech Transactions on Social Science Education and Human Science. 4th International Conference on Education Reform and Modern Management, 2017, pp. 12—17. DOI: 10.12783/dtssehs/ermm2017/14671.</li>
+     <li>Nemtinov V. A., Manaenkov I. M., Nemtinova Yu. V. Virtual training and research laboratory of technological processes of chemical-technological systems, Scientific Visualization, 2020, vol. 12, no. 1, pp. 10—21. DOI: 10.26583/sv.12.1.02.</li>
+     <li>Smorkalov A., Morozov M., Fominykh M., Prasolova-For-land E. Virtualizing Real-Life Lectures with vAcademia, Kinect, and iPad, Communications in Computer and Information Science, 2014, vol. 435, pp. 156—161. DOI: 10.1007/978-3-319-07854-0_28.</li>
+     <li>Andreeva I. V., Mikhailik E. V., Dobrynina M. A. Stem-education as a key factor in the development of engineering and technical competencies of students of general education organizations, Mir nauki. Pedagogika i psixologiya, 2021, vol. 9, no. 1, article 20, available at: https://mir-nauki.com/PDF/37PSMN121.pdf (date of access 05.03.2024) (in Russian).</li>
+     <li>Podugonnikova E. A., Ivchenko I. N. STEM education as an innovative platform for the development of future technologies for the formation of modern competencies, Methodist, 2022, no. 3, pp. 16—17 (in Russian).</li>
+     <li>Krotenko T. Yu. Transforming traditional institutions and learning environments: STEM education and modern educational landscape, Yaroslavl pedagogical bulletin, 2022, no. 2, pp. 51—57. DOI: 10.20323/1813-145X-2022-2-125-51-57 (in Russian).</li>
+     <li>Wilson C., Campbell-Gulley B., Anthony H. G. et al. Inte­grated STEM Education: A Content Analysis of Three STEM Edu­cation Research Journals, International Journal of Technology in Education and Science. 2022, vol. 6, no. 3, pp. 388—409. DOI: 10.46328/ ijtes.371.</li>
+     <li>Martynenko O. O., Pashanova O. V., Korzhuev A. V. et al. Exploring attitudes towards STEM education: A global analysis of university, middle school, and elementary school perspectives, Eur­asia Journal of Mathematics, Science and Technology Education, 2023, vol. 19, no. 3, article em2234. DOI: 10.29333/ejmste/12968.</li>
+     <li>Zaitseva N. A., Sizova Z. M., Chauzova V. A., Larionova A. A. Determining the Readiness Status of University Students in STEM Education and Distance Education Course, International Journal of Emerging Technologies in Learning, 2021, vol. 16, no. 19, pp. 124—138. DOI: 10.3991/ijet.v16i19.26047.</li>
+     <li>Scotini M., Abdullah H. Integration of Environment and Content Knowledge into STEM, Education. Journal of Computing and Natural Science. 2022, pp. 21—26. DOI: 10.53759/181x/jcns202202004.</li>
+     <li>Nemtinov V. A., Manaenkov I. M., Nemtinova Yu. V. Virtual training and research laboratory of technological processes of chemical-technological systems, Nauchnaya vizualizaciya, 2020, vol. 12, no. 1, pp. 10—21. DOI: 10.26583/sv.12.1.02 (in Russian).</li>
+     <li>Nemtinov V. A., Rodina A. A., Borisenko A. B. et al. Complex use of various software environments to increase the level of visualization and perception of information, Nauchnaya vizualizaciya, 2023, vol. 15, no. 2, pp. 1—10. DOI: 10.26583/sv.15.2.01 (in Russian).</li>
+     <li>Mokrozub V. G., Molotkova N. V., Mishchenko E. S., Aleynikova K. A. The Development of Intelligent Educational Content. Automatic, Documentation and Mathematical Linguistics, 2022, vol. 56, no. 2, pp. 55—62. DOI: 10.3103/s0005105522020042.</li>
+     <li>Tang H., Zhu Ju., He J. Analysis on Career Guidance Mode of Application-Oriented University from the Perspective of Big Data, Theory and Practice of Social Science, 2022, vol. 4, no. 2, pp. 13—25. DOI: 10.6914/tpss.040202.</li>
+     <li>Lahoud Ch., Moussa Sh., Obeid Ch. et al. A comparative analysis of different recommender systems for university major and career domain guidance, Education and Information Technologies, 2023, vol. 28, no. 7, pp. 8733—8759. DOI: 10.1007/s10639-022-11541-3.</li>
+     <li>Bogdanov D. E. Career Guidance for Students and Graduates (A Case Study of Belgorod State National Research University), Journal of Employment and Career, 2023, vol. 1, no. 4, pp. 8—50. DOI: 10.56414/jeac.2022.6.</li>
+     <li>Nemtinov V. A., Borisenko A. B., Morozov V. V., Nemtinova Yu. V. Improving the level of professional competencies using a virtual educational environment, Vy'sshee obrazovanie v Rossii, 2021, vol. 30, no. 3, pp. 104—113. DOI: 10.31992/0869-3617-2021­30-3-104-113 (in Russian).</li>
+     <li>Karpushkin S. V., Krasnyansky M. N., Malygin E. N., Mokrozub V. G. Determination of maximum productivity the technological system of multi-product chemical plant, IOP Conference Series: Materials Science and Engineering, 2020, vol. 971, article 032056. DOI: 10.1088/1757-899X/971/3/032056.</li>
+     <li>Popovski F., Nedelkovski I., Mijakovska S., Nalevska G. P. Interactive Scientific Visualization in 3D Virtual Reality Model, TEM J, 2016, vol. 5, no. 4, pp. 435—440. DOI: 10.18421/TEM54-04.</li>
+     <li>Pozdneev B., Tolok A., Ovchinnikov P. et al. Digital transformation of learning processes and the development of competencies in the virtual machine-building enterprise environment, Journal of Physics: Conference Series, 2019, vol. 1278, article 012008. DOI: 10.1088/1742-6596/1278/1/012008.</li>
+     <li>Unal A., Karakus M. A. Interacting science through Web Quests, Univers J. Educ. Res., 2016, vol. 4, no. 7, pp. 1595—1600.</li>
+     <li>Nemtinov V., Egorov S., Borisenko A. et al. Support of design decision-making process using virtual modeling technology, Lecture Notes in Networks and Systems book series, 2022, vol. 432, pp. 70—77. DOI: 10.1007/978-3-030-97730-6_7.</li>
+     <li>Lam J. T., Gutierrez M. A., Goad J. A. et al. Use of virtual games for interactive learning in a pharmacy curriculum, Currents in Pharmacy Teaching and Learning, 2019, vol. 11, no. 1, pp. 51—57. DOI: 10.1016/j.cptl.2018.09.012.</li>
+     <li>Krasnyansky M. N., Mokrozub V. G., Timonin A. S. Prospects for the Application of Digital Twin Systems and the Intellectualization of Calculations for the Strength of Chemical Equipment, Automatic Documentation and Mathematical Linguistics, 2022, vol. 57, no. 32, pp. 140—144. DOI: 10.3103/S0005105523030020.</li>
+     <li>Nemtinov V. A., Borisenko A. B., Nemtinova Yu. V. et al. Creation of a virtual educational environment using quest technology, Vestnik Tambovskogo gosudarstvennogo texnicheskogo universiteta, 2020, vol. 26, no. 4, pp. 529—539. DOI: 10.17277/bulletin.2020.04.pp.529-539 (in Russian).</li>
+     <li>Nemtinov V., Zazulya A., Kapustin V., Nemtinova Yu. Analysis of decision-making options in complex technical system design, Journal of Physics: Conference Series, 2019, vol. 1278, article 012018. DOI: 10.1088/1742-6596/1278/1/012018.</li>
+     <li>Twinmotion. Real-time immersive 3D architectural visualization, available at: https://www.unrealengine.com/en-US/twinmo-tion (date of access 05.03.2024).</li>
+     <li>Virtual Tours in E-Learning, Training & Quizzing, available at: https://blog.3dvista.com/2020/04/27/virtual-tours-in-e-learning-training-quizzing/ (date of access 05.03.2024).</li>
+     <li>3DVista — Virtual Tours, 360o video and VR software, available at: https://www.3dvista.com/ (date of access 05.03.2024).</li>
+     <li>Zakirova F. M., Qarshieva D. U. Quest for pedagogical technology and its use in education systems, International Journal on Integrated Education, 2020, vol. 3, no. 5, pp. 12—16. DOI: 10.31149/ijie.v3i5.369.</li>
+     <li>Tsarapkina Y. M., Yakubova E. Y. Web-quest technology usage in professional self-determination, Vestnik Rossijskogo universiteta druzhby narodov. Seriya: informatizaciya obrazovaniya, 2018, vol. 15, no. 4, pp. 373—381. DOI: 10.22363/2312-8631-2018-15-4-373-381 (in Russian).</li>
+     <li>Hidayah N. A., Subiyakto A., Setyaningsih F. Combining We-bqual and Importance Performance Analysis for Assessing A Government Website, 7th International Conference on Cyber and IT Service Management (CITSM), IEEE, 2019, pp. 1—6.</li>
