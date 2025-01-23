@@ -4,93 +4,82 @@
             <%= yield %>
 
 
-
- <div class="year_issues">
-
     <div class="year_issues">2024 год</div>
     <% for @i in 1..12 %>
-     <div class="issue_in_year"><a href="rus/issues/15_<%= @i %>_2024.html">Том 15 номер <%= @i %></a></div>
+      <div class="issue_in_year"><a href="rus/issues/15_<%= @i %>_2024.html">Том 15 номер <%= @i %></a></div>
     <% end %>
+
     <div class="year_issues">2023 год</div>
     <% for @i in 1..12 %>
-     <div class="issue_in_year"><a href="rus/issues/14_<%= @i %>_2023.html">Том 14 номер <%= @i %></a></div>
+      <div class="issue_in_year"><a href="rus/issues/14_<%= @i %>_2023.html">Том 14 номер <%= @i %></a></div>
     <% end %>
+
     <div class="year_issues">2022 год</div>
-     <% for @i in 1..10 %>
+    <% for @i in 1..10 %>
       <div class="issue_in_year"><a href="rus/issues/13_<%= @i %>_2022.html">Том 13 номер <%= @i %></a></div>
-     <% end %>
+    <% end %>
+
     <div class="year_issues">2021 год</div>
     <% for @i in 1..9 %>
       <div class="issue_in_year"><a href="rus/issues/12_<%= @i %>_2021.html">Том 12 номер <%= @i %></a></div>
     <% end %>
+
     <div class="year_issues">2020 год</div>
     <% for @i in 1..6 %>
       <div class="issue_in_year"><a href="rus/issues/11_<%= @i %>_2020.html">Том 11 номер <%= @i %></a></div>
     <% end %>
+
     <div class="year_issues">2019 год</div>
     <% for @i in 1..6 %>
       <div class="issue_in_year"><a href="rus/issues/10_<%= @i %>_2019.html">Том 10 номер <%= @i %></a></div>
     <% end %>
-      <div class="issue_in_year"><a href="rus/issues/10_7-8_2019.html">Том 10 номер 7-8</a></div>
-      <div class="issue_in_year"><a href="rus/issues/10_9-10_2019.html">Том 10 номер 9-10</a></div>
-      <div class="issue_in_year"><a href="rus/issues/10_11-12_2019.html">Том 10 номер 11-12</a></div>
+    <div class="issue_in_year"><a href="rus/issues/10_7-8_2019.html">Том 10 номер 7-8</a></div>
+    <div class="issue_in_year"><a href="rus/issues/10_9-10_2019.html">Том 10 номер 9-10</a></div>
+    <div class="issue_in_year"><a href="rus/issues/10_11-12_2019.html">Том 10 номер 11-12</a></div>
+
     <div class="year_issues">2018 год</div>
     <% for @i in 1..9 %>
       <div class="issue_in_year"><a href="rus/issues/9_<%= @i %>_2018.html">Том 9 номер <%= @i %></a></div>
     <% end %>
-   </div>
+
     <div class="year_issues">2017 год</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="rus/issues/8_<%= @i %>_2017.html">Том 8 номер <%= @i %></a></div>
     <% end %>
-   </div>
+
     <div class="year_issues">2016 год</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="rus/issues/7_<%= @i %>_2016.html">Том 7 номер <%= @i %></a></div>
     <% end %>
-   </div>
-   <div class="year_issues">
+
     <div class="year_issues">2015 год</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2015.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
 
-   <div class="year_issues">
     <div class="year_issues">2014 год</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2014.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
 
-   <div class="year_issues">
     <div class="year_issues">2013 год</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2013.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
 
-   <div class="year_issues">
     <div class="year_issues">2012 год</div>
     <% for @i in 1..9 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2012.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
 
-   <div class="year_issues">
     <div class="year_issues">2011 год</div>
     <% for @i in 1..7 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2011.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
 
-   <div class="year_issues">
     <div class="year_issues">2010 год</div>
     <% for @i in 1..2 %>
       <div class="issue_in_year"><a href="rus/issues/<%= @i.to_s.rjust(2, "0") %>_2010.html">номер <%= @i %></a></div>
     <% end %>
-   </div>
-
- </div>
 
 <%= render '/buttom_rus.html' %>
