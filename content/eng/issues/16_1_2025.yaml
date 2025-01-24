@@ -1,0 +1,233 @@
+---
+title: Issue N1 2025 year
+content:
+ - doi: 16.3-12
+   udk: '658.513'
+   item_authors: Stolyarov O. N.
+   item_name: About Applying Semantic Web Technology for Information Modeling in Construction
+   item_authors_address: |
+     <b>O. N. Stolyarov</b>, Head of Department, Stolyarov_ON@aep.ru,
+     Joint-Stock Company "Atomenergoproekt", Moscow, 105082, Russian Federation
+   item_corr_author: 'Oleg N. Stolyarov, Head of Department, Joint-Stock Company "Atomenergoproekt", Moscow, 105082, Russian Federation, E-mail: Stolyarov_ON@aep.ru'
+   item_rec_on: September 05, 2024
+   item_acc_on: October 29, 2024
+   item_annot: |
+     <p>The article provides justification for using Semantic Web technology to describe an information model of a capital construction project. The proposed technology is compared with current approaches of information modeling.</p>
+   item_keywords: semantic web, software integration, semantic search, inferences, information model, digital product, architecture, engineering and construction, AEC
+   item_pages: 3—12
+   item_citation: 'Stolyarov O. N. About Applying Semantic Web Technology for Information Modeling in Construction, Programmnaya Ingeneria, 2025, vol. 16, no. 1, pp. 3—12. DOI: 10.17587/prin.16.3-12 (in Russian).'
+   item_references: |
+     <li>Decree of the Russian Government of 17.05.2024 N 614 “On approval of the Rules for the formation and maintenance of an information model of a capital construction project, the composition of information, documents and materials included in the information model of a capital construction project and submitted in the form of electronic documents, and requirements for the formats of the said electronic documents” (in Russian).</li>
+     <li>IFC Specifications Database, available at: https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/ (date of access 28.10.2024).</li>
+     <li>Order of the Ministry of Construction, Housing and Utilities of 12.05.2017 N 783/pr “On approval of requirements for the format of electronic documents submitted for conducting state examination of design documentation and (or) results of engineering surveys and verification of the reliability of determining the estimated cost of construction, reconstruction, major repairs of capital construction projects” (in Russian).</li>
+     <li>Order of the Ministry of Construction, Housing and Utilities of 08.06.2018 N 341/pr (22.03.2024) “On approval of the Requirements for the composition, content and procedure for drawing up the conclusion of the state examination of design documentation and (or) the results of engineering surveys” (in Russian).</li>
+     <li>ISO/TS 8000-1:2022. Data quality Part 1: Overview. Geneva: ISO, 2022.</li>
+     <li>ISO 10303-11-2009. Industrial automation systems and integration. Product data representation and exchange. Part 11. Description methods. The EXPRESS language reference manual. Geneva: ISO, 2009.</li>
+     <li>ISO 15926-2-2010. Industrial automation systems and integration. Integration of life-cycle data for process plants including oil and gas production facilities. Part 2. Data model. Geneva: ISO, 2010.</li>
+     <li>ISO/DIS 10303-221 Industrial automation systems and integration: Product data representation and exchange: Application Protocol: Functional data and their schematic representation for process plant. Geneva: ISO, 2015.</li>
+     <li>Semantic Web technologies, available at: https://w3.org/2001/sw/wiki/Main_Page (date of access 28.10.2024).</li>
+     <li>ISO/TS 15926-4:2007. Industrial automation systems and integration. Integration of lifecycle data for process plants including oil and gas production facilities. Part 4. Initial reference data. Geneva: ISO, 2007.</li>
+     <li>ISO/TS 15926-7:2011. Industrial automation systems and integration. Integration of life-cycle data for process plants including oil and gas production facilities. Part 7. Implementation methods for the integration of distributed systems. Template methodology. Geneva: ISO, 2011.</li>
+     <li>ISO/TS 15926-8:2011. Industrial automation systems and integration. Integration of life-cycle data for process plants including oil and gas production facilities. Part 8. Implementation methods for the integration of distributed systems. Web Ontology Language (OWL) implementation. Geneva: ISO, 2011.</li>
+     <li>Gorshkov S. ISO 15926 vs Semantic: comparative analysis of semantic models, available at: https://habr.com/ru/articles/178973/ (date of access 28.10.2024) (in Russian).</li>
+     <li>ISO 16739-1:2018. System of standards on information modeling of buildings and structures. Industry Foundation Classes (IFC) for data sharing in the construction and facility management industries. Part 1. Data schema. Geneva: ISO, 2018.</li>
+     <li>XML Schema, available at: https://www.w3.org/XML/Schema (date of access 28.10.2024).</li>
+     <li>Barbau R., Krima S., Rachuri S. et al.OntoSTEP: Enriching product model data using ontologies, CAD Computer Aided Design, 2012, vol. 44, no. 6, pp. 575—590. DOI: 10.1016/j.cad.2012.01.008.</li>
+     <li>Pauwels P., Terkaj W. EXPRESS to OWL for construction industry: Towards a recommendable and usable ifcOWL ontology, Automation in Construction, Elsevier, 2016, pp. 77—94. DOI: 10.1016/j.autcon.2015.12.003.</li>
+     <li>ISO/ IEC 21838-1:2021. Information technology — Top-level ontologies (TLO) — Part 1: Requirements, IDT. Geneva: ISO, 2021.</li>
+     <li>ISO 19150-4:2019. Geographic information — Ontology-Part 4: Service ontology. Geneva: ISO, 2019.</li>
+     <li>ISO 21127:2023. Information and documentation — A reference ontology for the interchange of cultural heritage information. Geneva: ISO, 2023.</li>
+     <li>W3C standards and drafts, available at: https://w3.org/TR/ (date of access 28.10.2024).</li>
+     <li>Building Topology Ontology, available at: https://w3c-lbd-cg.github.io/bot/ (date of access 28.10.2024).</li>
+     <li>Bonino D., Corno F. DogOnt — Ontology Modeling for Intelligent Domotic Environments, Proceedings of the 7th International Semantic Web Conference, Springer Berlin Heidelberg, Karlsruhe, Germany, 2008, pp. 26—30.</li>
+     <li>Niknam M., Karshenas S. A shared ontology approach to semantic representation of BIM data, Automation in Construction, 2017, vol. 80, pp 22—36. DOI: 10.1016/j.autcon.2017.03.013.</li>
+     <li>The SAREF suite of ontologies, available at: https://saref.etsi.org/ (date of access 28.10.2024).</li>
+     <li>Reinisch C., Kofler M., Iglesias F., Kastner W. ThinkHome Energy Efficiency in Future Smart Homes, EURASIP Journal on Embedded Systems, 2011, article 104617. DOI: 10.1155/2011/104617.</li>
+     <li>Lefrançois M., Kalaoja J., Ghariani T., Zimmermann A. D2.2: The SEAS Knowledge Model, Technical Report, ITEA2 12004 Smart Energy Aware Systems, Brussels, Belgium, 2017.</li>
+     <li>Brick: A Uniform Metadata Schema for Buildings, available at: https://brickschema.org/ (date of access 28.10.2024).</li>
+     <li>Information Modeling Technology Ontology, available at: https://gitflic.ru/project/imbok-pro/imt-ontology (date of access 28.10.2024).</li>
+     <li>Body of Knowledge on Information Modeling in Russia, available at: https://www.imbok.pro/wiki/ (date of access 28.10.2024).</li>
+     <li>RDF 1.2 Turtle, available at: https://w3.org/TR/rdf12-turtle/#dfn-annotation-syntax (date of access 28.10.2024).</li>
+     <li>DAMA-DMBOK: Data Management Body of Knowledge: 2nd Edition, Technics Publications, July 1, 2017, 588 p.</li>
+     <li>ifcBuilding, available at: https://standards.buildingsmart.org/IFC/DEV/IFC4_2/FINAL/HTML/link/ifcbuilding.htm (date of access 28.10.2024).</li>
+     <li>RFC3987. Internationalized Resource Identif iers (IRIs), available at: https://w3.org/TR/owl2-quick-reference/ (date of access 28.10.2024).</li>
+     <li>OWL 2 Web Ontology Language, available at: https://w3.org/TR/owl2-quick-reference/ (date of access 28.10.2024).</li>
+     <li>Semantic Portal for Product Lifecycle Management, available at: https://github.com/sp4plm/SPLM (date of access 28.10.2024).</li>
+     <li>ISO 19650-1:2018.Organization and digitization of information about buildings and civil engineering works, including building information modelling (BIM) — Information management using building information modeling — Part 1: Concepts and principles. Geneva: ISO, 2018.</li>
+ - doi: 16.13-27
+   udk: '004.827, 004.896, 004.512'
+   item_authors: Rego G. E., Pitukhin E. A.
+   item_name: Method of Collaboration between Humans and Generative Artificial Intelligence in the Development of Information Systems
+   item_authors_address: |
+     <b>G. E. Rego</b>, Senior Lecturer, Researcher, regoGr@yandex.ru,
+     <b>E. A. Pitukhin</b>, Professor, Leading Researcher, eugene@petrsu.ru,
+     Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: 'Grigorij E. Rego, Senior Lecturer, Researcher, Scientist, Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: regoGr@yandex.ru'
+   item_rec_on: September 24, 2024
+   item_acc_on: November 14, 2024
+   item_annot: |
+     <p>We propose a method for information system (IS) design with a focus on the applicability of intelligent chatbots. An analysis of existing chatbots shows that current solutions do not have the ability to formulate IS requirements during designing without human intervention. The study proposes to integrate ChatGPT (GPT4 model) as a chatbot to solve the problem of writing requirements elicitation for IS. The proposed method for solving the problem is based on a gradual reduction in entropy of chatbot response, which can be achieved by controlling such basic query parameters as the form, depth and breadth of the prompt. Based on the proposed method, an algorithm for controling prompts during a dialogue with a chatbot was developed, regulating the form, depth and breadth of the question to obtain the required level of content in the answer. The following results were obtained during the study: a method for obtaining new knowledge based on entropy of chatbot response reduction; algorithm for prompts control; the second phase of IS development is automated (including identification of business requirements and system objectives; analysis of existing solutions and technologies; determination of functional requirements and system capabilities; development of system architecture, including service definition and interaction; creation of interfaces for service interaction; establishment of a data model and database and formulation of business process logic). The method was tested to design an IS to support strategic decision making in the forestry industry. The design results received a positive assessment from experts. Analysis of the obtained results revealed the advantages and limitations of using chatbots as co-pilots in the design of IS and outlined directions for future research.</p>
+   item_keywords: artificial intelligence, chatbots, collaborative design, information systems, design method
+   item_pages: 13—27
+   item_comment: The research was supported by the Russian Federation Ministry of Science and Higher Education (state research task, theme no. 075-03-2023-128).
+   item_citation: 'Rego G. E., Pitukhin E. A. Method of Collaboration between Humans and Generative Artificial Intelligence in the Development of Information Systems, Programmnaya Ingeneria, 2025, vol. 16, no. 1, pp. 13—27. DOI: 10.17587/prin.16.13-27.'
+   item_references: |
+     <li>Chattopadhyay S., Nelson N., Au A. et al. Cognitive biases in software development, Communications of the ACM, 2022, vol. 65, no. 4, pp. 115—122. DOI: 10.1145/3517217.</li>
+     <li>Galassi A., Lippi M., Torroni P. Attention in natural lan­guage processing, IEEE transactions on neural networks and learning systems, 2020, vol. 32, no. 10, pp. 4291—4308. DOI: 10.1109/ TNNLS.2020.3019893.</li>
+     <li>Bang Y., Cahyawijaya S., Lee N. et al. A multitask, multi­lingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity. arXiv preprint arXiv:2302.04023, 2023.</li>
+     <li>Storey M.-A., Ernst N., Williams C., Kalliamvakou E. The who, what, how of software engineering research: a socio-technical framework, Empirical Software Engineering, 2020, vol. 25, pp. 4097— 4129. DOI: 10.1007/s10664-020-09858-z.</li>
+     <li>Khurana D., Koli A., Khatter K., Singh S. Natural language processing: State of the art, current trends and challenges, Multimedia tools and applications, 2023, vol. 82, no. 3, pp. 3713—3744. DOI: 10.1007/s11042-022-13428-4.</li>
+     <li>Pauzi Z., Capiluppi A. Applications of natural language processing in software traceability: A systematic mapping study, Journal of Systems and Software, 2023, vol. 198, article 111616. DOI: 10.1016/j.jss.2023.111616.</li>
+     <li>Yalla P., Sharma N. Integrating natural language processing and software engineering, International Journal of Software Engineering and Its Applications, 2015, vol. 9, no. 11, pp. 127—136. DOI: 10.14257/ijseia.2015.9.11.12.</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT 2019, Minneapolis, MN, USA, June 2-7, 2019, Vol. 1 (Long and Short Papers) / Eds. J. Burstein, C. Doran, T. Solorio. Association for Computational Linguistics, 2019, pp. 4171—4186. DOI: 10.18653/V1/N19-1423.</li>
+     <li>von der Mosel J., Trautsch A., Herbold S. On the Validity of Pre-Trained Transformers for Natural Language Processing in the Software Engineering Domain, IEEE Transactions on Software Engineering, 2023, vol 49, no. 4, pp. 1487—1507. DOI: 10.1109/TSE.2022.3178469.</li>
+     <li>Zhao W., Zhou K., Li J. et al. A Survey of Large Language Models. doi: ArXiv abs/2303.18223, 2023.</li>
+     <li>Hendrycks D., Burns C., Basart S. et al. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020. DOI: 10.48550/arXiv.2009.03300.</li>
+     <li>Zowghi D., Coulin C. Requirements elicitation: A survey of techniques, approaches, and tools, Engineering and managing software requirements, 2005, pp. 19—46.</li>
+     <li>Lim S., Henriksson A., Zdravkovic J. Data-driven require­ments elicitation: A systematic literature review, SN Computer Science, 2021, vol. 2, article 16. DOI: 10.1007/s42979-020-00416-4.</li>
+     <li>Ronanki K., Berger C., Horkoff J. Investigating ChatGPT's Potential to Assist in Requirements Elicitation Processes, 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA). IEEE Computer Society, Los Alamitos, CA, USA, pp. 354—361. DOI: 10.1109/SEAA60479.2023.00061.</li>
+     <li>Fan A., Gokkaya B., Harman M. et al. Large Language Models for Software Engineering: Survey and Open Problems, 2023 IEEE/ACM International Conference on Software Engineering: Future of Software Engineering (ICSE-FoSE). IEEE Computer Society, Los Alamitos, CA, USA, 2023, pp. 31—53. DOI: 10.1109/ICSE-FoSE59343.2023.00008.</li>
+     <li>Zamfirescu-Pereira J. D., Wong R., Hartmann B., Yang Q. Why Johnny can't prompt: how non-AI experts try (and fail) to design LLM prompts, Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 2023, pp. 1—21.</li>
+     <li>Abdelnabi S., Greshake K., Mishra S. et al. Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection, Proceedings of the 16th ACM Workshop on Artificial Intelligence and Security, 2023, pp. 79—90.</li>
+     <li>Sallam M. ChatGPT utility in healthcare education, research, and practice: systematic review on the promising perspectives and valid concerns, Healthcare, 2023, vol. 11. no. 6, article 887. DOI: 10.3390/healthcare11060887.</li>
+     <li>Lo C. K. What is the impact of ChatGPT on education? A rapid review of the literature, Education Sciences, 2023, vol. 13, no. 4, article 410. DOI: 10.3390/educsci13040410.</li>
+     <li>Huang J. Tan M. The role of ChatGPT in scientific commu­nication: writing better scientific review articles, American Journal of Cancer Research, 2023, vol. 13, no. 4, article 1148.</li>
+     <li>Liu P., Yuan W., Fu J. et al. Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing, Comput. Surveys, 2023, vol. 55, no. 9, Article 195. DOI: 10.1145/356081.</li>
+     <li>Clavie B., Ciceu A., Naylor F. et al. Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification, Natural Language Processing and Information Systems / Eds. E. Mutais, F. Meziane, V. Sugumaran, W Manning, S. Reiff-Marganiec, Springer Nature Switzerland, Cham, 2023, pp. 3—17.</li>
+     <li>Brown T. B., Mann B., Ryder N. et al. Language Models are Few-Shot Learners. 2020. CoRR abs/2005.14165. arXiv:2005.14165.</li>
+     <li>Li L., Zhang Y., Chen L. Prompt distillation for efficient llmbased recommendation, Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, 2023, pp. 1348—1357. DOI: 10.1145/3583780.3615017.</li>
+     <li>Min S., Lyu X., Holtzman A. et al. Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processin, 2022, pp. 11048—11064. DOI: 10.18653/v1/2022.emnlp-main.759.</li>
+     <li>Wei J., Bosma M., Zhao V. et al. Finetuned Language Models are Zero-Shot Learners, International Conference on Learning Representations, 2022, available at: https://openreview.net/forum?id=gEZrGCozdqR (date of access 25.05.2024).</li>
+     <li>White J., Fu Q., Hays S. et al. A prompt pattern cata­log to enhance prompt engineering with chatgpt. arXiv preprint arXiv:2302.11382, 2023.</li>
+     <li>Zhang R., Hu X., Li B. et al. Prompt, generate, then cache: Cascade of foundation models makes strong few-shot learners?, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 15211—15222.</li>
+     <li>Christiano P., Leike J., Brown T. Deep Reinforcement Learning from Human Preferences. 2017, ArXiv, abs/1706.03741.</li>
+     <li>Kaplan J., McCandlish S., Henighan T. et al. Scal­ing Laws for Neural Language Models, 2020. arXiv:2001.08361 DOI: 10.48550/arXiv.2001.08361.</li>
+     <li>Wei J., Wang X., Schuurmans D. et al. Chain of Thought Prompting Elicits Reasoning in Large Language Models, Proceedings of the 36th International Conference on Neural Information Processing Systems, 2022, pp. 24824 — 24837.</li>
+     <li>Kojima T., Gu S. S., Reid M. et al. Large language models are zero-shot reasoners, 2022. arXiv:2205.11916. DOI: 10.48550/ arXiv.2205.11916.</li>
+     <li>Arvidsson S., Axell J. Prompt engineering guidelines for LLMs in Requirements Engineering. 2023, available at: https://hdl. handle.net/2077/77967 (date of access 25.05.2024).</li>
+     <li>Singh R., Gehlot A., Akram S. et al. Forest 4.0: Digitalization of forest using the Internet of Things (IoT), Journal of King Saud University-Computer and Information Sciences, 2022, vol. 34, no. 8, pp. 5587—5601.</li>
+     <li>Rubi J., de Carvalho P., Gondim P. Forestry 4.0 and Industry 4.0: Use case on wildfire behavior predictions, Computers and Electrical Engineering, 2022, vol. 102, article 108200. DOI: 10.1016/j.compeleceng.2022.108200.</li>
+     <li>Sahal R., Alsamhi S., Breslin J., Ali M. Industry 4.0 towards Forestry 4.0: Fire detection use case, Sensors, 2021, vol. 21, no. 3, article 694. DOI: 10.3390/s21030694.</li>
+     <li>Molinaro M. Orzes G. From forest to finished products: The contribution of Industry 4.0 technologies to the wood sector, Computers in Industry, 2022, vol. 138, article103637. DOI: 10.1016/j. compind.2022.103637.</li>
+     <li>Prabha C., Connaway L., Olszewski L., Jenkins L. What is Enough? Satisficing Information Needs, Journal of Documentation, 2007, vol. 63, no. 1, pp. 74—89. DOI: 10.1108/00220410710723894.</li>
+ - doi: 16.28-38
+   udk: '004.932.2'
+   item_authors: Abakumov A. V.
+   item_name: Software Complex for Documenting Graphical Applications Based on Topological Decomposition
+   item_authors_address: |
+     <b>A. V. Abakumov</b>, Graduate Student, artem210966@yandex.ru,
+     Murom Institute of Vladimir State University, Murom, 602264, Russian Federation
+   item_corr_author: 'Artem V. Abakumov, Graduate Student, Murom Institute of Vladimir State University, Murom, 602264, Russian Federation E-mail: artem210966@yandex.ru'
+   item_rec_on: September 06, 2024
+   item_acc_on: October 30, 2024
+   item_annot: |
+     <p>Contemporary software products and services necessitate extensive accompanying information, including user manuals and documentation. The task becomes more complex in the case of graphical applications, as it requires capturing screenshots and highlighting the described elements. Attaining high-quality visual information using conventional means demands considerable effort and time, since, unlike text, raster images do not provide an interface for retrieving metadata about individual elements, necessitating programmatic extraction of such information.
+     This study presents a software complex designed to automate and expedite this process. The primary focus is on a topo­logical decomposition method that segments images based on topological features such as pixel brightness and proximity, enabling the segmentation of screenshots into control elements. This approach demonstrates high accuracy (96-99 %) in identifying graphical components across most tested images. The software product encompasses functions for the automatic capture of application windows, an algorithm for identifying control elements, and the capability to export the entire image or a specified region. Additionally, an algorithm for generating output templates for image insertion has been implemented.
+     The decomposition method has exhibited effectiveness across the majority of test data. In instances with shadow effects, noise levels were recorded at a maximum of 34 %; however, in most cases, this figure did not exceed 3 %. Further research may contribute to enhancing these results. The findings of this study could prove valuable for the continued exploration of graphical user interface decomposition and the assessment of the method's effectiveness on diverse images. The developed software complex significantly simplifies and accelerates the documentation process, thereby opening new avenues in the automation of software development.</p>
+   item_keywords: image processing, documentation, persistent homology, image decomposition, graphical user interface
+   item_pages: 28—38
+   item_comment: This study was supported by the Russian Science Foundation, project no. 23-21-10064, https://rscf.ru/project/23-21-10064/.
+   item_citation: 'Abakumov A. V. Software Complex for Documenting Graphical Applications Based on Topological Decomposition, Programmnaya Ingeneria, 2025, vol. 16, no. 1, pp. 28—38. DOI: 10.17587/prin.16.28-38. (in Russian).'
+   item_references: |
+     <li>Macchi F., Rosin P., Mervi J., Turchet L. Image-based approaches for automating GUI testing of interactive web-based applications, 28th Conference of Open Innovations Association (FRUCT), Moscow, Russia, 2021, pp. 278—285. DOI: 10.23919/ FRUCT50888.2021.9347592.</li>
+     <li>Koltsov P. P., Osipov A. S., Kutsaev A. S. et al. On the quantitative performance evaluation of image analysis algorithms, Computer optics, 2015, vol. 39, no. 4, pp. 542—556. DOI: 10.18287/0134-2452-2015-39-4-542-556 (in Russian).</li>
+     <li>Ganesan P., Sajiv G. A comprehensive study of edge detection for image processing applications, 2017 International Conference on Innovations in Information, Embedded and Communication Systems (ICIIECS), Coimbatore, India, 2017, pp. 1—6. DOI: 10.1109/ICIIECS.2017.8275968.</li>
+     <li>Subr K., Soler C., Durand F. Edge-preserving multiscale image decomposition based on local extrema, ACM Transactions on Graphics, 2009, vol 28, no. 5, pp. 1—9. DOI: 10.1145/1618452.161849.</li>
+     <li>Guo T., Zhang T., Lim E. et al. A review of wavelet analysis and its applications: Challenges and opportunities, IEEE Access, 2022, no. 10, pp. 58869—58903. DOI: 10.1109/AC-CESS.2022.3179517.</li>
+     <li>Oh H.-S., Choi G., Kim D. Decomp2d: An R solution for image decomposition, SoftwareX, 2022, no. 19, 101182 p. DOI: 10.1016/j.softx.2022.101182.</li>
+     <li>Du S., Liu Y., Zhao M. et al. A new image decomposition approach using pixel-wise analysis sparsity model, Pattern Recognition, 2023, no. 136, 109241 p. DOI: 10.1016/j.patcog.2022. 109241.</li>
+     <li>Chen Q., Koltun V. A simple model for intrinsic image decomposition with depth cues, Stanford University, Adobe Research, 2013, pp. 241—248. DOI: 10.1109/ICCV.2013.37.</li>
+     <li>Rukhovich D. D. Iterative Scheme for Object Detection in Crowded Environments, Programmnaya Ingeneria, 2021, vol. 12, no. 1, pp. 31—39. DOI: 10.17587/prin.12.31-39 (in Russian).</li>
+     <li>Li Z., Snavely N. Learning intrinsic image decomposition from watching the world, 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, USA, 2018, pp. 9039—9048. DOI: 10.1109/CVPR.2018.00942/.</li>
+     <li>Zhou F., Chen Q., Liu B. tructure and texture-aware image decomposition via training a neural network, IEEE Transactions on Image Processing, 2020, no. 29, pp. 3458—3473. DOI: 10.1109/ TIP.2019.2961232.</li>
+     <li>Feng F., Hu Y., Li W. Improved YOLOv8 algorithms for small object detection in aerial imagery, Journal of King Saud University — Computer and Information Sciences, 2024, vol. 36, no. 6, pp. 102113. DOI: 10.1016/j.jksuci.2024.102113.</li>
+     <li>Papernot N., McDaniel P., Jha S. et al. The Limitations of Deep Learning in Adversarial Settings, IEEE European Symposium on Security and Privacy (EuroS&P), Saarbrucken, Germany, 2016, pp. 372—387. DOI: 10.1109/EuroSP.2016.36.</li>
+     <li>Stefanos T. Limitations of Deep Neural Networks: a dis­cussion of G. Marcus' critical appraisal of deep learning, arxiv. 2020.15754. DOI: 10.48550/arXiv.2012.15754.</li>
+     <li>Wiyatno R., Xu A., Dia O., Berker A. Adversarial Exam­ples in Modern Machine Learning: A Review, arxiv.2019.05268. DOI: 10.48550/arXiv.1911.05268.</li>
+     <li>Bons A., Marin B., Aho P., Vos T. E. J. Scripted and scriptless GUI testing for web applications: An industrial case, Information and Software Technology, 2023, no. 158, рр. 107172. DOI: 10.1016/j.infsof.2023.107172.</li>
+     <li>Mariani L., Pezze M., Zuddas D. Recent advances in automatic black-box testing, Advances in Computers, 2015, no. 99, pp. 157—193. DOI: 10.1016/bs.adcom.2015.04.002.</li>
+     <li>Honfi D., Micskei Z. White-box software test generation with Microsoft Pex on open source C# projects: A dataset, Data in Brief, 2020, no. 31. DOI: 10.1016/j.dib.2020.105962.</li>
+     <li>Yuanchun L., Ziyue Y., Yao G. et al. Humanoid: A Deep Learning-based Approach to Automated Black-box Android App Testing, arXiv.2019. 02633. DOI: 10.48550/arXiv.1901.02633.</li>
+     <li>Thomas D., White G., Guy J. Improving random GUI testing with image-based widget detection, Proceedings of the 28th ACM SIG-SOFT International Symposium on Software Testing and Analysis (ISSTA 2019), Beijing, China, 2019, pp. 307—317. DOI: 10.1145/3293882.333055/.</li>
+     <li>Eremeev S. V., Abakumov A. V., Andrianov D. E., Titov D. V. Image decomposition method by topological features, Computer optics, 2022, vol. 46, no. 6, pp. 939—947. DOI: 10.18287/2412-6179-CO-1080 (in Russian).</li>
+     <li>Eremeev S. V., Abakumov A. V., Andrianov D. E. et al. Detection of perennial heaving mounds in digital elevation model images using decomposition by topological features, Sovremennye problemy distantsionnogo zondirovaniya zemli iz kosmosa, 2023, vol. 20, no. 6, pp. 129—143. DOI: 10.21046/2070-7401-2023-20-6-129-143(in Russian).</li>
+     <li>Abakumov A., Eremeev S. Segmentation of Graphical User Interface Elements Based on Topological Decomposition for GUI Testing Tasks, Data Analytics and Management in Data Intensive Domains. DAMDID/RCDL 2023. Communications in Computer and Information Science, 2024, no. 2086. DOI: 10.1007/978-3-031-67826-4_14.</li>
+     <li>Carlson G. Topology and data, Bulletin (New Series) of the American Mathematical Society, 2009, vol. 46, no. 2, pp. 255—308. DOI:10.1090/S0273-0979-09-01249-X.</li>
+     <li>Roy H., Shafiuzzaman М., Samsuddoha М. SRCS: A new proposed counting sort algorithm based on square root method, 2019 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1—6. DOI: 10.1109/ICCIT48885.2019.9038601.</li>
+ - doi: 16.39-46
+   udk: '004.5'
+   item_authors: Turovsky Ya. A., Borzunov S. V., Krupenin S. S., Mironkin A. P., Tokarev R. A.
+   item_name: Implementation of a Feedback System for Myoelectric Prostheses of the Upper Limb
+   item_authors_address: |
+     <b>Ya. A. Turovsky<sup>1,2</sup></b>, Associate Professor, Leading Researcher, yaroslav_turovsk@mail.ru,
+     <b>S. V. Borzunov<sup>1</sup></b>, Associate Professor, borzunov@cs.vsu.ru,
+     <b>S. S. Krupenin<sup>1</sup></b>, Postgraduate Student, semyon.krupenin@bk.ru,
+     <b>A. P. Mironkin<sup>1</sup></b>,  Postgraduate Student, artemmironkin17@yandex.ru,
+     <b>R. A. Tokarev<sup>1</sup></b>, Magistrate, tokarev0801@mail.ru
+     <br>
+     <sup>1</sup> Voronezh State University, Voronezh, 394018, Russian Federation,
+     <br>
+     <sup>2</sup> Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_corr_author: 'Yaroslav A. Turovsky, Associate Professor, Leading Researcher, Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: yaroslav_turovsk@mail.ru'
+   item_rec_on: October 18, 2024
+   item_acc_on: November 19, 2024
+   item_annot: |
+     <p>The feedback system is presented in the aspect of its software and hardware support, necessary for the synthesis of such an information system as applied to a myoelectric prosthesis. The most successful configurations of sensors, micro­controllers, actuators from the standpoint of software and hardware implementation are defined and designed. Approaches to the installation and location of tactile actuators on the surface of the hand are designed, which determine the optimal number of elements depending on the anatomical features of the stump. Based on this approach, an information system for training the user to work with myoelectric prostheses was created, using virtual reality technology.</p>
+   item_keywords: myographic interface, myographic prosthesis, feedback system
+   item_pages: 39—46
+   item_citation: 'Turovsky Ya. A., Borzunov S. V., Krupenin S. S., Mironkin A. P., Tokarev R. A. Implementation of a Feedback System for Myoelectric Prostheses of the Upper Limb, Programmnaya Ingeneria, 2025, vol. 16, no. 1, pp. 39—46. DOI: 10.17587/prin.16.39-46 (in Russian).'
+   item_references: |
+     <li>Federal State Statistics Service, available at: https://rosstat. gov.ru/storage/mediabank/Pr_travm.xlsx (date of access 13.10.2024) (in Russian).</li>
+     <li>Bondareva L. A., Dunaev A. V. Biotechnical medical systems for therapeutic purposes, OrelGTU, 2005, 66 p. (in Russian).</li>
+     <li>Sergeev S. V., Minasov B. Sh., Grishanina V. O., Abdul-habirov M. A. History of prosthetics, Mediko-social'nye problemy invalidnosti, 2017, no. 2, pp. 84—89 (in Russian).</li>
+     <li>Fisenko K. I., Peschkov S. А., Turovsky Ya. A. Information system of tactile and temperature feedback in myoelectric prostheses, Sb. stud. nauchn. rabot fakul'teta komp'yuternyh nauk VGU/ Eds D. N. Bor-isov. Voronezh, ID VGU, 2015, vol. 9, pp. 276—280 (in Russian).</li>
+     <li>Marasco P. D., Hebert J. S., Sensinger J. W. et al. Illusory movement perception improves motor control for prosthetic hands, Science translational medicine, 2018, vol. 10, no. 432, article eaao6990. DOI: 10.1126/scitranslmed.aao6990.</li>
+     <li>Turovsky Ya. A., Fisenko K. I., Mamaev A. V. Localization of signals in a tactile feedback system for myoelectric prostheses of the upper limbs, Zhurnal mediko-biologicheskih issledovanij, 2019, no. 1, pp. 56—65 (in Russian).</li>
+     <li>Proprioceptors closure, available at: https://medbiol.ru/med-biol/anatomia/0007e0da.htm (date of access 16.10.2024).</li>
+     <li>Zawawi M. A. An optical fibre sensor for physiological bending monitoring in clinical environment: diss. University of Limerick, 2015. 331 р.</li>
+     <li>Ueda Y., Ishii C. Development of a feedback device of temperature sensation for a myoelectric prosthetic hand by using Peltier element, 2016 International Conference on Advanced Mechatronic Systems (ICAMechS). IEEE, 2016, pp. 488—493. DOI: 10.1109/ICAMechS.2016.7813497.</li>
+     <li>Chen D., Song A., Tian L. et al. FW-Touch: A finger wearable haptic interface with an MR foam actuator for displaying surface material properties on a touch screen, IEEE transactions on haptics, 2019, vol. 12, no. 3, pp. 281—294. DOI: 10.1109/TOH.2019.2920349.</li>
+     <li>Morales H., Duran C., Roa E. A Low-Area Direct Memory Access Controller Architecture for a RISC-V Based Low-Power Microcontroller, 2019 IEEE 10th Latin American Symposium on Circuits & Systems (LASCAS), Armenia, Colombia, 2019. pp. 97—100. DOI: 10.1109/LASCAS.2019.8667579.</li>
+     <li>Hannan E. J., Kavalieris L. A method for autoregressive-moving average estimation, Biometrika, 1984, vol. 71, no. 2, pp. 273—280.</li>
+ - doi: 16.47-56
+   udk: '519.85'
+   item_authors: Kolyeva N. S., Panov M. A., Kuznetsov V. Е., Yarochkina К. D., Perestenko К. A.
+   item_name: Development of Prototype Software for the Hardware-Software Complex "Marking Inspection"
+   item_authors_address: |
+     <b>N. S. Kolyeva</b>, Associate Professor, nkoleva@mail.ru,
+     <b>M. A. Panov</b>, Associate Professor, Head of Chair, panov_ma@usue.ru,
+     <b>V. Е. Kuznetsov</b>, Student, burbenok77@mail.ru,
+     <b>К. D. Yarochkina</b>, Master's Student, katya.klepikova@mail.ru,
+     <b>К. A. Perestenko</b>,  Master's student, kerl.1@ya.ru,
+     Ural State University of Economics, Yekaterinburg, 620144, Russian Federation
+   item_corr_author: 'Natalya S. Kolyeva, Associate Professor, Ural State University of Economics, Yekaterinburg, 620144, Russian Federation E-mail: nkoleva@mail.ru'
+   item_rec_on: July 17, 2024
+   item_acc_on: October 22, 2024
+   item_annot: |
+     <p>The results of the analysis of existing approaches to labeling of goods are presented, the requirements of legislation and regulations in this area are considered. Based on the obtained data, a software prototype has been developed that can automate the process of marking verification, which will provide a high level of control and minimize errors.
+     It is expected that the developed prototype will contribute to the efficiency of the labeling process, ensuring not only compliance with regulations, but also improving the overall safety and quality of products offered on the market.
+     The software product is focused on universal application and can be integrated into a variety of business spheres, including production of goods, provision of services, warehouse management and even in areas where a complex process of control over the production and labeling of goods is required.</p>
+   item_keywords: software and hardware complex, marking, symbols, recognition
+   item_pages: 47—56
+   item_citation: 'Kolyeva N. S., Panov M. A., Kuznetsov V. Е., Yarochkina К. D., Perestenko К. A. Development of Prototype Software for the Hardware-Software Complex "Marking Inspection", Programmnaya Ingeneria, 2025, vol. 16, no. 1, pp. 47—56. DOI: 10.17587/prin.16.47-56. (in Russian).'
+   item_references: |
+     <li>Yates M., Concra A. Product Labeling, Textiles for Residential and Commercial Interiors, New York, Fairchild Books, 2024, pp. 149—158. DOI: 10.5040/9781501389726.ch-11.</li>
+     <li>Diamond J., Litt S. Private Labeling and Product Develop­ment, Retailing in the Twenty-First Century, London, Fairchild Pub­lications, 2009, pp. 341—360. DOI: 10.5040/9781501304118.ch-015.</li>
+     <li>Kroshchanka A., Ivaniuk D. Neural network component of the product marking recognition system on the production line, Open semantic technologies for designing intelligent systems, 2021, no. 5, pp. 219—224 (in Russian).</li>
+     <li>Clark-Esposito D. Consumer safety and product labeling guidance, A Practical Guide to Fashion Law and Compliance. New York, Fairchild Books. 2018, pp. 15-35. DOI: 10.5040/9781501322914. ch-002.</li>
+     <li>Latchoumanane V., Varadhan M. Antimagic Labeling for Product of Regular Graphs, Symmetry, 2022, vol. 14, no. 6, article 1235. DOI: 10.3390/sym14061235.</li>
+     <li>Staffolani G., Rahmani D., Bentivoglio D. et al. The moun­tain product label: Choice drivers and price premium, Future Foods, 2023. vol. 8, article 100270. DOI: 10.1016/j.fufo.2023.100270.</li>
+     <li>Ronft S., Friedrich M. G., Sofiullah M. Effect of product placement labeling on visual product and brand reception — anempirical eye tracking study, Journal of Marketing Communications, 2023, pp. 1—16. DOI: 10.1080/13527266.2023.2275133.</li>
+     <li>McGrady B. Product Regulation and Labeling Measures under the SPS and TBT Agreements, Trade and Public Health: The WTO, Tobacco, Alcohol, and Diet, Cambridge University Press, 2011, pp. 170—214. DOI: 10.1017/CBO9780511977305.006.</li>
+     <li>Yetgin Z., Elewi A., Goziikara F. Efficient Feature Selection for Product Labeling over Unstructured Data, International Journal of Advanced Computer Science and Applications (ijacsa), 2017, vol. 8, no. 7. DOI:10.14569/IJACSA.2017.080750.</li>
+     <li>Xie Q., Wang Z., Yang Z. Simplified Soft Demapper for APSK with Product Constellation Labeling, IEEE Transactions on Wireless Communication, 2012, vol. 11, no. 7, pp. 2649—2657. DOI: 10.1109/TWC.2012.051412.112055.</li>
+     <li>Federal Law No. 487-FZ of 31.12.2017 "On Amending Article 4-7 of the Federal Law "On the Application of Cash Registers in Cash Settlements and (or) Settlements Using Electronic Means of Payment"" and Articles 5 and 8 of the Federal Law "On the Principles of State Regulation of Trading Activities in the Russian Federation" (in Russian).</li>
+     <li>Law of the Russian Federation from 07.02.1992 N 2300-1 (ed. from 08.08.2024) "On Protection of Consumer Rights" (in Russian).</li>
+     <li>Key Soft, available at: https://keysoftware.ru (date of access 10.07.2024) (in Russian).</li>
+     <li>Case: Import. Cheese labeling at SOMBOLED production (VECAS Ltd.), available at: https://markirovka.ru/community/best-practics/keys-import-markirovka-syra-na-proizvodstve-somboled-ooo-vekas (date of access 10.07.2024) (in Russian).</li>
+     <li>Certification support services and Certification and documentation support services for manufacturers and importers. URL:https://belps.by (date of access 10.07.2024) (in Russian).</li>
+     <li>Kolyeva N. S. Organization of multi-access in databases, E3S Web of Conferences, WFCES 2021. vol. 270, article 01006. DOI: 10.1051/e3sconf/202127001006.</li>
+     <li>Iklassova K. E., Kozhakhmetova R. N. Modeling the dynamic semantics of a computer program, Digital models and solutions, 2023, vol. 2, no. 4, pp. 5—12. DOI: 10.29141/2949-477X-2023-2-4-1.</li>
+     <li>Kolyeva N., Gorodnichev V. Analysis of using queuing systems for estimating the performance of computing systems, AIP Conference Proceedings, 2023, vol. 2812, no. 1, article 020088. DOI: 10.1063/5.0161392.</li>
+     <li>Kislitsyn E. V., Panov M. A. Modern technologies of software development: study guide. Ekaterinburg: UrSEU, 2021, 176 p. (in Russian).</li>
+     <li>Description of the structure of datamatrix codes of GIS systems MT, MDLP, available at: https://fs.rbsoft.ru/ServerKKM/doc/DataMatrix.pdf (date of access 10.07.2024) (in Russian).</li>
