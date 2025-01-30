@@ -2,6 +2,7 @@
 title: Номер 5 2024 год 
 content:
  - doi: 15.219-228
+   edn: EHCXKN
    udk: "004.42"
    item_authors: "Курако Е. А., Асратян Р. Э., Орлов В. Л."
    item_name: "Сервис-браузер в среде Linux"
@@ -13,6 +14,7 @@ content:
    item_pages: 219–228
    item_citation: "Курако Е. А., Асратян Р. Э., Орлов В. Л. Сервис-браузер в среде Linux // Программная инженерия. 2024. Том 15, № 5. С. 219—228. DOI: 10.17587/prin.15.219-228."
  - doi: 15.229-242
+   edn: AEXIMD
    udk: "004.413"
    item_authors: "Zmeev D. O., Zmeev O. A., Ivanova L. S."
    item_name: "Applying OMG Essence with Bayesian Network to Software Project Management"
@@ -25,6 +27,7 @@ content:
    item_pages: 229–242
    item_citation: "Zmeev D. O., Zmeev O. A., Ivanova L. S. Applying OMG Essence with Bayesian Network to Software Project Management // Программная инженерия. 2024. Том 15, № 5. С. 229—242. DOI: 10.17587/ prin.15.229-242."
  - doi: 15.243-253
+   edn: OSNCKU
    udk: "004.021"
    item_authors: "Коробкин Д. М., Рублев А. А., Фоменков С. А."
    item_name: "Прогнозирование значимости запатентованных технологий на основе метрик инновационного потенциала"
@@ -37,6 +40,7 @@ content:
    item_comment: Исследование выполнено за счет гранта Российского научного фонда № 23-21-00464, https://rscf.ru/project/23-21-00464/
    item_citation: "Коробкин Д. М., Рублев А. А., Фоменков С. А. Прогнозирование значимости запатентованных технологий на основе метрик инновационного потенциала // Программная инженерия. 2024. Том 15, № 5. С. 243—253. DOI: 10.17587/prin.15.243-253."
  - doi: 15.254-264
+   edn: RKUFUF
    udk: "004.95"
    item_authors: "Орлов Г. О., Воробьева Г. Р."
    item_name: "Новый подход к обработке и интерпретации пространственно-временных векторных данных"
@@ -49,6 +53,7 @@ content:
    item_pages: 254–264
    item_citation: "Орлов Г. О., Воробьева Г. Р. Новый подход к обработке и интерпретации пространственно-временных векторных данных // Программная инженерия. 2024. Том 15, № 5. С. 254—264. DOI: 10.17587/prin.15.254-264."
  - doi: 15.265-272
+   edn: LWLBBO
    udk: "004.032.26"
    item_authors: "Palchevsky E. V., Antonov V. V., Makarova E. A., Kononov N. A., Voyakovskaya Ya. S."
    item_name: "Method of Data Preprocessing on the Basis of Pulse Neural Network to Improve the Accuracy of Water Level Forecast on the Example of Ufa City of the Republic of Bashkortostan"
