@@ -30,6 +30,12 @@
       </div>
      <% end %>
 
+     <% unless @item[:edn].nil? %>
+      <div id="edn" class="item_element">
+       <a href="https://elibrary.ru/<%= item[:edn] %>">Полный текст на eLIBRARY</a>
+      </div>
+     <% end %>
+
     </div>
    </div>
 
