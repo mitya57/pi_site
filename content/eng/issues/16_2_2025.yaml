@@ -1,0 +1,217 @@
+---
+title: Issue N2 2025 year
+content:
+ - doi: 16.59-71
+   udk: '004.432.2'
+   item_authors: Kostiukhin K. A., Levchenkova G. L., Samborskii S. V.
+   item_name: About Some Innovations of the C Programming Language Standard C23
+   item_authors_address: |
+     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru,
+     <b>G. L. Levchenkova</b>, Senior Researcher, galka@niisi.ras.ru,
+     <b>S. V. Samborskii</b>, Senior Researcher, sambor@niisi.ras.ru,
+     Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
+   item_corr_author: 'Konstantin A. Kostiukhin, Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
+   item_rec_on: October 22, 2024
+   item_acc_on: November 20, 2024
+   item_annot: |
+     <p>The article discusses some of the innovations of the C23 standard that are relevant to programmers. Tests have been proposed and implemented to verify these innovations on the latest (at the time of writing) version of the popular GCC and clang compilers. A forecast is made regarding the further standardization of the C language.
+     It can be noted that the GCC and clang compilers mainly support the C23 standard. Some inconsistencies and problems were found. If we try to somehow summarize the C23 standard with one idea, then, perhaps, this is a movement towards the "universality" or "self-sufficiency" of the C language. I.e., in order to implement in C typical tasks, you should have an idea about the hardware (processor and peripherals), the assembly language, the format of object files and the operating system. This is justified when it comes to system programming, but, according to the authors, there is another place for the C language, it is an effective (both in productivity and in memory) replace­ment for languages like Java and C++. At the same time, it is desirable that the programmer is not required to know anything other than the standard C language. Many of the features added to the C language by the C23 standard can be discussed from this point of view. Another trend that can be traced in different parts of C23 is the influence of C++. In addition to unifying the syntax in the form of new keywords, there are also more obvious examples of C++ influence. The future of the C23 standard is interesting. Each proposed innovation can immediately turn out to be generally accepted, or become the subject of long, lively discussions, or never be used by anyone. What of these features exactly will be successful will become clear in a few years.</p>
+   item_keywords: C programming language, standard, C23, C24
+   item_pages: 59—71
+   item_citation: 'Kostiukhin K. A., Levchenkova G. L., Samborskii S. V. About Some Innovations of the C Programming Language Standard C23, Programmnaya Ingeneria, 2025, vol. 16, no. 2, pp. 59—71. DOI: 10.17587/prin.16.59-71 (in Russian).'
+   item_references: |
+     <li>ISO/IEC 9899:2024, available at: https://www.iso.org/stan-dard/82075.html (date of access 15.11.2024).</li>
+     <li>WG14-N3096: Draft for ISO/IEC 9899:2023, available at: https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3096.pdf (date of access 15.11.2024).</li>
+     <li>WG14-N3220: Draft for ISO/IEC 9899:2024, available at: https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf (date of access 15.11.2024).</li>
+     <li>GCC, the GNU Compiler Collection, available at: https://www.gnu.org/software/gcc (date of access 15.11.2024).</li>
+     <li>Clang: a C language family frontend for LLVM, available at: https://clang.llvm.org (date of access 15.11.2024).</li>
+     <li>Compiler support for C23, available at: https://en.cppreference.com/w/c/compiler_support/23 (date of access 15.11.2024).</li>
+     <li>JeanHeyd Meneide. Finally. #embed, July 22, 2022, available at: https://thephd.dev/finally-embed-in-c23 (date of access 15.11.2024).</li>
+     <li>The international standardization working group for the programming language C, available at: https://www.open-std.org/jtc1/sc22/wg14/www/docs (date of access 15.11.2024).</li>
+ - doi: 16.72-80
+   udk: '007.51'
+   item_authors: Levonevskiy D. K., Motienko A. I.
+   item_name: Analysis of User Activity Based on Events in Physical Access Control Systems
+   item_authors_address: |
+     <b>D. K. Levonevskiy</b>, PhD, Senior Researcher, levonevskij.d@iias.spb.su,
+     <b>A. I. Motienko</b>, PhD, Senior Researcher, anna.gunchenko@gmail.com,
+     St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS),
+     St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
+   item_corr_author: 'Dmitriy K. Levonevskiy, PhD, Senior Researcher, St. Petersburg Federal Research Center of the Russian Academy of Sciences, Saint Petersburg, 199178, Russian Federation, E-mail: levonevskij.d@iias.spb.su'
+   item_rec_on: October 10, 2024
+   item_acc_on: November 26, 2024
+   item_annot: |
+     <p>This paper considers analysis of user activity based on the event data collected by enterprise physical access and control systems. Such systems accumulate large amounts of data that can be used to profile users and detect anomalies — data patterns that stand out from the whole dataset. Detected anomalies indicate technical problems, incidents, or other security risks and serve as a basis for identifying security incidents. A simple software framework was developed to automate the analysis and visualization of data. Using it, it becomes possible to describe user behavior as vector data and perform their statistical analysis. The resulting vectors and their visualization can be used to assess similarities and differences in employee behavior profiles. This allows grouping similar profiles and identifying cases of deviations. Future studies imply performing clustering and determining typical user profiles and their behavior scenarios in "smart" enterprises.</p>
+   item_keywords: physical access control systems (PACS), cyber-physical systems, data processing, software frameworks, user profiling, behavior analysis, behavior modeling, principal component analysis, statistical analysis, corporate information systems
+   item_pages: 72—80
+   item_comment: The research was supported by the state budget (project No. FFZF-2022-0006)
+   item_citation: 'Levonevskiy D. K., Motienko A. I. Analysis of User Activity Based on Events in Physical Access Control Systems, Programmnaya Ingeneria, 2025, vol. 16, no. 2, pp. 72—80. DOI: 10.17587/prin.16.72-80 (in Russian).'
+   item_references: |
+     <li>National Institute of Standards and Technology (NIST). Security and Privacy Controls for Information Systems and Orga­nizations. Draft NIST Special Publication 800—53 Revision 5. 2017. DOI: 10.6028/NIST.SP.800-53r5.</li>
+     <li>Kumari P. Anomaly Detection for Video Based Security and Surveillance, available at: https://www.labellerr.com/blog/deciphering-the-complexities-of-anomaly-detection-in-computer-vision/ (date of access 05.08.2024).</li>
+     <li>Beaudet A., Escudero C., Zamai E. Malicious Anomaly Detection Approaches Robustness in Manufacturing ICSs, IFAC-PapersOnLine, 2021, vol. 54, no. 1, pp. 146—151. DOI: 10.1016/j.ifacol.2021.08.016.</li>
+     <li>Top access control trends for 2022, available at: https://www.openpath.com/blog-post/access-control-security-trends (date of access 05.08.2024).</li>
+     <li>Schwab K. The fourth industrial revolution, Crown Currency, 2017, 192 p.</li>
+     <li>Best access control systems of 2024, available at: https://www.techradar.com/news/best-access-control-systems (date of access 05.08.2024).</li>
+     <li>Zhu L. Cui Z. Ding L. et al. Black box attack and network intrusion detection using machine learning for malicious traffic, Computers & Security, 2022, vol. 123, article 102922. DOI: 10.3127/ajis.v22i0.1667.</li>
+     <li>Breier J., Branisova J. Anomaly detection from log files using data mining techniques, Information Science and Applications. Lecture Notes in Electrical Engineering, 2015, vol. 339, pp. 449—457. DOI: 10.1007/978-3-662=46578-3_53.</li>
+     <li>Antonolpoulos F., Petrakis E. G. M., Sotiriadis S., Bessis N. A physical access control system on the cloud, Procedia Computer Science, 2018, vol. 130, pp. 318—325. DOI: 10.1016/j.proc.2018.04.045.</li>
+     <li>Kawa J., Pycinski B., Smolinski M. et al. Design and Implementation of a Cloud PACS Architecture, Sensors, 2022, vol. 22, no. 21, article. 8569. DOI: 10.3390/s22218569.</li>
+     <li>Poh J. P., Lee J. Y. C., Tan K. X., Tan E. Physical access log analysis: An unsupervised clustering approach for anomaly detection, Proceedings of the 3rd International Conference on Data Science and Information Technology, 2020, pp. 12—18. DOI: 10.1145/3414274.3414285.</li>
+     <li>Skopik F., Wurzenberger M., Hold G. et al. Behavior-based anomaly detection in log data of physical access control systems, IEEE Transactions on Dependable and Secure Computing, 2022, vol. 20, no. 4, pp. 3158—3175. DOI: 10.1109/TDSC.2022.3196275.</li>
+     <li>Studiawan H., Payne C., Sohel F. Graph clustering and anomaly detection of access control log for forensic purposes, Digital Investigation, 2017, vol. 21, pp. 76 — 87. DOI: 10.1016/j.diin.2017.05.001.</li>
+     <li>Cavallaro C., Ronchieri E. Identifying Anomaly Detection Patterns from Log Files: A Dynamic Approach, Identifying anomaly detection patterns from log files: A dynamic approach, Computation- al Science and Its Applications—ICCSA 2021. Springer International Publishing, 2021, pp. 517—532. DOI: 10.3390/computers11080117.</li>
+     <li>Geepalla E., Asharif S. Analysis of physical access control system for understanding users behavior and anomaly detection using Neo4j, Proceedings of the 6th International Conference on Engineering & MIS 2020, 2020, pp. 1—6. DOI: 10.1145/3410352.3410817.</li>
+     <li>Landauer M., Onder S., Skopik F., Wurzenberger M. Deep learning for anomaly detection in log data: A survey, Machine Learning with Applications, 2023, vol. 12, article 100470. DOI: 10.1016/j.mlwa.2023.100470.</li>
+     <li>Sonneveld J. J. Profiling Users by Access Behaviour Us­ing Data Available to a Security Operations Center. Ph.D. Thesis. University of Twente, 2023, 96 p.</li>
+     <li>Levonevskiy D., Motienko A., Vinogradov M. Complex user identification and behavior anomaly detection in corporate smart spaces, International Conference on Interactive Collaborative Robotics, Cham: Springer International Publishing, 2022, pp. 199—209. DOI: 10.1007/978-3-031-23609-9_18.</li>
+     <li>Levonevskiy D., Evnevich E. Analysis of user behavior using corporate physical access control systems, AIP Conference Proceedings. AIP Publishing, 2023, vol. 2999, no. 1, article 020057. DOI: 10.1063/5.0158373.</li>
+     <li>Ivchenko G. I., Medvedev Yu. I. Introduction to Mathematical Statistics, Moscow, LKI, 2010, 600 p. (in Russian).</li>
+     <li>Jolliffe I. T. Principal Component Analysis, Springer Series in Statistics, Springer-Verlag, 1986, 518 p.</li>
+ - doi: 16.81-91
+   udk: '004.928'
+   item_authors: Zabiyako A. S., Trofimenko E. V., Khmeleva I. V.
+   item_name: Application of the Finite Element Method to Stabilize a Character's Head in Computer Animation
+   item_authors_address: |
+     <b>A.S. Zabiyako</b>, Master of Science, FIIT, szabiyako@gmail.com,
+     <b>E. V. Trofimenko</b>, Ph.D., Associate Professor, evtrof@gmail.com,
+     Voronezh State University, Voronezh, 394018, Russian Federation,
+     <b>I. V. Khmeleva</b>, Ph.D., Associate Professor, hmelevai@gmail.com,
+     B. N. Yeltsin Kyrgyz-Russian Slavic University, Bishkek, 720000, Kyrgyzstan
+   item_corr_author: 'Elena V. Trofimenko, Ph.D., Associate Professor, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: evltrof@yandex.ru'
+   item_rec_on: September 06, 2024
+   item_acc_on: November 20, 2024
+   item_annot: |
+     <p>In today's entertainment industry, the rapid development of technology has led to the emergence of a large number of innovative ways to create visual effects. However, the task of improving the efficiency of work with footage remains relevant and in demand.
+     To record an actor's performance, one usually uses either a photogrammetric setup consisting of a bunch of cameras placed around the actor, or a helmet with fixed cameras filming the actor's face. Despite the undeniable advantages of this approach, compared to manual animation, it has a number of disadvantages. These include the cost of processing photogrammetry for each frame of animation and the subsequent stabilisation of the actor's head position.
+     Problematic issues related to stabilisation of facial animation are caused by the need to adjust the position of the head in each frame of animation so that from frame to frame the head does not change its position in space, and the changes would occur only in the facial expressions of the actor. Despite the widespread use of photogrammetry to capture the faces of actors, the process of stabilising the position of the head is still complex and poorly automated.
+     In the presented article the existing methods of stabilisation are considered: interactive nearest point algorithm (ICP), alignment by key points, ICP with weight mask and Rigid Stabilization of Facial Expressions proposed by developers of Disney studio. Their comparative analysis is carried out. A new stabilization method is proposed in which the finite element method is used to approximate the flesh behaviour more accurately. The deformation gradient, skull displacement and flesh deformation formulas are generated to implement this method. The results of approbation of the application and comparison of the performance of the proposed method with others are presented. The analysis of the results showed that the application of the developed method of character head stabilization is effective and allows to significantly improve the quality of the created computer animation.</p>
+   item_keywords: muscle simulation, finite element method, neo-Hookean energy, skull stabilization, deformation gradient
+   item_pages: 81—91
+   item_citation: "Zabiyako A. S., Trofimenko E. V., Khmeleva I. V. Application of the Finite Element Method to Stabilize a Character's Head in Computer Animation, Programmnaya Ingeneria, 2025, vol. 16, no. 2, pp. 81—91. DOI: 10.17587/prin.16.81-91. (in Russian)."
+   item_references: |
+     <li>Topology in 3D modeling, available at: https://cgitems.ru/articles/topologiya-v-3d-modelirovanii (date of access 01.02.2024).</li>
+     <li>Chen Yang, Gerard Medioni. Object modeling by registration of multiple range images, Image Vision Comput., 1991, pp. 145—155. DOI: 10.1016/0262-8856(92)90066-C.</li>
+     <li>Lewis J. P., Anjyo K., Rhee T. Practice and Theory of Blendshape Facial Models, Eurographics 2014 STAR, Strasbourg, 2014, pp. 53—76.</li>
+     <li>Pawaskar C., Ma W.-C., Carnegie K., Lewis J. P. Expression Transfer: A System To Build 3D Blend Shapes for Facial Animation, International Conference on Image and Vision Comput­ing (IVCNZ 2013), New Zealand, 2013, pp. 27—29. DOI: 10.1109/ ivcnz.2013.672700 8.</li>
+     <li>Beeler T., Bradley D. Rigid Stabilization of Facial Expres­sions, ACM Transactions on Graphics, 2014, vol. 33, no. 4, article 44. DOI: 10.1145/2601097.2601182.</li>
+     <li>Konnov I. V. Nonlinear optimization and variational inequalities: a textbook for bachelors, Kazan, Publishing House of Kazansk. university, 2013, 508 p. (in Russian).</li>
+     <li>Ali-Hamadi D., Liu T., Gilles B. et al. Anatomy transfer, ACM Transactions on Graphics, 2013, vol. 32, no. 6, article 188. DOI: 10.1145/2508363.2508415.</li>
+     <li>Alexander O., Rogers M., Lambeth W. et al. The Digital Emily Project: Achieving a Photoreal Digital Actor, IEEE Computer Graphics and Applications, 2010, vol. 30, no. 4, pp. 20—31. DOI: 10.1109/MCG.2010.65.</li>
+     <li>Arun K. S. Least-squares fitting of two 3-D point sets, IEEE Transactions on Pattern Analysis and Machine Intelligence, 1987, vol. 9, no. 5, pp. 698—700. DOI: 10.1109/TPAMI.1987. 4767965.</li>
+     <li>Demmel J. Computational Linear Algebra. Theory and Applications, Moscow, Mir, 2001, 430 p. (in Russian).</li>
+     <li>Smith B., De Goes F., Kim T. Analytic Eigensystems for Isotropic Distortion Energies, ACM Transactions on Graphics (TOG), 2018, vol. 38, no. 1, article 3. DOI: 10.1145/3241041.</li>
+     <li>Kim T., Eberle D. Dynamic Deformables: Implementa­tion and Production Practicalities, SIGGRAPH, 2020, article 23. DOI: 10.1145/3388769.3407490.</li>
+     <li>Ichim A.-E., Kadlecek P., Kavan L., Pauly M. Phace: Physics-based Face Modeling and Animation, ACM Transactions on Graph­ics, 2017, vol. 36, no. 4, article 153. DOI: 10.1145/3072959.3073664.</li>
+     <li>Si H. TetGen, a delaunay-based tetrahedral mesh generator, ACM Transactions on Mathematical Software, 2015, vol. 41, no. 2, article 11, DOI: 10.1145/2629697.</li>
+     <li>Nikehin A. A. Basics of C++ for modeling and calculations. Part 2. Libraries for scientific computing: Tutorial manual, Saint Petersburg, ITMO University, 2016, 64 p. (in Russian).</li>
+     <li>Andersson J. A, Diehl M. CasADi. Symbolic package for automatic differentiation and optimal control, Recent Advances in Algorithmic Differentiation, 2012, Springer Berlin Heidelberg, pp. 297—307. DOI: 10.1007/978-3-642-30023-3_27.</li>
+     <li>Bell B. M. Cppad: A package for differentiation of C++ algorithms, available at: http://www.coin-or.org/CppAD (date of access 19.12.2023).</li>
+     <li>Wachter A., Biegler L. T. On the implementation of an interior- point filter linesearch algorithm for large-scale nonlinear programming, Math. Program., 2006, vol. 106, no. 1, pp. 25—57. DOI: 10.1007/s10107-004-0559-y.</li>
+     <li>Qt Framework: official website, available at: https://www.qt.io/product/framework (date of access 02.12.2023).</li>
+     <li>Wolf D. OpenGL 4. Shader language. Cookbook, Moscow, DMK Press, 2015, 368 p. (in Russian).</li>
+ - doi: 16.92-99
+   udk: '519.863'
+   item_authors: Beketov S. M., Dergachev M. V., Gintciak A. M., Redko S. G.
+   item_name: 'Team Formation in Software Projects: Multi-criteria Pareto Optimization'
+   item_authors_address: |
+     <b>S. M. Beketov</b>, Postgraduate Student, Analyst, salbek.beketov@spbpu.com,
+     <b>M. V. Dergachev</b>, Student, dergachev_mv@edu.spbstu.ru,
+     <b>A. M. Gintciak</b>, Associate Professor, Head of Lab, aleksei.gintciak@spbpu.com,
+     <b>S. G. Redko</b>, Professor, Director, redko_sg@spbstu.ru,
+     Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, 195251, Russian Federation
+   item_corr_author: 'Salbek M. Beketov, Postgraduate Student, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, 195251, Russian Federation E-mail: salbek.beketov@spbpu.com'
+   item_rec_on: November 20, 2024
+   item_acc_on: December 10, 2024
+   item_annot: |
+     <p>The research is dedicated to the advancement of methodological and instrumental foundations for team formation optimization in software projects, particularly in light of the increasing complexity and scale of such projects. The issue can be attributed to the intrinsic complexity of establishing and resolving the challenge of assembling the most effective project team. This research presents a model for the multi-criteria optimization of team composition in software pro­jects. The objective is to provide the management entity with a set of Pareto-optimal project team compositions for the implementation of a specific project. The study reviews existing methods of team formation and develops an algorithm and a mathematical multi-criteria model for optimizing the composition of a project team. The practical application of the model is illustrated by a case study that demonstrates the Pareto-optimal frontier of project team compositions in the time-labor plane. The research aims to enhance the predictability and manageability of software projects by employing a scenario-based approach during the team-building phase of the project. This study is relevant to stakeholders involved in software project management, including project managers, human resource professionals, and company management in general, seeking to implement methods to optimize team composition in project delivery.</p>
+   item_keywords: multi-criteria optimization, Pareto optimization, project team, software project, team composition formation, optimization algorithm, mathematical model, network diagram
+   item_pages: 92—99
+   item_comment: The research is funded by the Ministry of Science and Higher Education of the Russian Federation (contract No. 075-03-2024-004 dated 17.01.2024).
+   item_citation: 'Beketov S. M., Dergachev M. V., Gintciak A. M., Redko S. G. Team Formation in Software Projects: Multi-criteria Pareto Optimization, Programmnaya Ingeneria, 2025, vol. 16, no. 2, pp. 92—99. DOI: 10.17587/prin.16.92-99.'
+   item_references: |
+     <li>Sablis A., Smite D., Moe N. Team-external coordination in large-scale software development projects, Journal of Software: Evolution and Process, 2021, vol. 33, no. 3, article e2297. DOI: 10.1002/smr.2297.</li>
+     <li>Tam C., da Costa Moura E. J., Oliveira T., Varajao J. The factors influencing the success of on-going agile software development projects, International Journal of Project Management, 2020, vol. 38, no. 3, pp. 165—176. DOI: 10.1016/j.ijproman.2020.02.001.</li>
+     <li>Imam H., Zaheer M. K. Shared leadership and project success: The roles of knowledge sharing, cohesion and trust in the team, International Journal of Project Management, 2021, vol. 39, no. 5, pp. 463—473. DOI: 10.1016/j.ijproman.2021.02.006.</li>
+     <li>Morcov S., Pintelon L., Kusters R. J. Definitions, characteristics and measures of IT project complexity-a systematic literature review, International journal of information systems and project management, 2020, vol. 8, no. 2, pp. 5—21. DOI: 10.12821/ijispm080201.</li>
+     <li>Anastasiu L., Gavri§ O., Maier D. Is human capital ready for change? A strategic approach adapting Porter's five forces to human resources, Sustainability, 2020, vol. 12, no. 6, article 2300.DOI: 10.3390/su12062300.</li>
+     <li>Morrison-Smith S., Ruiz J. Challenges and barriers in virtual teams: a literature review, SN Applied Sciences, 2020, vol. 2, no. 6, article 1096. DOI: 10.1007/s42452-020-2801-5.</li>
+     <li>Shaukat M. B., Latif K. F., Sajjad A., Eweje G. Revisiting the relationship between sustainable project management and project success: The moderating role of stakeholder engagement and team building, Sustainable Development, 2022, vol. 30, no. 1, pp. 58—75. DOI: 10.1002/sd.2228.</li>
+     <li>Strode D., Dingseyr T., Lindsjorn Y. A teamwork effectiveness model for agile software development, Empirical Software Engineering, 2022, vol. 27, no. 2, article 56. DOI: 10.1007/s10664-021-10115-0.</li>
+     <li>Buengeler C., Situmeang F. B., van Eerde W., Wijnberg N. M. Fluidity in project management teams across projects, International Journal of Project Management, 2021, vol. 39, no. 3, pp. 282—294. DOI: 10.1016/j.ijproman.2020.12.001.</li>
+     <li>Kim S., Chang S., Castro-Lacouture D. Dynamic modeling for analyzing impacts of skilled labor shortage on construction project management, Journal of Management in Engineering, 2020, vol. 36, no. 1, article 04019035. DOI: 10.1061/(ASCE)ME.1943-5479.0000720.</li>
+     <li>Alvarenga J. C., Branco R. R., Guedes A. L. A. et al. The project manager core competencies to project success, International journal of managing projects in Business, 2020, vol. 13, no. 2, pp. 277—292. DOI: 10.1108/IJMPB-12-2018-0274.</li>
+     <li>Rosen C. Guide to Software Systems Development. Connecting Novel Theory and Current Practice, Cham: Springer International Publishing AG, 2020. DOI: 10.1007/978-3-030-39730-2.</li>
+     <li>Kuutila M., Mantyla M., Farooq U., Claes M. Time pressure in software engineering: A systematic review, Information and Software Technology, 2020, vol. 121, article 106257. DOI: 10.1016/j.infsof.2020.106257.</li>
+     <li>Beketov S. M., Pospelov K. N., Redko S. G. A human capital simulation model in innovation projects, Control Sciences, 2024, no. 3, pp. 16—25. DOI: 10.25728/cs.2024.3.2.</li>
+     <li>Mazelis L., Lavrenyuk K., Krasko A. Fuzzy approach for the formation of an optimal portfolio of strategic projects to achieve regional development targets in the digital economy, International Journal of Technology, 2020, vol. 11, no. 6, pp. 1136—1147.DOI: 10.14716/ijtech.v11i6.4433.</li>
+     <li>Pospelov K. N., Burlutskaya Z. V., Gintciak A. M., Troshchenko K. D. Multiparametric Optimization of Complex System Management Scenarios Based on Simulation Models, International Journal of Technology, 2023, vol. 14, no. 8, pp. 1748—1758. DOI: 10.14716/ijtech.v14i8.6832.</li>
+     <li>Mencarelli L., Chen Q., Pagot A., Grossmann I. E. A review on superstructure optimization approaches in process system engineering, Computers & Chemical Engineering, 2020, vol. 136, article 106808. DOI: 10.1016/j.compchemeng.2020.106808.</li>
+     <li>Pospelov K. N., Vatamaniuk I. V., Lundaeva K. A., Gintciak A. M. Heuristic Approach to Planning Complex Multi-Stage Production Systems, International Journal of Technology, 2023, vol. 14, no. 8, pp. 1790—1799. DOI: 10.14716/ijtech.v14i8.6833.</li>
+     <li>Skrinjaric B. Competence-based approaches in organizational and individual context, Humanities and social sciences communications, 2022, vol. 9, no. 1, article 28. DOI: 10.1057/s41599-022-01047-1.</li>
+     <li>Homan A. C., Giindemir S., Buengeler C., van Kleef G. A. Leading diversity: Towards a theory of functional leadership in diverse teams, Journal of Applied Psychology, 2020, vol. 105, no. 10, article 1101. DOI: 10.1037/apl0000482.</li>
+     <li>Paais M., Pattiruhu J. R. Effect of motivation, leadership, and organizational culture on satisfaction and employee performance, The journal of asian finance, economics and business, 2020,vol. 7, no. 8, pp. 577—588. DOI: 10.13106/jafeb.2020.vol7.no8.577.</li>
+     <li>Nauman S., Bhatti S. H., Imam H., Khan M. S. How servant leadership drives project team performance through collab­orative culture and knowledge sharing, Project Management Journal, 2022, vol. 53, no. 1, pp. 17—32. DOI: 10.1177/87569728211037777.</li>
+     <li>Yang X., Wang P., Fang W. Team Formation with Relationship Strength Based on Meta Path in Heterogeneous Network, 2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS), 2020, pp. 797—801. DOI: 10.1109/ ICSESS.2018.8663775.</li>
+     <li>Paredes-Valverde M. A., del Pilar Salas-Zarate M., Colomo-Palacios R. et al. An ontology-based approach with which to assign human resources to software projects, Science of Computer Programming, 2018, vol. 156, pp. 90—103. DOI: 10.1016/j. scico.2018.01.003.</li>
+     <li>Garshasbi S., Mohammadi Y., Graf S. et al. Optimal learning group formation: A multi-objective heuristic search strategy for enhancing inter-group homogeneity and intra-group heterogeneity, Expert systems with applications, 2019, vol. 118, pp. 506—521. DOI: 10.1016/j.eswa.2018.10.034.</li>
+     <li>Miranda P. B., Mello R. F., Nascimento A. C. A multiobjective optimization approach for the group formation problem, Expert Systems with Applications, 2020, vol. 162, article 113828. DOI: 10.1016/j.eswa.2020.113828.</li>
+     <li>Kononenko I., Sushko H. Mathematical model of software development project team composition optimization with fuzzy initial data, Radioelectronic and computer systems, 2021, no. 3, pp. 149—159. DOI: 10.32620/reks.2021.3.12.</li>
+     <li>Cunha F., Rique T., Perkusich M. et al. A data-driven framework to support team formation in software projects, Anais do II Workshop Brasileiro de Engenharia de Software Inteligente, 2022, pp. 7—12. DOI: 10.5753/ise.2022.227029.</li>
+     <li>Hamidi Rad R., Fani H., Bagheri E. et al. A variational neural architecture for skill-based team formation, ACM Transactions on Information Systems, 2023, vol. 42, no. 1, article 7. DOI: 10.1145/3589762.</li>
+     <li>Muniz M., Flamand T. A column generation approach for the team formation problem, Computers & Operations Research, 2024, vol. 161, article 106406. DOI: 10.1016/j.cor.2023.106406.</li>
+     <li>Xing Z., Zhang Z., Guo J. et al. Rail train operation energy-saving optimization based on improved brute-force search, Applied Energy, 2023, vol. 330, article 120345. DOI: 10.1016/j.apen-ergy.2022.120345.</li>
+     <li>Guo K., Zhang L. Multi-objective optimization for improved project management: Current status and future directions, Automation in Construction, 2022, vol. 139, article 104256. DOI: 10.1016/j. autcon.2022.104256.</li>
+     <li>Li M., Chen T., Yao X. How to evaluate solutions in Pareto-based search-based software engineering: A critical review and methodological guidance, IEEE Transactions on Software Engineering, 2020, vol. 48, no. 5, pp. 1771—1799. DOI: 10.1109/ TSE.2020.3036108.</li>
+     <li>Brooks F. C. The Mythical Man-Month, Addison-Wesley, Reading, MA, 1975, 195 p.</li>
+     <li>Garro-Abarca V., Palos-Sanchez P., Aguayo-Camacho M. Virtual teams in times of pandemic: Factors that influence performance, Frontiers in psychology, 2021, vol. 12, article 624637. DOI: 10.3389/fpsyg.2021.624637.</li>
+     <li>Cynthia O. U. Implementation of Project Evaluation and Review Technique (PERT) and Critical Path Method (CPM): A Comparative Study, International Journal of Industrial and Opera­tions Research, 2020, vol. 3, no. 1, article 004. DOI: 10.35840/2633­8947/6504.</li>
+ - doi: 16.100-112
+   udk: '004.896; 69.002.5'
+   item_authors: Prokopev A. P., Bolshakov A. A.
+   item_name: Methods and Means of Automated Control of the Asphalt Concrete Mixture Density to Controlling Paver in Process of the Road Surface Construction
+   item_authors_address: |
+     <b>A. P. Prokopev</b>, Associate Professor, prok1@yandex.ru,
+     Siberian Federal University, 79 Svobodny pr., Krasnoyarsk, 660041, Russian Federation,
+     <b>A. A. Bolshakov</b>, Professor, aabolshakov57@gmail.com,
+     Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, 195251, Russian Federation
+   item_corr_author: 'Andrey P. Prokopev, Associate Professor, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation, E-mail: prok1@yandex.ru'
+   item_rec_on: August 02, 2024
+   item_acc_on: December 18, 2024
+   item_annot: |
+     <p>The article presents the results of automation of the density continuous control process during laying and compaction of asphalt concrete mixture based on modern information technologies. The process of compaction of the mixture by the paver, accompanied by a continuous change in its physical, chemical and mechanical properties, requires the introduction of a continuously functioning subsystem for predicting of the value mixture density, based on the analysis of signals and digital processing algorithms, into the structure of the automated control system. Therefore, for the software and hardware support of the mixture monitoring density by using various indicators of the degree of compaction, based on the measurement and analysis of signals from sensors, a system has been proposed that solves the problem using a multi-domain approach.</p>
+   item_keywords: automatic control system, multi-domain analysis, machine learning, fuzzy neural network, paver compaction process
+   item_pages: 100—112
+   item_citation: 'Prokopev A. P., Bolshakov A. A. Methods and Means of Automated Control of the Asphalt Concrete Mixture Density to Controlling Paver in Process of the Road Surface Construction, Programmnaya Ingeneria, 2025, vol. 16, no. 2, pp. 100—112. DOI: 10.17587/prin.16.100-112. (in Russian).'
+   item_references: |
+     <li>Xu G., Chang G. K., Wang D. et al. The pioneer of in­telligent construction — An overview of the development of intelligent compaction, J. Road Eng., 2022, vol. 2, pp. 348—356. DOI: 10.1016/j.jreng.2022.12.001.</li>
+     <li>Chen S., Liu X., Luo H., Yu J., Chen F., Zhang Y., Ma T., Huang X. A state-of-the-art review of asphalt pavement surface texture and its measurement techniques, J. Road Eng., 2022, vol. 2, no. 2, pp. 156—180. DOI: 10.1016/j.jreng.2022.05.003.</li>
+     <li>Xu Y., Zhang Z. Review of applications of artificial intelligence algorithms in pavement management, J. Transp. Eng. Part B-Pavements, 2022, vol. 148, no. 3, article 0000373. DOI: 10.1061/JPEODX.0000373.</li>
+     <li>Prokop'ev A. P. Cyber-physical system for controlling a squad of road vehicles in infrastructure projects of road transport, Inzhenernyj vestnik Dona, 2022, no. 8, pp. 117—124 (in Russian).</li>
+     <li>Guan S., Wang J., Wang X., Shi M., Lin W., Chen W. Dynamic hyperparameter tuning-based path tracking control for robotic rollers working on earth-rock dam under complex construction conditions, Autom. Constr., 2022, vol. 143, article 104576. DOI: 10.1016/j.autcon.2022.104576.</li>
+     <li>Zhang J., Yang X., Wang W. et al. Robust ELM-PID tracing control on autonomous mobile robot via transformer-based pavement crack segmentation, Measurement, 2025, vol. 242, article 116045. DOI: 10.1016/j.measurement. 2024.116045.</li>
+     <li>Gao Y. PID-based search algorithm: A novel metaheuristic algorithm based on PID algorithm, Expert Systems With Applications, 2023,	vol. 232, 120886. DOI: 10.1016/j.eswa.2023.120886.</li>
+     <li>Prokop'ev A. P., Nabizhanov Zh. I., Ivanchura V. I., Emel'yanov R. T. On the Creation of a System for Continuous Monitoring of Compaction of Road Materials for Pavers, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 413—419. DOI: 10.17587/prin.12.413-419 (in Russian).</li>
+     <li>Prokop'ev A. P., Nabizhanov Zh. I. Neural network control system for the process of compaction of road materials by pavers, Inzhenernyj vestnik Dona, 2021, no. 10 (in Russian).</li>
+     <li>Wang Y., Li J., Zhang X. et al. Recent Development in Intelligent Compaction for Asphalt Pavement Construction: Leveraging Smart Sensors and Machine Learning, Sensors, 2024, vol. 24, article 2777. DOI: 10.3390/s24092777.</li>
+     <li>Makarov I. M., Loxin V. M., Man'ko S. V., Romanov M. P. Artificial Intelligence and Intelligent Control Systems, Moscow, Nauka, 2006, 333 p. (in Russian).</li>
+     <li>40 Years of Roller Integrated Continuous Compaction Control (CCC) / Eds. D. Adam, S. Larsson. Symposium Proceedings, Vienna, 2018, 146 p.</li>
+     <li>Zhang Q., An Z., Huangfu Z., Li Q. A Review on Roller Compaction Quality Control and Assurance Methods for Earthwork in Five Application Scenarios, Materials, 2022, no. 15, article 2610. DOI: 10.3390/ma15072610.</li>
+     <li>Pistrol J., Hager M., Kopf F. et al. An advanced ICMV for vibratory roller compaction, Acta Geotech, 2024. DOI: 10.1007/s11440-024-02342-8.</li>
+     <li>Chen S. Y., Zhang J. X., Ni Q. C. et al. Data-Driven Platform Framework for Digital Whole-Process Expressway Construction Management, Front. Neurosci., 2022, no. 16, article 891772. DOI: 10.3389/fnins.2022.891772.</li>
+     <li>Tyuremnov I. S., Morev A. S. Simulation of different vibration modes of a drum in continuous compaction control systems of soil by vibratory rollers, Lecture Notes in Mechanical Engineering, 2022,	pp. 469—476. DOI: 10.1007/978-3-030-85233-7_57.</li>
+     <li>Sivagnanasuntharam S., Sounthararajah A., Kodikara J. In-situ spot test measurements and ICMVs for asphalt pavement: lack of correlations and the effect of underlying support, Int. J. Pavem. Eng., 2023, vol. 24, no. 1, article 2198770. DOI: 10.1080/10298436.2023.2198770.</li>
+     <li>Dolatabadi M., Mehrabpour M., Esfandyari M., Alidadi H., Davoudi M. Modeling of simultaneous adsorption of dye and metal ion by sawdust from aqueous solution using of ANN and ANFIS, Chemometrics and Intelligent Laboratory Systems, 2018, vol. 181, pp. 72—78. DOI: 10.1016/j.chemolab.2018.07.012.</li>
+     <li>Piegat A. Fuzzy Modelling and Control, Heidelberg, 2001, 728 p.</li>
+     <li>Jang J.-S. R. ANFIS: Adaptive-Network-Based Fuzzy Inference System, IEEE Trans. Systems & Cybernetics, 1993, vol. 23, pp. 665—685. DOI: 10.1109/21.256541.</li>
+     <li>Management theory (additional chapters) / Eds D. A. Novikova, Moscow, LENAND, 2019, 552 p. (in Russian).</li>
+     <li>Gao Y. PID-based search algorithm: A novel metaheuristic algorithm based on PID algorithm, Expert Systems With Applications, 2023, vol. 232, article 120886. DOI: 10.1016/j.eswa.2023.120886.</li>
+     <li>Milostnaya N. A. Stability Study of a Neuro-Fuzzy Output System Based on Ratio Area Method, Izvestiya Yugo-Zapadnogo gosudarstvennogo universiteta, 2021, no. 25 (3), pp. 70—85. DOI: 10.21869/2223-1560-2021-25-3-70-85 (in Russian).</li>
+     <li>Gasnikov A. V. Modern numerical optimization methods. Universal gradient descent method, Moscow, MCzNMO, 2021, 272 p. (in Russian).</li>
+     <li>Prokop'ev A. P., Emel'yanov R. T., Klimov A. S. Study of the process of compaction of the asphalt concrete mixture along the width of the paving, Stroitel'nye i dorozhnye mashiny, 2009, no. 7, pp. 12—17 (in Russian).</li>
+     <li>Voznesenskij A. S., Minenkov D. V., Gul'vanskij V. V. et al. Investigation of Window Function Properties in Application to the Synthesis of Digital Filters by the Window Method, Tekhnika sredstv svyazi, 2022, no. 2 (158), pp. 62—68. DOI: 10.24412/2782-2141-2022-2-62-68 (in Russian).</li>
+     <li>Kandidov V. P., Chesnokov S. S., Shlenov S. A. Discrete Fourier transform, Moscow, Fizicheskij fakul'tet MGU, 2019, 88 p. (in Russian).</li>
+     <li>Yao Y., Song E. Intelligent compaction methods and quality control, Smart Constr. Sustain. Cities, 2023, vol. 1, no. 2. DOI: 10.1007/s44268-023-00004-4.</li>
+     <li>Bohmer P. Untersuchunger uber die Verdichtung — swirkung von Schwarzdeckenfertigern, Baumaschine und Bautechnik, 1974, no. 7-8, pp. 233—238.</li>
+     <li>Prokop'ev A. P., Emel'yanov R. T., Yanaev E. Yu. et al. Field study of the asphalt concrete paving process with automation components of non-destructive compaction testing technology, Inzhenernyj vestnik Dona, 2022, no. 2 (in Russian).</li>
+     <li>Hizhnyakov Yu. N. Fuzzy, Neural and Hybrid Control, Perm', Izd-vo Perm. nac. issled. politekhn. un-ta, 2013, 303 p. (in Russian).</li>
