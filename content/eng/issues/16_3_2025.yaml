@@ -1,0 +1,180 @@
+---
+title: Issue N3 2025 year
+content:
+ - doi: 16.115-121
+   udk: "004.4'2+004.5"
+   item_authors: Bakanov V. M.
+   item_name: Formation of Plans for Organizing Parallel Computing on Processors with Very Long Instruction Word
+   item_authors_address: |
+     <b>V. M. Bakanov</b>, Professor, e881e@mail.ru,
+     Higher School of Economics, National Research University, Moscow, 101000, Russian Federation
+   item_corr_author: 'Valery M. Bakanov, Professor, Higher School of Economics, National Research University, Moscow, 101000, Russian Federation, E-mail: e881e@mail.ru'
+   item_rec_on: December 02, 2024
+   item_acc_on: January 13, 2025
+   item_annot: |
+     <p>The article examines the issues of developing rational methods for developing schedules (execution plans) of programs for processors with a very long machine word (VLIW-architecture). The implementation of the task is carried out on the basis of an approach based on the analysis of the information structure of algorithms and targeted equivalent transformations of the tiered-parallel form of algorithm graphs. The developed software system allows implementing various (heuristic) methods for constructing a parallel program execution schedule and quantitatively evaluating and comparing the computational complexity of these methods. Quantitative results of applying some methods for constructing rational plans for parallel execution of classical data processing algorithms on processors with an extra-long machine word are presented.</p>
+   item_keywords: analysis of the information structure of a program, graph representations of an algorithm, rational parameters for executing parallel programs, methods for constructing a rational plan for executing a parallel program
+   item_pages: 115—121
+   item_citation: 'Bakanov V. M. Formation of Plans for Organizing Parallel Computing on Processors with Very Long Instruction Word, Programmnaya Ingeneria, 2025, vol. 16, no. 3, pp. 115—121. DOI: 10.17587/prin.16.115-121 (in Russian).'
+   item_references: |
+     <li>Voevodin Vl. V. Computational Mathematics and the Structure of Algorithms (textbook, 10 lectures), Moscow, Izdatel'stvo MGU, 2006, 112 p. (in Russian).</li>
+     <li>AlgoWiki. Otkrytaya enciklopediya svojstv algoritmov / Eds V. Voevodin, Dzh. Dongarra, available at: http://algowiki-project.org (date of access 30.11.2024) (in Russian).</li>
+     <li>Bakanov V. M. Practical analysis of algorithms and efficiency of parallel computing, Moscow, Probel-2000, 2023, 198 p. (in Russian).</li>
+     <li>Codrescu L. Architecture of the Hexagon 680 DSP for mobile imaging and computer vision, 2015 IEEE Hot Chips 27 Symposium (HCS), Cupertino, CA, USA, 2015, pp. 1—26. DOI: 10.1109/HOTCHIPS.2015.7477329.</li>
+     <li>Prihozhy А. А. Analysis, transformation and optimization for high performance parallel computing, Minsk, BNTU, 2019, 229 p.</li>
+     <li>Gehry M., Johnson D. Computing machines and difficult tasks, World, Book on Demand, 2012, 420 p.</li>
+     <li>Ierusalimschy R. Programming in Lua, Third Edition, PUC-Rio, Brasil, Rio de Janeiro, 2013, 348 p.</li>
+ - doi: 16.122-133
+   udk: "004.415.53"
+   item_authors: Zotov Ya. A.
+   item_name: Issues of Development of Automated Testing System of Software for Technical Complexes of Automated Process Control Systems
+   item_authors_address: '<b>Ya. A. Zotov</b>, Engineer, zotov@niisi.ras.ru, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation'
+   item_corr_author: 'Yaroslav A. Zotov, Engineer, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation, E-mail: zotov@niisi.ras.ru'
+   item_rec_on: December 18, 2024
+   item_acc_on: January 13, 2025
+   item_annot: |
+     <p>This article focuses on the development and automation of software testing systems specifically designed for Automated Control Systems for Technological Processes (ACSTP). The primary objective is to analyze the debugging and testing procedures applicable to software-hardware complexes within ACSTp, while identifying the challenges associated with these processes. The study aims to enhance the reliability and functional safety of software throughout its lifecycle, particularly in critical infrastructure settings.
+     The article begins by discussing the significance of ACSTP in various industries, emphasizing the need for robust testing mechanisms to ensure the systems operate safely and effectively. It outlines the risks associated with information and functional security, which can arise from software failures or unauthorized access. To mitigate these risks, the research highlights the necessity of implementing comprehensive testing strategies that adhere to established standards, such as GOST R ISO/IEC 12207—2010.
+     A key focus of the study is the comparison between manual and automated testing methods. While manual testing is often employed during the initial development stages, particularly for user interface assessments, automated testing is shown to offer significant advantages, including increased efficiency, reduced human error, and the ability to execute extensive test cases consistently. The article discusses various tools for automated testing, such as JUnit, TestNG, and Cucumber, which can streamline the testing process.
+     The research presents a proposed architecture for a software-hardware platform that incorporates a semi-physical test stand, enabling real-time automated testing of software. This platform is designed to facilitate comprehensive testing across different levels, including module, integration, system, and acceptance testing. The architecture supports the execution of tests under controlled conditions, ensuring that the software meets functional safety requirements.
+     Results from the study indicate that the proposed platform can effectively enhance the testing process, providing a reliable environment for evaluating software performance and safety. The findings also demonstrate the adaptability of the architecture for various configurations and applications within ACSTP, making it suitable for a wide range of automated systems.
+     In conclusion, the article underscores the importance of implementing automated testing solutions to improve the overall performance, reliability, and safety of ACSTP systems.</p>
+   item_keywords: ICS, automated testing, architecture, software life cycle, software development model, Baget platform
+   item_pages: 122—133
+   item_comment: 'This work was supported he state assignment for conducting fundamental research on the topic "Creation and implementation of trusted artificial intelligence systems based on new mathematical and algorithmic methods, fast computing models implemented on domestic computing systems" (FNEF-2024-001).'
+   item_citation: 'Zotov Ya. A. Issues of Development of Automated Testing System of Software for Technical Complexes of Automated Process Control Systems, Programmnaya Ingeneria, 2025, vol. 16, no. 3, pp. 122—133. DOI: 10.17587/prin.16.122-133. (in Russian).'
+   item_references: |
+     <li>Gruntal A. I., Bazaeva S. E. Issues of ensuring cyberse-curity in the development and use of automated process control systems, Trudy nauchno-issledovatel'skogo instituta sistemnykh issle-dovaniy Rossiyskoy akademii nauk, 2021, vol. 11, no. 4, pp. 56—67. DOI: 10.25682/NIISI.2021.4.0006 (in Russian).</li>
+     <li>GOST R 71531—2024 Cyber-physical systems. Terms and definitions (in Russian).</li>
+     <li>GOST R 27.102—2021 Reliability in technology. Reliability of an object. Terms and definitions (in Russian).</li>
+     <li>PNST 905-2023 Critical information infrastructure. Trusted software and hardware systems. Terms and definitions (in Russian).</li>
+     <li>Gvozdeva T. V. Design of information systems. Standardization: a tutorial, Saint-Petersburg: Lan, 2019, 252 p. (in Russian).</li>
+     <li>Yekhlakov Yu. P. Project Management in Software Development: Standards and Models, 2nd ed. St. Petersburg: Lan, 2020, 244 p. (in Russian).</li>
+     <li>GOST R ISO/IEC 12207—2010. Information Technology. System and Software Engineering. Software Life Cycle Processes. (in Russian).</li>
+     <li>GOST R ISO/IEC 15271—2002. Guidelines for the Application of GOST R ISO/IEC 12207 (Software Life Cycle Processes) (in Russian).</li>
+     <li>GOST R IEC 61508. Functional Safety of Electrical, Electronic, Programmable Electronic Safety-Related Systems. Part 3. Software requirements (in Russian).</li>
+     <li>Classification of Testing Types, available at: https://habr.com/ru/companies/npo-comp/articles/223833/ (date of access 20.11.2024) (in Russian).</li>
+     <li>JUnit5 System, available at: https://junit.org/junit5/ (date of access 20.11.2024).</li>
+     <li>TestNG System, available at: https://testng.org/ (date of access 20.11.2024).</li>
+     <li>Guide: Cucumber + Java, available at: https://habr.com/ru/articles/332754/ (date of access 20.11.2024) (in Russian).</li>
+     <li>Devyatkov V. V. Methodology and Technology of Simulation Research of Complex Systems: Current State and Development Prospects. Monograph. Moscow, Higher Education Textbook, INFRA-M, 2013, 448 p. (in Russian).</li>
+     <li>Aristov M. S., Gruntal A. I., Zotov Y. A. et al. Architecture of a Typical Automation System for Technological Processes Based on Domestic Software and Hardware, Trudy nauchno-issledovatel'skogo instituta sistemnykh issledovaniy Rossiyskoy akademii nauk, 2023, vol. 13, no. 4, pp. 64—67. DOI: 10.25682/NIISI.2023.4.0007 (in Russian).</li>
+ - doi: 16.134-142
+   udk: "004.855"
+   item_authors: Yakovlev A. S., Shayakberov E. V., Giniyatullin V. M.
+   item_name: Variability of the Wide Learning Neural Network Learning Algorithm
+   item_authors_address: |
+     <b>A. S. Yakovlev</b>, Undergraduate Student, yakovlevsasha42@gmail.com,
+     <b>E. V. Shayakberov</b>, Postgraduate Student, eduard.shayakberov@mail.ru,
+     <b>V. M. Giniyatullin</b>, Associate Professor, fentazer@mail.ru,
+     Ufa State Petroleum Technological University, Ufa, 450064, Russian Federation
+   item_corr_author: 'Vakhit M. Giniyatullin, Associate Professor, Ufa State Petroleum Technological University, Ufa, 450064, Russian Federation E-mail: fentazer@mail.ru'
+   item_rec_on: November 12, 2024
+   item_acc_on: December 18, 2024
+   item_annot: |
+     <p> There are a large number of datasets on the publicly available kaggle resource, from which five datasets and their corresponding structures of artificial neural networks were selected. After training neural networks, the work of the neurons of the first hidden layers was reproduced in spreadsheets. A significant number of useless neurons were found (20—60 %). A neuron is called useless if the scalar products of all instances of the training sample are less than zero. The relu activation function converts negative values to zero, therefore, such a neuron does not contribute to the work of the neural network. Thus, it is necessary to learn how to find and remove useless neurons in trained networks. The following describes the principle of functioning of a reproducible neural network learning algorithm. To do this, the instance belonging to a certain class is replaced by belonging to one of the categories of ternary logic (true, zero, false) and a linearly separable subsample is formed. The properties of the Wide Learning algorithm are considered, the code of the first version of the software implementation is posted in the Github repository under the Apache 2.0 license https://github.com/brinkinvision/wideLearning. The scalar product of the input vector by the weights of the neuron projects the n-dimensional input space onto a one-dimensional digital line. The ternary activation threshold function on this line marks with true (false) categories a part of instances belonging to a certain class. The hypothesis of the normality of the distribution of scalar products of labeled instances was tested. In most cases, the hypothesis was justified, and sometimes it was possible to prove normality after additional manipulations. Once a two-modal distribution was discovered, the emulation of two-modality demonstrates the adequacy of the described methodology..</p>
+   item_keywords: artificial neural networks, dataset, activation function, ambiguity, training algorithm, reproducibility, scalar multiplication, normal distribution, p-value, nonnumeric parameters
+   item_pages: 134—142
+   item_comment: The work was carried out with the financial support of the Foundation for the Promotion of Small Forms of Enterprises in the Scientific and Technical field (the project "WideLearning Open Library for searching for the architecture of an artificial neural network using discretized convolutional layers and complex-valued algebras" Agreement No.19 ГУКодИИС12-Б7/76725 dated 05/23/2022).
+   item_citation: 'Yakovlev A. S., Shayakberov E. V., Giniyatullin V. M. Variability of the Wide Learning Neural Network Learning Algorithm, Programmnaya Ingeneria, 2025, vol. 16, no. 3, pp. 134—142. DOI: 10.17587/ prin.16.134-142 (in Russian).'
+   item_references: |
+     <li>Brief A. Introduction to Neural Networks, available at: https://www.dkriesel.com/en/science/neural_networks (date of ac­cess 17.08.2024).</li>
+     <li>Nikolenco S., Kadurin A., Arkhangelskaya E. Deep Learning, St. Petersburg, Piter, 2019, 480 p. (in Russian).</li>
+     <li>Indian Liver Patient Dataset, available at: https://www.kaggle.com/datasets/fatemehmehrparvar/liver-disorders (date of access 17.08.2024).
+     <li>Ionosphere, available at: https://archive.ics.uci.edu/data-set/52/ionosphere (date of access 17.08.2024).</li>
+     <li>Sleep Health and Lifestyle Dataset, available at: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset (date of access 17.08.2024).</li>
+     <li>Pumpkin Seeds Dataset, available at: https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset (date of access 17.08.2024).</li>
+     <li>Crystal System Properties for Li-ion batteries, available at: https://www.kaggle.com/code/divyansh22/neural-network-for-li-ion-classification/input (date of access 17.08.2024).</li>
+     <li>Classification of liver disorder, available at: https://www.kaggle.com/code/pantitsiripornanukul/nn-sequential-classification-of-liver-disorder#Load-Data (date of access 17.08.2024).</li>
+     <li>Binary Classification, available at: https://www.kaggle.com/code/ryanholbrook/binary-classification/tutorial (date of access 17.08.2024).</li>
+     <li>Sleep Disorder Prediction Using Neural Network, available at: https://www.kaggle.com/code/kyroyen/sleep-disorder-prediction-using-neural-network (date of access 17.08.2024).</li>
+     <li>Artificial Neural Network without any ML Libraries, available at: https://www.kaggle.com/code/sharif8410/artificial-neural-network-with-out-any-ml-libraries#3.5-%7CANN-Model (date of access 17.08.2024).</li>
+     <li>Neural Network for Li-Ion Classification, available at: https://www.kaggle.com/code/divyansh22/neural-network-for-li-ion-classification/notebook (date of access 17.08.2024).</li>
+     <li>Kingma D. P., Salimans T., Welling M. Variational dropout and the local reparameterization trick, Advances in Neural Information Processing Systems, 2015, vol. 28, pp. 2575—2583.</li>
+     <li>Jinjoo L. AI Is About to Boost Power Bills—Who'll Take Heat for That? The Wall Street Journal, 12.08.2024, available at: https://www.wsj.com/business/energy-oil/ai-is-about-to-boost-pow-er-billswholl-take-heat-for-that-c527f27b (date of access 17.08.2024).</li>
+     <li>McCulloch W. S., Pitts W. A Logical Calculus of the Ideas Immanent in Nervous Activity, Bull. Mathematical Biophysics, 1943, vol. 5, pp. 115—133.</li>
+     <li>Sedgwick R. Fundamental Algorithms in C++. Part 5. Graph Algorithms, Moscow, DiaSoft, 2002, 452 p. (in Russian).</li>
+     <li>Rosenblatt F. Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms, Moscow, Mir, 1965, 427 p. (in Russian).</li>
+     <li>Giniyatullin V. M., Skrypin A. R., Taisin R. R. Linear Separability of Ternary Logic Functions, Actual problems of science and technology — 2015. Proceedings of the VIII International Scientific and Practical Conference of young scientists, 2015, pp. 116—119. (in Russian).</li>
+     <li>Library for Creating Simplified Neural Network Structures, available at: https://github.com/brinkinvision/wideLearning (date of access 17.08.2024).</li>
+     <li>Cristianini N., Shawe-Taylor J. An Introduction to Support Vector Machines and Other Kernel-based Learning Methods, Cambridge University Press, 2000, 189 p.</li>
+     <li>Nivorozhkina L. I., Morozova Z. A. Probability Theory and Mathematical Statistics, Moscow, EKSMO, 2008, 316 p. (in Russian).</li>
+     <li>Budenny S. A., Lazarev V. D., Zakharchenko N. N. et al. eco2AI: Carbon Footprint Control of Machine Learning Models as a First Step Towards Sustainable Artificial Intelligence, Reports of the Russian Academy of Sciences. Mathematics, Informatics, Control Processes, 2022, vol. 508, pp. 134—145. DOI: 10.31857/S2686954322070232 (in Russian)</li>
+ - doi: 16.143-155
+   udk: "532.517"
+   item_authors: Lushchik V. G., Popovich S. S., Chaika A. M.
+   item_name: Application of Three-Parametric Differential RANS-Model of Turbulence for Solving the Problems of Gas Flow Energy Separation
+   item_authors_address: |
+     <b>V. G. Lushchik</b>, Leading Scientist, vgl_41@mail.ru, <b>  S. S. Popovich</b>,  Senior Research Scientist, pss@imec.msu.ru,
+     <b>A. M. Chaika</b>, Leading Programmer, chaika.anya@gmail.com, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation
+   item_corr_author: 'Sergey S. Popovich, Senior Research Scientist, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation, E-mail: pss@imec.msu.ru'
+   item_rec_on: December 05, 2024
+   item_acc_on: January 13, 2025
+   item_annot: |
+     <p>The paper describes the numerical study technique for problems of external compressible gas flow around permeable surfaces applying a three-parameter RANS turbulence model.
+     Numerical study of energy separation in the boundary layer on an impermeable and permeable plate with gas injection/suction in the range of Prandtl numbers Pr from 0.05 to 5 showed that temperature stratification increases with decreasing Pr number. Gas injection into a supersonic flow reduces temperature stratification compared to an impermeable plate, while suction increases the effect.
+     The influence of the Prandtl and Mach numbers of the external flow on the value of temperature stratification, which is largely determined by the value of the suction intensity and, consequently, the total flow rate of the sucked gas, is studied. Temperature stratification is most pronounced for gases with small Prandtl numbers. It has been established that with intensive gas suction in the boundary layer on the section of the impermeable plate following the permeable part, the wall temperature drops sharply. The reason for the formation of a zone with a lower wall temperature is the laminarization of the boundary layer on the permeable wall with intensive suction resulting in the asymptotic suction mode.
+     The conducted numerical study confirmed a significant decrease in the wall temperature compared to the temperature of the injected gas for both laminar and, to a lesser extent, a turbulent boundary layer with foreign injection of helium into xenon with a Prandtl number variable along the length compared to a uniform gas injection with a constant Prandtl number.
+     The results of numerous numerical studies of the main elements of the working process in the energy separation device were obtained, which served as a justification for the possibility of energy separation of the gas flow.</p>
+   item_keywords: RANS turbulence model, compressible boundary layer, gas injection/suction through the permeable wall
+   item_pages: 143—155
+   item_comment: The work was carried out within the framework of research financed by the state budget AAAA-A19-119012990115-5.
+   item_citation: 'Lushchik V. G., Popovich S. S., Chaika A. M. Application of Three-Parametric Differential RANS-Model of Turbulence for Solving the Problems of Gas Flow Energy Separation, Programmnaya Ingeneria, 2025, vol. 16, no. 3, pp. 143—155. DOI: 10.17587/prin.16.143-155 (in Russian)'
+   item_references: |
+     <li>Leont'ev A. I. Gas-dynamic method of energy separation of gas flows, High Temperature, 1997, vol. 35, no. 1, pp. 155—157 (in Russian).</li>
+     <li>Leont'ev A. I. Gas-Dynamic Methods of Temperature Stratification (a Review), Fluid Dynamics, 2002, vol. 37, no. 4, pp. 512—529. DOI: 10.1023/A:1020629000437.</li>
+     <li>Leont'ev A. I. Temperature stratification of supersonic gas flow, Physics. Doklady, 1997, vol. 42, no. 6, pp. 309—311 (in Russian).</li>
+     <li>Popovich S. S., Zditovets A. G., Kiselev N. A., Makarova M. S. Application of supersonic machine-free energy separation method in pressure reduction of natural gas, Thermal processes in engineering, 2019, vol. 11, no. 1, pp. 2—15 (in Russian).</li>
+     <li>ZditovetsA. G., Leontiev A. I., Vinogradov U. A., Strongin M. M., Popovich S. S. Method of gas temperature stratification, Patent no. RU 2672457 C1, 2018.11.14 (in Russian).</li>
+     <li>Popovich S. S., Leontiev A. I., Vinogradov U. A., Kiselev N. A., Makarova M. S., Medvetskaya N. V., Strongin M. M. Method of natural gas pressure reduction, Patent no. RU 2713551C1, 2020.05.02 (in Russian).</li>
+     <li>Zditovets A. G., Vinogradov Yu. A., Strongin M. M. Experimental study of machine-free energy separation of air flows in a Leontiev tube, Thermal Processes in Engineering, 2015, vol. 7, no. 9, pp. 397—404 (in Russian).</li>
+     <li>Popovich S. S. Experimental Automation and Data Processing Features for Supersonic Heat Transfer Research, Programmnaya Ingeneria, 2018, vol. 9, no. 1, pp. 35—45. DOI: 10.17587/prin.9.35-45 (in Russian).</li>
+     <li>Leontiev A. I., Popovich S. S., Vinogradov U. A., Strongin M. M. Experimental research of supersonic aerodynamic cooling effect and its application for higher energy separation efficiency, Proceedings of the l6hInternational Heat Transfer Conference IHTC-16, Beijing: Begell House Inc., 2018, pp. 2987—2994. DOI: 10.1615/IHTC16.cov.021244.</li>
+     <li>Leontiev A. I., Lushchik V. G., Makarova M. S., Popovich S. S. The Temperature Recovery Factor in a Compressible Turbulent Boundary Layer, High Temperature, 2022, vol. 60, no. 3, pp. 409—431. DOI: 10.1134/S0018151X22030117.</li>
+     <li>Lushchik V. G., Makarova M. S., Yakubenko A. E. Application of the Three-Parameter Model of Shear Turbulence for Solving Problems of External Flowing on Permeable Surfaces by a Compressible Gas Flow, Programmnaya Ingeneria, 2017, vol. 8, no. 12, pp. 563—574. DOI: 10.17587/prin.8.563-574 (in Russian).</li>
+     <li>Lushchik V. G., Pavel'ev A. A., Yakubenko A. E. Three-parameter model of shear turbulence, Fluid Dynamics,1978, vol. 13, no. 3, pp. 350-360. DOI: 10.1007/BF01050525.</li>
+     <li>Lushchik V. G., Pavel'ev A. A., Yakubenko A. E. Three-parameter model of turbulence: Heat transfer calculations, Fluid Dynamics, 1986, vol. 21, no. 2, pp. 200—211. DOI: 10.1007/BF01050170.</li>
+     <li>Ginevsky A. S., Ioselevich V. A., Kolesnikov A. V. et al. Methods for calculating the turbulent boundary layer, in: Itogi Nauki i Tekhniki. Ser. Mechanics of fluid and gas, 1978, vol. 11, pp. 155— 304 (in Russian).</li>
+     <li>Volchkov E. P., Makarov M. S. The gas-dynamic temperature stratification in a supersonic flow, Izv. Ross. Akad. Nauk, Energ., 2006, no. 2, pp. 19—31 (in Russian).</li>
+     <li>Vigdorovich I. I., Leont'ev A. I. Theory of the energy separation of a compressible gas flow, Fluid Dynamics, 2010, vol. 45, no. 3, pp. 434—440. DOI: 10.1134/S0015462810030105.</li>
+     <li>Leont'ev A. I., Lushchik V. G., Yakubenko A. E. Injection/suction effect on energy separation of compressible flows, Fluid Dynamics, 2011, vol. 46, no. 6, pp. 935—941. DOI: 10.1134/ S001546281106010X.</li>
+     <li>Leontiev A. I., Lushchik V. G., Yakubenko A. E. Compressible turbulent boundary layer on a permeable plate with injection of foreign gas, High Temperature, 2007, vol. 45, no. 4, pp. 488—496. DOI: 10.1134/S0018151X07040086.</li>
+     <li>Leont'ev A. I., Lushchik V. G., Makarova M. S. Temperature stratification under suction of a boundary layer from a supersonic flow, High Temperature, 2012, vol. 50, no. 6, pp. 739—743. DOI: 10.1134/S0018151X12060065.</li>
+     <li>Leontiev A. I., Lushchik V. G., Yakubenko A. E. Compressible turbulent boundary layer on a permeable plate with injection of foreign gas, High Temperature, 2007, vol. 45, no. 4, pp. 488—496. DOI: 10.1134/S0018151X07040086.</li>
+     <li>Leontiev A. I., Lushchik V. G., Yakubenko A. E. A heat-insulated permeable wall with suction in a compressible gas flow, Int. J. Heat and Mass Transfer, 2009, vol. 52, pp. 4001—4007. DOI: 10.1016/j.ijheatmasstransfer.2008.10.029.</li>
+     <li>Leont'ev A. I., Lushchik V. G., Makarova M. S. Features of heat transfer on a permeable surface in a compressible-gas flow, Doklady Physics, 2018, vol. 63, no. 9, pp. 371—374. DOI: 10.1134/ S1028335818090033.</li>
+     <li>Lushchik V. G., Makarova M. S. Distinctive features of heat transfer on a permeable plate in supersonic flow under injection of extraneous gas, Fluid Dynamics, 2020, vol. 55, no. 5, pp. 636—639. DOI: 10.1134/S0015462820050109.</li>
+     <li>Leontiev A. I., Lushchik V. G., Makarova M. S. The temperature recovery factor in a boundary layer on a permeable plate, High Temperature, 2017, vol. 55, no. 2, pp. 246—252. DOI: 10.1134/S0018151X17020080.</li>
+ - doi: 16.156-164
+   udk: "004.5"
+   item_authors: Chitalov D. I.
+   item_name: Development of a Module for the compressibleInterFoam Solver of the OpenFOAM Package.
+   item_authors_address: '<b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation'
+   item_corr_author: 'Dmitry I. Chitalov, Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation E-mail: cdi9@yandex.ru'
+   item_rec_on: November 08, 2024
+   item_acc_on: December 16, 2024
+   item_annot: |
+     <p>The article presents the results of a study aimed at expanding the functionality of the OpenFOAM graphical shell by developing and connecting an additional software module for the compressibleInterFoam solver. The features of numerical modeling of continuum mechanics problems on the specified solver are analyzed. The work was carried out to determine the stack of technologies required for the development of the module, a brief description of each technology with a justification for the choice is given. A separate section of the publication is devoted to the formulation of the goals and objectives performed within the framework of the study. To demonstrate the logic of the application, a process diagram was prepared, its brief description is given. The structure of the application is demonstrated in the corresponding diagram with a description of the role of each block. The repository with the source code of the graphical shell was updated with the integration of the created module, the results of checking the shell operation using one of the classical problems of continuum mechanics as an example are given, the significance of the study and the practical value for the user are analyzed. The prospects for the development of the project and the expansion of its functionality in solving new problems of continuum mechanics are analyzed.</p>
+   item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python, open source software, compressibleInterFoam solver, PyQt
+   item_pages: 156—164
+   item_citation: 'Chitalov D. I. Development of a Module for the compressibleInterFoam Solver of the OpenFOAM Package, Programmnaya Ingeneria, 2025, vol. 16, no. 3, pp. 156—164. DOI: 10.17587/prin.16.156-164 (in Russian).'
+   item_references: |
+     <li>Ansys Fluent. Fluid Simulation Software, available at: https://www.ansys.com/Products/Fluids/ANSYS-Fluent (date of access 05.11.2024).</li>
+     <li>FlowVision. Russian CAE package for interdisciplinary modeling of devices and physical processes, available at: https://flowvi-sion.ru/ru/ (date of access 05.11.2024).</li>
+     <li>OpenFOAM. The open source CFD toolbox, available at: https://www.openfoam.com/ (date of access 05.11.2024).</li>
+     <li>Salome. The Open Source Integration Platform for Numerical Simulation, available at: http://www.salome-platform.org (date of access 05.11.2024).</li>
+     <li>Helyx-OS. Open Source GUI for OpenFOAM, available at: http://engys.com/products/helyx-os (date of access 05.11.2024).</li>
+     <li>Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Development of a graphical user interface for the OpenFOAM toolbox, Programmnaya ingeneriya, 2016, vol. 7, no. 12, pp. 568—574. DOI: 10.17587/prin.7.568-574 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for the poroplasticstressedfoam solver and its integration into openFoam, Information technology and computing systems, 2023, no. 3, pp. 93—101. DOI: 10.14357/20718632230310 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for working with the plasticstressedfoam solver based on the openfoam package, Computer science systems and tools, 2023, vol. 33, no. 2, pp. 111—123. DOI: 10.14357/08696527230211 (in Russian).</li>
+     <li>Chitalov D. I. About the development of a module for the coupledporofoam solver of the OpenFOAM package, Programmnaya ingeneriya, 2023, vol. 14, no 2, pp. 93—100. DOI: 10.17587/prin.14.93-100 (in Russian).</li>
+     <li>compressibleInterFoam. OpenFOAM (description), available at: https://help.sim-flow.com/solvers/compressible-inter-foam (date of access 05.11.2024).</li>
+     <li>Python 3.7 documentation, available at: http://docs.python.org/3.7/ (date of access 05.11.2024).</li>
+     <li>PyQt5 Reference Guide, available at: http://pyqt.sourceforge.net/Docs/PyQt5/ (date of access 05.11.2024).</li>
+     <li>SQLite, available at: https://www.sqlite.org/index.html (date of access 05.11.2024).</li>
+     <li>PyCharm, available at: https://www.jetbrains.com/ru-ru/pycharm/ (date of access 05.11.2024).</li>
+     <li>ParaView. Open-source, multi-platform data analysis and visualization application, available at: http://www.paraview.org/ (date of access 05.11.2024).</li>
+     <li>The OpenFOAM Foundation. User Guide, available at: http://foam.sourceforge.net/docs/Guides-a4/OpenFOAMUser-Guide-A4.pdf (date of access 05.11.2024).</li>
+     <li>OpenFOAM. Tutorial Guide, available at: http://open-foam.com/documentation/tutorial-guide/index.php (date of access 05.11.2024).</li>
+     <li>Degtyar V. G., Pegov V. I., Merkulov E. S. Numerical modeling of the evolution of the cavity boundary during torpedo launch, Bulletin of SUSU. Ser.: Math. modeling and programming, 2016, vol. 6, no. 1, pp. 5—12 (in Russian).</li>
+     <li>OpenFOAM_GUI, available at: http://github.com/Dmitry-Chitalov/OpenFOAM_GUI (date of access 05.11.2024).</li>
