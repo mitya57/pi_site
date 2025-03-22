@@ -1,0 +1,14 @@
+name: main
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt update && sudo apt install --no-install-recommends nanoc ncftp
+      - run: nanoc
+      - if: github.ref == 'refs/heads/master'
+        run: |
+          cd output
+          ncftpput -R -v -u nov2504130_ftp -p ${{ secrets.PASSWORD }} ftp.nov2504130.nichost.ru novtex.ru/docs/prin/ ./rus
+          ncftpput -R -v -u nov2504130_ftp -p ${{ secrets.PASSWORD }} ftp.nov2504130.nichost.ru novtex.ru/docs/prin/ ./eng
