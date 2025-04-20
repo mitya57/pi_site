@@ -1,0 +1,184 @@
+---
+title: Issue N4 2025 year
+content:
+ - doi: 16.167-180
+   udk: "004.056.5"
+   item_authors: Petrenko V. I., Tebueva F. B., Ogur M. G., Linets G. I., Mochalov V. P.
+   item_name: A Scalable Method for Detecting Multi-Vector Attacks on Compromised IoT Devices Using Machine Learning Algorithms
+   item_authors_address: |
+     <b>V. I. Petrenko</b>, Associate Professor, Head of Department, vipetrenko@ncfu.ru,
+     <b>F. B. Tebueva</b>, Professor, ftebueva@ncfu.ru,
+     <b>M. G. Ogur</b>, Senior Lecturer, ogur26@gmail.com,
+     <b>G. I. Linets</b>, Professor, kbytw@mail.ru,
+     <b>V. P. Mochalov</b>, Professor, mochalov.valery2015@yandex.ru,
+     FSAEI HE "North-Caucasus Federal University", Stavropol, 355017, Russian Federation
+   item_corr_author: 'Maksim G. Ogur, Senior Lecturer, FSAEI HE "North-Caucasus Federal University", Stavropol, 355017, Russian Federation, E-mail: mogur@ncfu.ru'
+   item_rec_on: October 11, 2024
+   item_acc_on: February 05, 2025
+   item_annot: |
+     <p>The paper presents a new scalable method for detecting multi-vector attacks on compromised Internet of Things (IoT) devices using machine learning algorithms. A detailed analysis of existing attack detection methods is conducted, including signature-based methods, anomaly-based methods, supervised and unsupervised machine learning methods, as well as deep learning methods such as convolutional and recurrent neural networks. A new method combining deep learning and federated learning is developed, which improves the accuracy, scalability, and security of the system in the context of limited IoT device resources. The results of an experimental study confirming the superiority of the proposed method over existing solutions are presented.</p>
+   item_keywords: Internet of Things, multi-vector attacks, machine learning, deep neural networks, federated learning, IoT, security
+   item_pages: 167—180
+   item_comment: This work was supported by a grant from the IB MTUCI, agreement No. 40469/17-23-K
+   item_citation: 'Petrenko V. I., Tebueva F. B., Ogur M. G., Linets G. I., Mochalov V. P. A Scalable Method for Detecting Multi-Vector Attacks on Compromised IoT Devices Using Machine Learning Algorithms, Programmnaya Ingeneria, 2025, vol. 16, no. 4, pp. 167—180. DOI: 10.17587/prin.16.167-180 (in Russian).'
+   item_references: |
+     <li>Statista. Number of connected IoT devices worldwide 2019­2025, available at: https://www.statista.com/statistics/471264/iot-number-of-connected-devices-worldwide/ (date of access 18.08.2024).</li>
+     <li>Vajrobol V., Gupta B. B., Gaurav A., Chuang H.-M. Adversarial learning for Mirai botnet detection based on long short-term memory and XGBoost, International Journal of Cognitive Computing in Engineering, 2024, vol. 5, pp. 153—160. DOI: 10.1016/j.ijcce.2024.02.004.</li>
+     <li>Nawshin F., Unal D., Hammoudeh M., Suganthan P. N. AI-powered malware detection with Differential Privacy for zero trust security in Internet of Things networks, Ad Hoc Networks, 2024, vol. 161, article 103523. DOI: 10.1016/j.adhoc.2024.103523.</li>
+     <li>Adiwal S., Rajendran B., Shetty D. P., Sudarsan S. D. DNS Intrusion Detection (DID) — A SNORT-based solution to detect DNS Amplification and DNS Tunneling attacks, Franklin Open, 2023, vol. 2, article 100010. DOI: 10.1016/j.fraope.2023.100010.</li>
+     <li>Diro A., Kaisar S., Vasilakos A. V. et al. Anomaly detection for space information networks: A survey of challenges, techniques, and future directions, Computers & Security, 2024, vol. 139, ar­ticle 103705. DOI: 10.1016/j.cose.2024.103705.</li>
+     <li>Sasi T., Lashkari A. H., Lu R. et al. An efficient self attention-based 1D-CNN-LSTM network for IoT attack detection and identification using network traffic, Journal of Information and Intelligence, 2024, in Press. DOI: 10.1016/j.jiixd.2024.09.001.</li>
+     <li>Kavitha D., Ramalakshmi R. Machine learning-based DDOS attack detection and mitigation in SDNs for IoT environments, Journal of the Franklin Institute, 2024, vol. 361, no. 17, article 107197. DOI: 10.1016/j.jfranklin.2024.107197.</li>
+     <li>Abdulkareem S. A., Foh C. H., Carrez F., Moessner K. A lightweight SEL for attack detection in IoT/IIoT networks, Journal of Network and Computer Applications, 2024, vol. 230, article 103980. DOI: 10.1016/j.jnca.2024.103980.</li>
+     <li>Saheed Y. K., Omole A. I., Sabit M. O. GA-mADAM-IIoT: A new lightweight threats detection in the industrial IoT via genetic algorithm with attention mechanism and LSTM on multivariate time series sensor data, Sensors International, 2025, vol. 6, article 100297. DOI: 10.1016/j.sintl.2024.100297.</li>
+     <li>Kumari M. K., Tripathi N. Detecting interest flooding attacks in NDN: A probability-based event-driven approach, Computers & Security, 2025, vol. 148, article 104124. DOI: 10.1016/j.cose.2024.104124.</li>
+     <li>Olanrewaju-George B., Pranggono B. Federated learning-based intrusion detection system for the internet of things using unsupervised and supervised deep learning models, Cyber Security and Applications. 2025, vol. 3, article 100068. DOI: 10.1016/j.csa.2024.100068.</li>
+     <li>Petrenko V. I., Kopytov V. V., Tebueva F. B., Ogur M. G. Model of threats to information security of the process of trusted interaction of IoT system devices, formalizing scenarios of multi-vector attacks, Bulletin of the St. Petersburg State University of Technology and Design. Series 1: Natural and technical sciences, 2024, no. 2, pp. 126-133. DOI:10.46418/2079-8199_2024_2_23 (in Russian).</li>
+     <li>Alabdulatif A., Thilakarathne N. N., Aashiq M. Machine Learning Enabled Novel Real-Time IoT Targeted DoS/DDoS Cyber Attack Detection System, Computers, Materials and Continua, 2024, vol. 80, no. 3, pp. 3655—3683. DOI: 10.32604/cmc.2024.054610.</li>
+     <li>Baccour E., Erbad A., Mohamed A. et al. Multi-agent reinforcement learning for privacy-aware distributed CNN in heterogeneous IoT surveillance systems, Journal of Network and Computer Applications, 2024, vol. 230, article 103933. DOI: 10.1016/j. jnca.2024.103933.</li>
+     <li>Canadian Institute for Cybersecurity. CIC IoT Dataset 2023. Fredericton, NB, Canada: University of New Brunswick, 2023, available at: https://www.unb.ca/cic/datasets/iotdataset-2023.html (date of access 11.10.2024).</li>
+ - doi: 16.181-189
+   udk: "519.714.5"
+   item_authors: Bibilo P. N.
+   item_name: Additional Optimization for Algorithm a Block Cover of a System of Disjunctive Normal Forms of Boolean Functions
+   item_authors_address: |
+     <b>P. N. Bibilo</b>, Head of Laboratory, bibilo@newman.bas-net.by,
+     The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
+   item_corr_author: 'Petr N. Bibilo, Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus,Minsk, 220012, Belarus, E-mail: bibilo@newman.bas-net.by'
+   item_rec_on: December 11, 2024
+   item_acc_on: January 15, 2025
+   item_annot: |
+     <p>The block coverage of the DNF system (Disjunctive Normal Forms) of fully defined Boolean functions consists in grouping elementary conjunctions into subsystems (blocks) with limited values of the number of input variables, functions and conjunctions. For a more effective solution to the problem of logical synthesis, an algorithm is proposed to reduce the number of different DNFs in a pair of intersecting blocks. The algorithm is based on constructing an undirected graph and coloring it into a minimum number of colors. This makes it possible to reduce the complexity of multi-level representations of block functions, since for sparse DNF systems of Boolean functions, the blocks often contain the same DNF. For matrix forms of sparse DNF systems, the ternary matrix specifying elementary conjunctions contains a large proportion of undefined values corresponding to the missing literals of Boolean input variables in the algebraic notation, and the Boolean matrix specifying the occurrences of conjunctions in the DNF of Boolean functions contains a large proportion of zero values. Thus, technologically independent optimization of sparse DNF systems of Boolean functions is divided into two stages — block coverage and minimization of multilevel representations of block functions in the form of BDD or Boolean nets.</p>
+   item_keywords: Boolean function system, DNF, block cover of the DNF system, coloring an undirected graph, logic synthesis, ASIC
+   item_pages: 181—189
+   item_citation: 'Bibilo P. N. Additional Optimization for Algorithm a Block Cover of a System of Disjunctive Normal Forms of Boolean Functions, Programmnaya Ingeneria, 2025, vol. 16, no. 4, pp. 181—189. DOI: 10.17587/prin.16.181-189 (in Russian).'
+   item_references: |
+     <li>Amaru L. G. New Data Structures and Algorithms for Logic Synthesis and Verification, Springer, 2017, 156 p.</li>
+     <li>Zakrevskij A. D. Logical Synthesis of Cascading Circuit, Moscow, Nauka, 1981, 416 р. (in Russian).</li>
+     <li>Brayton K. R., Hachtel G. D., McMullen C., SangiovanniVincentelli A. L. Logic Minimization Algorithm for VLSI Synthesis. Boston, Kluwer Academic Publishers, 1984, 193 p.</li>
+     <li>Synthesis of Asynchronous Automata on a Computer, Pod red. A. D. Zakrevskogo, Minsk, Nauka i tekhnika, 1975, 184 p. (in Russian).</li>
+     <li>Brayton R. K., McMullen C. T. The Decomposition and Factorization of Boolean Expressions, Proc. of 1982 ISCAS Symp., Rome, May 10—12, 1982, pp. 49—54.</li>
+     <li>Brayton R. K., Rudell R., Sangiovanni-Vincentelli A. L., Wang A. R. MIS: A multiple-level logic optimization systems, IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, 1987, vol. CAD-6, no. 6, pp. 1062—1081. DOI: 10.1109/TCAD.1987.1270347.</li>
+     <li>Meinel C., Theobald T. Algorithms and Data Structures in VLSI Design: OBDD — Foundations and Applications, Berlin, Heidelberg, Springer-Verlag, 1998, 267 p.</li>
+     <li>Drechsler R., Becker B. Binary Decision Diagrams: Theory and Implementation. N. Y, Springer, 1998, 210 p.</li>
+     <li>Ebendt R., Fey G., Drechsler R. Advanced BDD Optimization, Springer, 2005, 222 p.</li>
+     <li>Ebendt R., Gunther W., Drechsler R. An improved branch and bound algorithm for exact BDD minimization, Computer-Aided Design of Integrated Circuits and Systems, 2003, vol. 22, no. 12, pp. 1657—1663. DOI: 10.1109/TCAD.2003.819427.</li>
+     <li>Haaswijk W., Soeken M., Amaru L., Gaillardon P.-E., De Micheli G. A novel basis for logic rewriting, Proc. of 22nd Asia and South Pacific Design Automation Conference (ASP-DAC), 2017, pp. 151—156. DOI: 10.1109/ASPDAC.2017.7858312.</li>
+     <li>Soeken M., Amaru L. G., Gaillardon P., De Micheli G. Optimizing majority-inverter graphs with functional hashing, Proc. Design, Automation and Test in Europe, 2016, pp. 1030—1035. DOI: 10.3850/9783981537079_0281.</li>
+     <li>Soeken M., Amaru L., Gaillardon P.-E., De Micheli G. Exact synthesis of majority-inverter graphs and its applications, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2017, vol. 36, no. 11, pp. 1842—1855.</li>
+     <li>Riener H., Testa E., Amaru L., Soeken M., De Micheli G. Size optimization of MIGs with an application to QCA and STMG technologies, Proc. of International Symposium on Nanoscale Architectures, 2018, pp. 157—162. DOI: 10.1145/3232195.3232202.</li>
+     <li>Harlecek I., Fiser P., Schmidt J. Are XORs in logic synthesis really necessary? IEEE 20th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), 2017, pp. 134—139. DOI: 10.1109/DDECS.2017.7934583.</li>
+     <li>Schneider A. A., Kardash S. N. Algorithms for the synthesis of single-level combinational circuits from PLAs, Avtomatika i vychislitel’naya tekhnika, 1987, no. 5, pp. 62—67 (in Russian).</li>
+     <li>Kardash S. N. Construction of block partitions of Boolean function systems based on the problem of covering Boolean matrices, IX Mezhdunar. nauch.-prakt. konf. “BIG DATA and Advanced Analytics” (BIG DATA 2023): Materialy mezhdunar. nauch. konf., Respublika Belarus’, Minsk, 17—18 May 2023, Minsk: BGUIR, 2023, part 2, pp. 326—330 (in Russian).</li>
+     <li>Tarasov I. E. XILINX FPGA. Hardware Description Languages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya—Telekom, 2020, 538 р. (in Russian).</li>
+     <li>Bibilo P. N. Integrated Circuit Design Systems Based on the VHDL Language. StateCAD, ModelSim, LeonardoSpectrum, Moscow, SOLON-Press Publ., 2005, 384 p. (in Russian).</li>
+     <li>Zakrevsky A. D., Pottosin Yu. V., Cheremisinova L. D. Logical foundations of the design of discrete devices. Мoscow, Fizmatlit, 2007, 592 p. (in Russian).</li>
+     <li>Bibilo P. N. Binary decision diagrams in logical design. Мoscow: LENAND, 2024. 560 p. (in Russian).</li>
+     <li>Bibilo P. N., Lankevich Yu. Yu. The use of Zhegalkin polynomials in minimizing multilevel representations of systems of Boolean functions based on the Shannon expansion, Programmnaya ingeneriya, 2017, vol. 8, no. 8, рр. 369—384. DOI: 10.17587/prin.8.369-384 (in Russian).</li>
+ - doi: 16.190-198
+   udk: "004.852"
+   item_authors: Vorobyev E. A., Namiot D. E.
+   item_name: Adversarial Testing of Image Segmentation Models
+   item_authors_address: |
+     <b>E. A. Vorobyev</b>, Student, voro6yov.egor@gmail.com,
+     <b>D. E. Namiot</b>, Dr. Sci., Leading Researcher, dnamiot@gmail.com,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: 'Egor A. Vorobyev, Student, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: voro6yov.egor@gmail.com'
+   item_rec_on: December 04, 2024
+   item_acc_on: January 13, 2025
+   item_annot: |
+     <p>Image segmentation is one of the most frequently addressed tasks in image processing. However, image segmentation models, like any other deep learning models, are susceptible to adversarial attacks — special data modifications at different stages of the standard machine learning pipeline that prevent the model from functioning correctly and pose a problematic issue for practical applications of deep learning models. This paper examines so-called evasion attacks, where input data is modified during the execution (inference) stage. The article presents an original tool — Segmentation Robustness Framework (SRF), designed for testing the robustness of segmentation models against digital adversarial attacks.</p>
+   item_keywords: machine learning, deep learning, image segmentation, adversarial attacks
+   item_pages: 190—198
+   item_citation: 'Vorobyev E. A., Namiot D. E. Adversarial Testing of Image Segmentation Models, Programmnaya Ingeneria, 2025, vol. 16, no. 4, pp. 190—198. DOI: 10.17587/prin.16.190-198.'
+   item_references: |
+     <li>Minaee S., Boykov Y., Porikli F. et al. Image segmentation using deep learning: A survey, IEEE transactions on pattern analysis and machine intelligence, 2021, vol. 44, no. 7, pp. 3523—3542. DOI: 10.1109/TPAMI.2021.3059968.</li>
+     <li>Vorob'ev E. A. Analiz sostjazatel'nyh atak na sistemy segmentacii izobrazhenij, International Journal of Open Information Technologies, 2024, vol. 12, no. 10, pp. 1—25 (in Russian).</li>
+     <li>Namiot D. E. Shemy atak na modeli mashinnogo obuchenija, International Journal of Open Information Technologies, 2023, vol. 11, no. 5, pp. 68—86 (in Russian).</li>
+     <li>Chehonina E. A., Kostjumov V. V. Obzor sostjazatel'nyh atak i metodov zashhity dlja detektorov ob”ektov, International Journal of Open Information Technologies, 2023, vol. 11, no. 7, pp. 11—20 (in Russian).</li>
+     <li>Kostjumov V. V. Obzor i sistematizacija atak ukloneniem na modeli komp'juternogo zrenija, International Journal of Open Information Technologies, 2022, vol. 10, no. 10, pp. 11—20 (in Russian).</li>
+     <li>Namiot D. E., Il'jushin E. A. Doverennye platformy iskusst-vennogo intellekta: sertifikacija i audit, International Journal of Open Information Technologies, 2024, vol. 12, no. 1, pp. 43—60 (in Russian).</li>
+     <li>Kumar R. S. S., Nystrom M., Lambert J. et al Adversarial machine learning-industry perspectives, 2020 IEEE security and privacy workshops (SPW), IEEE, 2020, pp. 69—75. DOI: 10.1109/ SPW50608.2020.00028.</li>
+     <li>Tsai M. J., Lin P. Y., Lee M. E. Adversarial attacks on medical image classification, Cancers, 2023, vol. 15, no. 17, pp. 4228. DOI: 10.3390/cancers15174228.</li>
+     <li>Poryvaj M. V. Sravnitel'noe issledovanie metodov estest-vennoj augmentacii izobrazhenij, International Journal of Open Information Technologies, 2024, vol. 12, no. 10, pp. 26—33 (in Russian).</li>
+     <li>Goodfellow I. J., Shlens J., Szegedy C. Explaining and harnessing adversarial examples. arXiv preprint arXiv:1412.6572. 2014. DOI: 10.48550/arXiv.1412.6572.</li>
+     <li>Guesmi A., Hanif M. A., Ouni B., Shafique M. Physical adversarial attacks for camera-based smart systems: Current trends, categorization, applications, research challenges, and future outlook. arXiv:2308.06173. DOI: 10.48550/arXiv.2308.06173.</li>
+     <li>Tramer F., Kurakin A., Papernot N. et al. Ensemble adversarial training: Attacks and defenses. arXiv preprint arXiv:1705.07204. 2017. DOI: 10.48550/arXiv.1705.07204.</li>
+     <li>Kim H. Torchattacks: A pytorch repository for adversarial attacks. arXiv 2020. arXiv preprint arXiv:2010.01950.</li>
+     <li>SRF, available at: https://github.com/wntic/segmentation-robustness-framework (date of access 03.12.2024).</li>
+     <li>segmentation_models.pytorch (SMP), available at: https://github.com/qubvel-org/segmentation_models.pytorch (date of access 04.01.2025).</li>
+     <li>Magisterskaja programma "Iskusstvennyj intellekt v kiber-bezopasnosti" (FGOS). 2024. October, available at: https://cs.msu.ru/node/3732 (date of access 02.12.2024) (in Russian).</li>
+     <li>Namiot D. E., Il'jushin E. A., Chizhov I. V. Iskusstvennyj intellekt i kiberbezopasnost', International Journal of Open Information Technologies, 2022, vol. 10, no. 9, pp. 135 — 147 (in Russian).</li>
+ - doi: 16.199-208
+   udk: "004.42"
+   item_authors: Kol'chugina E. A.
+   item_name: Methods for Coding and Identifying the Structure of Dynamically Changing Programs
+   item_authors_address: |
+     <b>E. A. Kol'chugina</b>, Associate Professor, Professor of the Department of Mathematical Support and Computer Application, kea_sci@list.ru,
+     Penza State University, Penza, 440026, Russian Federation
+   item_corr_author: "Elena A. Kol'chugina, Associate Professor, Professor of the Department of Mathematical Support and Computer Application, Penza State University, Penza, 440026, Russian Federation,  E-mail: kea_sci@list.ru"
+   item_rec_on: January 09, 2025
+   item_acc_on: January 30, 2025
+   item_annot: |
+     <p> To make the structure and composition of dynamically changing programs clear, appropriate identification and coding methods are needed, as well as a logging system. We consider two kinds of such methods based on the numbering theory and a function-oriented approach. We introduce in detail a new identification system that exposes pedigree connections between volatile software agents. The results are necessary for development of new kinds of artificial intelligence, automatic evolutionary development of software, evolutionary synthesis of logic circuits.</p>
+   item_keywords: evolutionary software development, dynamically changing programs, structure identification, numbering theory, function-oriented methods
+   item_pages: 199—208
+   item_citation: "Kol'chugina E. A. Methods for Coding and Identifying the Structure of Dynamically Changing Programs, Programmnaya Ingeneria, 2025, vol. 16, no. 4, pp. 199—208. DOI: 10.17587/prin.16.199-208."
+   item_references: |
+     <li>Makarov V. L., Bakhtizin A. R., Beklaryan G. L., Akopov A. S. Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 167—177. DOI: 10.17587/prin.10.167-177 (in Russian).</li>
+     <li>Makarov V. L., Bakhtyzyn A. R. Social modeling: a new computer breakthrough (agent-based models), Moscow, Ekonomika, 2013, 295 p. (in Russian).</li>
+     <li>Makarov V. L., Okrepylov V. V., Bakhtyzyn A. R. Scientific Solutions to Complex Economic and Social Problems Using Supercomputers, Moscow, LENAND, 2023, 416 p. (in Russian).</li>
+     <li>Russel S. J., Norvig P. Artificial Intelligence: A Modern Approach, second edition, Upper Saddle River, New Jersey, Prentice Hall, 2003, 1080 p.</li>
+     <li>Matsumura T., Esaki K., Shao Yang et al. Active Inference With Empathy Mechanism for Socially Behaved Artificial Agents in Diverse Situations, Artificial Life, 2024, vol. 30, no. 2, pp. 277—297. DOI: 10.1162/artl_a_00416.</li>
+     <li>Wrona Z., Buchwald W., Ganzha M. et al. Overview of Software Agent Platforms Available in 2023, Information, 2023, vol. 14, no. 6, pр. 348. DOI: 10.3390/info14060348.</li>
+     <li>Kol’chugina E. A. Spontaneous Emergence of Programs from “Primordial Soup” of Functions in Distributed Computer Systems, Automatic Control and Computer Sciences, 2018, vol. 52, no. 1, pp. 40—48. DOI: 10.3103/S0146411618010054.</li>
+     <li>Kol'chugina E. A. Self-Synthesis of Programs Based on Artificial Chemistry Model, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 440—448. DOI: 10.17587/prin.13.440-448.</li>
+     <li>Velepucha V., Flores P. A Survey on Microservices Architecture: Principles, Patterns and Migration Challenges, IEEE Access, 2023, vol. 11, pp. 88339—88358, DOI: 10.1109/ACCESS.2023.3305687.</li>
+     <li>Uspenskij V. A. Vychislimye operacii i ponyatie programmy (Computable operations and the concept of a program), Uspekhi matematicheskih nauk, 1956, vol. 11, no. 4, pp. 172—176 (in Russian).</li>
+     <li>Ershov Yu. L. The theory of numbering, Moscow, Nauka; Gl. red. fiz.-mat. lit, 1977. 416 p. (in Russian).</li>
+     <li>Mal'cev A. I. Algorithms and recursive functions, 2-nd edition, Moscow, Nauka; Gl. red. fiz.-mat. lit., 1986, 368 p. (in Russian).</li>
+     <li>Lin'kov V. M. Numeracionnye metody v proektirovanii sistem upravleniya dannymi (Numbering methods in the design of data man­agement systems), Penza, Izd-vo Penz. gos. tekhn. un-ta, 1994. 156 p.</li>
+     <li>Kol'chugina E. A. Application of Numberings Theory Methods for Representation of Software Agents's Code Evolution in Temporal Databases. Programmnaya Ingeneria, 2012, no. 4, pp. 19—22 (in Russian).</li>
+     <li>Munjal K., Bhatia R. A systematic review of homomorphic encryption and its contribution in healthcare industry, Complex & Intelligent Systems, 2022, vol. 9, no. 4, pp. 3759—3786. DOI: 10.1007/ s40747-022-00756-z.</li>
+     <li>Kol'chugina E. A. Identification of digital organisms, Novye informacionnye tekhnologii i sistemy: sb. nauch. st. XI Mezhdunar. nauch.-tekhn. konf'., Penza, 25—27 November 2014, Penza, Izd-vo PGU, 2014, pp. 431—432 (in Russian).</li>
+     <li>Kol'chugina E. A. Self-organizing software systems with distributed artificial intelligence, Automatic Control and Computer Sciences, 2015, vol. 49, no. 4, pp. 216—220. DOI: 10.3103/S0146411615040069.</li>
+     <li>Church A. An Unsolvable Problem of Elementary Number Theory, American Journal of Mathematics, Apr. 1936, vol. 58, no. 2, pp. 345—363. DOI: 10.2307/2371045.</li>
+     <li>Dittrich P., Ziegler J., Banzhaf W. Artificial Chemistries — A Review, Artificial Life, 2001, vol. 7, no. 3. pp. 225—275. DOI:  10.1162/106454601753238636.</li>
+     <li>Banzhaf W., Yamamoto L. Artificial Chemistries, Cambridge, Massachusetts; London, England, The MIT Press, 2015. 576 p.</li>
+     <li>Fontana W. Algorithmic chemistry, Artificial Life II, SFI Studies in the Sciences of Complexit/ Eds. by C. G. Langton, C. Taylor, J. D. Farmer, S. Rasmussen, 1991, vol. X, pp. 159—209.</li>
+     <li>Banatre J. P., Le Metayer D. The Gamma model and its discipline of programming, Science of Computer Programming, 1990, vol. 15, no. 1, pp. 55—77. DOI: 10.1016/0167-6423(90)90044-E.</li>
+     <li>Berry G., Boudol G. The Chemical Abstract Machine, Theoretical Computer Science, 1992, vol. 96, no. 1, pp. 217—248. DOI: 10.1016/0304-3975(92)90185-I.</li>
+     <li>Koza J. R., Bennett F. H., Andre D., Keane M. A. Genetic Programming: Biologically Inspired Computation That Creatively Solves Non-trivial Problems. Evolution as Computation. Natural Computing Series / Eds by L. F. Landweber, E. Winfree. Springer, Berlin, Heidelberg, 2002, pp. 95—124. DOI: 10.1007/978-3-642-55606-7_5.</li>
+ - doi: 16.209-216
+   udk: "004.93"
+   item_authors: Yakovlev A. V., Anikeev D. A., Kudinov L. S.
+   item_name: Application of the Bit-Recursion Method in Programming Problems of Cyclic Electropneumatic Automata
+   item_authors_address: |
+     <b>A. V. Yakovlev</b>, Associate Professor, lutikovaolga@mail.ru,
+     <b>D. A. Anikeev</b>, Student, danyanickeev@gmail.com,
+     <b>L. S. Kudinov</b>, Student, goodkud@mail.ru,
+     Bauman Moscow State Technical University, 105005, Moscow, Russian Federation
+   item_corr_author: 'Albert V. Yakovlev, Associate Professor, Bauman Moscow State Technical University, 105005, Moscow, Russian Federation, E-mail: lutikovaolga@mail.ru'
+   item_rec_on: June 20, 2024
+   item_acc_on: December 24, 2024
+   item_annot: |
+     <p>To intensify the programming of technological processes implemented by cyclic finite automata, a bit-recursion method has been developed based on extending the property of simple mathematical recursion to a system of Boolean functions as a general algorithmic basis for logical programming. The proposed mathematical model of the kinematic state of an automaton using markers — program elements of bit recursion — expands the well-known programming methodology by structuring the synthesized LD program. It is shown that recursion connects a triad of sets related respectively to markers, a sensor, and relay electromagnets controlling the actuators of a cyclic automaton. An LD template card has been developed to complement the programmer's interface.</p>
+   item_keywords: cyclic finite state machine, LD programming basis, marker system, bit recursion method, identification tables, template map
+   item_pages: 209—216
+   item_citation: 'Yakovlev A. V., Anikeev D. A., Kudinov L. S. Application of the Bit-Recursion Method in Programming Problems of Cyclic Electropneumatic Automata, Programmnaya Ingeneria, 2025, vol. 16, no. 4, pp. 209—216. DOI: 10.17587/prin.16.209-216. (in Russian).'
+   item_references: |
+     <li>IEC 1131-3 Standard (EN6-1131-3, DIN EN6.1131-3). 1993.</li>
+     <li>SIMATIC S5. Standart Function Blocks and Driver Software for Programmable Controllers. SIEMENS Catalog ST57. 1994.</li>
+     <li>Shalyto A. A. Switch technology. Algorithmization and programming of logical control tasks, St. Petersburg, Nauka, 1998, 628 p. (in Russian).</li>
+     <li>Shalyto A. A., Validation of automatic specifications, Scientific and Technical Bulletin of Information Technologies, Mechanics and Optics, 2023, no. 2, pp. 436—438. DOI: 10.17586/2226-1494-2023-23-2-436-438.</li>
+     <li>Orlov V. A. On the implementation of Boolean functions, Bulletin of the Bauman Moscow State Technical University. Ser. "Instrument Engineering", 2014, vol. 94, no. 1, pp. 101—110 (in Russian).</li>
+     <li>Brauer V. Introduction to the theory of finite automata, Moscow, Radio and Communications, 1987, 312 p. (in Russian).</li>
+     <li>Kuznetsov O. P. Theory of algorithmical finite automaton languages. II. Comparison of languages effectiveness-wise, Avtomat. i Telemekh., 1981, no. 4, pp. 156—164 (in Russian).</li>
+     <li>Trudonoshin V. A., Fedoruk V. G. Solving the inverse dynamics problem using universal modeling systems, Bulletin of the Bauman Moscow State Technical University. Ser. "Instrument Engneering", 2014, vol. 94, no. 1, pp. 94-100 (in Russian).</li>
+     <li>Beran L. Ordered sets, Moscow, Nauka, 1991, 62 p. (in Russian).</li>
+     <li>Maltsev A. I. Algorithms and recursive functions, Moscow, Nauka, 1965, 391 p. (in Russian).</li>
+     <li>Devyatkov V. V. Implementation of finite-automaton algorithms by structured programs, Avtomat. i Telemekh., 1981, no. 9, pp. 147—156 (in Russian).</li>
+     <li>Devyatkov V. V. Stack software implementation of control algorithms, Design of logical control devices, Moscow, Nauka Publ., 1984, pp. 208—216 (in Russian).</li>
+     <li>Brit-fiord.ru, available at: https://brit-fiord.ru/language/yazyk-programmirovaniya-fbd-lad.html (date of access 20.07.2024) (in Russian).</li>
+     <li>LAD/STL/FBD programming window, available at: https://strop--snab-ru.turbopages.org/turbo/strop-snab.ru/s/novosti/lad-fbd.html (date of access 20.09.2024) (in Russian).</li>
+     <li>Programming language for relay diagrams, available at: https://vsetehpribory.ru/elektrika/yazyk-programmirovaniya-relejnyh-diagramm (date of access 20.09.2024) (in Russian).</li>
