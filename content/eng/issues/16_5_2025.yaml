@@ -1,0 +1,212 @@
+---
+title: Issue N5 2025 year
+content:
+ - doi: 16.219-230
+   udk: '004.62'
+   item_authors: Samokhvalov A. V., Solovjev D. S., Belyaev N. A., Shulgin G. N.
+   item_name: Development of an Automated System for Searching and Aggregating Information about Scientific Events
+   item_authors_address: |
+     <b>A. V. Samokhvalov</b>, Head of Department of Mathematical Modeling and Information Technologies, samohvalov@gmail.com,
+     <b>D. S. Solovjev</b>, Associate Professor, Department of Mathematical Modeling and Information Technologies, solovjevdenis@mail.ru,
+     <b>N. A. Belyaev</b>, Student, beliaew.nikita@mail.ru,
+     <b>G. N. Shulgin</b>, Student, shulgin.grigoriy@yandex.ru,
+     Derzhavin Tambov State University, Tambov, 392000, Russian Federation
+   item_corr_author: 'Alexey V. Samokhvalov, Head of Department of Mathematical Modeling and Information Technologies, Derzhavin Tambov State University, Tambov, 392000, Russian Federation, E-mail: samohvalov@gmail.com'
+   item_rec_on: January 30, 2025
+   item_acc_on: March 11, 2025
+   item_annot: |
+     <p>The article is devoted to the actual problem of effective search for information about scientific events. To solve the problem it is proposed to develop an automated system that simplifies the processes of data collection and aggregation. The system requirements were formulated. The system design using IDEF0 methodology was completed. A detailed description of the system architecture is given. The structure of database tables of the system is considered. Technologies for realization of the system software are described, and the interfaces performing its main functions are demonstrated. The efficiency of the developed system is evaluated, demonstrating a significant advantage over the traditional method of manual search.</p>
+   item_keywords: automated system, information retrieval and aggregation, Internet data parsing, design, architecture, information support, software, computational experiment
+   item_pages: 219—230
+   item_comment: The research was carried out within the framework of implementation of the development program of Derzhavin Tambov State University "Priority-2030".
+   item_citation: 'Samokhvalov A. V., Solovjev D. S., Belyaev N. A., Shulgin G. N. Development of an Automated System for Searching and Aggregating Information about Scientific Events, Programmnaya Ingeneria, 2025, vol. 16, no. 5, pp. 219—230. DOI: 10.17587/prin.16.219-230. (in Russian).'
+   item_references: |
+     <li>Vorobyeva G. R., Farvaev E. F. Architecture of the distributed system of geospatial data acquisition and processing based on web design patterns, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 482—492. DOI: 10.17587/prin.14.482-492 (in Russian).</li>
+     <li>Bolshakov, A. A., Lachugin, D. V., Lobanov, V. V. De­signing a software complex of the adaptive control system, stream data collection and analysis, Programmnaya Ingeneria, 2015, no. 2, pp. 13—22. (in Russian).</li>
+     <li>Sadovnichiy V. A., Vasenin V. A. Intellectual system of thematic research of scientometric data: prerequisites of creation and methodology of development. Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian).</li>
+     <li>Vasenin V. A., Golomazov D. D., Gankin G. M. Architecture, methods and means of the basic component of the scientific information management system "ISTINA — Science of MSU", Programmnaya Ingeneria, 2014, no. 9, pp. 3—12 (in Russian).</li>
+     <li>Afonin S. A., Kozitsyn A. S., Shachnev D. A. Program mechanisms of data aggregation based on ontological representation of the structure of the relational database of scientometric data, Programmnaya Ingeneria, 2016, vol. 7, no. 9, pp. 408—413. DOI: 10.17587/prin.7.408-413 (in Russian).</li>
+     <li>Vasenin V. A., Itkes A. A., Bukhonov V. Yu., Galatenko A. V. Models of logical access delimitation in multi-user systems for managing scientometric content, Programmnaya Ingeneria, 2016. vol. 7, no. 12, pp. 547—558. DOI: 10.17587/prin.7.547-558 (in Russian).</li>
+     <li>Methodology of functional modeling IDEF0. Guiding document RD IDEF0-2000, Moscow, Gosstandart of Russia, 2000, 75 p. (in Russian).</li>
+     <li>Rybalchenko M. V. Architecture of information systems, Moscow, Yurait Publishing House, 2019, 91 p. (in Russian).</li>
+     <li>Nesterov S. A. Databases, Moscow, Yurait Publishing House, 2025, 258 p. (in Russian).</li>
+     <li>Ramavat Ja. M., Patel K. S. Docker container placement in Docker Swarm cluster by using weighted resource optimization approach, Reliability: Theory & Applications, 2024, vol. 19, no. 4 (80), pp. 201—213. DOI: 10.24412/1932-2321-2024-480-201-213.</li>
+     <li>Golec M., Plechawska-Wojcik M. Comparative analysis of frameworks using TypeScript to build server applications, Journal of Computer Sciences Institute, 2022, vol. 23, pp. 128—134. DOI: 10.35784/jcsi.2910.</li>
+     <li>Rasyada N. SHA-512 Algorithm on Json Web Token for Restful Web Service-Based Authentication, Journal of Applied Data Sciences, 2022, vol. 3, no. 1, pp. 33—43. DOI: 10.47738/jads.v3i1.51.</li>
+     <li>Gryaznykh I. D., Ananchenko I. V., Gaikov A. V. Software development for automation of the score-rating system of the university, Sovremennye Naukoemkie tehnologii, 2023, no. 6, pp. 20—26. DOI: 10.17513/snt.39626 (in Russian).</li>
+     <li>Certificate of state registration of computer program No. 2023664341 Russian Federation. Prototype of information retrieval system for collecting data on grants, competitions and internships: No. 2023663785: declared 04.07.2023: published 04.07.2023 /N. A. Belyaev, G. N. Shulgin, A. V. Samokhvalov, D. V. Meshcheryakov; applicant Federal State Budgetary Educational Institution of Higher Education "Derzhavin Tambov State University".</li>
+ - doi: 16.231-239
+   udk: '004.032'
+   item_authors: Khalyasmaa A. I.
+   item_name: High Voltage Equipment Diagnostics based on Ultraviolet Imaging Processing using Adaptive Computer Vision Method
+   item_authors_address: |
+     <b>A. I. Khalyasmaa</b>, PhD, Head of the Scientific laboratory, a.i.khaliasmaa@urfu.ru,
+     Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation
+   item_corr_author: 'Alexandra I. Khalyasmaa, PhD, Head of the Scientific Laboratory, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation, E-mail: a.i.khaliasmaa@urfu.ru'
+   item_rec_on: December 11, 2024
+   item_acc_on: January 15, 2025
+   item_annot: |
+     <p>Inspection of high voltage equipment is being automated in order to improve efficiency of repair and maintenance procedures. Also, it is necessary to use methods of energized equipment inspection without installation of multiple sensors on each equipment unit. It can be done using analysis of surface partial discharges in ultraviolet spectrum. Processing of ultraviolet images needs expert knowledge and requires a lot of time to carry out. The method for automated detection of surface partial discharges on ultraviolet images is proposed. The algorithm combines deterministic algorithms of computer vision, the proposed algorithm of adaptive threshold filtering and machine learning to optimize heuristic parameters of the algorithm. Combination of different filters together with division of the initial image into multiple blocks results in minimization of false-negative results. Application of morphological transformations enables minimization of false-positive results while retaining shapes of true discharges on the image. The proposed algorithm has demonstrated 80 % accuracy in detection of surface partial discharges on UV images of high voltage disconnectors of a real power station. The algorithm is characterized by low computational complexity, high interpretability, resistance to image noise and invariance to survey angle. Therefore, it can be used in highly automated decision support systems of equipment inspection.</p>
+   item_keywords: high voltage equipment, equipment inspection, surface partial discharge, computer vision, image filtration, ultraviolet control
+   item_pages: 231—239
+   item_citation: 'Khalyasmaa A. I. High Voltage Equipment Diagnostics based on Ultraviolet Imaging Processing using Adaptive Computer Vision Method, Programmnaya Ingeneria, 2025, vol. 16, no. 5, pp. 231—239. DOI: 10.17587/prin.16.231-239 (in Russian).'
+   item_references: |
+     <li>Jin L., Ai J., Tian Z., Zhang Y. Detection of polluted insulators using the information fusion of multispectral images, IEEE Transactions on Dielectrics and Electrical Insulation, 2017, vol. 24, no. 6, pp. 3530—3538. DOI: 10.1109/TDEI.2017.006516.</li>
+     <li>Lei H., Zang C., Jiang Z. et al. Ultraviolet imaging method to detect the damage of pillar insulators, High Voltage Electrical Ap­paratus, 2009, vol. 45, no. 5. pp. 87—91.</li>
+     <li>Jiahao H., Bo J., Guiquan X. et al. Research on the Factors Influencing the UV Detection of Corona Discharge Under Combined AC-DC Voltage, Proceedings of the 2022 4th International Conference on Smart Power & Internet Energy Systems (SPIES), Beijing, 2022, pp. 43—48. DOI: 10.1109/SPIES55999.2022.10082260.</li>
+     <li>Li M., Jing Y., Zhang L. et al. Insulator Defect Detec­tion Based on Ultraviolet Imaging and Acoustic Emission Signal, Proceedings of the 2020 IEEE 3rd Student Conference on Electri­cal Machines and Systems (SCEMS), Jinan, 2020, pp. 472—475. DOI: 10.1109/SCEMS48876.2020.9352424.</li>
+     <li>Arbuzov R. S., Zharich D. S., Ovsyannikov A. G., Sh-vets N. A. Interpretation of the results of UV inspection of high-voltage equipment, Elektroenergiya. Peredacha i raspredeleniye, 2023, vol. 5 (80), pp. 126—131 (in Russian).</li>
+     <li>Khalyasmaa A. I., Petrunko N. N. An alternative approach to diagnostics of external insulation of high-voltage equipment of power stations and substations, Informatika i sistemy upravleniya, 2024, vol. 4, no. 82, pp. 72—82. DOI: 10.22250/18142400_2024_82_4_72 (in Russian).</li>
+     <li>Gyrichidi N., Romanov A. M., Trofimov O. V. et al. GNSS-Based Narrow-Angle UV Camera Targeting: Case Study of a Low-Cost MAD Robot, Sensors, 2024, vol. 24, pp. 3494. DOI: 10.3390/s24113494.</li>
+     <li>Romanov A. M., Gyrichidi N., Trofimov O. V., Eroshenko S. A. MAD Robot: Concept and Prototype Description of the Robot for Multi-Spectral Power Equipment Diagnostics. Part II, Proceedings of the 2023 Belarusian-Ural-Siberian Smart Energy Con­ference (BUSSEC), Yekaterinburg, 2023, pp. 142—149. DOI: 10.1109/BUSSEC59406.2023.10296278.</li>
+     <li>Zhao W., Cui A., Fang M. et al. State assessment of 110—220 kV intelligent substation based on multisensor fusion algorithm control and image vision, Frontiers in Energy Research, 2023, no. 10, article 1047359. DOI: 10.3389/fenrg.2022.1047359.</li>
+     <li>Romanov A. M., Gyrichidi N., Volkova M. A. et al. Automated mission planning for aerial large-scale power plant thermal inspection, Journal of Field Robotics, 2024, no. 41, pp. 1313—1348. DOI: 10.1002/rob.22320.</li>
+     <li>Zeng Y., Qin X., Li B. et al. A Novel Autonomous Landing Method for Flying—Walking Power Line Inspection Robots Based on Prior Structure Data, Applied Science, 2023, no. 13, article 9544. DOI: 10.3390/app13179544.</li>
+     <li>Zhao W., Liu W., Hu Y. et al. Extraction method of insulator discharge area in ultraviolet image and its application, Proceedings of the 2017 4th International Conference on Systems and Informatics (ICSAI), Hangzhou, 2017, pp. 857—961. DOI: 10.1109/ICSAI.2017.8248405.</li>
+     <li>Hu B., Ma L.-X., Yuan S.-J., Yang B. New corona ultraviolet detection system and fault location method, Proceedings of the 2012 China International Conference on Electricity Distribution, Shanghai, 2012, pp. 1—4. DOI: 10.1109/CICED.2012.6508475.</li>
+     <li>Limin Y., Zhangyu. Ultraviolet Image Processing Method in Corona Detection, Proceedings of the 2009 Second International Workshop on Computer Science and Engineering. Qingdao, 2009, pp. 327—331. DOI: 10.1109/WCSE.2009.680.</li>
+     <li>Zhang D., Chen S. Intelligent Recognition of Insulator Contamination Grade Based on the Deep Learning of Ultraviolet Discharge Image Information, Energies, 2020, no. 13, article 5221. DOI: 10.3390/en13195221.</li>
+     <li>Jin L., Zhang D. Contamination Grades Recognition of Ceramic Insulators Using Fused Features of Infrared and Ultraviolet Images, Energies, 2015, no. 8, pp. 837—858. DOI: 10.3390/en8020837.</li>
+     <li>Wang B., Guo R., Li B. et al. SmartGuard: An autonomous robotic system for inspecting substation equipment, Journal of Field Robotics, 2012, no. 29, pp. 123—137.</li>
+     <li>Luo K., Zhao J., Huang C. et al. Multi-sensor Fusion Based Inspection Robotic Dog Safety Guardian and Navigation Application, Proceedings of the 2023 2nd International Symposium on Sensor Technology and Control (ISSTC), Hangzhou, 2023, pp. 191—195. Doi: 10.1109/ISSTC59603.2023.10280809.</li>
+     <li>Lindeberg T. Feature Detection with Automatic Scale Selection, International Journal of Computer Vision, 1998, no. 30, pp. 79—116. DOI: 10.1023/A:1008045108935.</li>
+     <li>Mikolajczyk K., Schmid C. Indexing based on scale invariant interest points, Proceedings of the International Conference on Computer Vision (ICCV'01), Vancouver, 2001, pp. 525—531. DOI: 10.1023/A:1008045108935.</li>
+     <li>Lowe D. G. Recognition from Local Scale-Invariant Features, Proceedings of the Seventh IEEE International Conference on Computer Vision, Kerkyra, 1999, no. 2, pp. 1150—1157. DOI: 10.1109/ICCV.1999.790410.</li>
+     <li>Bay H., Tuytelaars T., Van Gool L. SURF: Speeded Up Robust Features, Computer Vision — ECCV 2006, 2006, no. 3951, pp. 404—417. DOI: 10.1007/11744023_32.</li>
+     <li>Kong H., Akakin H. C., Sarma S. E. A Generalized Laplacian of Gaussian Filter for Blob Detection and Its Applications, IEEE Transactions on Cybernetics, 2013, vol. 43, no. 6, pp. 1719—1733. DOI: 10.1109/TSMCB.2012.2228639.</li>
+     <li>Miao Z., Jiang X. Interest point detection using rank order LoG filter, Pattern Recognition, 2013, vol. 46, no. 11, pp. 2890—2901. DOI: 10.1016/j.patcog.2013.03.024.</li>
+     <li>Xu Y., Wu T., Gao F. et al. Improved small blob detection in 3D images using jointly constrained deep learning and Hessian analysis, Scientific Report, 2020, vol. 10, artilcle 326. DOI: 10.1038/s41598-019-57223-y.</li>
+     <li>Vincent L., Soille P. Watersheds in Digital Spaces: An Efficient Algorithm Based on Immersion Simulations, IEEE Transactions on Pattern Analysis and Machine Intelligence, 1991, vol. 13, no. 6, pp. 583—598. DOI: 10.1109/34.87344.</li>
+     <li>Phansalkar N., More S., Sabale A., Joshi M. Adaptive local thresholding for detection of nuclei in diversity stained cytology images, Proceedings of the 2011 International Conference on Communications and Signal Processing, Kerala, 2011, pp. 218—220. DOI: 10.1109/ICCSP.2011.5739305.</li>
+     <li>Guan S., Liu B., Chen S. et al. Adaptive median filter salt and pepper noise suppression approach for common path coherent dispersion spectrometer, Scientific Reports, 2024, vol. 14, article 17445. DOI: 10.1038/s41598-024-66649-y.</li>
+     <li>Stark J. A. Adaptive image contrast enhancement using generalizations of histogram equalization, IEEE Transactions on Image Processing, 2000, vol. 9, no. 5, pp. 889—896. DOI: 10.1109/83.841534.</li>
+     <li>Pizer S. M., Amburn E. P., Austin J. D. et al. Adaptive histogram equalization and its variations, Computer Vision, Graphics, and Image Processing, 1987, vol. 39, no 3, pp. 355—368. DOI: 10.1016/S0734-189X(87)80186-X.</li>
+     <li>Image Filtering. OpenCV, available at: https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html (date of access 05.09.2023).</li>
+     <li>Szeliski R. Image Alignment and Stitching: A Tutorial, Foundations and Trends in Computer Graphics and Vision, 2007, vol. 2, no. 1, pp. 1—104. DOI: 10.1561/0600000009.</li>
+     <li>Matrenin P., Myasnichenko V., Sdobnyakov N. et al. R. Generalized swarm intelligence algorithms with domain-specific heuristics, IAES International Journal of Artificial Intelligence, 2021, vol. 10, no. 1, pp. 157—165. DOI: 10.11591/ijai.v10.i1.pp157-165.</li>
+     <li>Raj B., Ahmedy I., Idris M. Y. I., Noor R. M. A Hybrid Sperm Swarm Optimization and Genetic Algorithm for Unimodal and Multimodal Optimization Problems, IEEE Access, 2022, vol. 10, pp. 109580—109596. DOI: 10.1109/ACCESS.2022.3208169.</li>
+ - doi: 16.240-251
+   udk: '004.92'
+   item_authors: Borisov A. D., Makhortov S. D.
+   item_name: Improving the Accuracy of Facial Geometry Reconstruction in Dual-Camera Systems
+   item_authors_address: |
+     <b>A. D. Borisov</b>, Postgraduate Student, radiatus@yandex.ru,
+     <b>S. D. Makhortov</b>, Professor, Head of Department of Programming and Information Technologies, msdexp@yandex.ru,
+     Voronezh State University, Voronezh, 394018, Russia Federation
+   item_corr_author: 'Aleksandr D. Borisov, Postgraduate Student, Voronezh State University, Voronezh, 394018, Russia Federation, E-mail: radiatus@yandex.ru'
+   item_rec_on: February 03, 2025
+   item_acc_on: March 04, 2025
+   item_annot: |
+     <p>The article presents a method for facial geometry reconstruction that combines a local blendshape model with a geometrically controlled As-Rigid-As-Possible (ARAP) model. The local model provides a rough approximation of the facial shape using segmentation and regularization, while ARAP refines local details, enhancing consistency and detailization. Experimental results demonstrated a reduction in errors and an improvement in reconstruction quality compared to traditional methods. The proposed method is versatile and applicable to both limited and multi-camera systems, making it promising for the film industry and virtual reality.</p>
+   item_keywords: facial geometry reconstruction, local blendshape model, photometric energy, stereo constraints
+   item_pages: 240—251
+   item_citation: 'Borisov A. D., Makhortov S. D. Improving the Accuracy of Facial Geometry Reconstruction in Dual-Camera Systems, Programmnaya Ingeneria, 2025, vol. 16, no. 5, pp. 240—251. DOI: 10.7587.prin.16.240-251 (in Russian).'
+   item_references: |
+     <li>Xu H., Dai L., Fu J., Wang X., Wang Q. High-Quality Real Time Facial Capture Based on Single Camera, arXiv preprint, 2021. DOI: 10.48550/arXiv.2111.07556.</li>
+     <li>Peres V. M. X., Dal Molin G. P., Musse S. R. Can We Truly Transfer an Actor's Genuine Happiness to Avatars? An Inves­tigation into Virtual, Real, Posed, and Spontaneous Faces, arXiv preprint, 2023. DOI: 10.48550/arXiv.2312.02128.</li>
+     <li>Li H., Yu J., Ye Y., Bregler C. Realtime facial animation with on-the-fly correctives, ACM Transactions on Graphics, 2013, vol. 32, no. 4, article 42. DOI: 10.1145/2461912.2462019.</li>
+     <li>Beeler T., Bickel B., Beardsley P. et al. High-quality singleshot capture of facial geometry, ACM Transactions on Graphics, 2010, vol. 29, no. 4, Article 40. DOI: 10.1145/1778765.1778777.</li>
+     <li>Fyffe G., Jones A., Alexander O. et al. Driving high-resolution facial scans with video performance capture, ACM Transactions on Graphics, 2014, vol. 34, no. 1, article 8. DOI: 10.1145/2638549.</li>
+     <li>Lewis J. P., Anjyo K., Rhee T. et al. Practice and Theory of Blendshape Facial Models, Eurographics 2014 — State of the Art Reports, 2014, pp. 199—218. DOI: 10.2312/egst.20141042.</li>
+     <li>Pighin F., Hecker J., Lischinski D. et al. Synthesizing Realistic Facial Expressions from Photographs, Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '98),1998. P. 75—84. DOI: 10.1145/280814.280825.</li>
+     <li>Galantucci L., Lavecchia F., Percoco G. 3D Face Measurement and Scanning Using Digital Close Range Photogrammetry: Evaluation of Different Solutions and Experimental Approaches, Proceedings of the International Conference on 3D Body Scanning Technologies, 2010, article 34. DOI: 10.15221/10.052.</li>
+     <li>Weise T., Bouaziz S., Li H., Pauly M. Realtime performance-based facial animation, ACM Transactions on Graphics, 2011, vol. 30, no. 4, article 77. DOI: 10.1145/2010324.1964972.</li>
+     <li>Sorkine O., Alexa M. As-Rigid-As-Possible Surface Modeling, Proceedings of the Fifth Eurographics Symposium on Geometry Processing, 2007, pp. 109—116. DOI: 10.2312/SGP/SGP07/109-116.</li>
+     <li>Levi Z., Gotsman C. Smooth Rotation Enhanced As-Rigid-As-Possible Mesh Animation, IEEE Transactions on Visualization and Computer Graphics, 2015, vol. 21, no. 10, pp. 1135—1144. DOI: 10.1109/TVCG.2014.2359463.</li>
+     <li>Serra J., Moser D., McLean D., Hendler D. Simplified Facial Capture with Head-Mounted Cameras, ACM SIGGRAPH 2021 Talks, 2021, article 43. DOI: 10.1145/3450623.3464637.</li>
+     <li>Moser L., Williams M., Roble D. High-Quality CostEffective Facial Motion Capture Pipeline with 3D Regression, ACM SIGGRAPH 2018 Talks, 2018, аrticle 58, 2 p.  DOI: 10.1145/3214745.3214755.</li>
+     <li>Danecek R., Black M. J., Bolkart T. EMOCA: Emotion Driven Monocular Face Capture and Animation, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 20279—20290. DOI: 10.1109/CVPR52688.2022.01967.</li>
+     <li>Taigman Y., Yang M., Ranzato M. A., Wolf L. DeepFace: Closing the Gap to Human-Level Performance in Face Verification, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 1701—1708. DOI: 10.1109/CVPR.2014.220.</li>
+     <li>Ma W.-C., Fyffe G., Debevec P. Optimized local blendshape mapping for facial motion retargeting, ACM SIGGRAPH 2011 Talks, 2011, article 58. DOI: 10.1145/2037826.2037903.</li>
+     <li>Borisov A. D., Makhortov S. D. Non-Rigid Registration of a Human Face from Images from a Stereo Camera, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 82—92. DOI: 10.7587/prin.14.82-92 (in Russian).</li>
+     <li>Ferrari C., Berretti S., Pala P., Del Bimbo A. A Sparse and Locally Coherent Morphable Face Model for Dense Semantic Correspondence Across Heterogeneous 3D Faces, arXiv preprint, 2020. DOI: 10.48550/arXiv.2006.03840.</li>
+     <li>Peyre G., Pechaud M., Keriven R., Cohen L. Geodesic Methods in Computer Vision and Graphics, Foundations and Trends in Computer Graphics and Vision, 2009. vol. 5, no. 3—4, pp. 197—397. DOI: 10.1561/0600000029.</li>
+     <li>Marquardt D. W. An Algorithm for Least-Squares Estimation of Nonlinear Parameters, SIAM Journal on Applied Mathematics, 1963, vol. 11, no. 2, pp. 431—441. DOI: 10.1137/0111030.</li>
+     <li>Chai T., Draxler R. R. Root mean square error (RMSE) or mean absolute error (MAE)? — Arguments against avoiding RMSE in the literature, Geoscientific Model Development, 2014, vol. 7, no. 3, pp. 1247—1250. DOI: 10.5194/gmd-7-1247-2014.</li>
+ - doi: 16.252-259
+   udk: '51-7, 519.6, 517'
+   item_authors: Kudayeva F. Kh.
+   item_name: The Method of Integral Equations for the Stefan Problem under Low-Temperature Exposure to Biological Tissues
+   item_authors_address: |
+     <b>F. Kh. Kudayeva</b>, Associate Professor, kfatimat@yandex.ru,
+     Kabardino-Balkarian State University named after Kh. M. Berbekov, Institute of Artificial Intelligence and Digital Technologies, Nalchik, 360004, Russian Federation
+   item_corr_author: 'Fatimat Kh. Kudayeva, Associate Professor, Kabardino-Balkarian State University named after Kh.M. Berbekov, Institute of Artificial Intelligence and Digital Technologies, Department of Applied Mathematics and Computer Science, Nalchik, 360004, Russian Federation E-mail: kfatimat@yandex.ru'
+   item_rec_on: December 25, 2024
+   item_acc_on: February 21, 2025
+   item_annot: |
+     <p>Studies of models with Stefan-type phase transitions represent a complex class of mathematical problems characterized by the presence of moving phase boundaries. In this paper, we consider a boundary value problem with Stefan-type phase transitions describing the process of low-temperature exposure to biological tissues. The methods of applying integral equations to solve such problems are analyzed, their advantages and disadvantages in comparison with other approaches are emphasized.
+     Using the Green's function and formula, a transition is made from the Stefan problem to an equivalent system of two nonlinear integral equations of Fredholm and Volterra. The solution to the one-dimensional phase transition problem was found using the thermal potential method.
+     Using numerical methods, computer-based solutions are obtained. The position of the moving boundary of the phase transition for a one-dimensional problem with free boundaries is determined.
+     The results obtained will be useful to specialists involved in mathematical modeling of processes with phase transitions. They will find practical application in many fields of science and technology where a phase transition takes place.</p>
+   item_keywords: mathematical model, method of integral equations, numerical methods, software packages, phase transition
+   item_pages: 252—259
+   item_citation: 'Kudayeva F. Kh. The Method of Integral Equations for the Stefan Problem under Low-Temperature Exposure to Biological Tissues, Programmnaya Ingeneria, 2025, vol. 16, no. 5, pp. 252—259. DOI: 10.17587/prin.16.252-259 (in Russian).'
+   item_references: |
+     <li>Formalev V. F., Rabinsky L. N. On the Stefan type problem with two unsteady moving boundaries of phase transformations, Proceedings of the Russian Academy of Sciences. Energetika, 2014, no. 4, pp. 74—81 (in Russian).</li>
+     <li>Kudayeva F. Kh. Mathematical models of the application of problems with free boundaries in biomedicine, Nalchik, Print Center, 2024. 380 p. (in Russian).</li>
+     <li>Krasnov M. L. Integral equations, Moscow, Nauka, 1975, 304 p. (in Russian).</li>
+     <li>Litvinchuk G. S. Boundary value problems and singular integral equations, Moscow, Nauka, 1965, 128 p. (in Russian).</li>
+     <li>Motygin O. V. Solvability of boundary integral equations for the problem of motion of a body in a two-layer liquid, Journal of Computations, mathematicians and mathematicians Physics, 2003, vol. 43, no. 2, pp. 268—275 (in Russian).</li>
+     <li>Galyautdinova L. F., Mukhlisov F. G. Integral representation of the solution of a degenerate B-elliptic equation with a negative parameter, Izvestiya Tula State University of Natural Sciences, 2011, vol. 1, pp. 6—24 (in Russian).</li>
+     <li>Veremeychik A. I. By the method of boundary integral equations for solving two-dimensional unrelated nonstationary boundary value problems of thermoelasticity of isotropic bodies, Bulletin of the Brest State Technical University, 2001, no. 5, pp. 66—69 (in Russian).</li>
+     <li>Ahmed S. G. Boundary Element Methods for Heat Transfer with Phase Change Problems: Theory and Application, Bentham Science Publishers, 2022, 622 p. DOI: 10.2174/97898150408831220101.</li>
+     <li>Kaygermazov A. A., Kudayeva F. Kh. Mathematical model of spherical symmetric hypothermia of biological tissue, Modern problems of science and education, 2015, no. 2, available at: https://science-education.ru/ru/article/view?id=22001 (date of access 09.08.2024) (in Russian).</li>
+     <li>Kudayeva F. K., Kaygermazov A. A., Zhemukhov A. K., Khashkhozheva D. A. Mathematical Model of Spherical-Symmetric Hypothermia and Cryodestruction of Biological Tissue, Proceed-ings-2020 2nd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency. SUMMA, 2020, pp. 22—25.</li>
+     <li>Friedman A. Partial differential equations of parabolic type, Moscow, Mir, 1968, 427 p. (in Russian).</li>
+     <li>Kudayeva F. Kh., Kaygermazov A. A., Khashkhozheva D. A. The problem with free boundaries in medicine, South Siberian Scientific Bulletin, 2022, no. 6, pp. 8—12. DOI: 10.25699/ SSSB.2022.46.6.050 (in Russian).</li>
+     <li>Samarskiy A. A. Introduction to numerical methods.A textbook for universities. 2nd edition, revised. and additional, Moscow, Nauka. Gl. ed. phys.-mat. lit., 1987, 288 p. (in Russian).</li>
+     <li>Mamedova T. F., Egorova D. K., Desyaev E. V., Hess R. Asymptotic integration of differential equations of the Emden-Fowler type, Bulletin of the Mordovian University, 2016, vol. 26, no. 4, pp. 440—447 (in Russian).</li>
+     <li>Kuznetsov G. V., Sheremet M. A. Difference methods for solving problems of thermal conductivity: textbook, Tomsk, TPU Publishing House, 2007, 172 p. (in Russian).</li>
+     <li>Vabishevich P. N. Numerical methods for solving problems with a free boundary, Moscow, Publishing House of Moscow State University, 1987, 164 p. (in Russian).</li>
+     <li>Hemming R. V. Numerical methods for scientists and engineers, Moscow. Nauka. Gl. red. phys.-mat. lit., 1968, 400 p. (in Russian).</li>
+     <li>Johansson B. T., Chapko R. Method of limit integrals for numerical solution of the Cauchy problem for the Laplace equation, Ukr. mat. zhurn., 2016, vol. 68, no. 12, pp. 1665—1682.</li>
+     <li>Kudayeva F. Kh. Computer modeling of low-temperature effects on biological tissues with a spherical applicator. Certificate of registration of the computer program 2023663249, 06/21/2023. Application No. 2023661899 dated 06/08/2023.</li>
+     <li>Mitropolsky Yu. A., Berezovsky A. A., Berezovsky M. A. Problems with free limits for a nonlinear parabolic equation, Ukr. mat. zhurn., 1997, vol. 49, no. 10, pp. 1360—1372.</li>
+     <li>Rayder E. E. Mathematical model of spherical symmetric cryodestruction of biological tissue, Stefan's tasks with the ultimate stationary state in cryosurgery. Collection of articles, Kyiv, Institute of Mathematics of the Academy of Sciences of Ukraine, 1986, 47 p. (in Russian).</li>
+ - doi: 16.260-268
+   udk: '004.89'
+   item_authors: Kaledina E. A., Kaledin O. E., Artamonov A. V.
+   item_name: Implementation of a Level of Access to a Language Model Using the Example of an Intelligent Applicant Support System
+   item_authors_address: |
+     <b>E. A. Kaledina</b>, Associate Professor, elena.lizina@gmail.com,
+     <b>O. E. Kaledin</b>, Associate Professor, kaledinoe@gmail.com,
+     <b>A. V. Artamonov</b>, Master's Student, alexey375890@gmail.com,
+     National Research Mordovian State University N. P. Ogareva, Saransk, 430005, Russian Federation
+   item_corr_author: 'Elena A. Kaledina, Associate Professor Department of Data Analysis and Artificial Intelligence, National Research Mordovian State University N. P. Ogareva, Saransk, 430005, Russian Federation E-mail: elena.lizina@gmail.com'
+   item_rec_on: January 30, 2025
+   item_acc_on: March 18, 2025
+   item_annot: |
+     <p>The paper proposes models for segmenting text documents to implement fine-tuning of large language models using the RAG (Retrival-Augmented Generation) method. In the first model, the document is divided into a large number of fragments equal in number of characters. In this case, the partition is carried out in such a way that for any fragment there are either one or two fragments that coincide exactly by half. In the second model, the source document is divided into fragments according to the semantic content. In turn, the fragments are divided into segments, resulting in a two-level partition of the document. Based on the concept of two-level partitioning, a "Key-Value" structure is created, where the keys are text segments, and the value is the corresponding text fragment. Using the example of implementing an intelligent information system to support university applicants, a comparison and analysis of these models was carried out. The information system includes a database, web interface and chat bot. Giga chat from the Sber company was used as a large language model. Fine-tuning is carried out on the basis of data provided by the National Research Ogarev Mordovia State University. The work describes the presentation model and document structure for further work with the chatbot, as well as a vector storage that provides a convenient interface for working with vectorized data from the outside. The developed language model access layer provides an abstraction over the connected chatbot, while providing the user with a fairly low-level degree of interaction with the generative model, which can be useful when constructing complex queries.</p>
+   item_keywords: large language model, fine-tuning of the model, fragmentation of text documents, advanced search generation
+   item_pages: 260—268
+   item_citation: 'Kaledina E. A., Kaledin O. E., Artamonov A. V. Implementation of a Level of Access to a Language Model Using the Example of an Intelligent Applicant Support System, Programmnaya Ingeneria, 2025, vol. 16, no. 5, pp. 260—268. DOI: 10.17587/prin.16.260-268 (in Russian).'
+   item_references: |
+     <li>Johri P., Khatri S. K., Al-Taani A. T. et al. Natural Language Processing: History, Evolution, Application, and Future Work, Lecture Notes in Networks and Systems, 2021, vol. 167, pp. 365—375. DOI 10.1007/978-981-15-9712-1_31.</li>
+     <li>Zhao W. X., Zhou K., Li J. et al. A Survey of Large Language Models, available at: https://arxiv.org/abs/2303.18223 (date of access 23.01.2025).</li>
+     <li>Lehmann J., Meloni A., Motta E. et al. Large Language Models for Scientific Question Answering: An Extensive Analysis of the SciQA Benchmark, In book: The Semantic Web, 2024, pp. 199—217. DOI: 10.1007/978-3-031-60626-7_11.</li>
+     <li>Liu E., Cui C., Zheng K., Neubig G. Testing the Ability of Language Models to Interpret Figurative Language, available at: https://arxiv.org/abs/2204.12632 (date of access 10.03.2025).</li>
+     <li>Fortino A., Yang Z. Evaluating Large Language Model Accuracy in Structured Academic Settings: Three Case Studies, Conference: IEEE ISEC'24 14th IEEE Integrated STEM Education Conference. At: Princeton University, 2024. DOI: 10.1109/ISEC61299.2024.10665280.</li>
+     <li>Galeev D. T., Panishchev V. S. Experimental study of "transformer" language models in the task of finding an answer to a question in a Russian-language text, Informatika i avtomatizatsiya, 2022, vol. 21, no. 3, pp. 521—542. DOI: 10.15622/ia.21.3.3 (in Russian).</li>
+     <li>Gritsai G. M., Grabovoy A. V., Kildyakov A. S., Chekho-vich Yu. V. Search for artificially generated text fragments in scientific documents, Doklady Rossiyskoy akademii nauk. Matematika, informatika, protsessy upravleniya, 2023, vol. 514, no. 2, pp. 308—317. DOI: 10.31857/S2686954323601677 (in Russian).</li>
+     <li>Ziyue V. Optimization and development potential of machine translation using the example of large language models such as Chat-GPT, Aktual'nyye voprosy perevodovedeniya i regionovedeniya: sbornik statey Mezhdunarodnogo foruma, Nizhniy Novgorod: Nizhegorodskiy gosudarstvennyy lingvisticheskiy universitet im. N. A. Dobrolyubova, 2024, pp. 67—75 (in Russian).</li>
+     <li>Khusainova A. M., Romanov V. A., Khan A. M. Multilingual machine translation using a hierarchical transformer, Vestnik Voronezhskogo gosudarstvennogo universiteta. Seriya: Sistemnyy analiz i informatsionnyye tekhnologii, 2022, no. 1, pp. 125—138. DOI: 10.17308/sait.2022.1/9207 (in Russian).</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Proceedings of the 31st International Conference on Neural Information Processing Systems, Curran Associates Inc., Red Hook, NY, USA, 2017, pp. 6000—6010.</li>
+     <li>Han B., Susnjak T., Mathrani A. Automating Systematic Literature Reviews with Retrieval-Augmented Generation: A Comprehensive Overview, Applied Sciences, 2024, vol. 14, article 9103. DOI: 10.3390/app1419910313.</li>
+     <li>Mekhdiyev E. T., Borisov A. A., Rostotskiy M. V. et al. Development of an intelligent chat bot to automate responses and analyze user needs: computer science and computer technology, Human Progress, 2024, vol. 10, no. 5 (in Russian).</li>
+     <li>Bora A., Cuayahuitl H. Systematic Analysis of Retrieval-Augmented Generation-Based LLMs for Medical Chatbot Applications, Machine Learning and Knowledge Extraction, 2024, vol. 6, no. 4, pp. 2355—2374. DOI 10.3390/make6040116.</li>
+     <li>Zhou D., Scharli N., Hou L. et al. Least-to-Most Prompting Enables Complex Reasoning in Large Language Models, available at: https://arxiv.org/abs/2205.10625 (date of access 23.01.2025).</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, available at: https://arxiv.org/abs/1810.04805 (date of access 23.01.2025).</li>
+     <li>Gao Y., Xiong Y., Gao X. et al. Retrieval-Augmented Gen­eration for Large Language Models: A Survey, available at: https://arxiv.org/abs/2312.10997 (date of access 23.01.2025).</li>
+     <li>Nazarov D. M., Begicheva S. V. Application of large language models in the educational process, Biznes. Obrazovani-ye. Pravo, 2024, no 3(68), pp. 430—436. DOI: 10.25683/VOL-BI.2024.68.1057 (in Russian).</li>
+     <li>Obolensky D. M., Shevchenko V. I. Using the RAG method and large language models in intellectual educational ecosystems, Ekonomika. Informatika. 2024, vol. 51, no. 3, pp. 699—709. DOI: 10.52575/2687-0932-2024-51-3-699-709 (in Russian).</li>
+     <li>Abramov M. V., Khlobystova A. O., Sazanov V. A. Development of a chatbot for tracking the table of classes at the university, Programmnyye produkty i sistemy, 2023, vol. 36, no. 3, pp. 466—473. DOI: 10.15827/0236-235X.143.466-473 (in Russian).</li>
+     <li>Safronova M. A., Starina A. A. Chat bot in telegram — an intelligent assistant in the digital educational environment of a university for foreign students, Intellektual'nyye i informatsionnyye sistemy. Intellekt-2021: Tr. Vseross. nauch.-tekhn. konf, Tula, Tula State University, 2021, pp. 183—189 (in Russian).</li>
+     <li>Rashidov M. R. Development of an intelligent chat bot for advising applicants to DSU, Vseross. nauch.-prakt. konf. "Tsifrovaya transformatsiya v nauke, ekonomike i obrazovanii" v ramkakh realizatsii granta Minobrnauki Rossii "oSNOva nauki": sb. tezisov, Makhachkala, Dagestan State University, 2023, pp. 68—69 (in Russian).</li>
+     <li>Gawade H., Patil V., Vishe P., Kolpe S. College Enquiry Chat-Bot System, International Journal of Engineering Research and Technology, 2020, vol. 9, no. 9, pp. 741—742.</li>
+     <li>Punith S., Chaitra B., Veeranna K., Chethana R. M. Research Paper on Chatbot for Student Admission Enquiry, Journal of Advancement in Software Engineering and Testing, 2020, vol. 3, no. 1, pp. 1—9.</li>
+     <li>Nesterova A. V., Kozhevyatkina M. A., Kechin E. S. Development of an intelligent chat bot for API NGT applicants, Tekhnologicheskiy suverenitet i tsifrovaya transformatsiya: Mezhdunar. nauch.-tekhn. konf. Kazan, Kazan State Energy University, 2024, pp. 158—161 (in Russian).</li>
+     <li>Deeva O. V., Sharapov A. A. Development of an intelligent chat bot for SGUGIT applicants, Interekspo Geo-Sibir', 2020, vol. 7, no. 1, pp. 71—76. DOI: 10.33764/2618-981X-2020-7-1-71-76 (in Russian).</li>
+     <li>GigaChat: documentation for developers, available at: https://developers.sber.ru/docs/ru/gigachat/models (date of access 25.02.2025).</li>
+     <li>Gajbhiye A., Espinosa-Anke L., Schockaert S. Modelling Commonsense Properties using Pre-Trained Bi-Encoders, available at: https://arxiv.org/pdf/2210.02771 (date of access 25.02.2025).</li>
+     <li>Malkov Yu. A., Yashunin D. A. Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs, available at: https://arxiv.org/abs/1603.09320 (date of access 25.02.2025).</li>
+     <li>Reimers N., Gurevych I. Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, available at: https://arxiv.org/abs/1908.10084 (date of access 13.03.2025).</li>
