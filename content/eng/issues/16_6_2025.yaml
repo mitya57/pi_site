@@ -1,0 +1,196 @@
+---
+title: Issue N6 2025 year
+content:
+ - doi: 16.271-279
+   udk: '004.912'
+   edn: UUWJWK
+   item_authors: Maltsev A. S., Gosudarev I. B.
+   item_name: Investigation of the Implementation of Static Analysis for Evaluating the Interoperability of ECMAScript Code
+   item_authors_address: |
+     <b>A. S. Maltsev</b>, Master's Student, i@asmalcev.ru,
+     <b>I. B. Gosudarev</b>, Associate Professor, goss@itmo.ru,
+     Federal State Autonomous Educational Institution of Higher Education "ITMO National Research University", St. Petersburg, 197101, Russian Federation
+   item_corr_author: |-
+     Aleksandr S. Maltsev, Master's Student, Federal State Autonomous Educational Institution of Higher Education "ITMO National Research University", St. Petersburg, 197101, Russian Federation, E-mail: i@asmalcev.ru
+   item_rec_on: March 16, 2025
+   item_acc_on: March 31, 2025
+   item_annot: |
+     <p>The paper discusses the compatibility issues of JavaScript code with different platforms, such as browsers and server environments. It also provides a brief overview of some existing tools that can partially solve the problem. To address the issue, the paper proposes an innovative tool for analyzing ECMAScript code to evaluate its compatibility with different browser versions. The tool uses a pattern matching approach to describe the nodes in the code, which allows for a more declarative way of describing the different functional capabilities. The article focuses on the design of the analyzer's architecture, which allows for its future development in line with the release of new ECMAScript specifications. It's worth noting that the architecture allows for the easy integration of additional sources of ECMAScript compatibility information, significantly expanding its potential use cases. Babel is used to build an abstract syntax tree for analysis, while the MDN database provides compatibility information. The analyzer offers detailed information about a source code compatibility with target platforms, helping developers make informed decisions about technology choices and platform support planning.</p>
+   item_keywords: static analysis, ECMAScript, browsers, interoperability, pattern matching
+   item_pages: 271—279
+   item_citation: 'Maltsev A. S., Gosudarev I. B. Investigation of the Implementation of Static Analysis for Evaluating the Interoperability of ECMAScript Code, Programmnaya Ingeneria, 2025, vol. 16, no. 6, pp. 271—279. DOI: 10.17587/prin.16.271-279. (in Russian).'
+   item_references: |
+     <li>Simpson K. You don't know JS: ES6 and beyond, Sebastopol, CA, O'Reilly, 2016, 278 p.</li>
+     <li>Hafiz M., Hasan S., King Z., Wirfs-Brock A. Growing a language: An empirical study on how (and why) developers use some recently-introduced and/or recently-evolving JavaScript fea­tures, Journal of Systems and Software, 2016, vol. 121, pp. 191—208. DOI: 10.1016/j.jss.2016.04.045.</li>
+     <li>Park J., An S., Ryu S. Automatically deriving JavaScript static analyzers from specifications using Meta-level static analysis, Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2022, pp. 1022—1034. DOI: 10.1145/3540250.3549097.</li>
+     <li>Park J., Park J., Youn D., Ryu S. Accelerating javascript static analysis via dynamic shortcuts, Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2021, pp. 1129—1140.</li>
+     <li>Nugroho P. A., Putra R. C., Maulana R. C., Tandra V. Usage of Unsupported Technologies in Websites Worldwide, Jurnal Ilmiah Teknik Elektro Komputer dan Informatika (JITEKI), 2024, vol. 10, no. 2, pp. 332—344. DOI: 10.26555/jiteki.v10i2.28692.</li>
+     <li>Andres B. F., Perez M. Transpiler-based architecture for multi-platform web applications, Salinas, Ecuador, IEEE, 2017, 431 p. DOI: 10.1109/ETCM.2017.8247456.</li>
+     <li>Kamkin A. S. Introduction to formal methods of program verification, 28 ed. Moscow, MAKS Press, 2018, 272 p. (in Russian).</li>
+     <li>Admiraal C., Van den Brink W., Gerhold M. et al. Deriving modernity signatures of codebases with static analysis, Journal of Systems and Software, 2024, vol. 211, article 111973. DOI: 10.1016/j. jss.2024.111973.</li>
+     <li>Bogner J., Merkel M. To type or not to type?: a systematic comparison of the software quality of JavaScript and typescript applications on GitHub, MSR'22: Proceedings of the 19th International Conference on Mining Software Repositories, 2022, pp. 658—669. DOI: 10.1145/3524842.3528454.</li>
+     <li>Loring B., Mitchell D., Kinder J. ExpoSE: practical symbolic execution of standalone JavaScript, Proceedings of the 24th ACM SIGSOFT International SPIN Symposium on Model Checking of Software, 2017, pp. 196—199. DOI: 10.1145/3092282.3092295.</li>
+ - doi: 16.280-291
+   udk: '004.852'
+   edn: GXHVVS
+   item_authors: Novikov R. S., Novopashin M. A., Pozin B. A.
+   item_name: The Use of the Missing Sample Simulation Modeling to Create a Classification Model for 3 or more Classes with the Example of the Carbohydrate Metabolism Disorder Degree Detecting Problem
+   item_authors_address: |
+     <b>R. S. Novikov</b><sup>1, 2</sup>, Senior Researcher, rnovikov@ec-leasing.ru,
+     <b>M. A. Novopashin</b><sup>1</sup>, Head of the Math Cardiology Department, mnovopashin@ec-leasing.ru,
+     <b>B. A. Pozin</b><sup>1, 2, 3</sup>, Technical Director, bpozin@ec-leasing.ru,
+     <br>
+     <sup>1</sup> Closed Joint Stock Company "EC — Leasing", Moscow, 117587, Russian Federation,
+     <br>
+     <sup>2</sup> HSE University, Moscow, 101000, Russian Federation,
+     <br>
+     <sup>3</sup> Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation
+   item_corr_author: ' Roman S. Novikov, Senior Researcher, Closed Joint Stock Company "EC — Leasing", 117587, Moscow, Russian Federation, E-mail: rnovikov@ec-leasing.ru'
+   item_rec_on: January 29, 2025
+   item_acc_on: March 25, 2025
+   item_annot: |
+     <p>The aim of this study is to develop a method for constructing a sorting model capable of classifying 3 or more ordinal classes in conditions of insufficient labeled data for sorting model construction using machine learning methods. When searching or collecting data in order to build machine learning models, there are situations when there is enough data to train a binary to recognize the "top" class and the "bottom" one relative to the class order, but not enough to train model to recognize other classes. To build a new classification (sorting) model that recognizes 3 or more ordinal classes, a data sampling simulation technique is proposed, based on the available information about the distribution of all classes in the general population and about frequency of a positive result occurrence in the existing binary classifier for each ordinal class.
+     The purpose of data sampling simulation is to generate a labeled sample of random (according to the known class distribution) class objects and randomly (according to the known positive result occurrence frequency the existing binary classifier for each olass) generate measurements for each object — the results of the binary classifier ("positive"/ "negative result") — to form a sorting model based on this sample.
+     The sorting model classifies an object by analyzing the proportion of the binary classifier positive results on all measurements of the object. The problem of building this model is to find the optimal ranges for positive results proportion in the binary classifier for each class.
+     As an example of the result of using the sorting model constructing method via data sampling simulation, a sorting model is presented that solves the carbohydrate metabolism disorder degree detecting problem ("Type 2 diabetes mellitus"/"Prediabetes"/"Healthy") using an ECG series with a sufficiently high quality with at least 11 ECG measurements per patient.</p>
+   item_keywords: sorting, simulation modeling, machine learning, carbohydrate metabolism disorder
+   item_pages: 280—291
+   item_citation: 'Novikov R. S., Novopashin M. A., Pozin B. A. The Use of the Missing Sample Simulation Modeling to Create a Classification Model for 3 or more Classes with the Example of the Carbohydrate Metabolism Disorder Degree Detecting Problem, Programmnaya Ingeneria, 2025, vol. 16, no. 6, pp. 280—291. DOI: 10.17587/prin.16.280-291. (in Russian).'
+   item_references: |
+     <li>Furems E. M. Stepclass-based approach to multicrite-ria sorting, Iskusstvennyj intellekt i prinyatie reshenij, 2012, no. 4, pp. 104—115. DOI: 10.3103/S0147688215060064 (in Russian).</li>
+     <li>Dedov I. I., Shestakova M. V., Mayorov A. Y. et al. Clinical recommendations. Type 2 diabetes mellitus in adults, Saharnyj diabet, 2020. vol. 23, no. S2, pp. 4—102. DOI: 10.14341/DM20202S (in Russian).</li>
+     <li>Dedov I. I., Shestakova M. V., Galstyan G. R. The prevalence of type 2 diabetes mellitus in the adult population of Russia (NATION study), Saharnyj diabet, 2016, vol. 19, no. 2, pp. 104—112. DOI: 10.14341/DM2004116-17 (in Russian).</li>
+     <li>Otdel'nova K. A. Determination of the required number of observations in social and hygienic research, Sb. trudov 2-go MMI, 1980, vol. 150, no. 6, pp. 18—22 (in Russian).</li>
+     <li>Paniotto V. I., Maksimenko V. S. Quantitative methods in sociological research, Kyiv, Naukova dumka, 1982, 272 p. (in Russian).</li>
+     <li>Cundill B., Alexander N. D. E. Sample size calculations for skewed distributions, BMC Medical Research Methodology, 2015, vol. 15, no. 1, article 28. DOI: 10.1186/s12874-015-0023-0.</li>
+     <li>Muthen L. K., Muthen B. O. How to use a Monte Carlo study to decide on sample size and determine power, Structural Equation Modeling a Multidisciplinary Journal, 2002, vol. 9, no. 4, pp. 599—620. DOI: 10.1207/S15328007SEM0904_8.</li>
+     <li>Figueira J. R., Mousseau V., Roy B. ELECTRE methods, Multiple criteria decision analysis: State of the art surveys, 2016, pp. 155—185.</li>
+     <li>Jacquet-Lagreze E., Siskos J. Assessing a set of additive utility functions for multicriteria decision-making, the UTA method, European journal of operational research, 1982, vol. 10, no. 2, pp. 151—164. DOI: 10.1016/0377-2217(82)90155-2.</li>
+     <li>Shmid A., Mkrtumyan A. Remote noninvasive detection of carbohydrate metabolism disorders by first-lead ECG screening in CardioQVARK project, 2019 Actual Problems of Systems and Software Engineering (APSSE), IEEE, 2019, pp. 139—145. DOI: 10.1109/ APSS47353.2019.00025.</li>
+     <li>Schmid A. V., Berezin A. A., Novopashin M. A., Novikov R. S., Pozin B. A., Mkrtumyan A. M., Markova T. N. Komp'yuterizirovannyj sposob neinvazivnogo vyyavleniya narush-enij uglevodnogo obmena po elektrokardiogramme [Computerized method for non-invasive detection of carbohydrate metabolism disorders by electrocardiogram]: Patent RF no. 2728869, 2020.</li>
+     <li>Novopashin M. A., Shmid A. V., Berezin A. A. Fermi-Pasta-Ulam auto recurrence in the description of the electrical activity of the heart, Medical hypotheses, 2017, vol. 101, pp. 12—16. DOI: 10.1016/j.mehy.2017.02.002.</li>
+ - doi: 16.292-299
+   udk: '004.454'
+   edn: EIOCHU
+   item_authors: Serebryakov S. V., Giatsintov A. М., Mamrosenko K. А., Vorsin A. G., Bogdanov A. Yu.
+   item_name: Development of a Test System for MIPI CSI-2 Debugging
+   item_authors_address: |
+     <b>S. V. Serebryakov</b>, Junior Researcher, serebryakov-sv@niisi.ras.ru,
+     <b>A. М. Giatsintov</b>, Senior Researcher, Head of Department, giatsintov@niisi.ras.ru,
+     <b>K. А. Mamrosenko</b>, Leading Researcher, Head of Center, mamrosenko_k@niisi.ras.ru,
+     <b>A. G. Vorsin</b>, Engineer, vorsin@cs.niisi.ras.ru,
+     <b>A. Y. Bogdanov</b>, Junior Researcher, aubogdan@cs.niisi.ras.ru,
+     National Research Center "Kurchatov Institute" — SRISA, Moscow, 117218, Russian Federation
+   item_corr_author: 'Sergey V. Serebryakov, Junior Researcher, National Research Center "Kurchatov Institute" — SRISA, Moscow, 117218, Russian Federation, E-mail: serebryakov-sv@niisi.ras.ru'
+   item_rec_on: March 04, 2025
+   item_acc_on: April 15, 2025
+   item_annot: |
+     <p> When developing a logical structure of interface controllers, debugging complexity and time for creating and simulating test scenarios can negatively affect the performance of the end product. Early verification allows avoiding the accumulation of errors, while using several test methods increases test coverage. The article discusses a new method for designing a test system for debugging complex functional blocks simultaneously with their development. The method features the universality of using bare-metal programs both on an emulator with co-simulation and on a prototyping platform, as well as the possibility to configure a bare-metal program without reassembly. This method allows not to take into account the features of interaction with a specific operating system and various APIs, which simplifies hardware debugging and reduces the time required to check specified capabilities of the IP core. It also discusses assembling and running bare-metal programs, as well as their functional composition for the test system, and co-simulation method for debugging controller RTL model connected to the SoC emulated in the QEMU program. The paper also describes a method for debugging a controller implemented as an FPGA prototype, indicating its advantages and disadvantages. The obtained results of using the test system with bare-metal programs reduces resources needed for writing drivers for operating systems.</p>
+   item_keywords: bare-metal, MIPI D-PHY, CSI-2, Linux, simulation, co-simulation, hardware prototyping, RTL model, QEMU, I2C
+   item_pages: 292—299
+   item_comment: Publication is made as part of the research for NRC "Kurchatov Institute" — SRISA on the topic No. FNEF-2024-0003.
+   item_citation: 'Serebryakov S. V., Giatsintov A. М., Mamrosenko K. А., Vorsin A. G., Bogdanov A. Yu. Development of a Test System for MIPI CSI-2 Debugging, Programmnaya Ingeneria, 2025, vol. 16, no. 6, pp. 292—299. DOI: 10.17587/prin.16.292-299. (in Russian).'
+   item_references: |
+     <li>Pandey A. K., Jangale A., Narayan S. Signal Integrity and Compliance Test of DSI and CSI-2 Serial Interface over MIPI D-PHY, 2020 IEEE 24th Workshop on Signal and Power Integrity (SPI). Cologne, Germany, IEEE, 2020, pp. 1—4. DOI: 10.1109/SPI48784.2020.9218161.</li>
+     <li>Lim K., Kim G., Kim S., Baek K.-H. A multi-lane MIPI CSI receiver for mobile camera applications, IEEE Trans. Consumer Electron. 2010, vol. 56, no. 3. pp. 1185—1190. DOI: 10.1109/ TCE.2010.5606244.</li>
+     <li>Ali A. M., Shalaby A., Saif S., Taher M. A UVM-based Verification Approach for MIPI DSI Low-Level Protocol layer, 2022 International Conference on Microelectronics (ICM). Casablanca, Morocco, IEEE, 2022, pp. 74—77. DOI: 10.1109/ICM56065.2022.10005400.</li>
+     <li>Malviya U. K., Swain A., Kumar G. Tiny I2C Protocol for Camera Command Exchange in CSI-2: A Review, 2020 International Conference on Inventive Computation Technologies (ICICT). Coimbatore, India, IEEE, 2020, pp. 149—154. DOI: 10.1109/ICICT48043.2020.9112536.</li>
+     <li>Liu F., Wang L., Yang Y. A UHD MIPI CSI-2 image acquisition system based on FPGA, 2021 40th Chinese Control Con­ference (CCC), Shanghai, China, IEEE, 2021, pp. 5668—5673. DOI: 10.23919/CCC52363.2021.9550077.</li>
+     <li>Ratheesh Mekkadan. Functional Verification of CSI-2 Rx-PHY using AMS Co-simulations. DVCon: India, 2014.</li>
+     <li>Seokman Kim, Minseok Oh, Dohyeon Yoo, Kyoungrok Cho Touched image transmission of a high-resolution touch panel using MIPI CSI-2 for kiosk applications, 2017 IEEE International Conference on Consumer Electronics (ICCE), Las Vegas, NV, USA, IEEE, 2017, pp. 53—54. DOI: 10.1109/ICCE.2017.7889227.</li>
+     <li>Shin G.-W., Lee C.-K., Lee Y.-H. Hardware Design of an Interface Supporting Both Camera and Display for Mobile Devices, 2015 4th International Conference on Modeling and Simulation (MAS), Jeju Island, South Korea, IEEE, 2015, pp. 17—20. DOI: 10.1109/MAS.2015.15.</li>
+     <li>Sony CMOS Image Sensor with Square Pixel for Color Cameras, available at; https://www.opensourceinstruments.com/Electronics/Data/IMX219PQ.pdf.</li>
+     <li>Kumar U., Rout M., Palipudi A. S. Real Time Video Processing Using Polar Fire FPGA, 2024 First International Conference on Electronics, Communication and Signal Processing (ICECSP), New Delhi, India, IEEE, 2024, pp. 1—5. DOI: 10.1109/ICECSP61809.2024.10698483.</li>
+     <li>Lu Y.-C., Chen Z.-Y., Chang P.-C. Low power multilane MIPI CSI-2 receiver design and hardware implementations, 2013 IEEE International Symposium on Consumer Electronics (ISCE), Hsinchu City, Taiwan, IEEE, 2013, pp. 199—200. DOI: 10.1109/ISCE.2013.6570183.</li>
+     <li>Pescari C., Mal R.-A., Silaghi A.-M. D-PHY Interface Characterization by Means of Signal Integrity Simulation, 2023 International Symposium on Signals, Circuits and Systems (ISSCS), Iasi, Romania, IEEE, 2023, pp. 1—4. DOI: 10.1109/ ISSCS58449.2023.10190971.</li>
+     <li>Giatsintov A., Mamrosenko K., Bazhenov P. Architecture of the Graphics System for Embedded Real-Time Operating Systems, Tsinghua Sci. Technol., 2023, vol. 28, no. 3, pp. 541—551. DOI: 10.26599/TST.2022.9010028.</li>
+     <li>Vorsin A. G., Shumakov A. V., Petrov K. A., Zubkovsky P. S. Using the cosimulation method in high-performance microprocessors development, Trudy NIISI RAN. 2022, vol. 12, no. 4. pp. 68—72 (in Russian).</li>
+ - doi: 16.300-310
+   udk: "004.93'11"
+   edn: VWTPDY
+   item_authors: Radeev N. A.
+   item_name: Survey on Automatic Feature Construction in Machine Learning on Tabular Data
+   item_authors_address: '<b>  N. A. Radeev</b>, Postgraduate Student, n.radeev@g.nsu.ru, Novosibirsk State University, Novosibirsk, 630090, Russian Federation'
+   item_corr_author: 'Nikita A. Radeev, Postgraduate Student, Novosibirsk State University, Novosibirsk, 630090, Russian Federation E-mail: n.radeev@g.nsu.ru'
+   item_rec_on: January 23, 2025
+   item_acc_on: April 15, 2025
+   item_annot: |
+     <p>Modern methods of automated feature construction for machine learning tasks on tabular data are explored in depth in this study. These methods are essential for improving model performance and simplifying the data preparation process, particularly in scenarios where domain expertise is unavailable. The research examines a broad range of approaches, starting from classical algorithms based on predefined transformations, such as Deep Feature Synthesis (DFS), FCTree, ExploreKit, AutoLearn, FICUS, FEADIS, and COGNITO. Additionally, it evaluates evolutionary methods like GP-DR, GP-MaL-MO, and DIFER, which use optimization techniques inspired by natural selection to discover complex feature interactions. Each method is analyzed based on its key characteristics, limitations, and practical applications. Special attention is given to techniques for evaluating the quality of constructed features and optimizing the feature space to ensure the most relevant features are retained. The study highlights how modern approaches effectively uncover non-linear relationships and generate informative features without relying on domain experts, making them suitable for a wide range of machine learning tasks. However, the analysis also points out scalability challenges, as these methods often struggle to handle the increasing volume and complexity of data. Furthermore, the research identifies a trade-off between local and global strategies for feature construction. Local methods excel at capturing subtle, dataset-specific patterns but may have difficulties generalizing to new data. In contrast, global methods, while more robust, sometimes fail to detect intricate local dependencies. Despite these challenges, the study underscores the transformative impact of automated feature construction methods on the machine learning pipeline. By significantly reducing the time and effort required for data preparation, these methods enable practitioners to focus on model development, paving the way for more accurate and efficient machine learning applications. Future research will likely address the computational challenges and further enhance the scalability of these innovative approaches.</p>
+   item_keywords: machine learning, feature construction, feature engineering, tabular data, feature space, genetic algorithms, dimensionality reduction, evolutionary algorithms
+   item_pages: 300—310
+   item_citation: 'Radeev N. A. Survey on Automatic Feature Construction in Machine Learning on Tabular Data, Programmnaya Ingeneria, 2025, vol. 16, no. 6, pp. 300—310. DOI: 10.17587/prin.16.300-310. (in Russian).'
+   item_references: |
+     <li>Radeev N. A. Approach to Research Feature Interactions, 2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM), IEEE, 2023, pp. 1720—1724. DOI: 10.1109/EDM58354.2023.10225150.</li>
+     <li>Turner C., Fuggetta A., Lavazza L., Wolf A. A conceptual basis for feature engineering, Journal of Systems and Software, 1999, vol. 49, no. 1. pp. 3—15. DOI: 10.1016/S0164-1212(99)00062-X.</li>
+     <li>Salazar R., Neutatz F., Abedjan Z. Automated feature engineering for algorithmic fairness, Proceedings of the VLDB Endowment, 2021, vol. 14, no. 9, pp. 1694—1702. DOI: 10.14778/3461535.3463474.</li>
+     <li>Gosiewska A., Kozak A., Biecek P. Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering, Decision Support Systems, 2021, vol. 150, article 113556. DOI: 10.1016/j.dss.2021.113556.</li>
+     <li>LeDell E., Poirier S. H2O AutoML: Scalable Automatic Machine Learning, 7th ICML Workshop on Automated Machine Learning (AutoML), July 2020, available at: https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf (date of access 10.03.2025).</li>
+     <li>Erickson N., Mueller J., Shirkov A. et al. AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data, arXiv, 2020. DOI: 10.48550/arXiv.2003.06505.</li>
+     <li>Olson R., Moore J. TPOT: A tree-based pipeline optimization tool for automating machine learning, Workshop on automatic machine learning 2016, 2016, pp. 66—74. DOI: 10.1007/978-3-030-05318-5_8.</li>
+     <li>Parmentier L., Nicol O., Jourdan L., Kessaci M. ТРОТ-SH: A faster optimization algorithm to solve the automl problem on large datasets, 2019 IEEE 31st International Conference on Tools with Artificial Intelligence, 2019, pp. 471—478. DOI: 10.1109/IC-TAI.2019.00072.</li>
+     <li>Feurer M., Eggensperger K., Falkner S. et al. Auto-Sklearn 2.0. Hands-free automl via meta-learning, Journal of Machine Learning Research, 2022, No. 23 (261), pp. 1—61. DOI: 10.48550/arXiv.2007.04074.</li>
+     <li>Xin H., Kaiyong Z., Xiaowen C. AutoML: A survey of the state-of-the-art, Knowledge-Based Systems, 2021, vol. 212, рp. 106622. DOI: 10.1016/j.knosys.2020.106622.</li>
+     <li>Jiang Y., Bosch N., Baker R. et al. Expert feature-engineering vs. deep neural networks: which is better for sensor-free affect detection? Artificial Intelligence in Education: 19th International Conference, AIED 2018, London, UK, June 27—30, 2018, Proceedings, Part I. 2018, pp. 198—211. DOI: 10.1007/978-3-319-93843-1_15.</li>
+     <li>Tymoshenko K., Bonadiman D., Moschitti A. Convolutional neural networks vs. convolut ion kernels: Feature engineering for answer sentence reranking, Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies, 2016, pp. 1268—1278. DOI: 10.18653/v1/N16-1152.</li>
+     <li>Kanter J. M., Veeramachaneni K. Deep feature synthesis: Towards automating data science endeavors, 2015 IEEE international conference on data science and advanced analytics (DSAA), IEEE, 2015, pp. 1—10. DOI: 10.1109/DSAA.2015.7344858.</li>
+     <li>Fan W. Generalized and heuristic-free feature construction for im-proved accuracy, Proceedings of the 2010 SIAM International Conference on Data Mining, SIAM, 2010, pp. 629—640. DOI: 10.1137/1.9781611972801.55.</li>
+     <li>Katz G., Shin R., Song D. ExploreKit: Automatic feature generation and selection, 2016 IEEE 16th international conference on data mining (ICDM), Barcelona, Spain, IEEE, 2016, pp. 979—984. DOI: 10.1109/ICDM.2016.0123.</li>
+     <li>Kaul A., Maheshwary S., Pudi V. AutoLearn — automated feature generation and selection, 2017 IEEE International Conference on data mining (ICDM), IEEE, 2017, pp. 217—226. DOI: 10.1109/ ICDM.2017.31.</li>
+     <li>Markovitch S. Rosenstein D. Feature generation using general constructor functions, Machine Learning, 2002, vol. 49, pp. 59—98. DOI: 10.1023/A:1014046307775.</li>
+     <li>Kent J. T. Information gain and a general measure of correlation, Biometrika, 1983, Vol. 70, no. 1, pp. 163—173. DOI: 10.2307/2335954.</li>
+     <li>Khurana U. Cognito: Automated feature engineering for super-vised learning, 2016 IEEE 16th international conference on data mining workshops (ICDMW), IEEE, 2016, pp. 1304—1307. DOI: 10.1109/ICDMW.2016.0190.</li>
+     <li>Koza J. R. Genetic programming as a means for programming computers by natural selection, Statistics and computing, 1994, no. 4, pp. 87—112.</li>
+     <li>Billard L., Diday E. Symbolic regression analysis, Classification, clustering, and data analysis: recent advances and applications, Springer, 2002, pp. 281—288. DOI: 10.1007/978-3-642-56181-8_31.</li>
+     <li>Uriot T. On genetic programming representations and fitness functions for interpretable dimensionality reduction, Proceedings of the Genetic and Evolutionary Computation Conference, 2022, pp. 458—466. DOI: 10.1145/3512290.3528849.</li>
+     <li>Zhu G. DIFER: differentiable automated feature engineering, International Conference on Automated Machine Learning, PMLR, 2022, 17 p. DOI: 10.48550/arXiv.2010.08784.</li>
+     <li>Lensen A., Zhang M., Xue B. Multi-objective genetic programming for manifold learning: balancing quality and dimensionality, Genetic Programming and Evolvable Machines, 2020, vol. 21, no. 3, pp. 399—431. DOI: 10.1007/s10710-020-09375-4.</li>
+     <li>Lensen A., Zhang M., Xue B. Can genetic programming domanifold learning too? Genetic Programming: 22nd European Conference Proceedings, Springer, 2019, pp. 114—130. DOI: 10.1007/978-3-030-16670-0_8.</li>
+     <li>Zhang Q., Li H. MOEA/D: A multiobjective evolutionary algorithm based on decomposition, IEEE Transactions on evolutionary computation, 2007, vol. 11, no. 6, pp. 712—731. DOI: 10.1109/TEVC.2007.892759.</li>
+     <li>Abdi H., Williams L. J. Principal component analysis, Wiley interdisciplinary reviews: computational statistics, 2010, vol. 2, no. 4, pp. 433—459. DOI: 10.1002/wics.101.</li>
+     <li>Roweis S. T., Saul L. K. Nonlinear dimensionality reduction by locally linear embedding, Science, 2000, vol. 290, no. 5500, pp. 2323—2326. DOI: 10.1126/science.290.5500.2323.</li>
+     <li>Torgerson W. S. Multidimensional scaling: I. Theory and method, Psychometrika, 1952, vol. 17, no. 4, pp. 401—419. DOI: 10.1007/BF02288916.</li>
+     <li>Healy J., McInnes L. Uniform manifold approximation and projection, Nature Reviews Methods Primers, 2024, vol. 4, no. 1, p. 82. DOI: 10.21105/joss.00861.</li>
+ - doi: 16.311-319
+   udk: "004.93'1:528.854"
+   edn: ETZEUW
+   item_authors: Razveeva I. F., Belova Yu. V.
+   item_name: Intelligent Processing of Remote Sensing Images of the Sea of Azov
+   item_authors_address: |
+     <b>I. F. Razveeva</b>, Senior Lecturer, razveevai@mail.ru,
+     <b>Yu. V. Belova</b>, Associate Professor, yvbelova@yandex.ru,
+     Don State Technical University, Rostov-on-Don, 344000, Russian Federation
+   item_corr_author: 'Irina F. Razveeva, Senior Lecturer, Don State Technical University, Rostov-on-Don, 344000, Russian Federation E-mail: razveevai@mail.ru'
+   item_rec_on: March 13, 2025
+   item_acc_on: April 04, 2025
+   item_annot: |
+     <p> Systems based on intelligent algorithms are currently becoming alternative sources for obtaining information in all areas of human activity. Large arrays of data coming from various sources, including satellites, unmanned aerial vehicles (UAVs) and manned aircraft, require timely and efficient processing. Computer vision technologies allow analyzing space images to solve a wide range of problems, including monitoring the state of water bodies. Algorithms based on convolutional neural networks come to the fore; they guarantee a result that is not inferior in accuracy to the cognitive abilities of a specialist. The use of such technologies minimizes the influence of the human factor and the time of information processing. This study proposes the implementation of three intelligent algorithms for analyzing remote sensing images of the Sea of Azov based on convolutional neural networks. FCN architectures with ResNet10, DeepLabV3+ and LRASPP were selected to solve the problem of segmenting areas of phytoplankton populations with subsequent creation of a water body contour. The best quality metrics were demonstrated by the FCN model with ResNet10: mIoU = 0.95, mDice = 0.97, PA = 0.98, mPrecision = 0.97. The developed segmentation algorithms are applicable as a source of additional analysis during geoinformation monitoring of water bodies. Analysis of remote sensing images allows identifying and analyzing various areas, tracking their dynamics, qualitative and quantitative indicators. Algorithms can also be used to monitor the state of the water area and identify dead water phenomena.</p>
+   item_keywords: computer vision, convolutional neural network, segmentation, phytoplankton populations, Earth remote sensing, Sea of Azov
+   item_pages: 311—319
+   item_comment: The research was done with the financial support of the Russian Science Foundation (grant No. 22-71-10102 "Mathematical Models and Parallel Algorithms for Predicting the Dynamics of Phytoplankton Populations in Marine Systems Taking into Account the Exchange of Oxygen and Carbon Dioxide on Supercomputer Computation Systems").
+   item_citation: 'Razveeva I. F., Belova Yu. V. Intelligent Processing of Remote Sensing Images of the Sea of Azov, Programmnaya Ingeneria, 2025, vol. 16, no. 6, pp. 311—319. DOI: 10.17587/prin.16.311-319. (in Russian).'
+   item_references: |
+     <li>Postanovlenie Pravitel'stva RF ot 10 aprelya 2007 g. No. 219 "Ob utverzhdenii Polozheniya ob osushchestvlenii gosudarstvennogo monitoringa vodnykh ob'ektov" (in Russian).</li>
+     <li>Kazakov M. G. Improving the Quality of 3D Geometry Extraction Using Semantic Image Analysis, Programmnaya Ingeneria, 2013, no. 8, pp. 42—47 (in Russian).</li>
+     <li>Shvyrov V. V., Kapustin D. A. Analysis of modern methods and approaches to detecting objects in machine vision tasks, Programmnaya Ingeneria, 2023, vol. 14, no. 7, pp. 311—328. DOI: 10.17587/prin.14.311-328 (in Russian).</li>
+     <li>Karelova R. A., Ignatov E. E. Features of the implementation of a neural network for the automation of steel defect recognition processes, Programmnaya Ingeneria, 2020, vol. 11, no. 6, pp. 330—334. DOI: 10.17587/prin.11.330-334 (in Russian).</li>
+     <li>Martens M., Izzo D., Krzic A., Cox D. Super-resolution of PROBA-V images using convolutional neural networks, Astrodyn, 2019, vol. 3, pp. 387-402. DOI: 10.1007/s42064-019-0059-8.</li>
+     <li>Li L., Wang W., Luo H., Ying S. Super-Resolution Reconstruction of High-Resolution Satellite ZY-3 TLC Images, Sensors, 2017, vol. 17, no. 5, article 1062. DOI: 10.3390/s17051062.</li>
+     <li>Zhang X., Cui J., Wang W., Lin C. A Study for Texture Feature Extraction of High-Resolution Satellite Images Based on a Direction Measure and Gray Level Co-Occurrence Matrix Fusion Algorithm, Sensors, 2017, vol. 17, no. 7, article 1474. DOI: 10.3390/s17071474.</li>
+     <li>Panasenko N. D., Poluyan A. Y., Motuz N. S. Algorithm for monitoring the plankton population dynamics based on satellite sensing data, Journal of Physics: Conference Series, 2021, vol. 2131, no. 3, article 032052. DOI: 10.1088/1742-6596/2131/3/032052.</li>
+     <li>Belova Yu., Razveeva I., Rakhimbaeva E. Intelligent analysis of Earth remote sensing data on the distribution of phytoplankton and pollutants in coastal systems, E3S Web Conf., 2022, vol. 363, article 02026. DOI: 10.1051/e3sconf/202236302026.</li>
+     <li>Kurganovich K. A., Shalikovskij A. V., Bosov M. A., Kochev D. V. Application of artificial intelligence algorithms to control flood-prone areas, VHR, 2021, vol. 2131, no. 3, pp. 6—24. DOI: 10.35567/1999-4508-2021-3-1 (in Russian).</li>
+     <li>Ighalo J. O., Adeniyi A. G., Marques G. Artificial intelligence for surface water quality monitoring and assessment: a systematic literature analysis, Model. Earth Syst. Environ, 2021, vol. 7, pp. 669—681. DOI: 10.1007/s40808-020-01041-z.</li>
+     <li>Zhao X., Wu Z., Chen Y. et al. Fine-Grained High-Resolution Remote Sensing Image Change Detection by SAM-UNet Change Detection Model, Remote Sensing, 2024, vol. 316, no. 19, article 3620. DOI: 10.3390/rs16193620.</li>
+     <li>Alagialoglou L., Manakos I., Papadopoulou S. et al. Mapping Underwater Aquatic Vegetation Using Foundation Models With Air- and Space-Borne Images: The Case of Polyphytos Lake, Remote Sens., 2023, vol. 15, no. 16, article 4001. DOI: 10.3390/rs15164001.</li>
+     <li>Il'ichev V. G., Dashkevich L. V., Kulygin V. V. Phytocenoses of the Sea of Azov and climate change, Priroda, 2019, vol. 8, no. 1248, pp. 54—62. DOI: 10.7868/S0032874X19080064 (in Russian).</li>
+     <li>Kovaleva G. V. The problem of "blooming" water in the Sea of Azov, Trudy Yuzhnogo nauchnogo centra RAN, 2020, vol. 8, pp. 122—148. DOI: 10.23885/1993-6621-2020-8-122-148 (in Russian).</li>
+     <li>Lloret L., Heredia I., Aguilar F. et al. Convolutional Neu­ral Networks for Phytoplankton identification and classification, Biodiversity Information Science and Standards, 2018, vol. 2, article e25762. DOI: 10.3897/biss.2.25762.</li>
+     <li>Makarevich P. R. Pelagic phytocenoses of the Sea of Azov, Science of the South of Russia, 2022, vol. 18, no. 4, pp. 97—107. DOI: 10.7868/S25000640220410 (in Russian).</li>
+     <li>Belova Yu.V., Razveeva I. F., Rakhimbaeva E. O. Development of an algorithm for semantic segmentation of Earth remote sensing data to determine phytoplankton populations, Advanced Engineering Research (Rostov-on-Don), 2024, vol. 24, no. 3, pp. 283—292. DOI: 10.23947/2687-1653-2024-24-3-283-292 (in Russian).</li>
+     <li>Photos of phytoplankton populations in the Sea of Azov and Taganrog Bay: № 2023623142: zayavl. 29.09.2023: opubl. 13.10.2023 / YU. V. Belova, I. F. Razveeva, E. O. Rakhimbaeva; zayavitel' FGBOU "DGTU". Svidetel'stvo o gosudarstvennoj registracii bazy dannykh № 2023623457 RF (in Russian).</li>
+     <li>A set of segmented images of phytoplankton populations in coastal systems: No. 2023620933: declared 06.04.2023: published 10.04.2023 / Yu. V. Belova, I. F. Razveeva, E. O. Rakhimbaeva; zayavitel' FGBOU "DGTU". Svidetel'stvo o gosudarstvennoj reg-istracii bazy dannykh № 2023621153 RF (in Russian).</li>
+     <li>BrightnessBooster: № 2024618745: zayavl. 23.04.2024: opubl. 23.04.2024 / I. F. Razveeva, A. N. Kozhakin, B. A. Khasykov [i dr.]; zayavitel' OOO "VDK". Svidetel'stvo o gosudarstvennoj registracii programmy dlya EHVM № 2024619486 RF (in Russian).</li>
+     <li>Long J., Shelhamer E., Darrell T. Fully convolutional networks for semantic segmentation, 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Boston, MA, USA, 2015, pp. 3431—3440. DOI: 10.1109/CVPR.2015.7298965.</li>
+     <li>Chen L. C., Zhu Y., Papandreou G. et al. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, Lect. Notes Comput. Sci. Munich, Germany. Sept. 8—14, 2018, vol. 11211, pp. 833—851.</li>
+     <li>Howard A. G., Sandler M., Chu G. et al. Searching for MobileNetV3, IEEE/CVFInternational Conference on Computer Vision (ICCV). Seoul, Korea (South). Oct. 27—Nov. 2, 2019, pp. 1314—1324.</li>
+     <li>Kingma D. P., Ba J. Adam: A Method for Stochastic Optimization, International Conference on Learning Representations, San Diego, California, USA, Jan. 2015, pp. 1—13.</li>
