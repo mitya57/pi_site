@@ -1,0 +1,185 @@
+---
+title: Issue N7 2025 year
+content:
+ - doi: 16.323-333
+   udk: '004.942'
+   item_authors: Strashnov E. V., Mironenko I. N., Finagin L. A.
+   item_name: Path Planning of Inboard Space Flying Robot in a Virtual 3D Environment
+   item_authors_address: |
+     <b>E. V. Strashnov</b>, Senior Researcher, strashnov_evg@mail.ru,
+     <b>I. N. Mironenko</b>, Researcher, vstudio@niisi.ras.ru,
+     <b>L. A. Finagin</b>, Researcher, antifin@mail.ru,
+     Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation
+   item_corr_author: 'Evgeny V. Strashnov, Senior Researcher, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation, E-mail: strashnov_evg@mail.ru'
+   item_rec_on: March 27, 2025
+   item_acc_on: April 22, 2025
+   item_annot: |
+     <p>The paper considers the task of motion path planning for inboard space flying robots in a virtual environment with static and dynamic obstacles. This task involves a three-dimensional map construction of the virtual scene, as well as finding the robot's path based on this map. An approach was developed for mapping that uses bounding volumes surrounding the geometry of objects, as well as bounding boxes aligned along the world coordinate system axes. Based on this approach, original algorithms have been developed for constructing and updating a scene map with the implementation of fast intersection tests between containers and map cells. In turn, pathfinding of robot's motion with an adaptation of the heuristic algorithm A* for the three-dimensional case is proposed that is based on the representation of map in the form of a regular decomposition graph. In the proposed solution, path graph nodes are formed dynamically, and obstacle nodes are processed using special sets with their updating taking into account map changes. The approbation of the developed algorithms and approaches was carried out in virtual environment complex and showed their effectiveness and adequacy for real time inboard space flying robots motion simulation without collision with obstacles.</p>
+   item_keywords: virtual space flying robot, intravehicular activity, path planning, three-dimensional map, bounding volume, graph, virtual environment systems
+   item_pages: 323—333
+   item_comment: The publication is made within the state task of Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute" on topic No. FNEF-2024-0002 "Mathematical modeling of multiscale dynamic processes and virtual environment systems".
+   item_citation: 'Strashnov E. V., Mironenko I. N., Finagin L. A. Path Planning of Inboard Space Flying Robot in a Virtual 3D Environment, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 323—333. DOI: 10.17587/prin.16.323-333 (in Russian).'
+   item_references: |
+     <li>Fong T., Micire M., Morse T. et al. Smart SPHERES: a telerobotic free-flyer for intravehicular activities in space, Proceedings of AIAA Space 2013, San Diego, California, 2013, article 5338. DOI: 10.2514/6.2013-5338.</li>
+     <li>Smith T., Barlow J., Bualat M. et al. Astrobee: A new platform for free-flying robotics research on the international space station, Proceedings of International Symposium on Artificial Intelligence, Robotics and Automation in Space, 2016, available at: https://www.researchgate.net/publication/305936171_Astrobee_A_New_Platform_for_Free-Flying_Robotics_Research_on_the_International_Space_Station.</li>
+     <li>Bualat M., Smith T., Fong T. W. et al. Astrobee: A new tool for ISS operations, 15th Int. Conference on Space Operations, 2018, article 2517. DOI: 10.2514/6.2018-2517.</li>
+     <li>Zhang H. Y., Lin W. M., Chen A. X. Path planning for the mobile robot: a review, Symmetry, 2018, vol. 10, no. 10, article 450. DOI: 10.3390/sym10100450.</li>
+     <li>Coltin B., Fusco J., Moratto Z. et al. Localization from visual landmarks on a free-flying robot, IEEE/RSJ IROS, 2016, pp. 4377—4382. DOI: 10.1109/IROS.2016.7759644.</li>
+     <li>Yakovlev K. S., Khitkov V. V., Loginov M. I., Petrov A. V. Navigation system based on markers for UAV group, Robototehnika i tehnicheskaja kibernetika, 2014, no. 4, pp. 44—48 (in Russian).</li>
+     <li>Hornung A., Wurm K. M., Bennewitz M. et al. OctoMap: An efficient probabilistic 3D mapping framework based on octrees, Autonomous Robots, 2013, vol. 34, no. 3, pp. 189—206. DOI: 10.1007/s10514-012-9321-0.</li>
+     <li>Muravyev K., Yakovlev K. Evaluation of topological map­ping methods in indoor environments, IEEE Access, 2023, no. 11, pp. 132683—132698. DOI: 10.1109/ACCESS.2023.3335818.</li>
+     <li>Guruji A. K., Agarwal H., Parsediya D. K. OctoMap: Time-efficient A* algorithm for robot path planning, Procedia Technology, 2013, vol. 23, pp. 144—149. DOI: 10.1016/j.protcy.2016.03.010.</li>
+     <li>Daniel K., Nash A., Koenig S., Felner A. Theta*: Any-angle path planning on grids, Artificial Intelligence Research, 2010, vol. 39, pp. 533-579. DOI: 10.1613/jair.2994.</li>
+     <li>Phillips M., Likhachev M. SIPP: Safe interval path planning for dynamic environments, Proceedings of The 2011 IEEE International Conference on Robotics and Automation (ICRA 2011), 2011, pp. 5628—5635. DOI: 10.1109/ICRA.2011.5980306.</li>
+     <li>Yakovlev K. S. AA-SIPP: any-angle path finding amidst static and dynamic obstacles, Iskusstvennyj intellekt i prinjatie reshenij, 2020, no. 1, pp. 49—59 (in Russian). DOI: 10.14357/20718594200105.</li>
+     <li>Andreychuk A. A. Algorithm for planning and coordination of a set of trajectories for a group of intelligent agents, Iskusstven-nyj intellekt i prinjatie reshenij, 2018, no. 4, pp. 72—85 (in Russian). DOI: 10.14357/20718594180407.</li>
+     <li>Lamini C., Benhlima S., Elbekri A. Genetic algorithm based approach for autonomous mobile robot path planning, Procedia Computer Science, 2018, vol. 127, pp. 180—189. DOI: 10.1016/j.procs.2018.01.113.</li>
+     <li>Brand M., Masuda M., Wehner N. et al. Ant colony optimization algorithm for robot path planning, International Conference on Computer Design and Applications ICCDA, 2010, vol. 3, pp. 436—439. DOI: 10.1109/ICCDA.2010.5541300.</li>
+     <li>Yusof T. S. T., Toha S., Yusof H. Path planning for visually impaired people in an unfamiliar environment using particle swarm optimization, Procedia Computer Science, 2015, vol. 76, pp. 80—86. DOI: 10.1016/j.procs.2015.12.281.</li>
+     <li>Ericson C. Real-Time Collision Detection, Boston, MA, CRC Press, 2004, 593 p.</li>
+     <li>Mikhaylyuk M. V., Maltsev A. V., Timokhin P. Yu. et al. The VirSim virtual environment system for the simulation complexes of cosmonaut training, Pilotiruemye polety v kosmos, 2020, vol. 37, no. 4, pp. 72—95 (in Russian).</li>
+     <li>Russell S., Norvig P. Artificial intelligence: A modern approach (4th ed.), Boston, Pearson, 2020, 1136 p.</li>
+     <li>Mikhaylyuk M. V., Torgashev M. A. The visual editor and cal­culation module of block diagrams for simulation and training complexes, Programmnye produkty i sistemy, 2014, no. 4, pp. 10—15 (in Russian).</li>
+     <li>Mikhaylyuk M. V., Omelchenko D. V., Strashnov E. V. Command and supervisory modes for virtual robot control, Vestnik kibernetiki, 2016, no. 4, pp. 67—72 (in Russian).</li>
+ - doi: 16.334-346
+   udk: '004.02'
+   item_authors: Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I.
+   item_name: Algorithm for Extracting Key Concepts from Educational Programs of IT Specialists using the Hybrid Context Ranking Method
+   item_authors_address: |
+     <b>R. A. Fayzrakhmanov</b>, Professor, fayzrakhmanov@gmail.com,
+     <b>E. V. Dolgova</b>, Professor, shagrata@mail.ru,
+     <b>I. I. Sukhikh</b>, Postgraduate Student, vargostelemax@gmail.com,
+     Perm National Research Polytechnic University, Perm, 614990, Russian Federation
+   item_corr_author: 'Ilya I. Sukhikh, Postgraduate Student, Perm National Research Polytechnic University, Perm, 614990, Russian Federation E-mail: vargostelemax@gmail.com'
+   item_rec_on: March 17, 2025
+   item_acc_on: April 21, 2025
+   item_annot: |
+     <p> In the context of rapid digital technology development and the growing volume of educational materials, ensuring interdisciplinary consistency in academic courses has become a critically important task for higher education institutions. The annual increase in digital data within educational systems underscores the need to develop effective methods for processing and analyzing curricula. Interdisciplinary consistency in an educational program involves creating coherent and logically sequential content across different courses, including identifying common themes, eliminating redundancy, and ensuring the correct sequence of material (e.g., introducing basic concepts before more complex ones). This consistency enhances the quality of IT specialist training, en­suring their competitiveness in the labor market, where professionals with comprehensive knowledge and skills are in high demand. A key step toward achieving this goal is automating the process of extracting key concepts from course syllabi. Key concepts are high-level ideas reflecting the core content of an academic discipline, which can be used to analyze connections between courses within an educational program. However, existing key concept extraction methods have significant limitations. For example, statistical approaches like TF-IDF, based on word frequency, cannot differentiate between different meanings of a polysemous term or account for semantic relationships between concepts. Graph-based methods like PageRank focus on structural relationships between words but often ignore their contextual meaning. These shortcomings are particularly evident when analyzing educational texts, where the same concept may be interpreted differently depending on the discipline or section of the syllabus. To overcome these limitations, a hybrid method called ContextualRank is proposed, combining semantic and contextual similarity analysis using pre-trained language models such as BERT and T5. This approach considers not only frequency characteristics and structural relationships but also the contextual usage of key concepts, making it more effective for analyzing course syllabi. The method uses a graph model with edge weights calculated through a combination of cosine similarity of vector representations and contextual metrics, along with the TextRank algorithm for concept ranking. To assess the relevance of key concepts to course objectives, a mechanism for analyzing direct and transitive connections was implemented using the Floyd—Warshall algorithm. Experiments conducted on data from Perm National Research Polytechnic University demonstrated that ContextualRank outperforms TF-IDF by 21 % in F-measure, achieving a precision of 0.7 and a recall of 0.93. Results were visualized as graphs highlighting key concepts and their connections to course objectives. The study demonstrates the potential of the method for automating the analysis of curricula, improving their structure, and adapting to dynamic labor market requirements.</p>
+   item_keywords: interdisciplinary consistency, key concept extraction, hybrid methods, language model, TextRank, TF-IDF, PageRank, ContextualRank, educational programs, IT specialists, semantic similarity, contextual analysis
+   item_pages: 334—346
+   item_citation: 'Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I. Algorithm for Extracting Key Concepts from Educational Programs of IT Specialists using the Hybrid Context Ranking Method, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 334—346. DOI: 10.17587/prin.16.334-346 (in Russian).'
+   item_references: |
+     <li>Kravchenko D. Yu., Kravchenko Yu. A., Mansour Yu. et al. Algorithm for optimization of keyword extraction based on the application of a linguistic parser, Artificial intelligence, knowledge and data engineering, 2024, vol. 23, no. 2, pp. 467—494. DOI: 10.15622/ia.23.2.6 (in Russian).</li>
+     <li>Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I. Harmonization Status Analysis of 09.03.01 "Computer Science and Computer Engineering" Discipline, Bulletin of Perm University. Mathematics. Mechanics. Computer Science, 2024, no. 1 (64), pp. 53—59. DOI: 10.17072/1993-0550-2024-1-53-59 (in Russian).</li>
+     <li>Xiang L. Application of an Improved TF-IDF Method in Literary Text Classification, Advances in Multimedia, 2022, vol. 2022, no. 1, pp. 1—10. DOI: 10.1155/2022/9285324.</li>
+     <li>Jalilifard A., Carida V. F., Mansano A. F. el al. Semantic Sensitive TF-IDF to Determine Word Relevance in Documents, Advances in Computing and Network Communications. Lecture Notes in Electrical Engineering, 2021, vol. 736, pp. 327—337. DOI: 10.1007/978-981-33-6987-0_27.</li>
+     <li>Adyanata L., Prasiwiningrum E. Implementation of PageRank Algorithm for Visualization and Weighting of Keyword Networks in Scientific Papers, Journal of Applied Data Sciences, 2023, vol. 4, no. 4, pp. 382—391. DOI: 10.47738/jads.v4i4.138.</li>
+     <li>Bilal M., Almazroi A. Effectiveness of Fine-tuned BERT Model in Classification of Helpful and Unhelpful Online Customer Reviews, Electron Commer Res, 2023, vol. 23, pp. 2737—2757. DOI: 10.1007/s10660-022-09560-w.</li>
+     <li>Wang M., Pan X., Yao D., Xiaohui H. T5-Based Model for Abstractive Summarization: A Semi-Supervised Learning Approach with Consistency Loss Functions, Applied Sciences, 2023, vol. 13, no. 12, pp. 1—16. DOI: 10.3390/app13127111.</li>
+     <li>Mohammad J. Keyphrase extraction based on large language models, Izvestiya SFedU. Engineering Sciences, 2024, no. 5 (241), pp. 143—151. DOI: 10.18522/2311-3103-2024-5-143-151 (in Russian).</li>
+     <li>Yarullin D. V. Intelligent control system for IT specialists training based on denotative analytics, Applied Mathematics and Control Sciences, 2022, no. 3, pp. 141—164. DOI: 10.15593/2499­9873/2022.03.08 (in Russian).</li>
+     <li>Batura T. V., Bakiyeva A. M. A hybrid method for automatic summarization of scientific and technical texts based on rhetorical analysis, Software & Systems, 2020, vol. 33, no. 1, pp. 144—153. DOI: 10.15827/0236-235X.129.144-153 (in Russian).</li>
+     <li>Bennani-Smires K., Musat C., Hossmann A. et al. Simple Unsupervised Keyphrase Extraction using Sentence, Embeddings, Proceedings of the 22nd Conference on Computational Natural Language Learning, 2018, pp. 221—229. DOI: 10.18653/v1/K18-1022.</li>
+     <li>Sun Y., Qiu H., Zheng Y., Wang Z., Zhang C. Sifrank: a new baseline for unsupervised keyphrase extraction based on pre-trained language model, IEEE Access, 2020, vol. 8, pp. 10896—10906. DOI: 10.1109/ACCESS.2020.2965087.</li>
+     <li>Pellegrini V. Self-Supervised Fine-Tuning of sentence embedding models using a Smooth Inverse Frequency model: Automatic creation of labels with Smooth Inverse Frequency model (Dissertation). Stockholm: KTH Royal Institute of Technology; 2023. 69 p., available at: https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-339783 (date of access 10.02.2025).</li>
+     <li>Mars M. From Word Embeddings to Pre-Trained Language Models: A State-of-the-Art Walkthrough, Applied Sciences, 2022, vol. 12, no. 17, pp. 1—19. DOI: 10.3390/app12178805.</li>
+     <li>Du N., Thudumu S., Giardina A. et al. Contextual topic discovery using unsupervised keyphrase extraction and hierarchical semantic graph model, Journal of Big Data, 2023, vol. 10, pp. 1—19. DOI: 10.1186/s40537-023-00833-1.</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Proceedings of NAACL-HLT, 2019, pp. 4171—4186. DOI: 10.18653/v1/N19-1423.</li>
+     <li>Jugran S., Kumar A., Tyagi B. S., Anand V. Extractive Automatic Text Summarization using SpaCy in Python & NLP, International Conference on Advance Computing and Innovative Technologies in Engineering, 2021, pp. 582—585. DOI: 10.1109/ICA-CITE51222.2021.9404712.</li>
+ - doi: 16.347-357
+   udk: '004.415.2'
+   item_authors: Povaliaev N. D., Krylatov A. Yu.
+   item_name: Automation of Traffic Data Extraction and Processing using Map Services
+   item_authors_address: |
+     <b>N. D. Povaliaev</b>, Postgraduate Student, nikita03565@gmail.com,
+     <b>A. Yu. Krylatov</b>, Associate Professor, Head of Department, a.krylatov@spbu.ru,
+     Saint Petersburg State University, Saint Petersburg, 199034, Russian Federation
+   item_corr_author: 'Nikita D. Povaliaev, Postgraduate Student, Saint Petersburg State University, Saint Petersburg, 199034, Russian Federation, E-mail: nikita03565@gmail.com'
+   item_rec_on: March 04, 2025
+   item_acc_on: April 22, 2025
+   item_annot: |
+     <p>Traffic congestion analysis and traffic data extraction are key tasks for efficient traffic flow management in modern cities. This paper presents a system that combines automated data collection and processing from map services for subsequent analysis of road network graphs. The proposed method extracts information about traffic congestion using image processing of map services, which makes it independent of proprietary data sources.
+     The approach is based on automated collection of map screenshots, parallel image processing and matching of the obtained information with road network graphs. At the processing stage, filtering by color ranges, selecting road segments and their mapping to the corresponding network segments are applied. Parallel execution of operations is used to increase efficiency, and validation and repeated query mechanisms are implemented to minimize errors.
+     Experimental testing on the data of a large city showed that the method allows obtaining a detailed picture of traffic congestion, taking into account both temporal and spatial factors. The developed module can be used for traffic flow studies, traffic modeling and decision support in urban mobility. The main results are accurate identification of road segments with different degrees of congestion and their correct linking to the street network graph. The system has demonstrated its applicability for analyzing urban infrastructure and can be adapted to work with various map services, providing a wide range of opportunities for further research and practical use.</p>
+   item_keywords: road networks, data collection automation, map services, traffic congestion analysis, image processing, spatial data processing, traffic flow management, urban planning
+   item_pages: 347—357
+   item_citation: 'Povaliaev N. D., Krylatov A. Yu. Automation of Traffic Data Extraction and Processing using Map Services, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 347—357. DOI: 10.17587/prin.16.347-357 (in Russian).'
+   item_references: |
+     <li>Small K. A., Verhoef E. T., Lindsey R. The Economics of Urban Transportation, 3rd ed. London: Routledge, 2024. DOI: 10.4324/9781315157375.</li>
+     <li>Boeing G. OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks, Computers, Environment and Urban Systems, 2017, vol. 65, pp. 126—139. DOI: 10.1016/j.compenvurbsys.2017.05.004.</li>
+     <li>Yadav P., Sarkar D., Salwala D., Curry E. Traffic Prediction Framework for OpenStreetMap using Deep Learning based Complex Event Processing and Open Traffic Cameras, LIPIcs. GIScience, 2021, vol. 177, pp. 17:1—17:17. DOI: 10.4230/LIPIcs.GIScience.2021.I.17.</li>
+     <li>Stanley A., Munir R. Vehicle Traffic Volume Counting in CCTV Video with YOLO Algorithm and Road HSV Color Model-based Segmentation System Development, 2021 15th International Conference on Telecommunication Systems, Services, and Applications (TSSA), Bali, Indonesia, IEEE, 2021, pp. 1—5. DOI: 10.1109/TSSA52866.2021.9768231.</li>
+     <li>Whardana A. K., Hadi Rentelinggi P., Deep Learning-Based Road Traffic Density Analysis and Monitoring Using Semantic Segmentation, J. Electr. Eng. Comput. Sci., 2024, vol. 9, no. 1, pp. 1—8. DOI: 10.54732/jeecs.v9i1.1.</li>
+     <li>Chen G.-W., Su Z.-J., Ik T.-U. Microscopic Traffic Information Collection Based on a Lightweight MTMC Tracking Network, 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, IEEE, Apr. 2024, pp. 1 — 6. DOI: 10.1109/WCNC57260.2024.10570539.</li>
+     <li>Argota Sanchez-Vaquerizo J. Getting Real: The Challenge of Building and Validating a Large-Scale Digital Twin of Barcelona's Traffic with Empirical Data, ISPRS International Journal of Geo-Information, 2021, vol. 11, no. 1, article 24, DOI: 10.3390/ijgi11010024.</li>
+     <li>Mostafi S., Elgazzar K. An Open Source Tool to Extract Traffic Data from Google Maps: Limitations and Challenges, 2021 International Symposium on Networks, Computers and Communications (ISNCC), Dubai, 2021, pp. 1—8. DOI: 10.1109/ISNCC52172.2021.9615680.</li>
+     <li>Hossain I., Nower N. Traffic Data Collection and Visualization Tool for Knowledge Discovery Using Google Maps, International Journal of Software Innovation, 2022, vol. 10, no. 1, pp. 1—12. DOI: 10.4018/IJSI.293270.</li>
+     <li>Rahman Md. M., Nower N. Attention based Deep Hybrid Networks for Traffic Flow Prediction using Google Maps Data, Proceedings of the 2023 8th International Conference on Machine Learning Technologies, Stockholm Sweden, ACM, 2023, pp. 74—81. DOI: 10.1145/3589883.3589894.</li>
+     <li>Jiao J., Wang H. Forecasting Traffic Speed during Daytime from Google Street View Images using Deep Learning, Transportation  Research Record: Journal of the Transportation Research Board, 2023, vol. 2677, no. 12, pp. 743—753. DOI: 10.1177/03611981231169531.</li>
+     <li>Ensari E., Kobas B. Web scraping and mapping urban data to support urban design decisions, A/Z: ITU Journal of the Faculty of Architecture, 2018, vol. 15, no. 1, pp. 5—21. DOI: 10.5505/itujfa.2018.40360.</li>
+     <li>Boeing G., Higgs C., Liu S. et al. Using open data and open-source software to develop spatial indicators of urban design and transport features for achieving healthy and sustainable cities, The Lancet Global Health, 2022, vol. 10, no. 6, pp. e907—e918. DOI: 10.1016/S2214-109X(22)00072-9.</li>
+     <li>Golze J., Feuerhake U., Sester M. Spatial Analysis of External Influences on Traffic Accidents Using Open Data, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2022, vol. XLIII-B4-2022, pp. 125—132. DOI: 10.5194/isprs-archives-xliii-b4-2022-125-2022.</li>
+     <li>Shatalova N. V., Borodina O. V., Korol M. M. Application of machine learning methods in the management of transportation and logistics systems, Transport in Russia: Problems and Prospects — 2024, Proc. Int. Sci. and Pract. Conf, St. Petersburg, Russia, 2024, pp. 258—260 (in Russian).</li>
+     <li>Volik A. G., Yarutin S. A., Ugryumov I. S. et al. Integrated Traffic Management System for a Smart City Based on Machine Learning: Prospects for Efficient Urban Transport, Polythematic Network Electronic Scientific Journal of Kuban State Agrarian University, 2024, no. 199, pp. 229—239 (in Russian).</li>
+     <li>Lotfi C., Srinivasan S., Ertz M., Latrous I. Web Scraping Techniques and Applications: A Literature Review, SCRS Conference Proceedings on Intelligent Systems, 2021, pp. 381—394. DOI: 10.52458/978-93-91842-08-6-38.</li>
+     <li>Mitchell R., Web Scraping with Python: Collecting Data from the Modern Web, O'Reilly Media, 2015, 238 p.</li>
+     <li>Zhang T. Y., Suen C. Y. A fast parallel algorithm for thinning digital patterns, Commun. ACM, 1984, vol. 27, no. 3, pp. 236— 239. DOI: 10.1145/357994.358023.</li>
+     <li>Galamhos C., Matas J., Kittler J., Progressive probabilistic Hough transform for line detection, Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Cat. No PR00149), Fort Collins, CO, USA, IEEE Comput. Soc, 1999, pp. 554—560. DOI: 10.1109/CVPR.1999.786993.</li>
+ - doi: 16.358-365
+   udk: '004.896; 69.002.5'
+   item_authors: Prokopev A. P., Nabizhanov Zh. I., Bolshakov A. A.
+   item_name: Methodological Approach to the Creation of a Hardware and Software Complex for an Automated Density Control System for Pavers
+   item_authors_address: |
+     <b>A. P. Prokopev</b>, Associate Professor, prok1@yandex.ru, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation,
+     <b>Zn. I. Nabizhanov</b>, Ph.D, Team Leader, jasur150691@yandex.ru, Sberbank of Russia, Moscow, 121170, Russian Federation,
+     <b>A. A. Bolshakov</b>, Professor, aabolshakov57@gmail.com,
+     Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, 195251, Russian Federation
+   item_corr_author: 'Andrey P. Prokopev, Associate Professor, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation, E-mail: prok1@yandex.ru'
+   item_rec_on: August 05, 2024
+   item_acc_on: April 18, 2025
+   item_annot: |
+     <p>The article presents the results of the development of a hardware and software complex for an automated density control system for pavers based on the concept of a modern representation of its life cycle. Experimental testing of the developed hardware and software complex was carried out in a field study at a road construction site using a Super-1600 paver.</p>
+   item_keywords: hardware and software complex, accelerometer, road construction, compaction of asphalt concrete mixture
+   item_pages: 358—365
+   item_citation: 'Prokopev A. P., Nabizhanov Zh. I., Bolshakov A. A. Methodological Approach to the Creation of a Hardware and Software Complex for an Automated Density Control System for Pavers, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 358—365. DOI: 10.17587/prin.16.358-365. (in Russian).'
+   item_references: |
+     <li>Doklad Prezidenta RF Putina V. V. 7 iyunya 2024 goda na plenarnom zasedanii XXVII Peterburgskogo mezhdunarodnogo e'konomicheskogo foruma, available at: http://kremlin.ru/events/president/transcripts/74234 (date of access 10.04.2025) (in Russian).</li>
+     <li>Sidorkov V. V., Pozy'nich K. P., E'unap R. A. Asphalt mix­ture or asphalt paver: the key to obtaining a high-quality road surface, Mexaniki XXI veku, 2020, no. 19, pp. 65—70 (in Russian).</li>
+     <li>Kostel'ov M. P., Paharenko D. V., Brinks Z. K. How to Choose and Set Up the Right Paver, Dorozhnaya texnika 2007, Saint Petersburg, OOO "Slavutich", 2007, vol. 70, pp. 12—23 (in Russian).</li>
+     <li>Kustarev G. V., Pavlov S. A., Ushkov A. V. High-Performance Complexes for High-Speed Construction of Asphalt Concrete Pavements, Moscow, MADI, 2019, 140 p. (in Russian).</li>
+     <li>Prokop'ev A. P., Nabizhanov Zh. I., Ivanchura V. I., Emel'yanov R. T. On the Creation of a System for Continuous Monitoring of Compaction of Road Materials for Asphalt Pavers, Programmnaya Ingeneria, 2021, vol. 12, no. 8, pp. 413—419. DOI: 10.17587/prin.12.413-419 (in Russian).</li>
+     <li>Hu W., Huang B., Shu X., Woods M. Utilising intelligent compaction meter values to evaluate construction quality of asphalt pavement layers, Road Materials and Pavement Design, 2016, vol. 18, no. 4, pp. 980—991. DOI: 10.1080/14680629.2016.1194882.</li>
+     <li>Sivagnanasuntharam S., Sounthararajah A., Ghorbani J. et al. A state-of-the-art review of compaction control test methods and intelligent compaction technology for asphalt pavements, Road Materials and Pavement Design, 2023, vol. 24, no. 1, pp. 1—30. DOI: 10.1080/14680629.2021.2015423.</li>
+     <li>Wu D., Zhong Sh., Leoung M. I. et al. Trajectory Planning and Cooperative Control Strategies for Multi-Roller Automation in Pavement Construction, SSRN, 2024. DOI: 10.2139/ssrn.4711760.</li>
+     <li>Patent na izobretenie No. 2788338 RU: MPK Е 01 С 19/22 (2022.08). Neural network system for automatic control of compaction of road materials by asphalt pavers, A. P. Prokop'ev, Zh.I. Nabizhanov, V. I. Ivanchura, R. T. Emel'yanov; zayavitel' i patentoobladatel' FGAOU VO "Sibirskij federal'ny'j universitety", no. 2022104249; zayavl. 02.07.2021; opubl. 17.01.2023, Byul. № 2 (in Russian).</li>
+     <li>Svidetel'stvo o gosudarstvennoj registracii programmy' dlya E'VM RU no. 2021661554, 13.07.2021. Software module for neural network prediction of the compaction coefficient of road materials for a paver, Zh.I. Nabizhanov, A. P. Prokop'ev, V. I. Iv-anchura, R. T. Emel'yanov; pravoobladatel': FGAOU "Sibirskij federal'ny'j universitet". Zayavka no. 2021660497 ot 02.07.2021 (in Russian).</li>
+     <li>Nevskij A. A. Continuous integration and continuous delivery of software, Interaktivnaya nauka, 2023, pp. 7—8. DOI: 10.21661/r-558847 (in Russian).</li>
+     <li>Prokop'ev A. P., Emel'yanov R. T., Yanaev E. Yu. et al. Field study of the asphalt concrete paving process with automation components of non-destructive compaction testing technology, Inzhenernyj vestnik Dona, 2022, no. 2 (86), pp. 292—299 (in Russian).</li>
+ - doi: 16.366-374
+   udk: '004.514'
+   item_authors: Gutgarts R. D., Pashkova V. V.
+   item_name: Principles of Creating an Automated Time Management System for Students
+   item_authors_address: |
+     <b>R. D. Gutgarts</b>, Professor, gutgarc@gmail.com,
+     <b>V. V. Pashkova</b>, Student, valeriapashkova13@gmail.com,
+     Software Engineering Center, Irkutsk National Research Technical University, Irkutsk, 664074, Russian Federation
+   item_rec_on: February 12, 2025
+   item_acc_on: March 25, 2025
+   item_annot: |
+     <p> A brief analysis of domestic and foreign publications on the topic of time management for students is given. It is shown that almost all articles are characterized by a humanitarian focus. Automation issues are not considered. Several popular time management applications are analyzed. It is proven that due to their algorithmically implemented features, they have limited application when used for a student audience. The main functional requirements for a specialized time management application for students are formulated. Conceptual design solutions for software (SW) aimed at implementing basic student tasks are presented. <p>
+   item_keywords: time management, independent work, planning a student's day, digital tools, self-organization of educational activities, student self-management, web applications, increasing productivity, time resource, time management techniques, organizing a workday, questionnaires, surveys
+   item_pages: 366—374
+   item_citation: 'Gutgarts R. D., Pashkova V. V. Principles of Creating an Automated Time Management System for Students, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 366—374. DOI: 10.17587/prin.16.366-374. (in Russian).'
+   item_references: |
+     <li>Agranovich E. N. Model of self-organization of students' educational activities in the context of implementing the technology "time management", Kazakh memlekettik kyzdar pedagogikalyk universityin Khabarshysy, 2019, no. 2 (78), pp. 190—196 (in Russian).</li>
+     <li>Agranovich E. N. Time management technology as a means of self-organization of students' educational activities, Kazakh Ylttyk kyzdar pedagogikalyk universitymijf Khabarshysy, 2020, no. 1 (81), pp. 195—201 (in Russian).</li>
+     <li>Gildebrandt E. Yu., Weindorf-Sysoeva M. E. Digital tools for organizing independent work by students using time management, Physical, mathematical and technological education: problems and development prospects. Proceedings of the IX international scientific and methodological conference dedicated to the 100th anniversary of the birth of Doctor of Pedagogical Sciences, Professor, Honorary Professor of Moscow Pedagogical State University S. E. Kamenetsky, Moscow, 2023, рp. 47—51(in Russian).</li>
+     <li>Mishchenko S. N., Kravchenko A. T., Karabanova O. V. Time management: ways to improve the efficiency of work and training, Bulletin of MGPU. Series: Economics. 2022, no. 1 (31), pp. 41—48. DOI: 10.25688/2312-6647.2022.31.1.4 (in Russian).</li>
+     <li>Zhigalova I. A. Issues of self-organization of time of first-year students, Problems of modern science and education, 2020, no. 6-2 (151), рр. 37—41 (in Russian).</li>
+     <li>Protasova A. G. Time management at the university, Bulletin of the Buryat State University Education. Personality. Society, 2017, no. 2, рр. 49—52 (in Russian).</li>
+     <li>Goryacheva S. A., Sirotkin A. S., Zhukova V. B. Time management as a means of successful student learning, Sustainable Development Management, 2018, no. 1 (14), рр. 83—89 (in Russian).</li>
+     <li>Stepanova L. N., Kunakbaeva Ya. A. Basics of student time management, Constructive pedagogical notes, 2021, no. 9-1 (15), рр. 136—144 (in Russian).</li>
+     <li>Pisarevskaya N. S., Kozhina V. O., Tolmacheva I. V. Optimization of time and achievement of success: time management in the era of digital technologies, Research in Natural Sciences and Humanities, 2024, no. 2 (52), рр. 417—421 (in Russian).</li>
+     <li>Savina N. V. Student self-management in the context of personalization of higher education, Problems of modern pedagogical education, 2023, no. 81-2, pp. 515—518 (in Russian).</li>
+     <li>Arugaslan E. Examining the relationship of academic disonesty with academic procrastination, and time management in distance education, Heliyon, 2024, vol. 10, no. 19, article e38827. DOI: 10.1016/j.heliyon.2024.e38827.</li>
+     <li>Nadinloyia K. B., Hajloob N., Garamaleki N. S., Sadeghid H. The Study Efficacy of Time Management Training on Increase Academic Time Management of Students, Procedia — Social and Behavioral Sciences, 2013, vol. 84, рр. 134—138. DOI: 10.1016/j.sbspro.2013.06.523.</li>
+     <li>Wang Y., Lu Y., Tian X. et al. The relationship between mobile phone addiction and time management disposition among Chinese college students: A cross-lagged panel model, Heliyon, 2024, vol. 10, no. 3, article e25060. DOI: 0.1016/j.heliyon.2024.e25060.</li>
+     <li>Waldeyer J., Dicke T., Fleischer J. et al. A moderated mediation analysis of conscientiousness, time management strategies, effort regulation strategies, and university students' performance, Learning and Individual Differences, 2022, vol. 100, article 102228.DOI: 10.1016/j.lindif.2022.102228.</li>
+     <li>Claudiu Langa. Management of Time Resources for Learning through Individual Study in Higher Education, Procedia — Social and Behavioral Sciences, 2013, vol. 76, рр. 13—18. DOI: 10.1016/j.sbspro.2013.04.065.</li>
+     <li>Peker M. Willing, able, and engaged: roles of action-state orientation, intrinsic academic motivation, and time management on academic engagemen, Current Psychology, 2024, vol. 43, рр. 18444—18454. DOI: 10.1007/s12144-024-05630-4.</li>
+     <li>17 Best Services for Time Management and Work Optimization, available at: https://www.unisender.com/ru/blog/servisy-taym-menegmenta/ (date of access 19.01.2025).</li>
+     <li>The best time management apps, available at: https://www.sravni.ru/kursy/info/luchshie-prilozheniya-dlya-tajm-menedzhmenta/ (date of access 19.01.2025).</li>
+     <li>"The whole day before your eyes on the phone screen": 22 excellent time management apps, available at: https://journal.tinkoff.ru/time-management-apps/ (date of access 19.01.2025).</li>
+     <li>Sotskov Yu. N., Kosenkov A. A. Development of a computer application for optimal planning of working time, Economics, modeling, forecasting, 2014, no. 8, pp. 138—148 (in Russian).</li>
+     <li>Kiyatkina V. N., Akanova A. S., Beldeubaeva Zh. T. Planning and time management of educational activities in modern applications, Bulletin of Toraigyrov University, Energy series, 2023, no. 1, pp. 180—190. DOI: 10.48081/OFTD8056 (in Russian).</li>
+     <li>Vasilevich V. N., Asainova A. Zh. Digital tools for self-organization of students' activities, Collection of materials of the VI international scientific and practical conference "The role of physical and mathematical sciences in the modern educational space", 2021, no. 2, рр. 139—142 (in Russian).</li>
