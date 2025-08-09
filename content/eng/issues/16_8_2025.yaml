@@ -1,0 +1,172 @@
+---
+title: Issue N8 2025 year
+content:
+ - doi: 16.379-394
+   udk: '004.056.55'
+   edn: RAUASH
+   item_authors: Igoshina S. E., Karmanov A. A, Mitrokhin M. A.
+   item_name: Study of Features of Deterministic Quantum Communication
+   item_authors_address: |
+     <b>S. E. Igoshina</b>, Associate Professor, sigoshina@mail.ru,
+     <b>A. A. Karmanov</b>, Associate Professor, starosta07km1@mail.ru,
+     <b>M. A. Mitrokhin</b>, Head of Chair, Associate Professor,
+     Penza State University, Penza, 440026, Russian Federation
+   item_corr_author: 'Svetlana E. Igoshina, Associate Professor of Department "Nano- and microelectronics", Penza State University, Penza, 440026, Russian Federation E-mail: sigoshina@mail.ru'
+   item_rec_on: March 20, 2025
+   item_acc_on:  April 22, 2025
+   item_annot: |
+     <p>A physical and mathematical model and equivalent circuits illustrating the key features of the «quantum telegraph» are presented. The conditions for observing the interference pattern created by particles from a set of entangled pairs as they pass through a screen with two slits and filters are considered. Based on the simulation results, the question of the possibility of observing the interference pattern created by one of the photons of the entangled pair without post-selection of the measurement results is addressed.</p>
+   item_keywords: quantum telegraph, quantum computing, quantum information, non-separable (entangled) states, interference pattern on two slits
+   item_pages: 379—394
+   item_comment: The authors express their gratitude for the invaluable experience of joint work and discussion of ideas to Evgeny Anatolyevich Matveyev, who laid the foundations for a new technology for transmitting and receiving data from the field of deterministic quantum communication, called the "Quantum Telegraph".
+   item_citation: 'Igoshina S. E., Karmanov A. A, Mitrokhin M. A. Study of Features of Deterministic Quantum Communication, Programmnaya Ingeneria, 2025, vol. 16, no. 8, pp. 379—394. DOI: 10.17587/prin.16.379-394. (in Russian).'
+   item_references: |
+     <li>Matveev E. A. Quantum telegraph, Programmnaya Ingeneria, 2019, vol. 10, no. 7—8, pp. 317—323. DOI: 10.17587/prin.10.317-323 (in Russian).</li>
+     <li>Kim Y.-H., Yu R., Kulik S. P. et al. Delayed "Choice" Quantum Eraser, Physical Review Letters. 2000, vol. 84, no. 1, pp. 1—5. DOI: 10.1103/PhysRevLett.84.1.</li>
+     <li>Bienfait A., Zhong Y. P., Chang H.-S. et al. Quantum Erasure Using Entaglent Surface Acoustic Phonons, Physical Review X. 2020, vol. 10, no. 2, article 021055. DOI: 10.1103/Phys-RevX.10.021055.</li>
+     <li>Guff T., Shastry C. U., Rocco A. Emergence of opposing arrows of time in open quantum systems, Scientific Reports, 2025, vol. 15, no. 1, article 3658. DOI: 10.1038/s41598-025-87323-x.</li>
+     <li>Angulo D., Thompson K., Nixon V. M. et al. Experimental evidence that a photon can spend a negative amount of time in atom cloud. arXiv:2409.03680 [quant-ph] 5 Sep 2024. DOI: 10.48550/arXiv.2409.03680.</li>
+     <li>Jacques V. Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment, Science, 2007, vol. 315, no. 5814, pp. 966—968. DOI: 10.48550/arXiv.quant-ph/0610241.</li>
+     <li>Dimitrova T. L., Weis A. A. portable double-slit quantum eraser with individual photons, European Journal of Physics, 2011, vol. 32, no. 6, pp. 1535—1546. DOI: 10.1088/0143-0807/32/6/008.</li>
+     <li>Dimitrova T. L., Weis A. Single photon quantum erasing: a demonstration experiment, European Journal of Physics, 2010, vol. 31, no. 3, pp. 625—637. DOI: 10.1088/0143-0807/31/3/020.</li>
+     <li>Rioux F. Illustrating the Superposition Principle with Single-Photon Interference, Chem. Educator, 2005, vol. 10, pp. 424—426. DOI: 10.1333/s00897050977a.</li>
+     <li>Nielsen M., Chang I. Quantum computation and quantum information, Cambridge: Cambridge university press, 2010, 675 p.</li>
+     <li>Feynman R., Leighton R., Sands M. The Feynman Lectures on Physics. Issue 8,9.  Quantum Mechanics, Librokom, 2016, 528 p. (in Russian).</li>
+     <li>Vinetskaya P. M., Kravtsov K. S., Borshchevskaia N. A. et al. Active basis choice for quantum key distribution with entangled states, Laser Physics Letters, 2023, vol. 20, no. 5, article 055201. DOI: 10.1088/1612-202X/acc246.</li>
+     <li>Jacques V. Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment, Science, 2007, vol. 315, no. 5814, pp. 966—968. DOI: 10.1126/science.1136303.</li>
+     <li>Greene B. The Fabric of the Cosmos: Space, Time, and the Texture of Reality, New-York, Vintage, 2005, 592 p.</li>
+     <li>Lahiri M., Lapkiewicz R., Hochrainer A. et al. Characterizing mixed state entanglement through single-photon interference, Physical Review A, 2021, vol. 104, no. 1, article 013704. DOI: 10.1103/PhysRevA.104.013704.</li>
+     <li>Lemos G. B., Lapkiewicz R., Hochrainer A. et al. One-photon measurement of two-photon entanglement, Physical Review Letters, 2023, vol. 130, no. 9, article 090202. DOI: 10.1103/Phys-RevLett.130.090202.</li>
+     <li>Aliev F. K., Borodin A. M., Vassenkov A. V. et al. ATF communication technology based on the use of the resource of non-separable states of quantum systems, Science-intensive technologies, 2015, vol. 16, no. 1, pp. 65—78 (in Russian).</li>
+     <li>Aliev F. K., Korolkov A. V., Matveev E. A. Non-separable states of multi-qubit quantum systems / Eds. F. K. Aliev, Moscow, Radio Engineering, 2017, 320 p. (in Russian).</li>
+ - doi: 16.395-403
+   udk: "004.4'233"
+   edn: JVVZIA
+   item_authors: Kostiukhin K. A., Sergeychik A. A.
+   item_name: CLIPS-based Expert System Integration into a POSIX-Compliant Real-Time Operating System
+   item_authors_address: |
+     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru,
+     <b>A. A. Sergeychik</b>, Specialist, frolova-a@niisi.ras.ru,
+     Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation
+   item_corr_author: 'Konstantin A. Kostiukhin, Senior Researcher, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation E-mail: kost@niisi.ras.ru'
+   item_rec_on: April 15, 2025
+   item_acc_on: May 05, 2025
+   item_annot: |
+     <p>Modern embedded systems, such as industrial controllers, medical devices, or autonomous robots, require the integration of artificial intelligence algorithms with guaranteed response times. Expert systems, capable of processing externally received information in the form of facts through predefined rules and making decisions based on them, are becoming critical components of such systems. However, most expert systems are designed for general-purpose environments and are not optimized for operation in real-time operating systems (RTOS).
+     The CLIPS (C Language Integrated Production System) stands out among its counterparts due to its minimalist architecture, open-source nature, and capability for deep integration with the C language. These features make CLIPS a preferred choice for RTOS, where predictability and efficient resource management are critical.
+     This article describes the methodology proposed by the authors for integrating CLIPS into POSIX-compatible RTOS, addressing key compatibility challenges:</p>
+     <ol>
+     <li>Dynamic memory management and fragmentation.</li>
+     <li>Single-threaded Rete-based engine.</li>
+     <li>Unpredictable rule execution time.</li>
+     <li>Lack of integration with the RTOS task scheduler.</li>
+     </ol>
+   item_keywords: RTOS, POSIX, expert system, CLIPS
+   item_pages: 395—403
+   item_comment: This study was conducted as part of a research project FNEF-2024-0001 for the Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute".
+   item_citation: 'Kostiukhin K. A., Sergeychik A. A. CLIPS-based Expert System Integration into a POSIX-Compliant Real-Time Operating System, Programmnaya Ingeneria, 2025, vol. 16, no. 8, pp. 395—403. DOI: 10.17587/ prin.16.395-403. (in Russian).'
+   item_references: |
+     <li>Forgy C. Rete: A Fast Algorithm for the Many Patterns/ Many Objects Match Problem, Artificial Intelligence, 1982, vol. 19, is. 1, pp. 17—37. DOI: 10.1016/0004-3702(82)90020-0.</li>
+     <li>Liu J. Real-Time Systems, Prentice Hall, 2000, 610 p.</li>
+     <li>Barabanov M. Introducing Real-Time Linux, Linux Journal, 1997. February, available at: https://www.linuxjournal.com/article/232 (date of access 14.04.2025)</li>
+ - doi: 16.404-411
+   udk: '004.89'
+   edn: ZBWQIZ
+   item_authors: Smirnov N. V., Dzida V. A.
+   item_name: Developing the Ensemble of Models to Find the Most Relevant Text to the Question
+   item_authors_address: |
+     <b>N. V. Smirnov</b>, Associate Professor, nvsmirnov87@mail.ru,
+     <b>V. A. Dzida</b>, Student, dzida.vadim@yandex.ru,
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: 'Nikolai V. Smirnov, Associate Professor, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation E-mail: nvsmirnov87@mail.ru'
+   item_rec_on: May 27, 2025
+   item_acc_on: June 24, 2025
+   item_annot: |
+     <p>The wide application of intelligent assistants and chatbots makes information search a relevant task. Large language models are increasingly used to generate answers to user questions. The task of searching the Russian-language texts that contain information necessary to generate an answer to a user's question is considered in the article. Authors have developed text datasets in Russian, which differ both in the number of characters included in each text fragment and in the number of fragments themselves. The largest text dataset contains 1,000,000 texts with 5,000 characters each. Also, authors developed 6 classes of questions, which differ in the way the answers to them are presented in the text. The ensemble of models that uses the vector representation of words obtained using neural networks with transformer architecture and the values of the ranking function is developed and tested on different text datasets. The ensemble has proven its effectiveness in finding the most relevant text. Various filterings of text fragments are proposed and tested. The developed double filtering made it possible to remove from consideration chunks that do not contain an answer to the question. The obtained high metrics of accuracy and speed of applying the developed software that implements the ensemble of models and filtering determine the possibility of use in various intelligent assistants.</p>
+   item_keywords: information retrieval, RAG, neural networks, ranking function, natural language processing
+   item_pages: 347—357
+   item_citation: 'Smirnov N. V., Dzida V. A. Developing the Ensemble of Models to Find the Most Relevant Text to the Question, Programmnaya Ingeneria, 2025, vol. 16, no. 8, pp. 404—411. DOI: 10.17587/prin.16.404-411 (in Russian).'
+   item_references: |
+     <li>Voronin V. Y., Semenov N. D., Smirnov N. V. Chatbot of a House Management Company, Advances in Automation V: Proceedings of the International Russian Automation Conference (RusAutoCon 2023), 2024, pp. 291—299. DOI: 10.1007/978-3-031-51127-1_28.</li>
+     <li>Ovsianikov M. S. Intelligent Assistants as a sales tool in the construction industry, Investicii, gradostroitel'stvo, tekhnologii kak draivery social'no-ekonomicheskogo razvitiya territorii i povysheniya kachestva zhizni naseleniya: Proceedings of 14th International Research and Practice Conference, Tomsk, 2024, pp. 630—637 (in Russian).</li>
+     <li>Yantsevichiute Y. A., Dorrer M. G. An intelligent assistant for checking open answers when completing a training course in the Telegram messenger, Proceedings of All-Russian scientific and practical conference of students, postgraduates and young scientists "Molodye uchenye v reshenii aktual'nyh problem nauki", Krasnoyarsk, 2024, pp. 499—501 (in Russian).</li>
+     <li>Basipov A. A., Demidovich O. V. Information Retrieval. Models of Information Retrieval, Informacionnye tekhnologii. Radioelektronika. Telekommunikacii, 2012, no. 2—1, pp. 159—165 (in Russian).</li>
+     <li>Iven' G. Using large language models to develop skills in analyzing media context in students of philological specialties, Informatika i obrazovanie, 2024, vol. 39, no. 6, pp. 82—96 (in Russian).</li>
+     <li>Seabra A., Cavalcante C., Nepomuceno J. A. et al. Dynamic Multi-Agent Orchestration and Retrieval for Multisource Question-Answering Using Large Language Models, International Journal on Cybernetics and Informatics, 2024, vol. 13, no. 6, pp. 11—30. DOI: 10.48550/arXiv.2412.17964.</li>
+     <li>Red'ko D. A., Suhova E. M. Creating an intelligent assistant assistant based on the RAG system, Proceedings of International Conf. "Perspektivy razvitiya fundamental'nyh nauk", Tomsk, 2024, vol. 3, Mathematics, pp. 8—10 (in Russian).</li>
+     <li>Smirnov N. V., Marakhtanov A. G. Development of the Automated Question-Answering System Specialised in the Tourism Field, Advances in Automation VI (RusAutoCon 2024), 2025, vol. 1324, pp. 293—302. DOI: 10.1007/978-3-031-82494-4_26.</li>
+     <li>Zhan Z., Zhou S., Zhou X. et al. Retrieval-Augmented In-Context Learning for Multimodal Large Language Models in Disease Classification, 2025, arxiv.org.2505.02087. DOI: 10.48550/arXiv.2505.02087.</li>
+     <li>Bul'ga F. S., Kurejchik V. M. Clustering the Corporation of Text Documents Using the K-Means Algorithm, Izvestiya vysshih uchebnyh zavedenij. Severo-kavkazskij region. Tekhnicheskie nauki, 2022, no. 3 (215), pp. 33—40 (in Russian).</li>
+     <li>Alyoshin N. A. The Support Vector Machines (SVM), Proceedings of International Conf. "Tekhnika i tekhnologii: teoriya i praktika", Penza, 2020, pp. 9—11 (in Russian).</li>
+     <li>Loboda L. D., Vol'f V. V. Logistic regression and modern artificial intelligence, Proceedings of International Conf. "Missiya intellektualov v sovremennom mire: problemy, ogranicheniya, perspe-ktivy", Kemerovo, 2023, pp. 513.1—513.4 (in Russian).</li>
+     <li>Smirnov Y. V. Thematic Search in Modern Library Informa­tion Retrieval Systems, Nauchnye i tekhnicheskie biblioteki, 2021, no. 7, pp. 87—96. DOI: 10.33186/1027-3689-2021-7-87-96 (in Russian).</li>
+     <li>Filatova D. K., Vil'dyajkn G. F. Investigation of the LSA Model for Semantic Information Retrieval, Proceedings of VI International Conf. "Molodezh' i nauka: Aktual'nye problemy fundamental'nyh iprikladnyh issledovanij". P. 2, Komsomolsk-on-Amur, 2023, pp. 393—396 (in Russian).</li>
+     <li>Zotkina A. A., Tkachenko A. V. Text Data Analysis: Probabilistic and Algebraic Methods of Topic Modeling, Sovremennye informacionnye tekhnologii, 2024, no. 40, pp. 49—52 (in Russian).</li>
+     <li>Chawla S., Kaur R., Aggarwal P. Text Classification Framework for Short Text Based in TFIDF-Fasttext, Multimedia Tools and Applications, 2023, vol. 82, pp. 40167—40180. DOI: 10.1007/s11042-023-15211-5.</li>
+     <li>Wang L., Yang N., Huang X. et al. Multilingual E5 Text Embeddings: A Technical Report, 2024. arxiv.org.2402.05672. DOI: 10.48550/arXiv.2402.05672.</li>
+     <li>Askari A., Abolghasemi A., Pasi G., Kraaij W., Verberne S. Injecting the BM25 Score as Text Improves BERT-Based Re-rankers, 2023. arXiv.2301.09728. DOI: 10.48550/arXiv.2301.09728.</li>
+ - doi: 16.412-420
+   udk: '519.23:005.334:004.896'
+   edn: JTURSM
+   item_authors: Grigorev K. E., Poletaykin A. N.
+   item_name: Perfomant API for Bayesian Networks in Java
+   item_authors_address: |
+     <b>K. E. Grigorev</b>, Master's Student, k.e.grigorev@gmail.com,
+     <b>A. N. Poletaykin</b>, Associate Professor, alex.poletaykin@gmail.com,
+     Kuban State University, Krasondar, 350040, Russian Federation
+   item_corr_author: "Konstantin E. Grigorev, Master's Student, Kuban State University, Krasondar, 350040, Russian Federation E-mail: k.e.grigorev@gmail.com"
+   item_rec_on: February 27, 2025
+   item_acc_on: May 20, 2025
+   item_annot: |
+     <p>This study presents the implementation of a REST API for predicting emergency situations at cellular network base stations using Bayesian networks. Unlike most studies limited to theoretical models, this work offers an engineering solution implemented in Java using the jSMILE library and the Spring Boot framework. The choice of Java is moti­vated by its mature and extensive ecosystem, which emphasizes security, reduced development time, and support for microservice architecture. This approach eliminates a common bottleneck in model implementation—significant resource consumption during Bayesian network initialization—which negatively affects request processing time. To address this issue, the Object Pool design pattern was introduced, significantly improving system performance. The application of the Object Pool pattern to a Bayesian network is done for the first time, representing the scientific novelty of this research. Load testing conducted using Locust allowed for the evaluation of system resilience under load, response time measurements, and monitoring the number of pool objects used at different load levels.</p>
+   item_keywords: API, Bayesian model, jSMILE, emergency situation prediction, telecommunication systems, Spring Boot framework, Object Pool pattern, system performance
+   item_pages: 412—420
+   item_citation: 'Grigorev K. E., Poletaykin A. N. Perfomant API for Bayesian Networks in Java, Programmnaya Ingeneria, 2025, vol. 16, no. 8, pp. 412—420. DOI: 10.17587/prin.16.412-420. (in Russian).'
+   item_references: |
+     <li>Buntsev I. A., Kanev V. S. System risk management in telecommunications (problem status, methods, models, implementations), Bulletin of SibSUTIS, 2009, no. 1 (5), pp. 26—52 (in Russian).</li>
+     <li>Kanev V. S., Grigoriev K. E., Poletaikin A. N. Bayesian Model for Assessing Risks of Emergency Situations at Cellular Network Base Stations, 2024 IEEE 3rd International Conference PIERE, Novosibirsk, Russian Federation, 2024, pp. 890—894. DOI: 10.1109/PIERE62470.2024.10805035 (in Russian).</li>
+     <li>Mark B. I. REpresentational State Transfer: Introduction to the Technology, Science and Education Issues, 2024, no. 1 (173), pp. 4—21 (in Russian).</li>
+     <li>Rezedinova E. Yu., Kyrkunov P. N., Sergeev A. V. Selecting a Service-Oriented Architecture for Creating a City Improvement Service, SAEC, 2023, pp. 168—177. DOI:10.18720/SPBPU/2/id23-473 (in Russian).</li>
+     <li>Galiguzova E. V., Illarionova Yu. E. GraphQL Query Language as a Replacement for REST API: Comparison of GraphQL and REST API, Symbol of Science, 2023, no. 1—2, pp. 9—11 (in Russian).</li>
+     <li>Sakovich V. V., Kozhomberdieva G. I., Burakov D. P. Using Spring Projects Frameworks for Web Application Development on the Java Platform, Intelligent Technologies in Transport, 2023, no. 2, pp. 58—66. DOI: 10.24412/2413-2527-2023-234-58-66 (in Russian).</li>
+     <li>Shershen K. V. In-Demand Back-End Technologies for Software Product Development, Universum: Technical Sciences, 2024, no. 1 (118), pp. 34—41 (in Russian).</li>
+ - doi: 16.421-432
+   udk: '004.8'
+   edn: IKTZDL
+   item_authors: Potenko M. A.
+   item_name: Preparing Data for the Human Pose Estimation Task
+   item_authors_address: |
+     <b>M. A. Potenko</b>, Postgraduate Student, potenkog@gmail.com,
+     Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation
+   item_corr_author: 'Maxim A. Potenko, Postgraduate Student, Moscow Aviation Institute (National Research University), Moscow, 125993, Russian Federation E-mail: potenkog@gmail.com'
+   item_rec_on: December 13, 2024
+   item_acc_on: May 05, 2025
+   item_annot: |
+     <p>A method for collecting and preparing data for use in training neural networks in the field of Human Pose Estimation has been demonstrated. This area is highly relevant in computer vision, as it enables applications such as automatic background replacement, motion capture, augmented reality, and virtual reality. The publication presents the results of research into the challenges encountered in this field during the collection of real and synthetic data. It highlights the limitations of existing datasets, which often fail to cover rare or complex scenarios, such as extreme poses, rapid movements, or actions in unconventional conditions. To address these gaps, the study explores the use of synthetic data generated through advanced techniques, including procedural modeling, physically accurate rendering, and animation in 3D environments like Blender. The research investigates the impact of the amount of synthetic data on training quality and identifies the optimal ratio of synthetic to real data to achieve the best training results. For instance, it was found that a 1:2 ratio of synthetic to real data provides the most balanced performance, although this may vary depending on the specific dataset and neural network architecture. The work provides graphical and textual representations of human body joints, proposing a topology of 33 keypoints that includes additional points on hands and feet to better capture body orientation. A segmented model of the human body is also presented, which is crucial for tasks like image segmentation and pose estimation. Approaches to increasing the volume of such data and their processing are proposed with the aim of improving the accuracy of trained models in various scenarios. These include data augmentation techniques, such as rotation, scaling, brightness adjustment, and noise addition, as well as tools for efficient annotation. Additionally, existing datasets and tools for annotating them are provided, offering a comprehensive resource for researchers in the field. The study underscores the importance of meticulous data preparation for achieving high training accuracy, particularly when analyzing complex objects like the human body.<p>
+   item_keywords: neural networks, convolutional neural networks, computer vision, keypoints, image segmentation, object recognition, synthetic data, Human Pose Estimation, datasets, image processing
+   item_pages: 421—432
+   item_citation: 'Potenko M. A. Preparing Data for the Human Pose Estimation Task, Programmnaya Ingeneria, 2025, vol. 16, no. 8, pp. 421—432. DOI: 10.17587/prin.16.421-432 (in Russian).'
+   item_references: |
+     <li>Bolon-Canedo V., Sanchez-Marono N., Alonso-Betanzos A. A review of feature selection methods on synthetic data, Knowl. Inf. Syst., 2013, vol. 34, pp. 483—519. DOI: 10.1007/s10115-012-0487-8.</li>
+     <li>Nikolenko S. I. Synthetic Data for Deep Learning, Springer International Publishing, Cham, Switzerland, 2021, 156 p., available at: https://www.overdrive.com/media/6365898/synthetic-data-for-deep-learning (date of access 03.12.2024).</li>
+     <li>Shorten C., Khoshgoftaar T. M. A survey on image data augmentation for deep learning, Journal of Big Data, 2019, vol. 6, no. 1, article 60. DOI: 10.1186/s40537-019-0197-0.</li>
+     <li>Wang X., Wang K., Lian S. A survey on face data augmentation for the training of deep neural networks, Neural Computing and Applications, 2020, vol. 32, no. 15, pp. 15503—15531. DOI: 10.1007/ s00521-019-04631-4.</li>
+     <li>Nowruzi F. E., Kapoor P., Kolhatkar D. et al. How much real data do we actually need: Analyzing object detection performance using synthetic and real data, ArXiv, 2019, abs/1907.07061, available at: https://arxiv.org/abs/1907.07061 (date of access 11.02.2025).</li>
+     <li>Tsirikoglou A., Kronander J., Wrenninge M., Unger J. Proce­dural modeling and physically based rendering for synthetic data generation in automotive applications, CoRR, 2017, abs/1710.06270, avail­able at: https://arxiv.org/abs/1710.06270 (date of access 11.02.2025).</li>
+     <li>Saleh F. S., Aliakbarian M. S., Salzmann M. et al. Effective use of synthetic data for urban scene semantic segmentation, CoRR, 2018, abs/1807.06132, available at: https://arxiv.org/abs/1807.06132 (date of access 11.02.2025).</li>
+     <li>Ludl D., Gulde T., Thalji S., Curio C. Using simulation to improve human pose estimation for corner cases, Proc. of the 21st International Conference on Intelligent Transportation Systems (ITSC), 2018, pp. 3575—3582. DOI: 10.1109/ITSC.2018.8569857.</li>
+     <li>Li S., Chan A. B. 3D human pose estimation from monocular images with deep convolutional neural network, Computer Vision — ACCV 2014. Lecture Notes in Computer Science, 2014, vol. 9006, Springer, Cham., pp. 332—347. DOI: 10.1007/978-3-319-16817-3_23.</li>
+     <li>Shotton J., Sharp T., Kipman A. et al. Real-time human pose recognition in parts from single depth images, Communications of the ACM, 2013, vol. 46, no. 1, pp. 116 — 124. DOI: 10.1145/2398356.2398381.</li>
+     <li>Cao Z., Hidalgo G., Simon T. et al. OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, ArXiv, 2018, abs/1812.08008. DOI: 10.48550/arXiv.1812.08008.</li>
+     <li>Lin T.-Y., Maire M., Belongie S. et al. Microsoft COCO: Common objects in context, Computer Vision — ECCV 2014. Lecture Notes in Computer Science, 2024, vol 8693, Springer, Cham., pp. 740—755. DOI: 10.1007/978-3-319-10602-1_48.</li>
+     <li>Zhang S-H., Li R., Dong X. et al. Pose2Seg: Detection-free Human Instance Segmentation, 2019IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, pp. 889-898. DOI: 10.1109/CVPR.2019.00098.</li>
+     <li>Andriluka M., Pishchulin L., Gehler P., Schiele B. 2D Human Pose Estimation: New Benchmark and State of the Art Analysis, 2014 IEEE Conference on Computer Vision and Pattern Recognition, Columbus, OH, USA, 2014, pp. 3686—3693. DOI: 10.1109/CVPR.2014.471.</li>
+     <li>Ionescu C., Papava D., Olaru V., Sminchisescu C. Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing in Natural Environments, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2014, vol. 36, no. 7, pp. 1325—1339. DOI: 10.1109/TPAMI.2013.248.</li>
+     <li>Yang L., Kang B., Huang Z. et al. Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data, 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2024, pp. 10371—10381. DOI: 10.1109/CVPR52733.2024.00987.</li>
+     <li>Bradski G., Kaehler A. Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library, O'Reilly Media, Sebastopol, California, USA, 2017, 990 p.</li>
+     <li>Lin T.-Y., Dollar P, Girshick R. et al. Feature Pyramid Networks for Object Detection, 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, 2017, pp. 936—944. DOI: 10.1109/CVPR.2017.106.</li>
+     <li>Kingma D., Jimmy B. Adam: A Method for Stochastic Optimization, International Conference for Learning Representations, San Diego. 2015, 15 p. DOI: 10.48550/arXiv.1412.6980.</li>
+     <li>Charbonnier P., Blanc-Feraud L., Aubert G., Barlaud M. Two deterministic half-quadratic regularization algorithms for computed imaging. Proceedings of IEEE International Conference on Image Processing, Austin, TX, USA, 1994, vol. 2, pp. 168—172. DOI: 10.1109/ICIP.1994.413553.</li>
+     <li>Goodfellow I., Bengio Y., Courville A. Deep Learning, MIT Press, 2016, 800 p.</li>
+     <li>Loper M., Mahmood N., Romero J. et al. SMPL: A Skinned Multi-Person Linear Model, ACM Transactions on Graphics (TOG), 2015, vol. 34, no. 6, pp. 248:1—248:16. DOI: 10.1145/2816795.2818013.</li>
+     <li>Robinette K., Daanen H., Paquet E. et al. The CAESAR project: a 3-D surface anthropometry survey, Second International Conference on 3-D Digital Imaging and Modeling, Ottawa, ON, Canada, 1999, pp. 380—386. DOI: 10.1109/IM.1999.805368</li>
