@@ -1,0 +1,204 @@
+---
+title: Issue N9 2025 year
+content:
+ - doi: 16.435-446
+   udk: '004.652, 655.52'
+   edn: VBGVNN
+   item_authors: Vasenin V. A., Krivchikov M. A., Makhortov S. D., Shachnev D. A.
+   item_name: On the Model of Peer Review of Scientific and Technical Articles and its Use in Categorizing the Editions Publishing them
+   item_authors_address: |
+     <b>V. A. Vasenin</b><sup>1</sup>, Head of Chair, vasenin@msu.ru,
+     <b>M. A. Krivchikov</b><sup>1</sup>, Senior Researcher, maxim.krivchikov@gmail.com,
+     <b>S. D. Makhortov</b><sup>2</sup>, Head of Chair, msdexp@yandex.ru,
+     <b>D. A. Shachnev</b><sup>1</sup>, Researcher, mitya57@gmail.com,
+     <br>
+     <sup>1</sup> Lomonosov Moscow State University, Moscow, 119192, Russian Federation,
+     <br>
+     <sup>2</sup> Voronezh State University, Voronezh, 394006, Russian Federation
+   item_corr_author: 'Dmitry A. Shachnev, Researcher, Lomonosov Moscow State University, Moscow, 119192, Russian Federation, E-mail: mitya57@gmail.com'
+   item_rec_on: May 16, 2025
+   item_acc_on:  June 18, 2025
+   item_annot: |
+     <p>The paper examines the results of studies aimed at developing and testing a model for reviewing scientific and technical publications with the aim of using it to solve the problem of ranking scientific journals. The indicators that can be used for ranking include not only traditional bibliometric indicators of a journal, statistical data about it (for example, the number of issues and articles per year), but also information about the members of the editorial board, reviewers, the process and results of reviewing. Based on the experience of working with both individual journals and a large interactive information system analyzing such journals, the authors propose a model for collecting and storing information about reviewing, as well as a method for taking this and other data into account when categorizing journals and, as a result, increasing the efficiency of their editorial boards. The described model can be useful for the editorial boards of journals themselves, since it allows for the automation of various complex processes, such as the selection of reviewers and correspondence between reviewers, authors and the editorial board.</p>
+   item_keywords:  scientific journals, peer review, expert search, journal ranking, impact factors, CRIS systems, subject area, research areas
+   item_pages: 435—446
+   item_citation: 'Vasenin V. A., Krivchikov M. A., Makhortov S. D., Shachnev D. A. On the Model of Peer Review of Scientific and Technical Articles and its Use in Categorizing the Editions Publishing them, Programmnaya Ingeneria, 2025, vol. 16, no. 9, pp. 435—446. DOI: 10.17587/prin.16.435-446 (in Russian).'
+   item_references: |
+     <li>Moskaleva O. V., Akoev M. A. Forecast of the Development of Russian Scientific Journals: The Publishers, Nauka i nauchnaya informatsiya, 2020, vol. 3, no. 2—3, pp. 131—154. DOI: 10.24108/2658-3143-2020-3-2-3-131-154 (in Russian).</li>
+     <li>Bornmann L., Mutz R. Growth rates of modern science: A bibliometric analysis based on the number of publications and cited references, Journal of the Association for Information Science and Technology, 2015, vol. 66, no. 11, pp. 2215—2222. DOI: 10.1002/asi.23329.</li>
+     <li>Dyachenko E. L. Internationalization of academic journals: Is there still a gap between social and natural sciences? Scientometrics, 2014, vol. 101, pp. 241—255. DOI: 10.1007/s11192-014-1357-9.</li>
+     <li>Mokhnacheva Yu. V. Lists of Journals and Ratings of Russian Publications: Inconsistencies and Possible Ways to Eliminate Them, Upravlenie naukoy: teoriya i praktika, 2024, vol. 6, no. 2, pp. 147—167. DOI: 10.19181/smtp.2024.6.2.11.</li>
+     <li>Grinev A. V. Problems of Scientometrics and its Suitability for Management Scientific Activity in Modern Russia, Upravlencheskie nauki, 2024, vol. 14, no. 1, pp. 117—132. DOI: 10.26794/2404-022X-2024-14-1-117-132.</li>
+     <li>Vasenin V. A., Afonin S. A., Golomazov D. D. et al. Intellectual System for Thematic Investigation of Scientometric Data ("ISTINA"), Moscow, Lomonosov Moscow State University publishing, 2014, 262 p. (in Russian).</li>
+     <li>Melnikov O. N. Peer-review as a factor in improving the quality of scientific information, Nauchnaya periodika: problemy i resheniya, 2011, vol. 2, no. 2, pp. 20—23 (in Russian).</li>
+     <li>Romanova S. A. Basic Criteria of the Review of Articles into the Scientific Journal, Akademicheskaya mysl, 2019, no. 1, pp. 139—144 (in Russian).</li>
+     <li>Gayavieva M. S., Elizarov A. M., Lipachyov E. K. Digital infrastructure of electronic scientific journal: automation of editorial and publishing process and system of services, Elektronnyye biblioteki, 2016, vol. 19, no. 5, pp. 408—465 (in Russian).</li>
+     <li>Borisov N. V., Zakharkina V. V., Mbogo I. A. et al. Building a Publishing Toolkit for Multimedia Sciece Journals, Elektronnyye biblioteki, 2020, vol. 23, no. 3, pp. 292—314. DOI: 10.26907/1562­5419-2020-23-3-292-314 (in Russian).</li>
+     <li>Glushanovskiy A. V. Creating and Evolution Centralized Scientific Journals Remote Access System for Information Support of Russian Scientific Research, Nauka i nauchnaya informatsiya, 2022, vol. 5, no. 2, pp. 61—75. DOI: 10.24108/2658-3143-2022-5-2-2 (in Russian).</li>
+     <li>Van Rooyen S., Black N., Godlee F. Development of the Review Quality Instrument (RQI) for Assessing Peer Reviews of Manuscripts, Journal of Clinical Epidemiology, 1999, vol. 52, no. 7, pp. 625—629. DOI: 10.1016/s0895-4356(99)00047-5.</li>
+     <li>Landkroon A. P., Euser A. M., Veeken H. et al. Quality assessment of reviewers' reports using a simple instrument, Obstet Gynecol, 2006, vol. 108, no. 4, pp. 979—985. DOI: 10.1097/01.AOG.0000231675.74957.48.</li>
+     <li>Superchi C., Gonzalez J. A., Sola I. et al. I. Tools used to assess the quality of peer review reports: a methodological systematic review, BMC Medical Research Methodology, 2019, vol. 19, article 48. DOI: 10.1186/s12874-019-0688-x.</li>
+     <li>Shachnev D. A. Methods for Thematic Analysis and Ranking in Information Analysis Systems Based on Relational DBMS, Programmnaya Ingeneria, 2024, vol. 15, no. 3, pp. 125—133. DOI: 10.17587/prin.15.125-133 (in Russian).</li>
+     <li>Vasenin V. A., Zenzinov A. A., Lunev K. V. The Usage of CRIS-systems for the Contest Procedures Automation in Terms of the ISTINA Information System, Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 472—480. DOI: 10.17587/prin.7.472-480 (in Russian).</li>
+     <li>Shachnev D. A. Searching for Activity Results and Experts in a Given Subject Area, Taking Results Significance into Account, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 260—266. DOI: 10.17587/prin.12.260-266 (in Russian).</li>
+ - doi: 16.447-461
+   udk: '004.82'
+   edn: EXRHJJ
+   item_authors: Kostenko K. I.
+   item_name: Abstract Elements and Structures in Ontologies of Knowledge Domains
+   item_authors_address: |
+     <b>K. I. Kostenko</b>, Associate Professor, kostenko@kubsu.ru,
+     Kuban State University, Krasnodar, 350040, Russian Federation
+   item_corr_author: 'Konstantin I. Kostenko, Associate Professor, Kuban State University, Krasnodar, 350040, Russian Federation, E-mail: kostenko@kubsu.ru'
+   item_rec_on: April 01, 2025
+   item_acc_on: May 20, 2025
+   item_annot: |
+     <p>The schemes for modeling complex integrated semantic structures and describing the content of knowledge do­mains by embedding these structures into ontologies of such areas are investigated. Such schemes are implemented as descriptions of processes operating with special classes of abstract and subject knowledge. Abstract knowledge classes allow the representation of the content of a knowledge domain using abstract knowledge structures. In intel­ligent systems, such structures are constructed by operations within the knowledge synthesis processes. A unified format of semantic hierarchy formalisms is used to represent content fragments. To construct structures within abstract classes of structures, special relations are defined. That allows the formation of complex knowledge structures in ontologies. Individual subject knowledge represents a designation of a certain entity or a formal description of a property, which is used as an element of the semantic structure of a knowledge domain. Such knowledge forms classes of subject knowledge in ontologies, which allow one to adapt elements of abstract structures to the content of knowledge domains. The applying of abstract structures in ontologies of knowledge domains allows the development of algorithms for the processes of analysis and synthesis of complex objects presented at the abstract level of the ontology. Relations between classes of abstract and subject knowledge within an ontology allow complex semantic structures to be included in ontologies. This allows us to develop algorithms for the implementation of cognitive goals and thought processes based on the synthesis of semantic structures from elements of knowledge domain ontologies. The article presents an analysis of unified structures for abstract knowledge classes in ontologies used to represent certain types of complex entities in subject areas. Descriptions of such entities are given for several general cases of ontologies. In these cases, the embedding of complex semantic representations into knowledge domain ontologies is applied. The indicated cases are associated with the processes of knowledge synthesis, which represent the implementation of cognitive goals. The paper presents examples of classes and relationships in ontologies of abstract and subject knowledge, providing solutions to professional problems: of managing the synthesis of complex objects, achieving the goals of complex systems, as well as developing areas of knowledge based on the evolution of ideas about the content and essence of such areas. Application of the proposed principles and approaches to modeling intelligent systems as subjects of knowledge areas operating within the framework of such areas is introduced.</p>
+   item_keywords: ontology, knowledge area, abstract ontology, subject ontology, complex system, ontology of aggregation, processes ontology, goals ontology, science evolution ontology
+   item_pages: 447—461
+   item_citation: 'Kostenko K. I. Abstract Elements and Structures in Ontologies of Knowledge Domains, Programmnaya Ingeneria, 2025, vol. 16, no. 9, pp. 447—461. DOI: 10.17587/prin.16.447-461.'
+   item_references: |
+     <li>Kostenko K. I. Mathematical models of complex intelligent systems, Krasnodar, Kuban state university, 2024, 522 p. (in Russian).</li>
+     <li>Kudrjavtcev V. B., Aleshin S. V., Podkolzin A. S. Automata theory: textbook for universities, 2nd edition. corr. and add., Moscow, Uright, 2025,320 p. (in Russian).</li>
+     <li>Janov U. I. Some theorems on convolutions, Preprint IPM No. 95, Moscow, 1978, 77 p. (in Russian).</li>
+     <li>Muromcev D., Volchek D., Romanov A. Industrial knowledge graphs — the intellectual core of the digital economy, Control Engineering Russia, 2019, no. 5 (83), pp. 32—39 (in Russian).</li>
+     <li>Misnykh A. E. Using Metagraphs for Ontological Engineer­ing of Complex Systems, Prikladnaya Informatica, 2022, vol. 17, no. 2 (98), pp. 120—132. DOI: 10.37791/2687-0649-2022-17-2-120-132 (in Russian).</li>
+     <li>Kostenko K. I. Formalization of elements and control schemes in models of intelligent systems, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 452—466. DOI: 10.17587/prin.15.452-466 (in Russian).</li>
+     <li>Starostin B. A. Parameters of science development, Moscow, Nauka, 1980, 281 p. (in Russian).</li>
+     <li>Kuznetcov I. P. Semantic representations, Moscow, Nauka, 1973, 360 p. (in Russian).</li>
+     <li>Leemhuis M., Özçep Ö.L., Wolter D. Knowledge Graph Embeddings with Ontologies: Reification for Representing Arbitrary Relations, KI 2022: Advances in Artificial Intelligence, 2022, LNAI 13404, pp. 146—159. DOI: 10.1007/978-3-031-15791-2_13.</li>
+ - doi: 16.462-469
+   udk: '004.021'
+   edn: WQQAPI
+   item_authors: Yurtaev A. G.
+   item_name: Dominance Ranking Algorithms for Solving Multi-Objective Optimization Problems Using Genetic Algorithms
+   item_authors_address: |
+     <b>A. G. Yurtaev</b>, Postgraduate Student, agyurtaev@mail.ru,
+     Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation
+   item_corr_author: 'Alexander G. Yurtaev, Postgraduate Student, Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation, E-mail: agyurtaev@mail.ru'
+   item_rec_on: March 25, 2025
+   item_acc_on: July 17, 2025
+   item_annot: |
+     <p>The article provides a comprehensive theoretical and experimental analysis of the principal dominance-based ranking algorithms used in multi-criteria optimization with genetic algorithms. Four fundamentally different approaches are examined: the classic pairwise comparison method; KD-trees built after an initial sort by a single criterion; a variant of the KD-tree approach that employs a linear-time median-finding algorithm; and the recursive "divide-and-conquer" method. For each algorithm, asymptotic estimates of time complexity and memory usage are derived and justified, and their dependence on the population size is demonstrated.
+     In the methodology section, the author's system for generating synthetic test samples is described. It relies on predetermined a priori metrics: geometric balance (the ratio of points below to above the median along each axis), coefficient of variation, skewness coefficient, and normalized entropy of the point distribution in D-dimensional space. This framework makes it possible to model a broad spectrum of scenarios — from uniformly distributed samples to highly clustered or extremely sparse ones — thus ensuring reproducibility and objectivity in the empirical evaluation of algorithmic performance.
+     The experimental phase comprises a series of trials on populations of fixed size (N = 200) over 54 combinations of target metric values (625 distinct test sets in total). Each test was repeated multiple times for statistical robustness, and the results were averaged. All timing measurements were conducted in a Python environment on a single personal computer. According to the results, the KD-tree algorithm with initial sorting achieved the best average performance (minimum runtime -0.0017 s, maximum -0.026 s), although its efficiency is highly sensitive to the input data's balance. The median-finding variant proved less dependent on distribution characteristics but, on average, lags behind the sorting-based implementa­tion in speed. The divide-and-conquer method yielded more consistent runtimes (-0.0123—0.0133 s), outperforming the naive pairwise comparison algorithm (-0.033—0.034 s) under all tested conditions; however, in worst-case scenarios it can exhibit quadratic behavior, restricting its applicability to large populations.
+     The novelty of this research lies in the development of an experimental methodology for comparing four fast dominance-based ranking approaches in multi-objective optimization and in the creation of a test-generation procedure based on statis­tical distribution metrics. The findings enable a well-justified selection of the most appropriate ranking algorithm according to specific runtime requirements and input-data characteristics, and they establish a foundation for further development of adaptive hybrid methods. Future work will extend the analysis to real-world multidimensional datasets and explore parallel and hardware-accelerated implementations of the examined algorithms.</p>
+   item_keywords: genetic algorithms, multi-criteria optimization, domination-based ranking, Pareto front, pairwise comparison, KD-tree, divide and conquer, recursive algorithms, asymptotic complexity, geometric balance, coefficient of variation, coefficient of asymmetry, normalized entropy
+   item_pages: 462—469
+   item_citation: 'Yurtaev A. G. Dominance Ranking Algorithms for Solving Multi-Objective Optimization Problems Using Genetic Algorithms, Programmnaya Ingeneria, 2025, vol. 16, no. 9, pp. 462—469. DOI: 10.17587/prin.462-469. (in Russian).'
+   item_references: |
+     <li>Nogin V. D. The Pareto Set and Principle: Textbook. 2nd edition, revised and expanded, St. Petersburg, Izdatel'sko poligraficheskaya Assotsiatsiya Vysshikh Uchebnykh Zavedeniy, 2022, 110 p. (in Russian).</li>
+     <li>Garey M. R., Johnson D. S. Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman and Company, 1979, 340 p.</li>
+     <li>Gladkov L. A., Kureychik V. V., Kureychik V. M. Genetic Algorithms / Edited by V. M. Kureychik. 2nd ed., revised and expanded. Moscow, FIZMATLIT, 2010, 368 p. (in Russian).</li>
+     <li>Wirsansky E. Genetic Algorithms in Python / translated from Eng­lish by A. A. Slinkina. Moscow, DMK Press, 2020, 286 p. (in Russian).</li>
+     <li>Garagulova A. K., Gorbacheva D. O., Chirkov D. V. Comparison of the Genetic Algorithms MOGA and NSGA-II for the Optimization of the Form of a Hydro Turbine Runner, Vychislitel'nye Tekhnologii, 2018, vol. 23, no. 5, pp. 21—36. DOI: 10.25743/ICT.2018.23.5.003 (in Russian).</li>
+     <li>Kuvayskova Yu. E., Nemykin A. A. Application of Evolutionary and Genetic Algorithms in the Formation of Neural Network Model Architectures for Predicting the Condition of a Technical Object, Izvestiya Samarskogo nauchnogo tsentra Rossiiskoi akademii nauk, 2024, vol. 26, no. 4—3 (120), pp. 383—394 (in Russian).</li>
+     <li>Mahbub Md. Sh., Ahmed Sh. Sh., Ali K. I., Imam Md. T. A Multi-Objective Optimization Approach for Solving AUSTClass-timetable Problem Considering Hard and Soft Constraints, International Journal of Mathematical Sciences and Computing, 2020, vol. 6, no. 5, pp. 1—14. DOI: 10.5815/ijmsc.2020.05.01.</li>
+     <li>Sosedov V. A. Combined hierarchical crossover in a genetic  algorithm for last-mile delivery: efficiency analysis, Control Sciences, 2024, no. 1, pp. 18—27. DOI: 10.25728/cs.2024.1.3.</li>
+     <li>Zakharov A. O., Kovalenko Yu. V. Construction and reduction of the Pareto set in asymmetric travelling salesman problem with two criteria, Vestnik of Saint Petersburg University. Applied Mathematics. Computer Science. Control Processes, 2018, vol. 14, no. 4, pp. 378—392.</li>
+     <li>Chaudhary N., Sangwan O. P. Multi Objective Test Suite Reduction for GUI Based Software Using NSGA-II, International Journal of Information Technology and Computer Science, 2016, vol. 8, no. 8, pp. 59—65. DOI: 10.5815/ijitcs.2016.08.07.</li>
+     <li>Saeidi Sh. A Multi-objective Mathematical Model for Job Scheduling on Parallel Machines Using NSGA-II, International Journal of Information Technology and Computer Science, 2016, vol. 8, no. 8, pp. 43—49. DOI: 10.5815/ijitcs.2016.08.05.</li>
+     <li>Deb K., Pratap A., Agarwal S., Meyarivan T. A fast and elitist multiobjective genetic algorithm: NSGA-II, IEEE Transactions on Evolutionary Computation, 2002, vol. 6, no. 2, pp. 182—197.</li>
+     <li>Alekseev V. B. Introduction to the Theory of Algorithm Complexity (Textbook for Students). Moscow, Izdatel'skiy otdel f-ta VMiKMGU, 2002, 82 p. (in Russian).</li>
+     <li>Abramov S. A. Lectures on Algorithm Complexity, Moscow, MTSNMO, 2009, 256 p. (in Russian).</li>
+     <li>Samet H. Foundations of multidimensional and metric data structures, Morgan Kaufmann, 2006, 1024 p.</li>
+     <li>Gladkikh D. A., Vikhtenko E. M. Application of Spatial Partitioning Algorithms in Computational Geometry, Inzhenernyy Vestnik Dona.2024, 2024, no. 1 (109), pp. 101—114 (in Russian).</li>
+     <li>Cormen T. H., Leiserson C. E., Rivest R. L., Stein C. Algorithms: Construction and Analysis, 2nd ed. Translated from English, Moscow, Vilyams, 2011, 1296 p. (in Russian).</li>
+     <li>de Berg M., Cheong O., van Kreveld M., Overmars M. Computational Geometry: Algorithms and Applications, Springer, 2008, 386 p.</li>
+     <li>Soltys M. Introduction to Algorithm Analysis / translated from English by A. V. Logunova, Moscow, DMK Press, 2019, 278 p. (in Russian).</li>
+     <li>Aho A. V., Hopkroft J. E., Ullman J. D. Data Structures and Algorithms. Translated from English, Moscow, Vilyams, 2000, 384 p. (in Russian).</li>
+     <li>Brassard G., Bratley P. Fundamental of Algorithmics, Prentice-Hall, 1996, 524 p.</li>
+     <li>Bentley J. L. Multidimensional binary search trees used for associative searching, Communications of the ACM, 1975, vol. 18, no. 9, pp. 509—517. DOI: 10.1145/361002.361007.</li>
+     <li>Ott R. L., Longnecker M. An introduction to statistical methods and data analysis.Cengage Learning, 2015, 1296 р.</li>
+     <li>Johnson R. A., Wichern D. W. Applied Multivariate Statistical Analysis, Pearson, 2007, 808 p.</li>
+     <li>Cover T. M., Thomas J. A. Elements of information theory, Wiley, 2006, 542 p.</li>
+ - doi: 16.470-479
+   udk: '004.51 + 004.89'
+   edn: PQYZDP
+   item_authors: Matrenin P. V.
+   item_name: A Method for Explaining the Results of Artificial Intelligence Models based on the Shapley Algorithm and a Generative Language Model
+   item_authors_address: |
+     <b>P. V. Matrenin</b>, PhD, Leading Researcher of the Scientific Laboratory, p.v.matrenin@urfu.ru,
+     Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation
+   item_corr_author: 'Pavel V. Matrenin, PhD, Leading Researcher of the Scientific Laboratory, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation, E-Mail: p.v.matrenin@urfu.ru'
+   item_rec_on: May 05, 2025
+   item_acc_on: June 11, 2025
+   item_annot: |
+     <p> Improving human-machine interfaces of intelligent systems is a pressing issue that involves creating user-friendly explanations of the results of artificial intelligence models. It is especially important for implementing intelligent systems with high responsibility for decisions, such as the power industry. The article describes a developed method based on the Shapley additive explanation algorithm. The proposed modification is based on: normalization of the feature contribution vector; semantic grouping of features; contributions' visualization that is different from the currently accepted one; and generation of text explanations using a language model. The presented method is aimed at reducing the cognitive load on the user when analyzing the results of intelligent decision support systems and increasing the confidence of industry experts in such systems. As an example, the problem of short-term forecasting of electricity consumption of an industrial enterprise is considered.</p>
+   item_keywords: explainable artificial intelligence, human-machine interface, decision support system, language model, time series forecasting
+   item_pages: 470—479
+   item_comment: The research was carried out within the state assignment with the financial support of the Ministry of Science and Higher Education of the Russian Federation (subject No. FEUZ-2025-0005, development of models and methods of explainable artificial intelligence to improve the reliability and safety of the implementation of distributed intelligent systems at power facilities).
+   item_citation: 'Matrenin P. V. A Method for Explaining the Results of Artificial Intelligence Models based on the Shapley Algorithm and a Generative Language Model, Programmnaya Ingeneria, 2025, vol. 16, no. 9, pp. 470—479. DOI: 10.17587/prin.16.470-479. (in Russian).'
+   item_references: |
+     <li>Adadi A., Berrada M. Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI), IEEE Access, 2018, vol. 6, pp. 52138—52160. DOI: 10.1109/ACCESS.2018.2870052.</li>
+     <li>Ali S., Abuhmed T., El-Sappag S. et al. Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence, Information Fusion, 2023, vol. 99, article 101805. DOI: 10.1016/j.inffus.2023.101805.</li>
+     <li>GOST R 71476—2024. Artificial intelligence. Artificial intelligence concepts and terminology. Moscow, Rossiyskiy institut standartizatsii, 2024 (in Russian).</li>
+     <li>Haljasmaa K. I., Stepanova A. I., Zinivieva E. L. Legal aspects of the use of intelligent systems and methods of interpreting, Novosibirsk, Novosibirskiy gosudarstvennyy tekhnicheskiy universitet, 2024, 191 p. (in Russian).</li>
+     <li>Molnar C. Interpretable Machine Learning. A Guide for Making Black Box Models Explainable, available at: https://chris-tophm.github.io/interpretable-ml-book (date of access 11.04.2025).</li>
+     <li>Kivchun O. R., Gnatuk V. I. Methodology for forecasting the power consumption of objects based on the values of rank phase angles, Morskiye intellektual'nyye tekhnologii, 2022, no. 4—3 (58), pp. 105—109. DOI: 10.37220/MIT.2022.58.4.070 (in Russian).</li>
+     <li>Glazyrin A. S., Bolovin E. V., Arkhipova O. V. et al. Adaptive short-term forecasting of electricity consumption by autonomous power systems of small northern settlements based on retrospective regression analysis methods, Bulletin of Tomsk Polytechnic University. Engineering of Georesources, 2023, vol. 334, no. 4, pp. 231—248. DO I: 10.18799/24131830/2023/4/4213 (in Russian).</li>
+     <li>Khalyasmaa A. I., Revenkov I. S., Sidorova A. V. Application of digital twin technology for analysis and forecasting of transformer equipment condition, Vestnik Kazanskogo gosudarstvennogo energeticheskogo universiteta. 2022, vol. 14, no. 3 (55), pp. 99—113 (in Russian).</li>
+     <li>Slack D., Hilgard S., Jia E. et al. Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods, AAAI/ACM Conference on AI, Ethics, and Society, 2020, pp. 180—186.</li>
+     <li>Kuzlu M., Cali U., Sharma V., Guler O. Gaining Insight into Solar Photovoltaic Power Generation Forecasting Utilizing Explainable Artificial Intelligence Tools, IEEE Access, 2020, vol. 8, pp. 187814—187823. DOI: 10.1109/ACCESS.2020.3031477.</li>
+     <li>Matrenin P. V., Gamaley V. V., Khalyasmaa A. I., Stepanova A. I. Solar Irradiance Forecasting with Natural Language Processing of Cloud Observations and Interpretation of Results with Modified Shapley Additive Explanations, Algorithms, 2024, vol. 17, no. 4, article 150. DOI: 10.3390/a17040150.</li>
+     <li>Stepanova A. I., Khalyasmaa A. I., Matrenin, P. V., Eroshenko S. A. Application of SHAP and Multi-Agent Approach for Short-Term Forecast of Power Consumption of Gas Industry Enterprises, Algorithms, 2024, vol. 17, no. 10, article 447. DOI: 10.3390/a17100447.</li>
+     <li>Baur L., Ditschuneit K., Schambach M. et al. Explainability and Interpretability in Electric Load Forecasting Using Machine Learning Techniques — A Review, Energy and AI, 2024, vol. 16, article 100358. DOI: 10.1016/j.egyai.2024.100358.</li>
+     <li>Neubauer A., Brandt S., Kriegel M. Explainable multi-step heating load forecasting: Using SHAP values and temporal attention mechanisms for enhanced interpretability, Energy and AI. 2025, vol. 20, article 100480. DOI: 10.1016/j.egyai.2025.100480.</li>
+     <li>Ribeiro M. T., Singh S., Guestrin C. "Why Should I Trust You?": Explaining the Predictions of Any Classifier, The 2016 Conference of the North American Chapter of the Association for Computational Linguistics, 2016, pp. 97—101. DOI: 10.48550/arXiv.1602.04938.</li>
+     <li>Lundberg S. M., Su-In Lee. A unified approach to interpreting model predictions, NIPS'17: Proceedings of the 31st International Conference on Neural Information Processing Systems, 2017, pp. 4768—4777. DOI: 10.48550/arXiv.1705.07874.</li>
+     <li>Matrenin P. V., Stepanova A. I. Enhancing the interpretability of electricity consumption forecasting models for mining enterprises using SHapley Additive exPlanations, Journal of Mining Institute. 2025, vol. 271, pp. 154—167.</li>
+     <li>Stepanova A. I., Khalyasmaa A. I., Matrenin P. V. Shortterm forecasting of the load of an oil and gas industry enterprise using technological factors and the additive Shapley explanation, Izvestiya vysshikh uchebnykh zavedeniy. Problemy energetiki, 2024, vol. 26, no. 4, pp. 75—88. DOI: 10.30724/1998-9903-2024-26-4-75­88 (in Russian).</li>
+     <li>Gorshenin A. Yu. Formation of a sample of initial data for machine learning of a short-term forecasting model of electricity consumption, Avtomatizatsiya v promyshlennosti, 2023, vol. 10, P. 37—41. DOI: 10.25728/avtprom.2023.10.08 (in Russian).</li>
+     <li>Sergeev N. N., Matrenin P. V. Improving the accuracy of forecasting the electricity consumption of an industrial enterprise using machine learning methods by selecting significant features from a time series, iPolytech Journal, 2022, vol. 26, no. 3, pp. 487— 498. DOI: 10.21285/1814-3520-2022-3-487-498 (in Russian).</li>
+     <li>Blokhin A. V. Development and verification of a short-term forecasting system for electricity consumption of a resource supplying enterprise, Izvestiya Tul'skogo gosudarstvennogo universiteta. Tekhnicheskiye nauki, 2024, vol. 10, pp. 261—267 (in Russian).</li>
+     <li>Blokhin A. V., Gritsai A. S., Gorshenin A. Yu. Study of factors influencing electricity consumption by a commercial enterprise, Matematicheskiye struktury i modelirovaniye, 2022, no. 3 (63), pp. 39—47. DOI: 10.24147/2222-8772.2022.3.39-47 (in Russian).</li>
+     <li>Wang J., Chen Y., Giudici P. Group Shapley with Robust Significance Testing and Its Application to Bond Recovery Rate Prediction Group Shapley with Robust Significance Testing and Its Application to Bond Recovery Rate Prediction. ArXiv. 2025. DOI: 10.48550/arXiv.2501.03041.</li>
+     <li>Jullum M., Redelmeier A., Aas K. groupShapley: Efficient prediction explanation with Shapley values for feature groups. ArXiv. 2021. DOI: 10.48550/arXiv.2106.12228.</li>
+     <li>Zeng X. Enhancing the Interpretability of SHAP Values Using Large Language Models. ArXiv. 2024. DOI: 10.48550/arx-iv.2409.00079.</li>
+     <li>Khediri A., Slimi H., Yahiaoui A. et al. Enhancing Machine Learning Model Interpretability in Intrusion Detection Systems through SHAP Explanations and LLM-Generated Descriptions, 2024 6th International Conference on Pattern Analysis and Intelligent Systems (PAIS), EL OUED, Algeria, 2024. pp. 1—6. DOI: 10.1109/PAIS62114.2024.10541168.</li>
+     <li>Lim B., Huerta R., Sotelo A. et al. EXPLICATE: Enhancing Phishing Detection through Explainable AI and LLM-Powered Interpretability. ArXiv, 2025. Doi: 10.48550/arXiv.2503.20796.</li>
+     <li>Haghshenas Y., Wong W. P., Gunawan D. et al. Predicting the rates of photocatalytic hydrogen evolution over cocatalystdeposited TiO2 using machine learning with active photon flux as a unifying feature, EES Catalysis, 2024, vol, 2. pp. 612—623. DOI: 10.1039/d3ey00246b.</li>
+     <li>Smith A. H., Gray G. M., Ashfaq A. et al. Using machine learning to predict five-year transplant-free survival among infants with hypoplastic left heart syndrome, Scientific reports, 2024, vol. 14, article 4512. DOI: 10.1038/s41598-024-55285-1.</li>
+     <li>Duan H., Okten G. Derivative-based Shapley value for global sensitivity analysis and machine learning explainability. ArXiv, 2023. DOI: 10.48550/arXiv.2303.15183.</li>
+     <li>Blasio A. J., Bisantz A. M. A comparison of the effects of data—ink ratio on performance with dynamic displays in a monitoring task, International Journal of Industrial Ergonomics, 2002, vol. 30, no. 2, pp. 89—101. DOI: 10.1016/S0169-8141(02)00074-4.</li>
+     <li>Xue L., Constant N., Roberts A. et al. mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer, Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2021, pp. 483—498. DOI: 10.18653/v1/2021.naacl-main.41.</li>
+     <li>Lin Ch.-Y. ROUGE: A Package for Automatic Evaluation of Summaries, Text Summarization Branches Out, Barcelona, Spain, Association for Computational Linguistics, 2004, pp. 74—81.</li>
+ - doi: 16.480-488
+   udk: '004.272:004.94:533.735'
+   edn: JPIFKN
+   item_authors: Raad M.
+   item_name: Optimization of Thermodiffusion Calculations Using a Thermal Mirror
+   item_authors_address: |
+     <b>M. Raad</b>, Postgraduate Student, m.raad@hotmail.com,
+     Bauman Moscow State Technical University, Moscow, 105005, Russian Federation
+   item_corr_author: 'Majd Raad, Postgraduate Student, Bauman Moscow State Technical University, Moscow, 105005, Russian Federation, E-mail: m.raad@hotmail.com'
+   item_rec_on: May 08, 2025
+   item_acc_on: June 18, 2025
+   item_annot: |
+     <p>This paper presents an innovative method for optimizing thermodiffusion calculations in solids using the concept of a thermal mirror and symmetry. The developed approach significantly reduces computational costs by applying the Delaunay algorithm and the finite element method (FEM) for mesh generation and thermal problem solving. The study demonstrates that accounting for the symmetry of geometric shapes and heat sources enables a reduction number of computations by a factor of 2n (where n is the number of symmetry levels) without sacrificing accuracy. The practical implementation of the method in the MFEMS system confirmed its effectiveness, achieving significant reductions in mesh generation time and acceleration of thermodiffusion calculations. Method limitations include imperfect symmetry of real-world objects, distortion of temperature fields under asymmetrical heat sources, and the high computational complexity of symmetry determination. Despite these, the method remains effective for systems with pronounced symmetry, providing an optimal balance between accuracy and computational cost. The results have significant potential for application in the design of heat exchange systems requiring high-precision and resource-efficient simulation methods.<p>
+   item_keywords: thermodiffusion in solids, thermal mirror, symmetry in thermal calculations, optimization of thermal processes, finite element method (FEM), delaunay algorithm, numerical heat transfer simulation, computational efficiency, sym­metry analysis, heat exchange systems, thermal conductivity, reduction of computational cost, accuracy enhancement
+   item_pages: 480—488
+   item_citation: 'Raad M. Optimization of Thermodiffusion Calculations Using a Thermal Mirror, Programmnaya Ingeneria, 2025, vol. 16, no. 9, pp. 480—488. DOI: 10.17587/prin.16.480-488 (in Russian).'
+   item_references: |
+     <li>Skvortsov A. Delaunay triangulation and its applications, Tomsk, Izd-vo Tomskogo un-ta, 2002, 128 p. DOI: 10.17273/BOOK.2002.1 (in Russian).</li>
+     <li>Bergheau J.-M., Fortunier R. Finite Element Simulation of Heat Transfer. Hoboken, NJ, USA, John Wiley & Sons, 2013. DOI: 10.1002/9780470611418.</li>
+     <li>Miller W. Symmetry Groups and Their Applications, London, UK, Academic Press, 1972, 275 p.</li>
+     <li>Liu X., Hel-Or H., Kaplan C. S., van Gool L. Computational Symmetry in Computer Vision and Computer Graphics, Found. Trends Comput. Graph. Vis., 2009, vol. 5, pp. 1—195. DOI: 10.1561/0600000008.</li>
+     <li>Martin G. E. Transformation Geometry, New York, NY, USA, Springer, 1982, 211 p.</li>
+     <li>Barker W. H., Howe R. Continuous Symmetry: From Euclid to Klein. Providence, RI, USA, American Mathematical Society, 2007.</li>
+     <li>Xiao Z., Wu J. Analysis on Image Symmetry Detection Algorithms, Proc. Fourth Int. Conf. on Fuzzy Systems and Knowledge Discovery (FSKD 2007), 24—27 Aug. 2007. Haikou, China, 2007, pp. 745—750. DOI: 10.1109/FSKD.2007.173.</li>
+     <li>Mitra N. J., Pauly M., Wand M., Ceylan D. Symmetry in 3D Geometry: Extraction and Applications, Comput. Graph. Forum, 2013, vol. 32, no. 6, pp. 1—23. DOI: 10.1111/cgf.12010.</li>
+     <li>Bartalucci U., Governi L., Volpe Y. A Survey of Methods for Symmetry Detection 3D High Point Density Models in Bio-medicine, Symmetry, 2018, vol. 10, no. 7, article 263. DOI: 10.3390/sym10070263.</li>
+     <li>Tate S. J., Jared G. E. Recognising symmetry in solid models, Comput.-Aided Des., 2003, vol. 35, no. 7, pp. 673—692. DOI: 10.1016/S0010-4485(02)00093-3.</li>
+     <li>Martinet A., Soler C., Holzschuch N., Sillion F. X. Accurate detection of symmetries in 3D shapes, ACM Trans. Graph. (TOG), 2006, vol. 25, no. 2, pp. 439—464. DOI: 10.1145/1138450.1138462.</li>
+     <li>Li H., Fu H., Cohen-Or D. Symmetry Detection and Analysis with Topological Structures, ACM Trans. Graph. (TOG), 2010, vol. 29, no. 3, article 43.</li>
+     <li>Pauly M., Mitra N. J., Wallner J. et al. Discovering Structural Regularity in 3D Geometry, ACM Trans. Graph. (TOG), 2008, vol. 27, no. 3, article 43. DOI: 10.1145/1360612.1360642.</li>
+     <li>Cicconet M., Hildebrand D. G., Elliott H. Finding mirror symmetry via registration, arXiv preprint, 2016, arXiv:1611. 05971.</li>
+     <li>Tarini M., Cignoni P., Montani C., Rocchini C. A survey on mesh simplification algorithms, Eurographics — STARs., 2006, p. 31—50.</li>
+     <li>Wang W., Pan W., Dai C. et al. Segmentation-driven feature-preserving mesh denoising, The Visual Computer, 2024, vol. 40, no. 9, pp. 6201—6217. DOI: 10.1007/s00371-023-03161-w.</li>
+     <li>Kwatra V., Essa I., Bobick A., Kwatra N. Texture optimization for example-based synthesis, ACM, Trans. Graph. (TOG), 2005, vol. 24, no. 3, pp. 795—802. DOI: 10.1145/1073204.1073263.</li>
+     <li>Mitra N. J., Guibas L. J., Pauly M. Partial and approximate symmetry detection for 3D geometry, ACM Trans. Graph. (TOG), 2006, vol. 25, no. 3, pp. 560—568. DOI: 10.1145/1141911.1141924.</li>
+     <li>Medioni G., Tang C. K., Lee M. S. Tensor voting: Theory and applications, Proc. RFIA, 2000, vol. 2000, pp. 1—10, available at: https://www.sci.utah.edu/~gerig/CS7960-S2010/handouts/Medioni_tensor_voting.pdf.</li>
+     <li>Tang C. K., Medioni G., Lee M. S. N-dimensional tensor voting and application to epipolar geometry estimation, IEEE Trans. Pattern Anal. Mach. Intell., 2001, vol. 23, no. 8, pp. 829—844. DOI: 10.1109/34.946987.</li>
+     <li>Ji P., Liu X. A fast and efficient 3D reflection symmetry detector based on neural networks, Multimed. Tools Appl., 2019, vol. 78, pp. 35471—35492. DOI: 10.1007/s11042-019-08043-9.</li>
+     <li>Kanwal K., Ahmad K. T., Khan R. et al. Deep learning using symmetry, FAST scores, shape-based filtering and spatial mapping integrated with CNN for large scale image retrieval, Symmetry, 2020, vol. 12, no. 4, article 612. DOI: 10.3390/sym12040612.</li>
