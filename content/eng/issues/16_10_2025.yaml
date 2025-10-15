@@ -1,0 +1,150 @@
+---
+title: Issue N10 2025 year
+content:
+ - doi: 16.491-506
+   udk: '001.891:004.9'
+   edn: FIKWRH
+   item_authors: Vasenin V. A., Zaslavsky D. D., Kozitsyn A. S., Krivchikov M. A., Shachnev D. A.
+   item_name: Towards the Creation of a National Ranking System for Scientific Conferences
+   item_authors_address: |
+     <b>V. A. Vasenin</b>, Head of Laboratory, vasenin@msu.ru,
+     <b>D. D. Zaslavsky</b>, Programmer, zabaf@yandex.ru,
+     <b>A. S. Kozitsyn</b>, Senior Researcher, alexanderkz@mail.ru,
+     <b>M. A. Krivchikov</b>, Senior Researcher, maxim.krivchikov@gmail.com,
+     <b>D. A. Shachnev</b>, Research Scientist, mitya57@gmail.com,
+     Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: 'Alexander S. Kozitsyn, Senior Researcher, Institute of Mechanics, Lomonosov Moscow State University, Moscow, 119192, Russian Federation E-mail: alexanderkz@mail.ru'
+   item_rec_on: May 11, 2025
+   item_acc_on: July 17, 2025
+   item_annot: |
+     <p>Conferences of scientific, scientific-technical and technological content are an important element of public administration in this area. The high authority of such conferences attracts leading researchers to participate in them, promotes their contacts, exchange of knowledge and experience, which, in turn, contributes to the development of science and technology at all levels (regional, national and international). In order to increase the rating of Russian scientific conferences in the global scientific and technical environment, it seems necessary to create, as a matter of priority, a list of regulatory requirements for their organization, which should take into account the existing and tested in the areas under consideration, both Russian and international experience. Based on the preliminary research carried out by the authors, the following has been developed and presented: a list of regulatory provisions; requirements for the developed conference ranking system; a list of formal criteria for constructing a metric for such ranking.</p>
+   item_keywords: scientific conferences, ranking, multi-criteria analysis, scientometrics, information systems, conference organization
+   item_pages: 491—506
+   item_comment: The study was conducted under the state assignment of Lomonosov Moscow State University.
+   item_citation: 'Vasenin V. A., Zaslavsky D. D., Kozitsyn A. S., Krivchikov M. A., Shachnev D. A. Towards the Creation of a National Ranking System for Scientific Conferences, Programmnaya Ingeneria, 2025, vol. 16, no. 10, pp. 491—506. DOI: 10.17587/prin.16.491-506 (in Russian).'
+   item_references: |
+     <li>Toloraya G., Borzova A., Dezhina I. et al. Promising areas of scientific cooperation: BRICS countries, available at: https://rus-siancouncil.ru/papers/RIAC-BRICS-Science-Diplomacy-Report90. pdf (date of access 10.04.2025) (in Russian).</li>
+     <li>Sadovnichiy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58.</li>
+     <li>Eredia A. Brazilskoe liderstvo v otkrytykh issledovaniyakh, available at: https://info.orcid.org/ru/brazilian-leadership-in-open-research/ (date of access 10.04.2025).</li>
+     <li>Kozitsyn A. S. Thematic Search Algorithms for Experts, Journals and Conferences, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 291—300. DOI: 10.17587/prin.13.291-300 (in Russian).</li>
+     <li>Tretyakova O. V. Assessing RSCI Economics Journals in the Context Of Creating A National Citation Index, Herald of the Russian Academy of Sciences, 2020, vol. 90, no. 2, pp. 251—255. DOI: 10.1134/S1019331620020173 (in Russian).</li>
+     <li>Kochetkov D. M., Biryukov A. A., Ermolaeva A. M. Comparative Analysis of Different Citation Metrics for Conference Evaluation and Ranking, Matematicheskoe i programmnoe obespechenie informatsionnykh, tekhnicheskikh i ekonomicheskikh sistem, 2020, pp. 52—57 (in Russian).</li>
+     <li>Koryakovskaya L. D., Dorogobed A. N. Automated Conference Event Management System, Informatsionnye tekhnologii v upravlenii i ekonomike, 2019, no. 2 (15), pp. 4—10 (in Russian).</li>
+     <li>Afonin S., Kozitsyn A., Astapov I. Sqlreports: Yet another relational database reporting system, Proceedings of the 9th International Conference on Software Engineering and Applications, 2014, pp. 529—534. DOI: 10.5220/0005114205290534.</li>
+     <li>Kozitsyn A. S. Algorithms for Finding Duplicate Conferences and Conference Groups in Scientometric Systems, Programmnaya ingeneria, 2023, vol. 14, no. 4, pp. 195—202. DOI: 10.17587/prin.14.195-202 (in Russian). </li>
+     <li>Vasenin V. A., Zenzinov A. A., Lunev K. V. The Usage of CRIS-systems for the Contest Procedures Automation in Terms of the ISTINA Information System, Programmnaya Ingeneria, 2016, vol. 7, no. 10, pp. 472—480. DOI: 10.17587/prin.7.472-480 (in Russian). </li>
+     <li>Shachnev D. A. Searching for Activity Results and Experts in a Given Subject Area, Taking Results Significance into Account, Programmnaya Ingeneria, 2021, vol. 12, no. 5, pp. 260—266. DOI: 10.17587/prin.12.260-266.</li>
+ - doi: 16.507-516
+   udk: '004.052.42'
+   edn: FPVJGH
+   item_authors: Manerkin A. D.
+   item_name: UVM Verification Coverage Achievement Acceleration using Gradient Boosting and Hybrid Methods
+   item_authors_address: |
+     <b>A. D. Manerkin</b>, Junior Researcher, manerkin@cs.niisi.ras.ru,
+     Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation
+   item_corr_author: 'Alexey D. Manerkin, Junior Researcher, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute" , Moscow, 117218, Russian Federation E-mail: manerkin@cs.niisi.ras.ru'
+   item_rec_on: April 18, 2025
+   item_acc_on: May 20, 2025
+   item_annot: |
+     <p>The article discusses the applicability of machine learning to accelerate the functional verification of microprocessors. This study conducts a comparative analysis of major gradient boosting implementations (XGBoost, Light-GBM, CatBoost), one of the most widely used machine learning methods, in achieving code coverage acceleration through transaction filtering. Based on the results, hybrid models combining the strengths of these implementations are proposed. A comparative evaluation of hybrid methods—blending, stacking, and gradient transfer—is provided, identifying the most efficient approach for maximum coverage achievement with fewer transactions in UVM-based functional verification.</p>
+   item_keywords: functional verification, UVM, code coverage, machine learning, gradient boosting, blending, stacking, gradient transfer
+   item_pages: 507—516
+   item_citation: 'Manerkin A. D. UVM Verification Coverage Achievement Acceleration using Gradient Boosting and Hybrid Methods, Programmnaya Ingeneria, 2025, vol. 16, no. 10, pp. 507—516. DOI: 10.17587/prin.16.507-516 (in Russian).'
+   item_references: |
+     <li>Saes L. Unit test generation using machine learning, Master thesis, 2018, University of Amsterdam, 56 p.</li>
+     <li>Sharif A., Marijan D., Liaaen M. DeepOrder: Deep Learning for Test Case Prioritization in Continuous Integration Testing, 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME), Luxembourg, 2021, pp. 525—534. DOI: 10.1109/ICSME52107.2021.00053.</li>
+     <li>Allagi S., Rachh R. Analysis of Network log data using Machine Learning, 2019 IEEE 5th International Conference for Convergence in Technology (I2CT), Bombay, India, 2019, pp. 1—3. DOI: 10.1109/I2CT45611.2019.9033737.</li>
+     <li>Manerkin A. D., Grevtsev N. A., Chibisov P. A. Machine learning methods application during functional verification for the required coverage achievement acceleration, Sbornik tezisov Rossiysk-ogo foruma "Mikroelektronika 2024", 10-ya Nauchnaya konferentsiya "EKB i mikroelektronnye moduli", Sirius University of Science and Technology, 2024, pp. 135—136 (in Russian).</li>
+     <li>Akiba T., Sano S., Yanase T. et al. Optuna: A next-generation hyperparameter optimization framework, 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, Anchorage, United States, 2019. DOI: 10.48550/arXiv.1907.10902.</li>
+     <li>Chen T., Guestrin C. XGBoost: A Scalable Tree Boosting System, Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016, pp. 785—794. DOI: 10.1145/2939672.2939785.</li>
+     <li>Ke G., Meng Q., Finley T. et al. Lightgbm: A Highly Efficient Gradient Boosting Decision Tree, Advances in Neural Information Processing Systems, 2017, vol. 30, pp. 3146—3154.</li>
+     <li>Prokhorenkova L., Gusev G., Vorobev A. et al. CatBoost: unbiased boosting with categorical features, Advances in Neural Information Processing Systems, 2018, vol. 31, pp. 6638—6648. DOI: 10.48550/arXiv.1706.09516.</li>
+     <li>Khyani D., Jakkula S., Gowda S. et al. An Interpretation of Stacking and Blending Approach in Machine Learning, International Research Journal of Engineering and Technology (IRJET), 2021, vol. 8, no. 7, pp. 3117—3120.</li>
+     <li>Wolpert D. H. Stacked generalization, Neural Networks, 1992, vol. 5, no. 2, pp. 241—259. DOI: 10.1016/s0893-6080(05) 80023-1.</li>
+     <li>Friedman J. H. Greedy Function Approximation: A Gradient Boosting Machine, The Annals of Statistics, 2001, vol. 29, no. 5, pp. 1189—1232. DOI: 10.1214/aos/1013203451.</li>
+     <li>Breiman L. Bagging predictors, Machine Learning, 1994, vol. 24, no. 2, pp. 123—140. DOI: 10.1007/bf00058655.</li>
+ - doi: 16.517-531
+   udk: "004.4'2, 004.8"
+   edn: NJLRMM
+   item_authors: Ignatyev V. N.
+   item_name: A Holistic Static Analysis for Finding Errors in Source Code
+   item_authors_address: |
+     <b>V. N. Ignatyev</b>, Senior Researcher<sup>1</sup>, Associate Professor<sup>2</sup>, valery.ignatyev@ispras.ru,
+     <br>
+     <sup>1</sup> Ivannikov Institute for System Programming RAS, Moscow, 109004, Russian Federation
+     <br>
+     <sup>2</sup> CMC faculty of Lomonosov Moscow State University, Moscow, 119192, Russian Federation
+   item_corr_author: |
+     Valery N. Ignatyev, Senior Researcher<sup>1</sup>, Associate Professor<sup>2</sup>,
+     <br>
+     <sup>1</sup> Ivannikov Institute for System Programming RAS, Moscow, 109004, Russian Federation,
+     <br>
+     <sup>2</sup> CMC faculty of Lomonosov Moscow State University, Moscow, 119192, Russian Federation,
+     <br>
+     E-mail: valery.ignatyev@ispras.ru
+   item_rec_on: July 07, 2025
+   item_acc_on: July 23, 2025
+   item_annot: |
+     <p>We propose a holistic comprehensive static analysis system that addresses modern challenges of code complexity growth and supporting many popular languages while being capable of utilizing source code metainformation during analysis (e.g., commit history, merge request discussions). The system includes classical methods, such as abstract syntax tree search, dataflow analysis, symbolic execution, and new methods based on machine learning and large language models for error detection and cross-verification. We discuss the system's design and its implementation in the SharpChecker, an industrial static analyzer, including an ensemble of relevant analysis methods. The system considers the main use cases for the analyzer, proposes a scheme for interaction and data exchange between its components. The paper presents brief results of performance, precision, and recall of the system on the set of open source projects with more than 5 million LOC, illustrating high performance.</p>
+   item_keywords: static source code analysis, machine learning in code analysis, error detection, Svace, SharpChecker
+   item_pages: 517—531
+   item_citation: 'Ignatyev V. N. A Holistic Static Analysis for Finding Errors in Source Code, Programmnaya Ingeneria, 2025, vol. 16, no. 10, pp. 517—531. DOI: 10.17587/prin.16.517-531. (in Russian).'
+   item_references: |
+     <li>Ivannikov V. P., Belevantsev A. A., Borodin A. E. et al. Static analyzer Svace for finding defects in a source program code, Programming and Computer Software, 2014, vol. 40, pp. 265—275. DOI: 10.1134/S0361768814050041.</li>
+     <li>Arzt S., Rasthofer S., Fritz C. et al. Flowdroid: Precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for android apps, Acm Sigplan Notices, 2014, vol. 49, no. 6, pp. 259—269. https://doi.org/10.1145/2666356.2594299.</li>
+     <li>Calcagno C., Distefano D. Infer: An automatic program verifier for memory safety of C programs, NASA Formal Methods Symposium, Springer, 2011, pp. 459—465.</li>
+     <li>Calcagno C., Distefano D., O'Hearn P., Yang H. Compositional shape analysis by means of biabduction, POPL '09: Proceedings of the 36th annual ACM SIGPLAN-SIGACT sympo­sium on Principles of programming languages, 2009, pp. 289—300. DOI: 10.1145/1480881.1480917.</li>
+     <li>Hou X., Zhao Y., Liu Y. et al. Large language models for software engineering: A systematic literature review, ACM Transactions on Software Engineering and Methodology, 2024, vol. 33, no. 8, pp. 1—79. DOI: 10.1145/3695988.</li>
+     <li>Sharma T., Kechagia M., Georgiou S. et al. A survey on machine learning techniques for source code analysis, arXiv preprint arXiv:2110.09610. 2021.</li>
+     <li>Allamanis M., Brockschmidt M., Khademi M. Learning to Represent Programs with Graph s, CoRR abs/1711.00740, 2017. DOI: 10.48550/arXiv.1711.00740.</li>
+     <li>GOST Р 71207—2024 Information security. Secure Software Development. Software static analysis. General Requirements, Moscow, Rossijskij institut standartizacii, 2024, 20 p. (in Russian).</li>
+     <li>Koshelev V. K., Ignatiev V. N., Borzilov A. I., Belevantsev A. A. SharpChecker: Static analysis tool for C# programs, Programming and Computer Software, 2017, vol. 43, pp. 268—276. DOI: 10.1134/S0361768817040041.</li>
+     <li>Kildall G. A. A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, 1973, pp. 194—206. DOI: 10.1145/512927.512945.</li>
+     <li>De Moura L., Bjerner N. Z3: An efficient SMT solver, International conference on Tools and Algorithms for the Construction and Analysis of Systems, Springer Berlin Heidelberg, 2008, pp. 337—340.</li>
+     <li>Allamanis M., Barr E. T., Devanbu P. et al. A survey of ma­chine learning for big code and naturalness, ACM Computing Surveys (CSUR), 2018, vol. 51, no. 4, pp. 1—37. DOI: 10.1145/3212695.</li>
+     <li>Bader J., Scott A., Pradel M., Chandra S. Getafix: Learning to fix bugs automatically, Proceedings of the ACM on Programming Languages, 2019, vol. 3, no. OOPSLA, pp. 1—27. DOI: 10.1145/3360585.</li>
+     <li>Alon U., Zilberstein M., Levy O. et al. code2vec: Learning distributed representations of code, Proceedings of the ACM on Programming Languages, 2019, vol. 3, no. POPL, pp. 1—29.</li>
+     <li>Feng Z., Guo D., Tang D. et al. Codebert: A pre-trained model for programming and natural languages, arXiv preprint, arXiv:2002.08155. 2020.</li>
+     <li>Koshelev V. K., Dudina I. A., Ignatyev V. N., Borzilov A. I. Path-sensitive defect detection in C# programs using null pointer dereference as an example, Trudy Instituta sistemnogo program-mirovanija RAN, 2015, vol. 27, no. 5, pp. 59—86. DOI: 10.15514/ISPRAS-2015-27(5)-5 (in Russian).</li>
+     <li>Belyaev M., Ignatyev V. Exception Analysis for Errors Detection in the SharpChecker Static Analyzer for C#, 2021 Ivannikov Ispras Open Conference (ISPRAS OPEN), IEEE, 2021, pp. 8—16.</li>
+     <li>Biktimirov M. G., Ignatyev V. N., Belyaev M. V. Improving the accuracy of library function modeling in the static analyzer, 2023 Ivannikov Ispras Open Conference (ISPRAS), IEEE, 2023, pp. 26—32.</li>
+     <li>Ignatyev V. N., Shimchik N. V., Panov D. D. et al. Large language models in source code static analysis, 2024 Ivannikov Memorial Workshop (IVMEM), IEEE, 2024, pp. 28—35.</li>
+     <li>Morgachev G., Ignatyev V., Belevantsev A. Detection of variable misuse using static analysis combined with machine learning, 2019 Ivannikov Ispras Open Conference (ISPRAS), IEEE, 2019, pp. 16—24. DOI: 10.1109/ISPRAS47671.2019.00009.</li>
+     <li>Koryabkin D.A, Ignatyev V. N. Automatic Mining of Code Fix Patterns from Code Repositories, 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022, pp. 27—34.</li>
+     <li>Tsiazhkorob U. V., Ignatyev V. N. Classification of Static Analyzer Warnings using Machine Learning Methods, 2024 Ivannikov Memorial Workshop (IVMEM), IEEE, 2024, pp. 69—74.</li>
+ - doi: 16.532-544
+   udk: '51-74'
+   edn: KWAZLY
+   item_authors: Larionov D. D., Shchegoleva L. V.
+   item_name: Multi-Agent SLAM with Consensus Mapping on Graph
+   item_authors_address: |
+     <b>D. D. Larionov</b>, Postgraduate Student, dlarionov51@gmail.com,
+     <b>L. V. Shchegoleva</b>, Professor, schegoleva@petrsu.ru,
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: 'Dmitry D. Larionov, Postgraduate Student, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation. E-mail: dlarionov51@gmail.com'
+   item_rec_on: May 06, 2025
+   item_acc_on: June 17, 2025
+   item_annot: |
+     <p>In this article the problem of tracking the state of the localization system in the underground mine is discussed. This state consists of positions of the access points of the system in the environment of the underground mine. Due to installation and maintenance errors the real state of the localization system may differ from the expected one. Previously published algorithm showed sufficient accuracy but had drawbacks, one of which is requirement to cover big areas in a single run. In this article a new solution is proposed. Previously used FastSLAM-based approach is expanded to track several independent mobile agents each of which builds an independent map of the access points. These maps are periodically combined through the chosen opinion pooling method. Opinion pooling is a family of methods of combining several probabilities of an event measured by different observers to create a single estimation of the probability. Several such methods were evaluated in this article. Proposed multi-agent solution enhances flexibility of the algorithm which allows splitting up the big problem of estimating the state of the system into several smaller ones. Proposed solution was evaluated on a synthetic dataset. The experimental results showed that multi-agent approach raises mean mapping error but is applicable in general.</p>
+   item_keywords: SLAM, graph, multiagent system, particle filter, discrete Bayesian filter, underground mine
+   item_pages: 532—544
+   item_citation: 'Larionov D. D., Shchegoleva L. V. Multi-Agent SLAM with Consensus Mapping on Graph, Programmnaya Ingeneria, 2025, vol. 16, no. 10, pp. 532—544. DOI: 10.17587/prin.16.532-544.'
+   item_references: |
+     <li>Larionov D., Lukashenko O., Moschevikin A. et al. Correction of Uncertain Access Points Positions in Underground Mines Using SLAM Approach, 2021 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), 2021, pp. 761—766. DOI: 10.1109/IDAACS53288.2021.9660893.</li>
+     <li>Montemerlo M., Thrun S., Koller D., Wegbreit B. FastSLAM: a factored solution to the simultaneous localization and mapping problem, Eighteenth National Conference on Artificial Intelligence, American Association for Artificial Intelligence, 2002, pp. 593—598.</li>
+     <li>Crow B. P., Widjaja I., Kim J. G., Sakai P. T. IEEE 802.11 Wireless Local Area Networks, IEEE Communications Magazine, 1997, vol. 35, no. 9, pp. 116—126. DOI: 10.1109/35.620533.</li>
+     <li>Ghaboosi K., Xiao Y., Robertson J. J. Overview of IEEE 802.15.1 Medium Access Control and Physical Layers. Emerging Wireless LANs, Wireless PANs, and Wireless MANs: IEEE 802.11, IEEE 802.15, 802.16 Wireless Standard Family, 2009, pp. 105—134. DOI: 10.1002/9780470403686.ch5.</li>
+     <li>Rohrig C., Muller M. Localization of Sensor Nodes in a Wireless Sensor Network Using the nanoLOC TRX Transceiver, VTC Spring 2009 — IEEE 69th Vehicular Technology Conference, 2009, pp. 1—5. DOI: 10.1109/VETECS.2009.5073650.</li>
+     <li>Karapistoli E., Pavlidou F. N., Gragopoulos I., Tsetsinas I. An overview of the IEEE 802.15.4a Standard, IEEE Communications Magazine, 2010, vol. 48, no. 1, pp. 47—53. DOI: 10.1109/MCOM.2010.5394030.</li>
+     <li>IEEE Standard for Information technology — Local and metropolitan area networks — Specific requirements. Part 15.4: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area Networks (WPANs): Amendment 1: Add Alternate PHYs. IEEE Std 802.15.4a-2007 (Amendment to IEEE Std 802.15.4-2006). 2007, 187 p. DOI: 10.1109/IEEESTD.2007.4299496.</li>
+     <li>Thrun S., Burgard W., Fox D. Probabilistic Robotics (Intelligent Robotics and Autonomous Agents), The MIT Press, 2005, 647 p.</li>
+     <li>Kalman R. E. A New Approach to Linear Filtering and Prediction Problems, Transactions of the ASME—Journal of Basic Engineering, 1960, vol. 82, series D, pp. 35—45.</li>
+     <li>Wan E. A., Van Der Merwe R. The unscented Kalman filter for nonlinear estimation, Proceedings of the IEEE 2000 Adaptive Systems for Signal Processing, Communications, and Control Symposium (Cat. No.00EX373), 2000, pp. 153—158. DOI: 10.1109/ASSPCC.2000.882463.</li>
+     <li>Cano J., Chidami S., Ny J. L. A Kalman Filter-Based Algorithm for Simultaneous Time Synchronization and Localization in UWB Networks, 2019 International Conference on Robotics and Automation (ICRA), 2019, pp. 1431—1437. DOI: 10.1109/ICRA.2019.8794180.</li>
+     <li>Li M.-G., Zhu H., You S.-Z., Tang C.-Q. UWB-Based Localization System Aided With Inertial Sensor for Underground Coal Mine Applications, IEEE Sensors Journal, 2020, vol. 20, no. 12, pp. 6652—6669. DOI: 10.1109/JSEN.2020.2976097.</li>
+     <li>Voronov R., Moschevikin A., Soloviev A. Algorithm for Smoothed Tracking in Underground Local Positioning System, 2018 International Russian Automation Conference (RusAutoCon), 2018, pp. 1—6. DOI: 10.1109/RUSAUTOCON.2018.8501664.</li>
+     <li>Stone M. The Opinion Pool, The Annals of Mathematical Statistics, 1961, vol. 32, no. 4, pp. 1339—1342. DOI: 10.1214/aoms/1177704873.</li>
+     <li>Dietrich F., List C. Probabilistic Opinion Pooling, 2014. available: https://philsci-archive.pitt.edu/11349/ (date of access02.05.25).</li>
+     <li>Genest C. A Characterization Theorem for Externally Bayes-ian Groups, The Annals of Statistics, 1984, vol. 12, no. 3, pp. 1100— 1105. DOI: 10.1214/aos/1176346726.</li>
+     <li>Stewart R. T., Quintana I. O. Probabilistic Opinion Pooling with Imprecise Probabilities, Journal of Philosophical Logic, 2018, no. 1, pp. 17—45. DOI: 10.1007/s10992-016-9415-9.</li>
+     <li>McConway K. J. Marginalization and Linear Opinion Pools, Journal of the American Statistical Association, 1981, vol. 76, no. 374, pp. 410—414. DOI: 10.2307/2287843.</li>
