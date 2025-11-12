@@ -1,0 +1,220 @@
+---
+title: Issue N11 2025 year
+content:
+ - doi: 16.547-557
+   udk: '004.4'
+   edn: ZDZQIB
+   item_authors: Grinyak V. M., Shutov K. S., Artemyev A. V., Devyatisilnyi A. S.
+   item_name: Software Platform for Unmanned Devices Control Systems Creating with Configurable Architecture and Algorithms
+   item_authors_address: |
+     <b>V. M. Grinyak</b>, Dr. Sci. of Engineering Sciences, Professor, victor.grinyak@gmail.com,
+     Vladivostok State University, Vladivostok, 690014, Russian Federation,
+     <b>K. S. Shutov</b>, Postgraduate Student, con.shutoff@yandex.ru,
+     Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
+     <b>A. V. Artemyev</b>, Ph.D. in Engineering Sciences, Associate Professor, artemyev@msun.ru,
+     Maritime State University, Vladivostok, 690059, Russian Federation,
+     <b>A. S. Devyatisilnyi</b>, Dr. Sci. of Engineering Sciences, Principal Researcher, devyatis@iacp.dvo.ru, Institute of Automation and Control Processes, Vladivostok, 690041, Russian Federation
+   item_corr_author: 'Viktor M. Grinyak, Dr. Sci. of Engineering Sciences, Professor, Vladivostok State University, Vladivostok, 690014, Russian Federation, E-mail: victor.grinyak@gmail.com'
+   item_rec_on: May 19, 2025
+   item_acc_on: July 08, 2025
+   item_annot: |
+     <p>The paper presents a developed software platform for controlling unmanned devices with the ability to dynamically change algorithms and control modes without the need to stop work or flash the equipment. The main purpose of creating this system is to ensure flexible adaptation of unmanned devices to changing operating conditions and tasks performed. The software solution is based on a modular architecture that includes four key subsystems: subsystem for generating control commands, subsystem for executing control commands, subsystem for linking software and hardware components, and subsystem for configuration. A specialized declarative configuration description language based on an XML-like grammar has been developed for the last one, which makes it easy to integrate and modify controls.
+     The developed system was implemented on a Raspberry Pi 4 single-board computer and demonstrated high stability and performance during field tests. The experiments carried out have shown the possibility of rapid switching between different control algorithms depending on external conditions, including using visual recognition of colored lines. The architecture of the solution provides asynchronous command processing, resistance to communication loss and high execution speed — up to 83 commands per second. The platform is versatile and can be used for a wide range of unmanned devices, while providing flexibility, reliability and extensibility of control systems.</p>
+   item_keywords: unmanned device, drone, control system, software platform, software architecture, control mode, control algorithm, control command, configuration
+   item_pages: 547—557
+   item_citation: 'Grinyak V. M., Shutov K. S., Artemyev A. V., Devyatisilnyi A. S. Software Platform for Unmanned Devices Control Systems Creating with Configurable Architecture and Algorithms, Programmnaya Ingeneria, 2025, vol. 16, no. 11, pp. 547—557. DOI: 10.17587/prin.16.547-557. (in Russian).'
+   item_references: |
+     <li>Veresnikov G. S., Skryabin A. V. Artificial intelligence methods in automated unmanned aerial vehicles control systems, Informacionnye tehnologii, 2024, vol. 30, no. 3, pp. 115—123. DOI: 10.17587/it.30.115-123 (in Russian).</li>
+     <li>Moskalenko M. A., Cherniakhovich S. E., Pushkarev I. I., Titov A. V. Autonomous shipping technologies, trends and prospects, Marine intellectual technologies, 2023, no. 1—1 (59), pp. 18—28. DOI: 10.37220/MIT.2023.59.1.001 (in Russian).</li>
+     <li>Jensen K., Larsen M., Nielsen S. H. et al. Towards an Open Software Platform for Field Robots in Precision Agriculture, Robotics, 2014, no. 3, pp. 207—234. DOI: 10.3390/robotics3020207.</li>
+     <li>Rodriguez F. S., Diego B. C., Rodilla V. M. et al. The complete integration of MissionLab and CARMEN, International Journal of Advanced Robotic Systems, 2017, vol. 14, no. 3. DOI: 10.1177/1729881417703565.</li>
+     <li>Collett T. H. J., MacDonald B. A., Gerkey B. Player 2.0: Toward a Practical Robot Programming Framework, Proceedings of the Australasian conference on robotics and automation (ACRA 2005), 2005.</li>
+     <li>Pan Z., Cao Y., Yang D. et al. Architecture and Design of Unmanned Sailboat Control System with Open Source, Accessibility and Reliability, 2021 IEEE International Conference on Unmanned Systems (ICUS), 2021, pp. 520—526. DOI: 10.1109/ICUS52573.2021.9641340.</li>
+     <li>Bigazzi L., Basso M., Boni E et al. A Multilevel Architecture for Autonomous UAVs, Drones, 2021, vol. 5, no. 55. DOI: 10.3390/drones5030055.</li>
+     <li>Petrishchev E. A. Algorithms for Route Planning and Navigation of Unmanned Aerial Vehicles, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 352—361. DOI: 10.17587/prin.15.352-361 (in Russian).</li>
+     <li>Popov A. S., Usmonov E. M., Sukhachev N. V. Method of navigation of unmanned aerial vehicles based on technical vi­sion system, Transport: nauka, tekhnika, upravleniye, 2022, no. 2, pp. 11—19. DOI: 10.36535/0236-1914-2022-02-2 (in Russian).</li>
+     <li>Ali B., Sadekov R. N., Tsodokova V. V. A review of navigation algorithms for unmanned aerial vehicles based on computer vision systems, Gyroscopy and Navigation, 2022, vol. 13, no. 4, pp. 241—252. DOI: 10.1134/S2075108722040022 (in Russian).</li>
+     <li>Chekanov K. A. Algorithms of runway detection in video images in neural network based UAV landing, Gyroscopy and Navigation, 2025, vol. 33, no. 1, pp. 241—252.</li>
+     <li>Kuznetsov N. V., Rivkin B. S. Neural networks in ship navigation, Gyroscopy and Navigation, 2025, vol. 33, no. 1, pp. 3—35 (in Russian).</li>
+     <li>Kovalenko A. M., Shejnikov A. A. Model of the inertial and optical navigation system of the unmanned aerial vehicle, System analysis and appliied information science, 2020, no. 2, pp. 17—25. DOI: 10.21122/2309-4923-2020-2-17-25 (in Russian).</li>
+     <li>Epikhin A. I., Heckert E. V., Modina M. A. Analysis of the safety of unmanned vessels based on the structure of the Bayes networkbased risk model, Marine intellectual technologies, 2021, no. 2-4 (52), pp. 38—46. DOI: 10.37220/MIT.2021.52.2.067 (in Russian).</li>
+     <li>Bratic K., Pavic I., Vuksa S., Stazic L. Review of Autonomous and Remotely Controlled Ships in Maritime Sector, Transactions on Maritime Science, 2019, vol. 8, no. 5, pp. 253—265. DOI: 10.7225/toms.v08.n02.011.</li>
+     <li>Pokusaev O. N., Kupriyanovsky V. P., Katzin D. V., Namiot D. V. On ontology and security of autonomous (driverless) cars, International Journal of Open Information Technologies, 2019, vol. 7, no. 2, pp. 81—93 (in Russian).</li>
+     <li>Blagoveshchenskaya M. M., Ngongang R. D., Blagoveshchenskiy I. G. Structure of project XML format, Informatizatsiya i avtomatizatsiya v pishchevoi promyshlennosti: Sbornik nauchnykh dokladov Vserossiiskoi nauchno-tekhnicheskoi konferentsii, Moscow, 18.05.2022, Kursk, Universitetskaya kniga, 2022, pp. 109—115.</li>
+     <li>Shutov K. S., Grinyak V. M., Artemyev A. V. Hardware-software prototype of an unmanned vehicle combining autonomous and controlled modes of operation, The Territory of New Opportunities, The Herald of Vladivostok State University, 2024, vol. 16, no. 2 (70), pp. 135— 150. DOI: 10.24866/VVSU/2949-1258/2024-2/135-150 (in Russian).</li>
+     <li>Grinyak V. M., Shutov K. S., Devyatisilnyi A. S., Artemyev A. V. Autonomous vehicle motion control along a program trajectory based on machine learning, Neurocomputers, 2025, vol. 27, no. 1, pp. 66—76. DOI: 10.18127/J19998554-202501-06 (in Russian).</li>
+     <li>Peldszus S., Brugali D., Struber D. et al. Software Reconfiguration in Robotics, Empirical Software Engineering, 2025, vol. 30, no. 94. DOI: 10.1007/s10664-024-10596-9.</li>
+     <li>Canelas P., Schmerl B., Fonseca A., Timperley C. S. Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches, ISSTA 2024: Proceedings of the 33rd ACM SIG-SOFT International Symposium on Software Testing and Analysis, 2024, pp. 1161—1173. DOI: 10.1145/3650212.3680350.</li>
+     <li>Kovalev M. A., Ovakimyan D. N. Bespilotnye letatel'nye ap-paraty vertikal'nogo vzleta: sborka, nastroika i programmirovanie: uch. posobie, Samara, Izd-vo Samarskogo universiteta, 2023, 96 p. (in Russian).</li>
+     <li>Ayaida M., Messai N., Valentin F., Marcheras D. Talk-RoBots: A Middleware for Robotic Systems in Industry 4.0, Future Internet, 2022, vol. 14, no. 109. DOI: 10.3390/fi14040109.</li>
+     <li>Nosarau I. N., Savchits A. G., Tatur M. M., Pertsau D. Yu. Open architecture of the control system of a mobile robotic platform: from ontology to technical solution, Tsi-frovizatsiya sel'skogo khozyaistva: materialy 4-i Mezhdunar. nauch. konf. po tsifrovizatsii sel'skogo khozyaistva i organicheskomu proizvodstvu, Minsk, 5—8 June 2024, Minsk, Belaruskaya navuka, 2024, pp. 110—123 (in Russian).</li>
+ - doi: 16.558-569
+   udk: '004.45'
+   edn: QAOXMZ
+   item_authors: Mordan V. O., Mutilin V. S.
+   item_name: Evaluating Key Elements of Error Traces in Static Software Verification
+   item_authors_address: |
+     <b>V. O. Mordan</b>, Research Associate, mordan@ispras.ru,
+     Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation,
+     <b>V. S. Mutilin</b>, Leading Researcher, mutilin@ispras.ru,
+     Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation;
+     Moscow Institute of Physics and Technology (State University), Dolgoprudny, Moscow Region, 141701, Russian Federation
+   item_corr_author: 'Vitalii O. Mordan, Research Associate, Ph.D. (Physics and Mathematics), Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation E-mail: mordan@ispras.ru'
+   item_rec_on: May 29, 2025
+   item_acc_on: July 08, 2025
+   item_annot: |
+     <p>Software verification is a resource-intensive process that combines automatic program analysis with manual results analysis. While recent advancements in verification techniques and cloud-based infrastructures have significantly accelerated the automatic phase, manual analysis remains a critical bottleneck — particularly for large-scale software systems — due to the need for specialized developer expertise. Verification results typically include warnings about potential bugs, which must either be corrected or classified as false positives.
+     In this work, we address this challenge by introducing a formal notion of thoroughness for error traces in the context of software verification. We define thoroughness as a measure of how comprehensively an error trace captures essential elements necessary for understanding and validating a reported issue. To evaluate this concept in practice, we apply it to the verification results produced by tools participating in the Software Verification Competition (SV-COMP). Our analysis demonstrates that the proposed metric is not only feasible but also informative in real-world verification scenarios.
+     Furthermore, we argue that thoroughness can serve as a meaningful metric for comparing verification tools, identifying strengths and weaknesses in how they represent potential errors. It also aids in improving automated validation processes. In addition, our evaluation shows how the metric can be used to determine which specific elements must be present in an error trace to support effective visualization. By identifying these key elements, we aim to facilitate more efficient manual analysis and promote the development of more user-friendly verification tools.</p>
+   item_keywords: software verification, thoroughness, verification results, validation, error trace
+   item_pages: 558—569
+   item_citation: 'Mordan V. O., Mutilin V. S. Evaluating Key Elements of Error Traces in Static Software Verification, Programmnaya Ingeneria, 2025, vol. 16, no. 11, pp. 558—569. DOI: 10.17587/prin.16.558-569. (in Russian).'
+   item_references: |
+     <li>Mordan V., Novikov E. Minimizing the Number of Static Verifier Traces to Reduce Time for Finding Bugs in Linux Kernel Modules, SYRCoSE'2014, 2014. DOI: 10.15514/SYRCOSE-2014-8-5.</li>
+     <li>Beyer D. Software Verification: 10th Comparative Evaluation (SV-COMP 2021), Proc. TACAS 2021, 2021, vol. 2, pp. 401—422. DOI: 10.1007/978-3-030-72013-1_24.</li>
+     <li>Beyer D. Progress on Software Verification: SV-COMP 2022, Proc. TACAS 2022, 2022, vol. 2, pp. 375—402. DOI: 10.1007/978-3-030-99527-0_20.</li>
+     <li>Beyer D. Competition on Software Verification and Witness Validation: SV-COMP 2023, Proc. TACAS 2023, 2023, vol. 2, pp. 495—522. DOI: 10.1007/978-3-031-30820-8_29.</li>
+     <li>Novikov E., Zakharov I. Verification of Operating System Monolithic Kernels Without Extensions, Leveraging Applications of Formal Methods, Verification and Validation. ISoLA 2018, 2018, vol. IV, pp. 230—248. DOI: 10.1007/978-3-030-03427-6_19.</li>
+     <li>Beyer D., Dangl M., Dietsch D. et al. Verification witnesses, Proc. ACM 2022, 2022, vol. 31, no. 4, article 57. DOI: 10.1145/3477579.</li>
+     <li>Beyer D., Dangl M., Dietsch D., Heizmann M. Correctness witnesses: exchanging verification results between verifiers, Proc. 24th ACM SIGSOFT Int. Symp. Foundations of Software Engineering, 2016, pp. 326—337. DOI: 10.1145/2950290.2950351.</li>
+     <li>Beyer D., Dangl M., Dietsch D. et al. Witness validation and stepwise testification across software verifiers, Proc. 10th Joint Meeting on Foundations of Software Engineering, 2015, pp. 721—733. DOI: 10.1145/2786805.2786867.</li>
+     <li>Beyer D., Keremoglu M. E. CPAchecker: A Tool for Configurable Software Verification, Proc. Computer Aided Verification, Berlin, Springer, 2011, pp. 184—190. DOI: 10.1007/978-3-642-22110-1_16.</li>
+     <li>Heizmann M., Christ J., Dietsch D. et al. Ultimate Automizer with SMTInterpol (Competition Contribution), Proc. TACAS 2013, 2013, pp. 641—643. DOI: 10.1007/978-3-642-36742-7_53.</li>
+     <li>Khoroshilov A., Mutilin V., Novikov E. et al. Towards an Open Framework for C Verification Tools Benchmarking, Perspectives of Systems Informatics, Berlin, Springer, 2012, pp. 179—192. DOI: 10.1007/978-3-642-29709-0_17.</li>
+     <li>Beyer D. Verification Witnesses from Verification Tools (SV-COMP 2023), Zenodo, 2023. DOI: 10.5281/zenodo.7627791.</li>
+     <li>Mordan V. Witness Structure and Thoroughness Analysis for SV-COMP'2023, Zenodo, 2023. DOI: 10.5281/zenodo.15808896 (in Russian).</li>
+     <li>Muller P., West M., MacEachern S. Bayesian Models for Non-linear Autoregressions, Journal of Time Series Analysis, 1997, vol. 18, no. 6, pp. 593—614. DOI: 10.1111/1467-9892.00070.</li>
+     <li>Aljaafari F., Shmarov F., Manino E. et al. EBF 4.2: Black-Box Cooperative Verification for Concurrent Programs (Competi­tion Contribution), Proc. TACAS 2023, 2023, vol. 2, pp. 541—546. DOI: 10.1007/978-3-031-30820-8_33.</li>
+     <li>Leeson W., Dwyer M. Graves-CPA: A Graph-Attention Verifier Selector (Competition Contribution), Proc. TACAS 2022, 2022, vol. 2, pp. 440—445. DOI: 10.1007/978-3-030-99527-0_28.</li>
+     <li>Richter C., Wehrheim H. PeSCo: Predicting Sequential Combinations of Verifiers (Competition Contribution), Proc. TACAS 2019, 2019, vol. 3, pp. 229—233. DOI: 10.1007/978-3-030-17502-3_19.</li>
+     <li>Scott R., Dockins R., Ravitch T., Tomb A. Crux: Symbolic execution meets SMT-based verification (Competition Contribution), Zenodo, 2022. DOI: 10.5281/zenodo.6147218.</li>
+     <li>Kettl M., Lemberger T. The Static Analyzer Infer in SV-COMP (Competition Contribution), Proc. TACAS 2022, 2022, vol. 2, pp. 451—456. DOI: 10.1007/978-3-030-99527-0_30.</li>
+     <li>Kroning D., Tautschnig M. CBMC: C Bounded Model Checker (Competition Contribution), Proc. TACAS 2014, 2014, pp. 389—391. DOI: 10.1007/978-3-642-54862-8_26.</li>
+     <li>Ayaziova P., Strejcek J. Symbiotic-Witch 2: More Efficient Algorithm and Witness Refutation (Competition Contribution), Proc. TACAS 2023, 2023, vol. 2, pp. 523—528. DOI: 10.1007/978-3-031-30820-8_30.</li>
+     <li>Monat R., Ouadjaout A., Mine A. Mopsa-C: Modular Domains and Relational Abstract Interpretation for C Programs (Competition Contribution), Proc. TACAS 2023, 2023, vol. 2, pp. 565—570. DOI: 10.1007/978-3-031-30820-8_37.</li>
+ - doi: 16.570-582
+   udk: '004.41'
+   edn: AZVDTH
+   item_authors: Shershnev R. V., Teplyakova A. R.
+   item_name: Application of the TOPSIS Group Fuzzy Multicriteria Analysis Method for Selecting a Graphical User Interface Framework
+   item_authors_address: |
+     <b>R. V. Shershnev</b>, Senior Lecturer, rvshershnev@yandex.ru,
+     <b>A. R. Teplyakova</b>, Postgraduate Student, Senior Lecturer, anastasija-t23@mail.ru,
+     Obninsk Institute for Nuclear Power Engineering of the National Research Nuclear University "MEPhI", Obninsk, 249040, Russian Federation
+   item_corr_author: 'Roman V. Shershnev, Senior Lecturer, Obninsk Institute for Nuclear Power Engineering of the National Research Nuclear University "MEPhI", Obninsk, 249040, Russian Federation, E-mail: rvshershnev@yandex.ru'
+   item_rec_on: May 13, 2025
+   item_acc_on: July 08, 2025
+   item_annot: |
+     <p>One of the stages of software development is architecture design. Software architecture should be easily adaptable to requirements that may change over time. Over the years of research, various approaches have been created to simplify the architecture design process. This paper describes the application of the TOPSIS group fuzzy decision analysis method taking into account consensus in the development of the program for viewing DICOM files, which are widely used to store and transmit medical research data. The method is used to rank software frameworks for implementing a graphical user interface.
+     From the generated set of acceptable alternatives, the frameworks Avalonia UI, Eto, Uno Platform, .NET Multi-platform App UI were selected for analysis. During the brainstorming process, the involved experts formed the following criteria for evaluating the selected frameworks: platform support, performance, community and support, custom component libraries, flexibility. The Avalonia UI framework was chosen as the best alternative with a score of 0.768 and a consensus of 0.06.
+     The practical significance of the work lies in demonstrating a way to solve an important problem that arises at one of the stages of software development. By using the TOPSIS group fuzzy decision analysis method, a number of advantages are achieved, including taking into account uncertainty, taking into account several criteria, integrating different opinions, and distributing responsibility. It is also worth noting the disadvantages, which include the need to involve a specialist competent in conducting the decision analysis process and processing its results, as well as additional time costs.</p>
+   item_keywords: group decision analysis, MCDA, fuzzy number, group fuzzy TOPSIS, software architecture, DICOM, DICOM viewer, medical images
+   item_pages: 570—582
+   item_citation: 'Shershnev R. V., Teplyakova A. R. Application of the TOPSIS Group Fuzzy Multicriteria Analysis Method for Selecting a Graphical User Interface Framework, Programmnaya Ingeneria, 2025, vol. 16, no. 11, pp. 570—582. DOI: 10.17587/prin.16.570-582. (in Russian).'
+   item_references: |
+     <li>GOST R 57100-2016/ISO/IEC/IEEE 42010:2011. Systems and software engineering. Architecture description. Introduction date 01.09.2017 (in Russian).</li>
+     <li>Richards M., Ford N. Fundamentals of Software Architecture: An Engineering Approach, Sebastopol, O'Reilly Media, Inc, 2020, 448 p.</li>
+     <li>Ford N., Richards M., Sadalage P., Dehghani Z. Software Architecture: The Hard Parts: Modern Tradeoff Analysis, Sebastopol, O'Reilly Media, Inc, 2022, 480 p.</li>
+     <li>Tang A., Razavian M., Paech B., Hesse T-M. Human Aspects in Software Architecture Decision Making — A Literature Re­view, IEEE ICSA, 2017, pp. 307—116. DOI: 10.1109/ICSA.2017.15.</li>
+     <li>Pandey V., Komal K., Dincer H. A review on TOPSIS method and its extensions for different applications with recent development, Soft Computing, 2023, vol. 27, no. 23, pp. 18011—18039. DOI: 10.1007/s00500-023-09011-0.</li>
+     <li>Palczewski K., Salabun W. The fuzzy TOPSIS applications in the last decade, Procedia Computer Science, 2019, vol. 159, pp. 2294—2303. DOI: 10.1016/j.procs.2019.09.404.</li>
+     <li>Rajak M., Shaw K. Evaluation and selection of mobile health (mHealth) applications using AHP and fuzzy TOPSIS, Technology in Society, 2019, vol. 59, article 101186. DOI: 10.1016/j. techsoc.2019.101186.</li>
+     <li>Afrin A., Sadiq M. An integrated approach for the selection of software requirements using fuzzy AHP and fuzzy TOP-SIS method, ICICICT, 2017, pp. 1094—1100. DOI: 10.1109/ICICICT1.2017.8342722.</li>
+     <li>Kumar R., Khan A., Abushark Y. et al. An Integrated Approach of Fuzzy Logic, AHP and TOPSIS for Estimating Usable-Security of Web Applications, IEEE Access, 2020, vol. 8, pp. 50944—50957. DOI: 10.1109/ACCESS.2020.2970245.</li>
+     <li>Abushark Y., Khan A., Alsolami F. et al. Usability Evaluation Through Fuzzy AHP-TOPSIS Approach: Security Requirement Perspective, CMC, 2021, vol. 68, no. 1, pp. 1203—1218. DOI: 10.32604/cmc.2021.016610.</li>
+     <li>Mahmudova S. Application of the TOPSIS method to improve software efficiency and to optimize its management, Soft Computing, 2020, vol. 24, no. 1, pp. 697—708. DOI: 10.1007/s00500-019-04549-4.</li>
+     <li>Salimov V. Selection of software on base of fuzzy topsis method, World Science, 2022, no. 3 (75), pp. 1—5. DOI: 10.31435/rsglobal_ws/30042022/7799.</li>
+     <li>Vysochan O., Vysochan O., Yasinska A., Hyk V. Selection of Accounting Software for Small and Medium Enterprises Using the Fuzzy Topsis Method, TEM Journal, 2021, vol. 10, no. 3, pp. 1348—1356. DOI: 10.18421/TEM103-43.</li>
+     <li>Mercy A., Agbele K. Selection of Educational Software Tools based on AHP and TOPSIS-Analytic Hierarchy Process (AHP), Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS), School Management Software (SMS), Multicriteria Decision Making (MCDM), IJETR, 2022, vol. 11, no. 6, pp. 648—651.</li>
+     <li>Zare A., Feylizadeh M., Mahmoudi D. et al. Suitable computerized maintenance management system selection using grey group TOPSIS and fuzzy group VIKOR: A case study, Decision Science Letters, 2018, vol. 7, no. 4, pp. 341—358. DOI: 10.5267/j.dsl.2018.3.002.</li>
+     <li>Cabrerizo F., Perez I., Chiclana F., Enrique H.-V. Group Decision Making: Consensus Approaches Based on Soft Consensus Measures, Fuzzy Sets, Rough Sets. Multisets and Clustering, Springer, Cham, 2017, pp. 307—321. DOI: 10.1007/978-3-319-47557-8_18.</li>
+     <li>Ding R.-X., Palomares I., Wang X. et al. Large-scale decision-making: characterization, taxonomy, challenges and future directions from an artificial intelligence and applications perspective, Inf. Fusion, 2020, vol. 59, pp. 84—102. DOI: 10.1016/j. inffus.2020.01.006.</li>
+     <li>Tran T., Felfernig A., Le V. An overview of consensus models for group decision-making and group recommender systems, User Model User-Adap Inter, 2024, vol. 34, no. 3, pp. 489-547. DOI: 10.1007/s11257-023-09380-z.</li>
+     <li>Shershnev R. V., Teplyakova A. R. Program for visualization and analysis of DICOM medical files, 2024. Pat. RF, № 2024617422 (in Russian).</li>
+     <li>Bustince H., Barrenechea E., Pagola M. et al. A historical account of types of fuzzy sets and their relationships, IEEE Transactions on Fuzzy Systems, 2016, vol. 24, no. 1, pp. 179—194. DOI: 10.1109/TFUZZ.2015.2451692.</li>
+     <li>Wang X., Ruan D., Kerre E. E. Mathematics of Fuzziness — Basic Issues, Berlin, Springer, 2009, 219 p.</li>
+     <li>Yatsalo B., Korobov A., Oztaysi B. et al. A general approach to Fuzzy TOPSIS based on the concept of Fuzzy Multicriteria Acceptability Analysis, Journal of Intelligent and Fuzzy Systems, 2020, vol. 38, no. 1, pp. 979—995. DOI: 10.3233/JIFS-179463.</li>
+     <li>Yatsalo B., Radaev A., Martinez L. From MCDA to fuzzy MCDA: Presumption of model adequacy or is every fuzzification of an mCDA method justified?, Information Sciences, 2022, vol. 587, pp. 371—392. DOI: 10.1016/j.ins.2021.12.051.</li>
+     <li>Shershnev R. V., Radaev A. V., Korobov A. V., Yatsalo B. I. A group multicriteria decision analysis module based on fuzzy extension of TOPSIS method, Software & Systems, 2022, no. 2, pp. 160— 170. DOI: 10.15827/0236-235X.138.160-170 (in Russian).</li>
+     <li>Aceto G., Persico V., Pescape A. Industry 4.0 and Health: Internet of Things, Big Data, and Cloud Computing for Healthcare 4.0, Journal of Industrial Information Integration, 2020, vol. 18, no. 1, arctilce 100129. DOI: 10.1016/j.jii.2020.100129.</li>
+     <li>Masood A., Naseem U., Rashid J. et al. Review on enhancing clinical decision support system using machine learning, CAAI Transactions on Intelligence Technology, 2024. DOI: 10.1049/cit2.12286.</li>
+     <li>van Leeuwen K. G., Schalekamp S., Rutten M. J. C. M. et al. Artificial intelligence in radiology: 100 commercially available products and their scientific evidence, Eur Radiol, 2021, vol. 31, no. 6, pp. 3797—3804. DOI: 10.1007/s00330-021-07892-z.</li>
+     <li>Wadali J. S., Sood S. P., Kaushish R. et al. Evaluation of Free, Open-source, Web-based DICOM Viewers for the Indian National Telemedicine Service (eSanjeevani), J Digit Imaging, 2020, vol. 33, no. 6, pp. 1499—1513. DOI: 10.1007/s10278-020-00368-4.</li>
+     <li>Ruiz M., Julia A., Boada I. Starviewer and its comparison with other open-source DICOM viewers using a novel hierarchical evaluation framework, Int J Med Inform, 2020, vol. 137, no. 3, article 104098. DOI: 10.1016/j.ijmedinf.2020.104098.</li>
+     <li>Tomczak K., Czerwinska P., Wiznerowicz M. The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge, Contemp Oncol (Pozn), 2015, vol. 19, no. 1A, pp. A68— A77. DOI: 10.5114/wo.2014.47136.</li>
+     <li>Teplyakova A. R., Shershnev R. V. Program for training models of muscle tissue segmentation on computed tomography images, 2024, Pat. RF, no. 2024612322 (in Russian).</li>
+     <li>Takahashi N., Sugimoto M., Psutka S. P. et al. Validation study of a new semi-automated software program for CT body composition analysis, Abdominal Radiology, 2017, vol. 42, no. 9, pp. 2369—2375. DOI: 10.1007/s00261-017-1123-6.</li>
+ - doi: 16.583-593
+   udk: '004.912'
+   edn: WFVSOW
+   item_authors: Skvortsov A. A., Anureva M. S., Solodovnikov A. N.
+   item_name: Intelligent System for Text Classification under Linguistic Uncertainty
+   item_authors_address: |
+     <b>A. A. Skvortsov</b>, Associate Professor of the Department of Mathematical Modeling and Information Technologies, skvor_88@mail.ru,
+     <b>M. S. Anureva</b>, Associate Professor of the Department of Mathematical Modeling and Information Technologies, anuryeva@mail.ru,
+     <b>A. N. Solodovnikov</b>, Senior Specialist, IT Center, bearbearovich@gmail.com, Derzhavin Tambov State University, Tambov, 392000, Russian Federation
+   item_corr_author: 'Alexander A. Skvortsov, Candidate of Pedagogical Sciences, Associate Professor of the Department of Mathematical Modeling and Information Technologies, Derzhavin Tambov State University, Tambov, 392000, Russian Federation, E-mail: skvor_88@mail.ru'
+   item_rec_on: May 06, 2025
+   item_acc_on: June 17, 2025
+   item_annot: |
+     <p> The article presents the development of an intelligent system for classifying user-generated texts in social networks under conditions of linguistic uncertainty. It addresses the growing need for automated identification of professional interests among social media users, which is especially relevant for recruitment, education, and professional orientation. Traditional methods for identifying target audiences are time-consuming, costly, and inefficient when dealing with unstructured data. The proposed system utilizes and compares modern text vectorization methods — TF-IDF, FastText, and BERT — to improve classification accuracy.
+     The system architecture includes modules for collecting user data from VKontakte via API, preprocessing text (normalization, lemmatization, noise reduction), and thematic classification using a predefined set of IT-related terms. The classification decision is based on the scalar product between text vectors and reference vectors of key terms. The system also supports an ensemble decision mechanism combining multiple models to increase reliability.
+     The study provides a comparative analysis of the effectiveness of the selected vectorization methods in binary classification tasks (IT-related or not) using real user data. Experiments demonstrate the superiority of BERT in terms of accuracy, followed by FastText. TF-IDF showed lower sensitivity to thematic content in short and informal mes­sages. A web-based interface was developed to automate user classification. It allows the input of a VK community ID,
+     retrieves and analyzes user data, and generates reports on IT interest distribution. The system can be applied in career guidance, educational analytics, and HR processes to identify suitable candidates based on their digital footprint.</p>
+   item_keywords: text vectorization, intelligent classification, natural language processing, linguistic uncertainty, social networks
+   item_pages: 583—593
+   item_citation: 'Skvortsov A. A., Anureva M. S., Solodovnikov A. N. Intelligent System for Text Classification under Linguistic Uncertainty, Programmnaya Ingeneria, 2025, vol. 16, no. 11. pp. 583—593. DOI: 10.17587/ prin.16.583-593 (in Russian).'
+   item_references: |
+     <li>Abubakar H. D., Umar M., Bakale M. A. Sentiment classification: Review of text vectorization methods: Bag of Words, TF-IDF, Word2Vec and Doc2Vec, Sule Lamido Univ. J. of Science & Technology, 2022, vol. 4, no. 1, pp. 27—33. DOI: 10.56471/slujst.v4i.266.</li>
+     <li>Rani D., Kumar R., Chauhan N. Study and comparison of vectorization techniques used in text classification, 13th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kharagpur, India, 2022, pp. 1—6. DOI: 10.1109/ICCCNT54827.2022.9984608.</li>
+     <li>Wendland A., Zenere M., Niemann J. Impact of stemming and comparing TF-IDF and Count Vectorization, EuroSPI 2021. Comm. in Computer and Info Science, 2021, vol. 1442, pp. 289—300. DOI: 10.1007/978-3-030-85521-5_19.</li>
+     <li>Khotin D. Yu. Comparative analysis of processing methods and vectorization of text for classification problem fake text news, Science Bulletin, 2024, no. 6 (75), pp. 1577—1583 (in Russian).</li>
+     <li>Chelyshev E. A., Otsokov Sh.A., Raskatova M. V., Shchegolev P. Comparing classification methods for news texts in russian using machine learning algorithms, Proceedings in Cybernetics, 2022, no. 1 (45), pp. 63—71. DOI: 10.34822/1999-7604-2022-163-71 (in Russian).</li>
+     <li>Chizhik A. V. Comparison of text vectorization models for the sentiment analysis of short messages from social media, Computer Linguistics and Computing Ontologies, 2024, no. 7, pp. 81—89. DOI: 10.17586/2541-9781-2024-7-81—89 (in Russian).</li>
+     <li>Tumbinskaya M. V., Galiev R. A. Neural network-based approach for identifying fake news, Software & Systems, 2023, vol. 36, no. 4, pp. 590—599. DOI: 10.15827/0236-235X.142.590-599 (in Russian).</li>
+     <li>Glazkova A. V. Intelligent system for automatic identification of text addressee category, Software & Systems, 2016, vol. 29, no. 3, pp. 85—89. DOI: 10.15827/0236-235X.115.085-089 (in Russian).</li>
+     <li>Gruzdeva A. S., Yuryev R. N., Bessmertny I. A. Application of the text wave model to the sentiment analysis problem, Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2022, vol. 22, no. 6, pp. 1159—1165 DOI: 10.17586/2226­1494-2022-22-6-1159-1165 (in Russian).</li>
+     <li>Hu Y., Khan L. Uncertainty-aware reliable text classification, Proc. KDD 2021, 2021, pp. 628—637. DOI: 10.1145/3447548.3467382.</li>
+     <li>Zhang D., Sensoy M., Makrehchi M. et al. Uncertainty quantification for text classification, Proc. SIGIR 2023, 2023, pp. 3426—3429. DOI: 10.1145/3539618.3594243.</li>
+     <li>Wu Z., Wang Y., Shen L., Hu F. Leveraging uncertainty for depth-aware hierarchical text classification', Computers, Materials & Continua, 2024, vol. 80, no. 3, pp. 4567—4581. DOI: 10.32604/cmc.2024.054581.</li>
+     <li>He J., Zhang X., Lei S., Chen Z. Towards more accurate uncertainty estimation in text classification, Proc. EMNLP 2020, 2020, pp. 8362—8372. DOI: 10.18653/v1/2020.emnlp-main.671.</li>
+     <li>Zhaksybaev D. O., Bakiev M. N. Algorithms for the classification of text documents, taking into account proximity in the attribute space, Modeling of Systems and Processes, 2022, vol. 15, no. 1, pp. 36—43. DOI: 10.12737/2219-0767-2022-15-1-36-43 (in Russian).</li>
+     <li>Gromov Yu. Yu., Didrikh V. E., Didrikh I. V., Grechushkina A. Yu. Construction of intellectual systems of control of information processes in conditions of uncertainty, Modeling of Sys­tems and Processes, 2018, vol. 11, no. 1, pp. 10—14. DOI: 10.12737/article_5b574c7c299958.66418026 (in Russian).</li>
+     <li>Rogers D., Preece A., Innes M., Spasic I. Real-time text classification of user-generated content on social media: A systematic review, IEEE Trans. on Computational Social Systems, 2022, vol. 9, no. 4, pp. 1154—1166. DOI: 10.1109/TCSS.2021.3120138.</li>
+     <li>Barbieri F., Camacho-Collados J., Neves L., Espinosa-Anke L. TweetEval: Unified benchmark and comparative evalu­ation for tweet classification, Findings of the Association for Computational Linguistics: EMNLP 2020, 2020, pp. 1644—1650.DOI: 10.18653/v1/2020.findings-emnlp.148.</li>
+     <li>Camacho-Collados J., Rezaee K., Riahi T. et al. TweetNLP: Cutting-edge NLP for social media, Proc. EMNLP 2022: System Demonstrations, 2022, pp. 38—49. DOI: 10.18653/v1/2022.emnlp-demos.5.</li>
+     <li>Al Asad M. A., Imran H. M., Alamin M. et al. Sentiment and interest detection in social media using GPT-based large language models', Proc. MLNLP 2023, 2023, pp. 209—214. DOI: 10.1145/3639479.3639523.</li>
+     <li>Fan H., Qin Y. Research on text classification based on improved TF-IDF algorithm, Proc. Int. Conf. Network, Communication, Computer Engineering, 2018, pp. 501—506.</li>
+     <li>Liu C.-Z., Sheng Y.-X., Wei Z.-Q., Yang Y.-Q. Text classification research based on improved TF-ID, Proc. IEEE IRCE 2018, 2018, pp. 218—222. DOI: 10.1109/IRCE.2018.8492945.</li>
+     <li>Saeed A. M. An automated new approach in fast text classification: A case study for Kurdish text, Science Journal of University of Zakho, 2024, vol. 12, no. 3, pp. 330—336. DOI: 10.25271/sjuoz.2024.12.3.1296.</li>
+     <li>Kuyumcu B., Aksakalli C., Delil S. An automated approach in fast text classification (fastText): A Turkish case study without preprocessing', Proc. 3rd Int. Conf. NLP and Info Retrieval, 2019, pp. 1—4. DOI: 10.1145/3342827.3342828.</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pretraining of deep bidirectional transformers for language understanding, Proc. NAACL-HLT2019, 2019, pp. 4171—4186. DOI: 10.48550/arXiv.1810.04805.</li>
+     <li>Pronina E. V., Pronin D. D. Research potential of studying the corpus of works of russian literature using digital linguistic methods and artificial intelligence technologies (Lensky project), Modern Scientist, 2023, no. 3, pp. 92—105 (in Russian).</li>
+     <li>Golikov A. A., Akimov D. A., Danilova Yu. Yu. Optimization of traditional methods for determining the similarity of project names and purchases using large language models, Litera, 2024, no. 4, pp. 109—121. DOI: 10.25136/2409-8698.2024.4.70455 (in Russian).</li>
+ - doi: 16.594-600
+   udk: '004.5'
+   edn: PMHQKW
+   item_authors: Chitalov D. I.
+   item_name: Development of a Module for Modeling based on the mdFoam Solver of the OpenFOAM Package
+   item_authors_address: |
+     <b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru,
+     South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation
+   item_corr_author: 'Dmitry I. Chitalov, Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation, E-mail: cdi9@yandex.ru'
+   item_rec_on: May 22, 2025
+   item_acc_on: July 23, 2025
+   item_annot: |
+     <p>The paper summarizes the results of studies aimed at expanding the functionality of the application with a graphical interface for the OpenFOAM package by developing an additional module that controls the process of modeling continuum mechanics problems based on the standard mdFoam solver. The topic of the study is formulated, its relevance is confirmed, the goal is highlighted, a list of tasks is provided, the uniqueness of the work and the calculated value of the study are described. The solver program used and the features of its application to continuum mechanics problems are described. A brief description and justification of the technology stack are presented, the role of each technology in the project and its advantages are described. A process diagram is displayed that characterizes the algorithm of user interaction with the software at each stage of the numerical experiment. Each component of the presented algorithm and the nuances of its execution by the user are described in detail. The results of using the graphical shell are demonstrated using one of the fundamental problems of continuum mechanics as an example. The author's techniques that distinguish the project from existing analogues are summarized and analyzed. The effectiveness of the proposed technologies in solving the issue of creating open source software has been proven, and the prospects for future research in the problem area under consideration have been assessed.</p>
+   item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python, open source software, mdFoam, PyQt
+   item_pages: 594—600
+   item_citation: 'Chitalov D. I. Development of a Module for Modeling based on the mdFoam Solver of the OpenFOAM Package, Programmnaya Ingeneria, 2025, vol. 16, no. 11, pp. 594—600. DOI: 10.17587/prin.16.594-600. (in Russian).'
+   item_references: |
+     <li>Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Development of a Graphical User Interface for the OpenFOAM Toolbox, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 568—574. DOI: 10.17587/prin.7.568-574 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for working with the plasticStressedFoam solver based on the OpenFOAM package, Computer science systems and tools, 2023, vol. 33, no. 2, pp. 111—123. DOI: 10.14357/08696527230211 (in Russian).</li>
+     <li>Chitalov D. I. On the Development of a Module for the coupledPoroFoam Solver of the OpenFOAM Package, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 93—100. DOI: 10.17587/ prin.14.93-100. (in Russian).</li>
+     <li>Chitalov D. I. Development of simulation controls based on the driftFluxFoam solver of the openfoam platform, Information technology and computing systems, 2024, no. 2, pp. 111—120. DOI: 10.14357/20718632240211 (in Russian).</li>
+     <li>Chentsov P. A. New Way to Construct Console Application Interfaces: Technology TextControlPages, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 539—546. DOI: 10.17587/prin.7.539-546 (in Russian).</li>
+     <li>Pashhenko D. S. Reflection in the Russian Practice of World Trends in Technologies, Tools and Approaches to Software Development, Programmnaya Ingeneria, 2017, vol. 8, no, 8, pp. 339—344. 10.17587/prin.8.339-344 (in Russian).</li>
+     <li>Longshaw S. M., Borg M. K., Ramisetti S. B. et al. mdFoam+: Advanced molecular dynamics in OpenFOAM, Computer Physics Communications, 2018, no. 224, pp. 1—21. DOI: 10.1016/j.cpc.2017.09.029.</li>
+     <li>Aminev B. D., Danilova S. K. Using the openfoam package to study the noise characteristics of a marine underwater object, Izvestiya YUFU. Tekhnicheskie nauki, 2015, no. 1, pp. 41—49 (in Russian).</li>
+     <li>Degtyar V. G., Pegov V. I., Merkulov E. S. Numerical modeling of the evolution of the cavity boundary during torpedo launch, Bulletin of SUSU. Ser.: Math. modeling and programming, 2013, vol. 6, no. 1, pp. С. 5—12 (in Russian).</li>
+     <li>Kiryushina M. A. Numerical experiment in the problem of propagation of small disturbances in a round pipe, Preprints of IPM im. M. V. Keldysh, 2024, no. 48, 21 p. DOI: 10.20948/prepr-2024-48. (in Russian).</li>
