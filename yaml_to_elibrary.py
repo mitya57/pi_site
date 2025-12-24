@@ -12,6 +12,10 @@ def generate_elibrary_xml(yaml_file, output_file):
     with open(yaml_file, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
 
+    yaml_en_file = yaml_file.replace("/rus/", "/eng/")
+    with open(yaml_en_file, "r", encoding="utf-8") as f:
+        data_en = yaml.safe_load(f)
+
     basename = os.path.basename(yaml_file)
     name_part = os.path.splitext(basename)[0]
     volume, month, year = name_part.split("_")
@@ -35,7 +39,7 @@ def generate_elibrary_xml(yaml_file, output_file):
 
     articles_elem = ET.SubElement(issue, "articles")
 
-    for article in data["content"]:
+    for article, article_en in zip(data["content"], data_en["content"]):
         article_elem = ET.SubElement(articles_elem, "article")
         ET.SubElement(article_elem, "artType").text = "RAR"  # Research Article
         ET.SubElement(article_elem, "pages").text = article["item_pages"].replace("—", "-")
@@ -58,16 +62,25 @@ def generate_elibrary_xml(yaml_file, output_file):
 
         art_titles = ET.SubElement(article_elem, "artTitles")
         ET.SubElement(art_titles, "artTitle", lang="ru").text = article["item_name"]
+        ET.SubElement(art_titles, "artTitle", lang="en").text = article_en["item_name"]
 
         abstracts_elem = ET.SubElement(article_elem, "abstracts")
         abstract_elem = ET.SubElement(abstracts_elem, "abstract", lang="ru")
         clean_text = re.sub("<[^>]+>", "", article["item_annot"])
         abstract_elem.text = clean_text.strip()
 
+        abstract_en_elem = ET.SubElement(abstracts_elem, "abstract", lang="en")
+        clean_text = re.sub("<[^>]+>", "", article_en["item_annot"])
+        abstract_en_elem.text = clean_text.strip()
+
         keywords_elem = ET.SubElement(article_elem, "keywords")
         kwd_group = ET.SubElement(keywords_elem, "kwdGroup", lang="ru")
         for kwd in article["item_keywords"].split(","):
             ET.SubElement(kwd_group, "keyword").text = kwd.strip()
+
+        kwd_en_group = ET.SubElement(keywords_elem, "kwdGroup", lang="en")
+        for kwd in article_en["item_keywords"].split(","):
+            ET.SubElement(kwd_en_group, "keyword").text = kwd.strip()
 
         dates_elem = ET.SubElement(article_elem, "dates")
         ET.SubElement(dates_elem, "dateReceived").text = article["item_rec_on"].isoformat()
