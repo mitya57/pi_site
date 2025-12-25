@@ -31,6 +31,9 @@ def parse_name(name: str) -> dict[str, str]:
 def migrate_item(item):
     if "item_authors_v2" in item:
         return
+    if "item_authors_address" not in item:
+        assert item["item_name"].startswith("Указатель")
+        return
 
     raw_addr = item["item_authors_address"]
 
@@ -86,6 +89,9 @@ def migrate_item(item):
 
 
 def add_dates(item, eng_item):
+    if "item_rec_on" not in eng_item:
+        assert item["item_name"].startswith("Указатель")
+        return
     item["item_rec_on"] = datetime.strptime(eng_item["item_rec_on"], "%B %d, %Y").date()
     item["item_acc_on"] = datetime.strptime(eng_item["item_acc_on"], "%B %d, %Y").date()
 

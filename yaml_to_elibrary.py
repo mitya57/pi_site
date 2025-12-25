@@ -40,6 +40,10 @@ def generate_elibrary_xml(yaml_file, output_file):
     articles_elem = ET.SubElement(issue, "articles")
 
     for article, article_en in zip(data["content"], data_en["content"]):
+        if "doi" not in article:
+            assert article["item_name"].startswith("Указатель")
+            continue
+
         article_elem = ET.SubElement(articles_elem, "article")
         ET.SubElement(article_elem, "artType").text = "RAR"  # Research Article
         ET.SubElement(article_elem, "pages").text = article["item_pages"].replace("—", "-")
