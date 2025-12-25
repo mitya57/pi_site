@@ -1,0 +1,172 @@
+---
+title: Issue N12 2025 year
+content:
+ - doi: 16.603-611
+   udk: '004.89'
+   edn: XYYRIF
+   item_authors: Khalyasmaa A. I.
+   item_name: Method of Explaining Machine Learning Models’ Results Using Fuzzy Logical Rules for Decision Support Systems
+   item_authors_address: |
+     <b>A. I. Khalyasmaa</b>, PhD, Head of the Scientific laboratory, a.i.khaliasmaa@urfu.ru,
+     Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation
+   item_corr_author: 'Alexandra I. Khalyasmaa, PhD, Head of the Scientific Laboratory, Ural Federal University named after the first President of Russia B. N. Yeltsin, Ekaterinburg, 620062, Russian Federation, E-mail: a.i.khaliasmaa@urfu.ru'
+   item_rec_on: May 16, 2025
+   item_acc_on: July 09, 2025
+   item_annot: |
+     <p>The implementation of machine learning models in decision support systems requires the improvement of explainable artificial intelligence methods, especially in problems with a high cost of erroneous decisions. In this paper, a new method for generating user-friendly explanations of the results of machine learning models is proposed. The main idea of the method is to transform the vector of local feature contributions obtained using the local a posteriori explanation algorithm into a fuzzy logic rule with linguistic variables. Representing explanations in the form of rules allows increasing the understandability and transparency of the model for users of decision support systems. The method was tested on the problem of technical diagnostics of transformer equipment on real-life datasets.</p>
+   item_keywords: explainable artificial intelligence, human-machine interface, fuzzy logic, intelligent software packages, technical diagnostics, high-voltage equipment
+   item_pages: 603—611
+   item_comment: The research was carried out within the state assignment with the financial support of the Ministry of Science and Higher Education of the Russian Federation (subject No. FEUZ-2025-0005, development of models and methods of explainable artificial intelligence to improve the reliability and safety of the implementation of distributed intelligent systems at power facilities).
+   item_citation: 'Khalyasmaa A. I. Method of Explaining Machine Learning Models’ Results Using Fuzzy Logical Rules for Decision Support Systems, Programmnaya Ingeneria, 2025, vol. 16, no. 12, pp. 603—611. DOI: 10.17587/prin.16.603-611. (in Russian).'
+   item_references: |
+     <li>Khalyasmaa K. I., Stepanova A. I., Zinivieva E. L. et al. Legal aspects of the use of intelligent systems and methods of interpreting, Novosibirsk, Novosibirskiy gosudarstvennyy tekhnicheskiy universitet, 2024, 191 p. (in Russian).</li>
+     <li>Lundberg S. M., Lee S. A unified approach to interpreting model predictions, NIPS’17: Proceedings of the 31st International Conference on Neural Information Processing Systems, 2017, рр. 4768—4777. DOI: 10.48550/arXiv.1705.07874.</li>
+     <li>Ribeiro M. T., Singh S., Guestrin C. “Why Should I Trust You?”: Explaining the Predictions of Any Classifier, The 2016 Conference of the North American Chapter of the Association for Computational Linguistics, 2016, pp. 97—101. DOI: 10.48550/arXiv.1602.04938.</li>
+     <li>Alexander Z., Chau D. H., Saldana C. An Interrogative Survey of Explainable AI in Manufacturing, IEEE Transactions on Industrial Informatics, 2024, vol. 20, no. 5, pp. 7069—7081. DOI: 10.1109/TII.2024.3361489.</li>
+     <li>Sun Y., Ma H. Interpretable analysis of transformer winding vibration characteristics: SHAP and multi-classification feature optimization, International Journal of Electrical Power & Energy Systems, 2025, vol. 166, article 110585. DOI: 10.1016/j.ijepes.2025.110585.</li>
+     <li>Khalyasmaa A. I., Matrenin P. V., Eroshenko S. A. Shapley Additive Explanations for Machine Learning-based Decision Support Systems for Power Transformers’ Diagnostics, 2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), 2025, pp. 423—426. DOI: 10.1109/USBEREIT65494.2025.11054163.</li>
+     <li>Zereen A. N., Das A., Uddin J. Machine Fault Diagnosis Using Audio Sensors Data and Explainable AI Techniques-LIME and SHAP, Computers, Materials & Continua, 2024, vol. 80, no. 3, pp. 3463—3484. DOI: 10.32604/cmc.2024.054886.</li>
+     <li>Brito L. C., Susto G. A., Brito J. N., Duarte M. A. V. An Explainable Artificial Intelligence Approach for Unsupervised Fault Detection and Diagnosis in Rotating Machinery, ArXiv, 2021. DOI: 10.48550/arXiv.2102.11848.</li>
+     <li>Sharma J., Mittal M. L., Soni G. Explainable AI Enhanced Fault Diagnosis of Power Transformer: Unveiling the Black Box, The 14th Annual International Conference on Industrial Engineering and Operations Management, 2024. DOI: 10.46254/AN14.202400032.</li>
+     <li>Brusa E., Cibrario L., Delprete C., Di Maggio L. G. Explainable AI for Machine Fault Diagnosis: Understanding Features’ Contribution in Machine Learning Models for Industrial Condition Monitoring, Applied Sciences, 2023, vol. 13, no. 4, article 2038. DOI: 10.3390/app13042038.</li>
+     <li>Bourokba A., El Hamdi R., Njah M. A. A Shapley based XAI approach for a turbofan RUL estimation, 21st International Multi-Conference on Systems, Signals & Devices (SSD), 2024, pp. 832—837. DOI: 10.1109/SSD61670.2024.10548499.</li>
+     <li>Ghadekar P., Manakshe A., Madhikar S. et al. Predictive Maintenance for Industrial Equipment: Using XGBoost and Local Outlier Factor with Explainable AI for analysis, 14th International Conference on Cloud Computing, Data Science & Engineering (Confluence), 2024, pp. 25—30. DOI: 10.1109/Confluence60223.2024.10463280.</li>
+     <li>Harinarayan R. A. R., Shalinie S. M. XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems, Process Safety and Environmental Protection, 2022, vol. 165, pp. 463—474. DOI: 10.1016/j.psep.2022.07.019.</li>
+     <li>Lundberg S. M., Erion G. G., Lee S. I. Consistent Individualized Feature Attribution for Tree Ensembles, Arxiv. 2018. DOI: 10.48550/arXiv.1802.03888.</li>
+     <li>Khalyasmaa A. I., Matrenin P. V., Eroshenko S. A. Assessment of Power Transformer Technical State Using Explainable Artificial Intelligence, Problemy Regionalnoy Energetiki, 2024, no. 4 (64), pp. 1—9. DOI 10.52254/1857-0070.2024.4-64.01 (in Russian).</li>
+     <li>Cao J., Zhou T., Zhi S. et al. Fuzzy inference system with interpretable fuzzy rules: Advancing explainable artificial intelligence for disease diagnosis—A comprehensive review, Information Sciences, 2024, vol. 662, article 120212. DOI: 10.1016/j.ins.2024.120212.</li>
+     <li>Pickering L., Cohen K., De Baets B. A Narrative Review on the Interpretability of Fuzzy Rule-Based Models from a Modern Interpretable Machine Learning Perspective, International Journal of Fuzzy Systems, 2025. DOI: 10.1007/s40815-025-02022-z.</li>
+     <li>Niskanen V. A. Methodological Aspects on Integrating Fuzzy Systems with Explainable Artificial Intelligence, Advances in Artificial Intelligence-Empowered Decision Support Systems. Learning and Analytics in Intelligent Systems. 2024, pp 415—438. DOI: 10.1007/978-3-031-62316-5_16.</li>
+     <li>Apostolopoulos I. D., Groumpos P. P. Fuzzy Cognitive Maps: Their Role in Explainable Artificial Intelligence, Applied Science, 2023, vol. 13, no. 6, article 3412. DOI: 10.3390/app13063412.</li>
+     <li>Levin V. M., Khalyasmaa A. I., Ahioev D. S., Manusov V. Z. Application of artificial intelligence methods in the tasks of technical diagnostics of electrical equipment of electrical systems, Novosibirsk, Novosibirskiy gosudarstvennyy tekhnicheskiy universitet, 2020, 446 p. (in Russian).</li>
+     <li>Aghaeipoor F., Sabokrou M., Fernandez A. Fuzzy Rule-Based Explainer Systems for Deep Neural Networks: From Local Explainability to Global Understanding, IEEE Transactions on Fuzzy Systems, 2023, vol. 31, no. 9, pp. 3069—3080. DOI: 10.1109/TFUZZ.2023.3243935.</li>
+     <li>Ferdaus M. M., Dam T., Alam S., Pham D.-T. X-Fuzz: An Evolving and Interpretable Neuro-Fuzzy Learner for Data Streams, IEEE Transactions on Artificial Intelligence, 2024, vol. 5,no. 8, pp. 4001—4012. DOI: 10.1109/TAI.2024.3363116.</li>
+     <li>Singh B., Doborjeh M., Doborjeh Z. et al. Constrained neuro fuzzy inference methodology for explainable personalized modelling with applications on gene expression data, Scientific Reports, 2023, vol. 13, article 456. DOI: 10.1038/s41598-022-27132-8.</li>
+     <li>Gokmen O. B., Guven Y., Kumbasar T. FAME: Introducing Fuzzy Additive Models for Explainable AI, ArXiv, 2025. DOI: 10.48550/arXiv.2504.07011.</li>
+     <li>Velasquez A. M. R., Lara J. V. M. Data for: Root cause analysis improved with machine learning for failure analysis in power transformers, Engineering Failure Analysis, 2020, vol. 115, article 104684. DOI: 10.1016/j.engfailanal.2020.104684.</li>
+     <li>Khalyasmaa A. I., Senyuk M. D., Eroshenko S. A. Analysis of the State of High-Voltage Current Transformers Based on Gradient Boosting on Decision Trees, IEEE Transactions on Power Delivery, 2021, vol. 36, no. 4, pp. 2154—2163. DOI: 10.1109/TPWRD.2020.3021702.</li>
+     <li>Khalyasmaa A. I., Ovchinnikov V. K. Methods of interpretation of results of chromatographic analysis of transformer equipment oil, Bulletin of Kazan State Power Engineering University, 2021, vol. 13, no. 1(49), pp. 177—190 (in Russian).</li>
+     <li>Chen T., Guestrin C. XGBoost: A Scalable Tree Boosting System, ArXiv. 2016. DOI: 10.1145/2939672.2939785</li>
+ - doi: 16.612-621
+   udk: '004.85, 519.685.1'
+   edn: HZJSST
+   item_authors: Gutovaya O. V.
+   item_name: Scaled Triple VAW Algorithm for Online Multi-Kernel Linear Regression
+   item_authors_address: |
+     <b>O. V. Gurtovaya</b>, Postgraduate Student, imedashvili@sfedu.ru,
+     Institute of Mathematics, Mechanics and Computer Sciences of the Southern Federal University, Rostov-on-Don, 344090, Russian Federation
+   item_corr_author: 'Olga V. Gurtovaya, Postgraduate Student, Institute of Mathematics, Mechanics and Computer Sciences of the Southern Federal University, Rostov-on-Don, 344090, Russian Federation, E-mail: imedashvili@sfedu.ru'
+   item_rec_on: June 16, 2025
+   item_acc_on: July 23, 2025
+   item_annot: |
+     <p>This article introduces S-VAW2, an innovative three-level Vovk-Azoury-Warmuth (VAW2) algorithm specifically engineered for online regression tasks. Building upon the existing two-level VAW2 algorithm, S-VAW2 significantly enhances its capabilities by integrating multi-kernel learning techniques with advanced data scaling strategies. This combination enables S-VAW2 to exhibit superior performance in dynamic data environments, where algorithms must adapt to continuously changing data streams without the need for full model retraining. Online learning algorithms are crucial for applications that demand real-time data processing and adaptive responses to continuous changes. The primary objective of this work is to conduct a comprehensive comparative analysis between S-VAW2 and AutoGluon-Tabular, a state-of-the-art automated machine learning (AutoML) system. AutoGluon is renowned for its ability to automate the entire machine learning pipeline, including data preprocessing, feature selection, and algo­rithm optimization, while delivering robust predictive performance across various data types, especially tabular data. The study evaluates the performance of S-VAW2 against AutoGluon-Tabular using 13 diverse tabular datasets. The experimental results conclusively demonstrate that S-VAW 2 effectively adapts to data heterogeneity and achieves competitive outcomes when compared to cutting-edge AutoML solutions. This highlights S-VAW2's significant potential for robust and efficient online regression in practical scenarios, offering a valuable alternative to existing methodolo­gies, especially when adapting to data drift.</p>
+   item_keywords: Vovk—Azoury—Warmuth algorithm, online multi-kernel learning, RKHS, random Fourier features, regret bounds, linear regression, online regression, predictions with expert advice
+   item_pages: 612—621
+   item_citation: 'Gutovaya O. V. Scaled Triple VAW Algorithm for Online Multi-Kernel Linear Regression, Programmnaya Ingeneria, 2025, vol. 16, no. 12, pp. 612—621. DOI: 10.17857/prin.612-621. (in Russian).'
+   item_references: |
+     <li>Rokhlin D. B., Gurtovaya O. V. Random feature-based double Vovk-Azoury-Warmuth algorithm for online multi-kernel learning. arXiv preprint, 2025. DOI: 10.48550/arXiv.2503.20087.</li>
+     <li>Rahimi A., Recht B. Uniform approximation of functions with random bases, 2008 46th Annual Allerton Conference on Communication, Control, and Computing, 2008, pp. 555—561. DOI: 10.1109/ALLERTON.2008.4797607.</li>
+     <li>Erickson N., Mueller J., Shirkov A. et al. AutoGluon-Tabular: Robust and accurate AutoML for structured data. arXiv preprint, 2020. DOI: 10.48550/arXiv.2003.06505.</li>
+     <li>Cesa-Bianchi N., Lugosi G. Prediction, Learning, and Games, Cambridge, Cambridge University Press, 2006, 409 p.</li>
+     <li>Vovk V. Online regression competitive with reproducing kernel Hilbert spaces, International Conference on Theory and Applications of Models of Computation, 2006, pp. 452—463.</li>
+     <li>Li L., Jamieson K., DeSalvo G. et al. Hyperband: A novel banditbased approach to hyperparameter optimization, Journal of Machine Learning Research, 2018, vol. 18, article 185. DOI: 10.48550/arXiv.1603.06560.</li>
+     <li>Ke G., Meng Q., Finley T. et al. LightGBM: A Highly Efficient Gradient Boosting Decision Tree, Advances in Neural Information Processing Systems, 2017, vol. 30, рр. 3146—3154.</li>
+     <li>Prokhorenkova L., Gusev G., Vorobev A., Dorogush A. V., Gulin A. CatBoost: Unbiased boosting with categorical features, Advances in Neural Information Processing Systems, 2018, vol. 31. DOI: 10.48550/arXiv.1706.09516.</li>
+     <li>Chen T., Guestrin C. XGBoost: A scalable tree boosting system, Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016, pp. 785—794. DOI: 10.48550/arXiv.1603.02754.</li>
+     <li>Breiman L. Random forests, Machine Learning, 2001, vol. 45, pp. 5—32. DOI: 10.1023/A:1010933404324.</li>
+     <li>Geurts P., Ernst D., Wehenkel L. Extremely randomized trees, Machine Learning, 2006, vol. 63, pp. 3—42. DOI: 10.1007/s10994-006-6226-1.</li>
+     <li>Ghari P. M., Shen Y. Graph-aided online multi-kernel learning, Journal of Machine Learning Research, 2023, vol. 24, article 21. DOI: 10.48550/arXiv.2102.04690.</li>
+ - doi: 16.622-631
+   udk: '004.032.26'
+   edn: JQPKJX
+   item_authors: Anisimova E. S.
+   item_name: A System for Automating Biometric Authentication of a User based on the Results of an Analysis of the Dynamic Characteristics of his Handwritten Signature
+   item_authors_address: '<b>E. S. Anisimova</b>, Associate Professor, ellin_a@mail.ru, Elabuga Institute (branch) of the Kazan (Volga Region) Federal University, Elabuga,423600, Russian Federation'
+   item_corr_author: 'Ellina S. Anisimova, Associate Professor, Elabuga Institute (branch) of the Kazan (Volga Region) Federal University, 423600, Elabuga, Russian Federation, E-mail: ellin_a@mail.ru'
+   item_rec_on: June 14, 2025
+   item_acc_on: August 26, 2025
+   item_annot: |
+     <p>The article presents a hardware and software system developed by the author, which provides a procedure for biometric authentication of its users based on the dynamics of their handwritten signature. The apparatus of fuzzy logic and genetic algorithms is used to implement the procedure. The system analyzes dynamic signature characteristics, including pen coordinates, pressure, azimuth, and tilt angle. A key feature is the application of fuzzy logic to describe extracted features, accommodating the inherent uncertainty and variability in handwritten signatures. Furthermore, a genetic algorithm automates the selection of fuzzy rules and determines the optimal decision threshold, minimizing the Equal Error Rate. This approach adapts the system to individual handwriting characteristics, enhancing authentication accuracy and reliability. Experimental studies were conducted using the publicly available MCYT-Signature-100 data-set, comprising signatures from 100 different users, to evaluate the system's effectiveness. The results demonstrate a low Equal Error Rate of 0.28 %, outperforming several existing signature dynamics authentication systems. This achievement confirms the effectiveness of combining fuzzy logic and genetic algorithms for biometric verification. The system's modular architecture, encompassing signature input and processing, training, and decision-making subsystems, ensures flexibility and scalability, enabling adaptation to various application scenarios. The system is implemented using Scilab for signal processing and fuzzy logic implementation, and C++ for high-performance data acquisition from a graphics tablet via the Wintab API. The developed system holds significant potential for applications requiring robust authentication, such as e-commerce, banking, e-government, and access control. The low Equal Error Rate minimizes the risks of both false rejection of authorized users and unauthorized access by intruders, balancing security and usability. Future research will focus on exploring alternative optimization methods for further Equal Error Rate reduction and assessing system resilience to various attack types to develop effective protective mechanisms.</p>
+   item_keywords: biometric authentication, handwritten signature, genetic algorithm, fuzzy verification, feature extraction, performance evaluation, Scilab, C++, MCYT-Signature-100
+   item_pages: 622—631
+   item_comment: This work was supported by a grant from the Academy of Sciences of the Republic of Tatarstan, awarded to young PhD holders (postdoctoral researchers) for the purpose of defending doctoral dissertations, conducting research, and performing job duties in scientific and educational organizations of the Republic of Tatarstan within the framework of the State Program of the Republic of Tatarstan "Scientific and Technological Development of the Republic of Tatarstan".
+   item_citation: 'Anisimova E. S. A System for Automating Biometric Authentication of a User based on the Results of an Analysis of the Dynamic Characteristics of his Handwritten Signature, Programmnaya Ingeneria, 2025, vol. 16, no. 12, pp. 622—631. DOI: 10.17587/prin.16.622-631. (in Russian).'
+   item_references: |
+     <li>Kodituwakku S. Biometric Authentication: a Review, International Journal of Trend in Research and Development, 2015, vol. 2, no. 4, pp. 113—123.</li>
+     <li>Phadke S. The Importance of a Biometric Authentication System, The SIJ Transactions on Computer Science Engineering & its Applications (CSEA), 2013, vol. 1, no. 4, pp. 128—132. DOI: 10.9756/SIJCSEA/V1I4/0104550402.</li>
+     <li>Okawa M. Online Signature Verification Using Locally Weighted Dynamic Time Warping via Multiple Fusion Strategies, IEEE Access, 2022, vol. 10, pp. 40806—40817. DOI: 10.1109/ACCESS.2022.3167413.</li>
+     <li>Marzuki K., Rubiyah Y., Hamam M. Fusion of Multi-Classifiers for online signature verification using fuzzy Logic Inference, International Journal of Innovative Computing, Information andControl, 2011, vol. 7, no. 5, pp. 2709—2726.</li>
+     <li>Ahmed H., Shukla S., Rai H. Static Handwritten Signature Recognition Using Discrete Random Transform and Combined Projection Based Technique, International Conference on Advanced Computing and Communication Technologies, ACCT, 2014, pp. 37—41. DOI: 10.1109/ACCT.2014.76.</li>
+     <li>Kumari M., Kumar A., Saxena M. Signature recognition using 2D discrete wavelet transforms, International Journal of Innovative Technology and Exploring Engineering (IJITEE), 2020, vol. 9, no. 7, pp. 528—532. DOI: 10.35940/ijitee.F4399.059720.</li>
+     <li>Muhamad S. S., Al-Ani M. S. Signature Recognition Based on Discrete Wavelet Transform, UHD Journal of Science and Technology, 2019, vol. 3, no. 1, pp. 19—29. DOI: 10.21928/uhdjst.v3n1y2019.pp19-29.</li>
+     <li>Faundez-Zanuy M. Signature recognition state-of-the-art, Aerospace and Electronic Systems Magazine, IEEE, 2005, vol. 20, no. 7, pp. 28—32. DOI: 10.1109/MAES.2005.1499249.</li>
+     <li>Tolosana R., Vera-Rodriguez R., Gonzalez C. et al. ICDAR 2021 Competition on On-Line Signature Verification, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2021, pp. 723—737. DOI: 10.1007/978-3-030-86337-1_48.</li>
+     <li>Maiorana E., Martinez-Diaz M., Campisi P. et al. Template protection for HMM-based on-line signature authentication, IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 2008, pp. 1—6. DOI: 10.1109/CVPRW.2008.4563114.</li>
+     <li>Reza A. G., Lim H., Alam M. J. An Efficient Online Signature Verification Scheme Using Dynamic Programming of String Matching, Convergence and Hybrid Information Technology, ICHIT 2011, 2011, vol. 6935, pp. 590—597. DOI: 10.1007/978-3-642-24082-9_72.</li>
+     <li>Kutsman V., Kolesnytskyj O. Dynamic handwritten signature identification using spiking neural network, Informatyka, Automatyka, Pomiary W Gospodarce I Ochronie Srodowiska, 2021, vol. 11, no. 3, pp. 34—39. DOI: 10.35784/iapgos.2718.</li>
+     <li>Gwetu M. V. A Dynamic Time Warping and Deep Neural Network Ensemble for Online Signature Verification, Lecture Notes in Computer Science, 2021, vol. 12629, pp. 141—153. DOI: 10.1007/978-3-030-70866-5_9.</li>
+     <li>Lozhnikov P. S., Sulavko A. E. Generation of a biometrically activated digital signature based on hybrid neural network algorithms, Journal of Physics, 2018, vol. 1050, article 012047. DOI: 10.1088/1742-6596/1050/1/012047.</li>
+     <li>Zadeh L. A. Similarity relations and fuzzy orderings, Information Sciences, 1971, vol. 3, no. 2, pp. 177—200. DOI: 10.1016/s0020-0255(71)80005-1.</li>
+     <li>Hayat A., Kumar A., Bhateja A., Pal S. An Approach for Multimodal Biometric Authentication using Genetic Algorithm, 15th ICCCNT IEEE Conference, 2025. DOI: 10.1109/ICCCNT61001.2024.10725431.</li>
+     <li>Ortega-Garcia J., Fierrez J., Simon D. et al. MCYT baseline corpus: a bimodal biometric database, IEE Proceedings — Vision Image and Signal Processing, 2003, pp. 395—401. DOI: 10.1049/ip-vis:20031078.</li>
+     <li>Nanni L. Experimental comparison of one-class classifiers for on-line signature verification, Neurocomputing, 2006, vol. 69, no. 7—9, pp. 869—873. DOI: 10.1016/j.neucom.2005.06.007.</li>
+     <li>Abualganam O., Albdour L., Adwan O. Multimodal Biometric Fusion Online Handwritten Signature Verification Using Neural Network And Support Vector Machine, International journal of innovative computing, information & control: IJICIC, 2021, vol. 17, no. 5, pp. 1691—1703. DOI: 10.24507/ijicic.17.05.1691.</li>
+     <li>Manjunatha K., Manjunath S., Guru D. S., Somashekara M. T. Online Signature Verification based on Writer Dependent Features and Classifiers, Pattern Recognition Letters, 2016, vol. 80, pp. 129—136. DOI: 10.1016/j.patrec.2016.06.016.</li>
+ - doi: 16.632-645
+   udk: '004.032.26'
+   edn: LXFIUB
+   item_authors: Popov S. E., Potapov V. P., Moskvichev V. V., Chernyakova N. A.
+   item_name: Development of an Information-Reference System for a Knowledge Base on Natural and Technogenic Safety of Siberian Regions
+   item_authors_address: |
+     <b>S. E. Popov</b>, Senior Researcher, popov@ict.nsc.ru,
+     <b>V. P. Potapov</b>, Chief Researcher, vadimptpv@gmail.com,
+     <b>V. V. Moskvichev</b>, Chief Researcher, krasn@ict.nsc.ru,
+     <b>N. A. Chernyakova</b>, Senior Researcher, fortuna@ict.nsc.ru,
+     Federal Research Center for Information and Computational Technologies, Novosibirsk, 630090, Russian Federation
+   item_corr_author: 'Semion E. Popov, Senior Researcher, Federal Research Center for Information and Computational Technologies, Novosibirsk, 630090, Russian Federation, E-mail: popov@ict.nsc.ru'
+   item_rec_on: June 17, 2025
+   item_acc_on: July 15, 2025
+   item_annot: |
+     <p>This article presents a modern approach to developing a question-answering system aimed at supporting decision making in territorial governance and enhancing environmental and industrial safety in Siberian regions. The proposed system leverages large language models (LLMs) enhanced with the Retrieval-Augmented Generation (RAG) framework. The knowledge base integrates heterogeneous data sources, including federal projects documentation, digital monitoring outputs, and geospatial datasets, enabling proactive risk assessment and regulatory compliance solu­tions for governmental and industrial stakeholders. To ensure efficient information retrieval and storage, the system utilizes a PostgreSQL database extended with pgvector for vector similarity searches. The LLM inference pipeline is deployed via the Text Generation Interface (TGI), with a backend built on FastAPI and a React-based frontend interface. Experimental evaluation demonstrates that incorporating re-ranking mechanisms based on token-level query-document matching significantly improves answer relevance and accuracy.
+     The system generates responses in HTML format, allowing structured presentation of information enriched with hyperlinks to relevant figures, tables, and bibliographic references. When available, associated visual elements such as charts, maps, and tabular data are dynamically embedded alongside the generated text. This integration ensures that users can access supporting materials directly within the response interface without switching between different views or documents. Such capabilities enhance the interpretability and traceability of the provided information, particularly for domain experts who rely on contextual details and evidence-based insights.
+     The intuitive graphical user interface further enhances accessibility for non-technical users, offering interactive navigation through complex datasets and analytical summaries. All components of the system have been designed with modularity and scalability in mind, enabling seamless adaptation to other subject domains. As a result, the solution demonstrates strong potential for broader application in public administration, emergency response planning, and risk management contexts beyond the scope of the initial implementation.</p>
+   item_keywords: large language model (LLM), contextual question-answering system, vector database, retrieval-augmented generation (RAG), text generation interface, FastAPI, react
+   item_pages: 632—645
+   item_comment: The research was carried out within the state assignment of Ministry of Science and Higher Education of the Russian Federation for Federal Research Center for Information and Computational Technologies.
+   item_citation: 'Popov S. E., Potapov V. P., Moskvichev V. V., Chernyakova N. A. Development of an Information-Reference System for a Knowledge Base on Natural and Technogenic Safety of Siberian Regions, Programmnaya Ingeneria, 2025, vol. 16, no. 12, pp. 632—645. DOI: 10.17587/prin.16.632-645. (in Russian).'
+   item_references: |
+     <li>Jansen B. J., Rieh S. The Seventeen Theoretical Constructs of Information Searching and Information Retrieval, Journal of the American Society for Information Sciences and Technology, 2010, vol. 61, no. 8, pp. 1517—1534. https://doi.org/10.1002/asi.21358</li>
+     <li>Wang H., Qin Z., Wan T. Text generation based on generative adversarial nets with latent variables, Advances in Knowledge Discovery and Data Mining: 22nd Pacific-Asia Conference, PAKDD 2018, Melbourne, VIC, Australia, June 3-6, 2018, Proceedings, Part II 22. Springer International Publishing, 2018. P. 92—103. DOI: 10.48550/arXiv.1712.00170.</li>
+     <li>Roumeliotis K. I., Tselikas N. D. ChatGPT and Open-AI Models: A Preliminary Review, Future Internet, 2023, vol. 15, no. 6, article 192. DOI: 10.3390/fi15060192.</li>
+     <li>Bezopasnost' Rossii. Pravovye, sotsial'no-ekonomicheskie I nauchno-tekhnicheskie aspekty. Tematicheskiy blok "Regional'nye problemy bezopasnosti" Razdel I. Monitoring, riski i bezopasnost' Sibirskogo federal'nogo okruga / Nauch. ruk. chl.-korr. RAN N. A. Makhutov, pod red. V. V. Moskvicheva. Novosibirsk, Znanie, 2023. 644 p. (in Russian).</li>
+     <li>Bezopasnost' Rossii. Pravovye, sotsial'no-ekonomicheskie I nauchno-tekhnicheskie aspekty. Tematicheskiy blok "Regional'nye problemy bezopasnosti" Razdel II. Territorial'nye riski regionov Sibiri. Kuzbass, Eniseyskaya Sibir', Baykal / Nauch. ruk. chl.-korr. RAN N. A. Makhutov, pod red. V. V. Moskvicheva. Novosibirsk, Znanie, 2023. 624 p. (in Russian).</li>
+     <li>Kukreja S., Kumar T., Bharate V. et al. Vector Databases and Vector Embeddings-Review, 2023 International Workshop on Artificial Intelligence and Image Processing (IWAIIP), Yogyakarta, Indonesia, 2023, pp. 231-236, DOI: 10.1109/IWAIIP58158.2023.10462847.</li>
+     <li>Taipalus T. Vector database management systems: Fundamental concepts, use-cases, and current challenges, Cognitive Systems Research, 2024, vol. 85, pp. 1—8. DOI: 10.1016/j.cog-sys.2024.101216.</li>
+     <li>Satyadhar J. Introduction to Vector Databases for Generative AI: Applications, Performance, Future Projections, and Cost Considerations Best, IARJSET, 2025, vol. 12, no. 2, pp. 79—93. DOI: 10.17148/IARJSET.2025.12210.</li>
+     <li>Asai A. Yu., Xinyan K., Jungo H., Hannaneh H. One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval, 2021, arXiv:2107.11976. DOI: 10.48550/arXiv.2107.11976.</li>
+     <li>Vidivelli S., Ramachandran M., Dharunbalaji A. Efficiency-Driven Custom Chatbot Development: Unleashing Lang-Chain, RAG, and Performance-Optimized LLM Fusion, Computers, Materials and Continua, 2024, vol. 80, no. 2, pp. 2423—2442. DOI: 10.32604/cmc.2024.054360.</li>
+ - doi: 16.646-654
+   udk: '004.422.8'
+   edn: OHICMC
+   item_authors: Orlov D. A., Belyaev P. V.
+   item_name: Implementation of a State Save System in a Game Application Using Unreal Engine
+   item_authors_address: |
+     <b>D. A. Orlov</b>, Student, orlov_dmitriy630@mail.ru,
+     <b>P. V. Belyaev</b>, Associate Professor, belyaev_p@mirea.ru,
+     MIREA — Russian Technological University, 119454, Moscow, Russian Federation
+   item_corr_author: 'Dmitriy A. Orlov, Student, MIREA — Russian Technological University, 119454, Moscow, Russian Federation, E-mail: orlov_dmitriy630@mail.ru'
+   item_rec_on: June 03, 2025
+   item_acc_on: July 08, 2025
+   item_annot: |
+     <p>The article presents a detailed approach to designing and implementing a flexible and extensible system for saving game state for projects developed with Unreal Engine. The aim of the study is to create a universal architecture for saving game state that can be seamlessly integrated into projects of varying genres and complexities, while remaining easy to expand and maintain. The system is built using Unreal Engine's native capabilities, including the C++ programming language and built-in features such as "SaveGame" objects and Subsystems. The presented implementation of the game state save system is based on the "UGamelnstanceSubsystem" class, which provides centralized access to saving and loading operations across all game levels. One of the key innovations of the proposed system lies in its modular structure, which uses actor interfaces to facilitate automatic detection and serialization of relevant game data. This allows developers to include new game objects in the save system with minimal effort, simply by tagging variables with the SaveGame flag and implementing a standard interface, with methods to destroy or respawn actors based on their saved state. The proposed system has been designed to accommodate a wide range of use cases from simple level checkpoints to complex RPG-style world persistence and serves as a solid foundation for future improvements such as cloud save support. The solution aims to improve developer productivity and user experience by ensuring consistent and reliable state restoration across game sessions.</p>
+   item_keywords: state saving, unreal engine, C++, serialization, data storage, data loading, game progress, engine, subsystem, versatility
+   item_pages: 646—654
+   item_citation: 'Orlov D. A., Belyaev P. V. Implementation of a State Save System in a Game Application Using Unreal Engine, Programmnaya Ingeneria, 2025, vol. 16, no. 12, pp. 646—654. DOI: 10.17587/prin.16.646-654 (in Russian).'
+   item_references: |
+     <li>Osintseva D. Yu. Save-Load: How Save and Load Functions Affect Player Experience, Materialy Mezhdunar. molodezhnogo nauchn. foruma "LOMONOSOV-2023" / Eds I. A. Aleshkovskiy, A. V. Andriyanov, E. A. Antipov, E. I. Zimakova, Moscow, MAKS Press, 2023 (in Russian).</li>
+     <li>Aava K. Game Save: Game Save Incorporation in Game Design through a MDA Analysis. School of Game Design, Technology and Learning Processes. Gotland University, School of Game Design, Technology and Learning Processes, 2013, 33 p.</li>
+     <li>Kirikov A. A., Volkov N. V., Abu-Abed F. N., Svarchevskaya T. V. Serializatsiya v Unreal Engine 4, Problemy informatiki v obrazovanii, upravlenii, ekonomike i tekhnike: sb. st. XXI Mezhdunar. nauch.-tekhn. konf., Penza, 10—11 December 2021, Penzenskiy gosudarstvennyy universitet. Penza, Avtonomnaya nekommercheskaya nauchno-obrazovatelnaya organizatsiya "Privolzhskiy Dom znaniy", 2021, pp. 116—123 (in Russian).</li>
+ - link: 16.655-656
+   edn: RAXPUE
+   item_name: Index of Articles Published in the Journal “Software Engineering” in 2025
+   item_pages: 655—656
