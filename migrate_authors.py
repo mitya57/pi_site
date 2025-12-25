@@ -51,7 +51,7 @@ def migrate_item(item):
         affiliations = []
         for ix, m in enumerate(SUP_AFF_RE.finditer(raw_addr), start=1):
             assert int(m.group(1)) == ix
-            affiliations.append(m.group(2))
+            affiliations.append(m.group(2).rstrip(","))
     else:
         authors_v2 = []
         for line in raw_addr.splitlines():
