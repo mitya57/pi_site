@@ -39,6 +39,7 @@ def generate_elibrary_xml(yaml_file, output_file):
 
     articles_elem = ET.SubElement(issue, "articles")
 
+    assert len(data["content"]) == len(data_en["content"])
     for article, article_en in zip(data["content"], data_en["content"]):
         if "doi" not in article:
             assert article["item_name"].startswith("Указатель")
@@ -53,7 +54,19 @@ def generate_elibrary_xml(yaml_file, output_file):
         ET.SubElement(codes_elem, "edn").text = article["edn"]
 
         authors_elem = ET.SubElement(article_elem, "authors")
-        for author in article["item_authors_v2"]:
+
+        authors_ru = article["item_authors_v2"]
+        authors_en = article_en["item_authors_v2"]
+        if len(authors_ru) != len(authors_en):
+            msg = f"Number of authors mismatch: {authors_ru} vs. {authors_en}"
+            raise AssertionError(msg)
+        for author, author_en in zip(authors_ru, authors_en):
+            if author["email"] != author_en["email"]:
+                raise AssertionError(f"Email mismatch: {author} vs. {author_en}")
+            if len(author["affiliations"]) != len(author_en["affiliations"]):
+                msg = f"Number of affiliations mismatch: {author} vs. {author_en}"
+                raise AssertionError(msg)
+
             author_elem = ET.SubElement(authors_elem, "author")
             individ = ET.SubElement(author_elem, "individInfo", lang="ru")
             ET.SubElement(individ, "surname").text = author["last_name"]
@@ -63,6 +76,14 @@ def generate_elibrary_xml(yaml_file, output_file):
             aff_idx = author["affiliations"][0] - 1
             ET.SubElement(individ, "orgName").text = article["item_affiliations"][aff_idx]
             ET.SubElement(individ, "email").text = author["email"]
+
+            individ_en = ET.SubElement(author_elem, "individInfo", lang="en")
+            ET.SubElement(individ_en, "surname").text = author_en["last_name"]
+            ET.SubElement(individ_en, "initials").text = author_en["initials"]
+
+            aff_idx = author_en["affiliations"][0] - 1
+            ET.SubElement(individ_en, "orgName").text = article_en["item_affiliations"][aff_idx]
+            ET.SubElement(individ_en, "email").text = author_en["email"]
 
         art_titles = ET.SubElement(article_elem, "artTitles")
         ET.SubElement(art_titles, "artTitle", lang="ru").text = article["item_name"]
