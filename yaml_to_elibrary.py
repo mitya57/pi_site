@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import sys
 import os
 import re
-from datetime import date, datetime
+from datetime import datetime
 
 
 def generate_elibrary_xml(yaml_file, output_file):
@@ -91,7 +91,7 @@ def generate_elibrary_xml(yaml_file, output_file):
         item_acc_on = datetime.strptime(article_en["item_acc_on"], "%B %d, %Y").date()
         ET.SubElement(dates_elem, "dateReceived").text = item_rec_on.isoformat()
         ET.SubElement(dates_elem, "dateAccepted").text = item_acc_on.isoformat()
-        ET.SubElement(dates_elem, "datePublication").text = date(int(year), int(month), 1).isoformat()
+        ET.SubElement(dates_elem, "datePublication").text = data["date"].isoformat()
 
     tree = ET.ElementTree(journal)
     ET.indent(tree)
