@@ -18,12 +18,12 @@ yaml.indent(mapping=2, sequence=3, offset=1)
 SUP_AUTHOR_RE = re.compile(r"<b>(.*?)</b>(.*</sup>).*, ([^ ]+@[^\s,]+)")
 SUP_RE = re.compile("<sup>(.*?)</sup>")
 SUP_AFF_RE = re.compile(r"\n<sup>(\d+)</sup>\s*(.+)")
+INITIALS_RE = re.compile(r"^([А-Я]\.( [А-Я].)?|[A-Z][a-z]?\.( [A-Z][a-z]?\.)?)$")
 
 
 def parse_name(name: str) -> dict[str, str]:
     initials, last_name = name.rsplit(maxsplit=1)
-    assert len(initials) in (2, 5), f"Cannot parse name: {name}"
-    assert initials.endswith("."), f"Cannot parse name: {name}"
+    assert INITIALS_RE.match(initials), f"Cannot parse name: {name}"
     return {"last_name": last_name, "initials": initials}
 
 
