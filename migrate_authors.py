@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from datetime import datetime
 from os.path import abspath
 import re
 
@@ -88,24 +87,12 @@ def migrate_item(item):
     item.insert(idx + 2, "item_affiliations", affiliations)
 
 
-def add_dates(item, eng_item):
-    if "item_rec_on" not in eng_item:
-        assert item["item_name"].startswith("Указатель")
-        return
-    item["item_rec_on"] = datetime.strptime(eng_item["item_rec_on"], "%B %d, %Y").date()
-    item["item_acc_on"] = datetime.strptime(eng_item["item_acc_on"], "%B %d, %Y").date()
-
-
 def migrate_file(path: str):
     with open(path) as fp:
         data = yaml.load(fp)
 
-    with open(path.replace("/rus/", "/eng/")) as fp:
-        eng_data = yaml.load(fp)
-
-    for item, eng_item in zip(data["content"], eng_data["content"]):
+    for item in data["content"]:
         migrate_item(item)
-        add_dates(item, eng_item)
 
     with open(path, "w") as f:
         yaml.dump(data, f)
