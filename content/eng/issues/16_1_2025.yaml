@@ -159,11 +159,11 @@ content:
    item_authors: Turovsky Ya. A., Borzunov S. V., Krupenin S. S., Mironkin A. P., Tokarev R. A.
    item_name: Implementation of a Feedback System for Myoelectric Prostheses of the Upper Limb
    item_authors_address: |
-     <b>Ya. A. Turovsky<sup>1,2</sup></b>, Associate Professor, Leading Researcher, yaroslav_turovsk@mail.ru,
-     <b>S. V. Borzunov<sup>1</sup></b>, Associate Professor, borzunov@cs.vsu.ru,
-     <b>S. S. Krupenin<sup>1</sup></b>, Postgraduate Student, semyon.krupenin@bk.ru,
-     <b>A. P. Mironkin<sup>1</sup></b>,  Postgraduate Student, artemmironkin17@yandex.ru,
-     <b>R. A. Tokarev<sup>1</sup></b>, Magistrate, tokarev0801@mail.ru
+     <b>Ya. A. Turovsky</b><sup>1,2</sup>, Associate Professor, Leading Researcher, yaroslav_turovsk@mail.ru,
+     <b>S. V. Borzunov</b><sup>1</sup>, Associate Professor, borzunov@cs.vsu.ru,
+     <b>S. S. Krupenin</b><sup>1</sup>, Postgraduate Student, semyon.krupenin@bk.ru,
+     <b>A. P. Mironkin</b><sup>1</sup>, Postgraduate Student, artemmironkin17@yandex.ru,
+     <b>R. A. Tokarev</b><sup>1</sup>, Magistrate, tokarev0801@mail.ru
      <br>
      <sup>1</sup> Voronezh State University, Voronezh, 394018, Russian Federation,
      <br>
@@ -196,9 +196,9 @@ content:
    item_authors_address: |
      <b>N. S. Kolyeva</b>, Associate Professor, nkoleva@mail.ru,
      <b>M. A. Panov</b>, Associate Professor, Head of Chair, panov_ma@usue.ru,
-     <b>V. Е. Kuznetsov</b>, Student, burbenok77@mail.ru,
-     <b>К. D. Yarochkina</b>, Master's Student, katya.klepikova@mail.ru,
-     <b>К. A. Perestenko</b>,  Master's student, kerl.1@ya.ru,
+     <b>V. E. Kuznetsov</b>, Student, burbenok77@mail.ru,
+     <b>K. D. Yarochkina</b>, Master's Student, katya.klepikova@mail.ru,
+     <b>K. A. Perestenko</b>,  Master's student, kerl.1@ya.ru,
      Ural State University of Economics, Yekaterinburg, 620144, Russian Federation
    item_corr_author: 'Natalya S. Kolyeva, Associate Professor, Ural State University of Economics, Yekaterinburg, 620144, Russian Federation E-mail: nkoleva@mail.ru'
    item_rec_on: July 17, 2024

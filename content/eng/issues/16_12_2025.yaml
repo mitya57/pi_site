@@ -81,7 +81,9 @@ content:
    edn: JQPKJX
    item_authors: Anisimova E. S.
    item_name: A System for Automating Biometric Authentication of a User based on the Results of an Analysis of the Dynamic Characteristics of his Handwritten Signature
-   item_authors_address: '<b>E. S. Anisimova</b>, Associate Professor, ellin_a@mail.ru, Elabuga Institute (branch) of the Kazan (Volga Region) Federal University, Elabuga,423600, Russian Federation'
+   item_authors_address: |
+     <b>E. S. Anisimova</b>, Associate Professor, ellin_a@mail.ru,
+     Elabuga Institute (branch) of the Kazan (Volga Region) Federal University, Elabuga,423600, Russian Federation
    item_corr_author: 'Ellina S. Anisimova, Associate Professor, Elabuga Institute (branch) of the Kazan (Volga Region) Federal University, 423600, Elabuga, Russian Federation, E-mail: ellin_a@mail.ru'
    item_rec_on: June 14, 2025
    item_acc_on: August 26, 2025

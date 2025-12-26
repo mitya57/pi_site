@@ -13,7 +13,8 @@ content:
      Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
      <b>A. V. Artemyev</b>, Ph.D. in Engineering Sciences, Associate Professor, artemyev@msun.ru,
      Maritime State University, Vladivostok, 690059, Russian Federation,
-     <b>A. S. Devyatisilnyi</b>, Dr. Sci. of Engineering Sciences, Principal Researcher, devyatis@iacp.dvo.ru, Institute of Automation and Control Processes, Vladivostok, 690041, Russian Federation
+     <b>A. S. Devyatisilnyi</b>, Dr. Sci. of Engineering Sciences, Principal Researcher, devyatis@iacp.dvo.ru,
+     Institute of Automation and Control Processes, Vladivostok, 690041, Russian Federation
    item_corr_author: 'Viktor M. Grinyak, Dr. Sci. of Engineering Sciences, Professor, Vladivostok State University, Vladivostok, 690014, Russian Federation, E-mail: victor.grinyak@gmail.com'
    item_rec_on: May 19, 2025
    item_acc_on: July 08, 2025
@@ -54,11 +55,12 @@ content:
    item_authors: Mordan V. O., Mutilin V. S.
    item_name: Evaluating Key Elements of Error Traces in Static Software Verification
    item_authors_address: |
-     <b>V. O. Mordan</b>, Research Associate, mordan@ispras.ru,
-     Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation,
-     <b>V. S. Mutilin</b>, Leading Researcher, mutilin@ispras.ru,
-     Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation;
-     Moscow Institute of Physics and Technology (State University), Dolgoprudny, Moscow Region, 141701, Russian Federation
+     <b>V. O. Mordan</b><sup>1</sup>, Research Associate, mordan@ispras.ru,
+     <b>V. S. Mutilin</b><sup>1,2</sup>, Leading Researcher, mutilin@ispras.ru,
+     <br>
+     <sup>1</sup> Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation
+     <br>
+     <sup>2</sup> Moscow Institute of Physics and Technology (State University), Dolgoprudny, Moscow Region, 141701, Russian Federation
    item_corr_author: 'Vitalii O. Mordan, Research Associate, Ph.D. (Physics and Mathematics), Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation E-mail: mordan@ispras.ru'
    item_rec_on: May 29, 2025
    item_acc_on: July 08, 2025
@@ -152,7 +154,8 @@ content:
    item_authors_address: |
      <b>A. A. Skvortsov</b>, Associate Professor of the Department of Mathematical Modeling and Information Technologies, skvor_88@mail.ru,
      <b>M. S. Anureva</b>, Associate Professor of the Department of Mathematical Modeling and Information Technologies, anuryeva@mail.ru,
-     <b>A. N. Solodovnikov</b>, Senior Specialist, IT Center, bearbearovich@gmail.com, Derzhavin Tambov State University, Tambov, 392000, Russian Federation
+     <b>A. N. Solodovnikov</b>, Senior Specialist, IT Center, bearbearovich@gmail.com,
+     Derzhavin Tambov State University, Tambov, 392000, Russian Federation
    item_corr_author: 'Alexander A. Skvortsov, Candidate of Pedagogical Sciences, Associate Professor of the Department of Mathematical Modeling and Information Technologies, Derzhavin Tambov State University, Tambov, 392000, Russian Federation, E-mail: skvor_88@mail.ru'
    item_rec_on: May 06, 2025
    item_acc_on: June 17, 2025

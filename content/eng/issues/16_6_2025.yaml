@@ -76,8 +76,8 @@ content:
    item_name: Development of a Test System for MIPI CSI-2 Debugging
    item_authors_address: |
      <b>S. V. Serebryakov</b>, Junior Researcher, serebryakov-sv@niisi.ras.ru,
-     <b>A. М. Giatsintov</b>, Senior Researcher, Head of Department, giatsintov@niisi.ras.ru,
-     <b>K. А. Mamrosenko</b>, Leading Researcher, Head of Center, mamrosenko_k@niisi.ras.ru,
+     <b>A. M. Giatsintov</b>, Senior Researcher, Head of Department, giatsintov@niisi.ras.ru,
+     <b>K. A. Mamrosenko</b>, Leading Researcher, Head of Center, mamrosenko_k@niisi.ras.ru,
      <b>A. G. Vorsin</b>, Engineer, vorsin@cs.niisi.ras.ru,
      <b>A. Y. Bogdanov</b>, Junior Researcher, aubogdan@cs.niisi.ras.ru,
      National Research Center "Kurchatov Institute" — SRISA, Moscow, 117218, Russian Federation
@@ -110,7 +110,9 @@ content:
    edn: VWTPDY
    item_authors: Radeev N. A.
    item_name: Survey on Automatic Feature Construction in Machine Learning on Tabular Data
-   item_authors_address: '<b>  N. A. Radeev</b>, Postgraduate Student, n.radeev@g.nsu.ru, Novosibirsk State University, Novosibirsk, 630090, Russian Federation'
+   item_authors_address: |
+     <b>N. A. Radeev</b>, Postgraduate Student, n.radeev@g.nsu.ru,
+     Novosibirsk State University, Novosibirsk, 630090, Russian Federation
    item_corr_author: 'Nikita A. Radeev, Postgraduate Student, Novosibirsk State University, Novosibirsk, 630090, Russian Federation E-mail: n.radeev@g.nsu.ru'
    item_rec_on: January 23, 2025
    item_acc_on: April 15, 2025

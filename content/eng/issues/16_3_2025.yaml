@@ -28,7 +28,9 @@ content:
    udk: "004.415.53"
    item_authors: Zotov Ya. A.
    item_name: Issues of Development of Automated Testing System of Software for Technical Complexes of Automated Process Control Systems
-   item_authors_address: '<b>Ya. A. Zotov</b>, Engineer, zotov@niisi.ras.ru, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation'
+   item_authors_address: |
+     <b>Ya. A. Zotov</b>, Engineer, zotov@niisi.ras.ru,
+     Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation
    item_corr_author: 'Yaroslav A. Zotov, Engineer, Scientific Research Institute for System Analysis of the National Research Centre "Kurchatov Institute", Moscow, 117218, Russian Federation, E-mail: zotov@niisi.ras.ru'
    item_rec_on: December 18, 2024
    item_acc_on: January 13, 2025
@@ -105,8 +107,10 @@ content:
    item_authors: Lushchik V. G., Popovich S. S., Chaika A. M.
    item_name: Application of Three-Parametric Differential RANS-Model of Turbulence for Solving the Problems of Gas Flow Energy Separation
    item_authors_address: |
-     <b>V. G. Lushchik</b>, Leading Scientist, vgl_41@mail.ru, <b>  S. S. Popovich</b>,  Senior Research Scientist, pss@imec.msu.ru,
-     <b>A. M. Chaika</b>, Leading Programmer, chaika.anya@gmail.com, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation
+     <b>V. G. Lushchik</b>, Leading Scientist, vgl_41@mail.ru,
+     <b>S. S. Popovich</b>, Senior Research Scientist, pss@imec.msu.ru,
+     <b>A. M. Chaika</b>, Leading Programmer, chaika.anya@gmail.com,
+     Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation
    item_corr_author: 'Sergey S. Popovich, Senior Research Scientist, Lomonosov Moscow State University, Institute of mechanics, Moscow, 119192, Russian Federation, E-mail: pss@imec.msu.ru'
    item_rec_on: December 05, 2024
    item_acc_on: January 13, 2025
@@ -149,7 +153,9 @@ content:
    udk: "004.5"
    item_authors: Chitalov D. I.
    item_name: Development of a Module for the compressibleInterFoam Solver of the OpenFOAM Package.
-   item_authors_address: '<b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation'
+   item_authors_address: |
+     <b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru,
+     South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation
    item_corr_author: 'Dmitry I. Chitalov, Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation E-mail: cdi9@yandex.ru'
    item_rec_on: November 08, 2024
    item_acc_on: December 16, 2024
