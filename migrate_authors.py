@@ -31,7 +31,7 @@ def migrate_item(item):
     if "item_authors_v2" in item:
         return
     if "item_authors_address" not in item:
-        assert item["item_name"].startswith("Указатель")
+        assert item["item_name"].startswith(("Указатель", "Index"))
         return
 
     raw_addr = item["item_authors_address"]
