@@ -122,6 +122,13 @@ def generate_elibrary_xml(yaml_file, output_file):
             ref_info = ET.SubElement(ref_elem, "refInfo", lang="en")
             ET.SubElement(ref_info, "text").text = line.strip()
 
+        if "item_comment" in article or "item_comment" in article_en:
+            funding_elem = ET.SubElement(article_elem, "artFunding")
+            if comment := article.get("item_comment"):
+                ET.SubElement(funding_elem, "funding", lang="ru").text = comment.strip()
+            if comment := article_en.get("item_comment"):
+                ET.SubElement(funding_elem, "funding", lang="en").text = comment.strip()
+
     tree = ET.ElementTree(journal)
     ET.indent(tree)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
