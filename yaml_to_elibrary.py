@@ -114,6 +114,14 @@ def generate_elibrary_xml(yaml_file, output_file):
         ET.SubElement(dates_elem, "dateAccepted").text = item_acc_on.isoformat()
         ET.SubElement(dates_elem, "datePublication").text = data["date"].isoformat()
 
+        refs_elem = ET.SubElement(article_elem, "references")
+        for line in article_en["item_references"].strip().splitlines():
+            assert line.startswith("<li>") and line.endswith("</li>"), line
+            line = line.removeprefix("<li>").removesuffix("</li>")
+            ref_elem = ET.SubElement(refs_elem, "reference")
+            ref_info = ET.SubElement(ref_elem, "refInfo", lang="en")
+            ET.SubElement(ref_info, "text").text = line.strip()
+
     tree = ET.ElementTree(journal)
     ET.indent(tree)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
