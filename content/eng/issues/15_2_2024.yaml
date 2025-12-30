@@ -5,8 +5,11 @@ content:
    udk: "004.624, 004.655.3, 004.031.42"
    item_authors: "Krivchikov M. A., Roganov V. A., Vasenin V. A."
    item_name: "Refactoring a Complex Scientometric Software System to Support PostgreSQL Database Management System"
-   item_authors_address: | 
-     <b>M. A. Krivchikov</b>, Senior Researcher, maxim.krivchikov@math.msu.ru, <b>V. A. Roganov</b>, Senior Researcher, radug-a@ya.ru, <b>V. A. Vasenin</b>, Professor, vasenin@msu.ru, Lomonosov Moscow State University, 119991, Moscow, Russian Federation
+   item_authors_address: |
+     <b>M. A. Krivchikov</b>, Senior Researcher, maxim.krivchikov@math.msu.ru,
+     <b>V. A. Roganov</b>, Senior Researcher, radug-a@ya.ru,
+     <b>V. A. Vasenin</b>, Professor, vasenin@msu.ru,
+     Lomonosov Moscow State University, 119991, Moscow, Russian Federation
    item_corr_author: "Maxim A. Krivchikov, Senior Researcher, Lomonosov Moscow State University, 119991, Moscow, Russian Federation E-mail: maxim.krivchikov@math.msu.ru"
    item_rec_on: November 17, 2023
    item_acc_on: December 07, 2023
@@ -15,30 +18,30 @@ content:
    item_keywords: software engineering, refactoring, three-tier architecture, database management system, PostgreSQL, database migration
    item_pages: 59–72
    item_citation: "Krivchikov M. A., Roganov V. A., Vasenin V. A. Refactoring a Complex Scientometric Software System to Support PostgreSQL Database Management System, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 59—72. DOI: 10.17587/prin.15.59-72 (in Russian)."
-   item_references: | 
-     <ul>     
-     <li> Read A. G. DeWitt Clauses: Can We Protect Purchasers without Hurting Microsoft? The Review of Litigation, 2006, vol. 25, no. 2, pp. 387—421. </li>
-     <li> ISO/IEC 9075-1:2016 Part 1: Framework (SQL/Framework). 2016. </li>
-     <li> SQLite Consortium, SQLite Database 3.44.2, 2023, available at: https://sqlite.org/ (date of access 17.11.2023). </li>
-     <li> MySQL AB, MySQL 5.0.26, 2006, available at: https://www.mysql.com/ (date of access 17.11.2023). </li>
-     <li> The PostgreSQL Global Development Group, PostgreSQL 16.1, 2023, available at: https://www.postgresql.org/ (date of access 12/07/2023). </li>
-     <li> Borodin V. Yandex.Mail success story, Presented at PgDay Russia 2016, Saint Petersburg, Russia, 2016, available at: https:// pgday.ru/ru/2016/papers/61 (date of access 17.11.2023). </li>
-     <li> Sinitsky V. Extreme PostgreSQL migration: without downtime, data loss and testing, 2017, available at: https://habr.com/ru/company/yoomoney/blog/326998/ (date of access 17.11.2023). </li>
-     <li> Darold G., ora2pg 24.1, 2023, available at: https://ora2pg.darold.net/ (date of access 17.11.2023). </li>
-     <li> Schonig H.-J. Mastering PostgreSQL 11: Expert techniques to build scalable, reliable, and fault-tolerant database applications, Packt Publishing Ltd, 2018, 446 p. </li>
-     <li> Liang W., Tong W., Shang Y. Transplanting stored procedure from Oracle to PostgreSQL, Journal of Computer Applications, 2010, S1, pp. 220—224. </li>
-     <li> Zhang M. PMT: A Procedure Migration Tool from Oracle to PostgreSQL, IET Conference Proceedings, 2013, pp. 384-389. DOI: 10.1049/cp.2013.1999. </li>
-     <li> Froisland M. Porting and Performance Analysis of InTra-Base from PostgreSQL to Oracle. M. S. thesis, University of Oslo, Oslo, Norway, 2007. </li>
-     <li> Cusick J., Riaz I., Huang H. et al. Applying Operational Profiles to Demonstrate Production Readiness Of an Oracle to SQL Server Database Port using Web Services. Microsoft's SQL Server Migration Assistant (SSMA) Team's Blog, available at: https://www.researchgate.net/publication/259782228_Applying_Operational_Profiles_to_Dem-onstrate_Production_Readiness_Of_an_Oracle_to_SQL_Server_Da-tabase_Port_using_Web_Services (date of access 17.11.2023). </li>
-     <li> Krivchikov M., Shachnev D., Vasenin V., Zenzinov A. IS-TINA data analysis system: Cross-cutting technologies for science and education, Proc. of the International Conference Actual Problems of Systems and Software Engineering (APSSE 2019), IEEE Conference Publications, 2019, pp. 140—150. </li>
-     <li> Vasenin V., Itkes A., Krivchikov M., Yavtushenko E. ChRel-BAC data access control model for large-scale interactive informational-analytical systems, J Comput Virol Hack Tech., 2020, no. 16, pp. 313—331. DOI: 10.1007/s11416-020-00365-9.</li>  
-     </ul>
+   item_references: |
+     <li>Read A. G. DeWitt Clauses: Can We Protect Purchasers without Hurting Microsoft? The Review of Litigation, 2006, vol. 25, no. 2, pp. 387—421.</li>
+     <li>ISO/IEC 9075-1:2016 Part 1: Framework (SQL/Framework). 2016.</li>
+     <li>SQLite Consortium, SQLite Database 3.44.2, 2023, available at: https://sqlite.org/ (date of access 17.11.2023).</li>
+     <li>MySQL AB, MySQL 5.0.26, 2006, available at: https://www.mysql.com/ (date of access 17.11.2023).</li>
+     <li>The PostgreSQL Global Development Group, PostgreSQL 16.1, 2023, available at: https://www.postgresql.org/ (date of access 12/07/2023).</li>
+     <li>Borodin V. Yandex.Mail success story, Presented at PgDay Russia 2016, Saint Petersburg, Russia, 2016, available at: https:// pgday.ru/ru/2016/papers/61 (date of access 17.11.2023).</li>
+     <li>Sinitsky V. Extreme PostgreSQL migration: without downtime, data loss and testing, 2017, available at: https://habr.com/ru/company/yoomoney/blog/326998/ (date of access 17.11.2023).</li>
+     <li>Darold G., ora2pg 24.1, 2023, available at: https://ora2pg.darold.net/ (date of access 17.11.2023).</li>
+     <li>Schonig H.-J. Mastering PostgreSQL 11: Expert techniques to build scalable, reliable, and fault-tolerant database applications, Packt Publishing Ltd, 2018, 446 p.</li>
+     <li>Liang W., Tong W., Shang Y. Transplanting stored procedure from Oracle to PostgreSQL, Journal of Computer Applications, 2010, S1, pp. 220—224.</li>
+     <li>Zhang M. PMT: A Procedure Migration Tool from Oracle to PostgreSQL, IET Conference Proceedings, 2013, pp. 384-389. DOI: 10.1049/cp.2013.1999.</li>
+     <li>Froisland M. Porting and Performance Analysis of InTra-Base from PostgreSQL to Oracle. M. S. thesis, University of Oslo, Oslo, Norway, 2007.</li>
+     <li>Cusick J., Riaz I., Huang H. et al. Applying Operational Profiles to Demonstrate Production Readiness Of an Oracle to SQL Server Database Port using Web Services. Microsoft's SQL Server Migration Assistant (SSMA) Team's Blog, available at: https://www.researchgate.net/publication/259782228_Applying_Operational_Profiles_to_Dem-onstrate_Production_Readiness_Of_an_Oracle_to_SQL_Server_Da-tabase_Port_using_Web_Services (date of access 17.11.2023).</li>
+     <li>Krivchikov M., Shachnev D., Vasenin V., Zenzinov A. IS-TINA data analysis system: Cross-cutting technologies for science and education, Proc. of the International Conference Actual Problems of Systems and Software Engineering (APSSE 2019), IEEE Conference Publications, 2019, pp. 140—150.</li>
+     <li>Vasenin V., Itkes A., Krivchikov M., Yavtushenko E. ChRel-BAC data access control model for large-scale interactive informational-analytical systems, J Comput Virol Hack Tech., 2020, no. 16, pp. 313—331. DOI: 10.1007/s11416-020-00365-9.</li>
  - doi: 15.73-86
    udk: "004.05"
    item_authors: "Shelekhov V. I., Tumurov E. G."
    item_name: "Automata-based Software Engineering for Control System Design and Verification"
-   item_authors_address: | 
-     <b>V. I. Shelekhov</b>, Head of Laboratory, vshel@iis.nsk.su,  <b>E. G. Tumurov</b>, Research Assistant, erdemus@gmail.com, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+   item_authors_address: |
+     <b>V. I. Shelekhov</b>, Head of Laboratory, vshel@iis.nsk.su,
+     <b>E. G. Tumurov</b>, Research Assistant, erdemus@gmail.com,
+     A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
    item_corr_author: " Vlaimir I. Shelekhov, Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation, E-mail: vshel@iis.nsk.su"
    item_rec_on: October 31, 2023
    item_acc_on: November 22, 2023
@@ -48,46 +51,45 @@ content:
    item_keywords: automata-based engineering, Event-B, Why3, why3-do, refinement, requirements, program transformation, deductive verification, functional programming
    item_pages: 73–86
    item_citation: "Shelekhov V. I., Tumurov E. G. Automata-based Software Engineering for Control System Design and Verification, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 73—86. DOI: 10.17587/prin.15.73-86. (in Russian)."
-   item_references: | 
-     <ul>     
-     <li>    Abrial J.-R. Modeling in Event-B: System and Software Engineering, Cambridge University Press, 2010, 586 p. </li>
-     <li> Kharnaukhov N., Perchine D., Shelekhov V. The predicate programming language P, Novosibirsk, ISI SB RAN, 2018, 45 p. (in Russian). </li>
-     <li> Shelekhov V. I. Automata-based software engineering: the language and development methods, Programmnaya Ingeneria, 2014, no. 4, pp. 3—15. DOI: 10.17587/prin.8.99-111 (in Russian). </li>
-     <li> Tumurov E. G., Shelekhov V. I. Applying Automata-based Software Engineering for the Lift Control Program, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 99—111 (in Russian). </li>
-     <li> Shelekhov V. I. Automata-based programming on the base of requirements specification, Sistemnaya Informatika, Novosibirsk, ISI SB RAN, 2014, no. 4, pр. 1—29. DOI: 10.31144/si.2307-6410.2014.n4.p1-29 (in Russian). </li>
-     <li> Shelekhov V. I. Automata-based Program Optimization by Applying Requirement Transformations. Programmnaya Ingeneria, 2015, no. 11, pp. 3—13 (in Russian). </li>
-     <li> Shelekhov V. I. Automata-based Software Engineering with Event-B, Programmnaya Ingeneria, 2022, vol. 13, no. 4, pp. 155—167. DOI: 10.17587/prin.13.155-167 (in Russian). </li>
-     <li> Shelekhov V. I. Program Classification in Software Engineering, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 531—538. DOI: 10.17587/prin.7.531-538 (in Russian). </li>
-     <li>  Shelekhov V. I. Development of a program for building a suffix tree in the predicate software engineering, Preprint, no. 115, Novosibirsk, ISI SB RAN, 2004, 52 p. (in Russian). </li>
-     <li> Shelekhov V. I. Development and verification of the heapsort algorithms in predicate software engineering, Preprint no. 164, Novosibirsk, ISI SB RAN, 2012, 30 p. (in Russian). </li>
-     <li> Polykarpova N. I., Shalyto А. А. Automata-base programming, Second edition, St. Petersburg, Piter, 2020, 176 p. (in Russian). </li>
-     <li> Systems and software engineering — Life cycle processes — Requirements engineering. ISO/IEC/IEEE 29148, 2011, 95 p. </li>
-     <li> Hoare С. A. R. An axiomatic basis for computer programming, Communications of the ACM, 1969, vol. 12, issue 10, pp. 576—585. DOI: 10.1145/363235.363259. </li>
-     <li> Floyd R. W. Assigning meanings to programs. Proceedings Symposium in Applied Mathematics, Mathematical Aspects of ComputerScience. AMS, 1967, pp. 19—32. </li>
-     <li> Why 3. Where Programs Meet Provers, available at: http:// why3.lri.fr (date of access 30.10.2023). </li>
-     <li> Hoang T. S., Dghaym D., Snook C., Butler M. A Composition Mechanism for Refinement-Based Methods, 22nd International Conference on Engineering of Complex Computer Systems (ICECCS), 2017, pp. 100—109. DOI: 10.1109/ICECCS.2017.27. </li>
-     <li> Shelekhov V. I., Tumurov E. G. Development and verification of automata programs for control systems, Nauka i Texnologiya v Sibiri, 2023, vol. 10, pp. 100—106. </li>
-     <li> Rodin User's Handbook. Version 2.8. / Ed. M. Jastram, Deploy Project, 2014, 184 p. </li>
-     <li> Owre S., Rushby J. M., Shankar N. PVS: Specification and Verification System, CADE-11: Automated Deduction, LNCS vol. 607, 1992, pp. 748—752. DOI: 10.1007/3-540-55602-8_217. </li>
-     <li> The Coq Proof Assistant, available at: http://coq.inria.fr (date of access 30.10.2023). </li>
-     <li> Shelekhov V. I. Deductive verification of a simple mutual exclusion protocol, 18th conf. Raspredelenny'e informacionno-vy'chislitel'ny'e resursy (DICR-2022), Novosibirsk, 2022, pp. 229—235 (in Russian). </li>
-     <li> Lourenco С. B., Pinto J. S. Why3-do: The Way of Harmonious Distributed System Proofs, Programming Languages and Systems, ESOP 2022, LNCS vol. 13240, 2022, pp. 114—142. DOI: 10.1007/978-3-030-99336-8_5. </li>
-     <li> Milner R. Communication and Concurrency, International Series in Computer Science. Prentice Hall, 1989, 272 p. </li>
-     <li> Hoare С. A. R. Communicating Sequential Processes, Prentice Hall International, 1985, 260 p. </li>
-     <li> Larson J. Erlang for concurrent programming, ACM Queue, 2008, no. 5, pp. 18—23. </li>
-     <li> Silva L., Oliveira M. Automatic Generation of Verified Concurrent Hardware Using VHDL, Formal Methods: Foundations and Applications, SBMF 2022, LNCS vol. 13768, 2022, pp. 55—72. DOI: 10.1007/978-3-031-22476-8_4. </li>
-     <li> Jesus J., Sampaio A. Compositional Verification of Simulink Block Diagrams Using tock-CSP and CSP-Prover, Formal Methods: Foundations and Applications, SBMF 2022, LNCS vol. 13768, 2022, pp. 91—108. DOI: 10.1007/978-3-031-22476-8_6. </li>
-     <li> Riviere P., Singh N. K., Ait-Ameur Y. Reflexive Event-B: Semantics and Correctness The EB4EB framework, IEEE Transactions on Reliability, 2022, pp. 1—16. DOI: 10.1109/TR.2022.3219649. </li>
-     <li> Riviere P., Singh N. K., Ait-Ameur Y. EB4EB: A Framework for Reflexive Event-B, 26th International Conference on Engineering of Complex Computer Systems (ICECCS 2022), 2022, pp. 71—80. DOI: 10.1109/ICECCS54210.2022.00017. </li>
-     <li> Riviere P., Singh N. K., Ait-Ameur Y., Dupont G. Formalising Liveness Properties in Event-B with the Reflexive EB4EB Framework, NASA Formal Methods NFM 2023, LNCS vol. 13903, 2023, pp. 312—331. DOI: 10.1007/978-3-031-33170-1_19. </li>
-     <li> Riviere P., Singh N. K., Ait Ameur Y., Dupont G. Standalone Event-B models analysis relying on the EB4EB meta-theory, International Conference on Rigorous State Based Methods, ABZ 2023, LNCS vol. 14010, 2023, pp. 193—211. DOI: 10.1007/978-3-031-33163-3_15.</li>
-     </ul>
+   item_references: |
+     <li>Abrial J.-R. Modeling in Event-B: System and Software Engineering, Cambridge University Press, 2010, 586 p.</li>
+     <li>Kharnaukhov N., Perchine D., Shelekhov V. The predicate programming language P, Novosibirsk, ISI SB RAN, 2018, 45 p. (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based software engineering: the language and development methods, Programmnaya Ingeneria, 2014, no. 4, pp. 3—15. DOI: 10.17587/prin.8.99-111 (in Russian).</li>
+     <li>Tumurov E. G., Shelekhov V. I. Applying Automata-based Software Engineering for the Lift Control Program, Programmnaya Ingeneria, 2017, vol. 8, no. 4, pp. 99—111 (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based programming on the base of requirements specification, Sistemnaya Informatika, Novosibirsk, ISI SB RAN, 2014, no. 4, pр. 1—29. DOI: 10.31144/si.2307-6410.2014.n4.p1-29 (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based Program Optimization by Applying Requirement Transformations. Programmnaya Ingeneria, 2015, no. 11, pp. 3—13 (in Russian).</li>
+     <li>Shelekhov V. I. Automata-based Software Engineering with Event-B, Programmnaya Ingeneria, 2022, vol. 13, no. 4, pp. 155—167. DOI: 10.17587/prin.13.155-167 (in Russian).</li>
+     <li>Shelekhov V. I. Program Classification in Software Engineering, Programmnaya Ingeneria, 2016, vol. 7, no. 12, pp. 531—538. DOI: 10.17587/prin.7.531-538 (in Russian).</li>
+     <li>Shelekhov V. I. Development of a program for building a suffix tree in the predicate software engineering, Preprint, no. 115, Novosibirsk, ISI SB RAN, 2004, 52 p. (in Russian).</li>
+     <li>Shelekhov V. I. Development and verification of the heapsort algorithms in predicate software engineering, Preprint no. 164, Novosibirsk, ISI SB RAN, 2012, 30 p. (in Russian).</li>
+     <li>Polykarpova N. I., Shalyto А. А. Automata-base programming, Second edition, St. Petersburg, Piter, 2020, 176 p. (in Russian).</li>
+     <li>Systems and software engineering — Life cycle processes — Requirements engineering. ISO/IEC/IEEE 29148, 2011, 95 p.</li>
+     <li>Hoare С. A. R. An axiomatic basis for computer programming, Communications of the ACM, 1969, vol. 12, issue 10, pp. 576—585. DOI: 10.1145/363235.363259.</li>
+     <li>Floyd R. W. Assigning meanings to programs. Proceedings Symposium in Applied Mathematics, Mathematical Aspects of ComputerScience. AMS, 1967, pp. 19—32.</li>
+     <li>Why 3. Where Programs Meet Provers, available at: http:// why3.lri.fr (date of access 30.10.2023).</li>
+     <li>Hoang T. S., Dghaym D., Snook C., Butler M. A Composition Mechanism for Refinement-Based Methods, 22nd International Conference on Engineering of Complex Computer Systems (ICECCS), 2017, pp. 100—109. DOI: 10.1109/ICECCS.2017.27.</li>
+     <li>Shelekhov V. I., Tumurov E. G. Development and verification of automata programs for control systems, Nauka i Texnologiya v Sibiri, 2023, vol. 10, pp. 100—106.</li>
+     <li>Rodin User's Handbook. Version 2.8. / Ed. M. Jastram, Deploy Project, 2014, 184 p.</li>
+     <li>Owre S., Rushby J. M., Shankar N. PVS: Specification and Verification System, CADE-11: Automated Deduction, LNCS vol. 607, 1992, pp. 748—752. DOI: 10.1007/3-540-55602-8_217.</li>
+     <li>The Coq Proof Assistant, available at: http://coq.inria.fr (date of access 30.10.2023).</li>
+     <li>Shelekhov V. I. Deductive verification of a simple mutual exclusion protocol, 18th conf. Raspredelenny'e informacionno-vy'chislitel'ny'e resursy (DICR-2022), Novosibirsk, 2022, pp. 229—235 (in Russian).</li>
+     <li>Lourenco С. B., Pinto J. S. Why3-do: The Way of Harmonious Distributed System Proofs, Programming Languages and Systems, ESOP 2022, LNCS vol. 13240, 2022, pp. 114—142. DOI: 10.1007/978-3-030-99336-8_5.</li>
+     <li>Milner R. Communication and Concurrency, International Series in Computer Science. Prentice Hall, 1989, 272 p.</li>
+     <li>Hoare С. A. R. Communicating Sequential Processes, Prentice Hall International, 1985, 260 p.</li>
+     <li>Larson J. Erlang for concurrent programming, ACM Queue, 2008, no. 5, pp. 18—23.</li>
+     <li>Silva L., Oliveira M. Automatic Generation of Verified Concurrent Hardware Using VHDL, Formal Methods: Foundations and Applications, SBMF 2022, LNCS vol. 13768, 2022, pp. 55—72. DOI: 10.1007/978-3-031-22476-8_4.</li>
+     <li>Jesus J., Sampaio A. Compositional Verification of Simulink Block Diagrams Using tock-CSP and CSP-Prover, Formal Methods: Foundations and Applications, SBMF 2022, LNCS vol. 13768, 2022, pp. 91—108. DOI: 10.1007/978-3-031-22476-8_6.</li>
+     <li>Riviere P., Singh N. K., Ait-Ameur Y. Reflexive Event-B: Semantics and Correctness The EB4EB framework, IEEE Transactions on Reliability, 2022, pp. 1—16. DOI: 10.1109/TR.2022.3219649.</li>
+     <li>Riviere P., Singh N. K., Ait-Ameur Y. EB4EB: A Framework for Reflexive Event-B, 26th International Conference on Engineering of Complex Computer Systems (ICECCS 2022), 2022, pp. 71—80. DOI: 10.1109/ICECCS54210.2022.00017.</li>
+     <li>Riviere P., Singh N. K., Ait-Ameur Y., Dupont G. Formalising Liveness Properties in Event-B with the Reflexive EB4EB Framework, NASA Formal Methods NFM 2023, LNCS vol. 13903, 2023, pp. 312—331. DOI: 10.1007/978-3-031-33170-1_19.</li>
+     <li>Riviere P., Singh N. K., Ait Ameur Y., Dupont G. Standalone Event-B models analysis relying on the EB4EB meta-theory, International Conference on Rigorous State Based Methods, ABZ 2023, LNCS vol. 14010, 2023, pp. 193—211. DOI: 10.1007/978-3-031-33163-3_15.</li>
  - doi: 15.87-96
    udk: "004.023"
    item_authors: "Kazakova E. M."
    item_name: "Hybrid PSO-Jaya Algorithm for Solving Various Optimization Problems"
-   item_authors_address: | 
-     <b> E. M. Kazakova</b>, Junior Researcher, shogenovae@inbox.ru, Institute of Applied Mathematics and Automation KBSC RAS, Nalchik, 360051, Russian Federation 
+   item_authors_address: |
+     <b>E. M. Kazakova</b>, Junior Researcher, shogenovae@inbox.ru,
+     Institute of Applied Mathematics and Automation KBSC RAS, Nalchik, 360051, Russian Federation
    item_corr_author: " Elena M. Kazakova, Junior Researcher, Institute of Applied Mathematics and Automation KBSC RAS, 360051, Nalchik, Russian Federation, E-mail: shogenovae@inbox.ru"
    item_rec_on: October 27, 2023
    item_acc_on: November 22, 2023
@@ -97,34 +99,35 @@ content:
    item_keywords:  heuristic algorithm, optimization, particle swarm optimization (PSO), Jaya, hybrid algorithm, artificial neural network, classification
    item_pages: 87–96
    item_citation: "Kazakova E. M. Hybrid PSO-Jaya Algorithm for Solving Various Optimization Problems, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 87—96. DOI: 10.17587/prin.15.87-96.DOI: 10.17587/ prin.15.26-34. (in Russian)."
-   item_references: | 
-     <ul>
-     <li> Kennedy J., Eberhart R. Particle Swarm Optimization, IEE International Conference on Neural Networks, 1995, pp. 1942—1948. DOI: 10.1109/ICNN.1995.488968. </li>
-     <li> Eberhart R., Xiaohui Hu Human tremor analysis using particle swarm optimization, Proceedings of the 1999 congress on evolutionary computation-CEC99, 1999, vol. 3, pp. 1927—1930. DOI: 10.1109/CEC.1999.785508. </li>
-     <li> Hamada M., Hassan M. Artificial neural networks and particle swarm optimization algorithms for preference prediction in multi-criteria recommender systems, Informatics, 2018, vol. 2, no. 5, article 25. DOI: 10.3390/informatics5020025. </li>
-     <li> Asma A., Sadok B. PSO-based dynamic distributed algorithm for automatic task clustering in a robotic swarm, Procedia Computer Science, 2019, vol. 159, pp. 1103—1112. DOI: 10.1016/j.procs.2019.09.279. </li>
-     <li> Rao R. Jaya: A simple and new optimization algorithm for solving constrained and unconstrained optimization problems, Int J Indus Eng Comput., 2016, vol. 1, no. 7, pp. 19—34. DOI: 10.5267/j. ijiec.2015.8.004. </li>
-     <li> Warid W., Hizam H., Mariun N., Abdul-Wahab N. I. Optimal power flow using the Jaya algorithm, Energies, 2016, vol. 9, no. 9, article 678. DOI: 10.3390/en9090678.</li>
-     <li> Karpenko A. P. Sovremennyye algoritmy poiskovoy optimizatsii. Algoritmy. vdokhnovlennyye prirodoy. 2nd ed., BMSTU, Moscow, 2017, 446 p. (in Russian). </li>
-     <li> Garg H. A hybrid PSO-GA algorithm for constrained optimization problems, Applied Mathematics and Computation, 2016, vol. 274, pp. 292—305. DOI: 10.1016/j.amc.2015.11.001. </li>
-     <li> Şenel F. A., Gokce F., Yuksel A. S. et al. A novel hybrid PSO—GWO algorithm for optimization problems, Engineering with Computers, 2019, vol. 35, pp. 1359—1373. DOI: 10.1007/s00366-018-0668-5. </li>
-     <li>  Zhou Y., Shengyu P. A Hybrid Co-evolutionary Particle Swarm Optimization Algorithm for Solving Constrained Engineering Design Problems, Journal of Computers, 2010, vol. 6, no. 5, pp. 965—972. DOI: 10.4304/jcp.5.6.965-972. </li>
-     <li> Mirjalili S., Hashim S. Z. M. A new hybrid PSOGSA algorithm for function optimization // Proceedings of ICCIA 2010-2010 International Conference on Computer and Information Application. 2010. P. 374—377. DOI: 10.1109/IC-CIA.2010.6141614. </li>
-     <li> Matrenin P. V., Sekaev V. G. Systems Approach to Swarm Intelligence, Programmnaya Ingeneria, 2013, no. 12, pp. 39—45 (in Russian). </li>
-     <li> Liang J. J., Qu B. Y., Suganthan P. N., Hernandez-Diaz A. G. Problem definitions and evaluation criteria for the CEC 2013 special session on real-parameter optimization, Computational Intelligence Laboratory, 2013, vol. 34, no. 201212, pp. 281—295. </li>
-     <li> Saymon D. Algoritmy evolyutsionnoy optimizatsii, DMK Press, Moscow, 2020, 1002 p. (in Russian). </li>
-     <li> Mirjalili S. A., Hashim S. Z. M., Sardroudi H. M. Training feedforward neural networks using hybrid particle swarm optimization and gravitational search algorithm, Applied Mathematics and Computation, 2012, vol. 22, no. 218, pp. 11125—11137. DOI: 10.1016/j.amc.2012.04.069. </li>
-     <li> Junior F. E. F., Yen G. G. Particle swarm optimization of deep neural networks architectures for image classification, Swarm and Evolutionary Computation, 2019, vol. 49, pp. 62—74. DOI: 10.1016/j.swevo.2019.05.010. </li>
-     <li> Garro B. A., Vazquez R. A. Designing artificial neural networks using particle swarm optimization algorithms, Computational intelligence and neuroscience, 2015, vol. 2015, article ID 369298. DOI: 10.1155/2015/369298. </li>
-     <li> Zhang J. R., Zhang J., Lok T. M., Lyu M. R. A hybrid particle swarm optimization—back-propagation algorithm for feedforward neural network training, Applied mathematics and computation, 2007, vol. 2, no. 185, pp. 1026—1037. </li>
-     <li> German B. Glass Identification. UCI Machine Learning Repository, 1987, DOI: 10.24432/C5WW2P.</li>
-     </ul>
+   item_references: |
+     <li>Kennedy J., Eberhart R. Particle Swarm Optimization, IEE International Conference on Neural Networks, 1995, pp. 1942—1948. DOI: 10.1109/ICNN.1995.488968.</li>
+     <li>Eberhart R., Xiaohui Hu Human tremor analysis using particle swarm optimization, Proceedings of the 1999 congress on evolutionary computation-CEC99, 1999, vol. 3, pp. 1927—1930. DOI: 10.1109/CEC.1999.785508.</li>
+     <li>Hamada M., Hassan M. Artificial neural networks and particle swarm optimization algorithms for preference prediction in multi-criteria recommender systems, Informatics, 2018, vol. 2, no. 5, article 25. DOI: 10.3390/informatics5020025.</li>
+     <li>Asma A., Sadok B. PSO-based dynamic distributed algorithm for automatic task clustering in a robotic swarm, Procedia Computer Science, 2019, vol. 159, pp. 1103—1112. DOI: 10.1016/j.procs.2019.09.279.</li>
+     <li>Rao R. Jaya: A simple and new optimization algorithm for solving constrained and unconstrained optimization problems, Int J Indus Eng Comput., 2016, vol. 1, no. 7, pp. 19—34. DOI: 10.5267/j. ijiec.2015.8.004.</li>
+     <li>Warid W., Hizam H., Mariun N., Abdul-Wahab N. I. Optimal power flow using the Jaya algorithm, Energies, 2016, vol. 9, no. 9, article 678. DOI: 10.3390/en9090678.</li>
+     <li>Karpenko A. P. Sovremennyye algoritmy poiskovoy optimizatsii. Algoritmy. vdokhnovlennyye prirodoy. 2nd ed., BMSTU, Moscow, 2017, 446 p. (in Russian).</li>
+     <li>Garg H. A hybrid PSO-GA algorithm for constrained optimization problems, Applied Mathematics and Computation, 2016, vol. 274, pp. 292—305. DOI: 10.1016/j.amc.2015.11.001.</li>
+     <li>Şenel F. A., Gokce F., Yuksel A. S. et al. A novel hybrid PSO—GWO algorithm for optimization problems, Engineering with Computers, 2019, vol. 35, pp. 1359—1373. DOI: 10.1007/s00366-018-0668-5.</li>
+     <li>Zhou Y., Shengyu P. A Hybrid Co-evolutionary Particle Swarm Optimization Algorithm for Solving Constrained Engineering Design Problems, Journal of Computers, 2010, vol. 6, no. 5, pp. 965—972. DOI: 10.4304/jcp.5.6.965-972.</li>
+     <li>Mirjalili S., Hashim S. Z. M. A new hybrid PSOGSA algorithm for function optimization // Proceedings of ICCIA 2010-2010 International Conference on Computer and Information Application. 2010. P. 374—377. DOI: 10.1109/IC-CIA.2010.6141614.</li>
+     <li>Matrenin P. V., Sekaev V. G. Systems Approach to Swarm Intelligence, Programmnaya Ingeneria, 2013, no. 12, pp. 39—45 (in Russian).</li>
+     <li>Liang J. J., Qu B. Y., Suganthan P. N., Hernandez-Diaz A. G. Problem definitions and evaluation criteria for the CEC 2013 special session on real-parameter optimization, Computational Intelligence Laboratory, 2013, vol. 34, no. 201212, pp. 281—295.</li>
+     <li>Saymon D. Algoritmy evolyutsionnoy optimizatsii, DMK Press, Moscow, 2020, 1002 p. (in Russian).</li>
+     <li>Mirjalili S. A., Hashim S. Z. M., Sardroudi H. M. Training feedforward neural networks using hybrid particle swarm optimization and gravitational search algorithm, Applied Mathematics and Computation, 2012, vol. 22, no. 218, pp. 11125—11137. DOI: 10.1016/j.amc.2012.04.069.</li>
+     <li>Junior F. E. F., Yen G. G. Particle swarm optimization of deep neural networks architectures for image classification, Swarm and Evolutionary Computation, 2019, vol. 49, pp. 62—74. DOI: 10.1016/j.swevo.2019.05.010.</li>
+     <li>Garro B. A., Vazquez R. A. Designing artificial neural networks using particle swarm optimization algorithms, Computational intelligence and neuroscience, 2015, vol. 2015, article ID 369298. DOI: 10.1155/2015/369298.</li>
+     <li>Zhang J. R., Zhang J., Lok T. M., Lyu M. R. A hybrid particle swarm optimization—back-propagation algorithm for feedforward neural network training, Applied mathematics and computation, 2007, vol. 2, no. 185, pp. 1026—1037.</li>
+     <li>German B. Glass Identification. UCI Machine Learning Repository, 1987, DOI: 10.24432/C5WW2P.</li>
  - doi: 15.97-104
    udk: "004.422.81"
    item_authors: "Solomatin D. I., Novotochinov M. E., Desyatirikova E. N."
    item_name: "Detecting Similarity of Program Code Using an Aggregated Approach to the Problem of Plagiarism Detection"
-   item_authors_address: | 
-     <b> D. I. Solomatin</b>, Senior Lecture, solomatin.cs.vsu.ru@gmail.com, <b> M. E. Novotochinov</b>, Postgraduate Student, tyler532@yandex.ru, <b> E. N. Desyatirikova</b>, Professor, science2000@ya.ru, Voronezh State University, Voronezh, 394000, Russian Federation 
+   item_authors_address: |
+     <b>D. I. Solomatin</b>, Senior Lecture, solomatin.cs.vsu.ru@gmail.com,
+     <b>M. E. Novotochinov</b>, Postgraduate Student, tyler532@yandex.ru,
+     <b>E. N. Desyatirikova</b>, Professor, science2000@ya.ru,
+     Voronezh State University, Voronezh, 394000, Russian Federation
    item_corr_author: " Elena N. Desyatirikova, Professor, Voronezh State University, 394000, Voronezh, Russian Federation, E-mail: science2000@ya.ru"
    item_rec_on: October 04, 2023
    item_acc_on:  December 05, 2023
@@ -133,24 +136,23 @@ content:
    item_keywords: system development, plagiarism, string algorithms, programming languages, expression parsing, code parsing, tokenization, dynamic programming, hashes, Python, С++
    item_pages: 97–104
    item_citation: "Solomatin D. I., Novotochinov M. E., Desyatirikova E. N. Detecting Similarity of Program Code Using an Aggregated Approach to the Problem of Plagiarism Detection, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 97—104. DOI: 10.17587/prin.15.97-104. (in Russian)."
-   item_references: | 
-     <ul>     
-     <li>  Kustanto C., Liem I. Automatic Source Code Plagiarism Detectio, SNPD Proceedings of the 2009 10th ACIS International Conference on Software Engineering, Artificial Intelligences, Networking and Parallel/Distributed Computing, Daegu, Korea, 27—29 May, 2009, IEEE Computer Society, Washington, DC, USA, 2009, pp. 481—486. DOI: 10.1109/SNPD.2009.62. </li>
-     <li> Chowdhury H. A., Bhattacharyya D. K. Plagiarism: Taxonomy, Tools and Detection Techniques, 19th National Convention on Knowledge, Library and Information Networking, 2018, pp. 2—14. </li>
-     <li> Osadchaya A. O., Isaev I. V. Search of clones in program code, Scientific and Technical Bulletin of information technologies, mechanics and optics, 2020, vol. 20, no. 5, pp. 714—721. DOI: 10.17586/2226-1494-2020-20-5-714-721 (in Russian). </li>
-     <li> Zorkin A. Anti-plagiarism of the source code: a hybrid approach using the ANTLR parser, 2021, available at: https://habr. com/ru/articles/583882/ (in Russian). </li>
-     <li> Lvovich J. E., Solomatin D. I. Methods and algorithms for constructing a generator of lexico-syntactic analyzers for PEG grammars, The Bulletin of Voronezh State Technical University, 2008, vol. 4, no. 3, pp. 13—17 (in Russian). </li>
-     <li> Lutin V. I., Desyatirikova E. N., Makeeva O. B. Reliability of processing signals from object observation sensors in various physical fields, Theory and technology of radio communications, 2018, vol. 1, pp. 58—65 (in Russian). </li>
-     <li> Evtifeeva O. A., Krass A. L., Lakunin M. A. et al. Analysis of algorithms for searching for plagiarism in the source codes of programs, Scientific and Technical Bulletin of Information Technologies, Mechanics and Optics, 2007, no. 39, pp. 188—196 (in Russian). </li>
-     <li> Wise M. J. String similarity via greedy string tiling and running Karp-Rabin matching, 1993, pp. 1—16, available at: https:// www.researchgate.net/publication/262763983_String_Similarity_via_Greedy_String_Tiling_and_Running_Karp-Rabin_Matching</li>
-     <li> Prechelt L., Malpohl G., Philippsen M. Finding plagiarisms among a set of programs with jPlag. Technical Report 2000-1. 2002, pp. 10—16, available at: https://page.mi.fu-berlin.de/prechelt/Biblio/jplagTR.pdf</li>
-     </ul>
+   item_references: |
+     <li>Kustanto C., Liem I. Automatic Source Code Plagiarism Detectio, SNPD Proceedings of the 2009 10th ACIS International Conference on Software Engineering, Artificial Intelligences, Networking and Parallel/Distributed Computing, Daegu, Korea, 27—29 May, 2009, IEEE Computer Society, Washington, DC, USA, 2009, pp. 481—486. DOI: 10.1109/SNPD.2009.62.</li>
+     <li>Chowdhury H. A., Bhattacharyya D. K. Plagiarism: Taxonomy, Tools and Detection Techniques, 19th National Convention on Knowledge, Library and Information Networking, 2018, pp. 2—14.</li>
+     <li>Osadchaya A. O., Isaev I. V. Search of clones in program code, Scientific and Technical Bulletin of information technologies, mechanics and optics, 2020, vol. 20, no. 5, pp. 714—721. DOI: 10.17586/2226-1494-2020-20-5-714-721 (in Russian).</li>
+     <li>Zorkin A. Anti-plagiarism of the source code: a hybrid approach using the ANTLR parser, 2021, available at: https://habr. com/ru/articles/583882/ (in Russian).</li>
+     <li>Lvovich J. E., Solomatin D. I. Methods and algorithms for constructing a generator of lexico-syntactic analyzers for PEG grammars, The Bulletin of Voronezh State Technical University, 2008, vol. 4, no. 3, pp. 13—17 (in Russian).</li>
+     <li>Lutin V. I., Desyatirikova E. N., Makeeva O. B. Reliability of processing signals from object observation sensors in various physical fields, Theory and technology of radio communications, 2018, vol. 1, pp. 58—65 (in Russian).</li>
+     <li>Evtifeeva O. A., Krass A. L., Lakunin M. A. et al. Analysis of algorithms for searching for plagiarism in the source codes of programs, Scientific and Technical Bulletin of Information Technologies, Mechanics and Optics, 2007, no. 39, pp. 188—196 (in Russian).</li>
+     <li>Wise M. J. String similarity via greedy string tiling and running Karp-Rabin matching, 1993, pp. 1—16, available at: https:// www.researchgate.net/publication/262763983_String_Similarity_via_Greedy_String_Tiling_and_Running_Karp-Rabin_Matching</li>
+     <li>Prechelt L., Malpohl G., Philippsen M. Finding plagiarisms among a set of programs with jPlag. Technical Report 2000-1. 2002, pp. 10—16, available at: https://page.mi.fu-berlin.de/prechelt/Biblio/jplagTR.pdf</li>
  - doi: 15.105-111
    udk: "004.5"
    item_authors: "Chitalov D. I."
    item_name: "Interface Development of a Module for the interFoam Solver of the OpenFOAM Package"
-   item_authors_address: | 
-     <b> D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Russia, Chelyabinsk region, 456317, Miass, Ilmen reserve
+   item_authors_address: |
+     <b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru,
+     South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Russia, Chelyabinsk region, 456317, Miass, Ilmen reserve
    item_corr_author: " Dmitry I. Chitalov, Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Russia, Chelyabinsk region, 456317, Miass, Ilmen reserve, E-mail: cdi9@yandex.ru"
    item_rec_on: November 15, 2023
    item_acc_on:  December 05, 2023
@@ -159,27 +161,24 @@ content:
    item_keywords: numerical simulation, continuum mechanics, graphical user interface, OpenFOAM, Python, open source software, interFoam solver, PyQt
    item_pages: 105–111
    item_citation: "Chitalov D. I. Development of a Module for the interFoam Solver of the OpenFOAM Package, Programmnaya Ingeneria, 2024, vol. 15, no. 2, pp. 105—111. DOI: 10.17587/prin.15.105-111  (in Russian)."
-   item_references: | 
-     <ul>
-     <li>  Degtyar V. G., Pegov V. I., Merkulov E. S. Numerical modeling of the evolution of the cavity boundary during torpedo launch, Bulletin of SUSU. Ser.: Math. modeling and programming, 2016, vol. 6, no. 1, pp. 5—12 (in Russian). </li>
-     <li> Volkov K. N., Emelyanov V. N., Karpenko A. G. Numerical modeling of gas-dynamic and physico-chemical processes during hypersonic flow around bodies, Computational methods and programming: new computing technologies, 2017, vol. 18, no. 4, pp. 387—405. DOI: 10.26089/NumMet.v18r433 (in Russian). </li>
-     <li> Ansys Fluent. Fluid Simulation Software, available at: https://www.ansys.com/Products/Fluids/ANSYS-Fluent (date of access 07.11.2023). </li>
-     <li> FlowVision. Russian CAE package for interdisciplinary modeling of devices and physical processes, available at: https://flowvi-sion.ru/ru/ (date of access 07.11.2023). </li>
-     <li> OpenFOAM. The open source CFD toolbox, available at: https://www.openfoam.com/ (date of access 07.11.2023). </li>
-     <li> Salome. The Open Source Integration Platform for Numerical Simulation, available at: http://www.salome-platform.org (date of access 07.11.2023). </li>
-     <li> Helyx-OS. Open Source GUI for OpenFOAM, available at: http://engys.com/products/helyx-os (date of access 07.11.2023). </li>
-     <li> Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Development of a graphical user interface for the OpenFOAM toolbox, Programmnaya ingeneria, 2016, vol. 7, no. 12, pp. 568—574. DOI: 10.17587/prin.7.568-574 (in Russian). </li>
-     <li> Chitalov D. I. Development of a module for the poroplasticstressedfoam solver and its integration into openfoam, Information technology and computing systems, 2023, no. 3, pp. 93—101. DOI: 10.14357/20718632230310 (in Russian). </li>
-     <li> Chitalov D. I. Development of a module for working with the plasticstressedfoam solver based on the openfoam package, Computer science systems and tools, 2023, vol. 33, no. 2, pp. 111—123. DOI: 10.14357/20718632230310. </li>
-     <li> Chitalov D. I. About the development of a module for the coupledporofoam solver of the OpenFOAM package, Programmnaya ingeneria, 2023, vol. 14, no. 2. pp. 93—100. DOI: 10.17587/prin.14.93-100. </li>
-     <li> Python 3.7 documentation, available at: http://docs.python.org/3.7/ (date of access 07.11.2023). </li>
-     <li> Prohorenok N. A. Python 3 and PyQt. Application Development. St. Petersburg, BHV-Petersburg, 2012, 704 p. (in Russian). </li>
-     <li> PyQt5 Reference Guide, available at: http://pyqt.sourceforge.net/Docs/PyQt5/ (date of access 07.11.2023). </li>
-     <li> SQLite, available at: https://www.sqlite.org/index.html (date of access 07.11.2023). </li>
-     <li> PyCharm, available at: https://www.jetbrains.com/ru-ru/ pycharm/ (date of access 07.11.2023). </li>
-     <li> ParaView. Open-source, multi-platform data analysis and visualization application, available at: http://www.paraview.org/ (date of access 07.11.2023). </li>
-     <li> The OpenFOAM Foundation. User Guide, available at: http://foam.sourceforge.net/docs/Guides-a4/OpenFOAMUser-Guide-A4.pdf (date of access 07.11.2023). </li>
-     <li> OpenFOAM. Tutorial Guide, available at: http://open-foam.com/documentation/tutorial-guide/index.php (date of access 07.11.2023). </li>
-     <li>  OpenFOAM_GUI, available at: http://github.com/Dmitry-Chitalov/OpenFOAM_GUI (date of access 07.11.2023).</li>
-     </ul>
----
+   item_references: |
+     <li>Degtyar V. G., Pegov V. I., Merkulov E. S. Numerical modeling of the evolution of the cavity boundary during torpedo launch, Bulletin of SUSU. Ser.: Math. modeling and programming, 2016, vol. 6, no. 1, pp. 5—12 (in Russian).</li>
+     <li>Volkov K. N., Emelyanov V. N., Karpenko A. G. Numerical modeling of gas-dynamic and physico-chemical processes during hypersonic flow around bodies, Computational methods and programming: new computing technologies, 2017, vol. 18, no. 4, pp. 387—405. DOI: 10.26089/NumMet.v18r433 (in Russian).</li>
+     <li>Ansys Fluent. Fluid Simulation Software, available at: https://www.ansys.com/Products/Fluids/ANSYS-Fluent (date of access 07.11.2023).</li>
+     <li>FlowVision. Russian CAE package for interdisciplinary modeling of devices and physical processes, available at: https://flowvi-sion.ru/ru/ (date of access 07.11.2023).</li>
+     <li>OpenFOAM. The open source CFD toolbox, available at: https://www.openfoam.com/ (date of access 07.11.2023).</li>
+     <li>Salome. The Open Source Integration Platform for Numerical Simulation, available at: http://www.salome-platform.org (date of access 07.11.2023).</li>
+     <li>Helyx-OS. Open Source GUI for OpenFOAM, available at: http://engys.com/products/helyx-os (date of access 07.11.2023).</li>
+     <li>Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Development of a graphical user interface for the OpenFOAM toolbox, Programmnaya ingeneria, 2016, vol. 7, no. 12, pp. 568—574. DOI: 10.17587/prin.7.568-574 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for the poroplasticstressedfoam solver and its integration into openfoam, Information technology and computing systems, 2023, no. 3, pp. 93—101. DOI: 10.14357/20718632230310 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for working with the plasticstressedfoam solver based on the openfoam package, Computer science systems and tools, 2023, vol. 33, no. 2, pp. 111—123. DOI: 10.14357/20718632230310.</li>
+     <li>Chitalov D. I. About the development of a module for the coupledporofoam solver of the OpenFOAM package, Programmnaya ingeneria, 2023, vol. 14, no. 2. pp. 93—100. DOI: 10.17587/prin.14.93-100.</li>
+     <li>Python 3.7 documentation, available at: http://docs.python.org/3.7/ (date of access 07.11.2023).</li>
+     <li>Prohorenok N. A. Python 3 and PyQt. Application Development. St. Petersburg, BHV-Petersburg, 2012, 704 p. (in Russian).</li>
+     <li>PyQt5 Reference Guide, available at: http://pyqt.sourceforge.net/Docs/PyQt5/ (date of access 07.11.2023).</li>
+     <li>SQLite, available at: https://www.sqlite.org/index.html (date of access 07.11.2023).</li>
+     <li>PyCharm, available at: https://www.jetbrains.com/ru-ru/ pycharm/ (date of access 07.11.2023).</li>
+     <li>ParaView. Open-source, multi-platform data analysis and visualization application, available at: http://www.paraview.org/ (date of access 07.11.2023).</li>
+     <li>The OpenFOAM Foundation. User Guide, available at: http://foam.sourceforge.net/docs/Guides-a4/OpenFOAMUser-Guide-A4.pdf (date of access 07.11.2023).</li>
+     <li>OpenFOAM. Tutorial Guide, available at: http://open-foam.com/documentation/tutorial-guide/index.php (date of access 07.11.2023).</li>
+     <li>OpenFOAM_GUI, available at: http://github.com/Dmitry-Chitalov/OpenFOAM_GUI (date of access 07.11.2023).</li>

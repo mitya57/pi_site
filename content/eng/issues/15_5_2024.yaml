@@ -5,8 +5,11 @@ content:
    udk: "004.42"
    item_authors: "Kurako E. A., Asratian R. E., Orlov V. L."
    item_name: "Service Browser in Linux Environment"
-   item_authors_address: | 
-     <b>E. A. Kurako</b>, Senior Researcher, keaipu@yandex.ru, <b>R. E. Asratian</b>, Leading Researcher, rubezas@yandex.ru, <b>V. L. Orlov</b>, Leading Researcher, ovl@ipu.ru, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
+   item_authors_address: |
+     <b>E. A. Kurako</b>, Senior Researcher, keaipu@yandex.ru,
+     <b>R. E. Asratian</b>, Leading Researcher, rubezas@yandex.ru,
+     <b>V. L. Orlov</b>, Leading Researcher, ovl@ipu.ru,
+     V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
    item_corr_author: "Evgeniy A. Kurako, Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: keaipu@yandex.ru"
    item_rec_on: January 12, 2024
    item_acc_on: March 06, 2024
@@ -15,24 +18,25 @@ content:
    item_keywords: client, web browser, service browser, C#, Linux, Mono, PostgreSQL, web services, migration, software
    item_pages: 219–228
    item_citation: "Kurako E. A., Asratian R. E., Orlov V. L. Service Browser in Linux Environment, Programmnaya Ingeneria, 2024, vol. 15., no. 5, pp. 219—228. DOI: 10.17587/prin.15.219-228. (in Russian)."
-   item_references: | 
-     <ul>
-      <li> Azza Mohamed, Ibrahim Ismail. A Performance Comparative on Most Popular Internet Web Browsers, Procedia Computer Science, 2022, vol. 215, pp. 589—597. DOI: 10.1016/j.procs.2022.12.061. </li>  
-      <li> Van Riet J., Malavolta I., Ghaleb T. A. Optimize along the way: An industrial case study on web performance, Journal of Systems and Software, 2023, vol. 198, article 111593. DOI: 10.1016/j.jss.2022.111593. </li>  
-      <li> Kurako E. A., Orlov V. L. Service browsers for informationsystems, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 413—421, DOI: 10.17587/prin.8.413-421 (in Russian). </li>  
-      <li> Kurako E. A., Orlov V. L. A method for organizing client interaction with an application server using a service browser: Patent for invention RU 2656735 C1; Registered 06/06/2018. Announced 05/17/2017. Published: 06/06/2018 Bulletin No. 16. (in Russian). </li>  
-      <li> Register of Russian software, available at: https://reestr.digi-tal.gov.ru/ (in Russian). </li>  
-      <li> Mono, available at: https://dotnetfoundation.org/projects/project-detail/mono. </li>  
-      <li> Mono — Laboratory 50 (lab50.net), available at: https://lab50.net/%D0%BC%D0%BE%D0%BD%D0%BE/ (in Russian). </li>  
-      <li> Kurako E. A., Asratian R. E., Orlov V. L. Import substitution of information systems based on the С# language and network, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 471—481. DOI: 10.17587/prin.14.471-481 (in Russian). </li>  
-      <li> Kurako E. A., Orlov V. L. On the issue of migrating databases from Oracle to PostgreSQL, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 32—40. DOI: 10.17587/prin.13.32-40 (in Russian). </li>  
-      </ul>
+   item_references: |
+     <li>Azza Mohamed, Ibrahim Ismail. A Performance Comparative on Most Popular Internet Web Browsers, Procedia Computer Science, 2022, vol. 215, pp. 589—597. DOI: 10.1016/j.procs.2022.12.061.</li>
+     <li>Van Riet J., Malavolta I., Ghaleb T. A. Optimize along the way: An industrial case study on web performance, Journal of Systems and Software, 2023, vol. 198, article 111593. DOI: 10.1016/j.jss.2022.111593.</li>
+     <li>Kurako E. A., Orlov V. L. Service browsers for informationsystems, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 413—421, DOI: 10.17587/prin.8.413-421 (in Russian).</li>
+     <li>Kurako E. A., Orlov V. L. A method for organizing client interaction with an application server using a service browser: Patent for invention RU 2656735 C1; Registered 06/06/2018. Announced 05/17/2017. Published: 06/06/2018 Bulletin No. 16. (in Russian).</li>
+     <li>Register of Russian software, available at: https://reestr.digi-tal.gov.ru/ (in Russian).</li>
+     <li>Mono, available at: https://dotnetfoundation.org/projects/project-detail/mono.</li>
+     <li>Mono — Laboratory 50 (lab50.net), available at: https://lab50.net/%D0%BC%D0%BE%D0%BD%D0%BE/ (in Russian).</li>
+     <li>Kurako E. A., Asratian R. E., Orlov V. L. Import substitution of information systems based on the С# language and network, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 471—481. DOI: 10.17587/prin.14.471-481 (in Russian).</li>
+     <li>Kurako E. A., Orlov V. L. On the issue of migrating databases from Oracle to PostgreSQL, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 32—40. DOI: 10.17587/prin.13.32-40 (in Russian).</li>
  - doi: 15.229-242
    udk: "004.413"
    item_authors: "Zmeev D. O., Zmeev O. A., Ivanova L. S."
    item_name: "Applying OMG Essence with Bayesian Network to Software Project Management"
-   item_authors_address: | 
-     <b> D. O. Zmeev</b>, Associate Professor, denis.zmeev@accounts.tsu.ru, <b> O. A. Zmeev</b>, PhD, Academic Director, ozmeyev@gmail.com, <b> L. S. Ivanova</b>, Associate Professor, lidiya.ivanova@persona.tsu.ru, Tomsk State University, Tomsk, 634050, Russian Federation
+   item_authors_address: |
+     <b>D. O. Zmeev</b>, Associate Professor, denis.zmeev@accounts.tsu.ru,
+     <b>O. A. Zmeev</b>, PhD, Academic Director, ozmeyev@gmail.com,
+     <b>L. S. Ivanova</b>, Associate Professor, lidiya.ivanova@persona.tsu.ru,
+     Tomsk State University, Tomsk, 634050, Russian Federation
    item_corr_author: "Lidiya S. Ivanova, Associate Professor, Tomsk State University, 634050, Tomsk, Russian Federation, E-mail: lidiya.ivanova@persona.tsu.ru"
    item_rec_on: January 24, 2024
    item_acc_on: February 19, 2024
@@ -42,44 +46,45 @@ content:
    item_keywords: Essence, SEMAT, Bayesian network, Software Project Management
    item_pages: 229–242
    item_citation: "Zmeev D. O., Zmeev O. A., Ivanova L. S. Applying OMG Essence with Bayesian Network to Software Project Management, Programmnaya Ingeneria, 2024, vol. 15, no. 5, pp. 229—242. DOI: 10.17587/prin.15.229-242."
-   item_references: | 
-     <ul>     
-     <li>    Portman H. Review Standish Group — CHAOS 2020: Beyond Infinity, available at: https://hennyportman.wordpress.com/2021/01/06/review-standish-group-chaos-2020-beyond-in-finity/ (date of access 10.01.2024). </li>
-     <li>  Ishaque M., Zaidi A. K., Levis A. H. Project management using point graphs, Systems Engineering, 2009, vol. 12, is. 1, pp. 36—54. DOI: 10.1002/sys.20107. </li>
-     <li>  Ramzan M., Iqbal M. A., Jaffar M. et al. Project Scheduling Conflict Identification and Resolution Using Genetic Algorithms, 2010 International Conference on Information Science and Applications, 2010, vol. 1, pp. 1—6. DOI: 10.1109/ICISA.2010.5480400. </li>
-     <li>  Chen X., Lee S.-J., Seo S.-C., Kim B.-K. A Mathematical Approach of Work Assignment for Human Resource in Software Development, Journal of Digital Convergence, 2013, vol. 11, is. 2, pp. 205—214. DOI: 10.14400/JDPM.2013.11.2.205. </li>
-     <li>  Alba E., Chicano J. F. Management of software projects with Gas, MIC2005: The Sixth Metaheuristics International Conference, Viena, 2005, pp. 13—18. </li>
-     <li>  Miguel A., Madria W., Polancos R. Project Management Model: Integrating Earned Schedule, Quality, and Risk in Earned Value Management, 2019 IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA), 2019, pp. 622—628. DOI: 10.1109/IEA.2019.8714979. </li>
-     <li>  Sackey S., Lee D.-E., Kim B.-S. Duration Estimate at Completion: Improving Earned Value Management Forecasting Accuracy, KSCE Journal of Civil Engineering, 2020, vol. 24, no. 3, pp. 693—702. DOI: 10.1007/s12205-020-0407-5. </li>
-     <li>  Soltan S., Ashrafi M. Predicting project duration and cost, and selecting the best action plan using statistical methods for earned value management, Journal of Project Management, 2020, no. 5, pp. 157—166. DOI: 10.5267/j.jpm.2020.3.002. </li>
-     <li>  Jiang H., Zhang J., Xuan J. et al. A Hybrid ACO Algorithm for the Next Release Problem, Proceedings of 2nd International Conference on Software Engineering and Data Mining (SEDM 2010), 2010, pp. 166—171. </li>
-     <li>  del Sagrado J., del Aguila I. M. Stability prediction of the software requirements specification, Software Quality Journal, 2018, vol. 26, is. 2, pp. 585—605. DOI: 10.1007/s11219-017-9362-x. </li>
-     <li>  Arceri V., Mastroeni I. Static Program Analysis for String Manipulation Languages, Electronic Proceedings in Theoretical Computer Science, 2019, vol. 299, pp. 19—33. DOI: 10.4204/EPTCS.299.5. </li>
-     <li>  Jiang Y., Li M., Zhou Z.-H. Software defect detection with Rocus, Journal of Computer Science and Technology, 2011, vol. 26, is. 2, pp. 328—342. DOI: 10.1007/s11390-011-9439-0. </li>
-     <li>  Vadavalasa R. M. End to end CI/CD pipeline for Machine Learning, International Journal of Advance Research, Ideas and Innovation in Technology, 2020, vol. 6, is. 3, pp. 906—913. </li>
-     <li>  Parsons D. Agile software development methodology, an ontological analysis, Proceedings of 9th International Conference on Applications and Principles of Information Science, 2010. DOI: 10.13140/2.1.3298.6883. </li>
-     <li>  Sheeba T., Krishnan R., Bernard M. J. An Ontology in Project Management Knowledge Domain, International Journal of Computer Applications, 2012, vol. 56, no. 5, pp. 1—7. DOI: 10.5120/88842881. </li>
-     <li>  Parsons D. An ontology of agile aspect oriented software development, Research Letters in the Information and Mathematical Sciences, 2011, vol. 15, pp. 1—11. </li>
-     <li>  Fitsilis P. Comparing PMBOK and Agile Project Management software development processes, Advances in Computer and Information Sciences and Engineering, Proceedings of the International Conference on Systems, Computing Sciences and Software Engineering (SCSS), CISSE, 2007, vol. 1, pp. 378—383. DOI: 10.1007/978-1-4020-8741-7_68. </li>
-     <li>  Griffiths M. Using Agile Alongside the PMBOK, PMI Global Congress Proceedings, Anaheim, 2004, pp. 1—8. </li>
-     <li>  Jacobson I., Ng P.-W., McMahon P. E. et al. The Essence of Software Engineering: Applying the SEMAT Kernel, Addison-Wesley, 2013, 224 p. </li>
-     <li>  Essence — Kernel and Language for Software Engineering Methods Ver 1.0: Specification, Object Management Group. 2014, available at: https://www.omg.org/spec/Essence/L2/PDF (date of access 12.01.2024). </li>
-     <li>  Zapata-Jaramillo С. M., Maturana Gonzalez G. V., Calle-Gallego J. M. A Board Game to Simulate the Software Development Process Based on the SEMAT Essence Standard, 2020 IEEE 32nd Conference on Software Engineering Education and Training (CSEE&T), 2020, pp. 1—4. DOI: 10.1109/CSEET49119.2020.9206177. </li>
-     <li>  Jacobson I., Spence I., Seidewitz E. Industrial Scale Agile — from Craft to Engineering, Queue, 2016, vol. 14, is. 5, pp. 99—130. DOI: 10.1145/3012426.3012428. </li>
-     <li>  Alpha State Card Games: Instructional Guide, Ivar Jacobson International, 2015, 10 р., available at: https://www.ivarjacobson.com/pub-lications/brochure/alpha-state-card-games (date of access 10.01.2024). </li>
-     <li>  Statistical Software Engineering. Washington, D. C.: National Academy Press, 1996, 84 p. </li>
-     <li>  Kaser T., Klingler S., Schwing A., Gross M. Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks, 12th International Conference Intelligent Tutoring Systems (ITS 2014), Lecture Notes in Computer Science, vol. 8474, pp. 188—198. DOI: 10.1007/978-3-319-07221-0_23. </li>
-     <li>  David Y. B., Segal A., Gal Y. Sequencing educational content in classrooms using Bayesian knowledge tracing, Proceedings of the Sixth International Conference on Learning Analytics & Knowledge (LAK'16), New York: Association for Computing Machinery, 2016, pp. 354—363. DOI: 10.1145/2883851.2883885. </li>
-     <li>  Pieper J. Simulation and Digital Game-Based Learning in Software Engineering Education: An Integrated Approach to Learn Engineering Methods: dissertation for the degree of Doctor of Engineering. Rostock, University of Rostock, 2016, 412 p. </li>
-     <li>  All semantic dependencies for OMG Essence ALPHa checkboxes, available at: https://docs.google.com/spreadsheets/d/11Et20mr830kRYb88YZk8o9ePMZdE3gMdpBAf-YKZfG4/edit#gid=1370754939 (date of access 13.01.2024). </li>
-     <li>  Initial file with Bayesian network and probability vectors for all nodes, available at: https://drive.google.com/file/d/1ez6L5EybUUpW8FTv_n3XD9ziwPMfXXAu/view (date of access 13.01.2024). </li>
-     </ul>
+   item_references: |
+     <li>Portman H. Review Standish Group — CHAOS 2020: Beyond Infinity, available at: https://hennyportman.wordpress.com/2021/01/06/review-standish-group-chaos-2020-beyond-in-finity/ (date of access 10.01.2024).</li>
+     <li>Ishaque M., Zaidi A. K., Levis A. H. Project management using point graphs, Systems Engineering, 2009, vol. 12, is. 1, pp. 36—54. DOI: 10.1002/sys.20107.</li>
+     <li>Ramzan M., Iqbal M. A., Jaffar M. et al. Project Scheduling Conflict Identification and Resolution Using Genetic Algorithms, 2010 International Conference on Information Science and Applications, 2010, vol. 1, pp. 1—6. DOI: 10.1109/ICISA.2010.5480400.</li>
+     <li>Chen X., Lee S.-J., Seo S.-C., Kim B.-K. A Mathematical Approach of Work Assignment for Human Resource in Software Development, Journal of Digital Convergence, 2013, vol. 11, is. 2, pp. 205—214. DOI: 10.14400/JDPM.2013.11.2.205.</li>
+     <li>Alba E., Chicano J. F. Management of software projects with Gas, MIC2005: The Sixth Metaheuristics International Conference, Viena, 2005, pp. 13—18.</li>
+     <li>Miguel A., Madria W., Polancos R. Project Management Model: Integrating Earned Schedule, Quality, and Risk in Earned Value Management, 2019 IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA), 2019, pp. 622—628. DOI: 10.1109/IEA.2019.8714979.</li>
+     <li>Sackey S., Lee D.-E., Kim B.-S. Duration Estimate at Completion: Improving Earned Value Management Forecasting Accuracy, KSCE Journal of Civil Engineering, 2020, vol. 24, no. 3, pp. 693—702. DOI: 10.1007/s12205-020-0407-5.</li>
+     <li>Soltan S., Ashrafi M. Predicting project duration and cost, and selecting the best action plan using statistical methods for earned value management, Journal of Project Management, 2020, no. 5, pp. 157—166. DOI: 10.5267/j.jpm.2020.3.002.</li>
+     <li>Jiang H., Zhang J., Xuan J. et al. A Hybrid ACO Algorithm for the Next Release Problem, Proceedings of 2nd International Conference on Software Engineering and Data Mining (SEDM 2010), 2010, pp. 166—171.</li>
+     <li>del Sagrado J., del Aguila I. M. Stability prediction of the software requirements specification, Software Quality Journal, 2018, vol. 26, is. 2, pp. 585—605. DOI: 10.1007/s11219-017-9362-x.</li>
+     <li>Arceri V., Mastroeni I. Static Program Analysis for String Manipulation Languages, Electronic Proceedings in Theoretical Computer Science, 2019, vol. 299, pp. 19—33. DOI: 10.4204/EPTCS.299.5.</li>
+     <li>Jiang Y., Li M., Zhou Z.-H. Software defect detection with Rocus, Journal of Computer Science and Technology, 2011, vol. 26, is. 2, pp. 328—342. DOI: 10.1007/s11390-011-9439-0.</li>
+     <li>Vadavalasa R. M. End to end CI/CD pipeline for Machine Learning, International Journal of Advance Research, Ideas and Innovation in Technology, 2020, vol. 6, is. 3, pp. 906—913.</li>
+     <li>Parsons D. Agile software development methodology, an ontological analysis, Proceedings of 9th International Conference on Applications and Principles of Information Science, 2010. DOI: 10.13140/2.1.3298.6883.</li>
+     <li>Sheeba T., Krishnan R., Bernard M. J. An Ontology in Project Management Knowledge Domain, International Journal of Computer Applications, 2012, vol. 56, no. 5, pp. 1—7. DOI: 10.5120/88842881.</li>
+     <li>Parsons D. An ontology of agile aspect oriented software development, Research Letters in the Information and Mathematical Sciences, 2011, vol. 15, pp. 1—11.</li>
+     <li>Fitsilis P. Comparing PMBOK and Agile Project Management software development processes, Advances in Computer and Information Sciences and Engineering, Proceedings of the International Conference on Systems, Computing Sciences and Software Engineering (SCSS), CISSE, 2007, vol. 1, pp. 378—383. DOI: 10.1007/978-1-4020-8741-7_68.</li>
+     <li>Griffiths M. Using Agile Alongside the PMBOK, PMI Global Congress Proceedings, Anaheim, 2004, pp. 1—8.</li>
+     <li>Jacobson I., Ng P.-W., McMahon P. E. et al. The Essence of Software Engineering: Applying the SEMAT Kernel, Addison-Wesley, 2013, 224 p.</li>
+     <li>Essence — Kernel and Language for Software Engineering Methods Ver 1.0: Specification, Object Management Group. 2014, available at: https://www.omg.org/spec/Essence/L2/PDF (date of access 12.01.2024).</li>
+     <li>Zapata-Jaramillo С. M., Maturana Gonzalez G. V., Calle-Gallego J. M. A Board Game to Simulate the Software Development Process Based on the SEMAT Essence Standard, 2020 IEEE 32nd Conference on Software Engineering Education and Training (CSEE&T), 2020, pp. 1—4. DOI: 10.1109/CSEET49119.2020.9206177.</li>
+     <li>Jacobson I., Spence I., Seidewitz E. Industrial Scale Agile — from Craft to Engineering, Queue, 2016, vol. 14, is. 5, pp. 99—130. DOI: 10.1145/3012426.3012428.</li>
+     <li>Alpha State Card Games: Instructional Guide, Ivar Jacobson International, 2015, 10 р., available at: https://www.ivarjacobson.com/pub-lications/brochure/alpha-state-card-games (date of access 10.01.2024).</li>
+     <li>Statistical Software Engineering. Washington, D. C.: National Academy Press, 1996, 84 p.</li>
+     <li>Kaser T., Klingler S., Schwing A., Gross M. Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks, 12th International Conference Intelligent Tutoring Systems (ITS 2014), Lecture Notes in Computer Science, vol. 8474, pp. 188—198. DOI: 10.1007/978-3-319-07221-0_23.</li>
+     <li>David Y. B., Segal A., Gal Y. Sequencing educational content in classrooms using Bayesian knowledge tracing, Proceedings of the Sixth International Conference on Learning Analytics & Knowledge (LAK'16), New York: Association for Computing Machinery, 2016, pp. 354—363. DOI: 10.1145/2883851.2883885.</li>
+     <li>Pieper J. Simulation and Digital Game-Based Learning in Software Engineering Education: An Integrated Approach to Learn Engineering Methods: dissertation for the degree of Doctor of Engineering. Rostock, University of Rostock, 2016, 412 p.</li>
+     <li>All semantic dependencies for OMG Essence ALPHa checkboxes, available at: https://docs.google.com/spreadsheets/d/11Et20mr830kRYb88YZk8o9ePMZdE3gMdpBAf-YKZfG4/edit#gid=1370754939 (date of access 13.01.2024).</li>
+     <li>Initial file with Bayesian network and probability vectors for all nodes, available at: https://drive.google.com/file/d/1ez6L5EybUUpW8FTv_n3XD9ziwPMfXXAu/view (date of access 13.01.2024).</li>
  - doi: 15.243-253
    udk: "004.021"
    item_authors: "Korobkin D. M., Rublev A. A., Fomenkov S. А."
    item_name: "The Predicting the Significance of Patented Technologies based on Innovation Potential Metrics"
-   item_authors_address: | 
-     <b> D. M. Korobkin</b>, Associate Professor, dkorobkin80@mail.ru, <b> A. A. Rublev</b>, Bachelor, aarvlg@mail.ru, <b>  S. А. Fomenkov</b>, Professor, saf@vstu.ru, Volgograd State Technical University, Volgograd, 400005, Russian Federation 
+   item_authors_address: |
+     <b>D. M. Korobkin</b>, Associate Professor, dkorobkin80@mail.ru,
+     <b>A. A. Rublev</b>, Bachelor, aarvlg@mail.ru,
+     <b>S. A. Fomenkov</b>, Professor, saf@vstu.ru,
+     Volgograd State Technical University, Volgograd, 400005, Russian Federation
    item_corr_author: " Dmitriy M. Korobkin, Associate Professor, Volgograd State Technical University, Volgograd, 400005, Russian Federation E-mail: dkorobkin80@mail.ru"
    item_rec_on: August 02, 2023
    item_acc_on: February 29, 2024
@@ -89,31 +94,31 @@ content:
    item_pages: 243–253
    item_comment: The study was supported by the grant of the Russian Science Foundation No. 23-21-00464, https://rscf.ru/en/project/23-21-00464/
    item_citation: " Korobkin D. M., Rublev A. A., Fomenkov S. А. The Predicting the Significance of Patented Technologies based on Innovation Potential Metrics, Programmnaya Ingeneria, 2024, vol. 15, no. 5, pp. 243—253. DOI: 10.17587/prin.15.243-253. (in Russian)."
-   item_references: | 
-     <ul>     
-     <li> Novikov V. V., Pozdeev A. V. Osnovy patentovedenija: ucheb-noe posobie, Volgograd, VolgGTU, 2018, 168 p. (in Russian). </li>
-     <li> Rospatent v cifrah i faktah, available at: https://rospatent. gov.ru/content/uploadfiles/annual-report-2022-short-version.pdf (date of access 02.06.2023). </li>
-     <li> Lepa T. P. Features of the development of relations between China and India with Russia in modern geopolitical realities, Baikal research journal, 2022, vol. 13, no. 4. DOI: 10.17150/2411-6262.2022.13(4).11 (in Russian). </li>
-     <li> Korobkin D. M., Fomenkov S. A., Kolesnikov S. G., Bezruchenko A. Yu. Revealing the technological complementarity of enterprises based on the analysis of the patent array, Modelirovanie, optimizaciya i informacionnie tehnologii, 2022, vol. 10, no. 4 (39), pp. 19—20. DOI: 10.26102/2310-6018/2022.39.4.010 (in Russian). </li>
-     <li> Kashevarova N. A., Andreeva A. A., Ponomareva E. I. Digital tools of patent research, Voprosi innovacionnoi ekonomiki, 2020, vol. 10, no. 2, pp. 1059—1074. DOI: 10.18334/vinec.10.2.100816 (in Russian). </li>
-     <li> Korobkin D. M., Fomenkov S. A., Borodin N. Yu., Vereschak G. A. Automation of the search for technology partners for R&D, Prikaspiiskii jurnal: upravlenie i visokie tehnologii, 2022, no. 4 (60), pp. 59—67 (in Russian). </li>
-     <li> Karnishev V. I., Avdzeiko V. I., Paskal E. S. Classification of technical directions of development based on the analysis of time series of US patents. Empirical approach, Vestnik Tomskogo gosudarstvennogo universiteta. Ekonomika, 2021, no. 53, pp. 251—278. DOI: 10.17223/19988648/53/18 (in Russian). </li>
-     <li> Korobkin D. M., Fomenkov S. A., Zlobin A. R., Vereschak G. A. The Formation of Metrics of Innovative Potential and Prospects for the Task of Technological Forecasting, Informacionnie tehnologii, 2023, vol. 29, no. 4, pp. 215—223. DOI: 10.17587/ it.29.215-223 (in Russian). </li>
-     <li> Nikolaev A. S. Patentnaya analitika: uchebnoe posobie, SaintPetersburg, Universitet ITMO, 2022, 98 p. (in Russian). </li>
-     <li> ARIMA Model — Complete Guide to Time Series Forecasting in Python, available at: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/ (date of access 02.06.2023). </li>
-     <li> Strategia (Strategy), available at: https://metanit.com/sharp/patterns/3.1.php (date of access 02.06.2023). </li>
-     <li> Raspopa E. A., Ananchenko I. V. Review of modern tools for automating testing of web applications, Almanah nauchnih rabot molodih uchenih universiteta ITMO, 2017, vol. 3, pp. 158—160 (in Russian). </li>
-     <li> Chertushkin D. A. SQL or NoSQL — types of databases, differences and applications, Nofainfo.ru, 2022, no. 132, pp. 14—15 (in Russian). </li>
-     <li> Salnikova N. A., Titarenko T. S., Smolova E. A. Information retrieval models for patent examination, Integraciya mirovoi nauki i tehniki: novie koncepcii i paradigm, 2023, pp. 250—254 (in Russian). </li>
-     <li> Krasnov F. V. Comparative analysis of the accuracy of methods for visualizing the structure of a collection of texts, Internation journal of open information technologies, 2021, vol. 9, no. 4, pp. 79—84. </li>
-     <li> Kara-Murza S. G. Citation in science and approaches to assessing the scientific contribution, Nauka. Kultura. Obschestvo, 2021, vol. 27, no. 4, pp. 132—141. DOI: 10.19181/nko.2021.27.4.11 (in Russian). </li>
-     </ul>
+   item_references: |
+     <li>Novikov V. V., Pozdeev A. V. Osnovy patentovedenija: ucheb-noe posobie, Volgograd, VolgGTU, 2018, 168 p. (in Russian).</li>
+     <li>Rospatent v cifrah i faktah, available at: https://rospatent. gov.ru/content/uploadfiles/annual-report-2022-short-version.pdf (date of access 02.06.2023).</li>
+     <li>Lepa T. P. Features of the development of relations between China and India with Russia in modern geopolitical realities, Baikal research journal, 2022, vol. 13, no. 4. DOI: 10.17150/2411-6262.2022.13(4).11 (in Russian).</li>
+     <li>Korobkin D. M., Fomenkov S. A., Kolesnikov S. G., Bezruchenko A. Yu. Revealing the technological complementarity of enterprises based on the analysis of the patent array, Modelirovanie, optimizaciya i informacionnie tehnologii, 2022, vol. 10, no. 4 (39), pp. 19—20. DOI: 10.26102/2310-6018/2022.39.4.010 (in Russian).</li>
+     <li>Kashevarova N. A., Andreeva A. A., Ponomareva E. I. Digital tools of patent research, Voprosi innovacionnoi ekonomiki, 2020, vol. 10, no. 2, pp. 1059—1074. DOI: 10.18334/vinec.10.2.100816 (in Russian).</li>
+     <li>Korobkin D. M., Fomenkov S. A., Borodin N. Yu., Vereschak G. A. Automation of the search for technology partners for R&D, Prikaspiiskii jurnal: upravlenie i visokie tehnologii, 2022, no. 4 (60), pp. 59—67 (in Russian).</li>
+     <li>Karnishev V. I., Avdzeiko V. I., Paskal E. S. Classification of technical directions of development based on the analysis of time series of US patents. Empirical approach, Vestnik Tomskogo gosudarstvennogo universiteta. Ekonomika, 2021, no. 53, pp. 251—278. DOI: 10.17223/19988648/53/18 (in Russian).</li>
+     <li>Korobkin D. M., Fomenkov S. A., Zlobin A. R., Vereschak G. A. The Formation of Metrics of Innovative Potential and Prospects for the Task of Technological Forecasting, Informacionnie tehnologii, 2023, vol. 29, no. 4, pp. 215—223. DOI: 10.17587/ it.29.215-223 (in Russian).</li>
+     <li>Nikolaev A. S. Patentnaya analitika: uchebnoe posobie, SaintPetersburg, Universitet ITMO, 2022, 98 p. (in Russian).</li>
+     <li>ARIMA Model — Complete Guide to Time Series Forecasting in Python, available at: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/ (date of access 02.06.2023).</li>
+     <li>Strategia (Strategy), available at: https://metanit.com/sharp/patterns/3.1.php (date of access 02.06.2023).</li>
+     <li>Raspopa E. A., Ananchenko I. V. Review of modern tools for automating testing of web applications, Almanah nauchnih rabot molodih uchenih universiteta ITMO, 2017, vol. 3, pp. 158—160 (in Russian).</li>
+     <li>Chertushkin D. A. SQL or NoSQL — types of databases, differences and applications, Nofainfo.ru, 2022, no. 132, pp. 14—15 (in Russian).</li>
+     <li>Salnikova N. A., Titarenko T. S., Smolova E. A. Information retrieval models for patent examination, Integraciya mirovoi nauki i tehniki: novie koncepcii i paradigm, 2023, pp. 250—254 (in Russian).</li>
+     <li>Krasnov F. V. Comparative analysis of the accuracy of methods for visualizing the structure of a collection of texts, Internation journal of open information technologies, 2021, vol. 9, no. 4, pp. 79—84.</li>
+     <li>Kara-Murza S. G. Citation in science and approaches to assessing the scientific contribution, Nauka. Kultura. Obschestvo, 2021, vol. 27, no. 4, pp. 132—141. DOI: 10.19181/nko.2021.27.4.11 (in Russian).</li>
  - doi: 15.254-264
    udk: "004.95"
    item_authors: "Orlov G. O., Vorobeva G. R."
    item_name: "Concept of Processing and Interpretation of Spatiotemporal Vector Data"
-   item_authors_address: | 
-     <b> G. O. Orlov</b>, Graduate Student, orlovgleb99@mail.ru, <b>  G. R. Vorobeva</b>, Dr. Sci., Professor, gulnara.vorobeva@gmail.com, Ufa University of Science and Technology, Ufa, 450078, Russian Federation
+   item_authors_address: |
+     <b>G. O. Orlov</b>, Graduate Student, orlovgleb99@mail.ru,
+     <b>G. R. Vorobeva</b>, Dr. Sci., Professor, gulnara.vorobeva@gmail.com,
+     Ufa University of Science and Technology, Ufa, 450078, Russian Federation
    item_corr_author: " Gleb O. Orlov, Graduate Student, Ufa University of Science and Technology, Ufa, 450078, Russian Federation E-mail: orlovgleb99@mail.ru"
    item_rec_on: December 04, 2023
    item_acc_on: March 19, 2024
@@ -122,33 +127,37 @@ content:
    item_keywords: tensor fields, visualization of tensors, glyphs, superellipses, heterogeneous data, tensor calculus
    item_pages: 254–264
    item_citation: "Orlov G. O., Vorobeva G. R. Concept of Processing and Interpretation of Spatiotemporal Vector Data, Programmnaya Ingeneria, 2024, vol. 15, no. 5, pp. 254—264. DOI: 10.17587/prin.15.254-264. (in Russian)."
-   item_references: | 
-     <ul>
-     <li>  Vorobev A. V., Vorobeva G. R. Web-based 2D/3D visualization of geomagnetic field parameters and its variations, Nauchnaya vizualizaciya, 2017, vol. 9, no. 2, pp. 94—101 (in Russian). </li>
-     <li> Vorobev A. V., Vorobeva G. R., Yusupova N. I. Concept of a single space of geomagnetic data, Trudy SPIIRAN, 2019, vol. 18, no. 2, pp. 390—415. DOI: 10.15622/sp.18.2.390-415 (in Russian). </li>
-     <li> Boyarchuk M. A., Zhurkin I. G., Nepoklonov V. B. Analysis of methods for visualizing geophysical fields in geographic information systems, Izvestiya vysshih uchebnyh zavedenij. Geodeziya i aerofotosemka, 2017, no. 1, pp. 108—113 (in Russian). </li>
-     <li> Boyarchuk M. A., Zhurkin I. G., Uchaev D. V., Uchaev Dm. V. Two-dimensional visualization of three-dimensional geophysical fields in problems of geoinformation modeling, Izvestiya vysshih uchebnyh zavedenij. Geodeziya i aerofotosemka, 2019, vol. 63, no. 6, pp. 718—728. DOI: 10.30533/0536-101X-2019-63-6-000-000 (in Russian). </li>
-     <li> Boyarchuk M. A., Zhurkin I. G., Nepoklonov V. B. Concept of a visualization method for Earth's gravity field on plain maps, Nauchnaya vizualizaciya, 2019, vol. 11, no. 1, pp. 70—79. DOI: 10.26583/sv.11.1.06 (in Russian). </li>
-     <li> Boyarchuk M. A. Development and research of a method for displaying the vector gravitational field of the Earth for geoinformation analysis: dis.... cand. tech. Sciences: 25.00.35. Moscow, 2020, 128 p. (in Russian). </li>
-     <li> Earth's Surface Magnetism, available at: https://earthob-servatory.nasa.gov/images/4505/earths-surface-magnetism (date of access 12.11.2023). </li>
-     <li> Chongke Bi, Lu Yang, Yulin Duan, Yun Shi. A survey on visualization of tensor field, The Visualization Society of Japan, 2019, vol. 22, no. 1, pp. 1—20. DOI: 10.1007/s12650-019-00555-8. </li>
-     <li> Schleich M., Shaikhha A., Suciu D. Optimizing Tensor Programs on Flexible Storage, Proceedings of the ACM on Management of Data, 2023, vol. 1, no. 1, article no 37, pp. 1—27. DOI: 10.1145/3588717. </li>
-     <li> Fong S. P., Wong T. Y. Information Systems Reengineering, Integration and Normalization: Heterogeneous Database Connectivity, Cham, Switzerland, Springer Cham, 2021, 384 p. </li>
-     <li> Meixia Feng. Geodata for everyone — model-driven development and an example of INSPIRE WFS service, Open Geo-spatial Data Software and Standards, 2016, vol. 1, no. 1, pp. 1—8. DOI: 10.1186/s40965-016-0007-y. </li>
-     <li> Vorobev A. V., Vorobeva G. R. Geoinformation system for amplitude-frequency analysis of observation data of geomagnetic variations and space weather, Kompyuternaya optika, 2017, vol. 41, no 6, pp. 963—972. DOI: 10.18287/2412-6179-2017-41-6-963-972 (in Russian). </li>
-     <li> Hierarchical data structures in relational databases, available at: https://www.rsdn.org/article/db/Hierarchy.xml (date of access 13.11.2023). </li>
-     <li> Stojanovic A., Horvat M., Kovacevic Z. An overview of data integration principles for heterogeneous databases, MIPRO 2022 45th Jubilee International Convention on Information and Communication Technology, 2022, vol. 2, pp. 1264—1269. DOI: 10.23919/ MIPRO55190.2022.9803579. </li>
-     <li> Vorobev, A. V., Soloviev A. А., Pilipenko V. A., Vorobeva G. R. Internet Application for Interactive Visualization of Geophysical and Space Data: Approach, Architecture, Technologies, Journal of the Earth and Space Physics, 2022, vol. 48, no. 4, pp. 151—160. DOI: 10.22059/jesphys.2023.350281.1007467. </li>
-     <li> The GeoJSON Specification, available at: https://datatrack-er.ietf.org/doc/html/rfc7946 (date of access 25.11.2023). </li>
-     <li> Huang Y., Wu L., Li D. Theoretical Research on Full Attitude Determination Using Geomagnetic Gradient Tensor, The Journal of Navigation, 2015, vol. 68, no. 5, pp. 951—961. DOI:10.1017/S0373463315000259. </li>
-     <li> Olsen N., Kotsiaros S. The geomagnetic field gradient tensor, GEM — International Journal on Geomathematics, 2012, vol. 3, no. 2, pp. 297—314. DOI: 10.1007/s13137-012-0041-6. </li>
-     </ul>
+   item_references: |
+     <li>Vorobev A. V., Vorobeva G. R. Web-based 2D/3D visualization of geomagnetic field parameters and its variations, Nauchnaya vizualizaciya, 2017, vol. 9, no. 2, pp. 94—101 (in Russian).</li>
+     <li>Vorobev A. V., Vorobeva G. R., Yusupova N. I. Concept of a single space of geomagnetic data, Trudy SPIIRAN, 2019, vol. 18, no. 2, pp. 390—415. DOI: 10.15622/sp.18.2.390-415 (in Russian).</li>
+     <li>Boyarchuk M. A., Zhurkin I. G., Nepoklonov V. B. Analysis of methods for visualizing geophysical fields in geographic information systems, Izvestiya vysshih uchebnyh zavedenij. Geodeziya i aerofotosemka, 2017, no. 1, pp. 108—113 (in Russian).</li>
+     <li>Boyarchuk M. A., Zhurkin I. G., Uchaev D. V., Uchaev Dm. V. Two-dimensional visualization of three-dimensional geophysical fields in problems of geoinformation modeling, Izvestiya vysshih uchebnyh zavedenij. Geodeziya i aerofotosemka, 2019, vol. 63, no. 6, pp. 718—728. DOI: 10.30533/0536-101X-2019-63-6-000-000 (in Russian).</li>
+     <li>Boyarchuk M. A., Zhurkin I. G., Nepoklonov V. B. Concept of a visualization method for Earth's gravity field on plain maps, Nauchnaya vizualizaciya, 2019, vol. 11, no. 1, pp. 70—79. DOI: 10.26583/sv.11.1.06 (in Russian).</li>
+     <li>Boyarchuk M. A. Development and research of a method for displaying the vector gravitational field of the Earth for geoinformation analysis: dis.... cand. tech. Sciences: 25.00.35. Moscow, 2020, 128 p. (in Russian).</li>
+     <li>Earth's Surface Magnetism, available at: https://earthob-servatory.nasa.gov/images/4505/earths-surface-magnetism (date of access 12.11.2023).</li>
+     <li>Chongke Bi, Lu Yang, Yulin Duan, Yun Shi. A survey on visualization of tensor field, The Visualization Society of Japan, 2019, vol. 22, no. 1, pp. 1—20. DOI: 10.1007/s12650-019-00555-8.</li>
+     <li>Schleich M., Shaikhha A., Suciu D. Optimizing Tensor Programs on Flexible Storage, Proceedings of the ACM on Management of Data, 2023, vol. 1, no. 1, article no 37, pp. 1—27. DOI: 10.1145/3588717.</li>
+     <li>Fong S. P., Wong T. Y. Information Systems Reengineering, Integration and Normalization: Heterogeneous Database Connectivity, Cham, Switzerland, Springer Cham, 2021, 384 p.</li>
+     <li>Meixia Feng. Geodata for everyone — model-driven development and an example of INSPIRE WFS service, Open Geo-spatial Data Software and Standards, 2016, vol. 1, no. 1, pp. 1—8. DOI: 10.1186/s40965-016-0007-y.</li>
+     <li>Vorobev A. V., Vorobeva G. R. Geoinformation system for amplitude-frequency analysis of observation data of geomagnetic variations and space weather, Kompyuternaya optika, 2017, vol. 41, no 6, pp. 963—972. DOI: 10.18287/2412-6179-2017-41-6-963-972 (in Russian).</li>
+     <li>Hierarchical data structures in relational databases, available at: https://www.rsdn.org/article/db/Hierarchy.xml (date of access 13.11.2023).</li>
+     <li>Stojanovic A., Horvat M., Kovacevic Z. An overview of data integration principles for heterogeneous databases, MIPRO 2022 45th Jubilee International Convention on Information and Communication Technology, 2022, vol. 2, pp. 1264—1269. DOI: 10.23919/ MIPRO55190.2022.9803579.</li>
+     <li>Vorobev, A. V., Soloviev A. А., Pilipenko V. A., Vorobeva G. R. Internet Application for Interactive Visualization of Geophysical and Space Data: Approach, Architecture, Technologies, Journal of the Earth and Space Physics, 2022, vol. 48, no. 4, pp. 151—160. DOI: 10.22059/jesphys.2023.350281.1007467.</li>
+     <li>The GeoJSON Specification, available at: https://datatrack-er.ietf.org/doc/html/rfc7946 (date of access 25.11.2023).</li>
+     <li>Huang Y., Wu L., Li D. Theoretical Research on Full Attitude Determination Using Geomagnetic Gradient Tensor, The Journal of Navigation, 2015, vol. 68, no. 5, pp. 951—961. DOI:10.1017/S0373463315000259.</li>
+     <li>Olsen N., Kotsiaros S. The geomagnetic field gradient tensor, GEM — International Journal on Geomathematics, 2012, vol. 3, no. 2, pp. 297—314. DOI: 10.1007/s13137-012-0041-6.</li>
  - doi: 15.265-272
    udk: "004.032.26"
    item_authors: "Palchevsky E. V., Antonov V. V., Makarova E. A., Kononov N. A., Voyakovskaya Ya. S."
    item_name: "Method of Data Preprocessing on the Basis of Pulse Neural Network to Improve the Accuracy of Water Level Forecast on the Example of Ufa City of the Republic of Bashkortostan"
-   item_authors_address: | 
-     <b> E. V. Palchevsky</b>, Senior Lecturer, teelxp@inbox.ru, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation, <b> V. V. Antonov</b>, D. Sc. (Technical), Head of Department, antonov.v@bashkortostan.ru, <b> E. A. Makarova</b>, D. Sc. (Technical), Professor of Department, ea-makarova@mail.ru, <b> N. A. Kononov</b>, Graduate Student, kononov.nick.pi@yandex.ru, <b> Ya. S. Voyakovskaya</b>, Senior Lecturer, in.edem@yandex.ru, Institute of Informatics, Mathematics and Robotics, Ufa University of Science and Technology, Ufa, 450008, Russian Federation
+   item_authors_address: |
+     <b>E. V. Palchevsky</b>, Senior Lecturer, teelxp@inbox.ru,
+     Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation,
+     <b>V. V. Antonov</b>, D. Sc. (Technical), Head of Department, antonov.v@bashkortostan.ru,
+     <b>E. A. Makarova</b>, D. Sc. (Technical), Professor of Department, ea-makarova@mail.ru,
+     <b>N. A. Kononov</b>, Graduate Student, kononov.nick.pi@yandex.ru,
+     <b>Ya. S. Voyakovskaya</b>, Senior Lecturer, in.edem@yandex.ru,
+     Institute of Informatics, Mathematics and Robotics, Ufa University of Science and Technology, Ufa, 450008, Russian Federation
    item_corr_author: " Evgeny V. Palchevsky, Senior Lecturer, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation, E-mail: teelxp@inbox.ru"
    item_rec_on: January 23, 2024
    item_acc_on: February 27, 2024
@@ -159,24 +168,20 @@ content:
    item_pages: 265–272
    item_comment: The research is carried out with the financial support of the Ministry of Education and Science of the Russian Federation as part of the basic part of the state task for higher education institutions #FEUE—2023—0007.
    item_citation: "Palchevsky E. V., Antonov V. V., Makarova E. A., Kononov N. A., Voyakovskaya Ya. S. Method of Data Preprocessing on the Basis of Pulse Neural Network to Improve the Accuracy of Water Level Forecast on the Example of Ufa City of the Republic of Bashkortostan, Programmnaya Ingeneria, 2024, vol. 15, no. 5, pp. 265—272. DOI: 10.17587/prin.15.265-272."
-   item_references: | 
-     <ul>     
-     <li>  Kasuni E. A., Sangam S. D., Ratnayake T. et al. Evaluation of artificial intelligence models for flood and drought forecasting in arid and tropical regions, Environmental Modelling & Software, 2021, vol. 144, article 105136. DOI: 10.1016/j.envsoft.2021.105136. </li>
-     <li> Yalcın S., Eşit M., Coban O. A new deep learning method for meteorological drought estimation based-on standard precipitation evapotranspiration index, Engineering Applications of Artificial Intelligence, 2023, vol. 124, pp. 106550. DOI: 10.1016/j.engappai.2023.106550. </li>
-     <li> Palchevsky E. V., Antonov V. V. Decision support system based on application of the second generation neural network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308. DOI: 10.17587/prin.13.301-308. </li>
-     <li> Palchevsky E. V., Antonov V. V., Rodionova L. A. et al. Intelligent forecasting of electricity consumption in managing energy enterprises in order to carry out energy-saving measures, Mekhatronika, Avtomatizatsiya, Upravlenie, 2023, vol. 24, no. 6, pp. 307—316. DOI: 10.17587/mau.24.307-316. </li>
-     <li> Oyounalsoud M. S., Abdallah M., Yilmaz A. G. et al. A new meteorological drought index based on fuzzy logic: Development and comparative assessment with conventional drought indices, Journal of Hydrology, 2023, vol. 619, article 129306. DOI: 10.1016/j.jhydrol.2023.129306. </li>
-     <li> Shatha A., Hossam F., Hazem H. EvoImputer: An evolutionary approach for Missing Data Imputation and feature selection in the context of supervised learning, Knowledge-Based Systems, 2022, vol. 236, article 107734. DOI: https://linkkk.org/10.1016/j.knosys.2021.107734. </li>
-     <li> Gideon A. L., Mohd Z., Anoop Krishman N. M., Sumanta D. Prediction of concrete strengths enabled by missing data imputation and interpretable machine learning. Cement and Concrete Composites, 2022, vol. 128, article 104414. DOI: 10.1016/j.cemconcomp.2022.104414. </li>
-     <li> "Flood 2.0" system. Year of implementation: 2023, available at: https://elforecasting.com/?lang=ru (date of access 03.01.2024). </li>
-     <li> Cron, available at: https://ru.wikipedia.org/wiki/Cron (date of access 08.01. 2024). </li>
-     <li> Zhu K. A new generalized exponentially weighted moving average quantile model and its statistical inference, Journal of Econometrics, 2023, vol. 237, article 105510. DOI: 10.1016/j.jeconom.2023.105510. </li>
-     <li> KNNimputer, available at: https://scikit-learn.org/stable/ modules/generated/sklearn.impute.KNNImputer.html (date of access 18.02.2024). </li>
-     <li> Simplelmputer, available at: https://scikit-learn.org/stable/ modules/generated/sklearn.impute.SimpleImputer.html (date of access 18.02.2024). </li>
-     <li> RLEAKY SNN, available at: https://snntorch.readthedocs. io/en/latest/snn.neurons_rleaky.html (date of access 10.01.2024). </li>
-     <li> PyTorch, available at: https://pytorch.org/ (15 Jan 2024). </li>
-     <li> SNNTorch, available at: https://snntorch.readthedocs.io/en/latest/ (date of access 16.01.2024). </li>
-     <li> Palchevsky E. V., Antonov V. V., Enikeev R. R., Breikin T. A system based on an artificial neural network of the second generation for decision support in especially significant situations, Journal of Hydrology, 2023, vol. 616, article 128844. DOI: 10.1016/j.jhydrol.2022.128844.  </li>
-     </ul>
-     ---
-
+   item_references: |
+     <li>Kasuni E. A., Sangam S. D., Ratnayake T. et al. Evaluation of artificial intelligence models for flood and drought forecasting in arid and tropical regions, Environmental Modelling & Software, 2021, vol. 144, article 105136. DOI: 10.1016/j.envsoft.2021.105136.</li>
+     <li>Yalcın S., Eşit M., Coban O. A new deep learning method for meteorological drought estimation based-on standard precipitation evapotranspiration index, Engineering Applications of Artificial Intelligence, 2023, vol. 124, pp. 106550. DOI: 10.1016/j.engappai.2023.106550.</li>
+     <li>Palchevsky E. V., Antonov V. V. Decision support system based on application of the second generation neural network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308. DOI: 10.17587/prin.13.301-308.</li>
+     <li>Palchevsky E. V., Antonov V. V., Rodionova L. A. et al. Intelligent forecasting of electricity consumption in managing energy enterprises in order to carry out energy-saving measures, Mekhatronika, Avtomatizatsiya, Upravlenie, 2023, vol. 24, no. 6, pp. 307—316. DOI: 10.17587/mau.24.307-316.</li>
+     <li>Oyounalsoud M. S., Abdallah M., Yilmaz A. G. et al. A new meteorological drought index based on fuzzy logic: Development and comparative assessment with conventional drought indices, Journal of Hydrology, 2023, vol. 619, article 129306. DOI: 10.1016/j.jhydrol.2023.129306.</li>
+     <li>Shatha A., Hossam F., Hazem H. EvoImputer: An evolutionary approach for Missing Data Imputation and feature selection in the context of supervised learning, Knowledge-Based Systems, 2022, vol. 236, article 107734. DOI: https://linkkk.org/10.1016/j.knosys.2021.107734.</li>
+     <li>Gideon A. L., Mohd Z., Anoop Krishman N. M., Sumanta D. Prediction of concrete strengths enabled by missing data imputation and interpretable machine learning. Cement and Concrete Composites, 2022, vol. 128, article 104414. DOI: 10.1016/j.cemconcomp.2022.104414.</li>
+     <li>"Flood 2.0" system. Year of implementation: 2023, available at: https://elforecasting.com/?lang=ru (date of access 03.01.2024).</li>
+     <li>Cron, available at: https://ru.wikipedia.org/wiki/Cron (date of access 08.01. 2024).</li>
+     <li>Zhu K. A new generalized exponentially weighted moving average quantile model and its statistical inference, Journal of Econometrics, 2023, vol. 237, article 105510. DOI: 10.1016/j.jeconom.2023.105510.</li>
+     <li>KNNimputer, available at: https://scikit-learn.org/stable/ modules/generated/sklearn.impute.KNNImputer.html (date of access 18.02.2024).</li>
+     <li>Simplelmputer, available at: https://scikit-learn.org/stable/ modules/generated/sklearn.impute.SimpleImputer.html (date of access 18.02.2024).</li>
+     <li>RLEAKY SNN, available at: https://snntorch.readthedocs. io/en/latest/snn.neurons_rleaky.html (date of access 10.01.2024).</li>
+     <li>PyTorch, available at: https://pytorch.org/ (15 Jan 2024).</li>
+     <li>SNNTorch, available at: https://snntorch.readthedocs.io/en/latest/ (date of access 16.01.2024).</li>
+     <li>Palchevsky E. V., Antonov V. V., Enikeev R. R., Breikin T. A system based on an artificial neural network of the second generation for decision support in especially significant situations, Journal of Hydrology, 2023, vol. 616, article 128844. DOI: 10.1016/j.jhydrol.2022.128844.</li>

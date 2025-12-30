@@ -6,7 +6,8 @@ content:
    item_authors: Maltsev A. V.
    item_name: Methods for Implementing Tactile Sensations in Virtual Space by Integrating Physical Objects with Their Computer Models
    item_authors_address: |
-     <b>A. V. Maltsev</b>, Ph.D., Leading Researcher, avmaltcev@mail.ru, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+     <b>A. V. Maltsev</b>, Ph.D., Leading Researcher, avmaltcev@mail.ru,
+     Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
    item_corr_author: "Andrey V. Maltsev, Ph.D., Leading Researcher, Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: avmaltcev@mail.ru"
    item_rec_on: May 22, 2024
    item_acc_on: May 30, 2024
@@ -36,10 +37,13 @@ content:
    item_authors: Filaretov V. F., Mursalimov E. Sh., Timoshenko A. A., Zuev A. V.
    item_name: Method of Forming and Algorithm of Saving a Photo Map of the Seafloor during its Photography by an Unmanned Underwater Vehicle
    item_authors_address: |
-     <b>V. F. Filaretov</b>, Professor, Chief Researcher, filaretov@inbox.ru, Sevastopol State University, Sevastopol, 299053, Russian Federation,
+     <b>V. F. Filaretov</b>, Professor, Chief Researcher, filaretov@inbox.ru,
+     Sevastopol State University, Sevastopol, 299053, Russian Federation,
      <b>E. Sh. Mursalimov</b>, PhD, Leading Researcher, murs@dvo.ru,
-     <b>A. A. Timoshenko</b>, Research Associate, officesuit@mail.ru, M. D. Ageev Institute of Marine Technology Problems FEB RAS, Vladivostok, 690091, Russian Federation,
-     <b>A. V. Zuev</b>, PhD, Leading Researcher, alvzuev@yandex.ru, Sevastopol State University, Sevastopol, 299053, Russian Federation
+     <b>A. A. Timoshenko</b>, Research Associate, officesuit@mail.ru,
+     M. D. Ageev Institute of Marine Technology Problems FEB RAS, Vladivostok, 690091, Russian Federation,
+     <b>A. V. Zuev</b>, PhD, Leading Researcher, alvzuev@yandex.ru,
+     Sevastopol State University, Sevastopol, 299053, Russian Federation
    item_corr_author: "Eduard Sh. Mursalimov, PhD, Leading Researcher, M. D. Ageev Institute of Marine Technology Problems FEB RAS, Vladivostok, 690091, Russian Federation, E-mail: murs@dvo.ru"
    item_rec_on: March 27, 2024
    item_acc_on: June 04, 2024
@@ -84,7 +88,8 @@ content:
    item_authors: Petrishchev E. A.
    item_name: Algorithms for Route Planning and Navigation of Unmanned Aerial Vehicles
    item_authors_address: |
-     <b>E. A. Petrishchev</b>, Postgraduate Student, arnoa9129@gmail.com, Russian New University, Moscow, 105005, Russian Federation
+     <b>E. A. Petrishchev</b>, Postgraduate Student, arnoa9129@gmail.com,
+     Russian New University, Moscow, 105005, Russian Federation
    item_corr_author: "Evgeniy A. Petrishchev, Postgraduate Student, Russian New University, Moscow, 105005, Russian Federation E-mail: arnoa9129@gmail.com"
    item_rec_on: February 08, 2024
    item_acc_on: May 20, 2024
@@ -111,7 +116,8 @@ content:
    item_name: Development of an Information System for Wood Harvesting Planning
    item_authors_address: |
      <b>A. P. Sokolov</b>, Professor, Head of Chair, a_sokolov@petrsu.ru,
-     <b>A. I. Shabaev</b>, Associate Professor, ashabaev@petrsu.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+     <b>A. I. Shabaev</b>, Associate Professor, ashabaev@petrsu.ru,
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
    item_corr_author: "Anton P. Sokolov, Professor, Head of Chair, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation E-mail: a_sokolov@petrsu.ru"
    item_rec_on: February 22, 2024
    item_acc_on: April 11, 2024

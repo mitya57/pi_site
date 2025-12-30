@@ -5,8 +5,10 @@ content:
    udk: "519.714.5"
    item_authors: "Cheremisinov D. I., Cheremisinova L. D."
    item_name: "Compilation of Hierarchical Transistor Circuits in SPICE Format"
-   item_authors_address: | 
-     <b>D. I. Cheremisinov</b>, Leading Researcher, cher@newman.bas-net.by, <b>L. D. Cheremisinova</b>, Chief Researcher, cld@newman.bas-net.by, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Republic of Belarus
+   item_authors_address: |
+     <b>D. I. Cheremisinov</b>, Leading Researcher, cher@newman.bas-net.by,
+     <b>L. D. Cheremisinova</b>, Chief Researcher, cld@newman.bas-net.by,
+     The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Republic of Belarus
    item_corr_author: "Liudmila D. Cheremisinova, Chief Researcher, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Republic of Belarus, E-mail: cld@newman.bas-net.by"
    item_rec_on: November 30, 2023
    item_acc_on: December 18, 2023
@@ -17,25 +19,24 @@ content:
    item_keywords: compilation of hierarchical circuits, decompilation, CMOS circuit, SPICE format, hierarchy elimination
    item_pages: 115–124
    item_citation: "Cheremisinov D. I., Cheremisinova L. D. Compilation of Hierarchical Transistor Circuits in SPICE Format, Programmnaya Ingeneria, 2024, vol. 15, no. 3, pp. 115—124. DOI: 10.17587/prin.15.115-124 (in Russian)."
-   item_references: | 
-     <ul>     
-      <li> Cheremisinov D. I., Cheremisinova L. D. Extracting a Logic Gate Network from a Transistor-Level CMOS Circuit, Russian Microelectronics, 2019, vol. 48, no. 3, pp. 187—196. DOI: 10.1134/ S106373971903003X. </li>  
-      <li> Yang L., Shi C-J. R. FROSTY: A program for fast extraction of high-level structural representation from circuit description for industrial CMOS circuits, Integration the VLSI Journal, 2006, vol. 39, no. 4, pp. 311—339. DOI: 10.1016/j.vlsi.2005.07.002. </li>  
-      <li> Baker R. J. CMOS Circuit Design, Layout, and Simulation, Wiley-IEEE Press, 2010 (Third Edition), 1214 p. </li>  
-      <li> Jones L. G. Fast batch incremental netlist compilation of hierarchical schematics, IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, 1991, vol. 10, no. 7, pp. 922—931. DOI: 10.1109/43.87602. </li>  
-      <li> Diss W. C. Circuit compilers don't have to be slow, DAC'88: Proc. of the 25th ACM/IEEE, Design Automation Conference (Anaheim, CA, USA), 12—15 June 1988, pp. 622—627. </li>  
-      <li> Kirienko N. A. Podsistema obrabotki strukturno-funkcional'ny'x opisanij sxem v sisteme avtomatizirovannogo proektirovaniya, Problemy razrabotki perspektivnyh mikro- nanoelektronnyh system, 2008, Sb. trudov / pod obshch. red. akad. RAN A. L. Stempkovskogo, Moscow, IPPM RAN, 2008, pp. 215—220 (in Russian). </li>  
-      <li> Kirienko N. A. Elimination of the hierarchy of transistor descriptions of logical circuits, Informatsionnyye tekhnologii i siste-my, 2019, Materialy mezhdunar. nauch. konf. (Respublika Belarus, Minsk, 30 Okt. 2019), Minsk, BSUIR, 2019, pp. 136—137 (in Russian). </li>  
-      <li> Cheremisinov D. I. Element search and adjustment in hash tables, Algoritmy resheniya logiko-kombinatornykh zadach, 1975, Sb. trudov, Minsk, ITK AN BSSR, 1975, рр. 90—99 (in Russian). </li>  
-      <li> Knuth D. E. The Art of Computer Programming. Volume 3: Sorting and Searching, Addison Wesley Longman Publishing Co., Inc., 1998 (2nd Ed.), 780 p. </li>  
-      <li> Bartlett J. Mastering recursive programming, 2005, available at: https://developer.ibm.com/articles/l-recurs/ (updated 26.04.2017).</li>  
-     </ul>
+   item_references: |
+     <li>Cheremisinov D. I., Cheremisinova L. D. Extracting a Logic Gate Network from a Transistor-Level CMOS Circuit, Russian Microelectronics, 2019, vol. 48, no. 3, pp. 187—196. DOI: 10.1134/ S106373971903003X.</li>
+     <li>Yang L., Shi C-J. R. FROSTY: A program for fast extraction of high-level structural representation from circuit description for industrial CMOS circuits, Integration the VLSI Journal, 2006, vol. 39, no. 4, pp. 311—339. DOI: 10.1016/j.vlsi.2005.07.002.</li>
+     <li>Baker R. J. CMOS Circuit Design, Layout, and Simulation, Wiley-IEEE Press, 2010 (Third Edition), 1214 p.</li>
+     <li>Jones L. G. Fast batch incremental netlist compilation of hierarchical schematics, IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, 1991, vol. 10, no. 7, pp. 922—931. DOI: 10.1109/43.87602.</li>
+     <li>Diss W. C. Circuit compilers don't have to be slow, DAC'88: Proc. of the 25th ACM/IEEE, Design Automation Conference (Anaheim, CA, USA), 12—15 June 1988, pp. 622—627.</li>
+     <li>Kirienko N. A. Podsistema obrabotki strukturno-funkcional'ny'x opisanij sxem v sisteme avtomatizirovannogo proektirovaniya, Problemy razrabotki perspektivnyh mikro- nanoelektronnyh system, 2008, Sb. trudov / pod obshch. red. akad. RAN A. L. Stempkovskogo, Moscow, IPPM RAN, 2008, pp. 215—220 (in Russian).</li>
+     <li>Kirienko N. A. Elimination of the hierarchy of transistor descriptions of logical circuits, Informatsionnyye tekhnologii i siste-my, 2019, Materialy mezhdunar. nauch. konf. (Respublika Belarus, Minsk, 30 Okt. 2019), Minsk, BSUIR, 2019, pp. 136—137 (in Russian).</li>
+     <li>Cheremisinov D. I. Element search and adjustment in hash tables, Algoritmy resheniya logiko-kombinatornykh zadach, 1975, Sb. trudov, Minsk, ITK AN BSSR, 1975, рр. 90—99 (in Russian).</li>
+     <li>Knuth D. E. The Art of Computer Programming. Volume 3: Sorting and Searching, Addison Wesley Longman Publishing Co., Inc., 1998 (2nd Ed.), 780 p.</li>
+     <li>Bartlett J. Mastering recursive programming, 2005, available at: https://developer.ibm.com/articles/l-recurs/ (updated 26.04.2017).</li>
  - doi: 15.125-133
    udk: "004.65, 004.82"
    item_authors: "Shachnev D. A."
    item_name: "Methods for Thematic Analysis and Ranking in Information Analysis Systems Based on Relational DBMS"
-   item_authors_address: | 
-     <b> D. A. Shachnev</b>, PhD, Researcher, mitya57@gmail.com, Lomonosov Moscow State University, Moscow, 119991, Russian Federation 
+   item_authors_address: |
+     <b>D. A. Shachnev</b>, PhD, Researcher, mitya57@gmail.com,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation
    item_corr_author: " Dmitry A. Shachnev, PhD, Researcher Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: mitya57@gmail.com"
    item_rec_on: December 13, 2023
    item_acc_on: January 15, 2024
@@ -45,30 +46,29 @@ content:
    item_keywords: information analysis systems, current research information systems, CRIS, subject area, ranking, keywords, rubrics
    item_pages: 125–133
    item_citation: "Shachnev D. A. Methods for Thematic Analysis and Ranking in Information Analysis Systems Based on Relational DBMS, Programmnaya Ingeneria, 2024, vol. 15, no. 3, pp. 125—133. DOI: 10.17587/prin.15.125-133."
-   item_references: | 
-    <ul>  
-     <li>    Mohmmed A. G. M., Osman S. E. F. Study on SQL vs. NoSQL vs. NewSQL, Journal of Multidisciplinary Engineering Science Studies (JMESS), 2017, vol. 3, no. 6, pp. 1821—1823, available at: https://www.jmess.org/wp-content/uploads/2017/07/ JMESSP13420354.pdf (date of access 12.12.2023). </li>
-     <li>  Torres A., Galante R., Pimenta M. S., Martins A. J. B. Twenty years of object-relational mapping: A survey on patterns, solutions, and their implications on application design, Information and Software Technology, 2017, vol. 82, pp. 1—18. DOI: 10.1016/j.infsof.2016.09.009. </li>
-     <li>  Bayer M. SQLAlchemy, The Architecture of Open Source Applications Volume II: Structure, Scale, and a Few More Fearless Hacks / Eds A. Brown, G. Wilson, aosabook.org, 2012, available at: https://aosabook.org/en/v2/sqlalchemy.html (date of access 12.12.2023). </li>
-     <li>  Krivchikov M., Shachnev D., Vasenin V., Zenzinov A. "ISTINA" data analysis system: Cross-cutting technologies for science and education, 2019 Actual Problems of Systems and Software Engineering (APSSE), 2019, pp. 146—156. DOI: 10.1109/ APSSE47353.2019.00026. </li>
-     <li>  Das S., Sundara S., Cyganiak R. R2RML: RDB to RDF mapping language, W3C, 2012, available at: https://www.w3.org/ TR/2012/REC-r2rml-20120927/ (date of access 12.12.2023). </li>
-     <li>  Mikolov T., Chen K., Corrado G., Dean J. Efficient estimation of word representations in vector space, 2013, available at: https://arxiv.org/abs/1301.3781(date of access 12.12.2023). </li>
-     <li>  Biemann C. Ontology learning from text: A survey of methods, Journal for Language Technology and Computational Linguistics, 2005, vol. 20, no. 2, pp. 75—93. DOI: 10.21248/jlcl.20.2005.76. </li>
-     <li>  Vasenin V., Lunev K., Afonin S., Shachnev D. Methods for intelligent data analysis based on keywords and implicit relations: The case of "ISTINA" data analysis system, 2019 Actual Problems of Systems and Software Engineering (APSSE), 2019, pp. 157—161. DOI: 10.1109/APSSE47353.2019.00027. </li>
-     <li>  Sahlgren M. The distributional hypothesis, Italian Journal of Linguistics, 2008, vol. 20.1, pp. 33—53, available at: https://www.italian-journal-linguistics.com/app/uploads/2021/05/Sahlgren-1.pdf (date of access 12.12.2023). </li>
-     <li>  Dosilovic F. K., Brcic M., Hlupic N. Explainable artificial intelligence: A survey, 2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), IEEE, 2018, pp. 0210—0215. DOI: 10.23919/MIPRO.2018.8400040. </li>
-     <li>  Jones K. S. A statistical interpretation of term specificity and its application in retrieval, Journal of Documentation, 1972, vol. 28, no. 1, pp. 11—21. DOI: 10.1108/eb026526. </li>
-     <li>  Singhal A. Modern information retrieval: A brief overview, IEEE Data Engineering Bulletin, 2001, vol. 24, pp. 35—43, available at: http://singhal.info/ieee2001.pdf (date of access 12.12.2023). </li>
-     <li>  Sidorov G., Gelbukh A., Gomez-Adorno H., Pinto D. Soft similarity and soft cosine measure: Similarity of features in vector space model, Computacion y Sistemas, 2014, vol. 18, no. 3, pp. 491—504. DOI: 10.13053/CyS-18-3-2043. </li>
-     <li>  Revised field of science and technology (FOS) classification in the Frascati Manual, Organisation for Economic Co-operation and Development, 2007, available at: https://web-archive.oecd. org/2012-06-15/138575-38235147.pdf (date of access 12.12.2023). </li>
-     <li>  Leacock C., Chodorow M. Combining local context and WordNet similarity for word sense identification, WordNet: An Electronic Lexical Database / Ed. C. Fellbaum, MIT Press, Cambridge, 1998, pp. 265—283. DOI: 10.7551/mitpress/7287.003.0018.</li>
-    </ul>
+   item_references: |
+     <li>Mohmmed A. G. M., Osman S. E. F. Study on SQL vs. NoSQL vs. NewSQL, Journal of Multidisciplinary Engineering Science Studies (JMESS), 2017, vol. 3, no. 6, pp. 1821—1823, available at: https://www.jmess.org/wp-content/uploads/2017/07/ JMESSP13420354.pdf (date of access 12.12.2023).</li>
+     <li>Torres A., Galante R., Pimenta M. S., Martins A. J. B. Twenty years of object-relational mapping: A survey on patterns, solutions, and their implications on application design, Information and Software Technology, 2017, vol. 82, pp. 1—18. DOI: 10.1016/j.infsof.2016.09.009.</li>
+     <li>Bayer M. SQLAlchemy, The Architecture of Open Source Applications Volume II: Structure, Scale, and a Few More Fearless Hacks / Eds A. Brown, G. Wilson, aosabook.org, 2012, available at: https://aosabook.org/en/v2/sqlalchemy.html (date of access 12.12.2023).</li>
+     <li>Krivchikov M., Shachnev D., Vasenin V., Zenzinov A. "ISTINA" data analysis system: Cross-cutting technologies for science and education, 2019 Actual Problems of Systems and Software Engineering (APSSE), 2019, pp. 146—156. DOI: 10.1109/ APSSE47353.2019.00026.</li>
+     <li>Das S., Sundara S., Cyganiak R. R2RML: RDB to RDF mapping language, W3C, 2012, available at: https://www.w3.org/ TR/2012/REC-r2rml-20120927/ (date of access 12.12.2023).</li>
+     <li>Mikolov T., Chen K., Corrado G., Dean J. Efficient estimation of word representations in vector space, 2013, available at: https://arxiv.org/abs/1301.3781(date of access 12.12.2023).</li>
+     <li>Biemann C. Ontology learning from text: A survey of methods, Journal for Language Technology and Computational Linguistics, 2005, vol. 20, no. 2, pp. 75—93. DOI: 10.21248/jlcl.20.2005.76.</li>
+     <li>Vasenin V., Lunev K., Afonin S., Shachnev D. Methods for intelligent data analysis based on keywords and implicit relations: The case of "ISTINA" data analysis system, 2019 Actual Problems of Systems and Software Engineering (APSSE), 2019, pp. 157—161. DOI: 10.1109/APSSE47353.2019.00027.</li>
+     <li>Sahlgren M. The distributional hypothesis, Italian Journal of Linguistics, 2008, vol. 20.1, pp. 33—53, available at: https://www.italian-journal-linguistics.com/app/uploads/2021/05/Sahlgren-1.pdf (date of access 12.12.2023).</li>
+     <li>Dosilovic F. K., Brcic M., Hlupic N. Explainable artificial intelligence: A survey, 2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), IEEE, 2018, pp. 0210—0215. DOI: 10.23919/MIPRO.2018.8400040.</li>
+     <li>Jones K. S. A statistical interpretation of term specificity and its application in retrieval, Journal of Documentation, 1972, vol. 28, no. 1, pp. 11—21. DOI: 10.1108/eb026526.</li>
+     <li>Singhal A. Modern information retrieval: A brief overview, IEEE Data Engineering Bulletin, 2001, vol. 24, pp. 35—43, available at: http://singhal.info/ieee2001.pdf (date of access 12.12.2023).</li>
+     <li>Sidorov G., Gelbukh A., Gomez-Adorno H., Pinto D. Soft similarity and soft cosine measure: Similarity of features in vector space model, Computacion y Sistemas, 2014, vol. 18, no. 3, pp. 491—504. DOI: 10.13053/CyS-18-3-2043.</li>
+     <li>Revised field of science and technology (FOS) classification in the Frascati Manual, Organisation for Economic Co-operation and Development, 2007, available at: https://web-archive.oecd. org/2012-06-15/138575-38235147.pdf (date of access 12.12.2023).</li>
+     <li>Leacock C., Chodorow M. Combining local context and WordNet similarity for word sense identification, WordNet: An Electronic Lexical Database / Ed. C. Fellbaum, MIT Press, Cambridge, 1998, pp. 265—283. DOI: 10.7551/mitpress/7287.003.0018.</li>
  - doi: 15.134-145
    udk: "004.89"
    item_authors: "Khoroshavin A. K."
    item_name: "System for Selecting Tourist Routes Based on Genetic Programming"
-   item_authors_address: | 
-     <b> A. K. Khoroshavin</b>, Postgraduate Student, a.khoroshavin@g.nsu.ru, Novosibirsk State University, Novosibirsk, 630090, Russian Federation 
+   item_authors_address: |
+     <b>A. K. Khoroshavin</b>, Postgraduate Student, a.khoroshavin@g.nsu.ru,
+     Novosibirsk State University, Novosibirsk, 630090, Russian Federation
    item_corr_author: " Aleksey K. Khoroshavin, Postgraduate Student, Novosibirsk State University, Novosibirsk, 630090, Russian Federation, E-mail: a.khoroshavin@g.nsu.ru"
    item_rec_on: December 17, 2023
    item_acc_on: January 17, 2024
@@ -77,27 +77,28 @@ content:
    item_keywords:  recommender system, genetic algorithm, fitness function, routes, selection criteria, time constraints, over-specialization problem, category hierarchy, crossover, mutation
    item_pages: 134–145
    item_citation: "Khoroshavin A. K. System for Selecting Tourist Routes Based on Genetic Programming, Programmnaya Ingeneria, 2024, vol. 15, no. 3, pp. 134—145. DOI: 10.17587/prin.15.134-145 (in Russian)."
-   item_references: | 
-     <ul> 
-     <li> Khoroshavin A. K. Reducing the influence of the cold start problem in the formation of tourist recommendations, Materials of the IX International Conference "Knowledge-Ontologies-Theories" (ZONT-2023), 2023, pp. 272—278, (in Russian). </li>
-     <li> Vansteenwegen P., Souffriau W., Vanden Berghe G., Van Oudheusden D. The City Trip Planner: An expert system for tourists, Expert Systems with Applications, 2011, vol. 38, no. 6, pp. 6540 — 6546. DOI: 10.1016/j.eswa.2010.11.085. </li>
-     <li> Brito J., Expiosito-Marquez A., Moreno J. A. A fuzzy GRASP algorithm for solving a tourist trip design problem, In 2017 IEEE international conference on fuzzy systems (FUZZ-IEEE), Naples, Italy, 2017, pp. 1—6. DOI: 10.1109/FUZZ-IEEE.2017.8015656. </li>
-     <li> Castillo L., Armengol E., Onaindia E. et al. SAMAP: A user-oriented adaptive system for planning tourist visits, Expert Systems with Applications, 2008, vol. 34, no. 2, pp. 1318—1332. DOI:. 10.1016/j.eswa.2006.12.029. </li>
-     <li> Paulavicius R., Stripinis L., Sutaviciute S. et al. A novel greedy genetic algorithm-based personalized travel recommendation system, Expert Systems with Applications, 2023, vol. 230, article 120580. DOI: 10.1016/j.eswa.2023.120580. </li>
-     <li> Vansteenwegen P., Souffriau W., Oudheusden D. V. The orienteering problem: A survey, European Journal of Operational Research, 2011, vol. 209, no. 1, pp. 1—10. DOI: 10.1016/j.ejor.2010.03.045. </li>
-     <li> Golden B. L., Levy L., Vohra R. The orienteering problem, Naval Research Logistics, 1987, vol. 34, no. 3, pp. 307—318. DOI:. 10.1002/1520-6750(198706)34:33.0.CO;2-D. </li>
-     <li> Stitini O., Kaloun S., Bencharef O. An Improved Recom-mender System Solution to Mitigate the Over-Specialization Problem Using Genetic Algorithms, Electronics, 2022, vol. 11, article 242. DOI: 10.3390/electronics11020242. </li>
-     <li> Xin-She Yang. Nature-Inspired Optimization Algorithms, Elsevier, 2014, Chapter 14, pp. 197—211. </li>
-     <li> Zitzler E. Multiobjective Evolutionary Algorithms: A Comparative Case Study and the Strength Pareto Approach / E. Zitzler, L. Thiele, IEEE Transactions on evolutionary computation, 1999, vol. 3, no. 4, pp. 257—271. DOI: 10.1109/4235.797969. </li>
-     <li> Holland J. P. Adaptation in Natural and Artificial Systems. An Introductory Analysis with Application to Biology, Control and Artificial Intelligence, University of Michigan, 1975, 210 p. </li>
-     <li> Zitzler E., Laumanns M., Thiele L. SPEA2: Improving the strength Pareto evolutionary algorithm, TIK report, 2001, vol. 103. DOI: 10.3929/ethz-a-004284029. </li>
-     </ul>
+   item_references: |
+     <li>Khoroshavin A. K. Reducing the influence of the cold start problem in the formation of tourist recommendations, Materials of the IX International Conference "Knowledge-Ontologies-Theories" (ZONT-2023), 2023, pp. 272—278, (in Russian).</li>
+     <li>Vansteenwegen P., Souffriau W., Vanden Berghe G., Van Oudheusden D. The City Trip Planner: An expert system for tourists, Expert Systems with Applications, 2011, vol. 38, no. 6, pp. 6540 — 6546. DOI: 10.1016/j.eswa.2010.11.085.</li>
+     <li>Brito J., Expiosito-Marquez A., Moreno J. A. A fuzzy GRASP algorithm for solving a tourist trip design problem, In 2017 IEEE international conference on fuzzy systems (FUZZ-IEEE), Naples, Italy, 2017, pp. 1—6. DOI: 10.1109/FUZZ-IEEE.2017.8015656.</li>
+     <li>Castillo L., Armengol E., Onaindia E. et al. SAMAP: A user-oriented adaptive system for planning tourist visits, Expert Systems with Applications, 2008, vol. 34, no. 2, pp. 1318—1332. DOI:. 10.1016/j.eswa.2006.12.029.</li>
+     <li>Paulavicius R., Stripinis L., Sutaviciute S. et al. A novel greedy genetic algorithm-based personalized travel recommendation system, Expert Systems with Applications, 2023, vol. 230, article 120580. DOI: 10.1016/j.eswa.2023.120580.</li>
+     <li>Vansteenwegen P., Souffriau W., Oudheusden D. V. The orienteering problem: A survey, European Journal of Operational Research, 2011, vol. 209, no. 1, pp. 1—10. DOI: 10.1016/j.ejor.2010.03.045.</li>
+     <li>Golden B. L., Levy L., Vohra R. The orienteering problem, Naval Research Logistics, 1987, vol. 34, no. 3, pp. 307—318. DOI:. 10.1002/1520-6750(198706)34:33.0.CO;2-D.</li>
+     <li>Stitini O., Kaloun S., Bencharef O. An Improved Recom-mender System Solution to Mitigate the Over-Specialization Problem Using Genetic Algorithms, Electronics, 2022, vol. 11, article 242. DOI: 10.3390/electronics11020242.</li>
+     <li>Xin-She Yang. Nature-Inspired Optimization Algorithms, Elsevier, 2014, Chapter 14, pp. 197—211.</li>
+     <li>Zitzler E. Multiobjective Evolutionary Algorithms: A Comparative Case Study and the Strength Pareto Approach / E. Zitzler, L. Thiele, IEEE Transactions on evolutionary computation, 1999, vol. 3, no. 4, pp. 257—271. DOI: 10.1109/4235.797969.</li>
+     <li>Holland J. P. Adaptation in Natural and Artificial Systems. An Introductory Analysis with Application to Biology, Control and Artificial Intelligence, University of Michigan, 1975, 210 p.</li>
+     <li>Zitzler E., Laumanns M., Thiele L. SPEA2: Improving the strength Pareto evolutionary algorithm, TIK report, 2001, vol. 103. DOI: 10.3929/ethz-a-004284029.</li>
  - doi: 15.146-154
    udk: "004.02"
    item_authors: "Fedotov N. A., Kovalev S. V., Kovaleva O. A."
    item_name: "Information System for the Selection of Hydropneumatic Capacitive Vessels"
-   item_authors_address: | 
-     <b> N. A. Fedotov</b>, Postgraduate Student, fedotov125@yandex.ru, <b> S. V. Kovalev</b>, Doctor of Technical Sciences, Associate Professor, Professor of Department, sseedd@mail.ru, <b> O. A. Kovaleva</b>, Doctor of Technical Sciences, Associate Professor, Professor of Department, solomina-oa@yandex.ru, Derzhavin Tambov State University, Tambov, 392036, Russian Federation 
+   item_authors_address: |
+     <b>N. A. Fedotov</b>, Postgraduate Student, fedotov125@yandex.ru,
+     <b>S. V. Kovalev</b>, Doctor of Technical Sciences, Associate Professor, Professor of Department, sseedd@mail.ru,
+     <b>O. A. Kovaleva</b>, Doctor of Technical Sciences, Associate Professor, Professor of Department, solomina-oa@yandex.ru,
+     Derzhavin Tambov State University, Tambov, 392036, Russian Federation
    item_corr_author: " Nikita A. Fedotov, Postgraduate Student, Derzhavin Tambov State University, Tambov, 392036, Russian Federation, E-mail: fedotov125@yandex.ru"
    item_rec_on: July 07, 2023
    item_acc_on:  January 17, 2024
@@ -107,31 +108,34 @@ content:
    item_keywords: information system, selection of pneumohydroaccumulators, data aggregation, relevance of information, database
    item_pages: 146–154
    item_citation: "Fedotov N. A., Kovalev S. V., Kovaleva O. A. Information System for the Selection of Hydropneumatic Capacitive Vessels, Programmnaya Ingeneria, 2024, vol. 15, no. 3, pp. 146—154. DOI: 10.17587/prin.15.146-154. (in Russian)."
-   item_references: | 
-     <ul>     
-     <li>  Nikitaev I. V. The choice of parameters of the hydraulic accumulator of the depreciation system of the working equipment of lifting and transport vehicles with a rigid suspension, Bulletin of the Volga State Academy of Water Transport, 2012, no. 30, pp. 96—102 (in Russian). </li>
-     <li> Rushnikov A. Yu. Calculation of the volume of the accumulator tank when supplying water to the water supply network, Plumbing, Heating, Air conditioning, 2020, no. 7 (223), pp. 26—29 (in Russian). </li>
-     <li> Malybaev N. S., Kasenov A. Zh., Abishev K. K. Recommendations on the choice of a hydraulic accumulator for a hydraulic system, Science and Technology of Kazakhstan, 2020, no. 1, pp. 86—93 (in Russian). </li>
-     <li> Steuer R. Multi-criteria optimization. Theory, calculations and applications. Translated from the English by E. M. Stolyarova / Ed. by A. V. Lotov. Moscow, Radio and Communications, 1992, 504 p. (in Russian). </li>
-     <li> Orlov A. I. Organizational and economic modeling, Moscow, Publishing House of the Bauman Moscow State Technical University, 2009, 624 p. (in Russian). </li>
-     <li> Khvostov A. V., Makarov O. Yu. Complex criterion of optimality when using evolutionary modeling methods, Proceedings of the international symposium "Reliability and quality", 2020, no. 1, pp. 238—241 (in Russian). </li>
-     <li> Taik A. M., Lupin S. A., Balabaev S. A. Features of the application of the full search algorithm to solve the quadratic assignment problem, International Journal of Open Information Technologies, 2023, vol. 11, no. 7. pp. 60—68. </li>
-     <li> Amany A. S., Haitham A. E., Aboelfetouh Ahmed. Comparative analysis of AHP, FAHP and NeutrosophicAHP based on multi-criteria for adopting ERPS, Neutrosophic Sets and Systems, 2021, no. 41, pp. 63—88. </li>
-     <li> Canco I., Kruja D., Iancu T. AHP, a Reliable Method for Quality Decision Making: A Case Study in Business, Sustainability, 2021, no. 13, 15 p. DOI: 10.3390/su132413932. </li>
-     <li> Sequeira M., Hilletofth P., Adlemo A. AHP-based support tools for initial screening of manufacturing reshoring decisions, Journal of Global Operations and Strategic Sourcing, 2021, vol. 14, no. 3, pp. 502—527. DOI: 10.1108/JGOSS-07-2020-0037. </li>
-     <li> Titarev D. V., Trunnikov M. V., Volodin P. Yu. Design and development of a software package for automatic selection of pumping stations for water supply and formation of technical and commercial proposals, Information and mathematical technologies in science and management, 2021, no. 2 (22), pp. 105—114. DOI: 10.38028/ESI.2021.22.2.011 (in Russian). </li>
-     <li> Egorov A. F., Savitskaya T. V., Dementienko A. V. In­formation modeling system of equipment protection from corrosion, Software products and systems, 2016, no. 1, pp. 120—125. DOI: 10.15827/0236-235x.113.120-125 (in Russian). </li>
-     <li> Kostyukova T. P., Gainetdinov R. R. Information system for selecting the composition of equipment for a combined power supply system for medical and preventive institutions using renewable energy sources, Naukovedenie, 2016, vol. 8, no. 4, pр. 10 (in Russian). </li>
-     <li> Batyrgazieva D. R., Guseva E. V., Menshutina N. V. Information system for the selection of conditions and equipment for the cultivation of mammalian cells, Bulletin of VGUIT, 2017, vol. 79, no. 4, pp. 65—70. DOI: 10.20914/2310-1202-2017-4-65-70 (in Russian). </li>
-     <li> Menshikh A. V., Menshikh T. V. A set of programs for optimizing the choice of options for actions in ergatic control systems for special purposes, Bulletin of the Ministry of Internal Affairs of Russia, 2021, no. 3, pp. 92—100 (in Russian). </li>
-     <li> Soloveychik K. A., Leventsov V. A., Farber E. M. Model of equipment selection during technical re-equipment of the en­terprise, Organizer of production, 2018, vol. 26, no. 2, pp. 84—94. DOI: 10.25065/1810-4894-2018-26-2-84-94 (in Russian).</li>
-     </ul>
+   item_references: |
+     <li>Nikitaev I. V. The choice of parameters of the hydraulic accumulator of the depreciation system of the working equipment of lifting and transport vehicles with a rigid suspension, Bulletin of the Volga State Academy of Water Transport, 2012, no. 30, pp. 96—102 (in Russian).</li>
+     <li>Rushnikov A. Yu. Calculation of the volume of the accumulator tank when supplying water to the water supply network, Plumbing, Heating, Air conditioning, 2020, no. 7 (223), pp. 26—29 (in Russian).</li>
+     <li>Malybaev N. S., Kasenov A. Zh., Abishev K. K. Recommendations on the choice of a hydraulic accumulator for a hydraulic system, Science and Technology of Kazakhstan, 2020, no. 1, pp. 86—93 (in Russian).</li>
+     <li>Steuer R. Multi-criteria optimization. Theory, calculations and applications. Translated from the English by E. M. Stolyarova / Ed. by A. V. Lotov. Moscow, Radio and Communications, 1992, 504 p. (in Russian).</li>
+     <li>Orlov A. I. Organizational and economic modeling, Moscow, Publishing House of the Bauman Moscow State Technical University, 2009, 624 p. (in Russian).</li>
+     <li>Khvostov A. V., Makarov O. Yu. Complex criterion of optimality when using evolutionary modeling methods, Proceedings of the international symposium "Reliability and quality", 2020, no. 1, pp. 238—241 (in Russian).</li>
+     <li>Taik A. M., Lupin S. A., Balabaev S. A. Features of the application of the full search algorithm to solve the quadratic assignment problem, International Journal of Open Information Technologies, 2023, vol. 11, no. 7. pp. 60—68.</li>
+     <li>Amany A. S., Haitham A. E., Aboelfetouh Ahmed. Comparative analysis of AHP, FAHP and NeutrosophicAHP based on multi-criteria for adopting ERPS, Neutrosophic Sets and Systems, 2021, no. 41, pp. 63—88.</li>
+     <li>Canco I., Kruja D., Iancu T. AHP, a Reliable Method for Quality Decision Making: A Case Study in Business, Sustainability, 2021, no. 13, 15 p. DOI: 10.3390/su132413932.</li>
+     <li>Sequeira M., Hilletofth P., Adlemo A. AHP-based support tools for initial screening of manufacturing reshoring decisions, Journal of Global Operations and Strategic Sourcing, 2021, vol. 14, no. 3, pp. 502—527. DOI: 10.1108/JGOSS-07-2020-0037.</li>
+     <li>Titarev D. V., Trunnikov M. V., Volodin P. Yu. Design and development of a software package for automatic selection of pumping stations for water supply and formation of technical and commercial proposals, Information and mathematical technologies in science and management, 2021, no. 2 (22), pp. 105—114. DOI: 10.38028/ESI.2021.22.2.011 (in Russian).</li>
+     <li>Egorov A. F., Savitskaya T. V., Dementienko A. V. In­formation modeling system of equipment protection from corrosion, Software products and systems, 2016, no. 1, pp. 120—125. DOI: 10.15827/0236-235x.113.120-125 (in Russian).</li>
+     <li>Kostyukova T. P., Gainetdinov R. R. Information system for selecting the composition of equipment for a combined power supply system for medical and preventive institutions using renewable energy sources, Naukovedenie, 2016, vol. 8, no. 4, pр. 10 (in Russian).</li>
+     <li>Batyrgazieva D. R., Guseva E. V., Menshutina N. V. Information system for the selection of conditions and equipment for the cultivation of mammalian cells, Bulletin of VGUIT, 2017, vol. 79, no. 4, pp. 65—70. DOI: 10.20914/2310-1202-2017-4-65-70 (in Russian).</li>
+     <li>Menshikh A. V., Menshikh T. V. A set of programs for optimizing the choice of options for actions in ergatic control systems for special purposes, Bulletin of the Ministry of Internal Affairs of Russia, 2021, no. 3, pp. 92—100 (in Russian).</li>
+     <li>Soloveychik K. A., Leventsov V. A., Farber E. M. Model of equipment selection during technical re-equipment of the en­terprise, Organizer of production, 2018, vol. 26, no. 2, pp. 84—94. DOI: 10.25065/1810-4894-2018-26-2-84-94 (in Russian).</li>
  - doi: 15.155-164
    udk: "629.37"
    item_authors: "Zuev S. M., Shvecov A. S., Startseva S. E."
    item_name: "Calculation Model for Evaluating Suspensions during Maneuvers of a 4WD Vehicle with a 6x6 Wheels"
-   item_authors_address: | 
-     <b> S. M. Zuev</b>, Associate Professor, PhD, Head of the department of optoelectronic devices and systems, MIREA — Russian Technology University, Moscow, 119454, Russian Federation, SSC RF FSUE NAMI, Moscow, 125438, Russian Federation, <b> A. S. Shvecov</b>, Postgraduate Student, Moscow Polytechnic University, Moscow, 107023, Russian Federation, <b> S. E. Startseva</b>, Specialist, JSC Obukhov plant, Saint Petersburg, 192012, Russian Federation
+   item_authors_address: |
+     <b>S. M. Zuev</b>, Associate Professor, PhD, Head of the department of optoelectronic devices and systems, zuev@mirea.ru,
+     MIREA — Russian Technology University, Moscow, 119454, Russian Federation, SSC RF FSUE NAMI, Moscow, 125438, Russian Federation,
+     <b>A. S. Shvecov</b>, Postgraduate Student,
+     Moscow Polytechnic University, Moscow, 107023, Russian Federation,
+     <b>S. E. Startseva</b>, Specialist,
+     JSC Obukhov plant, Saint Petersburg, 192012, Russian Federation
    item_corr_author: 'Sergei M. Zuev, Associate Professor, PhD, Head of the department of optoelectronic devices and systems, MIREA — Russian Technology University, Moscow, 119454, Russian Federation, SSC RF FSUE "NAMI", Moscow, 125438, Russian Federation, E-mail: zuev@mirea.ru'
    item_rec_on: October 12, 2023
    item_acc_on:  December 18, 2023
@@ -140,24 +144,21 @@ content:
    item_keywords: vehicle suspension 6*6, modeling, MSC.ADAMS, load on the front and rear axles when changing lanes, axle load distribution
    item_pages: 155–164
    item_citation: "Zuev S. M., Shvecov A. S., Startseva S. E. Calculation Model for Evaluating Suspensions during Maneuvers of a 4WD Vehicle with a 6x6 Wheels, Programmnaya Ingeneria, 2024, vol. 15, no 3, pp. 155—164. DOI: 10.17587/prin.15.155-164  (in Russian)."
-   item_references: | 
-    <ul>     
-     <li>  Ghazali M. Path-following and tire loss investigation of a front in-wheel-drive electric vehicle with off-center CG, Mechanism and Machine Theory, 2023, vol. 189. DOI: 10.1016/j.mechmach-theory.2023.105422. </li>
-     <li> Koltsov V. B., Potemkin A. Ya., Konoplin N. A. et al. Physico-chemical modeling of technological processes - a modern way to create new resource-saving technologies. Nature Management, 2010, no. 3, pp. 98—102. </li>
-     <li> Lavrikov A. A., Zuev S. M., Skvortsov A. A., Var-lamov D. O. Control of movement of a loosely coupled self-propelled modular transporter, Journal of Machinery Manufacture and Reliability, 2019, vol. 48, no. 1, pp. 20—25. DOI: 10.3103/S1052618819010114. </li>
-     <li> Singh K. B., Arat M. A., Taheri S. Literature review and fundamental approaches for vehicle and tire state estimation, Vehicle System Dynamics, 2019, vol. 57, no. 11, pp. 1643—1665. DOI: 10.10 80/00423114.2018.1544373. </li>
-     <li> Baffet G., Charara A., Lechner D. Estimation of vehicle sideslip, tire force and wheel cornering stiffness, Control Engineering Practice, 2009, no. 17, pp. 1255—1264, DOI: 10.1016/j.conengprac.2009.05.005. </li>
-     <li> Makalsky L. M., Medvedev V. T., Sysoev V. S. et al. Analysis of the future energy strategy of Russia, Natural and technical sciences, 2018, no. 7(121), pp. 194—199. </li>
-     <li> Plavelsky E. P., Sharapov R. R. The Problems of Dynamics of Wheeled Vehicles with Flow Able Building Cargo, Procedia Engineering, 2017, vol. 206, pp. 86—92, DOI: 10.1016/j.proeng.2017.10.442. </li>
-     <li> Chen Y., Lu Y., Li H. Learning-Based Model Predictive Control of Autonomous Vehicles Using Boa, available at: https://ssrn.com/abstract=4432484. DOI: 10.2139/ssrn.4432484. </li>
-     <li> Solis J. M., Longoria R. G. Modeling track—terrain interaction for transient robotic vehicle maneuvers, Journal of Terramechanics, 2008, vol. 45 (3), pp. 65—78. DOI: https://linkkk.org/10.1016/j. jterra.2008.07.003. </li>
-     <li> Bekenov T., Nussupbek Zh.T., Sattinova Z. K., Tassybekov Zh.T. Substantiation of Methods for Calculating Indicators of the Redistribution of Traction Forces on Modular Front and Rear Wheels of the Car (4x4), аvailable at: https://ssrn.com/abstract=4404891, DOI: 10.2139/ssrn.4404891. </li>
-     <li> Li Z., Wang P., Liu H. et al. Coordinated longitudinal and lateral vehicle stability control based on the combined-slip tire model in the MPC framework, Mechanical Systems and Signal Processing, 2021, no. 161. DOI: 10.1016/j.ymssp.2021.107947. </li>
-     <li> Sirota N. N., Konoplin N. A., Soshnina T. M. Effect of pressure on polymorphic transitions in iron, Reports of the Academy of Sciences, 2005, vol. 405, no. 1, pp. 39—41. </li>
-     <li> Hongyan G., Xu Z., Jun L. et al. A fusion estimation of the peak tire—road friction coefficient based on road images and dynamic information, Mechanical Systems and Signal Processing, 2023, vol. 189. DOI: 10.1016/j.ymssp.2022.110029. </li>
-     <li> El Madany M. M., Abduljabbar Z. On the ride and attitude control of road vehicles. Computers & Structures, 1992, vol. 42 (2), pp. 245—253. DOI: 10.1016/0045-7949(92)90208-H. </li>
-     <li> Junhong Z., Peng G., Jiewei L., Kainan W A mathemati­cal model for coupled vibration system of road vehicle and coupling effect analysis, Applied Mathematical Modelling, 2016, vol. 40 (2), pp. 1199—1217. DOI: 10.1016/j.apm.2015.07.012. </li>
-     <li> Ieluzzi M., Turco P., Montiglio M. Development of a heavy truck semi-active suspension control, Control Engineering Practice, 2006, no. 14, pp. 305—312. DOI: 10.1016/j.conengprac.2005.03.019. </li>
-     <li> Elmadany M. M., Abduljabbar Z. Design evaluation of advanced suspension systems for truck ride comfort, Computers & Structures, 1990, no. 36, pp. 321—331. DOI: 10.1016/0045-7949(90)90132-L.</li>
-    </ul>
----
+   item_references: |
+     <li>Ghazali M. Path-following and tire loss investigation of a front in-wheel-drive electric vehicle with off-center CG, Mechanism and Machine Theory, 2023, vol. 189. DOI: 10.1016/j.mechmach-theory.2023.105422.</li>
+     <li>Koltsov V. B., Potemkin A. Ya., Konoplin N. A. et al. Physico-chemical modeling of technological processes - a modern way to create new resource-saving technologies. Nature Management, 2010, no. 3, pp. 98—102.</li>
+     <li>Lavrikov A. A., Zuev S. M., Skvortsov A. A., Var-lamov D. O. Control of movement of a loosely coupled self-propelled modular transporter, Journal of Machinery Manufacture and Reliability, 2019, vol. 48, no. 1, pp. 20—25. DOI: 10.3103/S1052618819010114.</li>
+     <li>Singh K. B., Arat M. A., Taheri S. Literature review and fundamental approaches for vehicle and tire state estimation, Vehicle System Dynamics, 2019, vol. 57, no. 11, pp. 1643—1665. DOI: 10.10 80/00423114.2018.1544373.</li>
+     <li>Baffet G., Charara A., Lechner D. Estimation of vehicle sideslip, tire force and wheel cornering stiffness, Control Engineering Practice, 2009, no. 17, pp. 1255—1264, DOI: 10.1016/j.conengprac.2009.05.005.</li>
+     <li>Makalsky L. M., Medvedev V. T., Sysoev V. S. et al. Analysis of the future energy strategy of Russia, Natural and technical sciences, 2018, no. 7(121), pp. 194—199.</li>
+     <li>Plavelsky E. P., Sharapov R. R. The Problems of Dynamics of Wheeled Vehicles with Flow Able Building Cargo, Procedia Engineering, 2017, vol. 206, pp. 86—92, DOI: 10.1016/j.proeng.2017.10.442.</li>
+     <li>Chen Y., Lu Y., Li H. Learning-Based Model Predictive Control of Autonomous Vehicles Using Boa, available at: https://ssrn.com/abstract=4432484. DOI: 10.2139/ssrn.4432484.</li>
+     <li>Solis J. M., Longoria R. G. Modeling track—terrain interaction for transient robotic vehicle maneuvers, Journal of Terramechanics, 2008, vol. 45 (3), pp. 65—78. DOI: https://linkkk.org/10.1016/j. jterra.2008.07.003.</li>
+     <li>Bekenov T., Nussupbek Zh.T., Sattinova Z. K., Tassybekov Zh.T. Substantiation of Methods for Calculating Indicators of the Redistribution of Traction Forces on Modular Front and Rear Wheels of the Car (4x4), аvailable at: https://ssrn.com/abstract=4404891, DOI: 10.2139/ssrn.4404891.</li>
+     <li>Li Z., Wang P., Liu H. et al. Coordinated longitudinal and lateral vehicle stability control based on the combined-slip tire model in the MPC framework, Mechanical Systems and Signal Processing, 2021, no. 161. DOI: 10.1016/j.ymssp.2021.107947.</li>
+     <li>Sirota N. N., Konoplin N. A., Soshnina T. M. Effect of pressure on polymorphic transitions in iron, Reports of the Academy of Sciences, 2005, vol. 405, no. 1, pp. 39—41.</li>
+     <li>Hongyan G., Xu Z., Jun L. et al. A fusion estimation of the peak tire—road friction coefficient based on road images and dynamic information, Mechanical Systems and Signal Processing, 2023, vol. 189. DOI: 10.1016/j.ymssp.2022.110029.</li>
+     <li>El Madany M. M., Abduljabbar Z. On the ride and attitude control of road vehicles. Computers & Structures, 1992, vol. 42 (2), pp. 245—253. DOI: 10.1016/0045-7949(92)90208-H.</li>
+     <li>Junhong Z., Peng G., Jiewei L., Kainan W A mathemati­cal model for coupled vibration system of road vehicle and coupling effect analysis, Applied Mathematical Modelling, 2016, vol. 40 (2), pp. 1199—1217. DOI: 10.1016/j.apm.2015.07.012.</li>
+     <li>Ieluzzi M., Turco P., Montiglio M. Development of a heavy truck semi-active suspension control, Control Engineering Practice, 2006, no. 14, pp. 305—312. DOI: 10.1016/j.conengprac.2005.03.019.</li>
+     <li>Elmadany M. M., Abduljabbar Z. Design evaluation of advanced suspension systems for truck ride comfort, Computers & Structures, 1990, no. 36, pp. 321—331. DOI: 10.1016/0045-7949(90)90132-L.</li>

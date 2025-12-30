@@ -6,7 +6,8 @@ content:
    item_authors: Markov V. N.
    item_name: Language Tools for Processing Trees
    item_authors_address: |
-     <b>V. N. Markov</b>, D. Sc. (Engineering), Professor, vinitar@yandex.ru, Kuban State Technological University, Krasnodar, 350000, Russian Federation
+     <b>V. N. Markov</b>, D. Sc. (Engineering), Professor, vinitar@yandex.ru,
+     Kuban State Technological University, Krasnodar, 350000, Russian Federation
    item_corr_author: "Vitaly N. Markov, D. Sc. (Engineering), Professor, Kuban State Technological University, Krasnodar, 350000, Russian Federation, E-mail: vinitar@yandex.ru"
    item_rec_on: February 13, 2024
    item_acc_on: March 26, 2024
@@ -34,7 +35,8 @@ content:
    item_authors: Kostiukhin K. A.
    item_name: Self-Healing of Complex Hardware and Software Systems,
    item_authors_address: |
-     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
+     <b>K. A. Kostiukhin</b>, Senior Researcher, kost@niisi.ras.ru,
+     Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation
    item_corr_author: 'Konstantin A. Kostiukhin, Senior Researcher, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: kost@niisi.ras.ru'
    item_rec_on: April 01, 2024
    item_acc_on:  April 11, 2024
@@ -115,8 +117,10 @@ content:
    item_authors: Gribova V. V., Perevolotsky V. S.
    item_name: Knowledge Graph Formation Using LLM for Disease Treatment in Decision Support Systems
    item_authors_address: |
-     <b>V. V. Gribova</b>, D. Sc. (Technical Sciences), Deputy Director, Head of intelligent systems lab, gribova@iacp.dvo.ru, Institute of Automation and Control Processes, Far Eastern Branch of Russian, Academy of Sciences, Vladivostok, 690041, Russian Federation, Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
-     <b>V. S. Perevolotsky</b>, Postgraduate Student, lost.yayo@gmail.com, Far Eastern Federal University, Vladivostok, 690922, Russian Federation
+     <b>V. V. Gribova</b>, D. Sc. (Technical Sciences), Deputy Director, Head of intelligent systems lab, gribova@iacp.dvo.ru,
+     Institute of Automation and Control Processes, Far Eastern Branch of Russian, Academy of Sciences, Vladivostok, 690041, Russian Federation, Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
+     <b>V. S. Perevolotsky</b>, Postgraduate Student, lost.yayo@gmail.com,
+     Far Eastern Federal University, Vladivostok, 690922, Russian Federation
    item_corr_author: "Vladimir S. Perevolotsky, Postgraduate Student, Far Eastern Federal University, Vladivostok, 690922, Russian Federation, E-mail: lost.yayo@gmail.com"
    item_rec_on: February 13, 2024
    item_acc_on: March 26, 2024

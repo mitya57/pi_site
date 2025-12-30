@@ -5,8 +5,9 @@ content:
    udk: "004.424.2"
    item_authors: "Griuntal A. I."
    item_name: "Functionally Independent Programs in Multitasking Environment"
-   item_authors_address: | 
-     <b>Griuntal A. I.</b>, Head of Mathware Department, grntl@niisi.msk.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
+   item_authors_address: |
+     <b>A. I. Griuntal</b>, Head of Mathware Department, grntl@niisi.msk.ru,
+     Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
    item_corr_author: "Andrej I. Griuntal, Head of Mathware Department, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation, E-mail: grntl@niisi.ras.ru"
    item_rec_on: October 04, 2023
    item_acc_on: October 30, 2023
@@ -25,19 +26,19 @@ content:
    item_keywords: multitasking systems, functional independence, information security, computing environment
    item_pages: 3–11
    item_citation: "Griuntal A. I. Functionally Independent Programs in Multitasking Environment, Programmnaya Ingeneria, 2024, vol. 15, no. 1, pp. 3—11. DOI: 10.17587/prin.15.3-11 (in Russian)."
-   item_references: | 
-    <ul>     
-        <li> Critical facilities and cyberterrorism. Part 2. Aspects of the programmatic implementation of countermeasures / Eds by V. A. Vasenin, Moscow, ICNM, 2008, 607 p. (in Russian). </li>
-        <li> Vasenin V. A. Critical Energetic Infrastructure: Cyberterrorist Threat, Informacionnye tehnologii, 2009, no. 9, рр. 2—8 (in Russian). </li>
-        <li> Vasenin V. A. Critical Energetics Infrastructure: Means of Counteraction to Cyberterrorism, Informacionnye tehnologii, 2009, no. 10, рр. 2—9 (in Russian). </li>
-        <li> Methodological document. Methodology for Assessing Information Security Threats, available at: https://fstec.ru/dokumenty/vse-dokumenty/spetsialnye-normativnye-dokumenty/metodicheskij-dokument-ot-5-fevralya-2021-g (approved by FSTEC of Russia on 05.02.2021) (date of access 13.10.2023) (in Russian).</li> 
-    </ul>
+   item_references: |
+     <li>Critical facilities and cyberterrorism. Part 2. Aspects of the programmatic implementation of countermeasures / Eds by V. A. Vasenin, Moscow, ICNM, 2008, 607 p. (in Russian).</li>
+     <li>Vasenin V. A. Critical Energetic Infrastructure: Cyberterrorist Threat, Informacionnye tehnologii, 2009, no. 9, рр. 2—8 (in Russian).</li>
+     <li>Vasenin V. A. Critical Energetics Infrastructure: Means of Counteraction to Cyberterrorism, Informacionnye tehnologii, 2009, no. 10, рр. 2—9 (in Russian).</li>
+     <li>Methodological document. Methodology for Assessing Information Security Threats, available at: https://fstec.ru/dokumenty/vse-dokumenty/spetsialnye-normativnye-dokumenty/metodicheskij-dokument-ot-5-fevralya-2021-g (approved by FSTEC of Russia on 05.02.2021) (date of access 13.10.2023) (in Russian).</li>
  - doi: 15.12-25
    udk: "332.63"
    item_authors: "Tsapko S. G., Tsapko I. V."
    item_name: "Criteria for Evaluating the Processes of Designing Onboard Radio-Electronic Equipment of Space Vehicles"
-   item_authors_address: | 
-     <b>S. G. Tsapko</b>, Ph.D., Associate Professor, tsapko@tpu.ru, <b>I. V. Tsapko</b>, Ph.D., Associate Professor, tsiv@tpu.ru, Tomsk Polytechnic University, Tomsk, 634050, Russian Federation
+   item_authors_address: |
+     <b>S. G. Tsapko</b>, Ph.D., Associate Professor, tsapko@tpu.ru,
+     <b>I. V. Tsapko</b>, Ph.D., Associate Professor, tsiv@tpu.ru,
+     Tomsk Polytechnic University, Tomsk, 634050, Russian Federation
    item_corr_author: "S. G. Tsapko, Ph.D., Associate Professor, Tomsk Polytechnic University, Tomsk, 634050, Russian Federation E-mail: tsapko@tpu.ru"
    item_rec_on: July 31, 2023
    item_acc_on: November 21, 2023
@@ -46,25 +47,25 @@ content:
    item_keywords: instrumentation, design, evaluation criteria, business process, reengineering, onboard equipment, spacecraft
    item_pages: 12–25
    item_citation: "Tsapko S. G., Tsapko I. V. Criteria for Evaluating the Processes of Designing Onboard Radio-Electronic Equipment of Space Vehicles, Programmnaya Ingeneria, 2024, vol. 15, no. 1, pp. 12—25. DOI: 10.17587/prin.15.12-25 (in Russian)."
-   item_references: | 
-    <ul>     
-       <li>  Postnov K. V. Modeling the risk management process of a design organization, Ekonomika i predprinimatelstvo, 2017, no. 2-2 (79), pp. 983—988 (in Russian). </li>
-       <li>  Shmeleva A. S. Increasing the efficiency of project management when us-ing agile methodologies, Zhurnal issledovaniy po upravleniyu, 2021, vol. 7, no. 2, pp. 30—40 (in Russian). </li>
-       <li>  Surkova D. A., Yarovenko N. S. Flexible project management methods, Sovremennyye tendentsii razvitiya nauki i tekhnologiy, 2017, no. 3-12 (24), pp. 132—135 (in Russian). </li>
-       <li>  Suntsov S. B., Klimkin O. A., Sarafanov A. V. et al. Engineering analysis in end-to-end automated design of radio-electronic equipment of modular rocket and space technology, Tekhnologiya mashinostroyeniya, 2011, no. 5, pp. 54—56 (in Russian). </li>
-       <li>  Spiridonov E. S., Titov O. P. Methods for improving project management taking into account risks,Materials of the All-Russian scientific conference with international participation "Current state, problems and prospects for the development of industry science", Moscow, Pero, 2016, pp. 399—403 (in Russian). </li>
-       <li>  Szabo G., Arezes P., Boring R. The Characteristics of Industrial Safety Risk Management, Advances in Safety Management and Human Performance, 2020, vol. 1204, pp. 47—52. DOI: 10.1007/978-3-030-50946-0_7. </li>
-       <li>  Bannikov S. A., Abrosimova O. M. Features of human resource management in High-Tech companies, Beneficium, 2021, no. 1 (38), pp. 60—64. DOI: 10.34680/BENEFICIUM.2021.1(38).60-64. </li>
-       <li>  Falk K. The Importance of Project Management in the System Integration, Verification and Validation Process, IN-COSE International Symposium, 2018, vol. 28, no. 1, pp. 226—244. DOI: 10.1002/j.2334-5837.2018.00478.x. </li>
-       <li>  Zavedeyev A. I. Construction of an onboard control system for a spacecraft with increased fault tolerance using adaptive logic in diagnostic and control algorithms, Mekhatronika. avtomatizatsiya. upravleniye, 2018, vol. 19, no. 10, pp. 664—672. DOI: 10.17587/mau.19.664-672 (in Russian). </li>
-       <li> Belyaev N. S., Chudnova O. A. Prospects for the development of project management, International scientific research journal, 2022, no. 7 (121), pp. 175—181. DOI: 10.23670/IRJ.2022.121.7.111 (in Russian). </li>
-    </ul>
+   item_references: |
+     <li>Postnov K. V. Modeling the risk management process of a design organization, Ekonomika i predprinimatelstvo, 2017, no. 2-2 (79), pp. 983—988 (in Russian).</li>
+     <li>Shmeleva A. S. Increasing the efficiency of project management when us-ing agile methodologies, Zhurnal issledovaniy po upravleniyu, 2021, vol. 7, no. 2, pp. 30—40 (in Russian).</li>
+     <li>Surkova D. A., Yarovenko N. S. Flexible project management methods, Sovremennyye tendentsii razvitiya nauki i tekhnologiy, 2017, no. 3-12 (24), pp. 132—135 (in Russian).</li>
+     <li>Suntsov S. B., Klimkin O. A., Sarafanov A. V. et al. Engineering analysis in end-to-end automated design of radio-electronic equipment of modular rocket and space technology, Tekhnologiya mashinostroyeniya, 2011, no. 5, pp. 54—56 (in Russian).</li>
+     <li>Spiridonov E. S., Titov O. P. Methods for improving project management taking into account risks,Materials of the All-Russian scientific conference with international participation "Current state, problems and prospects for the development of industry science", Moscow, Pero, 2016, pp. 399—403 (in Russian).</li>
+     <li>Szabo G., Arezes P., Boring R. The Characteristics of Industrial Safety Risk Management, Advances in Safety Management and Human Performance, 2020, vol. 1204, pp. 47—52. DOI: 10.1007/978-3-030-50946-0_7.</li>
+     <li>Bannikov S. A., Abrosimova O. M. Features of human resource management in High-Tech companies, Beneficium, 2021, no. 1 (38), pp. 60—64. DOI: 10.34680/BENEFICIUM.2021.1(38).60-64.</li>
+     <li>Falk K. The Importance of Project Management in the System Integration, Verification and Validation Process, IN-COSE International Symposium, 2018, vol. 28, no. 1, pp. 226—244. DOI: 10.1002/j.2334-5837.2018.00478.x.</li>
+     <li>Zavedeyev A. I. Construction of an onboard control system for a spacecraft with increased fault tolerance using adaptive logic in diagnostic and control algorithms, Mekhatronika. avtomatizatsiya. upravleniye, 2018, vol. 19, no. 10, pp. 664—672. DOI: 10.17587/mau.19.664-672 (in Russian).</li>
+     <li>Belyaev N. S., Chudnova O. A. Prospects for the development of project management, International scientific research journal, 2022, no. 7 (121), pp. 175—181. DOI: 10.23670/IRJ.2022.121.7.111 (in Russian).</li>
  - doi: 15.26-34
    udk: "004.052.42"
    item_authors: "Vasenin V. A., Zaslavskiy D. D."
    item_name: "Search for Authors of Publications among Users of the Large Scientometric Data System Using the WAND Method"
-   item_authors_address: | 
-     <b> V. A. Vasenin</b>, Professor, Head of Chair, vasenin@msu.ru, <b>D. D. Zaslavskiy</b>, Postgraduate Student, zabaf@yandex.ru, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_authors_address: |
+     <b>V. A. Vasenin</b>, Professor, Head of Chair, vasenin@msu.ru,
+     <b>D. D. Zaslavskiy</b>, Postgraduate Student, zabaf@yandex.ru,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation
    item_corr_author: " David D. Zaslavskiy, Postgraduate Student, Lomonosov Moscow State University, 119991, Moscow, Russian Federation, E-mail: zabaf@yandex.ru"
    item_rec_on: November 03, 2023
    item_acc_on: November 17, 2023
@@ -73,25 +74,26 @@ content:
    item_keywords:  author search, publications, users, WAND search, correct author determination, scientometrics, big data systems
    item_pages: 26–34
    item_citation: "Vasenin V. A., Zaslavskiy D. D. Search for Authors of Publications among Users of the Large Scientometric Data System Using the WAND Method, Programmnaya Ingeneria, 2024, vol. 15, no. 1, pp. 26—34. DOI: 10.17587/ prin.15.26-34. (in Russian)."
-   item_references: | 
-     <ul>
-       <li> Vasenin V. A., Afonin S. A., Zenzinov A. A. et al. Mechanisms of the "ISTINA" System for Intelligent Analysis of the State and Stimulation of the Progress of Projects in the Field of Science and Higher Education, Scientific Services on the Internet: Proceedings of the 21st All-Russian Scientific Conference, Moscow, IAM named after M. V. Keldysh, 2019, pp. 210—221. DOI: 10.20948/ abrau-2019-48 (in Russian). </li>
-       <li> Sadovnichy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian). </li>
-       <li> Starikov P. P. Creation of a Unified Information and Analytical Resource of the Russian Federation in the Field of Scientific and Technical Information, Informazia i svyaz, 2017, no. 1, pp. 113—118 (in Russian). </li>
-       <li> Jiang K., Zhu L., Sun Q. Optimizing Scoring and Sorting Operations for Faster WAND Processing, Advanced Data Mining and Applications (ADMA) 2020. Lecture Notes in Computer Science, vol. 12447, Springer, 2020, pp. 499—514. DOI: 10.1007/978-3-030-65390-3_38. </li>
-       <li> Fontoura M., Josifovski V., Liu J. et al. Evaluation Strategies for Top-K Queries over Memory-Resident Inverted Indexes, Proc. VLDB Endow, 2011, vol. 4, no. 12, pp. 1213—1224. DOI: 10.14778/3402755.3402756. </li>
-       <li> Bar-Yehuda R., Even S. A Linear-Time Approximation Algorithm for the Weighted Vertex Cover Problem, Journal of Algorithms, vol. 2, no. 2, pp. 198—203. DOI: 10.1016/0196-6774(81)90020-1. </li>
-       <li> Gupta A., Lee E., Li J. A Local Search-Based Approach for Set Covering, Proceedings of 2023 Symposium on Simplicity in Algorithms (SOSA), Society for Industrial and Applied Mathematics, 2023, pp. 1—11. DOI: 10.48550/arXiv.2211.04444. </li>
-       <li> Yilmazel i. B., Arslan A. An Intrinsic Evaluation of the Waterloo Spam Rankings of the ClueWeb09 and ClueWeb12 Data-sets, Journal of Information Science, 2019, vol. 47, no. 1, pp. 41—57. DOI: 10.1177/0165551519866551. </li>
-       <li> Carmel D., Amitay E. TAAT versus DAAT in the Terabyte Track, Proceedings of 2006 Text REtrieval Conference (TREC), The MIT Press, 2006, available at: https://trec.nist.gov/pubs/trec15/papers/ibm-haifa.tera.final.pdf</li>
-       <li> Zenzinov A. A. Methods and Means of Data Verification on Publication Activity from External Scientometric Bases, Lomonosov Readings. Scientific Conference, April 20—26, 2021. Abstracts of Reports, Moscow University Press, 2021, pp. 97—98 (in Russian).</li>
-     </ul>
+   item_references: |
+     <li>Vasenin V. A., Afonin S. A., Zenzinov A. A. et al. Mechanisms of the "ISTINA" System for Intelligent Analysis of the State and Stimulation of the Progress of Projects in the Field of Science and Higher Education, Scientific Services on the Internet: Proceedings of the 21st All-Russian Scientific Conference, Moscow, IAM named after M. V. Keldysh, 2019, pp. 210—221. DOI: 10.20948/abrau-2019-48 (in Russian).</li>
+     <li>Sadovnichy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian).</li>
+     <li>Starikov P. P. Creation of a Unified Information and Analytical Resource of the Russian Federation in the Field of Scientific and Technical Information, Informazia i svyaz, 2017, no. 1, pp. 113—118 (in Russian).</li>
+     <li>Jiang K., Zhu L., Sun Q. Optimizing Scoring and Sorting Operations for Faster WAND Processing, Advanced Data Mining and Applications (ADMA) 2020. Lecture Notes in Computer Science, vol. 12447, Springer, 2020, pp. 499—514. DOI: 10.1007/978-3-030-65390-3_38.</li>
+     <li>Fontoura M., Josifovski V., Liu J. et al. Evaluation Strategies for Top-K Queries over Memory-Resident Inverted Indexes, Proc. VLDB Endow, 2011, vol. 4, no. 12, pp. 1213—1224. DOI: 10.14778/3402755.3402756.</li>
+     <li>Bar-Yehuda R., Even S. A Linear-Time Approximation Algorithm for the Weighted Vertex Cover Problem, Journal of Algorithms, vol. 2, no. 2, pp. 198—203. DOI: 10.1016/0196-6774(81)90020-1.</li>
+     <li>Gupta A., Lee E., Li J. A Local Search-Based Approach for Set Covering, Proceedings of 2023 Symposium on Simplicity in Algorithms (SOSA), Society for Industrial and Applied Mathematics, 2023, pp. 1—11. DOI: 10.48550/arXiv.2211.04444.</li>
+     <li>Yilmazel i. B., Arslan A. An Intrinsic Evaluation of the Waterloo Spam Rankings of the ClueWeb09 and ClueWeb12 Data-sets, Journal of Information Science, 2019, vol. 47, no. 1, pp. 41—57. DOI: 10.1177/0165551519866551.</li>
+     <li>Carmel D., Amitay E. TAAT versus DAAT in the Terabyte Track, Proceedings of 2006 Text REtrieval Conference (TREC), The MIT Press, 2006, available at: https://trec.nist.gov/pubs/trec15/papers/ibm-haifa.tera.final.pdf</li>
+     <li>Zenzinov A. A. Methods and Means of Data Verification on Publication Activity from External Scientometric Bases, Lomonosov Readings. Scientific Conference, April 20—26, 2021. Abstracts of Reports, Moscow University Press, 2021, pp. 97—98 (in Russian).</li>
  - doi: 15.35-43
    udk: "519.8"
    item_authors: "Voronov R. V., Shabaev A. I., Klimenko V. V."
    item_name: "Genetic Algorithm for Linear Cutting Problem"
-   item_authors_address: | 
-     <b> R. V. Voronov</b>, Professor, rvoronov@petrsu.ru, <b> A. I. Shabaev</b>, Associate Professor, vlad991199@yandex.ru, <b> V. V. Klimenko</b>, Postgraduate Student, vlad991199@yandex.ru, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation 
+   item_authors_address: |
+     <b>R. V. Voronov</b>, Professor, rvoronov@petrsu.ru,
+     <b>A. I. Shabaev</b>, Associate Professor, vlad991199@yandex.ru,
+     <b>V. V. Klimenko</b>, Postgraduate Student, vlad991199@yandex.ru,
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
    item_corr_author: " Vladislav V. Klimenko, Postgraduate Student, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: vlad991199@yandex.ru"
    item_rec_on: October 12, 2023
    item_acc_on: November 14, 2023
@@ -104,23 +106,23 @@ content:
    item_pages: 35–43
    item_comment: 'Acknowledgments: This work was performed within a task of the Ministry of science and higher education of the Russian Federation (project nos. № 075-03-2023-128).'
    item_citation: "Voronov R. V., Shabaev A. I., Klimenko V. V. Genetic Algorithm for Linear Cutting Problem, Programmnaya Ingeneria, 2024, vol. 15, no. 1, pp. 35—43. DOI: 10.17587/prin.15.35-43 (in Russian)."
-   item_references: | 
-     <ul>
-     <li> Zak Y. A. Optimization of production planning and cutting of paper products, Control systems and machines, 2010, no. 5, pp. 82—93 (in Russian). </li>
-     <li> Voronov R. V. Mathematical models and methods of automated planning systems for paper production: thesis. Petrozavod. state univ., 2004, 143 p. (in Russian). </li>
-     <li> Urban A. R. Mathematical models and numerical methods in the software package for optimization of paper production planning: thesis. Petrozavod. state Univ., 2016, 110 p. (in Russian). </li>
-     <li> Wagner B. J. A genetic algorithm solution for one-dimensional bundled stock cutting, European Journal of Operational Research, 1999, vol. 117, no. 2, pp. 368—381. DOI: 10.1016/S0377-2217(98)00244-6. </li>
-     <li> Onwubolu G. C., Mutingi M. A genetic algorithm approach for the cutting stock problem, Journal of Intelligent Manufacturing, 2003, no. 14, pp. 209—218. DOI: 10.1023/A:1022955531018. </li>
-     <li> Umetani S., Yagiura M., Ibaraki T. One-dimensional cutting stock problem to minimize the number of different patterns, European Journal of Operational Research, 2003, vol. 146, no. 2, pp. 388—402. DOI: 10.1016/s0377-2217(02)00239-4. </li>
-     <li> Website of LLC 0 "Opti-Soft". Page Opti-Paper, available at: https://opti-soft.ru/opti/paper. (data of access 10.10.2023). </li>
-     <li> Dancig J. B. Linear programming, its applications and generalizations, Moscow, Progress, 1966, pp. 28—33 (in Russian).</li>
-     </ul>
+   item_references: |
+     <li>Zak Y. A. Optimization of production planning and cutting of paper products, Control systems and machines, 2010, no. 5, pp. 82—93 (in Russian).</li>
+     <li>Voronov R. V. Mathematical models and methods of automated planning systems for paper production: thesis. Petrozavod. state univ., 2004, 143 p. (in Russian).</li>
+     <li>Urban A. R. Mathematical models and numerical methods in the software package for optimization of paper production planning: thesis. Petrozavod. state Univ., 2016, 110 p. (in Russian).</li>
+     <li>Wagner B. J. A genetic algorithm solution for one-dimensional bundled stock cutting, European Journal of Operational Research, 1999, vol. 117, no. 2, pp. 368—381. DOI: 10.1016/S0377-2217(98)00244-6.</li>
+     <li>Onwubolu G. C., Mutingi M. A genetic algorithm approach for the cutting stock problem, Journal of Intelligent Manufacturing, 2003, no. 14, pp. 209—218. DOI: 10.1023/A:1022955531018.</li>
+     <li>Umetani S., Yagiura M., Ibaraki T. One-dimensional cutting stock problem to minimize the number of different patterns, European Journal of Operational Research, 2003, vol. 146, no. 2, pp. 388—402. DOI: 10.1016/s0377-2217(02)00239-4.</li>
+     <li>Website of LLC 0 "Opti-Soft". Page Opti-Paper, available at: https://opti-soft.ru/opti/paper. (data of access 10.10.2023).</li>
+     <li>Dancig J. B. Linear programming, its applications and generalizations, Moscow, Progress, 1966, pp. 28—33 (in Russian).</li>
  - doi: 15.44-52
    udk: "004.5"
    item_authors: "Belikova S. A., Lipko Y. Y."
    item_name: "Interface Visualization Method Reflecting the Business Logic of User Interaction"
-   item_authors_address: | 
-     <b> S. A. Belikova</b>, Senior Lecturer, belousova@sfedu.ru, <b> Y. Y. Lipko</b>, Assistant Professor, ylipko@sfedu.ru, Southern Federal University, Taganrog, 347922, Russian Federation
+   item_authors_address: |
+     <b>S. A. Belikova</b>, Senior Lecturer, belousova@sfedu.ru,
+     <b>Y. Y. Lipko</b>, Assistant Professor, ylipko@sfedu.ru,
+     Southern Federal University, Taganrog, 347922, Russian Federation
    item_corr_author: " Svetlana A. Belikova, Senior Lecturer, Southern Federal University, Taganrog, 347922, Russian Federation, E-mail: belousova@sfedu.ru"
    item_rec_on: September 30, 2023
    item_acc_on:  November 07, 2023
@@ -130,31 +132,26 @@ content:
    item_pages: 44–52
    item_comment: 'Acknowledgments: The reported study was funded by RSF according to the research project № 22-19-00723.'
    item_citation: "Belikova S. A., Lipko Y. Y. Interface Visualization Method Reflecting the Business Logic of User Interaction, Programmnaya Ingeneria, 2024, vol. 15, no. 1, pp. 44—52. DOI: 10.17587/prin.15.44-52  (in Russian)."
-   item_references: | 
-     <ul>     
-        <li>    Hussain J., Hassan A. U., Bilal H. S. et al. Model-based
-        adaptive user interface based on context and user experience evaluation, Journal on Multimodal User Interfaces, 2018, vol. 12, pp. 1—16. DOI: 10.1007/s12193-018-0258-2. </li>
-       <li> Kucherov S. A., Belikova S. A., Lipko Y. Y., Sviridov A. S. Analysis of conceptual approaches to the formation and implementation of interface models for technical systems, Informatization and communication, 2022, no. 2, pp. 64—67. DOI: 10.34219/2078-83202022-13-2-64-67 (in Russian). </li>
-      <li> Lapshin V. S., Rogozov Y. I., Kucherov S. A. Method for building an information model specification based on a sense-making approach to user involvement in the development process, Journal of King Saud University. Computer and Information Sciences. 2021, available at: https://digitallibrary.mes.ac.in/server/api/core/
-        bitstreams/515d31c0-b357-4b14-b297-dac728b85317/content. </li>
-       <li> Belikova S. A., Rogozov Y. I., Sviridov A. S. et al. Approach to user interfaces development based on semantic model of user activity, 2019 12th International Conference on Computer and Electrical Engineering, Journal of Physics: Conference Series, 2020, available at: https://iopscience.iop.org/article/10.1088/1742-6596/1457/1/012012. DOI: 10.1088/1742-6596/1457/1/012012. </li>
-       <li> Stary C., Pasztor A. LUIS — A logic for task-oriented user interface specification, International Journal of Intelligent Systems, 1995, vol. 10, no. 2, pp. 201—231. DOI: 10.1002/int.4550100204. </li>
-       <li> Kurta P. A. User interaction with the information system. Part 1. Interaction scheme and classification of shortcomings, News of St. Petersburg Electrotechnical University "LETI", 2020, no. 8—9, pp. 35—45 (in Russian). </li>
-       <li> Sukhov A. A. The problem of human-machine interface in information systems, Computer science, telecommunications and management, 2009, no. 5 (86), pp. 18—22 (in Russian). </li>
-       <li> Anokhin A. N., Nazarenko N. A. Interface design, Biotechnosphere, 2010, no. 2, pp. 21—27 (in Russian). </li>
-       <li> Sverchkov D. S. Development of a human-machine interface and its application in control systems, Proceedings of the Krylov State Scientific Center, 2018, special issue 1, pp. 184—190 (in Russian). </li>
-       <li> Bakanov A. S., Oboznov A. A. Ergonomics of the user interface: from design to modeling of human-computer interaction: a practical guide, Moscow, Institute of Psychology of the Russian Academy of Sciences, 2011, 176 p. (in Russian). </li>
-       <li> Sytnik A. A., Shulga T. E., Danilov N. A., Gvozdyuk I. V. Mathematical model of software user activity, Software Products and Systems, 2018, vol. 31, no. 1, pp. 79—84 (in Russian). </li>
-       <li> Mishin A. A., Frantsuzova Yu. V. Design of software interfaces based on the analysis of template user actions, News of Tula State University. Engineering Sciences, 2016, no. 11-1, pp. 212—217 (in Russian). </li>
-       <li> Kompaniets V. S., Lyz A. E. Ergodesign of the user interface: methods of usability research, Engineering Journal of Don, 2017, vol. 46, no. 3 (46), pp. 56 (in Russian). </li>
-       <li> Martynov V. V., Kuznetsov A. M. Improving ergonomic indicators of user interfaces of web applications, Journal of the Ufa State Aviation Technical University, 2006, vol. 7, no. 1, pp. 118—125 (in Russian). </li>
-       <li> Belikov A. N., Kucherov S. A., Lapshin V. S., Lipko Yu. Yu., Sviridov A. S. Analysis of the communication models usage in the life cycle of information systems development, Izvestiya SFEDU, Engineering sciences. 2022, no. 5 (229), pp. 128-141. DOI: 10.18522/2311-3103-2022-5-128—141 (in Russian). </li>
-       <li> Kiseleva N. N. Professional task as a means of competency assessment in the training of middle-level specialists in it directions, Modern problems of science and education, 2013, no. 4, available at: https://science-education.ru/ru/article/view?id=9622 (дата обращения: 30.09.2023) (in Russian). </li>
-       <li> Leontyev A. N. Problems of mental development, Moscow, MSU, 1984, 232 p. (in Russian). </li>
-       <li> Matyushkin A. M. Thinking, learning, creativity, Voronezh, Publishing house NPO MODEK, 2003, 428 p. (in Russian). </li>
-       <li> Ball G. A. Theory of learning tasks, Moscow, Pedagogy, 1990, 184 p. (in Russian). </li>
-       <li> Spirin L. F. Theory and technology for solving pedagogical problems / Ed. P. I. Pidkasisty, Moscow, Russian Pedagogical Agency, 1997, 27 р. (in Russian). </li>
-       <li> Belikova S. A., Lipko Y. Y., Kucherov S. A. et al. Formation of an information system interface structure model and classification of elements used in it, Engineering Journal of Don, 2022, no. 12 (96), pp. 75—87 (in Russian). </li>
-       <li> Belikova S. A., Rogozov Y. I. Designing a Conceptual Model of the Process of User Interface Construction, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 508—514. DOI: 10.17587/prin.13.508-514. </li>
-     </ul>
----
+   item_references: |
+     <li>Hussain J., Hassan A. U., Bilal H. S. et al. Model-based adaptive user interface based on context and user experience evaluation, Journal on Multimodal User Interfaces, 2018, vol. 12, pp. 1—16. DOI: 10.1007/s12193-018-0258-2.</li>
+     <li>Kucherov S. A., Belikova S. A., Lipko Y. Y., Sviridov A. S. Analysis of conceptual approaches to the formation and implementation of interface models for technical systems, Informatization and communication, 2022, no. 2, pp. 64—67. DOI: 10.34219/2078-83202022-13-2-64-67 (in Russian).</li>
+     <li>Lapshin V. S., Rogozov Y. I., Kucherov S. A. Method for building an information model specification based on a sense-making approach to user involvement in the development process, Journal of King Saud University. Computer and Information Sciences. 2021, available at: https://digitallibrary.mes.ac.in/server/api/core/bitstreams/515d31c0-b357-4b14-b297-dac728b85317/content.</li>
+     <li>Belikova S. A., Rogozov Y. I., Sviridov A. S. et al. Approach to user interfaces development based on semantic model of user activity, 2019 12th International Conference on Computer and Electrical Engineering, Journal of Physics: Conference Series, 2020, available at: https://iopscience.iop.org/article/10.1088/1742-6596/1457/1/012012. DOI: 10.1088/1742-6596/1457/1/012012.</li>
+     <li>Stary C., Pasztor A. LUIS — A logic for task-oriented user interface specification, International Journal of Intelligent Systems, 1995, vol. 10, no. 2, pp. 201—231. DOI: 10.1002/int.4550100204.</li>
+     <li>Kurta P. A. User interaction with the information system. Part 1. Interaction scheme and classification of shortcomings, News of St. Petersburg Electrotechnical University "LETI", 2020, no. 8—9, pp. 35—45 (in Russian).</li>
+     <li>Sukhov A. A. The problem of human-machine interface in information systems, Computer science, telecommunications and management, 2009, no. 5 (86), pp. 18—22 (in Russian).</li>
+     <li>Anokhin A. N., Nazarenko N. A. Interface design, Biotechnosphere, 2010, no. 2, pp. 21—27 (in Russian).</li>
+     <li>Sverchkov D. S. Development of a human-machine interface and its application in control systems, Proceedings of the Krylov State Scientific Center, 2018, special issue 1, pp. 184—190 (in Russian).</li>
+     <li>Bakanov A. S., Oboznov A. A. Ergonomics of the user interface: from design to modeling of human-computer interaction: a practical guide, Moscow, Institute of Psychology of the Russian Academy of Sciences, 2011, 176 p. (in Russian).</li>
+     <li>Sytnik A. A., Shulga T. E., Danilov N. A., Gvozdyuk I. V. Mathematical model of software user activity, Software Products and Systems, 2018, vol. 31, no. 1, pp. 79—84 (in Russian).</li>
+     <li>Mishin A. A., Frantsuzova Yu. V. Design of software interfaces based on the analysis of template user actions, News of Tula State University. Engineering Sciences, 2016, no. 11-1, pp. 212—217 (in Russian).</li>
+     <li>Kompaniets V. S., Lyz A. E. Ergodesign of the user interface: methods of usability research, Engineering Journal of Don, 2017, vol. 46, no. 3 (46), pp. 56 (in Russian).</li>
+     <li>Martynov V. V., Kuznetsov A. M. Improving ergonomic indicators of user interfaces of web applications, Journal of the Ufa State Aviation Technical University, 2006, vol. 7, no. 1, pp. 118—125 (in Russian).</li>
+     <li>Belikov A. N., Kucherov S. A., Lapshin V. S., Lipko Yu. Yu., Sviridov A. S. Analysis of the communication models usage in the life cycle of information systems development, Izvestiya SFEDU, Engineering sciences. 2022, no. 5 (229), pp. 128-141. DOI: 10.18522/2311-3103-2022-5-128—141 (in Russian).</li>
+     <li>Kiseleva N. N. Professional task as a means of competency assessment in the training of middle-level specialists in it directions, Modern problems of science and education, 2013, no. 4, available at: https://science-education.ru/ru/article/view?id=9622 (дата обращения: 30.09.2023) (in Russian).</li>
+     <li>Leontyev A. N. Problems of mental development, Moscow, MSU, 1984, 232 p. (in Russian).</li>
+     <li>Matyushkin A. M. Thinking, learning, creativity, Voronezh, Publishing house NPO MODEK, 2003, 428 p. (in Russian).</li>
+     <li>Ball G. A. Theory of learning tasks, Moscow, Pedagogy, 1990, 184 p. (in Russian).</li>
+     <li>Spirin L. F. Theory and technology for solving pedagogical problems / Ed. P. I. Pidkasisty, Moscow, Russian Pedagogical Agency, 1997, 27 р. (in Russian).</li>
+     <li>Belikova S. A., Lipko Y. Y., Kucherov S. A. et al. Formation of an information system interface structure model and classification of elements used in it, Engineering Journal of Don, 2022, no. 12 (96), pp. 75—87 (in Russian).</li>
+     <li>Belikova S. A., Rogozov Y. I. Designing a Conceptual Model of the Process of User Interface Construction, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 508—514. DOI: 10.17587/prin.13.508-514.</li>
