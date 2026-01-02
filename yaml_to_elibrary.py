@@ -33,8 +33,9 @@ def generate_elibrary_xml(yaml_file, output_file):
     ET.SubElement(issue, "number").text = month
     ET.SubElement(issue, "dateUni").text = year
 
-    first_page, _ = data["content"][0]["item_pages"].split("—")
-    _, last_page = data["content"][-1]["item_pages"].split("—")
+    dash_re = re.compile(r"[\u2013\u2014]")  # en dash or em dash
+    first_page, _ = dash_re.split(data["content"][0]["item_pages"])
+    _, last_page = dash_re.split(data["content"][-1]["item_pages"])
     ET.SubElement(issue, "pages").text = f"{first_page}-{last_page}"
 
     articles_elem = ET.SubElement(issue, "articles")
@@ -47,7 +48,7 @@ def generate_elibrary_xml(yaml_file, output_file):
 
         article_elem = ET.SubElement(articles_elem, "article")
         ET.SubElement(article_elem, "artType").text = "RAR"  # Research Article
-        ET.SubElement(article_elem, "pages").text = article["item_pages"].replace("—", "-")
+        ET.SubElement(article_elem, "pages").text = dash_re.sub("-", article["item_pages"])
 
         codes_elem = ET.SubElement(article_elem, "codes")
         ET.SubElement(codes_elem, "doi").text = f"10.17587/prin.{article['doi']}"
