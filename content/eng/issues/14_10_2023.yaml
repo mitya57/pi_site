@@ -6,7 +6,9 @@ content:
    item_authors: "Kurako E. A., Asratian R. E., Orlov V. L."
    item_name: "Import Substitution of Information Systems based on the С# Language and Network"
    item_authors_address: |
-     <b> E. A. Kurako</b>, Researcher, keaipu@yandex.ru, <b> R. E. Asratian</b>, Researcher, rubezas@yandex.ru, <b> V. L. Orlov</b>, Researcher, ovl@ipu.ru,
+     <b>E. A. Kurako</b>, Researcher, keaipu@yandex.ru,
+     <b>R. E. Asratian</b>, Researcher, rubezas@yandex.ru,
+     <b>V. L. Orlov</b>, Researcher, ovl@ipu.ru,
      V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation
    item_corr_author: "Evgeniy A. Kurako, Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: keaipu@yandex.ru"
    item_rec_on: July 20, 2023
@@ -21,26 +23,26 @@ content:
    item_pages: 471–481
    item_citation: "Kurako E. A., Asratian R. E., Orlov V. L. Import Substitution of Information Systems based on the С# Language and Network, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 471—481. DOI: 10.17587/prin.14.471-481 (in Russian)."
    item_references: |
-     <ul>
-     <li> Looking for alternatives: software import substitution options in Russia, available at: https://aif.ru/boostbook/importozameshchenie-po.html ?ysclid=lkwlesp6bu729683692#solut (date of access 07.08.2023) (in Russian). </li>
-     <li> Krupin A. The course towards import substitution: choosing Russian analogues of foreign software, available at: https://3dnews. ru/1062353/russian-sofware-guide?ysclid=lkwocl18s7528099068 (date of access 07.08.2023) (in Russian). </li>
-     <li> Borodin V. Success story of Yandex.Mail with PostgreSQL, Professional conference of developers of igh-load systems — High-Load++ 2016, available at: https://habr.com/ru/articles/321756/ (date of access 07.08.2023) (in Russian). </li>
-     <li> Troshkov S. N. On experience in migrating applications to the freely distributable open source software, Vestnk NGU. Seriya Informacionnye technologii, 2018, vol. 16, no. 2, pp. 86—94. DOI: 10.25205/1818-7900-2018-16-2-86-94 (in Russian). </li>
-     <li> Belyshev D. V. Import Substitution Experience in the In-terin PROMIS Alpha Healthcare Information System, Program systems: Theory and applications, 2022, vol. 13, no. 4 (55), pp. 93—109. DOI: 10.25209/2079-3316-2022-13-4-93-109 (in Russian). </li>
-     <li> Belikov S. B. Locomotives of import substitution in the sphere of Russian information technologies: state corporationsand departments in one wagon, Aspirant, 2022, no. 2, pp. 22—26 (in Russian). </li>
-     <li> Register of Russian software, available at: https://reestr.digi-tal.gov.ru/ (date of access 07.08.2023) (in Russian). </li>
-     <li> Patrakova A. The Ministry of Finance has identified three of the most popular Russian Linux, CNews, 01.11.2022, available at: https://www.cnews.ru/news/top/2022-11-01_razrabotchikov_po_zastavy at?ysclid=ldu6l2154s660667031 (date of access 07.08.2023) (in Russian). </li>
-     <li> Mono. Laboratory 50 (lab50.net), available at: https://lab50. net/%D0 %BC%D0 %BE%D0 %BD%D0 %BE/ (date of access 07.08.2023) (in Russian). </li>
-     <li> Kurako E. A., Orlov V. L. On the issue of migrating data­bases from Oracle to PostgreSQL, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 32—40. DOI: 10.17587/prin.13.32-40 (in Russian). </li>
-     <li> Kurako E. A., Orlov V. L. Service browsers for information systems, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 413—421, DOI: 10.17587/prin.8.413-421 (in Russian). </li>
-     <li> Mono. WCF Development, available at: https://www.mono-project.com/docs/web/wcf/ (date of access 07.08.2023).</li>
-     </ul>
+     <li>Looking for alternatives: software import substitution options in Russia, available at: https://aif.ru/boostbook/importozameshchenie-po.html?ysclid=lkwlesp6bu729683692#solut (date of access 07.08.2023) (in Russian).</li>
+     <li>Krupin A. The course towards import substitution: choosing Russian analogues of foreign software, available at: https://3dnews. ru/1062353/russian-sofware-guide?ysclid=lkwocl18s7528099068 (date of access 07.08.2023) (in Russian).</li>
+     <li>Borodin V. Success story of Yandex.Mail with PostgreSQL, Professional conference of developers of igh-load systems — High-Load++ 2016, available at: https://habr.com/ru/articles/321756/ (date of access 07.08.2023) (in Russian).</li>
+     <li>Troshkov S. N. On experience in migrating applications to the freely distributable open source software, Vestnk NGU. Seriya Informacionnye technologii, 2018, vol. 16, no. 2, pp. 86—94. DOI: 10.25205/1818-7900-2018-16-2-86-94 (in Russian).</li>
+     <li>Belyshev D. V. Import Substitution Experience in the In-terin PROMIS Alpha Healthcare Information System, Program systems: Theory and applications, 2022, vol. 13, no. 4 (55), pp. 93—109. DOI: 10.25209/2079-3316-2022-13-4-93-109 (in Russian).</li>
+     <li>Belikov S. B. Locomotives of import substitution in the sphere of Russian information technologies: state corporationsand departments in one wagon, Aspirant, 2022, no. 2, pp. 22—26 (in Russian).</li>
+     <li>Register of Russian software, available at: https://reestr.digital.gov.ru/ (date of access 07.08.2023) (in Russian).</li>
+     <li>Patrakova A. The Ministry of Finance has identified three of the most popular Russian Linux, CNews, 01.11.2022, available at: https://www.cnews.ru/news/top/2022-11-01_razrabotchikov_po_zastavy at?ysclid=ldu6l2154s660667031 (date of access 07.08.2023) (in Russian).</li>
+     <li>Mono. Laboratory 50 (lab50.net), available at: https://lab50.net/%D0%BC%D0%BE%D0%BD%D0%BE/ (date of access 07.08.2023) (in Russian).</li>
+     <li>Kurako E. A., Orlov V. L. On the issue of migrating data­bases from Oracle to PostgreSQL, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 32—40. DOI: 10.17587/prin.13.32-40 (in Russian).</li>
+     <li>Kurako E. A., Orlov V. L. Service browsers for information systems, Programmnaya Ingeneria, 2017, vol. 8, no. 9, pp. 413—421, DOI: 10.17587/prin.8.413-421 (in Russian).</li>
+     <li>Mono. WCF Development, available at: https://www.mono-project.com/docs/web/wcf/ (date of access 07.08.2023).</li>
  - doi: 14.482-492
    udk: "004.95"
    item_authors: "Vorobeva G. R., Farvaev E. F."
    item_name: "Distributed Architecture of Geospatial Data Collection and Processing System based on Web Design Patterns"
    item_authors_address: |
-     <b>  G. R. Vorobeva</b>  , Professor, gulnara.vorobeva@gmail.com, <b>  E. F. Farvaev</b>  , Postgraduate Student, farvaev.emil@gmail.com, Ufa University of Science and Technology, Ufa, 450008, Russian Federation
+     <b>G. R. Vorobeva</b>, Professor, gulnara.vorobeva@gmail.com,
+     <b>E. F. Farvaev</b>, Postgraduate Student, farvaev.emil@gmail.com,
+     Ufa University of Science and Technology, Ufa, 450008, Russian Federation
    item_corr_author: " Emil F. Farvaev, Postgraduate Student, Ufa University of Science and Technology, Ufa, 450008, Russian Federation, E-mail: farvaev.emil@gmail.com"
    item_rec_on: June 15, 2023
    item_acc_on: July 26, 2023
@@ -50,30 +52,31 @@ content:
    item_pages: 482–492
    item_citation: "Vorobeva G. R., Farvaev E. F. Distributed Architecture of Geospatial Data Collection and Processing System based on Web Design Patterns, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 482—492. DOI: 10.17587/prin.14.482-492. (in Russian)."
    item_references: |
-     <ul>
-     <li>  Aji A., Wang F., Vo H. et al. Hadoop-GIS: A High Performance Spatial Data Warehousing System over MapReduce, Proceedings of the VLDB Endowment, 2013, vol. 6, no. 11, pp. 1009—1020. </li>
-     <li> Azhir E., Hosseinzadeh M., Khan F., Mosavi A. Performance Evaluation of Query Plan Recommendation with Apache Hadoop and Apache Spark, Mathematics, 2022, vol. 10, no. 19, ar­ticle 3517. DOI: 10.3390/math10193517. </li>
-     <li> Sala A. Data and Service Integration: Architectures and Applications to Real Domains, Modena and Reggio Emilia, Emilia-Romagna, Italy, 2010, 147 p. </li>
-     <li> Apache Hadoop, available at: https://hadoop.apache.org/(date of access 27.04.T2M023). </li>
-     <li> Apache SparkTM — Unified engine for large-scale data analytics, available at: https://spark.apache.org/ (date of access 27.04.2023). </li>
-     <li> Magnotta L. Analysis and development of advanced data integration solutions for data analytics tools, Modena and Reggio Emilia, Emilia-Romagna, Italy, 2018, 176 p. </li>
-     <li> Bergamaschi S., Beneventano. D., Corni A., Kazazi E. et al. The Open Source release of the MOMIS Data Integration System, SEBD 2011 — Proceedings of the 19th Italian Symposium on Advanced Database Systems, 2011, pp. 175—186. </li>
-     <li> Momis — DataRiver, available at: https://www.datariver.it/en/momis/ (date of access 27.04.2023). </li>
-     <li> IBM InfoSphere Information Server, available at: https:// www.ibm.com/information-server (date of access 27.04.2023). </li>
-     <li> Comparison between different Observer Pattern implementations, available at: https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementa-tions (date of access 27.04.2023). </li>
-     <li> Trabelsi I., Abdellatif M., Abubaker A. et al. From legacy to microservices: A type-based approach for microservices identification using machine learning and semantic analysis, Journal of Software: Evolution and Process, 2022. DOI: 10.1002/smr.2503. </li>
-     <li> Jiao Q.-J. Functional Units in Complex Networks: Beyond Cohesive Modules, IFAC Proceedings Volumes, 2013, no. 46, pp. 94— 99. DOI: 10.3182/20130708-3-CN-2036.00040. </li>
-     <li> Sharma S. Web pattern analysis using partitioning algorithm in hyperlink structure, International Journal of Emerging Trends in Engineering and Development, 2020, no. 10. DOI: 10.26808/rs.ed.i10v2.03. </li>
-     <li> Bagrudeen B. A., Yuvaraj Dr. D. et al. An Efficient Mechanism for Deep Web Data Extraction Based on Tree-Structured Web Pattern Matching, Wireless Communications and Mobile Computing, 2022, pp. 1—10. DOI: 10.1155/2022/6335201. </li>
-     <li> Yadav P. A Novel Approach of Development of Web Pattern by Focusing on Web Structure Mining Techniques, International Journal on Recent and Innovation Trends in Computing and Communication, 2019, no. 7, pp. 01—04. DOI: 10.17762/ijritcc.v7i2.5223.</li>
-     </ul>
+     <li>Aji A., Wang F., Vo H. et al. Hadoop-GIS: A High Performance Spatial Data Warehousing System over MapReduce, Proceedings of the VLDB Endowment, 2013, vol. 6, no. 11, pp. 1009—1020.</li>
+     <li>Azhir E., Hosseinzadeh M., Khan F., Mosavi A. Performance Evaluation of Query Plan Recommendation with Apache Hadoop and Apache Spark, Mathematics, 2022, vol. 10, no. 19, ar­ticle 3517. DOI: 10.3390/math10193517.</li>
+     <li>Sala A. Data and Service Integration: Architectures and Applications to Real Domains, Modena and Reggio Emilia, Emilia-Romagna, Italy, 2010, 147 p.</li>
+     <li>Apache Hadoop, available at: https://hadoop.apache.org/(date of access 27.04.T2M023).</li>
+     <li>Apache SparkTM — Unified engine for large-scale data analytics, available at: https://spark.apache.org/ (date of access 27.04.2023).</li>
+     <li>Magnotta L. Analysis and development of advanced data integration solutions for data analytics tools, Modena and Reggio Emilia, Emilia-Romagna, Italy, 2018, 176 p.</li>
+     <li>Bergamaschi S., Beneventano. D., Corni A., Kazazi E. et al. The Open Source release of the MOMIS Data Integration System, SEBD 2011 — Proceedings of the 19th Italian Symposium on Advanced Database Systems, 2011, pp. 175—186.</li>
+     <li>Momis — DataRiver, available at: https://www.datariver.it/en/momis/ (date of access 27.04.2023).</li>
+     <li>IBM InfoSphere Information Server, available at: https://www.ibm.com/information-server (date of access 27.04.2023).</li>
+     <li>Comparison between different Observer Pattern implementations, available at: https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementa-tions (date of access 27.04.2023).</li>
+     <li>Trabelsi I., Abdellatif M., Abubaker A. et al. From legacy to microservices: A type-based approach for microservices identification using machine learning and semantic analysis, Journal of Software: Evolution and Process, 2022. DOI: 10.1002/smr.2503.</li>
+     <li>Jiao Q.-J. Functional Units in Complex Networks: Beyond Cohesive Modules, IFAC Proceedings Volumes, 2013, no. 46, pp. 94— 99. DOI: 10.3182/20130708-3-CN-2036.00040.</li>
+     <li>Sharma S. Web pattern analysis using partitioning algorithm in hyperlink structure, International Journal of Emerging Trends in Engineering and Development, 2020, no. 10. DOI: 10.26808/rs.ed.i10v2.03.</li>
+     <li>Bagrudeen B. A., Yuvaraj Dr. D. et al. An Efficient Mechanism for Deep Web Data Extraction Based on Tree-Structured Web Pattern Matching, Wireless Communications and Mobile Computing, 2022, pp. 1—10. DOI: 10.1155/2022/6335201.</li>
+     <li>Yadav P. A Novel Approach of Development of Web Pattern by Focusing on Web Structure Mining Techniques, International Journal on Recent and Innovation Trends in Computing and Communication, 2019, no. 7, pp. 01—04. DOI: 10.17762/ijritcc.v7i2.5223.</li>
  - doi: 14.493-501
    udk: "004.021"
    item_authors: "Basynya E. A., Karapetyants N., Karapetyants M."
    item_name: "A Study of Existing Approaches to Transaction Analysis in the Bitcoin Network"
    item_authors_address: |
-     <b> E. A. Basinya</b>, Associate Professor, Leading Researcher, eabsynya@mephi.ru, <b> N. Karapetyants</b>, Assistant of Department, nkarapetyants@mephi.ru, <b> M. Karapetyants</b>, IICS Engineer, mkarapetyants@mephi.ru, National Research Nuclear University MEphl, Moscow, 115409, Russian Federation
-   item_corr_author: 'Evgeniy A. Basynya, Associate Professor, Leading Researcher, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: eabsynya@mephi.ru'
+     <b>E. A. Basinya</b>, Associate Professor, Leading Researcher, eabasynya@mephi.ru,
+     <b>N. Karapetyants</b>, Assistant of Department, nkarapetyants@mephi.ru,
+     <b>M. Karapetyants</b>, IICS Engineer, mkarapetyants@mephi.ru,
+     National Research Nuclear University MEphl, Moscow, 115409, Russian Federation
+   item_corr_author: 'Evgeniy A. Basynya, Associate Professor, Leading Researcher, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: eabasynya@mephi.ru'
    item_rec_on: June 14, 2023
    item_acc_on: August 03, 2023
    item_annot: |
@@ -83,31 +86,31 @@ content:
    item_comment: This work was supported by the Ministry of Science and Higher Education of the Russian Federation (state task project No. FSWU-2023-0031).
    item_citation: "Basynya E. A., Karapetyants N., Karapetyants M. A Study of Existing Approaches to Transaction Analysis in the Bitcoin Network, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 493—501. DOI: 10.17587/prin.14.492-501 (in Russian)."
    item_references: |
-     <ul>
-     <li>  Chainalysis — The 2022 Crypto Crime Report, Chainalysis, accessed 2 February 2023, available at: https://blockbr.com.br/wp-content/uploads/2022/06/2022-crypto-crime-report.pdf. </li>
-     <li>  Serdechny A. L., Skogoreva D. A., Longny E. P. et al. Cartographic study of blockchain transactions and smart contracts of cybercriminals attacking automated information systems and assessment of damages from the implementation of their attacks, Informacija i bezopasnost', 2021, vol. 24, no. 4, pp. 471—500. DOI: 10.36622/VSTU.2021.24.4.001 (in Russian). </li>
-     <li>  Rodivilina V. A., Rodivilin I. P., Kolominov V. V. Problems of countering the use of anonymity on the Internet for criminal purposes, Kriminalistika: vchera, segodnja, zavtra, 2021, no. 4, pp. 68—79. DOI: 10.24412/2587-9820-2021-4-68-76 (in Russian). </li>
-     <li>  Balaskas A., Frankeira V. N. L. Analytical tools for block-chain: Review, taxonomy and open challenges, 2018 International conference on cybersecurity and protection of digital services (cybersecurity), IEEE, 2018, pp. 1—8. DOI: 10.1109/CyberSecPODS.2018.8560672. </li>
-     <li>  Song W., Zhang W., Wang J. et al. Blockchain data analysis from the perspective of complex networks: Overview, Tsinghua Science and Technology, 2022, vol. 28, no. 1, pp. 176—206. DOI: 10.26599/TST.2021.9010080. </li>
-     <li>  Moon H., Kim S., Li Y. A RDBMS-based Bitcoin analysis method, Information Security and Cryptology — ICISC, 2020, vol. 12593, pp. 235—253. DOI: 10.1007/978-3-030-68890-5_13. </li>
-     <li>  Bakumenko L. P., Vasilyeva N. S. Classification by the sup­port vector method of bitcoin theft fraud programs, Uchet i statistika, 2022, vol. 68, no. 4, pp. 112—122 (in Russian). </li>
-     <li>  Feldman E. V., Ruchai A. N., Matveeva V. K., Samsono-va V. D. A model for detecting anomalous bitcoin transactions based on machine learning, Cheljabinskij fiziko-matematicheskij zhurnal, 2021, vol. 6, no. 1, pp. 119—132. DOI: 10.47475/2500-0101-2021­16110 (in Russian). </li>
-     <li>  Zheng B., Zhu L., Shen M. Identifying the vulnerabilities of bitcoin anonymous mechanism based on address clustering, Science China Information Sciences, 2020, vol. 63, pp. 1—15. DOI: 10.1007/s11432-019-9900-9. </li>
-     <li>  He S., He K., Lin S., Yang C., Mao H. Bitcoin address clustering method based on multiple heuristic condition, IET Blockchain, 2022, vol. 2, no. 2, pp. 44—56. DOI: 10.1049/blc2.12014. </li>
-     <li>  Long T., Xu J., Fu L., Wang X. Analyzing and de-anon-ymizing Bitcoin networks: An IP matching method with clustering and heuristics // China Communications, 2022, vol. 19, no. 6, pp. 263—278. DOI: 10.23919/JCC.2022.06.019. </li>
-     <li>  Moser M., Narayanan A. Resurrecting address clustering in Bitcoin, Financial Cryptography and Data Security: 26th International Conference, 2022, vol. 13411, pp. 386—403. DOI: 10.1007/978-3-031-18283-9_19</li>
-     <li>  Zhao Z., Wang J., Shi Q., Zhang H. Improving Bitcoin Address Clustering by Proposing Heuristics, IEEE Transactions on Network and Service Management, 2022, vol. 19, no. 4, pp. 3737—3749. DOI: 10.1109/TNSM.2022.3186466. </li>
-     <li>  Chang T. H., Svetinovich D. Improving bitcoin ownership identification using transaction patterns analysis, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018, vol. 50, no. 1, pp. 9—20. DOI: 10.1109/TSMC.2018.2867497. </li>
-     <li>  Fisher J. A., Palechor A., Dell'Aglio D., Bernstein A., Tesson C. J. The complex community structure of the bitcoin address correspondence network, Frontiers in Physics, 2021, vol. 9, pp. 1—16. DOI: 10.3389/fphy.2021.681798. </li>
-     <li>  Traag V. A. Faster Community Deployment: Accelerating the Louvain Algorithm, Physical Review E, 2015, vol. 92, no. 3, pp. 032801. DOI: 10.1103/PhysRevE.92.032801. </li>
-     <li>  Traag V. A., Shubel L. Detection of a large network community by fast label propagation, Scientific report, 2023, vol. 13, pp. 2701. DOI: 10.1038/s41598-023-29610-z </li>
-     </ul>
+     <li>Chainalysis — The 2022 Crypto Crime Report, Chainalysis, accessed 2 February 2023, available at: https://blockbr.com.br/wp-content/uploads/2022/06/2022-crypto-crime-report.pdf.</li>
+     <li>Serdechny A. L., Skogoreva D. A., Longny E. P. et al. Cartographic study of blockchain transactions and smart contracts of cybercriminals attacking automated information systems and assessment of damages from the implementation of their attacks, Informacija i bezopasnost', 2021, vol. 24, no. 4, pp. 471—500. DOI: 10.36622/VSTU.2021.24.4.001 (in Russian).</li>
+     <li>Rodivilina V. A., Rodivilin I. P., Kolominov V. V. Problems of countering the use of anonymity on the Internet for criminal purposes, Kriminalistika: vchera, segodnja, zavtra, 2021, no. 4, pp. 68—79. DOI: 10.24412/2587-9820-2021-4-68-76 (in Russian).</li>
+     <li>Balaskas A., Frankeira V. N. L. Analytical tools for block-chain: Review, taxonomy and open challenges, 2018 International conference on cybersecurity and protection of digital services (cybersecurity), IEEE, 2018, pp. 1—8. DOI: 10.1109/CyberSecPODS.2018.8560672.</li>
+     <li>Song W., Zhang W., Wang J. et al. Blockchain data analysis from the perspective of complex networks: Overview, Tsinghua Science and Technology, 2022, vol. 28, no. 1, pp. 176—206. DOI: 10.26599/TST.2021.9010080.</li>
+     <li>Moon H., Kim S., Li Y. A RDBMS-based Bitcoin analysis method, Information Security and Cryptology — ICISC, 2020, vol. 12593, pp. 235—253. DOI: 10.1007/978-3-030-68890-5_13.</li>
+     <li>Bakumenko L. P., Vasilyeva N. S. Classification by the sup­port vector method of bitcoin theft fraud programs, Uchet i statistika, 2022, vol. 68, no. 4, pp. 112—122 (in Russian).</li>
+     <li>Feldman E. V., Ruchai A. N., Matveeva V. K., Samsonova V. D. A model for detecting anomalous bitcoin transactions based on machine learning, Cheljabinskij fiziko-matematicheskij zhurnal, 2021, vol. 6, no. 1, pp. 119—132. DOI: 10.47475/2500-0101-2021­16110 (in Russian).</li>
+     <li>Zheng B., Zhu L., Shen M. Identifying the vulnerabilities of bitcoin anonymous mechanism based on address clustering, Science China Information Sciences, 2020, vol. 63, pp. 1—15. DOI: 10.1007/s11432-019-9900-9.</li>
+     <li>He S., He K., Lin S., Yang C., Mao H. Bitcoin address clustering method based on multiple heuristic condition, IET Blockchain, 2022, vol. 2, no. 2, pp. 44—56. DOI: 10.1049/blc2.12014.</li>
+     <li>Long T., Xu J., Fu L., Wang X. Analyzing and de-anon-ymizing Bitcoin networks: An IP matching method with clustering and heuristics // China Communications, 2022, vol. 19, no. 6, pp. 263—278. DOI: 10.23919/JCC.2022.06.019.</li>
+     <li>Moser M., Narayanan A. Resurrecting address clustering in Bitcoin, Financial Cryptography and Data Security: 26th International Conference, 2022, vol. 13411, pp. 386—403. DOI: 10.1007/978-3-031-18283-9_19</li>
+     <li>Zhao Z., Wang J., Shi Q., Zhang H. Improving Bitcoin Address Clustering by Proposing Heuristics, IEEE Transactions on Network and Service Management, 2022, vol. 19, no. 4, pp. 3737—3749. DOI: 10.1109/TNSM.2022.3186466.</li>
+     <li>Chang T. H., Svetinovich D. Improving bitcoin ownership identification using transaction patterns analysis, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018, vol. 50, no. 1, pp. 9—20. DOI: 10.1109/TSMC.2018.2867497.</li>
+     <li>Fisher J. A., Palechor A., Dell'Aglio D., Bernstein A., Tesson C. J. The complex community structure of the bitcoin address correspondence network, Frontiers in Physics, 2021, vol. 9, pp. 1—16. DOI: 10.3389/fphy.2021.681798.</li>
+     <li>Traag V. A. Faster Community Deployment: Accelerating the Louvain Algorithm, Physical Review E, 2015, vol. 92, no. 3, pp. 032801. DOI: 10.1103/PhysRevE.92.032801.</li>
+     <li>Traag V. A., Shubel L. Detection of a large network community by fast label propagation, Scientific report, 2023, vol. 13, pp. 2701. DOI: 10.1038/s41598-023-29610-z</li>
  - doi: 14.502-512
    udk: "004.5"
    item_authors: "Levonevskiy D. K., Motienko A. I."
    item_name: "Modeling and Automation of Data Collection and Processing in a Smart Medical Ward"
    item_authors_address: |
-     <b> D. K. Levonevskiy</b>, PhD, Senior Researcher, levonevskij.d@iias.spb.su, <b> A. I. Motienko</b>, PhD, Senior Researcher, anna.gunchenko@gmail.com, St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
+     <b>D. K. Levonevskiy</b>, PhD, Senior Researcher, levonevskij.d@iias.spb.su,
+     <b>A. I. Motienko</b>, PhD, Senior Researcher, anna.gunchenko@gmail.com,
+     St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences, St. Petersburg, 199178, Russian Federation
    item_corr_author: "Dmitrii K. Levonevskiy, PhD, Senior Researcher, St. Petersburg Federal Research Center of the Russian Academy of Sciences, 199178, Saint Petersburg, Russian Federation, E-mail: levonevskij.d@iias.spb.su"
    item_rec_on:  July 07, 2023
    item_acc_on:  August 11, 2023
@@ -118,46 +121,48 @@ content:
    item_comment: The study was supported by the Russian Science Foundation, project No. 22-71-10092, https://rscf.ru/project/22-71-10092/.
    item_citation: "Levonevskiy D. K., Motienko A. I. Modeling and Automation of Data Collection and Processing in a Smart Medical Ward, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 502—512. DOI: 10.17587/prin.502-512. (in Russian)."
    item_references: |
-     <ul>
-     <li> Huang P.-H. The Application of Smart Medical Care in the Smart Ward-Take A Company as an Example, Ph.D. Thesis, College of Management (Executive Master in Business Administration), 2022. 85 p. </li>
-     <li> Jian W. S., Wang J. Y., Rahmanti A. R. et al. Voice-based control system for smart hospital wards: a pilot study of patient acceptance, BMC health services research, 2022, vol. 22, no. 1, pp. 287. DOI: 10.1186/s12913-022-07668-1. </li>
-     <li> Brunete A., Gambao E., Hernando M., Cedazo R. Smart assistive architecture for the integration of IoT devices, robotic sys­tems, and multimodal interfaces in healthcare environments, Sensors, 2021, vol. 21, no. 6, pp. 2212. DOI: 10.3390/s21062212. </li>
-     <li> Azhiimah A. N., Khotimah K., Sumbawati M. S., Santosa A. B. Automatic Control Based on Voice Commands and Ar-duino, International Joint Conference on Science and Engineering (IJCSE 2020), Atlantis Press, 2020, pp. 29—34. DOI: 10.2991/ aer.k.201124.006. </li>
-     <li> Cronin S., Doherty G. Touchless computer interfaces in hospitals: A review, Health informatics journal, 2019, vol. 25, no. 4, pp. 1325—1342. DOI: 10.1177/1460458217748342. </li>
-     <li> Ali H., Cole A., Panos G. Transforming patient hospital experience through smart technologies, Design, User Experience, and Usability. Case Studies in Public and Personal Interactive Systems: 9th International Conference, DUXU 2020, Held as Part of the 22nd HCI International Conference (HCII2020), Springer International Pub­lishing, 2020, pp. 203—215. DOI: 10.1007/978-3-030-49757-6_14. </li>
-     <li> Balasubramanian V., Vivekanandhan S., Mahadevan V. Pandemic tele-smart: a contactless tele-health system for efficient monitoring of remotely located COVID-19 quarantine wards in India using near-field communication and natural language processing system, Medical & Biological Engineering & Computing, 2022, pp. 1—19. DOI: 10.1007/s11517-021-02456-1. </li>
-     <li> Gune A., Bhat A., Pradeep A. Implementation of near field communication based healthcare management system, 2013 IEEE Symposium on Industrial Electronics & Applications, IEEE, 2013, pp. 195—199. DOI: 10.1109/ISIEA.2013.6738993. </li>
-     <li> Sujadevi V. G., Kumar T. H., Arunjith A. S. et al. Effortless exchange of personal health records using near field communication, 2016 International Conference on Advances in Computing, Communications and Informatics (ICACCI). IEEE, 2016. P. 1764—1769. DOI: 10.1109/ICACCI.2016.7732303. </li>
-     <li> Supriya A., Ramgopal S., George S. M. Near Field Communication based system for health monitoring, 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), IEEE, 2017, pp. 653-657. DOI: 10.1109/RTEICT.2017.8256678. </li>
-     <li> Thompson P., McNaught J., Ananiadou S. Customised OCR correction for historical medical text, 2015 digital heritage. IEEE, 2015. Vol. 1. P. 35—42. DOI: 10.1109/DigitalHeritage.2015.7413829. </li>
-     <li> Wen M. H., Bai D., Lin S., et al. Implementation and experience of an innovative smart patient care system: A cross-sectional study, BMC Health Services Research, 2022, vol. 22, no. 1, pp. 1—11. DOI: 10.1186/s12913-022-07511-7. </li>
-     <li> Meade C. M., Bursell A. L., Ketelsen L. Effects of nursing rounds: on patients' call light use, satisfaction, and safety, AJN The American Journal of Nursing, 2006, vol. 106, no. 9, pp. 58—70. DOI: 10.1097/00000446-200609000-00029. </li>
-     <li> Tzeng H. M. Perspectives of staff nurses of the reasons for and the nature of patient-initiated call lights: an exploratory survey study in four USA hospitals, BMC Health Services Research, 2010, vol. 10, no. 1, pp. 1—13. DOI: 10.1186/1472-6963-10-52. </li>
-     <li> Torres S. M.Rapid-cycle process reduces patient call bell use, improves patient satisfaction, and anticipates patient's needs, JONA: The Journal of Nursing Administration, 2007, vol. 37, no. 11, pp. 480—482. DOI: 10.1097/01.NNA.0000295609.94699.76. </li>
-     <li> Klemets J., Evjemo T. E. Technology-mediated awareness: facilitating the handling of (un) wanted interruptions in a hospital setting, International journal of medical informatics, 2014, vol. 83, no. 9, pp. 670-682. DOI: 10.1016/j.ijmedinf.2014.06.007. </li>
-     <li> Bouldin E. D., Andresen E. M., Dunton N. E. et al. Falls among adult patients hospitalized in the United States: prevalence and trends, Journal of patient safety, 2013, vol. 9, no. 1, pp. 13. DOI: 10.1097/PTS.0b013e3182699b64. </li>
-     <li> Hempel S., Newberry S., Wang Z. et al. Hospital fall prevention: a systematic review of implementation, components, adherence, and effectiveness, Journal of the American Geriatrics Society, 2013, vol. 61, no. 4, pp. 483-494. DOI: 10.1111/jgs.12169. </li>
-     <li> Cai X., Pan J. Toward a brain-computer interface-and internet of things-based smart ward collaborative system using hybrid signals, Journal of Healthcare Engineering, 2022, vol. 2022, article ID 6894392. DOI: 10.1155/2022/6894392. </li>
-     <li> Levina A., Iliashenko V. M., Kalyazina S., Overes E. Smart Hospital Architecture: IT and Digital Aspects, Algorithms and Solutions Based on Computer Technology: 5th Scientific International Online Conference Algorithms and Solutions based on Computer Technology (ASBC 2021), Cham: Springer International Publishing, 2022, pp. 235—247. DOI: 10.1007/978-3-030-93872-7_20. </li>
-     <li> Yadav S., Manohar M., Jeba Shiney O. et al. A Smart System for Monitoring Flow in Drip Bottles in Healthcare, Futuristic Communication and Network Technologies: Select Proceed­ings of VICFCNT 2020, Springer Singapore, 2022, pp. 663—669. DOI: 10.1007/978-981-16-4625-6_66. </li>
-     <li> Gayathri S., Ganesh C. S. S. Automatic indication system of glucose level in glucose trip bottle, International Jornal of Mul-tidisciplinary Research and Modern Education, 2017, vol. 3, no. 1, pp. 148-151. DOI: 10.5281/zenodo.438622. </li>
-     <li> Kadam'manja J., Mukamurenzi S., Umuhoza E. Smart Vital Signs Monitoring System for Patient Triage: A case of Malawi, 2022 International Conference on Computer Communication and Informatics (ICCCI), IEEE, 2022, pp. 1-6. DOI: 10.1109/ICC-CI54379.2022.9740751. </li>
-     <li> Dalal J., Dasbiswas A., Sathyamurthy I. et al. Heart rate in hypertension: review and expert opinion, International Journal of Hypertension, 2019, vol. 2019, no. 2087064, pp. 1—7. DOI: 10.1155/2019/2087064. </li>
-     <li> Liu Q., Hou S., Wei L. Design and implementation of intelligent monitoring system for head and neck surgery care based on internet of things (IoT), Journal of Healthcare Engineering, 2022, vol. 2022, article ID 9806292. DOI: 10.1155/2023/9806292. </li>
-     <li> Feng Y. S., Liu H. Y., Hsieh M. H. et al. An RSSI-based device-free localization system for smart wards, 2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), IEEE, 2021, pp. 1—2. DOI: 10.1109/ICCE-TW52618.2021.9603249. </li>
-     <li> Huang Y. C., Liao C. F., Yen Y. C. et al. An extensible situa­tion-aware caring system for real-world smart wards, Impact Analysis of Solutions for Chronic Disease Prevention and Management: 10th International Conference on Smart Homes and Health Telematics, Springer Berlin Heidelberg, 2012, pp. 190—197. DOI: 10.1007/978-3-642-30779-9_24. </li>
-     <li> Abdellatif A. A., Emam A., Chiasserini C. F. et al. Edge-based compression and classification for smart healthcare systems: Concept, implementation and evaluation, Expert Systems with Applications, 2019, vol. 117, pp. 1—14. DOI: 10.1016/j.eswa.2018.09.019. </li>
-     <li> Levonevskiy D., Motienko A., Terekhov I. Automation of di­agnosis, stratification, and treatment of the paroxysmal sympathetic hyperactivity syndrome in the smart ward environment, 2nd International Conference on Computer Applications for Management and Sustainable Development of Production and Industry (CMSD-II-2022), SPIE, 2023, vol. 12564, pp. 74—80. DOI: 10.1117/12.2669244. </li>
-     <li> Levonevskiy D., Motienko A., Tsentsiper L., Terekhov I. Automation of Data Processing for Patient Monitoring in the Smart Ward Environment, 12th Computer Science On-line Con­ference (CSOC 2023), 2023, vol. I, LNNS 722, pp. 746—756. DOI: 10.1007/978-3-031-35311-6_71. </li>
-     <li> Levonevskiy D. K., Motienko A. I. Scenario Models for the Functioning of a Medical Cyber-Physical System in Normal and Emergency Situations, Programmnaya Ingeneria, 2022, vol. 13, no. 8,pp. 383—393. DOI: 10.17587/prin.13.383-393 (in Russian). </li>
-     <li> Tsentsiper L. M., Terekhov I. S., Shevelev O. A. et al. Paroxysmal Sympathetic Hyperactivity Syndrome (Review), General Reanimatology, 2022, vol. 18, no. 4, pp. 55—67. DOI: 10.15360/1813­9779-2022-4-55-67 (in Russian). </li>
-     </ul>
+     <li>Huang P.-H. The Application of Smart Medical Care in the Smart Ward-Take A Company as an Example, Ph.D. Thesis, College of Management (Executive Master in Business Administration), 2022. 85 p.</li>
+     <li>Jian W. S., Wang J. Y., Rahmanti A. R. et al. Voice-based control system for smart hospital wards: a pilot study of patient acceptance, BMC health services research, 2022, vol. 22, no. 1, pp. 287. DOI: 10.1186/s12913-022-07668-1.</li>
+     <li>Brunete A., Gambao E., Hernando M., Cedazo R. Smart assistive architecture for the integration of IoT devices, robotic sys­tems, and multimodal interfaces in healthcare environments, Sensors, 2021, vol. 21, no. 6, pp. 2212. DOI: 10.3390/s21062212.</li>
+     <li>Azhiimah A. N., Khotimah K., Sumbawati M. S., Santosa A. B. Automatic Control Based on Voice Commands and Ar-duino, International Joint Conference on Science and Engineering (IJCSE 2020), Atlantis Press, 2020, pp. 29—34. DOI: 10.2991/ aer.k.201124.006.</li>
+     <li>Cronin S., Doherty G. Touchless computer interfaces in hospitals: A review, Health informatics journal, 2019, vol. 25, no. 4, pp. 1325—1342. DOI: 10.1177/1460458217748342.</li>
+     <li>Ali H., Cole A., Panos G. Transforming patient hospital experience through smart technologies, Design, User Experience, and Usability. Case Studies in Public and Personal Interactive Systems: 9th International Conference, DUXU 2020, Held as Part of the 22nd HCI International Conference (HCII2020), Springer International Pub­lishing, 2020, pp. 203—215. DOI: 10.1007/978-3-030-49757-6_14.</li>
+     <li>Balasubramanian V., Vivekanandhan S., Mahadevan V. Pandemic tele-smart: a contactless tele-health system for efficient monitoring of remotely located COVID-19 quarantine wards in India using near-field communication and natural language processing system, Medical & Biological Engineering & Computing, 2022, pp. 1—19. DOI: 10.1007/s11517-021-02456-1.</li>
+     <li>Gune A., Bhat A., Pradeep A. Implementation of near field communication based healthcare management system, 2013 IEEE Symposium on Industrial Electronics & Applications, IEEE, 2013, pp. 195—199. DOI: 10.1109/ISIEA.2013.6738993.</li>
+     <li>Sujadevi V. G., Kumar T. H., Arunjith A. S. et al. Effortless exchange of personal health records using near field communication, 2016 International Conference on Advances in Computing, Communications and Informatics (ICACCI). IEEE, 2016. P. 1764—1769. DOI: 10.1109/ICACCI.2016.7732303.</li>
+     <li>Supriya A., Ramgopal S., George S. M. Near Field Communication based system for health monitoring, 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), IEEE, 2017, pp. 653-657. DOI: 10.1109/RTEICT.2017.8256678.</li>
+     <li>Thompson P., McNaught J., Ananiadou S. Customised OCR correction for historical medical text, 2015 digital heritage. IEEE, 2015. Vol. 1. P. 35—42. DOI: 10.1109/DigitalHeritage.2015.7413829.</li>
+     <li>Wen M. H., Bai D., Lin S., et al. Implementation and experience of an innovative smart patient care system: A cross-sectional study, BMC Health Services Research, 2022, vol. 22, no. 1, pp. 1—11. DOI: 10.1186/s12913-022-07511-7.</li>
+     <li>Meade C. M., Bursell A. L., Ketelsen L. Effects of nursing rounds: on patients' call light use, satisfaction, and safety, AJN The American Journal of Nursing, 2006, vol. 106, no. 9, pp. 58—70. DOI: 10.1097/00000446-200609000-00029.</li>
+     <li>Tzeng H. M. Perspectives of staff nurses of the reasons for and the nature of patient-initiated call lights: an exploratory survey study in four USA hospitals, BMC Health Services Research, 2010, vol. 10, no. 1, pp. 1—13. DOI: 10.1186/1472-6963-10-52.</li>
+     <li>Torres S. M.Rapid-cycle process reduces patient call bell use, improves patient satisfaction, and anticipates patient's needs, JONA: The Journal of Nursing Administration, 2007, vol. 37, no. 11, pp. 480—482. DOI: 10.1097/01.NNA.0000295609.94699.76.</li>
+     <li>Klemets J., Evjemo T. E. Technology-mediated awareness: facilitating the handling of (un) wanted interruptions in a hospital setting, International journal of medical informatics, 2014, vol. 83, no. 9, pp. 670-682. DOI: 10.1016/j.ijmedinf.2014.06.007.</li>
+     <li>Bouldin E. D., Andresen E. M., Dunton N. E. et al. Falls among adult patients hospitalized in the United States: prevalence and trends, Journal of patient safety, 2013, vol. 9, no. 1, pp. 13. DOI: 10.1097/PTS.0b013e3182699b64.</li>
+     <li>Hempel S., Newberry S., Wang Z. et al. Hospital fall prevention: a systematic review of implementation, components, adherence, and effectiveness, Journal of the American Geriatrics Society, 2013, vol. 61, no. 4, pp. 483-494. DOI: 10.1111/jgs.12169.</li>
+     <li>Cai X., Pan J. Toward a brain-computer interface-and internet of things-based smart ward collaborative system using hybrid signals, Journal of Healthcare Engineering, 2022, vol. 2022, article ID 6894392. DOI: 10.1155/2022/6894392.</li>
+     <li>Levina A., Iliashenko V. M., Kalyazina S., Overes E. Smart Hospital Architecture: IT and Digital Aspects, Algorithms and Solutions Based on Computer Technology: 5th Scientific International Online Conference Algorithms and Solutions based on Computer Technology (ASBC 2021), Cham: Springer International Publishing, 2022, pp. 235—247. DOI: 10.1007/978-3-030-93872-7_20.</li>
+     <li>Yadav S., Manohar M., Jeba Shiney O. et al. A Smart System for Monitoring Flow in Drip Bottles in Healthcare, Futuristic Communication and Network Technologies: Select Proceed­ings of VICFCNT 2020, Springer Singapore, 2022, pp. 663—669. DOI: 10.1007/978-981-16-4625-6_66.</li>
+     <li>Gayathri S., Ganesh C. S. S. Automatic indication system of glucose level in glucose trip bottle, International Jornal of Mul-tidisciplinary Research and Modern Education, 2017, vol. 3, no. 1, pp. 148-151. DOI: 10.5281/zenodo.438622.</li>
+     <li>Kadam'manja J., Mukamurenzi S., Umuhoza E. Smart Vital Signs Monitoring System for Patient Triage: A case of Malawi, 2022 International Conference on Computer Communication and Informatics (ICCCI), IEEE, 2022, pp. 1-6. DOI: 10.1109/ICC-CI54379.2022.9740751.</li>
+     <li>Dalal J., Dasbiswas A., Sathyamurthy I. et al. Heart rate in hypertension: review and expert opinion, International Journal of Hypertension, 2019, vol. 2019, no. 2087064, pp. 1—7. DOI: 10.1155/2019/2087064.</li>
+     <li>Liu Q., Hou S., Wei L. Design and implementation of intelligent monitoring system for head and neck surgery care based on internet of things (IoT), Journal of Healthcare Engineering, 2022, vol. 2022, article ID 9806292. DOI: 10.1155/2023/9806292.</li>
+     <li>Feng Y. S., Liu H. Y., Hsieh M. H. et al. An RSSI-based device-free localization system for smart wards, 2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), IEEE, 2021, pp. 1—2. DOI: 10.1109/ICCE-TW52618.2021.9603249.</li>
+     <li>Huang Y. C., Liao C. F., Yen Y. C. et al. An extensible situa­tion-aware caring system for real-world smart wards, Impact Analysis of Solutions for Chronic Disease Prevention and Management: 10th International Conference on Smart Homes and Health Telematics, Springer Berlin Heidelberg, 2012, pp. 190—197. DOI: 10.1007/978-3-642-30779-9_24.</li>
+     <li>Abdellatif A. A., Emam A., Chiasserini C. F. et al. Edge-based compression and classification for smart healthcare systems: Concept, implementation and evaluation, Expert Systems with Applications, 2019, vol. 117, pp. 1—14. DOI: 10.1016/j.eswa.2018.09.019.</li>
+     <li>Levonevskiy D., Motienko A., Terekhov I. Automation of di­agnosis, stratification, and treatment of the paroxysmal sympathetic hyperactivity syndrome in the smart ward environment, 2nd International Conference on Computer Applications for Management and Sustainable Development of Production and Industry (CMSD-II-2022), SPIE, 2023, vol. 12564, pp. 74—80. DOI: 10.1117/12.2669244.</li>
+     <li>Levonevskiy D., Motienko A., Tsentsiper L., Terekhov I. Automation of Data Processing for Patient Monitoring in the Smart Ward Environment, 12th Computer Science On-line Con­ference (CSOC 2023), 2023, vol. I, LNNS 722, pp. 746—756. DOI: 10.1007/978-3-031-35311-6_71.</li>
+     <li>Levonevskiy D. K., Motienko A. I. Scenario Models for the Functioning of a Medical Cyber-Physical System in Normal and Emergency Situations, Programmnaya Ingeneria, 2022, vol. 13, no. 8,pp. 383—393. DOI: 10.17587/prin.13.383-393 (in Russian).</li>
+     <li>Tsentsiper L. M., Terekhov I. S., Shevelev O. A. et al. Paroxysmal Sympathetic Hyperactivity Syndrome (Review), General Reanimatology, 2022, vol. 18, no. 4, pp. 55—67. DOI: 10.15360/1813­9779-2022-4-55-67 (in Russian).</li>
  - doi: 14.513-519
    udk: "004.932"
    item_authors: "Khusainov R. M., Talipov N. G., Katasev A. S., Shalaeva D. V."
    item_name: "Neural Network Technology for Traffic Flow Analysis in Automated Traffic Control Systems"
    item_authors_address: |
-     <b> R. M. Khusainov</b>, Postgraduate Student, rumil_husainov98@mail.ru, <b>  N. G. Talipov</b>, PhD (technical science), Associate Professor, nafis.talipov@mail.ru, <b> A. S. Katasev</b>, Dr. Sci. (technical science), Professor, ASKatasev@kai.ru, <b> D. V. Shalaeva</b>, Master Student, dvshalaeva@bk.ru, Kazan National Research Technical University named after A. N. Tupolev, Kazan, 420111, Russian Federation
+     <b>R. M. Khusainov</b>, Postgraduate Student, rumil_husainov98@mail.ru,
+     <b>N. G. Talipov</b>, PhD (technical science), Associate Professor, nafis.talipov@mail.ru,
+     <b>A. S. Katasev</b>, Dr. Sci. (technical science), Professor, askatasev@kai.ru,
+     <b>D. V. Shalaeva</b>, Master Student, dvshalaeva@bk.ru,
+     Kazan National Research Technical University named after A. N. Tupolev, Kazan, 420111, Russian Federation
    item_corr_author: " Nafis G. Talipov, PhD (technical science), Associate Professor, Kazan National Research Technical University named after A. N. Tupolev, Kazan, 420111, Russian Federation, E-mail: nafis.talipov@mail.ru"
    item_rec_on:   July 14, 2023
    item_acc_on: August 09, 2023
@@ -169,31 +174,28 @@ content:
    item_pages: 513–519
    item_citation: "Khusainov R. M., Talipov N. G., Katasev A. S., Shalaeva D. V. Neural Network Technology for Traffic Flow Analysis in Automated Traffic Control Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 10, pp. 513—519. DOI: 10.17587/prin.14.513-519 (in Russian)."
    item_references: |
-     <ul>
-     <li> Indicators of the state of road safety, available at: http://stat. gibdd.ru/ (date of access 04.07.2023). </li>
-     <li> Yermishina E. V., Sharypova T. N. Critical information infrastructure in the intelligent transport system, Colloquim-Journal, 2022, no. 2-1 (125), pp. 20—21 (in Russian). </li>
-     <li> Sokolyansky V. V, Bulatov A. B., Bulatov R. B., Dudayev B. V. Intelligent transport systems in urban, Voprosy ekonomicheskikh nauk, 2015, no. 4 (74), pp. 75—81 (in Russian). </li>
-     <li> Nizyaeva Yu. D., Slobodchikov N. A. Experience in implementing intelligent transport systems in urban infrastructure, Sistemnyy analiz i logistika. 2022, no. 2 (32), pp. 50—55. DOI: 10.31799/2077-5687-2022-2-50-55 (in Russian). </li>
-     <li> Intelligent accident prevention system, available at: https:// iss.ru/products/securos-soffit (date of access 26.07.2023). </li>
-     <li> The Russian AI system Crash AI will warn of the risk of an accident, available at: https://3dnews.ru/981314 (date of access 26.07.2023). </li>
-     <li> ASUDD "Megapolis", available at: https://asudd.pro/prod-ucts/asudd/ (date of access 26.07.2023). </li>
-     <li> Open source software: why is it especially dangerous today and how to protect yourself, available at: https://www.tadviser.ru/ index.php (date of access 26.07.2023). </li>
-     <li> The weak link of Open Source, available at: https://in-nostage-group.ru/press/blog/review/slaboe-zveno-open-source (date of access 26.07.2023). </li>
-     <li> Lecun Y., Boser B., Denker J. S., Henderson D., Howard R. E., Hubbard W., Jackel L. D. Backpropagation applied to handwritten zip code recognition, Neural Computation, 1989. pp. 541—551. </li>
-     <li> Shleymovich M. P., Dagaeva M. V., Katasev A. S. et al. The analysis of images in control systems of unmanned automobiles on the base of energy features model, Computer Research and Modeling, 2018, no. 10 (3), pp. 369—376. DOI: 10.20537/2076-7633-2018-10-3-369-376 (in Russian). </li>
-     <li> Khusainov R. M., Talipov N. G. Analysis of algorithms and systems for recognizing traffic signs, Vestnik tekhnologicheskogo universiteta, 2022, vol. 25, no. 3, pp. 72—77 (in Russian). </li>
-     <li> Druki A. A. The use of convolutional neural networks for the extraction and recognition of license plates in images with a complex background, Izvestiya Tomskogo politekhnicheskogo universiteta, 2014, vol. 324, no. 5, pp. 85—92 (in Russian). </li>
-     <li> Homonenko A. D., Yakovlev E. L. Substantiation of the architecture of a convolutional neural network for autonomous recognition of objects in images by an onboard computer system, Naukoyemkiye tekhnologii v kosmicheskikh issledovaniyakh Zemli, 2018, vol. 10, no. 6, pp. 86—93 (in Russian). </li>
-     <li> Bokov P. A., Kravcheniya P. D. Experimental analysis of the accuracy and performance of varieties of Yolo architectures for computer vision tasks, Programmnyye produktyi sistemy, 2020, no. 4, pp. 635—640. DOI: 10.15827/0236-235X.132.635-640 (in Russian). </li>
-     <li> Rudenkyy A. O. Application of architecture to detect viola­tions of rules, stopping, parking vehicles in the wrong place and driving on sidewalks, Mezhdunarodnaya nauchno-tekhnicheskaya konferentsiya molodykh uchenykh BGTU named V. G. Shukhova, Materialy konferentsii, 2021, pp. 3779—3788 (in Russian). </li>
-     <li> Schneider A. S. Detection of objects in images on the example of the Yolo model, Trudy molodykh uchenykh Altay-skogo gosudarstvennogo universiteta, 2018, no. 15, pp. 358—361 (in Russian). </li>
-     <li> Jung H. Choi M.-K., Jung J. et al. ResNet-Based Vehicle Classificaton an Localization in Traffic Surveillance Systems, IEEE Conference on Computer Vision and Pattern Recognition Workshops, 2017, pp. 934—940. DOI: 10.1109/CVPRW.2017.129. </li>
-     <li> Bagirov M. B. Development and research of algorithms for tracking objects on a video stream, Informatsionnyye sistemy i tekhnologii. Sbornik materialov XXVIII Mezhdunarodnoy nauchno-tekhnicheskoy konferentsii, 2022, pp. 350—360 (in Russian). </li>
-     <li> Wojke N., Bewley A., Paulus D. Simple Online and Realtime Tracking with a Deep Association Metric, IEEE International Conference on Image Processing, 2017, pp. 1—5. DOI: 10.1109/ ICIP.2017.8296962. </li>
-     <li> Anaconda official site, available at: https://www.anaconda. com/products/individual (date of access 04.07.2023). </li>
-     <li> Official site of the developer Joseph Chet Redmon, available at: https://pjreddie.com/media/files/yolov3.weights (date of access 04.07.2023). </li>
-     <li> Networks. Google-Disk, available at: https://drive.google.com/drive/folders/1m2ebLHB2JThZC8vWGDYEKGsevLssSkjo (date of access 04.07.2023). </li>
-     <li> Developer's official github repository, available at: https:// github.com/nwojke/deep_sort (date of access 04.07.2023). </li>
-     <li> Developer's official github repository, available at: https:// github.com/qqwweee/keras-yolo3 (date of access 04.07.2023).</li>
-     </ul>
----
+     <li>Indicators of the state of road safety, available at: http://stat.gibdd.ru/ (date of access 04.07.2023).</li>
+     <li>Yermishina E. V., Sharypova T. N. Critical information infrastructure in the intelligent transport system, Colloquim-Journal, 2022, no. 2-1 (125), pp. 20—21 (in Russian).</li>
+     <li>Sokolyansky V. V, Bulatov A. B., Bulatov R. B., Dudayev B. V. Intelligent transport systems in urban, Voprosy ekonomicheskikh nauk, 2015, no. 4 (74), pp. 75—81 (in Russian).</li>
+     <li>Nizyaeva Yu. D., Slobodchikov N. A. Experience in implementing intelligent transport systems in urban infrastructure, Sistemnyy analiz i logistika. 2022, no. 2 (32), pp. 50—55. DOI: 10.31799/2077-5687-2022-2-50-55 (in Russian).</li>
+     <li>Intelligent accident prevention system, available at: https://iss.ru/products/securos-soffit (date of access 26.07.2023).</li>
+     <li>The Russian AI system Crash AI will warn of the risk of an accident, available at: https://3dnews.ru/981314 (date of access 26.07.2023).</li>
+     <li>ASUDD "Megapolis", available at: https://asudd.pro/prod-ucts/asudd/ (date of access 26.07.2023).</li>
+     <li>Open source software: why is it especially dangerous today and how to protect yourself, available at: https://www.tadviser.ru/index.php (date of access 26.07.2023).</li>
+     <li>The weak link of Open Source, available at: https://in-nostage-group.ru/press/blog/review/slaboe-zveno-open-source (date of access 26.07.2023).</li>
+     <li>Lecun Y., Boser B., Denker J. S., Henderson D., Howard R. E., Hubbard W., Jackel L. D. Backpropagation applied to handwritten zip code recognition, Neural Computation, 1989. pp. 541—551.</li>
+     <li>Shleymovich M. P., Dagaeva M. V., Katasev A. S. et al. The analysis of images in control systems of unmanned automobiles on the base of energy features model, Computer Research and Modeling, 2018, no. 10 (3), pp. 369—376. DOI: 10.20537/2076-7633-2018-10-3-369-376 (in Russian).</li>
+     <li>Khusainov R. M., Talipov N. G. Analysis of algorithms and systems for recognizing traffic signs, Vestnik tekhnologicheskogo universiteta, 2022, vol. 25, no. 3, pp. 72—77 (in Russian).</li>
+     <li>Druki A. A. The use of convolutional neural networks for the extraction and recognition of license plates in images with a complex background, Izvestiya Tomskogo politekhnicheskogo universiteta, 2014, vol. 324, no. 5, pp. 85—92 (in Russian).</li>
+     <li>Homonenko A. D., Yakovlev E. L. Substantiation of the architecture of a convolutional neural network for autonomous recognition of objects in images by an onboard computer system, Naukoyemkiye tekhnologii v kosmicheskikh issledovaniyakh Zemli, 2018, vol. 10, no. 6, pp. 86—93 (in Russian).</li>
+     <li>Bokov P. A., Kravcheniya P. D. Experimental analysis of the accuracy and performance of varieties of Yolo architectures for computer vision tasks, Programmnyye produktyi sistemy, 2020, no. 4, pp. 635—640. DOI: 10.15827/0236-235X.132.635-640 (in Russian).</li>
+     <li>Rudenkyy A. O. Application of architecture to detect viola­tions of rules, stopping, parking vehicles in the wrong place and driving on sidewalks, Mezhdunarodnaya nauchno-tekhnicheskaya konferentsiya molodykh uchenykh BGTU named V. G. Shukhova, Materialy konferentsii, 2021, pp. 3779—3788 (in Russian).</li>
+     <li>Schneider A. S. Detection of objects in images on the example of the Yolo model, Trudy molodykh uchenykh Altay-skogo gosudarstvennogo universiteta, 2018, no. 15, pp. 358—361 (in Russian).</li>
+     <li>Jung H. Choi M.-K., Jung J. et al. ResNet-Based Vehicle Classificaton an Localization in Traffic Surveillance Systems, IEEE Conference on Computer Vision and Pattern Recognition Workshops, 2017, pp. 934—940. DOI: 10.1109/CVPRW.2017.129.</li>
+     <li>Bagirov M. B. Development and research of algorithms for tracking objects on a video stream, Informatsionnyye sistemy i tekhnologii. Sbornik materialov XXVIII Mezhdunarodnoy nauchno-tekhnicheskoy konferentsii, 2022, pp. 350—360 (in Russian).</li>
+     <li>Wojke N., Bewley A., Paulus D. Simple Online and Realtime Tracking with a Deep Association Metric, IEEE International Conference on Image Processing, 2017, pp. 1—5. DOI: 10.1109/ICIP.2017.8296962.</li>
+     <li>Anaconda official site, available at: https://www.anaconda. com/products/individual (date of access 04.07.2023).</li>
+     <li>Official site of the developer Joseph Chet Redmon, available at: https://pjreddie.com/media/files/yolov3.weights (date of access 04.07.2023).</li>
+     <li>Networks. Google-Disk, available at: https://drive.google.com/drive/folders/1m2ebLHB2JThZC8vWGDYEKGsevLssSkjo (date of access 04.07.2023).</li>
+     <li>Developer's official github repository, available at: https://github.com/nwojke/deep_sort (date of access 04.07.2023).</li>
+     <li>Developer's official github repository, available at: https://github.com/qqwweee/keras-yolo3 (date of access 04.07.2023).</li>

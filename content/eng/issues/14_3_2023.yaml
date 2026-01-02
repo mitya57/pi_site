@@ -6,7 +6,8 @@ content:
    item_authors: "Gershteyn A. M., Terekhov A. N."
    item_name: "A Simple Way to Improve Road Safety by Avoiding Dangerous Sections of the Route"
    item_authors_address: |
-     <b> A. M. Gershteyn, </b>  Postgraduate Student, ArkadyGer@gmail.com <b>A. N. Terekhov, </b> PhD, Professor, a.terekhov@spbu.ru,
+     <b>A. M. Gershteyn</b>, Postgraduate Student, ArkadyGer@gmail.com,
+     <b>A. N. Terekhov</b>, PhD, Professor, a.terekhov@spbu.ru,
      Saint Petersburg State University, Saint Petersburg, Starii Petergof, 198504, Russian Federation
    item_corr_author: "Arkady M. Gershteyn, Postgraduate Student, Saint Petersburg State University, Saint Petersburg, Starii Petergof, 198504, Russian Federation E-mail: ArkadyGer@gmail.com"
    item_rec_on: December 20, 2022
@@ -19,20 +20,23 @@ content:
    item_pages: 103–109
    item_citation: "Gershteyn A. M., Terekhov A. N. A Simple Way to Improve Road Safety by Avoiding Dangerous Sections of the Route, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 103—109. DOI: 10.17587/prin.14.103—109 (in Russian)."
    item_references: |
-     <li>  Gershteyn A. M, Terekhov A. N. Routing Algorithm for Vehicles that Avoids Severe Traffic Accident Hotspots on the Road Network (Using the City of Springfield, Massachusetts as a Case Study), Computer tools in education, 2022, no. 2, pp. 5—18 (in Russian). </li>
-     <li>Dijkstra E. W. A note on two problems in connexion with graphs, Numerische Mathematik, 1959, vol. 1, pp. 269—271. DOI: 10.1007/BF01386390. </li>
-     <li>Bellman R. On a Routing Problem, Quarterly of Applied Math­ematics, 1958, vol. 16, no. 1, pp. 87—90. DOI: 10.1090/qam/102435. </li>
-     <li>Galbrun E., Pelechrinis K., Terzi E. Urban navigation be­yond shortest route: The case of safe paths, Information Systems, 2016, vol. 57, pp. 160—171. DOI: 10.1016/j.is.2015.10.005. </li>
-     <li>Boeing G. OSMnx: New Methods for Acquiring, Construct­ing, Analyzing, and Visualizing Complex Street Networks, Com­puters, Environment and Urban Systems, 2017, vol. 65, pp. 126—139. DOI: 10.1016/j.compenvurbsys.2017.05.004. </li>
-     <li>SANET, available at: http://sanet.csis.u-tokyo.ac.jp/ </li>
+     <li>Gershteyn A. M, Terekhov A. N. Routing Algorithm for Vehicles that Avoids Severe Traffic Accident Hotspots on the Road Network (Using the City of Springfield, Massachusetts as a Case Study), Computer tools in education, 2022, no. 2, pp. 5—18 (in Russian).</li>
+     <li>Dijkstra E. W. A note on two problems in connexion with graphs, Numerische Mathematik, 1959, vol. 1, pp. 269—271. DOI: 10.1007/BF01386390.</li>
+     <li>Bellman R. On a Routing Problem, Quarterly of Applied Math­ematics, 1958, vol. 16, no. 1, pp. 87—90. DOI: 10.1090/qam/102435.</li>
+     <li>Galbrun E., Pelechrinis K., Terzi E. Urban navigation be­yond shortest route: The case of safe paths, Information Systems, 2016, vol. 57, pp. 160—171. DOI: 10.1016/j.is.2015.10.005.</li>
+     <li>Boeing G. OSMnx: New Methods for Acquiring, Construct­ing, Analyzing, and Visualizing Complex Street Networks, Com­puters, Environment and Urban Systems, 2017, vol. 65, pp. 126—139. DOI: 10.1016/j.compenvurbsys.2017.05.004.</li>
+     <li>SANET, available at: http://sanet.csis.u-tokyo.ac.jp/</li>
  - doi: 14.110-122
    udk: "519.876.5"
    item_authors: "Akopov A. S., Beklaryan L. A."
    item_name: "Agent-Based Modelling of Interacting Unmanned Vehicles Dynamics with the FLAME GPU"
    item_authors_address: |
-     <b> A. S. Akopov, </b>  Dr. Sc., Professor, Chief Researcher, akopovas@umail.ru,
-     CEMI RAS, Moscow, 117418, Russian Federation, MIREA — Russian Technological University, Moscow, 119454, Russian Federation,
-     <b> L. A. Beklaryan,</b>  Dr. Sc., Professor, Chief Researcher, beklar@cemi.rssi.ru, CEMI RAS, Moscow, 117418, Russian Federation
+     <b>A. S. Akopov</b><sup>1,2</sup>, Dr. Sc., Professor, Chief Researcher, akopovas@umail.ru,
+     <b>L. A. Beklaryan</b><sup>1</sup>, Dr. Sc., Professor, Chief Researcher, beklar@cemi.rssi.ru,
+     <br>
+     <sup>1</sup> CEMI RAS, Moscow, 117418, Russian Federation
+     <br>
+     <sup>2</sup> MIREA — Russian Technological University, Moscow, 119454, Russian Federation
    item_corr_author: "Andranik S. Akopov, Dr. Sc., Professor, Chief Researcher, CEMI RAS, Moscow, 117418, Russian Federation Professor, MIREA — Russian Technological University, Moscow, 119454, Russian Federation E-mail: akopovas@umail.ru"
    item_rec_on: January 09, 2023
    item_acc_on: January 25, 2023
@@ -42,33 +46,34 @@ content:
    item_pages: 110–122
    item_citation: "Akopov A. S., Beklaryan L. A. Agent-Based Modelling of Interacting Unmanned Vehicles Dynamics with the FLAME GPU, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 110—122. DOI: 10.17587/prin.14.110-122. (in Russian)."
    item_references: |
-     <li> Akopov A. S., Beklaryan L. A., Thakur M. Improvement of Maneuverability Within a Multiagent Fuzzy Transportation System With the Use of Parallel Biobjective Real-Coded Genetic Algo­rithm, IEEE Transactions on Intelligent Transportation Systems, 2022, vol. 23, no. 8, pp. 12648—12664. DOI: 10.1109/TITS.2021.3115827. </li>
-     <li> Akopov A. S., Beklaryan L. A. Simulation of rates of traffic accidents involving unmanned ground vehicles within a transporta­tion system for the 'smart city' Business Informatics, 2022, vol. 16, no. 4, pp. 19—35. DOI: 10.17323/2587-814X.2022.4.i9.35. </li>
-     <li> Akopov A. S., Beklaryan L. A., Beklaryan A. L. Simulation-Based Optimisation for Autonomous Transportation Systems Using a Parallel Real-Coded Genetic Algorithm with Scalable Nonuniform Mutation, Cybernetics and information technologies, 2021, vol. 21, no. 3, pp. 127-144. DOI: 10.2478/cait-2021-0034. </li>
-     <li> Akopov A. S., Beklaryan L. A., Beklaryan A. L. Belousov F. L. Simulation of Motion of an Ensemble of Unmanned Ground Vehicles Using FLAME GPU, Informacionnye tekhnologii, 2021, vol. 27, no 7, pp. 369—379. DOI: 10.17587/it.27.369-379 (in Russian). </li>
-     <li> Akopov A. S., Beklaryan L. A., Khachatryan N. K. еt al. Multi-agent control system for unmanned ground vehicles, Informa-cionnye tekhnologii, 2020, vol. 26, no. 6, pp. 342—353. DOI: 10.17587/ it.26.342-353 (in Russian). </li>
-     <li> Gong D., Tang M., Buchmeister B., Zhang H. Solving Lo­cation Problem for Electric Vehicle Charging Stations — A Shar­ing Charging Model, IEEE Access, 2019, vol. 7, pp. 138391-138402. DOI: 10.1109/ACCESS.2019.2957803. </li>
-     <li> Shen T., Hua K., Liu J. Optimized Public Parking Loca­tion Modelling for Green Intelligent Transportation System Using Genetic Algorithms, IEEE Access, 2019, vol. 7, pp. 176870—176883. DOI: 10.1109/ACCESS.20i9.2943079. </li>
-     <li> Nikam V. B., Arora A., Lambture D. et al. Optimal Posi­tioning of Small Cells for Coverage and Cost Efficient 5G Network Deployment: A Smart Simulated Annealing Approach, In proceed­ings of2020 IEEE 3rd 5G World Forum (5GWF), 2020, pp. 454—459. DOI: 10.1109/5GWF49715.2020.9221257. </li>
-     <li> Richmond P., Chisholm R., Heywood P. et al. FLAME GPU, Zenodo, 2021. DOI: 10.5281/ZENODO.5428984. </li>
-     <li> Duan M. Short-Time Prediction of Traffic Flow Based on PSO Optimized SVM, In proceedings of 2018 International Confer­ence on Intelligent Transportation, Big Data & Smart City (ICITBS), 2018, pp. 41—45. DOI: 10.1109/ICITBS.2018.00018. </li>
-     <li> Gnana Jeevan A. N., Keerthika K., Rao Terli S. et al. A Novel Approach for Predicting wide range of traffic congestion using deep learning Technique, In proceedings of2022 International Conference on Innovative Computing,, Intelligent Communication and Smart Electrical Sys­tems (ICSES), 2022, pp. 1—6. DOI: 10.1109/ICSES55317.2022.9914313. </li>
-     <li> Yin Z., Wang J., Lu H. A Study on Urban Traffic Conges­tion Dynamic Predict Method Based on Advanced Fuzzy Clustering Model, In proceedings of 2008 International Conference on Compu­tational Intelligence and Security, 2008, pp. 96-100. DOI: 10.1109/CIS.2008.i94. </li>
-     <li> Gasnikov A. V. et al. Introduction to mathematical modeling of traffic flows: Textbook, Moscow, Moscow Institute of Physics and Technology, 2010, pp. 362 (in Russian). </li>
-     <li> Ie О. N. Simulation of transport systems: software tools and directions for their improvement, Aktual'nye voprosy sovremennoj ekonomiki, 2020, no. 5, pp. 428—439 (in Russian). </li>
-     <li> Lee K. S., Yom J. K., Moon D. Applications of TRANSIMS in Transportation: A Literature Review, Procedia Computer Science, 2014, vol. 32, pp. 769—773. DOI: 10.1016/j.procs.2014.05.489. </li>
-     <li> Dantsuji T., Hoang N. H., Zheng N., Vu H. L. A novel metamodel-based framework for large-scale dynamic origin—desti­nation demand calibration, Transportation Research Part C: Emerging Technologies, 2022, vol. 136, 103545. DOI: 10.1016/j.trc.202i.i03545. </li>
-     <li> Craighead J., Murphy R., Burke J., Goldiez B. A Survey of Commercial & Open Source Unmanned Vehicle Simulators, In proceedings of 2007 IEEE International Conference on Robotics and Automation, 2007, pp. 852—857. DOI: 10.1109/ROBOT.2007.363092. </li>
-     <li> Mullner D. fastcluster: Fast Hierarchical, Agglomerative Clustering Routines for R and Python, Journal of Statistical Software, 2013, vol. 53, no. 9, pp. 1—18. </li>
-     <li> Richmond P., Walker D., Coakley S., Romano D. High per­formance cellular level agent-based simulation with FLAME for the GPU, Briefings in Bioinformatics, 2010, vol. 11, no. 3, pp. 334—347. DOI: 10.1093/bib/bbp073. </li>
-     <li> Tracking: An Integrated System and Evaluation for Monitoring Driver Awareness, IEEE Transactions on Intelligent Transportation Systems, 2010, vol. 11, no. 2, pp. 300—311. DOI: 10.1109/TITS.2010.2044241. </li>
-     <li> Maltsev A. V. Methods for Real&Time Distributed Imitation of Indirect Shading in Virtual Environment on GPU, Programmnaya ingeneria, 2020, vol. 11, no. 4, pp. 213—218. DOI: 10.17587/ prin.11.213-218 (in Russian). </li>
+     <li>Akopov A. S., Beklaryan L. A., Thakur M. Improvement of Maneuverability Within a Multiagent Fuzzy Transportation System With the Use of Parallel Biobjective Real-Coded Genetic Algo­rithm, IEEE Transactions on Intelligent Transportation Systems, 2022, vol. 23, no. 8, pp. 12648—12664. DOI: 10.1109/TITS.2021.3115827.</li>
+     <li>Akopov A. S., Beklaryan L. A. Simulation of rates of traffic accidents involving unmanned ground vehicles within a transporta­tion system for the 'smart city' Business Informatics, 2022, vol. 16, no. 4, pp. 19—35. DOI: 10.17323/2587-814X.2022.4.i9.35.</li>
+     <li>Akopov A. S., Beklaryan L. A., Beklaryan A. L. Simulation-Based Optimisation for Autonomous Transportation Systems Using a Parallel Real-Coded Genetic Algorithm with Scalable Nonuniform Mutation, Cybernetics and information technologies, 2021, vol. 21, no. 3, pp. 127-144. DOI: 10.2478/cait-2021-0034.</li>
+     <li>Akopov A. S., Beklaryan L. A., Beklaryan A. L. Belousov F. L. Simulation of Motion of an Ensemble of Unmanned Ground Vehicles Using FLAME GPU, Informacionnye tekhnologii, 2021, vol. 27, no 7, pp. 369—379. DOI: 10.17587/it.27.369-379 (in Russian).</li>
+     <li>Akopov A. S., Beklaryan L. A., Khachatryan N. K. еt al. Multi-agent control system for unmanned ground vehicles, Informa-cionnye tekhnologii, 2020, vol. 26, no. 6, pp. 342—353. DOI: 10.17587/ it.26.342-353 (in Russian).</li>
+     <li>Gong D., Tang M., Buchmeister B., Zhang H. Solving Lo­cation Problem for Electric Vehicle Charging Stations — A Shar­ing Charging Model, IEEE Access, 2019, vol. 7, pp. 138391-138402. DOI: 10.1109/ACCESS.2019.2957803.</li>
+     <li>Shen T., Hua K., Liu J. Optimized Public Parking Loca­tion Modelling for Green Intelligent Transportation System Using Genetic Algorithms, IEEE Access, 2019, vol. 7, pp. 176870—176883. DOI: 10.1109/ACCESS.20i9.2943079.</li>
+     <li>Nikam V. B., Arora A., Lambture D. et al. Optimal Posi­tioning of Small Cells for Coverage and Cost Efficient 5G Network Deployment: A Smart Simulated Annealing Approach, In proceed­ings of2020 IEEE 3rd 5G World Forum (5GWF), 2020, pp. 454—459. DOI: 10.1109/5GWF49715.2020.9221257.</li>
+     <li>Richmond P., Chisholm R., Heywood P. et al. FLAME GPU, Zenodo, 2021. DOI: 10.5281/ZENODO.5428984.</li>
+     <li>Duan M. Short-Time Prediction of Traffic Flow Based on PSO Optimized SVM, In proceedings of 2018 International Confer­ence on Intelligent Transportation, Big Data & Smart City (ICITBS), 2018, pp. 41—45. DOI: 10.1109/ICITBS.2018.00018.</li>
+     <li>Gnana Jeevan A. N., Keerthika K., Rao Terli S. et al. A Novel Approach for Predicting wide range of traffic congestion using deep learning Technique, In proceedings of2022 International Conference on Innovative Computing,, Intelligent Communication and Smart Electrical Sys­tems (ICSES), 2022, pp. 1—6. DOI: 10.1109/ICSES55317.2022.9914313.</li>
+     <li>Yin Z., Wang J., Lu H. A Study on Urban Traffic Conges­tion Dynamic Predict Method Based on Advanced Fuzzy Clustering Model, In proceedings of 2008 International Conference on Compu­tational Intelligence and Security, 2008, pp. 96-100. DOI: 10.1109/CIS.2008.i94.</li>
+     <li>Gasnikov A. V. et al. Introduction to mathematical modeling of traffic flows: Textbook, Moscow, Moscow Institute of Physics and Technology, 2010, pp. 362 (in Russian).</li>
+     <li>Ie О. N. Simulation of transport systems: software tools and directions for their improvement, Aktual'nye voprosy sovremennoj ekonomiki, 2020, no. 5, pp. 428—439 (in Russian).</li>
+     <li>Lee K. S., Yom J. K., Moon D. Applications of TRANSIMS in Transportation: A Literature Review, Procedia Computer Science, 2014, vol. 32, pp. 769—773. DOI: 10.1016/j.procs.2014.05.489.</li>
+     <li>Dantsuji T., Hoang N. H., Zheng N., Vu H. L. A novel metamodel-based framework for large-scale dynamic origin—desti­nation demand calibration, Transportation Research Part C: Emerging Technologies, 2022, vol. 136, 103545. DOI: 10.1016/j.trc.202i.i03545.</li>
+     <li>Craighead J., Murphy R., Burke J., Goldiez B. A Survey of Commercial & Open Source Unmanned Vehicle Simulators, In proceedings of 2007 IEEE International Conference on Robotics and Automation, 2007, pp. 852—857. DOI: 10.1109/ROBOT.2007.363092.</li>
+     <li>Mullner D. fastcluster: Fast Hierarchical, Agglomerative Clustering Routines for R and Python, Journal of Statistical Software, 2013, vol. 53, no. 9, pp. 1—18.</li>
+     <li>Richmond P., Walker D., Coakley S., Romano D. High per­formance cellular level agent-based simulation with FLAME for the GPU, Briefings in Bioinformatics, 2010, vol. 11, no. 3, pp. 334—347. DOI: 10.1093/bib/bbp073.</li>
+     <li>Tracking: An Integrated System and Evaluation for Monitoring Driver Awareness, IEEE Transactions on Intelligent Transportation Systems, 2010, vol. 11, no. 2, pp. 300—311. DOI: 10.1109/TITS.2010.2044241.</li>
+     <li>Maltsev A. V. Methods for Real&Time Distributed Imitation of Indirect Shading in Virtual Environment on GPU, Programmnaya ingeneria, 2020, vol. 11, no. 4, pp. 213—218. DOI: 10.17587/ prin.11.213-218 (in Russian).</li>
  - doi: 14.123-136
    udk: "004.82"
    item_authors: "Kostenko K. I."
    item_name: "Principles of Customization for Models of Complexly Organized Intelligent Systems"
    item_authors_address: |
-     <b> K. I. Kostenko, </b>Associate Professor, kostenko@kubsu.ru, Kuban State University, Krasnodar, 350040, Russian Federation
+     <b>K. I. Kostenko</b>, Associate Professor, kostenko@kubsu.ru,
+     Kuban State University, Krasnodar, 350040, Russian Federation
    item_corr_author: " Konstantin I. Kostenko, Associate Professor, Kuban State University, Krasnodar, 350040, Russian Federation E-mail: kostenko@kubsu.ru"
    item_rec_on: December 05, 2022
    item_acc_on: January 12, 2023
@@ -78,27 +83,26 @@ content:
    item_pages: 123–136
    item_citation: 'Kostenko K. I. Principles of Customization for Models of Complexly Organized Intelligent Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 123—136. DOI: 10.17587/prin.14.123-136.'
    item_references: |
-     <li> Kostenko K. I. Core invariants of the intelligent system’s mathematical model Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 174—188. DOI: 10.17587/prin.12.157-168 (in Russian). </li>
-     <li> Kostenko K. Knowledge flows processes at multidimensional intelligent systems, Russian Advances in Artificial Intelligence: selected contributions to the Russian Conference on Artificial intelligence (RCAI 2020), Moscow, Russia, October 10—16, 2020, CEUR Workshops Proceedings, 2020, vol. 2648, pp. 74—84. </li>
-     <li> Stanovich K. E. Rationality and the reactive mind, New York, Oxford Univ. Press, 2011, 328 p. </li>
-     <li> Burgin M. Theory of Knowledge: Structures and Processes, World Scientific, 2017, 948 p. </li>
-     <li> Bloom B. S., Engelhart M. D., Furst E. J., Hill W. H., Krathwohl D. R. Taxonomy of educational objectives: The classification Taxonomy of educational goals. Handbook 1: Cognitive domain, New York, David McKay, 1956. </li>
-     <li> Mesarovich M. D., Takahara Y. General Systems Theory: mathematical foundations, Academic Press, 1975, 322 p. </li>
-     <li> Wooldridge M. Intelligent Agents, Multiagent Systems a Modern Approach to Distributed Modern Approach to Artificial Intelligence / Eds G. Weiss, The MIT Press, 1999, pp. 27—122. </li>
-     <li> Kostenko K. I. Processes diagrams for knowledge synthesis based on ontologies, VIII International Conference Knowledge—Ontologу—Theory, November 8—12, 2021, Novosibirsk, 2021, pp. 132—141 (in Russian). </li>
-     <li> Kostenko K. I., Levitskii B. E. Ontology of hierarchical design of intelligent systems, Ontology of designing, 2022, vol. 12, no. 1 (43), pp. 68—81. DOI: 10.18287/2223-9537-2022-12-1-68-81 (in Russian). </li>
-     <li> Kostenko K. I. Memory structures and knowledge synthesis complexly organized intellegent systems, Ecological Bulletin of Research Centers of the Black Sea Economic Cooperation, 2022, vol. 19, no. 4, pp. 9—19. DOI: 10.31429/vestnik-19-4-9-19 (in Russian). </li>
-     <li> Anokhin K. V. Cognitom: in search of fundamental neuroscientific theory of consciousness, Journal of higher nervous activity, 2021, vol. 71, no. 1, pp. 39—71. DOI: 10.31857/S0044467721010032 (in Russian). </li>
-     <li> Fayans A. M. Looking at the formalization of the meaning from the position of a transdisciplinary approach, Ontology of designing, 2021, vol. 11, no. 3, pp. 294—308. DOI: 10.18287/2223-9537-2021-11-3-294-308 (in Russian). </li>
+     <li>Kostenko K. I. Core invariants of the intelligent system’s mathematical model Programmnaya Ingeneria, 2021, vol. 12, no. 3, pp. 174—188. DOI: 10.17587/prin.12.157-168 (in Russian).</li>
+     <li>Kostenko K. Knowledge flows processes at multidimensional intelligent systems, Russian Advances in Artificial Intelligence: selected contributions to the Russian Conference on Artificial intelligence (RCAI 2020), Moscow, Russia, October 10—16, 2020, CEUR Workshops Proceedings, 2020, vol. 2648, pp. 74—84.</li>
+     <li>Stanovich K. E. Rationality and the reactive mind, New York, Oxford Univ. Press, 2011, 328 p.</li>
+     <li>Burgin M. Theory of Knowledge: Structures and Processes, World Scientific, 2017, 948 p.</li>
+     <li>Bloom B. S., Engelhart M. D., Furst E. J., Hill W. H., Krathwohl D. R. Taxonomy of educational objectives: The classification Taxonomy of educational goals. Handbook 1: Cognitive domain, New York, David McKay, 1956.</li>
+     <li>Mesarovich M. D., Takahara Y. General Systems Theory: mathematical foundations, Academic Press, 1975, 322 p.</li>
+     <li>Wooldridge M. Intelligent Agents, Multiagent Systems a Modern Approach to Distributed Modern Approach to Artificial Intelligence / Eds G. Weiss, The MIT Press, 1999, pp. 27—122.</li>
+     <li>Kostenko K. I. Processes diagrams for knowledge synthesis based on ontologies, VIII International Conference Knowledge—Ontologу—Theory, November 8—12, 2021, Novosibirsk, 2021, pp. 132—141 (in Russian).</li>
+     <li>Kostenko K. I., Levitskii B. E. Ontology of hierarchical design of intelligent systems, Ontology of designing, 2022, vol. 12, no. 1 (43), pp. 68—81. DOI: 10.18287/2223-9537-2022-12-1-68-81 (in Russian).</li>
+     <li>Kostenko K. I. Memory structures and knowledge synthesis complexly organized intellegent systems, Ecological Bulletin of Research Centers of the Black Sea Economic Cooperation, 2022, vol. 19, no. 4, pp. 9—19. DOI: 10.31429/vestnik-19-4-9-19 (in Russian).</li>
+     <li>Anokhin K. V. Cognitom: in search of fundamental neuroscientific theory of consciousness, Journal of higher nervous activity, 2021, vol. 71, no. 1, pp. 39—71. DOI: 10.31857/S0044467721010032 (in Russian).</li>
+     <li>Fayans A. M. Looking at the formalization of the meaning from the position of a transdisciplinary approach, Ontology of designing, 2021, vol. 11, no. 3, pp. 294—308. DOI: 10.18287/2223-9537-2021-11-3-294-308 (in Russian).</li>
  - doi: 14.137-145
    udk: "004.5"
    item_authors: "Turovsky Ya. A., Alekseev V. Yu."
    item_name: "Comparison of Tracking Approaches Distribution of Attention to Operators with Use of Oculographic Interfaces"
    item_authors_address: |
-     <b> Ya. A. Turovsky, </b>  Leading Researcher, yaroslav_turovsk@mail.ru,
-     V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences,
-     Moscow, 117997, Russian Federation,
-     <b> V. Yu. Alekseev, </b>  Postgraduate Student, va413@mail.ru,
+     <b>Ya. A. Turovsky</b>, Leading Researcher, yaroslav_turovsk@mail.ru,
+     V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation,
+     <b>V. Yu. Alekseev</b>, Postgraduate Student, va413@mail.ru,
      Voronezh State University, Voronezh, 394018, Russian Federation
    item_corr_author: " Yaroslav A. Turovsky, Leading Researcher, Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation E-mail: yaroslav_turovsk@mail.ru"
    item_rec_on:  January 09, 2023
@@ -110,26 +114,26 @@ content:
    item_pages: 138–146
    item_citation: "Turovsky Ya. A., Alekseev V. Yu. Comparison of Tracking Approaches Distribution of Attention to Operators with Use of Oculographic Interfaces, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 137—145. DOI: 10.17587/ prin.14.137-145 (in Russian)."
    item_references: |
-     <li> Barabanshchikov V. A., Zhegallo A. V. Eye Movement Recording Methods: Theory and Practice, Psihologicheskaya nauka i obrazovaniepsyedu.ru, 2010, vol. 2, no. 5, pp. 240—254 (in Russian). </li>
-     <li>Blaginin A. A., Sinelnikov S. N., Naturalnikov I. O. et al. Evaluation of the features of the distribution of attention of operators using the method of stationary eye-tracking, Vestnik psihofiziologii, 2019, no. 3, pp. 89—91 (in Russian). </li>
-     <li>Arar N. M. Robust Eye Tracking Based on Adaptive Fusion of Multiple Cameras. Ecole polytechnique federale de lausanne, 2017, 168 p. DOI: 10.5075/epfl-thesis-7933. </li>
-     <li>Turovskyi Ya. A., Alekseev A. V., Lesnyh I. E., Martinenko E. V. Evaluation of fatigue when using the video-oculographic interface in tasks of controlling ergatic systems, Epistemologicheskie osnovaniya sovremennogo obrazovaniya: aktual'nye voprosy prod-vizheniya fundamental'nogo znaniya v uchebny- process: materialy Mezhdunarodno- nauchno-praktichesko- konferencii 2020 Borisoglebskogo filiala FGBOU VO «VGU». Borisoglebsk, 2020, pp. 406—410 (in Russian). </li>
-     <li>Turovskyi Ya. A., AlekseevA. V., Lesnyh I. E., Martinenko E. V. Frequency-temporal features of eye movement when using a video-oculographic interface in tasks of controlling ergatic systems, Sensornye sistemy, 2021, vol. 35, no. 1, pp. 30—37. DOI: 10.31857/ S0235009221010091 (in Russian). </li>
-     <li>Li Zh., Guo P., Song Ch. A review of main eye movement tracking methods, Journal of Physics: Conference Series, 2021, vol. 1802, pp. 042066. DOI:10.1088/1742-6596/1802/4/042066. </li>
-     <li>Microsoft .NetFramework, available at: https://dotnet.mi-crosoft.com/ (date of access 09.01.2023). </li>
-     <li>Math.NetNumeric, available at: https://numerics.mathdot-net.com/ (date of access 09.01.2023). </li>
-     <li>Panda3d, the open-source framework for 3D rendering and games, available at: https://www.panda3d.org/ (date of access 09.01.2023). </li>
-     <li>OpenCV computer vision library, available at: https://docs. opencv.org/3.4/da/d60/tutorial_face_main.html (date of access 09.01.2023). </li>
-     <li>Mediapipe computer vision library, available at: https:// google.github.io/mediapipe/solutions/face_mesh (date of access 09.01.2023). </li>
-     <li>Grishchenko I., Ablavatski A., Kartynnik Yu. et al. Attention Mesh: High-fidelity Face Mesh Prediction in Real-time, CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2020, available at: https://arxiv.org/abs/2006.10962 (date of access 09.01.2023). </li>
-     <li>Alter T. D. 3D pose from 3 corresponding points under weak-perspective pro-ection, Cambridge, Mass, Massachusetts Institute of Technology, Artificial Intelligence Laboratory. A. I. Memo No. 1378, 1992, 40 p. </li>
+     <li>Barabanshchikov V. A., Zhegallo A. V. Eye Movement Recording Methods: Theory and Practice, Psihologicheskaya nauka i obrazovaniepsyedu.ru, 2010, vol. 2, no. 5, pp. 240—254 (in Russian).</li>
+     <li>Blaginin A. A., Sinelnikov S. N., Naturalnikov I. O. et al. Evaluation of the features of the distribution of attention of operators using the method of stationary eye-tracking, Vestnik psihofiziologii, 2019, no. 3, pp. 89—91 (in Russian).</li>
+     <li>Arar N. M. Robust Eye Tracking Based on Adaptive Fusion of Multiple Cameras. Ecole polytechnique federale de lausanne, 2017, 168 p. DOI: 10.5075/epfl-thesis-7933.</li>
+     <li>Turovskyi Ya. A., Alekseev A. V., Lesnyh I. E., Martinenko E. V. Evaluation of fatigue when using the video-oculographic interface in tasks of controlling ergatic systems, Epistemologicheskie osnovaniya sovremennogo obrazovaniya: aktual'nye voprosy prod-vizheniya fundamental'nogo znaniya v uchebny- process: materialy Mezhdunarodno- nauchno-praktichesko- konferencii 2020 Borisoglebskogo filiala FGBOU VO «VGU». Borisoglebsk, 2020, pp. 406—410 (in Russian).</li>
+     <li>Turovskyi Ya. A., AlekseevA. V., Lesnyh I. E., Martinenko E. V. Frequency-temporal features of eye movement when using a video-oculographic interface in tasks of controlling ergatic systems, Sensornye sistemy, 2021, vol. 35, no. 1, pp. 30—37. DOI: 10.31857/S0235009221010091 (in Russian).</li>
+     <li>Li Zh., Guo P., Song Ch. A review of main eye movement tracking methods, Journal of Physics: Conference Series, 2021, vol. 1802, pp. 042066. DOI:10.1088/1742-6596/1802/4/042066.</li>
+     <li>Microsoft .NetFramework, available at: https://dotnet.microsoft.com/ (date of access 09.01.2023).</li>
+     <li>Math.NetNumeric, available at: https://numerics.mathdot-net.com/ (date of access 09.01.2023).</li>
+     <li>Panda3d, the open-source framework for 3D rendering and games, available at: https://www.panda3d.org/ (date of access 09.01.2023).</li>
+     <li>OpenCV computer vision library, available at: https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html (date of access 09.01.2023).</li>
+     <li>Mediapipe computer vision library, available at: https://google.github.io/mediapipe/solutions/face_mesh (date of access 09.01.2023).</li>
+     <li>Grishchenko I., Ablavatski A., Kartynnik Yu. et al. Attention Mesh: High-fidelity Face Mesh Prediction in Real-time, CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2020, available at: https://arxiv.org/abs/2006.10962 (date of access 09.01.2023).</li>
+     <li>Alter T. D. 3D pose from 3 corresponding points under weak-perspective pro-ection, Cambridge, Mass, Massachusetts Institute of Technology, Artificial Intelligence Laboratory. A. I. Memo No. 1378, 1992, 40 p.</li>
  - doi: 14.146-152
    udk: "004.4:69:628.1"
    item_authors: "Alekseeva T. R., Alekseev S. E."
    item_name: "Development of Computer Modeling Tools for Infrastructure Construction Facilities"
    item_authors_address: |
-     <b> T. R. Alekseeva, </b>  Associate Professor, atr-mgsu@mail.ru,
-     <b> S. E. Alekseev, </b> Associate Professor, alekseevSE@mgsu.ru,
+     <b>T. R. Alekseeva</b>, Associate Professor, atr-mgsu@mail.ru,
+     <b>S. E. Alekseev</b>, Associate Professor, alekseevse@mgsu.ru,
      Moscow State University of Civil Engineering, Moscow, 129337, Russian Federation
    item_corr_author: "Tatyana R. Alekseeva, Associate Professor, Moscow State University of Civil Engineering, Moscow, 129337, Russian Federation E-mail: atr-mgsu@mail.ru"
    item_rec_on: November 28, 2022
@@ -141,26 +145,25 @@ content:
    item_pages: 146–152
    item_citation: ' Alekseeva T. R., Alekseev S. E. Development of Computer Modeling Tools for Infrastructure Construction Facilities, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 146—152. DOI: 10.17587/prin.14.146-152. (in Russian).'
    item_references: |
-     <li> Glazyev S. Yu. The Great Digital Revolution: challenges and prospects for the economy of the XXI century, available at: https://glazev.ru/articles/6-jekonomika/54923-velikaja-tsifrovaja-revoljutsija-vyzovy-i-perspektivy-dlja-jekonomiki-i-veka (date of access 10.11.2022).
-     <li>Alekseev S. E., Alekseeva T. R. Development of the mecha­nisms of digital transformation of water utilities, Water supply and sanitary technique, 2020, no. 2, pp. 32—39 (in Russian). </li>
-     <li>Cifrovoi vodokanal. Intervyu direktora po informacionnym tekhnologiyam GK «Rosvodokanal» Sergeya Putina. Nailuchshie dostupnye tekhnologii vodosnabgeniya i vodootvedeniya, 2018, no. 3, pp. 24—29 (in Russian). </li>
-     <li>Anikina N. V., Ishtryakova T. R. Digital technologies in life cycle management of construction objects, Modern Economy Success, 2021,	no. 6, pp. 37—42 (in Russian). </li>
-     <li>Ovchinnikov A. N., Volkov A. A. Problems of the existing management system of the life cycle of capital construction objects and the factors determining them, Nauka i biznes: puti razvitiya, 2019, no. 5 (95), pp. 38—42 (in Russian). </li>
-     <li>Abramyan S. G., Burlachenko O. V., Oganesyan O. V., Burlachenko A. O. The life cycle management system for the capital construction objects using digital technologies, Bulletin of Volgograd State University of Architecture and Civil Engineering Series: Civil En­gineering and Architecture, 2021, no. 4 (85), pp. 305—313 (in Russian). </li>
-     <li>Talapov V. V., Nesipbayev A. S., Khapin A. V., Makh-iev B. E. The leading role of the customer in the organization of the information modeling process, Bulletin of D. Serikbayev EKTU, 2022,	no. 1, pp. 111—119. DOI: 10.51885/1561-4212_2022_1_111. </li>
-     <li>Travush V. I. Digital technologies in construction, Academia. Arkhitektura i stroitel'stvo, 2018, no. 3, pp. 100 — 117. DOI: 10.22337/2077-9038-2018-3-100-117 (in Russian). </li>
-     <li>Nevzorov A. L. Time factor at the geotechnical BIM design, Stroitel'stvo i rekonstrukciya, 2022, no. 3 (101), pp. 51—59. DOI: 10.33979/2073-7416-2022-101-3-51-59 (in Russian). </li>
-     <li>Nyvlt V. Role of BIM process participants within managing knowledge in BIM data model, 18th International Multidisciplinary Scientific GeoConference SGEM 2018, Conference proceedings, 2018, pp. 711—718. DOI: 10.5593/sgem2018/5.3/S28.091. </li>
-     <li>Wang K., Zhang C., Guo F., Guo S. Toward an efficient construction process: what drives BIM professionals to collaborate in BIM-enabled projects, Journal of Management in Engineering, 2022, vol. 38, no. 4, pр. 04022033. DOI: 10.1061/(ASCE)ME.1943-5479.0001056. </li>
-     <li>Sobolevskaya E. A. Cifrovaya transformaciya: trendy, diktuemye vremenem (obzor), Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2021, no. 4, pp. 6—18 (in Russian). </li>
-     <li>Bazhenov V. I., Danilovich D. A., Samburskii G. A., Ba-zhenov V. V. Digital water utility — myth or reality? Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2017, no. 6, pp. 38—48 (in Russian). </li>
-     <li>Arsenyev A. N., Mayorov A. N. Opyt sozdaniya EGIS AO "Mosvodokanal", Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2018, no. 5, pp. 20—33 (in Russian). </li>
-     <li>Alekseeva T. R. BIM technologies and artificial intelligence in infrastructure construction, BST: Byulleten' stroitel'noy tehniki. 2022, no. 1 (1049), pp. 52—54 (in Russian). </li>
-     <li>Bazhenov V. I., Gogina E. S. Cifrovoe razvitie — put' sovershenstvovaniya, povysheniya effektivnosti i nadezhnosti raboty vodokanalov, Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2019, no. 3, pp.28—40 (in Russian). </li>
-     <li>Pokhil Yu. N., Andrianets P. I., Andrianets A. P. Digital Vodokanal of Novosibirsk — guarantee of efficiency, Water supply and sanitary technique, 2019, no. 4, pp. 75—80 (in Russian). </li>
-     <li>Alekseev S. E., Alekseeva T. R. Information modeling of water supply and sewerage facilities as one from tools of digital transformation of water and wastewater services provider companies, BST: Byulleten' stroitel'noy tehniki, 2020, no. 2 (1026). pp. 58—61 (in Russian). </li>
-     <li>Alekseeva T., Alekseev S. BIM-technologies in digital model­ling of the city water utility operation, Lecture Notes in Civil Engineering, 2022, vol. 231, pp. 23—31. DOI: 10.1007/978-3-030-96206-7_2. </li>
-     <li>Lipaev V. V. Programmnaya ingeneria. Metodologicheskie os-novy, Moscow, TEIS, 2006, 608 p. (in Russian). </li>
-     <li>Lipaev V. V. Problems of program engineering: quality, safe­ty, risks, economy. Programmnaya Ingeneria, 2010, no. 1, pp. 7—20 (in Russian). </li>
+     <li>Glazyev S. Yu. The Great Digital Revolution: challenges and prospects for the economy of the XXI century, available at: https://glazev.ru/articles/6-jekonomika/54923-velikaja-tsifrovaja-revoljutsija-vyzovy-i-perspektivy-dlja-jekonomiki-i-veka (date of access 10.11.2022).</li>
+     <li>Alekseev S. E., Alekseeva T. R. Development of the mecha­nisms of digital transformation of water utilities, Water supply and sanitary technique, 2020, no. 2, pp. 32—39 (in Russian).</li>
+     <li>Cifrovoi vodokanal. Intervyu direktora po informacionnym tekhnologiyam GK «Rosvodokanal» Sergeya Putina. Nailuchshie dostupnye tekhnologii vodosnabgeniya i vodootvedeniya, 2018, no. 3, pp. 24—29 (in Russian).</li>
+     <li>Anikina N. V., Ishtryakova T. R. Digital technologies in life cycle management of construction objects, Modern Economy Success, 2021,	no. 6, pp. 37—42 (in Russian).</li>
+     <li>Ovchinnikov A. N., Volkov A. A. Problems of the existing management system of the life cycle of capital construction objects and the factors determining them, Nauka i biznes: puti razvitiya, 2019, no. 5 (95), pp. 38—42 (in Russian).</li>
+     <li>Abramyan S. G., Burlachenko O. V., Oganesyan O. V., Burlachenko A. O. The life cycle management system for the capital construction objects using digital technologies, Bulletin of Volgograd State University of Architecture and Civil Engineering Series: Civil En­gineering and Architecture, 2021, no. 4 (85), pp. 305—313 (in Russian).</li>
+     <li>Talapov V. V., Nesipbayev A. S., Khapin A. V., Makh-iev B. E. The leading role of the customer in the organization of the information modeling process, Bulletin of D. Serikbayev EKTU, 2022,	no. 1, pp. 111—119. DOI: 10.51885/1561-4212_2022_1_111.</li>
+     <li>Travush V. I. Digital technologies in construction, Academia. Arkhitektura i stroitel'stvo, 2018, no. 3, pp. 100 — 117. DOI: 10.22337/2077-9038-2018-3-100-117 (in Russian).</li>
+     <li>Nevzorov A. L. Time factor at the geotechnical BIM design, Stroitel'stvo i rekonstrukciya, 2022, no. 3 (101), pp. 51—59. DOI: 10.33979/2073-7416-2022-101-3-51-59 (in Russian).</li>
+     <li>Nyvlt V. Role of BIM process participants within managing knowledge in BIM data model, 18th International Multidisciplinary Scientific GeoConference SGEM 2018, Conference proceedings, 2018, pp. 711—718. DOI: 10.5593/sgem2018/5.3/S28.091.</li>
+     <li>Wang K., Zhang C., Guo F., Guo S. Toward an efficient construction process: what drives BIM professionals to collaborate in BIM-enabled projects, Journal of Management in Engineering, 2022, vol. 38, no. 4, pр. 04022033. DOI: 10.1061/(ASCE)ME.1943-5479.0001056.</li>
+     <li>Sobolevskaya E. A. Cifrovaya transformaciya: trendy, diktuemye vremenem (obzor), Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2021, no. 4, pp. 6—18 (in Russian).</li>
+     <li>Bazhenov V. I., Danilovich D. A., Samburskii G. A., Ba-zhenov V. V. Digital water utility — myth or reality? Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2017, no. 6, pp. 38—48 (in Russian).</li>
+     <li>Arsenyev A. N., Mayorov A. N. Opyt sozdaniya EGIS AO "Mosvodokanal", Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2018, no. 5, pp. 20—33 (in Russian).</li>
+     <li>Alekseeva T. R. BIM technologies and artificial intelligence in infrastructure construction, BST: Byulleten' stroitel'noy tehniki. 2022, no. 1 (1049), pp. 52—54 (in Russian).</li>
+     <li>Bazhenov V. I., Gogina E. S. Cifrovoe razvitie — put' sovershenstvovaniya, povysheniya effektivnosti i nadezhnosti raboty vodokanalov, Nailuchshie dostupnye tekhnologii vodosnabzheniya i vodootvedeniya, 2019, no. 3, pp.28—40 (in Russian).</li>
+     <li>Pokhil Yu. N., Andrianets P. I., Andrianets A. P. Digital Vodokanal of Novosibirsk — guarantee of efficiency, Water supply and sanitary technique, 2019, no. 4, pp. 75—80 (in Russian).</li>
+     <li>Alekseev S. E., Alekseeva T. R. Information modeling of water supply and sewerage facilities as one from tools of digital transformation of water and wastewater services provider companies, BST: Byulleten' stroitel'noy tehniki, 2020, no. 2 (1026). pp. 58—61 (in Russian).</li>
+     <li>Alekseeva T., Alekseev S. BIM-technologies in digital model­ling of the city water utility operation, Lecture Notes in Civil Engineering, 2022, vol. 231, pp. 23—31. DOI: 10.1007/978-3-030-96206-7_2.</li>
+     <li>Lipaev V. V. Programmnaya ingeneria. Metodologicheskie os-novy, Moscow, TEIS, 2006, 608 p. (in Russian).</li>
+     <li>Lipaev V. V. Problems of program engineering: quality, safe­ty, risks, economy. Programmnaya Ingeneria, 2010, no. 1, pp. 7—20 (in Russian).</li>
      <li>Terekhov A. N. What is the program engineering, Programmnaya Ingeneria, 2010, no. 1, pp. 40—45 (in Russian).</li>
----

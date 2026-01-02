@@ -6,10 +6,15 @@ content:
    item_authors: "Pozin B. A., Garanina A. E., Ivanova E. A."
    item_name: "Automated Assessment of the Progress and 'Health' of the Project Based on the OMG ESSENCE Standard"
    item_authors_address: |
-     <b>B. A. Pozin<sup>1,2,3</sup></b>,  Doctor of Technical Sciences, Professor, bpozin@ec-leasing.ru, <b>  A. E. Garanina<sup>1</sup></b>, Master, aegaranina@edu.hse.ru, <b> E. A. Ivanova<sup>1</sup></b>, Master, eaivanova_23@edu.hse.ru
-     <br/><sup>1</sup> Higher School of Economics Research University, Moscow, 109028, Russian Federation,
-     <br/><sup>2</sup>	Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation,
-     <br/><sup>3</sup>	JSC EC-leasing, Moscow, 117587, Russian Federation
+     <b>B. A. Pozin</b><sup>1,2,3</sup>, Doctor of Technical Sciences, Professor, bpozin@ec-leasing.ru,
+     <b>A. E. Garanina</b><sup>1</sup>, Master, aegaranina@edu.hse.ru,
+     <b>E. A. Ivanova</b><sup>1</sup>, Master, eaivanova_23@edu.hse.ru
+     <br>
+     <sup>1</sup> Higher School of Economics Research University, Moscow, 109028, Russian Federation,
+     <br>
+     <sup>2</sup> Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation,
+     <br>
+     <sup>3</sup> JSC EC-leasing, Moscow, 117587, Russian Federation
    item_corr_author: "Boris A. Pozin, Doctor of Technical Sciences, Professor, Higher School of Economics Research University, Moscow, 109028, Russian Federation, Ivannikov Institute for System Programming of the Russian Academy of Sciences, Moscow, 109004, Russian Federation, JSC EC-leasing, Moscow, 117587, Russian Federation, E-mail: bpozin@ec-leasing.ru"
    item_rec_on: May 15, 2023
    item_acc_on: June 20, 2023
@@ -19,28 +24,26 @@ content:
    item_pages: 367–376
    item_citation: "Pozin B. A., Garanina A. E., Ivanova E. A. Automated Assessment of the Progress and 'Health' of the Project Based on the OMG ESSENCE Standard, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 367—376. DOI: 10.17587/prin.14.367-376 (in Russian)."
    item_references: |
-     <ul>
-     <li>Kruchten P. The frog and the octopus: a conceptual model of software development, 2007, available at: https://arxiv.org/ abs/1209.1327 (date of access 19.06.2023). </li>
-     <li>  Humphrey W. S. Disciрline for Software Engineering, Addison-Wesley, 1995, 789 p. </li>
-     <li>  Boehm B., Jain A. An initial theory of value-based software engineering, Value-based Software Engineering, Springer, 2005, pp. 15—32. </li>
-     <li>  Capers Jones. Software quality in 2010: A survey of the state of the art. Capers Jones & Associates, 2010, available at: https://sqgne.org/ presentations/2010-11/Jones-Nov-2010.pdf (date of access 19.06.2023). </li>
-     <li>  Bjorner D. The Triptych process model — process assessment and improvement. Tokio University, 2006. DOI: 10.1081/E-ESE-120044141. </li>
-     <li>  Capers Jones. Software Engineering Best Practices Lessons from Successful Projects in the Top Companies, McGraw-Hill, 2010, 643 p. </li>
-     <li>  Zmeyev D. O. Prototype of a decision support system for project management based on the OMG ESSENCE standard and Bayesian networks: dissertation. Tomsk, 2022 (in Russian). </li>
-     <li>  Petal Diagram — Directions and Numbers, Computer Science, Spreadsheets Foxford Textbook, available at: foxford.ru (date of access 09.05.2023). </li>
-     <li>  OMG Essence: official site, available at: http://sewiki.ru/OMG_Essence (date of access 09.05.2023). </li>
-     <li>  Essence — Kernel and Language for Software Engineering Methods, available at: https://www.omg.org/spec/Essence/1.2/PDF (date of access 09.05.2023). </li>
-     <li>  ESSENCE User Guide, SEMAT, available at: https://semat.org/view-1-essence-lite (date of access 09.05.2023). </li>
-     <li>  SEMAT: official site, available at: https://www.semat.org/(date of access 09.05.2023). </li>
-     <li>  Jacobson I., Ng P.-W., McMahon P. E., Spence I., Lid-man S. The Essence of Software Engineering Applying the SEMAT Kernel, Addison-Wesley, 2013, 352 p. </li>
-     <li>  Jacobson I., Lawson H., Ng P.-W., McMahon P. E., Goedicke M. The Essentials of Modern Software Engineering, 2019, available at: https://morganclaypoolpublishers.com/essence/FULL_ TOC.pdf (date of access 09.05.2023).</li>
-     </ul>
+     <li>Kruchten P. The frog and the octopus: a conceptual model of software development, 2007, available at: https://arxiv.org/ abs/1209.1327 (date of access 19.06.2023).</li>
+     <li>Humphrey W. S. Disciрline for Software Engineering, Addison-Wesley, 1995, 789 p.</li>
+     <li>Boehm B., Jain A. An initial theory of value-based software engineering, Value-based Software Engineering, Springer, 2005, pp. 15—32.</li>
+     <li>Capers Jones. Software quality in 2010: A survey of the state of the art. Capers Jones & Associates, 2010, available at: https://sqgne.org/ presentations/2010-11/Jones-Nov-2010.pdf (date of access 19.06.2023).</li>
+     <li>Bjorner D. The Triptych process model — process assessment and improvement. Tokio University, 2006. DOI: 10.1081/E-ESE-120044141.</li>
+     <li>Capers Jones. Software Engineering Best Practices Lessons from Successful Projects in the Top Companies, McGraw-Hill, 2010, 643 p.</li>
+     <li>Zmeyev D. O. Prototype of a decision support system for project management based on the OMG ESSENCE standard and Bayesian networks: dissertation. Tomsk, 2022 (in Russian).</li>
+     <li>Petal Diagram — Directions and Numbers, Computer Science, Spreadsheets Foxford Textbook, available at: foxford.ru (date of access 09.05.2023).</li>
+     <li>OMG Essence: official site, available at: http://sewiki.ru/OMG_Essence (date of access 09.05.2023).</li>
+     <li>Essence — Kernel and Language for Software Engineering Methods, available at: https://www.omg.org/spec/Essence/1.2/PDF (date of access 09.05.2023).</li>
+     <li>ESSENCE User Guide, SEMAT, available at: https://semat.org/view-1-essence-lite (date of access 09.05.2023).</li>
+     <li>SEMAT: official site, available at: https://www.semat.org/(date of access 09.05.2023).</li>
+     <li>Jacobson I., Ng P.-W., McMahon P. E., Spence I., Lid-man S. The Essence of Software Engineering Applying the SEMAT Kernel, Addison-Wesley, 2013, 352 p.</li>
+     <li>Jacobson I., Lawson H., Ng P.-W., McMahon P. E., Goedicke M. The Essentials of Modern Software Engineering, 2019, available at: https://morganclaypoolpublishers.com/essence/FULL_ TOC.pdf (date of access 09.05.2023).</li>
  - doi: 14.377-387
    udk: "004.315"
    item_authors: "Bibilo P. N."
    item_name: "Synthesis of Modular Multipliers"
    item_authors_address: |
-     <b>  P. N. Bibilo</b>, bibilo@newman.bas-net.by
+     <b>P. N. Bibilo</b>, bibilo@newman.bas-net.by
      The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
    item_corr_author: "Bibilo Petr N., Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus, E-mail: petr.olibib@yandex.ru; bibilo@newman.bas-net.by"
    item_rec_on: May 22, 2023
@@ -51,35 +54,33 @@ content:
    item_pages: 377–387
    item_citation: "Bibilo P. N. Synthesis of Modular Multipliers, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 377—387. DOI: 10.17587/prin.14.377-387 (in Russian)."
    item_references: |
-     <ul>
-     <li>  Akushskij I.YA., Yudickij D. I. Machine arithmetic in residual classes, Moscow, Sovetskoe radio, 1968, 440 p. (in Russian). </li>
-     <li>  Chervyakov N. I., Sakhnyuk P. A., Shaposhnikov A. V., Ryadnov S. A. Modular parallel computing structures of neuroprocessor systems, Moscow, Fizmatlit, 2003, 288 p. (in Russian). </li>
-     <li>  Stempkovskiy A. L., Kornilov A. I., Semenov M. Yu. Features of the implementation of devices with digital signal processing in the integrated design using modular arithmetic, Informatsionnye tekhnologii, 2004, no. 2, pp. 2—9 (in Russian). </li>
-     <li>  Chervyakov N. I., D'yachenko I. V. Principles of construction of modular adders and multipliers, Modulyarnaya arifmetika: matly mezhdunar. nauch. konf., available at: http://www.computer-museum.ru/histussr/sokconf0.htm (in Russian). </li>
-     <li>  Amerbaev V. M., Solov'ev R. A., Tel'puhov D. V. Implementation of a library of modular arithmetic operations based on algorithms for minimizing logical functions, Izvestiya YuFu, Tekh-nicheskie nauki, 2013, no. 7, pp. 221—225 (in Russian). </li>
-     <li>  Amerbaev V. M., Solov'ev R. A., Tel'puhov D. V., Shchelokov A. N. Investigation of the effectiveness of modular comput­ing structures in the design of hardware single-stroke multipliers, Izvestiya YuFu, Tekhnicheskie nauki, 2014, no. 7 (156), pp. 248—254 (in Russian). </li>
-     <li>  Telpukhov D. V., Sovovyev R. A., Balaka E. S. et al. Design features of the RNS-based multipliers using advanced CAD, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem (MES), 2016, no. 1, pp. 249—254. </li>
-     <li>  Brayton K. R., Hachtel G. D., McMullen C., Sangiovanni-Vincentelli A. L. Logic Minimization Algorithm for VLSI Synthesis, Boston, Kluwer Academic Publishers, 1984, 193 p. </li>
-     <li>  Toropov N. R. Minimization of systems of Boolean functions in the class DNF, Logicheskoe proektirovanie, Minsk, Institut tehnicheskoj kibernetiki Nacional'noj akademii nauk Belarusi, 1999, no. 4, рр. 4—19 (in Russian). </li>
-     <li>  Bibilo P. N. Application of Binary Decision Diagrams in the Synthesis of Logic Circuits, Minsk, Belaruskaja navuka, 2014, 231 p. (in Russian). </li>
-     <li>  Bibilo P. N. Integrated Circuit Design Systems Based on the VHDL Language. StateCAD, ModelSim, LeonardoSpectrum, Moscow, SOLON-Press Publ., 2005. 384 p. (in Russian). </li>
-     <li>  Solovyov V. V. XILINX FPGA Architectures: FPGA and CPLD 7-Series. Moscow, Goryachaya liniya — Telekom, 2016. 392 р. (in Russian). </li>
-     <li>  Tarasov I. E. XILINX FPGA. Hardware Description Languages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya — Telekom, 2020, 538 р. (in Russian). </li>
-     <li>  Bibilo P. N., Romanov V. I. The system of logical optimization of functional structural descriptions of digital circuits based on production-frame knowledge representation model, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem, 2020, Sb. trudov / Eds akad. RAN A. L. Stempkovskiy. Moscow, IPPM RAN, 2020, no. 4, pp. 9—16. DOI: 10.31114/2078-7707-2020-4-9-16. </li>
-     <li>  Bibilo P. N., Lankevich Yu. Yu. The Use of Zhegalkin Polynomials for Minimization of Multilevel Representations of Boolean Func­tions Based on Shannon Expansion, Programmnaya Ingeneria, 2017, vol. 8, no. 8, pp. 369—384. DOI: 10.17587/prin.8.369-384 (in Russian).  </li>
-     <li>  Bibilo P. N., Kirienko N. A. Estimating Energy Consumption in Logical CMOS Circuits Based on Their Switching Activity, Russian Microelectronics, 2012, vol. 41, no. 1, pp. 59—70. DOI: 10.1134/S1063739711060035. </li>
-     <li>  Bibilo P. N., Romanov V. I. CAD integration for logic synthesis using global optimization, Software & Systems, 2019, vol. 32, no. 1, pp. 26—33. DOI:10.15827/0236-235X.125.026-033 (in Russian). </li>
-     <li>  Salamat S., Shubhi S., Khaleghi B., Rosing T. Residue-Net: Multiplication-free Neural Network by In-situ No-loss Migration to Residue Number Systems. 26th Asia and South Pacific Design Automation Conference (ASP-DAC), 2021, pp. 222—228. </li>
-     <li>  Samimi N., Kamal M., Afzali-Kusha A., Pedram M. Res-DNN: A residue number system-based DNN accelerator unit, IEEE Trans. Circuits Syst., 2020, vol. 67, no. 2, pp. 658—671. DOI: 10.1109/TCSI.2019.2951083. </li>
-     </ul>
+     <li>Akushskij I.YA., Yudickij D. I. Machine arithmetic in residual classes, Moscow, Sovetskoe radio, 1968, 440 p. (in Russian).</li>
+     <li>Chervyakov N. I., Sakhnyuk P. A., Shaposhnikov A. V., Ryadnov S. A. Modular parallel computing structures of neuroprocessor systems, Moscow, Fizmatlit, 2003, 288 p. (in Russian).</li>
+     <li>Stempkovskiy A. L., Kornilov A. I., Semenov M. Yu. Features of the implementation of devices with digital signal processing in the integrated design using modular arithmetic, Informatsionnye tekhnologii, 2004, no. 2, pp. 2—9 (in Russian).</li>
+     <li>Chervyakov N. I., D'yachenko I. V. Principles of construction of modular adders and multipliers, Modulyarnaya arifmetika: matly mezhdunar. nauch. konf., available at: http://www.computer-museum.ru/histussr/sokconf0.htm (in Russian).</li>
+     <li>Amerbaev V. M., Solov'ev R. A., Tel'puhov D. V. Implementation of a library of modular arithmetic operations based on algorithms for minimizing logical functions, Izvestiya YuFu, Tekh-nicheskie nauki, 2013, no. 7, pp. 221—225 (in Russian).</li>
+     <li>Amerbaev V. M., Solov'ev R. A., Tel'puhov D. V., Shchelokov A. N. Investigation of the effectiveness of modular comput­ing structures in the design of hardware single-stroke multipliers, Izvestiya YuFu, Tekhnicheskie nauki, 2014, no. 7 (156), pp. 248—254 (in Russian).</li>
+     <li>Telpukhov D. V., Sovovyev R. A., Balaka E. S. et al. Design features of the RNS-based multipliers using advanced CAD, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem (MES), 2016, no. 1, pp. 249—254.</li>
+     <li>Brayton K. R., Hachtel G. D., McMullen C., Sangiovanni-Vincentelli A. L. Logic Minimization Algorithm for VLSI Synthesis, Boston, Kluwer Academic Publishers, 1984, 193 p.</li>
+     <li>Toropov N. R. Minimization of systems of Boolean functions in the class DNF, Logicheskoe proektirovanie, Minsk, Institut tehnicheskoj kibernetiki Nacional'noj akademii nauk Belarusi, 1999, no. 4, рр. 4—19 (in Russian).</li>
+     <li>Bibilo P. N. Application of Binary Decision Diagrams in the Synthesis of Logic Circuits, Minsk, Belaruskaja navuka, 2014, 231 p. (in Russian).</li>
+     <li>Bibilo P. N. Integrated Circuit Design Systems Based on the VHDL Language. StateCAD, ModelSim, LeonardoSpectrum, Moscow, SOLON-Press Publ., 2005. 384 p. (in Russian).</li>
+     <li>Solovyov V. V. XILINX FPGA Architectures: FPGA and CPLD 7-Series. Moscow, Goryachaya liniya — Telekom, 2016. 392 р. (in Russian).</li>
+     <li>Tarasov I. E. XILINX FPGA. Hardware Description Languages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya — Telekom, 2020, 538 р. (in Russian).</li>
+     <li>Bibilo P. N., Romanov V. I. The system of logical optimization of functional structural descriptions of digital circuits based on production-frame knowledge representation model, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem, 2020, Sb. trudov / Eds akad. RAN A. L. Stempkovskiy. Moscow, IPPM RAN, 2020, no. 4, pp. 9—16. DOI: 10.31114/2078-7707-2020-4-9-16.</li>
+     <li>Bibilo P. N., Lankevich Yu. Yu. The Use of Zhegalkin Polynomials for Minimization of Multilevel Representations of Boolean Func­tions Based on Shannon Expansion, Programmnaya Ingeneria, 2017, vol. 8, no. 8, pp. 369—384. DOI: 10.17587/prin.8.369-384 (in Russian).</li>
+     <li>Bibilo P. N., Kirienko N. A. Estimating Energy Consumption in Logical CMOS Circuits Based on Their Switching Activity, Russian Microelectronics, 2012, vol. 41, no. 1, pp. 59—70. DOI: 10.1134/S1063739711060035.</li>
+     <li>Bibilo P. N., Romanov V. I. CAD integration for logic synthesis using global optimization, Software & Systems, 2019, vol. 32, no. 1, pp. 26—33. DOI:10.15827/0236-235X.125.026-033 (in Russian).</li>
+     <li>Salamat S., Shubhi S., Khaleghi B., Rosing T. Residue-Net: Multiplication-free Neural Network by In-situ No-loss Migration to Residue Number Systems. 26th Asia and South Pacific Design Automation Conference (ASP-DAC), 2021, pp. 222—228.</li>
+     <li>Samimi N., Kamal M., Afzali-Kusha A., Pedram M. Res-DNN: A residue number system-based DNN accelerator unit, IEEE Trans. Circuits Syst., 2020, vol. 67, no. 2, pp. 658—671. DOI: 10.1109/TCSI.2019.2951083.</li>
  - doi: 14.388-400
    udk: "004.58"
    item_authors: "Palchunov D. E., Chernyavtseva S. I."
    item_name: "Development of Intelligent Assistant for Automated Generation of Department Documents"
    item_authors_address: |
-     <b> D. E. Palchunov</b>, Academician of RAE, Leading Researcher, palch@math.nsc.ru,
+     <b>D. E. Palchunov</b>, Academician of RAE, Leading Researcher, palch@math.nsc.ru,
      S. L. Sobolev Institute of Mathematics SB RAS, Novosibirsk, 630090, Russian Federation,
-     <b> S. I. Chernyavtseva</b>, Student, s.chernyavtseva@g.nsu.ru,
+     <b>S. I. Chernyavtseva</b>, Student, s.chernyavtseva@g.nsu.ru,
      Novosibirsk State University, Novosibirsk, 630090, Russian Federation
    item_corr_author: "  Dmitry E. Palchunov, Academician of RAE, Leading Researcher, S. L. Sobolev Institute of Mathematics SB RAS, Novosibirsk, 630090, Russian Federation E-mail: palch@math.nsc.ru"
    item_rec_on: June 13, 2023
@@ -91,46 +92,43 @@ content:
    item_comment: This work was carried out within the framework of the state contract of the Sobolev Institute of Mathematics (project no. FWNF-2022-0011).
    item_citation: "Palchunov D. E., Chernyavtseva S. I. Development of Intelligent Assistant for Automated Generation of Department Documents, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 388—400. DOI: 10.17587/prin.14.388-400 (in Russian)."
    item_references: |
-     <ul>
-     <li>  Svistunov V. M., Lobachev V. V. Actual trends of automation of business processes in domestic companies, Personnel and intellectual resources management in Russia, 2022, vol. 11, no. 2, pp. 72—76. DOI: 10.12737/2305-7807-2022-11-2-72-76 (in Russian). </li>
-     <li>  Dopira R. I., Keldibekova A. B. The program "Automated workplace of the head of the department", Young scientist, 2015, no. 11, pp. 183—186, available at: https://moluch.ru/ar-chive/91/19434/ (date of access 12.06.2023) (in Russian). </li>
-     <li>  Automated workplace teacher, available at: https://zifra-plus.ru/product/arm-prep/ (date of access 12.06.2023) (in Russian). </li>
-     <li>  Tools for document management automation, available at: https://top10-sed.ru (date of access 12.06.2023) (in Russian). </li>
-     <li>  Intelligent assistant for processing financial documents, available at: https://www.emagia.com/products/gia-docs-intelligent-document-processing/ (date of access 12.06.2023) (in Russian). </li>
-     <li>  Platform for working with language data and texts, available at: https://www.expert.ai/products/expert-ai-platform/? (date of access 12.06.2023) (in Russian). </li>
-     <li>  Lingam V., Bhuria S., Nair M. et al. Deep learning for conflicting statements detection in text, no. e26589v1, PeerJ Preprints, 2018, DOI: 10.7287/peerj.preprints.26589. </li>
-     <li>  Palchunov D., Vaganova A. Methods for Developing Digital Twins of Roles Based on Semantic Domain-Specific Languages, 2021 IEEE 22nd International Conference of Young Profession­als in Electron Devices and Materials (EDM), 2021, pp. 515—519. DOI: 10.1109/EDM52169.2021.9507716. </li>
-     <li>  Templates for practices, available at: https://www.nsu.ru/n/ information-technologies-department/education_fit/praktika/prak-tika.php (date of access 12.06.2023) (in Russian). </li>
-     <li>  Forms of review of the head of the FQW, Review forms, available at: https://www.nsu.ru/n/information-technologies-department/education_fit/gia/docs/ (date of access 12.06.2023) (in Russian). </li>
-     <li>  Palchunov D., Application of FCA For Domain Model Theory Investigation, Artificial Intelligence, Rcai 2021, Lecture Notes in Artificial Intelligence, 12948 / Eds. S. Kovalev, S. Kuznetsov, A. Panov, Springer International Publishing Ag, 2021, pp. 119—134. DOI: 10.1007/978-3-030-86855-0_9. </li>
-     <li>  Palchunov D. E. Methodological Aspects of the Application of Model Theory in Knowledge Engineering and Artificial Intelligence, 2022 Ural-Siberian Conference on Computational Technologies in Cognitive Science, Genomics and Biomedicine (CSGB), 2022, pp. 210—215. DOI: 10.1109/CSGB56354.2022.9865602. </li>
-     <li>  Palchunov D. E. Modeling Reasoning and Argumentation for the Development of Intelligent Assistants, 2022 IEEE International Multi- Conference on Engineering, Computer and Information Sciences (SIBIRCON), 2022, pp. 820—825. DOI: 10.1109/SIBIRCON56155.2022.10017050. </li>
-     <li>  OWL mapping, available at: https://www.w3.org/TR/owl-mapping-to-rdf/ (date of access 12.06.2023). </li>
-     <li>  Reasoners OWL, available at: http://owl.cs.manchester. ac.uk/tools/list-of-reasoners/ (date of access 12.06.2023). </li>
-     <li>  Palchunov D., Yakhyaeva G., Yasinskaya O. Software system for the diagnosis of the spine diseases using case-based reasoning, Proceedings of the International Conference on Biomedical Engineering and Computational Technologies (SIBIRCON), 2015, pp. 205—210. </li>
-     <li>  Kapustina A. I., Palchunov D. E. Development of an onto-logical model of tariffs and cellular communication services based on logically complete definitions of concepts, Bulletin of the NSU. Series: Information Technology, 2017, vol. 15, no. 2, pp. 34—46 (in Russian). </li>
-     <li>  Oleynik A. O. Development of an intellectual assistant secretary of the department, Materials of the 60th International Scientific Student Conference. Information technology. Software Engineering and knowledge engineering, Novosibirsk, 2022, pp. 159 (in Russian). </li>
-     <li>  Flanagan K., Stevens R., Pocock M., Lee P., Wipat A. Ontology for genome comparison and genomic rearrangements, Conference Papers, Comparative and Functional Genomics, 2004, vol. 5, no. 6-7, pp. 537—544, DOI: 10.1002/cfg.436. </li>
-     <li>  Kleshchev A. S., Moskalenko F. M., Chernyakhovskaya M. Yu. Model of ontology of the subject area "Medical diagnostics". Part 1: Informal description and definition of basic terms, NTI, Series 2, 2005, no. 12, pp. 1—7 (in Russian). </li>
-     <li>  Kleshchev A. C., Moskalenko F. M., Chernyakhovska-ya M. Yu. Model of ontology of the subject area "Medical diagnostics". Part 2: Formal description of cause-and-effect relationships, causes of signs and causes of diseases, NTI. Series 2, 2006, no. 2, pp. 19—30 (in Russian). </li>
-     <li>  Naidanov Ch. A. Development of the core of the ontological model, customizable for the subject area, Bulletin of the NSU. Series: Information Technology, 2019, vol. 17, no. 1, pp. 72—81. DOI: 10.25205/1818-7900-2019-17-1-72-81 (in Russian). </li>
-     <li>  Palchunov D. E. Modeling of thinking and formalization of reflection. I: Model-theoretic formalization of ontology and reflection, Philosophy of Science, 2006, no. 4, pp. 62—99 (in Russian). </li>
-     <li>  Naydanov Ch., Palchunov D., Sazonova P. Development of automated methods for the prevention of risks of critical conditions, based on the analysis of the knowledge extracted from the medical histories, The Siberian Scientific Medical Journal, 2016, vol. 36, no. 1, pp. 105—113. </li>
-     <li>  Palchunov D. E. Solving the problem of information retrieval based on ontologies, Business Informatics, 2008, no. 1, pp. 3—13 (in Russian). </li>
-     <li>  Trofimov I. V. Evolution of the expressive abilities of the OWL language, Software systems: theory and applications, 2011, no. 4, pp. 85—94 (in Russian). </li>
-     <li>  Jena SPARQL API, available at: https://github.com/Smart-DataAnalytics/jena-sparql-api (date of access 12.06.2023). </li>
-     <li>  SPARQL, available at: https://www.w3.org/TR/rdf-sparql-query/ (accessed: 12.06.2023). </li>
-     <li>  Apache POI, available at: https://poi.apache.org (date of access 12.06.2023). </li>
-     <li>  Library petrovich, available at: https://github.com/damirazo/Petrovich?ysclid=lgubb4xenj46782821 (date of access 12.06.2023).</li>
-     </ul>
+     <li>Svistunov V. M., Lobachev V. V. Actual trends of automation of business processes in domestic companies, Personnel and intellectual resources management in Russia, 2022, vol. 11, no. 2, pp. 72—76. DOI: 10.12737/2305-7807-2022-11-2-72-76 (in Russian).</li>
+     <li>Dopira R. I., Keldibekova A. B. The program "Automated workplace of the head of the department", Young scientist, 2015, no. 11, pp. 183—186, available at: https://moluch.ru/ar-chive/91/19434/ (date of access 12.06.2023) (in Russian).</li>
+     <li>Automated workplace teacher, available at: https://zifra-plus.ru/product/arm-prep/ (date of access 12.06.2023) (in Russian).</li>
+     <li>Tools for document management automation, available at: https://top10-sed.ru (date of access 12.06.2023) (in Russian).</li>
+     <li>Intelligent assistant for processing financial documents, available at: https://www.emagia.com/products/gia-docs-intelligent-document-processing/ (date of access 12.06.2023) (in Russian).</li>
+     <li>Platform for working with language data and texts, available at: https://www.expert.ai/products/expert-ai-platform/? (date of access 12.06.2023) (in Russian).</li>
+     <li>Lingam V., Bhuria S., Nair M. et al. Deep learning for conflicting statements detection in text, no. e26589v1, PeerJ Preprints, 2018, DOI: 10.7287/peerj.preprints.26589.</li>
+     <li>Palchunov D., Vaganova A. Methods for Developing Digital Twins of Roles Based on Semantic Domain-Specific Languages, 2021 IEEE 22nd International Conference of Young Profession­als in Electron Devices and Materials (EDM), 2021, pp. 515—519. DOI: 10.1109/EDM52169.2021.9507716.</li>
+     <li>Templates for practices, available at: https://www.nsu.ru/n/ information-technologies-department/education_fit/praktika/prak-tika.php (date of access 12.06.2023) (in Russian).</li>
+     <li>Forms of review of the head of the FQW, Review forms, available at: https://www.nsu.ru/n/information-technologies-department/education_fit/gia/docs/ (date of access 12.06.2023) (in Russian).</li>
+     <li>Palchunov D., Application of FCA For Domain Model Theory Investigation, Artificial Intelligence, Rcai 2021, Lecture Notes in Artificial Intelligence, 12948 / Eds. S. Kovalev, S. Kuznetsov, A. Panov, Springer International Publishing Ag, 2021, pp. 119—134. DOI: 10.1007/978-3-030-86855-0_9.</li>
+     <li>Palchunov D. E. Methodological Aspects of the Application of Model Theory in Knowledge Engineering and Artificial Intelligence, 2022 Ural-Siberian Conference on Computational Technologies in Cognitive Science, Genomics and Biomedicine (CSGB), 2022, pp. 210—215. DOI: 10.1109/CSGB56354.2022.9865602.</li>
+     <li>Palchunov D. E. Modeling Reasoning and Argumentation for the Development of Intelligent Assistants, 2022 IEEE International Multi- Conference on Engineering, Computer and Information Sciences (SIBIRCON), 2022, pp. 820—825. DOI: 10.1109/SIBIRCON56155.2022.10017050.</li>
+     <li>OWL mapping, available at: https://www.w3.org/TR/owl-mapping-to-rdf/ (date of access 12.06.2023).</li>
+     <li>Reasoners OWL, available at: http://owl.cs.manchester. ac.uk/tools/list-of-reasoners/ (date of access 12.06.2023).</li>
+     <li>Palchunov D., Yakhyaeva G., Yasinskaya O. Software system for the diagnosis of the spine diseases using case-based reasoning, Proceedings of the International Conference on Biomedical Engineering and Computational Technologies (SIBIRCON), 2015, pp. 205—210.</li>
+     <li>Kapustina A. I., Palchunov D. E. Development of an onto-logical model of tariffs and cellular communication services based on logically complete definitions of concepts, Bulletin of the NSU. Series: Information Technology, 2017, vol. 15, no. 2, pp. 34—46 (in Russian).</li>
+     <li>Oleynik A. O. Development of an intellectual assistant secretary of the department, Materials of the 60th International Scientific Student Conference. Information technology. Software Engineering and knowledge engineering, Novosibirsk, 2022, pp. 159 (in Russian).</li>
+     <li>Flanagan K., Stevens R., Pocock M., Lee P., Wipat A. Ontology for genome comparison and genomic rearrangements, Conference Papers, Comparative and Functional Genomics, 2004, vol. 5, no. 6-7, pp. 537—544, DOI: 10.1002/cfg.436.</li>
+     <li>Kleshchev A. S., Moskalenko F. M., Chernyakhovskaya M. Yu. Model of ontology of the subject area "Medical diagnostics". Part 1: Informal description and definition of basic terms, NTI, Series 2, 2005, no. 12, pp. 1—7 (in Russian).</li>
+     <li>Kleshchev A. C., Moskalenko F. M., Chernyakhovska-ya M. Yu. Model of ontology of the subject area "Medical diagnostics". Part 2: Formal description of cause-and-effect relationships, causes of signs and causes of diseases, NTI. Series 2, 2006, no. 2, pp. 19—30 (in Russian).</li>
+     <li>Naidanov Ch. A. Development of the core of the ontological model, customizable for the subject area, Bulletin of the NSU. Series: Information Technology, 2019, vol. 17, no. 1, pp. 72—81. DOI: 10.25205/1818-7900-2019-17-1-72-81 (in Russian).</li>
+     <li>Palchunov D. E. Modeling of thinking and formalization of reflection. I: Model-theoretic formalization of ontology and reflection, Philosophy of Science, 2006, no. 4, pp. 62—99 (in Russian).</li>
+     <li>Naydanov Ch., Palchunov D., Sazonova P. Development of automated methods for the prevention of risks of critical conditions, based on the analysis of the knowledge extracted from the medical histories, The Siberian Scientific Medical Journal, 2016, vol. 36, no. 1, pp. 105—113.</li>
+     <li>Palchunov D. E. Solving the problem of information retrieval based on ontologies, Business Informatics, 2008, no. 1, pp. 3—13 (in Russian).</li>
+     <li>Trofimov I. V. Evolution of the expressive abilities of the OWL language, Software systems: theory and applications, 2011, no. 4, pp. 85—94 (in Russian).</li>
+     <li>Jena SPARQL API, available at: https://github.com/Smart-DataAnalytics/jena-sparql-api (date of access 12.06.2023).</li>
+     <li>SPARQL, available at: https://www.w3.org/TR/rdf-sparql-query/ (accessed: 12.06.2023).</li>
+     <li>Apache POI, available at: https://poi.apache.org (date of access 12.06.2023).</li>
+     <li>Library petrovich, available at: https://github.com/damirazo/Petrovich?ysclid=lgubb4xenj46782821 (date of access 12.06.2023).</li>
  - doi: 14.401-406
    udk: "004.021+004.42"
    item_authors: "Makarov V. I."
    item_name: "Optimization of the Genetic Algorithm using Parallel Computing"
    item_authors_address: |
-     <b> V. I. Makarov</b>, Postgraduate Student, Teaching Assistant,
-     Volga Region State University of Telecommunications and Informatics, Samara,
-     443011, Russian Federation
+     <b>V. I. Makarov</b>, Postgraduate Student, Teaching Assistant, vadimpsuty@gmail.com,
+     Volga Region State University of Telecommunications and Informatics, Samara, 443011, Russian Federation
    item_corr_author: " Makarov Vadim I. Postgraduate Student, Teaching assistant, Volga Region State University of Telecommunications and Informatics, Samara, 443011, Russian Federation, E-mail: vadimpsuty@gmail.com"
    item_rec_on:  June 16, 2022
    item_acc_on:  July 04, 2023
@@ -140,26 +138,26 @@ content:
    item_pages: 401–406
    item_citation: "Makarov V. I. Optimization of the Genetic Algorithm using Parallel Computing, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 401—406. DOI: 10.17587/prin.14.401-406 (in Russian)."
    item_references: |
-     <ul>
-     <li> Emelyanov V. V., Kureichik V. V., Kureichik V. M. Theory and practice of evolutionary modeling. Moscow: FIZMATLIT, 2003, 432 p. (in Russian). </li>
-     <li> Kononyuk A. E. Discrete-continuous mathematics. (Algorithms): in 12 books. Book. 10 Algorithms. Part 3: Genetic Algorithms, 2017. 444 p. (in Russian). </li>
-     <li> Serazhiev R. R., Tynchenko V. S. Research of parallel genetic algorithms, Actual problems of aviation and astronautics, 2011, no. 1 (7), pp. 406—407 (in Russian). </li>
-     <li> Rutkovskaya D., Pilinsky M., Rutkovsky L. Neural networks, genetic algorithms and fuzzy systems, Moscow: Hotline Telecom, 2006, 452 p. (in Russian). </li>
-     <li> Semenychev E. V., Kurkin E. I., Danilova A. A. Choice of parameters of genetic algorithms in problems of parametric iden­tification of nonlinear models of dynamics, Bulletin of the Samara Municipal Institute of Management, 2013, no. 1 (24), pp. 130—140. </li>
-     <li> Karpov V. E. Introduction to the parallelization of algorithms and programs, Computer Research and Modeling, 2010, vol. 2, no. 3, pp. 231—272. </li>
-     <li> Genetic algorithms. From theory to practice, available at: https://habr.com/ru/post/138091/ (date оf access 11.12.2022). </li>
-     <li> Gergel V. P. Theory and practice of parallel computing. available at: http://www.intuit.ru/department/calculate/paralltp/ (date of access 18.10.2022). </li>
-     <li> Parallel genetic algorithm based on the "worker-master" model, available at: https://intuit.ru/studies/courses/14227/1284/ lecture/24174?page=2 (date of access 11.12.2022).</li>
-     </ul>
+     <li>Emelyanov V. V., Kureichik V. V., Kureichik V. M. Theory and practice of evolutionary modeling. Moscow: FIZMATLIT, 2003, 432 p. (in Russian).</li>
+     <li>Kononyuk A. E. Discrete-continuous mathematics. (Algorithms): in 12 books. Book. 10 Algorithms. Part 3: Genetic Algorithms, 2017. 444 p. (in Russian).</li>
+     <li>Serazhiev R. R., Tynchenko V. S. Research of parallel genetic algorithms, Actual problems of aviation and astronautics, 2011, no. 1 (7), pp. 406—407 (in Russian).</li>
+     <li>Rutkovskaya D., Pilinsky M., Rutkovsky L. Neural networks, genetic algorithms and fuzzy systems, Moscow: Hotline Telecom, 2006, 452 p. (in Russian).</li>
+     <li>Semenychev E. V., Kurkin E. I., Danilova A. A. Choice of parameters of genetic algorithms in problems of parametric iden­tification of nonlinear models of dynamics, Bulletin of the Samara Municipal Institute of Management, 2013, no. 1 (24), pp. 130—140.</li>
+     <li>Karpov V. E. Introduction to the parallelization of algorithms and programs, Computer Research and Modeling, 2010, vol. 2, no. 3, pp. 231—272.</li>
+     <li>Genetic algorithms. From theory to practice, available at: https://habr.com/ru/post/138091/ (date оf access 11.12.2022).</li>
+     <li>Gergel V. P. Theory and practice of parallel computing. available at: http://www.intuit.ru/department/calculate/paralltp/ (date of access 18.10.2022).</li>
+     <li>Parallel genetic algorithm based on the "worker-master" model, available at: https://intuit.ru/studies/courses/14227/1284/ lecture/24174?page=2 (date of access 11.12.2022).</li>
  - doi: 14.407-415
    udk: "004.428.4"
    item_authors: "Khvostov A. I., Zhukov S. I., Chauskin A. Y."
    item_name: "Modeling of Stochastic Material Properties with User Subroutines in SIMULIA Abaqus"
    item_authors_address: |
-     <b> A. I. Khvostov</b>, Lead Programmer, khvostoff@rambler.ru,
+     <b>A. I. Khvostov</b>, Lead Programmer, khvostov@rambler.ru,
      LLC RFD, Moscow, 117418, Russian Federation,
-     <b> S. I. Zhukov</b>, Project Manager, serge.zhukov@auriga.com,
-     Research Computing Center of Moscow State University, Moscow, 119991, Russian Federation, <b> A. Y. Chauskin</b>, CEO, a.chauskin@remsystems.ru, REM Systems LLC, Moscow, 127083, Russian Federation
+     <b>S. I. Zhukov</b>, Project Manager, serge.zhukov@auriga.com,
+     Research Computing Center of Moscow State University, Moscow, 119991, Russian Federation,
+     <b>A. Y. Chauskin</b>, CEO, a.chauskin@remsystems.ru,
+     REM Systems LLC, Moscow, 127083, Russian Federation
    item_corr_author: " Alexander I. Khvostov, Lead Programmer, LLC RFD, Moscow, 117418, Russian Federation, E-mail: khvostoff@rambler.ru"
    item_rec_on:   February 13, 2023
    item_acc_on: June 21, 2023
@@ -170,15 +168,12 @@ content:
    item_pages: 407–415
    item_citation: " Khvostov A. I., Zhukov S. I., Chauskin A. Y. Modeling of Stochastic Material Properties with User Subroutines in SIMULIA Abaqus, Programmnaya Ingeneria, 2023, vol. 14, no. 8, pp. 407—415. DOI: 10.17587/prin.14.407-415 (in Russian)."
    item_references: |
-     <ul>
-     <li> GOST 27751—2014. Reliability for constructions and foundations. General principles, Moscow, Standartinform, 2015, 16 p. (in Russian). </li>
-     <li> EN 1990:2002+A1:2005 Eurocode — Basis of structural design. Brussels, 2005, 116 p. </li>
-     <li> ISO 2394:2015. General principles on reliability for structures — Switzerland, 2015. 111 p. </li>
-     <li> Knuth D. E. The Art of Computer Programming, vol. 2. Seminumerical Algorithms, 3-ed, Addison-Wesley Professional, 1997. </li>
-     <li> Lee J., Fenves G. L. Plastic-Damage Model for Cyclic Loading of Concrete Structures, J. Engng. Mech., 1998, vol. 124, no. 8, рp. 892—900. DOI: 10.1061/(ASCE)0733-9399(1998)124:8(892). </li>
-     <li> Lubliner J., Oliver J., Oller S., Onate E. A Plastic-Damage Model forConcrete, Int. J. Solids Struct., 1989, vol. 25, no. 3, рp. 229—326. </li>
-     <li> GB 50010-2010. Code for design of concrete structures. National standard of People's Republic of China. China architecture & building press, China, 2010, 441 p. </li>
-     <li> Chauskin A. Y. Evaluation of the reliability of a monolithic reinforced concrete building under the influence of the maximum probable earthquake, Moscow, 2017, 157 p. (in Russian). </li>
-     <li> Abaqus User Subroutines Reference Manual. Dassault Sys-temes. France, 2014, 647 p.</li>
-     </ul>
----
+     <li>GOST 27751—2014. Reliability for constructions and foundations. General principles, Moscow, Standartinform, 2015, 16 p. (in Russian).</li>
+     <li>EN 1990:2002+A1:2005 Eurocode — Basis of structural design. Brussels, 2005, 116 p.</li>
+     <li>ISO 2394:2015. General principles on reliability for structures — Switzerland, 2015. 111 p.</li>
+     <li>Knuth D. E. The Art of Computer Programming, vol. 2. Seminumerical Algorithms, 3-ed, Addison-Wesley Professional, 1997.</li>
+     <li>Lee J., Fenves G. L. Plastic-Damage Model for Cyclic Loading of Concrete Structures, J. Engng. Mech., 1998, vol. 124, no. 8, рp. 892—900. DOI: 10.1061/(ASCE)0733-9399(1998)124:8(892).</li>
+     <li>Lubliner J., Oliver J., Oller S., Onate E. A Plastic-Damage Model forConcrete, Int. J. Solids Struct., 1989, vol. 25, no. 3, рp. 229—326.</li>
+     <li>GB 50010-2010. Code for design of concrete structures. National standard of People's Republic of China. China architecture & building press, China, 2010, 441 p.</li>
+     <li>Chauskin A. Y. Evaluation of the reliability of a monolithic reinforced concrete building under the influence of the maximum probable earthquake, Moscow, 2017, 157 p. (in Russian).</li>
+     <li>Abaqus User Subroutines Reference Manual. Dassault Sys-temes. France, 2014, 647 p.</li>

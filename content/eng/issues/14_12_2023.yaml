@@ -5,8 +5,9 @@ content:
    udk: "519.876.5"
    item_authors: "Zotov Ya. A."
    item_name: "Principles of Constructing a HIL Simulation Stand for Debugging Automated Process Control Systems based on the Baget PLC"
-   item_authors_address: | 
-     <b>Ya. A. Zotov</b>, Engineer, zotov@niisi.ras.ru, Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation 
+   item_authors_address: |
+     <b>Ya. A. Zotov</b>, Engineer, zotov@niisi.ras.ru,
+     Federal State Institution Scientific Research Institute for System Analysis of the Russian Academy of Sciences, Moscow, 117218, Russian Federation
    item_corr_author: 'Engineer, Federal State Institution "Scientific Research Institute for System Analysis of the Russian Academy of Sciences", Moscow, 117218, Russian Federation, E-mail: zotov@niisi.ras.ru'
    item_rec_on: September 09, 2023
    item_acc_on: October 02, 2023
@@ -28,37 +29,36 @@ content:
    item_keywords: automated control systems, modeling, hardware-in-the-loop (HIL) simulation
    item_pages: 575–582
    item_citation: "Zotov Ya. A. Principles of Constructing a HIL Simulation Stand for Debugging Automated Process Control Systems based on the Baget PLC, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 575—582. (in Russian)."
-   item_references: | 
-     <ul>
-     <li> Shannon R. E. Systems Simulation: The Art and Science, University of Alabama in Huntsville. Huntsville, Alabama. Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 1975, 387 p. </li>
-     <li> Balashov V. V., Bakhmurov A. G., Volkanov D. Yu. et al. HIL simulation stand for the development of embedded real-time computing systems, Sbornik dokladov Chetvertoy vserossiyskoy nauchno-prakticheskoy konferentsii "Imitatsionnoe modelirovanie. Teoriya i praktika", Saint Petersburg, 2009, pp. 215—219 (in Russian). </li>
-     <li> Devyatkov V. V. Methodology and technology of simulation studies of complex systems: current state and development prospects: monography, Moscow, Vuzovskiy uchebnik: INFRA-M, 2013, 448 p. (in Russian). </li>
-     <li> GOST R 57700.22—2020. Computer models and simulation. Classification» (in Russian). </li>
-     <li> GOST R 57700.37—2021. Computer models and simulation. Digital twins of products. General provisions (in Russian). </li>
-     <li> GOST 16504—81. The state system of testing products. Product test and quality inspection. General terms and definitions (in Russian). </li>
-     <li> What is GIBBS, available at: http://www.gibbsim.ru/node/10 (date of access 28.08.2023). </li>
-     <li> GE Predix, available at: https://www.tadviser.ru/index.php/ %D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82: GE_Predix (date of access 28.08.2023). </li>
-     <li> Eclipse Ditto documentation overview, available at: https://www.eclipse.org/ditto/intro-overview.html (date of access 28.08.2023). </li>
-     <li> MATLAB, available at: https://www.mathworks.com/prod-ucts/matlab.html (date of access 28.08.2023). </li>
-     <li> Mathcad: Math Software for Engineering Calculations, available at: https://www.mathcad.com/en (date of access 28.08.2023). </li>
-     <li> Optimization with Excel Solver, available at: https://www. tutorialspoint.com/excel_data_analysis/advanced_data_analysis_op-timization_with_excel_solver.htm (date of access 29.08.2023). </li>
-     <li> Bazaeva S. E., Zotov Ya. A. Tools for developing models of technical complexes, Trudy nauchno-issledovatel'skogo instituta sistemnykh issledovaniy Rossiyskoy akademii nauk, 2022, no. 4, pp. 5—14 (in Russian). </li>
-     <li> Industrial controllers for Rosatom will be built by the creator of original Russian processors. Not "Elbrus", not "Baikal", Cnews, available at: https://www.cnews.ru/news/top/2023-02-28_ promyshlennye_kontrollery (date of access 04.09.2023). </li>
-     <li> Functional description of the DUSD program, available at: https://www.niisi.ru/%D0%94%D0%A3%D0%B8%D0%A1 %D0%94.pdf (date of access 23.06.2023). </li>
-     <li> Onin A. N. I/O server program, Trudy nauchno-issledovatel'skogo instituta sistemnykh issledovaniy Rossiyskoy akademii nauk, 2023, no. 3, pp. 5—12 (in Russian). </li>
-     <li> Functional description of the BPP MLCP DUSD program, available at: https://www.niisi.ru/soft3.pdf (date of access 04.09.2023). </li>
-     <li> Most popular programming languages in 2023, available at: https://survey.stackoverflow.co/2023/#most-popular-technologies-language-prof (date of access 25.09.2023). </li>
-     <li> MuJS, available at: https://mujs.com/ (date of access 04.09.2023). </li>
-     <li> ISC Open Source Software Licenses, available at: https:// www.isc.org/licenses/ (date of access 04.09.2023). </li>
-     <li> Denisenko V. PID controllers: principles of construction and modification, STA, 2006, no. 4, pp. 66—74 (in Russian). </li>
-     <li> ISO/IEC/IEEE 9945:2009. Information technology — Portable Operating System Interface (POSIX®) Base Specifications, Issue 7, available at: https://www.iso.org/standard/50516.html (date of access 04.09.2023).</li>
-     </ul>
+   item_references: |
+     <li>Shannon R. E. Systems Simulation: The Art and Science, University of Alabama in Huntsville. Huntsville, Alabama. Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 1975, 387 p.</li>
+     <li>Balashov V. V., Bakhmurov A. G., Volkanov D. Yu. et al. HIL simulation stand for the development of embedded real-time computing systems, Sbornik dokladov Chetvertoy vserossiyskoy nauchno-prakticheskoy konferentsii "Imitatsionnoe modelirovanie. Teoriya i praktika", Saint Petersburg, 2009, pp. 215—219 (in Russian).</li>
+     <li>Devyatkov V. V. Methodology and technology of simulation studies of complex systems: current state and development prospects: monography, Moscow, Vuzovskiy uchebnik: INFRA-M, 2013, 448 p. (in Russian).</li>
+     <li>GOST R 57700.22—2020. Computer models and simulation. Classification» (in Russian).</li>
+     <li>GOST R 57700.37—2021. Computer models and simulation. Digital twins of products. General provisions (in Russian).</li>
+     <li>GOST 16504—81. The state system of testing products. Product test and quality inspection. General terms and definitions (in Russian).</li>
+     <li>What is GIBBS, available at: http://www.gibbsim.ru/node/10 (date of access 28.08.2023).</li>
+     <li>GE Predix, available at: https://www.tadviser.ru/index.php/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82:%20GE_Predix (date of access 28.08.2023).</li>
+     <li>Eclipse Ditto documentation overview, available at: https://www.eclipse.org/ditto/intro-overview.html (date of access 28.08.2023).</li>
+     <li>MATLAB, available at: https://www.mathworks.com/prod-ucts/matlab.html (date of access 28.08.2023).</li>
+     <li>Mathcad: Math Software for Engineering Calculations, available at: https://www.mathcad.com/en (date of access 28.08.2023).</li>
+     <li>Optimization with Excel Solver, available at: https://www.tutorialspoint.com/excel_data_analysis/advanced_data_analysis_op-timization_with_excel_solver.htm (date of access 29.08.2023).</li>
+     <li>Bazaeva S. E., Zotov Ya. A. Tools for developing models of technical complexes, Trudy nauchno-issledovatel'skogo instituta sistemnykh issledovaniy Rossiyskoy akademii nauk, 2022, no. 4, pp. 5—14 (in Russian).</li>
+     <li>Industrial controllers for Rosatom will be built by the creator of original Russian processors. Not "Elbrus", not "Baikal", Cnews, available at: https://www.cnews.ru/news/top/2023-02-28_ promyshlennye_kontrollery (date of access 04.09.2023).</li>
+     <li>Functional description of the DUSD program, available at: https://www.niisi.ru/%D0%94%D0%A3%D0%B8%D0%A1%D0%94.pdf (date of access 23.06.2023).</li>
+     <li>Onin A. N. I/O server program, Trudy nauchno-issledovatel'skogo instituta sistemnykh issledovaniy Rossiyskoy akademii nauk, 2023, no. 3, pp. 5—12 (in Russian).</li>
+     <li>Functional description of the BPP MLCP DUSD program, available at: https://www.niisi.ru/soft3.pdf (date of access 04.09.2023).</li>
+     <li>Most popular programming languages in 2023, available at: https://survey.stackoverflow.co/2023/#most-popular-technologies-language-prof (date of access 25.09.2023).</li>
+     <li>MuJS, available at: https://mujs.com/ (date of access 04.09.2023).</li>
+     <li>ISC Open Source Software Licenses, available at: https://www.isc.org/licenses/ (date of access 04.09.2023).</li>
+     <li>Denisenko V. PID controllers: principles of construction and modification, STA, 2006, no. 4, pp. 66—74 (in Russian).</li>
+     <li>ISO/IEC/IEEE 9945:2009. Information technology — Portable Operating System Interface (POSIX®) Base Specifications, Issue 7, available at: https://www.iso.org/standard/50516.html (date of access 04.09.2023).</li>
  - doi: 14.583-591
    udk: "004.453"
    item_authors: "Smirnov R. S."
    item_name: "Risks of Using Linux OS with Enabled Firmware Update Mechanism (Linux Vendor Firmware Service)"
-   item_authors_address: | 
-     <b>  R. S. Smirnov</b>  , Developer, mail@romansmirnov.org, Rosseti-Tsifra JSC, Moscow, 107023, Russian Federation 
+   item_authors_address: |
+     <b>R. S. Smirnov</b>, Developer, mail@romansmirnov.org,
+     Rosseti-Tsifra JSC, Moscow, 107023, Russian Federation
    item_corr_author: "Roman S. Smirnov, Developer, Rosseti-Tsifra JSC, Moscow, 107023, Russian Federation E-mail: mail@romansmirnov.org"
    item_rec_on: September 02, 2023
    item_acc_on: October 02, 2023
@@ -67,25 +67,27 @@ content:
    item_keywords: embedded software, altlinux, astralinux, power industry digitalization, Linux OS, Linux vendor firmware service, fwupd, LVFS
    item_pages: 583–591
    item_citation: "Smirnov R. S. Risks of Using Linux OS with Enabled Firmware Update Mechanism (Linux Vendor Firmware Service), Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 583—591. DOI: 10.17587/prin.14.583-591."
-   item_references: | 
-     <ul>
-     <li>  Official website of LVFS, available at: https://fwupd.org/ (accessed 08/22/2023). </li>
-     <li>  Astra Linux BULLETIN No. 2023-0426SE17 (operational update 1.7.4), available at: https://wiki.astralinux.ru/pages/viewpage. action?pageId=263044494 (date of access 22.08.2023). </li>
-     <li>  Official ALT Linux repository, version c10f1, available at: http:// ftp.altlinux.org/pub/distributions/ALTLinux/c10f1/branch/files/x86_64/ RPMS/fwupd-1.8.10-alt1.x86_64.rpm (date of access 22.08.2023). </li>
-     <li>  Larabel M. Linux Vendor Firmware Service Serves Up 40 Millionth Download, Phoronix Media, 01.12.2021, available at: https://www.phoronix. com/news/LVFS-40-Million-Downloads (date of access 22.08.2023). </li>
-     <li>  Larabel M. LVFS Has Served More Than 52 Million Firm­ware Files To Linux Users, Phoronix Media, 31.05.2022, available at: https://www.phoronix.com/news/LVFS-Fwupd-52-Million (date of access 22.08.2023). </li>
-     <li>  LVFS Terms of Use, available at: https://lvfs.readthedocs. io/en/latest/claims.html (date of access 22.08.2023). </li>
-     <li>  Loskutov A. B., Kulikov A. L., Ilyushin P. V. From the GOELRO plan to the digitalization of the country's electric power complex, Electricity, 2020, no. 12, pp. 14—30. DOI: 10.24160/0013­5380-2020-12-14-30 (in Russian). </li>
-     <li>  Digital Substation Initiative launched to modernize power grid infrastructure, Transformers magazine, 26.06.2020, available at: https://transformers-magazine.com/tm-news/digital-substation-initiative-launched-to-modernise-power-grid-infrastructure/ (date of access 22.08.2023) (in Russian). </li>
-     <li>  FWMonitor software repository, available at: http://github. com/SmirnovRoman/FWMonitor (date of access 22.08.2023). </li>
-     <li>  Yohan A., Lo N.-W. An Over-the-Blockchain Firmware Update Framework for IoT Devices, 2018 IEEE Conference on De­pendable and Secure Computing (DSC), Kaohsiung, Taiwan, 2018, pp. 1—8. DOI: 10.1109/DESEC.2018.8625164.</li>
-     </ul>
+   item_references: |
+     <li>Official website of LVFS, available at: https://fwupd.org/ (accessed 08/22/2023).</li>
+     <li>Astra Linux BULLETIN No. 2023-0426SE17 (operational update 1.7.4), available at: https://wiki.astralinux.ru/pages/viewpage. action?pageId=263044494 (date of access 22.08.2023).</li>
+     <li>Official ALT Linux repository, version c10f1, available at: http://ftp.altlinux.org/pub/distributions/ALTLinux/c10f1/branch/files/x86_64/ RPMS/fwupd-1.8.10-alt1.x86_64.rpm (date of access 22.08.2023).</li>
+     <li>Larabel M. Linux Vendor Firmware Service Serves Up 40 Millionth Download, Phoronix Media, 01.12.2021, available at: https://www.phoronix. com/news/LVFS-40-Million-Downloads (date of access 22.08.2023).</li>
+     <li>Larabel M. LVFS Has Served More Than 52 Million Firm­ware Files To Linux Users, Phoronix Media, 31.05.2022, available at: https://www.phoronix.com/news/LVFS-Fwupd-52-Million (date of access 22.08.2023).</li>
+     <li>LVFS Terms of Use, available at: https://lvfs.readthedocs. io/en/latest/claims.html (date of access 22.08.2023).</li>
+     <li>Loskutov A. B., Kulikov A. L., Ilyushin P. V. From the GOELRO plan to the digitalization of the country's electric power complex, Electricity, 2020, no. 12, pp. 14—30. DOI: 10.24160/0013­5380-2020-12-14-30 (in Russian).</li>
+     <li>Digital Substation Initiative launched to modernize power grid infrastructure, Transformers magazine, 26.06.2020, available at: https://transformers-magazine.com/tm-news/digital-substation-initiative-launched-to-modernise-power-grid-infrastructure/ (date of access 22.08.2023) (in Russian).</li>
+     <li>FWMonitor software repository, available at: http://github. com/SmirnovRoman/FWMonitor (date of access 22.08.2023).</li>
+     <li>Yohan A., Lo N.-W. An Over-the-Blockchain Firmware Update Framework for IoT Devices, 2018 IEEE Conference on De­pendable and Secure Computing (DSC), Kaohsiung, Taiwan, 2018, pp. 1—8. DOI: 10.1109/DESEC.2018.8625164.</li>
  - doi: 14.592-602
    udk: "004.415.2"
    item_authors: "Stennikov V. A., Barakhtenko E. A., Sokolov D. V., Mayorov G. S."
    item_name: "Development of Digital Twins for the Design of Integrated Energy Systems"
-   item_authors_address: | 
-     <b> V. A. Stennikov</b>, Academician of the Russian Academy of Sciences, Director, sva@isem.irk.ru, <b> E. A. Barakhtenko</b>, PhD, Senior Researcher, barakhtenko@isem.irk.ru, <b> D. V. Sokolov</b>, PhD, Senior Researcher, sokolov_dv@isem.irk.ru, <b> G. S. Mayorov</b>,  Junior Researcher, mayorovgs@isem.irk.ru, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation
+   item_authors_address: |
+     <b>V. A. Stennikov</b>, Academician of the Russian Academy of Sciences, Director, sva@isem.irk.ru,
+     <b>E. A. Barakhtenko</b>, PhD, Senior Researcher, barakhtenko@isem.irk.ru,
+     <b>D. V. Sokolov</b>, PhD, Senior Researcher, sokolov_dv@isem.irk.ru,
+     <b>G. S. Mayorov</b>, Junior Researcher, mayorovgs@isem.irk.ru,
+     Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation
    item_corr_author: " Evgeny A. Barakhtenko, PhD, Senior Researcher, Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences, Irkutsk, 664033, Russian Federation, E-mail: barakhtenko@isem.irk.ru"
    item_rec_on: July 11, 2023
    item_acc_on: September 19, 2023
@@ -97,37 +99,36 @@ content:
    item_pages: 592–602
    item_comment: The research was performed at the Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences under the support of the Russian Science Foundation (Grant number 22-29-01611).
    item_citation: "Stennikov V. A., Barakhtenko E. A., Sokolov D. V., Mayorov G. S. Development of Digital Twins for the Design of Integrated Energy Systems, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 592—602. DOI: 10.17587/prin.14.592-602. (in Russian)."
-   item_references: | 
-     <ul>
-     <li> Stennikov V., Barakhtenko E., Sokolov D., Zhou B. Current state of research on the energy management and expansion planning of integrated energy systems, Energy Reports, 2022, vol. 8, pp. 10025—10036. DOI: 10.1016/j.egyr.2022.07.172. </li>
-     <li>Voropai N. I., Stennikov V. A., Barakhtenko E. A. Integrated energy systems: Challenges, trends, philosophy, Studies on Russian Economic Development, 2017, vol. 28, no. 5, pp. 492—499. DOI: 10.1134/S107570071705015X. </li>
-     <li>Voropai N. I., Stennikov V. A., Barakhtenko E. A. Methodological principles of constructing the integrated energy sup­ply systems and their technological architecture, Journal of Physics: Conference Series, 2018, vol. 1111, no. 1, article: 012001. DOI: 10.1088/1742-6596/1111/1/012001. </li>
-     <li>Gelernter D. Mirror Worlds: Or the Day Software Puts the Universe in a Shoebox. How It Will Happen and What It Will Mean. Oxford University Press, Oxford, UK, 1993. DOI: 10.1093/oso/9780195068122.001.0001. </li>
-     <li>Grieves M. Virtually Intelligent Product Systems: Digital and Physical Twins, Complex Systems Engineering: Theory and Practice / Eds. S. Flumerfelt et al., American Institute of Aeronauticsand Astronautics, 2019, pp. 175—200. DOI: 10.2514/5.97816241056 54.0175.0200. </li>
-     <li>Tao F., Sui F., Liu A. et al. Digital twin-driven product design framework, International Journal of Production Research, 2019, vol. 57, pp. 3935—3953. DOI: 10.1080/00207543.2018.1443229. </li>
-     <li>Lim K. Y. H., Zheng P., Chen C. A state-of-the-art survey of Digital Twin: Techniques, engineering product lifecycle man­agement and business innovation perspectives, Journal of Intelligent Manufacturing, 2020, vol. 31, pp. 1313—1337. DOI: 10.1007/s10845-019-01512-w. </li>
-     <li>Ullah A. M. M. S. Modeling and simulation of complex manufacturing phenomena using sensor signals from the perspective of Industry 4.0, Advanced Engineering Informatics, 2019, vol. 39, pp. 1—13. DOI: 10.1016/j.aei.2018.11.003. </li>
-     <li>Pileggi P., Verriet J., Broekhuijsen J. et al. A Digital Twin for Cyber-Physical Energy Systems, In Proceedings of the 7th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems, Montreal, QC, Canada, 5—15 April 2019. IEEE, New York, NY, USA, 2019. DOI: 10.1109/MSCPES.2019.8738792. </li>
-     <li>Xu X. Machine Tool 4.0 for the New Era of Manufacturing, The International Journal of Advanced Manufacturing Technology, 2017, vol. 92, pp. 1893—1900. DOI: 10.1007/s00170-017-0300-7. </li>
-     <li>Zambrano V., Mueller-Roemer J., Sandberg M. et al. In­dustrial digitalization in the industry 4.0 era: Classification, reuse and authoring of digital models on Digital Twin platforms, Array, 2022, vol. 14, article 100176. DOI: 10.1016/j.array.2022.100176. </li>
-     <li>You M., Wang Q., Sun H. et al. Digital twins based day-ahead integrated energy system scheduling under load and renewable energy uncertainties, Applied Energy, 2022, vol. 305, article 117899. DOI: 10.1016/j.apenergy.2021.117899. </li>
-     <li>Li H., Zhang T., Huang Y. Digital Twin Technology for Integrated Energy System and Its Application, In Proceedings of the 1st International Conference on Digital Twins and Parallel Intelligence, Beijing, China, 15 July—15 August 2021. IEEE, New York, NY, USA, 2021, pp. 422—425. DOI: 10.1109/DTPI52967.2021.9540160. </li>
-     <li>Chen Y., Chen Q., Gao J. et al. Hardware-in-loop based Digital Twin Technology for Integrated Energy System: A Case Study of Guangyang Island in Chongqing, In Proceedings of the 5th International Electrical and Energy Conference, Nangjing, China, 27—29 May 2022, IEEE, New York, NY, USA, 2022, pp. 4956—4962. DOI: 10.1109/CIEEC54735.2022.9846475. </li>
-     <li>Bai H., Yuan Z., Tang X. et al. Automatic Modeling and Optimization for The Digital twin of a Regional Multi-energy Sys­tem, In Proceedings of the Power System and Green Energy Confer­ence, Shanghai, China, 25—27 August 2022, IEEE, New York, NY, USA, 2022, pp. 214—219. DOI: 10.1109/PSGEC54663.2022.9881075. </li>
-     <li>Klimov A. A., Kupriyanovsky V. P., Ponkin I. V. et al. From the history of the digital energy industry of the EU or energy con­sumption close to zero — the transition of EU regulatory decisions to the ontologies of energy, BIM, and buildings, International Jour­nal of Open Information Technologies, 2019, vol. 7, no. 6, pp. 86—93. </li>
-     <li>Stennikov V. A., Barakhtenko E. A., Sokolov D. V. A Meth­odology for the Creation of an Integrated Graphical Environment for Computer Modeling of Energy Pipeline Systems, Information technologies, 2018, vol. 24, no. 5, pp. 313—320. DOI: 10.17587/it.24.313-320 (in Russian). </li>
-     <li>Stennikov V. A., Barakhtenko E. A., Sokolov D. V. Usage of ontologies in the implementation of the concept of model-driven engineering for the design of heat supply systems, Ontology of Designing, 2014, no. 4 (14), pp. 54—68 (in Russian). </li>
-     <li>Stennikov V., Barakhtenko E., Mayorov G. et al. Coor­dinated management of centralized and distributed generation in an integrated energy system using a multi-agent approach, Applied Energy, 2022, vol. 309, article: 118487. DOI: 10.1016/j.apenergy.2021.118487. </li>
-     <li>Ren Y., Fan D., Feng Q. et al. Agent-based restoration approach for reliability with load balancing on smart grids, Applied En­ergy, 2019, vol. 249, pp. 46—57. DOI: 10.1016/j.apenergy.2019.04.119. </li>
-     <li>Zhang Z., Jing R., Lin J. et al. Combining agent-based residential demand modeling with design optimization for integrated energy systems planning and operation, Applied Energy, 2020, vol. 263, 114623. DOI: 10.1016/j.apenergy.2020.114623. </li>
+   item_references: |
+     <li>Stennikov V., Barakhtenko E., Sokolov D., Zhou B. Current state of research on the energy management and expansion planning of integrated energy systems, Energy Reports, 2022, vol. 8, pp. 10025—10036. DOI: 10.1016/j.egyr.2022.07.172.</li>
+     <li>Voropai N. I., Stennikov V. A., Barakhtenko E. A. Integrated energy systems: Challenges, trends, philosophy, Studies on Russian Economic Development, 2017, vol. 28, no. 5, pp. 492—499. DOI: 10.1134/S107570071705015X.</li>
+     <li>Voropai N. I., Stennikov V. A., Barakhtenko E. A. Methodological principles of constructing the integrated energy sup­ply systems and their technological architecture, Journal of Physics: Conference Series, 2018, vol. 1111, no. 1, article: 012001. DOI: 10.1088/1742-6596/1111/1/012001.</li>
+     <li>Gelernter D. Mirror Worlds: Or the Day Software Puts the Universe in a Shoebox. How It Will Happen and What It Will Mean. Oxford University Press, Oxford, UK, 1993. DOI: 10.1093/oso/9780195068122.001.0001.</li>
+     <li>Grieves M. Virtually Intelligent Product Systems: Digital and Physical Twins, Complex Systems Engineering: Theory and Practice / Eds. S. Flumerfelt et al., American Institute of Aeronauticsand Astronautics, 2019, pp. 175—200. DOI: 10.2514/5.97816241056 54.0175.0200.</li>
+     <li>Tao F., Sui F., Liu A. et al. Digital twin-driven product design framework, International Journal of Production Research, 2019, vol. 57, pp. 3935—3953. DOI: 10.1080/00207543.2018.1443229.</li>
+     <li>Lim K. Y. H., Zheng P., Chen C. A state-of-the-art survey of Digital Twin: Techniques, engineering product lifecycle man­agement and business innovation perspectives, Journal of Intelligent Manufacturing, 2020, vol. 31, pp. 1313—1337. DOI: 10.1007/s10845-019-01512-w.</li>
+     <li>Ullah A. M. M. S. Modeling and simulation of complex manufacturing phenomena using sensor signals from the perspective of Industry 4.0, Advanced Engineering Informatics, 2019, vol. 39, pp. 1—13. DOI: 10.1016/j.aei.2018.11.003.</li>
+     <li>Pileggi P., Verriet J., Broekhuijsen J. et al. A Digital Twin for Cyber-Physical Energy Systems, In Proceedings of the 7th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems, Montreal, QC, Canada, 5—15 April 2019. IEEE, New York, NY, USA, 2019. DOI: 10.1109/MSCPES.2019.8738792.</li>
+     <li>Xu X. Machine Tool 4.0 for the New Era of Manufacturing, The International Journal of Advanced Manufacturing Technology, 2017, vol. 92, pp. 1893—1900. DOI: 10.1007/s00170-017-0300-7.</li>
+     <li>Zambrano V., Mueller-Roemer J., Sandberg M. et al. In­dustrial digitalization in the industry 4.0 era: Classification, reuse and authoring of digital models on Digital Twin platforms, Array, 2022, vol. 14, article 100176. DOI: 10.1016/j.array.2022.100176.</li>
+     <li>You M., Wang Q., Sun H. et al. Digital twins based day-ahead integrated energy system scheduling under load and renewable energy uncertainties, Applied Energy, 2022, vol. 305, article 117899. DOI: 10.1016/j.apenergy.2021.117899.</li>
+     <li>Li H., Zhang T., Huang Y. Digital Twin Technology for Integrated Energy System and Its Application, In Proceedings of the 1st International Conference on Digital Twins and Parallel Intelligence, Beijing, China, 15 July—15 August 2021. IEEE, New York, NY, USA, 2021, pp. 422—425. DOI: 10.1109/DTPI52967.2021.9540160.</li>
+     <li>Chen Y., Chen Q., Gao J. et al. Hardware-in-loop based Digital Twin Technology for Integrated Energy System: A Case Study of Guangyang Island in Chongqing, In Proceedings of the 5th International Electrical and Energy Conference, Nangjing, China, 27—29 May 2022, IEEE, New York, NY, USA, 2022, pp. 4956—4962. DOI: 10.1109/CIEEC54735.2022.9846475.</li>
+     <li>Bai H., Yuan Z., Tang X. et al. Automatic Modeling and Optimization for The Digital twin of a Regional Multi-energy Sys­tem, In Proceedings of the Power System and Green Energy Confer­ence, Shanghai, China, 25—27 August 2022, IEEE, New York, NY, USA, 2022, pp. 214—219. DOI: 10.1109/PSGEC54663.2022.9881075.</li>
+     <li>Klimov A. A., Kupriyanovsky V. P., Ponkin I. V. et al. From the history of the digital energy industry of the EU or energy con­sumption close to zero — the transition of EU regulatory decisions to the ontologies of energy, BIM, and buildings, International Jour­nal of Open Information Technologies, 2019, vol. 7, no. 6, pp. 86—93.</li>
+     <li>Stennikov V. A., Barakhtenko E. A., Sokolov D. V. A Meth­odology for the Creation of an Integrated Graphical Environment for Computer Modeling of Energy Pipeline Systems, Information technologies, 2018, vol. 24, no. 5, pp. 313—320. DOI: 10.17587/it.24.313-320 (in Russian).</li>
+     <li>Stennikov V. A., Barakhtenko E. A., Sokolov D. V. Usage of ontologies in the implementation of the concept of model-driven engineering for the design of heat supply systems, Ontology of Designing, 2014, no. 4 (14), pp. 54—68 (in Russian).</li>
+     <li>Stennikov V., Barakhtenko E., Mayorov G. et al. Coor­dinated management of centralized and distributed generation in an integrated energy system using a multi-agent approach, Applied Energy, 2022, vol. 309, article: 118487. DOI: 10.1016/j.apenergy.2021.118487.</li>
+     <li>Ren Y., Fan D., Feng Q. et al. Agent-based restoration approach for reliability with load balancing on smart grids, Applied En­ergy, 2019, vol. 249, pp. 46—57. DOI: 10.1016/j.apenergy.2019.04.119.</li>
+     <li>Zhang Z., Jing R., Lin J. et al. Combining agent-based residential demand modeling with design optimization for integrated energy systems planning and operation, Applied Energy, 2020, vol. 263, 114623. DOI: 10.1016/j.apenergy.2020.114623.</li>
      <li>AnyLogic, available at: https://www.anylogic.ru/ (date of access 10.07.2023)</li>
-     </ul>
  - doi: 14.603-615
    udk: "004.89; 330.46"
    item_authors: "Orlova E. V."
    item_name: "Reinforcement Learning Methods and Algorithms for Modeling Individual Trajectories of Professional Development"
-   item_authors_address: | 
-     <b> E. V. Orlova</b>, Dr. of Sc. (Eng), Professor, ekorl@mail.ru, Ufa University of Science and Technology, Ufa, 450076, Russian Federation 
+   item_authors_address: |
+     <b>E. V. Orlova</b>, Dr. of Sc. (Eng), Professor, ekorl@mail.ru,
+     Ufa University of Science and Technology, Ufa, 450076, Russian Federation
    item_corr_author: "Ekaterina V. Orlova, Dr. of Sc. (Eng), Professor, Ufa University of Science and Technology, Ufa, 450076, Russian Federation, E-mail: ekorl@mail.ru"
    item_rec_on: July 26, 2023
    item_acc_on:  September 19, 2023
@@ -138,48 +139,48 @@ content:
    item_keywords: machine learning, reinforcement learning, Q-learning, corporate human capital, individual development trajectories
    item_pages: 603–615
    item_citation: "Orlova E. V. Reinforcement Learning Methods and Algorithms for Modeling Individual Trajectories of Professional Development, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 603—615. DOI: 10.17587/prin.14.603-615. (in Russian)."
-   item_references: | 
-     <ul>     
-     <li> Samuelson P. A. Consumption Theory in Terms of Revealed Preference, Economica, 1948, vol. 60, no. 15, pp. 243—253. </li>
-     <li> Neumann J., Morgenstern O. Theory of Games and Economic Behavior, Princeton, Princeton University Press, 1944, 625 p. </li>
-     <li> Orlova E. V. Methods and Models of Data Analysis and Machine Learning in the Problem of Labor Productivity Management, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 219—229. DOI: 10.17587/prin.11.219-229 (in Russian). </li>
-     <li> Orlova E. V. System Engineering of the Organizational and Technical Systems' Digital Twins Using Artificial Intelligence Methods, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 425— 439. DOI: 10.17587/prin.13.425-439 (in Russian). </li>
-     <li> Markov A. A. The Theory of Algorithms, Journal of Symbolic Logic, 1953, vol. 18, no. 4, pp. 340—341. DOI: 10.2307/2266585. </li>
-     <li> Sutton R. S., Barto A. G. Reinforcement Learning. Am Introduction, Cambridge, MA, MIT Press, 2020, 552 p. </li>
-     <li> Bellman R. A Markovian decision process, Journal о/Mathematics And Mechanics, 1957, vol. 6, no. 4, pp. 679—684. </li>
-     <li> Ding Q., Jahanshahi H., Wang Y. et al. Optimal Reinforcement Learning-Based Control Algorithm for a Class of Nonlinear Macroeconomic Systems, Mathematics, 2022, vol. 10, no. 3, article 499. DOI: 10.3390/math10030499. </li>
-     <li> Li Q., Lin T., Yu Q. et al. Review of Deep Reinforcement Learning and Its Application in Modern Renewable Power System Control, Energies, 2023, vol. 16, no. 10, article 4143. DOI: 10.3390/en16104143. </li>
-     <li> Orlova E. V. Decision-Making Techniques for Credit Resource Management Using Machine Learning and Optimization, Information, 2020, vol. 11, no. 3, article 144. DOI: 10.3390/info11030144. </li>
-     <li> Wang R., Chen Z., Xing Q. et al. A Modified RainbowBased Deep Reinforcement Learning Method for Optimal Scheduling of Charging Station, Sustainability, 2022, vol. 14, no. 3, article 1884. DOI: 10.3390/su14031884. </li>
-     <li> Abideen A.Z, Sundram V. P. K., Pyeman J. et al. Digital Twin Integrated Reinforced Learning in Supply Chain and Logistics, Logistics, 2021, vol. 5, no. 4, article 84. DOI: 10.3390/logistics5040084. </li>
-     <li> Yan Y., Chow A. H., Ho C. P. et al. Reinforcement Learning for Logistics and Supply Chain Management: Methodologies, State of the Art, and Future Opportunities, Transportation Research Part E: Logistics and Transportation Review, 2022, vol. 162, article 102712. DOI: 10.1016/j.tre.2022.102712. </li>
-     <li> Han D., Mulyana B., Stankovic V., Cheng S. A Survey on Deep Reinforcement Learning Algorithms for Robotic Manipulation, Sensors, 2023, vol. 23, no. 7, article 3762. DOI: 10.3390/s23073762. </li>
-     <li> Orr J., Dutta A. Multi-Agent Deep Reinforcement Learning for Multi-Robot Applications: A Survey, Sensors, 2023, vol. 23, no. 7, айкк; 3625. DOI: 10.3390/s23073625. </li>
-     <li> Mohammadi М., Al-Fuqaha А. Guizani М., Oh J. Semisupervised deep reinforcement leaming in support of loT and smart city ser­vices, IEEE Intemet of Things Joumal, 2018, vol. 5, no. 2, pp. 624—635. </li>
-     <li> Yu C., Liu J., Nemati S. Reinforcement Learning in Healthcare: A Survey. arXiv:1908.08796. 2019. </li>
-     <li> Chi M., VanLehn K., Litman D. et al. Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies, User Model User-Adap Inter, 2011, vol. 21, pp. 137—180 DOI: 10.1007/s11257-010-9093-1. </li>
-     <li> Azhikodan A. R., Bhat A. G., Jadhav M. V. Stock Trading Bot Using Deep Reinforcement Learning, In Innovations in Computer Science and Engineering; Springer: Berlin/Heidelberg, Germany, 2019, pp. 41—49. </li>
-     <li> Ponomarev E. S., Oseledets I. V., Chikhotsky A. S. Using Reinforcement Learning in the Problem of Algorithmic Trading, Informacionnye processy, 2019, vol. 19, no. 2, pp. 122—131 (in Russian). </li>
-     <li> Gurin A. S., Gurin Ya. S., Gorohova R. I. et al. Increasing the profitability of a sales agent based on the Q-learning method using derivative financial indicators, Sovremennye informacionnye tehnologii i IT-obrazovanie, 2020, vol. 16, no. 3, pp. 799—809. DOI: 10.25559/SITITO.16.202003.799-809 (in Russian). </li>
-     <li> Gataullin S. T., Khasanshin I. Ya., Nikitin P. V. et al. Different approaches to the application of reinforcement learning tech­nology in algorithmic trading, Fundamental'nye issledovanija, 2021, no. 12, pp. 86—91. DOI 10.17513/fr.43158 (in Russian). </li>
-     <li> Jiang Z.; Liang J. Cryptocurrency portfolio management with deep reinforcement learning., In Proceedings of the 2017Intelligent Systems Conference (IntelliSys), London, UK, 7—8 September 2017, pp. 905—913. </li>
-     <li> Yu P., Lee J. S., Kulyatin I. et al. Model-based Deep Re­inforcement Learning for Dynamic Portfolio Optimization. arXiv 2019, arXiv:1901.08740. </li>
-     <li> Amirzadeh R., Nazari A., Thiruvady D. Applying Artificial Intelligence in Cryptocurrency Markets: A Survey, Algorithms, 2022, vol. 15, no. 11, айкк; 428. DOI: 10.3390/a15110428. </li>
-     <li> Feng L., Tang R., Li X. et al. Deep reinforcement learning based recommendation with explicit user-item interactions model­ing. arXiv 2018, arXiv:1810.12027. </li>
-     <li> Liu J., Zhang Y., Wang X. et al. Dynamic Pricing on E-commerce Platform with Deep Reinforcement Learning. arXiv 2019, arXiv:1912.02572. </li>
-     <li> Zheng G., Zhang F., Zheng, Z. et al. DRN: A deep reinforcement learning framework for news recommendation, In Proceedings of the 2018WorldWideWeb Conference, Lyon, France, 23—27 April 2018, pp. 167—176. </li>
-     <li> Orlova E. V. Inference of Factors for Labor Productivity Growth Used Randomized Experiment and Statistical Causality, Mathematics, 2023, vol. 11, no. 4, article 863. DOI: 10.3390/math11040863. </li>
-     <li> Orlova E. V. Methodology and Statistical Modeling of Social Capital Influence on Employees' Individual Innovative-ness in a Company, Mathematics, 2022, vol. 1, no. 11, article 1809. DOI: 10.3390/math10111809. </li>
-     <li> Orlova E. V. Innovation in Company Labor Productivity Management: Data Science Methods Application, Applied System Innovation, 2021, vol. 4, no. 3, article 68. DOI: 10.3390/asi4030068. </li>
-     <li> Orlova E. V. Design of Personal Trajectories for Employees' Professional Development in the Knowledge Society under Industry 5.0, Social Sciences, 2021, vol. 10, no. 11, article 427. DOI: 10.3390/socsci10110427. </li>
-     <li> Orlova E. V. Assessment of the Human Capital of an Enterprise and its Management in the Context of the Digital Transformation of the Economy, Journal of Applied Economic Research, 2021, vol. 20, no. 4, pp. 666—700. DOI: 10.15826/vestnik.2021.20.4.026. </li>
-     </ul>
+   item_references: |
+     <li>Samuelson P. A. Consumption Theory in Terms of Revealed Preference, Economica, 1948, vol. 60, no. 15, pp. 243—253.</li>
+     <li>Neumann J., Morgenstern O. Theory of Games and Economic Behavior, Princeton, Princeton University Press, 1944, 625 p.</li>
+     <li>Orlova E. V. Methods and Models of Data Analysis and Machine Learning in the Problem of Labor Productivity Management, Programmnaya Ingeneria, 2020, vol. 11, no. 4, pp. 219—229. DOI: 10.17587/prin.11.219-229 (in Russian).</li>
+     <li>Orlova E. V. System Engineering of the Organizational and Technical Systems' Digital Twins Using Artificial Intelligence Methods, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 425— 439. DOI: 10.17587/prin.13.425-439 (in Russian).</li>
+     <li>Markov A. A. The Theory of Algorithms, Journal of Symbolic Logic, 1953, vol. 18, no. 4, pp. 340—341. DOI: 10.2307/2266585.</li>
+     <li>Sutton R. S., Barto A. G. Reinforcement Learning. Am Introduction, Cambridge, MA, MIT Press, 2020, 552 p.</li>
+     <li>Bellman R. A Markovian decision process, Journal о/Mathematics And Mechanics, 1957, vol. 6, no. 4, pp. 679—684.</li>
+     <li>Ding Q., Jahanshahi H., Wang Y. et al. Optimal Reinforcement Learning-Based Control Algorithm for a Class of Nonlinear Macroeconomic Systems, Mathematics, 2022, vol. 10, no. 3, article 499. DOI: 10.3390/math10030499.</li>
+     <li>Li Q., Lin T., Yu Q. et al. Review of Deep Reinforcement Learning and Its Application in Modern Renewable Power System Control, Energies, 2023, vol. 16, no. 10, article 4143. DOI: 10.3390/en16104143.</li>
+     <li>Orlova E. V. Decision-Making Techniques for Credit Resource Management Using Machine Learning and Optimization, Information, 2020, vol. 11, no. 3, article 144. DOI: 10.3390/info11030144.</li>
+     <li>Wang R., Chen Z., Xing Q. et al. A Modified RainbowBased Deep Reinforcement Learning Method for Optimal Scheduling of Charging Station, Sustainability, 2022, vol. 14, no. 3, article 1884. DOI: 10.3390/su14031884.</li>
+     <li>Abideen A.Z, Sundram V. P. K., Pyeman J. et al. Digital Twin Integrated Reinforced Learning in Supply Chain and Logistics, Logistics, 2021, vol. 5, no. 4, article 84. DOI: 10.3390/logistics5040084.</li>
+     <li>Yan Y., Chow A. H., Ho C. P. et al. Reinforcement Learning for Logistics and Supply Chain Management: Methodologies, State of the Art, and Future Opportunities, Transportation Research Part E: Logistics and Transportation Review, 2022, vol. 162, article 102712. DOI: 10.1016/j.tre.2022.102712.</li>
+     <li>Han D., Mulyana B., Stankovic V., Cheng S. A Survey on Deep Reinforcement Learning Algorithms for Robotic Manipulation, Sensors, 2023, vol. 23, no. 7, article 3762. DOI: 10.3390/s23073762.</li>
+     <li>Orr J., Dutta A. Multi-Agent Deep Reinforcement Learning for Multi-Robot Applications: A Survey, Sensors, 2023, vol. 23, no. 7, айкк; 3625. DOI: 10.3390/s23073625.</li>
+     <li>Mohammadi М., Al-Fuqaha А. Guizani М., Oh J. Semisupervised deep reinforcement leaming in support of loT and smart city ser­vices, IEEE Intemet of Things Joumal, 2018, vol. 5, no. 2, pp. 624—635.</li>
+     <li>Yu C., Liu J., Nemati S. Reinforcement Learning in Healthcare: A Survey. arXiv:1908.08796. 2019.</li>
+     <li>Chi M., VanLehn K., Litman D. et al. Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies, User Model User-Adap Inter, 2011, vol. 21, pp. 137—180 DOI: 10.1007/s11257-010-9093-1.</li>
+     <li>Azhikodan A. R., Bhat A. G., Jadhav M. V. Stock Trading Bot Using Deep Reinforcement Learning, In Innovations in Computer Science and Engineering; Springer: Berlin/Heidelberg, Germany, 2019, pp. 41—49.</li>
+     <li>Ponomarev E. S., Oseledets I. V., Chikhotsky A. S. Using Reinforcement Learning in the Problem of Algorithmic Trading, Informacionnye processy, 2019, vol. 19, no. 2, pp. 122—131 (in Russian).</li>
+     <li>Gurin A. S., Gurin Ya. S., Gorohova R. I. et al. Increasing the profitability of a sales agent based on the Q-learning method using derivative financial indicators, Sovremennye informacionnye tehnologii i IT-obrazovanie, 2020, vol. 16, no. 3, pp. 799—809. DOI: 10.25559/SITITO.16.202003.799-809 (in Russian).</li>
+     <li>Gataullin S. T., Khasanshin I. Ya., Nikitin P. V. et al. Different approaches to the application of reinforcement learning tech­nology in algorithmic trading, Fundamental'nye issledovanija, 2021, no. 12, pp. 86—91. DOI 10.17513/fr.43158 (in Russian).</li>
+     <li>Jiang Z.; Liang J. Cryptocurrency portfolio management with deep reinforcement learning., In Proceedings of the 2017Intelligent Systems Conference (IntelliSys), London, UK, 7—8 September 2017, pp. 905—913.</li>
+     <li>Yu P., Lee J. S., Kulyatin I. et al. Model-based Deep Re­inforcement Learning for Dynamic Portfolio Optimization. arXiv 2019, arXiv:1901.08740.</li>
+     <li>Amirzadeh R., Nazari A., Thiruvady D. Applying Artificial Intelligence in Cryptocurrency Markets: A Survey, Algorithms, 2022, vol. 15, no. 11, айкк; 428. DOI: 10.3390/a15110428.</li>
+     <li>Feng L., Tang R., Li X. et al. Deep reinforcement learning based recommendation with explicit user-item interactions model­ing. arXiv 2018, arXiv:1810.12027.</li>
+     <li>Liu J., Zhang Y., Wang X. et al. Dynamic Pricing on E-commerce Platform with Deep Reinforcement Learning. arXiv 2019, arXiv:1912.02572.</li>
+     <li>Zheng G., Zhang F., Zheng, Z. et al. DRN: A deep reinforcement learning framework for news recommendation, In Proceedings of the 2018WorldWideWeb Conference, Lyon, France, 23—27 April 2018, pp. 167—176.</li>
+     <li>Orlova E. V. Inference of Factors for Labor Productivity Growth Used Randomized Experiment and Statistical Causality, Mathematics, 2023, vol. 11, no. 4, article 863. DOI: 10.3390/math11040863.</li>
+     <li>Orlova E. V. Methodology and Statistical Modeling of Social Capital Influence on Employees' Individual Innovative-ness in a Company, Mathematics, 2022, vol. 1, no. 11, article 1809. DOI: 10.3390/math10111809.</li>
+     <li>Orlova E. V. Innovation in Company Labor Productivity Management: Data Science Methods Application, Applied System Innovation, 2021, vol. 4, no. 3, article 68. DOI: 10.3390/asi4030068.</li>
+     <li>Orlova E. V. Design of Personal Trajectories for Employees' Professional Development in the Knowledge Society under Industry 5.0, Social Sciences, 2021, vol. 10, no. 11, article 427. DOI: 10.3390/socsci10110427.</li>
+     <li>Orlova E. V. Assessment of the Human Capital of an Enterprise and its Management in the Context of the Digital Transformation of the Economy, Journal of Applied Economic Research, 2021, vol. 20, no. 4, pp. 666—700. DOI: 10.15826/vestnik.2021.20.4.026.</li>
  - doi: 14.616-628
    udk: "004.738.1:004.9"
    item_authors: "Rezina N. M., Shakirov R. N."
    item_name: "Development of Adaptive Site based on NetCat Content Management System"
-   item_authors_address: | 
-     <b> N. M. Rezina</b>, Leading Programmer, nad@imach.uran.ru, <b> R. N. Shakirov</b>, PhD, raul@imach.uran.ru, Institute of Engineering Science, Ural Branch of the Russian Academy of Sciences, Ekaterinburg, 620049, Russian Federation
+   item_authors_address: |
+     <b>N. M. Rezina</b>, Leading Programmer, nad@imach.uran.ru,
+     <b>R. N. Shakirov</b>, PhD, raul@imach.uran.ru,
+     Institute of Engineering Science, Ural Branch of the Russian Academy of Sciences, Ekaterinburg, 620049, Russian Federation
    item_corr_author: " Raul N. Shakirov, PhD, Institute of Engineering Science, Ekaterinburg, 620049, Russian Federation, E-mail: raul@imach.uran.ru"
    item_rec_on: September 07, 2023
    item_acc_on:  October 10, 2023
@@ -190,23 +191,20 @@ content:
    item_keywords: :Content Managements System, adaptive layout, web design, web programming, waterfall model, GIS, NetCat, CSS3, no-code
    item_pages: 616–628
    item_citation: "Rezina N. M., Shakirov R. N. Development of Adaptive Site based on NetCat Content Management System, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 616—628. DOI: 10.17587/prin.14.616-628  (in Russian)."
-   item_references: | 
-     <ul>     
-     <li> Finogenov V. S. Development of Online Store for The Com­pany of Auto Parts, Vestnik Soveta molodykh uchyonykh i spetsialistov Chelyabinskoy oblasti, 2017, vol. 4, no. 4 (19), pp. 56—60 (in Russian). </li>
-     <li> Kirichenko D. V., Berieva M. A., Seryy N. A., Danilova V. V., Kulukova N. N. Ispol'zovanie CMS NetCat dlya razrabotki korporativnogo sayta, Aktual'nye problemy sovremennoy nauki: Proc. Int. Sci.-Pract. Conf., Chelyabinsk, 2017, pp. 96—101 (in Russian). </li>
-     <li> Nesterova A. A., Nikolashin V. O., Smolev A. M., Danilenko A. N. Razrabotka informatsionnogo sayta-kataloga o dostoprimechatel'nostyakh Rossii, Mezhdunarodnaya molodyozhnaya nauchnaya konferentsiya "XV korolyovskie chteniya", posvyashchyonnaya 100-letiyu so dnya rozhdeniya D. I. Kozlova: tezisy dokladov, 2019,	vol. 1, pp 528—529 (in Russian). </li>
-     <li> Strogonov P. P. Development of a Client Application Proto­type for The Siberian Logistics Company in The Apex Development Environment, Studencheskaya nauka — vzglyad v budushchee: Proc. XVI Sci. Conf., Krasnoyarsk, 2021, vol. 3, pp. 274—275 (in Russian). </li>
-     <li> Asiimwe K. P., Machuve D. and Dida M. A. A Web-based Portal for Ornamental Plants and Flowers in Arusha City, Tanzania, I. J. Information Technology and Computer Science, 2020, vol. 12, no. 2, pp. 32—41. DOI: 10.5815/ijitcs.2020.02.04. </li>
-     <li> Aliev D. F., Shcherbakov A. Yu. On Practical Approaches to Creating Trusted Secure Digital Platforms, Vestnik sovremennykh tsifrovykh tekhnologiy, 2022, no. 13, pp. 4—12 (in Russian). </li>
-     <li> Prikhodko A. P. Analysis and Selection of Tools for Website Development, Aktual'nye nauchnye issledovaniya v sovremennom mire, 2020, no. 7-1 (63), pp. 124—127 (in Russian). </li>
-     <li> Zhaohang Yan. The Impacts of Low/No-Code Development on Digital Transformation and Software Development, arXiv, 2021. </li>
-     <li> Rezina N. M. Shablon sayta akademicheskoy organizatsii na baze sistemy upravleniya kontentom NetCat: Patent RF, no. 2016663248, 2018 (in Russian). </li>
-     <li> Efanova N. V., Ivanova E. A. Zero-coding technologies as an element of the formation of digital competencies, Tsifrovye tekhnologii v agrarnom obrazovanii: Proc Ed.-Meth. Conf., Krasnodar: Kubanskiy gosudarstvennyy agrarnyy universitet imeni I. T. Trubilina, 2022, pp. 130—131 (in Russian). </li>
-     <li> Rezina N. M., Shakirov R. N. Development of Academic Sites on Base of CMS NetCat, Programmnye produkty i sistemy, 2011, no. 2, pp. 7—13 (in Russian). </li>
-     <li> Movsisyan M. A., Vershinin E. V. Sravnitel'nyy analiz gibkogo i traditsionnogo metodov veb-razrabotki, Naukoemkie tekhnologii v priboro- i mashinostroenii i razvitie innovatsionnoy deyatel'nosti v vuze: Proc. Sci.-Tech Conf., Kaluga, 2022, pp. 121—126 (in Russian). </li>
-     <li> Hardyanto W., Purwinarko A., Sujito F. et al. Applying an MVC Framework for The System Development Life Cycle with Waterfall Model Extended, Journal of Physics: Conference Series 824, 2017, article 012007. DOI: 10.1088/1742-6596/824/1/012007. </li>
-     <li> Belikova S. A., Rogozin Y. I. Designing a Conceptual Model of The Process of User Interface Construction, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 508—514. DOI: 10.17587/prin.13.508-514. </li>
-     <li> Letunov A. S., Dokuchaev V. A. Low-Code Development Plat­form as a Tool for Software Development, Telekommunikatsii i informatsionnye tekhnologii, 2019, vol. 6, no. 2, pp. 123—128 (in Russian). </li>
-     <li> Petrova T. O., Il'ina O. P. Analiz rynka low-code/no-code dlya poiska preimushchestv i sfer primeneniya, Internauka, 2022, no. 20-2 (243), pp. 23—30 (in Russian). </li>
-     </ul>
----
+   item_references: |
+     <li>Finogenov V. S. Development of Online Store for The Com­pany of Auto Parts, Vestnik Soveta molodykh uchyonykh i spetsialistov Chelyabinskoy oblasti, 2017, vol. 4, no. 4 (19), pp. 56—60 (in Russian).</li>
+     <li>Kirichenko D. V., Berieva M. A., Seryy N. A., Danilova V. V., Kulukova N. N. Ispol'zovanie CMS NetCat dlya razrabotki korporativnogo sayta, Aktual'nye problemy sovremennoy nauki: Proc. Int. Sci.-Pract. Conf., Chelyabinsk, 2017, pp. 96—101 (in Russian).</li>
+     <li>Nesterova A. A., Nikolashin V. O., Smolev A. M., Danilenko A. N. Razrabotka informatsionnogo sayta-kataloga o dostoprimechatel'nostyakh Rossii, Mezhdunarodnaya molodyozhnaya nauchnaya konferentsiya "XV korolyovskie chteniya", posvyashchyonnaya 100-letiyu so dnya rozhdeniya D. I. Kozlova: tezisy dokladov, 2019,	vol. 1, pp 528—529 (in Russian).</li>
+     <li>Strogonov P. P. Development of a Client Application Proto­type for The Siberian Logistics Company in The Apex Development Environment, Studencheskaya nauka — vzglyad v budushchee: Proc. XVI Sci. Conf., Krasnoyarsk, 2021, vol. 3, pp. 274—275 (in Russian).</li>
+     <li>Asiimwe K. P., Machuve D. and Dida M. A. A Web-based Portal for Ornamental Plants and Flowers in Arusha City, Tanzania, I. J. Information Technology and Computer Science, 2020, vol. 12, no. 2, pp. 32—41. DOI: 10.5815/ijitcs.2020.02.04.</li>
+     <li>Aliev D. F., Shcherbakov A. Yu. On Practical Approaches to Creating Trusted Secure Digital Platforms, Vestnik sovremennykh tsifrovykh tekhnologiy, 2022, no. 13, pp. 4—12 (in Russian).</li>
+     <li>Prikhodko A. P. Analysis and Selection of Tools for Website Development, Aktual'nye nauchnye issledovaniya v sovremennom mire, 2020, no. 7-1 (63), pp. 124—127 (in Russian).</li>
+     <li>Zhaohang Yan. The Impacts of Low/No-Code Development on Digital Transformation and Software Development, arXiv, 2021.</li>
+     <li>Rezina N. M. Shablon sayta akademicheskoy organizatsii na baze sistemy upravleniya kontentom NetCat: Patent RF, no. 2016663248, 2018 (in Russian).</li>
+     <li>Efanova N. V., Ivanova E. A. Zero-coding technologies as an element of the formation of digital competencies, Tsifrovye tekhnologii v agrarnom obrazovanii: Proc Ed.-Meth. Conf., Krasnodar: Kubanskiy gosudarstvennyy agrarnyy universitet imeni I. T. Trubilina, 2022, pp. 130—131 (in Russian).</li>
+     <li>Rezina N. M., Shakirov R. N. Development of Academic Sites on Base of CMS NetCat, Programmnye produkty i sistemy, 2011, no. 2, pp. 7—13 (in Russian).</li>
+     <li>Movsisyan M. A., Vershinin E. V. Sravnitel'nyy analiz gibkogo i traditsionnogo metodov veb-razrabotki, Naukoemkie tekhnologii v priboro- i mashinostroenii i razvitie innovatsionnoy deyatel'nosti v vuze: Proc. Sci.-Tech Conf., Kaluga, 2022, pp. 121—126 (in Russian).</li>
+     <li>Hardyanto W., Purwinarko A., Sujito F. et al. Applying an MVC Framework for The System Development Life Cycle with Waterfall Model Extended, Journal of Physics: Conference Series 824, 2017, article 012007. DOI: 10.1088/1742-6596/824/1/012007.</li>
+     <li>Belikova S. A., Rogozin Y. I. Designing a Conceptual Model of The Process of User Interface Construction, Programmnaya Ingeneria, 2022, vol. 13, no. 10, pp. 508—514. DOI: 10.17587/prin.13.508-514.</li>
+     <li>Letunov A. S., Dokuchaev V. A. Low-Code Development Plat­form as a Tool for Software Development, Telekommunikatsii i informatsionnye tekhnologii, 2019, vol. 6, no. 2, pp. 123—128 (in Russian).</li>
+     <li>Petrova T. O., Il'ina O. P. Analiz rynka low-code/no-code dlya poiska preimushchestv i sfer primeneniya, Internauka, 2022, no. 20-2 (243), pp. 23—30 (in Russian).</li>

@@ -6,7 +6,12 @@ content:
    item_authors: "Sokolov A. P., Pitukhin E. A., Shabaev A. I., Galaktionov O. N., Zyateva O. A."
    item_name: "The Concept of an Information System to Support Decision-Making to Improve the Efficiency of the Forest Complex"
    item_authors_address: |
-     <b> A. P. Sokolov</b>, Professor, Head of Chair, a_sokolov@petrsu.ru, <b> E. A. Pitukhin</b>, Professor, eugene@petrsu.ru, <b> A. I. Shabaev</b>, Associate Professor, ashabaev@petrsu.ru, <b>  O. N. Galaktionov</b>, Professor, Head of Chair, galakt@petrsu.ru, <b>  O. A. Zyateva</b>, Associate Professor, olga_zyateva@mail.ru, Petrozavodsk State University, Petrozavodsk, Karelia, 185910, Russian Federation
+     <b>A. P. Sokolov</b>, Professor, Head of Chair, a_sokolov@petrsu.ru,
+     <b>E. A. Pitukhin</b>, Professor, eugene@petrsu.ru,
+     <b>A. I. Shabaev</b>, Associate Professor, ashabaev@petrsu.ru,
+     <b>O. N. Galaktionov</b>, Professor, Head of Chair, galakt@petrsu.ru,
+     <b>O. A. Zyateva</b>, Associate Professor, olga_zyateva@mail.ru,
+     Petrozavodsk State University, Petrozavodsk, Karelia, 185910, Russian Federation
    item_corr_author: "Evgeniy A. Pitukhin, Professor, Petrozavodsk State University, Petrozavodsk, Karelia, 185910, Russian Federation E-mail: eugene@petrsu.ru"
    item_rec_on: July 06, 2023
    item_acc_on: July 20, 2023
@@ -19,26 +24,25 @@ content:
    item_comment: This work was supported by the Russian Federation Ministry of Science and Higher Education (state research target, theme no. 075-03-2023-128).
    item_citation: "Sokolov A. P., Pitukhin E. A., Shabaev A. I., Galaktionov O. N., Zyateva O. A. The Concept of an Information System to Support Decision-Making to Improve the Efficiency of the Forest Complex, Programmnaya Ingeneria, 2023, vol. 14, no. 9, pp. 419—430. DOI: 10.17587/prin.14.419-430. (in Russian)."
    item_references: |
-     <ul>
-     <li> Report of the World Commission on Environment and Development "Our Common Future", 1987, available at: http:// www.un.org/ru/ga/pdf/brundtland.pdf (date of access 13.03.2023) (in Russian). </li>
-     <li> "Santiago declaration" — statement on criteria and indicators for the conservation and sustainable management of temperate and boreal forests ("Montreal Process"), 1995, available at: http:// www.silvertaiga.ru/wp-content/uploads/2017/05/mprus.pdf (date of access 13.03.2023) (in Russian). </li>
-     <li> Decree of the President of the Russian Federation No. 440 of April 1, 1996 "On the Concept of Transition of the Russian Federa­tion to Sustainable Development", 1996, available at: http://www. kremlin.ru/acts/bank/9120 (date of access 13.03.2023) (in Russian). </li>
-     <li> Vasiltsov V. S., Yashalova N. N., Novikov A. V. Climatic and ecological risks of development of coastal Arctic territories, Arktika: ekologiya i ekonomika, 2021, vol. 11, no. 3, pp. 341—352. DOI: 10.25283/2223-4594-2021-3-341-352. (in Russian). </li>
-     <li> Alvarez-Miranda E., Garcia-Gonzalo J., Pais C., Weintraub A. A multicriteria stochastic optimization framework for sustainable forest decision making under uncertainty, Forest Policy and Economics, 2019, vol. 103, pp. 112—122. DOI: 10.1016/j.for-pol.2018.03.006. </li>
-     <li> Constantino M., Martins I. Branch-and-cut for the forest harvest scheduling subject to clearcut and core area constraints, European Journal of Operational Research, 2018, vol. 265, no. 2, pp. 723—734. DOI: 10.1016/j.ejor.2017.07.060. </li>
-     <li> Yakusheva T. V., Grigorieva S. O., Vyrodov A. V., Vyrodova S. A. Issues of improving the regional forest planning system of the Russian Federation, taking into account the main trends in the development of the forest sector of the economy, Trudy Sankt-Peterburgskogo nauchno-issledovatel'skogo instituta lesnogo hozyajstva], 2017, vol. 1, pp. 49—61. DOI: 10.21178/2079-6080.2017.1.49 (in Russian). </li>
-     <li> Potravnaya E. V. How does the industrial development of the Arctic contribute to saving people and improving the quality of life of the peoples of the North? Uroven'zhizni naseleniya regionov Rossii, 2022, vol. 18, no. 4, pp. 555—563. DOI: 10.19181/lsprr.2022.18.4.11 (in Russian). </li>
-     <li> Stordal S., Gudbrand L., Tromborg E. Impacts of Infectious Disease Outbreaks on Firm Performance and Risk: The Forest Industries during the COVID-19 Pandemic, Journal of Risk and Financial Management, 2021, no. 14 (7), pp. 1—13. DOI: 10.3390/ jrfm14070318. </li>
-     <li> Passport of the national program «Digital Economy of the Russian Federation, approved by the Presidium of the Council under the President of the Russian Federation for Strategic Development and National Projects 04.06.2019, no. 7, 2019, available at: http://static.government.ru/media/files/urKHm0gTPPnzJlaK-w3M5cNLo6gczMkPF.pdf (in Russian). </li>
-     <li> Shvarts E. A., Shmatkov N. M., Karpachevsky M. L., Baibar A. S. Challenges and problems of forestry reform in Russia, Izvestiya Sankt-Peterburgskoj lesotekhnicheskoj akademii, 2022, no. 241, pp. 157—172. DOI: 10.21266/2079-4304.2022.241.157-172 (in Russian). </li>
-     <li> Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. Optimal Planning of Wood Harvesting and Timber Supply in Russian Conditions, Forests, 2020, vol. 11, no. 6, article 662. DOI: 10.3390/ f11060662.</li>
-     </ul>
+     <li>Report of the World Commission on Environment and Development "Our Common Future", 1987, available at: http://www.un.org/ru/ga/pdf/brundtland.pdf (date of access 13.03.2023) (in Russian).</li>
+     <li>"Santiago declaration" — statement on criteria and indicators for the conservation and sustainable management of temperate and boreal forests ("Montreal Process"), 1995, available at: http://www.silvertaiga.ru/wp-content/uploads/2017/05/mprus.pdf (date of access 13.03.2023) (in Russian).</li>
+     <li>Decree of the President of the Russian Federation No. 440 of April 1, 1996 "On the Concept of Transition of the Russian Federa­tion to Sustainable Development", 1996, available at: http://www.kremlin.ru/acts/bank/9120 (date of access 13.03.2023) (in Russian).</li>
+     <li>Vasiltsov V. S., Yashalova N. N., Novikov A. V. Climatic and ecological risks of development of coastal Arctic territories, Arktika: ekologiya i ekonomika, 2021, vol. 11, no. 3, pp. 341—352. DOI: 10.25283/2223-4594-2021-3-341-352. (in Russian).</li>
+     <li>Alvarez-Miranda E., Garcia-Gonzalo J., Pais C., Weintraub A. A multicriteria stochastic optimization framework for sustainable forest decision making under uncertainty, Forest Policy and Economics, 2019, vol. 103, pp. 112—122. DOI: 10.1016/j.for-pol.2018.03.006.</li>
+     <li>Constantino M., Martins I. Branch-and-cut for the forest harvest scheduling subject to clearcut and core area constraints, European Journal of Operational Research, 2018, vol. 265, no. 2, pp. 723—734. DOI: 10.1016/j.ejor.2017.07.060.</li>
+     <li>Yakusheva T. V., Grigorieva S. O., Vyrodov A. V., Vyrodova S. A. Issues of improving the regional forest planning system of the Russian Federation, taking into account the main trends in the development of the forest sector of the economy, Trudy Sankt-Peterburgskogo nauchno-issledovatel'skogo instituta lesnogo hozyajstva], 2017, vol. 1, pp. 49—61. DOI: 10.21178/2079-6080.2017.1.49 (in Russian).</li>
+     <li>Potravnaya E. V. How does the industrial development of the Arctic contribute to saving people and improving the quality of life of the peoples of the North? Uroven'zhizni naseleniya regionov Rossii, 2022, vol. 18, no. 4, pp. 555—563. DOI: 10.19181/lsprr.2022.18.4.11 (in Russian).</li>
+     <li>Stordal S., Gudbrand L., Tromborg E. Impacts of Infectious Disease Outbreaks on Firm Performance and Risk: The Forest Industries during the COVID-19 Pandemic, Journal of Risk and Financial Management, 2021, no. 14 (7), pp. 1—13. DOI: 10.3390/ jrfm14070318.</li>
+     <li>Passport of the national program «Digital Economy of the Russian Federation, approved by the Presidium of the Council under the President of the Russian Federation for Strategic Development and National Projects 04.06.2019, no. 7, 2019, available at: http://static.government.ru/media/files/urKHm0gTPPnzJlaK-w3M5cNLo6gczMkPF.pdf (in Russian).</li>
+     <li>Shvarts E. A., Shmatkov N. M., Karpachevsky M. L., Baibar A. S. Challenges and problems of forestry reform in Russia, Izvestiya Sankt-Peterburgskoj lesotekhnicheskoj akademii, 2022, no. 241, pp. 157—172. DOI: 10.21266/2079-4304.2022.241.157-172 (in Russian).</li>
+     <li>Shabaev A. I., Sokolov A. P., Urban A. R., Pyatin D. S. Optimal Planning of Wood Harvesting and Timber Supply in Russian Conditions, Forests, 2020, vol. 11, no. 6, article 662. DOI: 10.3390/ f11060662.</li>
  - doi: 14.431-441
    udk: "004.051:681.5:622.324"
    item_authors: "Valeev A. F."
    item_name: "Evaluation оf the Automated System of Scientific Research on the Survivability of Gas Production Facilities Effectiveness"
    item_authors_address: |
-     <b>  A. F. Valeev</b>  , Ph.D., Head of Geological and Hydrodynamic Simulation Department, vafw@yandex.ru, Gazprom Dobycha Orenburg, Orenburg, 460018, Russian Federation
+     <b>A. F. Valeev</b>, Ph.D., Head of Geological and Hydrodynamic Simulation Department, vafw@yandex.ru,
+     Gazprom Dobycha Orenburg, Orenburg, 460018, Russian Federation
    item_corr_author: "Artem F. Valeev, Head of Geological and Hydrodynamic Simulation Department, Gazprom Dobycha Orenburg, Orenburg, 460018, Russian Federation, E-mail: vafw@yandex.ru"
    item_rec_on: June 15, 2023
    item_acc_on: July 17, 2023
@@ -48,43 +52,42 @@ content:
    item_pages: 431–441
    item_citation: "Valeev A. F. Evaluation оf the Automated System of Scientific Research on the Survivability of Gas Production Facilities Effectiveness, Programmnaya Ingeneria, 2023, vol. 14, no. 9, pp. 431—441. DOI: 10.17587/prin.14.431-441 (in Russian)."
    item_references: |
-     <ul>
-     <li>  Valeev A. F. Automated system of scientific research to increase the survivability of the gas production system in conditions of well flooding, XVAll-Russian Scientific and Technical conference «Actual problems of the development of the oil and gas complex», Moscow, 2022, pp. 257—266, available at: https://neftegaz.gubkin.ru/site/assets/files/4498/15akt_sbornik_trudov.pdf (date of access 16.07.2023) (in Russian). </li>
-     <li>  Andreev A. F., Zubareva V. D., Sarkisov A. S. Ocenka effektivnosti i riskov innovacionnyh proektov neftegazovoj otrasli: ucheb-noe posobie dlya studentov vysshih uchebnyh zavedenij: textbook for students of higher educational institutions, Moscow, MAKS Press, 2007, 238 p. (in Russian). </li>
-     <li>  Anikeychik N. D., Kinzhagulov I. Yu., Fedorov A. V. Planirovanie i upravlenie NIR i OKR: studies. stipend. St. Petersburg, ITMO University, 2016, 192 p. (in Russian). </li>
-     <li>  Fomichev N. I. Avtomatizirovannye sistemy nauchnyh issledo-vanij: teaching aid. Yaroslavl, 2001, 112 p. (in Russian). </li>
-     <li>  Kuz'min E. V. Effektivnost' informacionnyh tekhnologij. Konspekt lekcij. Samara: Izd-vo PGUTI, 2013, 131 p. (in Russian). </li>
-     <li>  Bizyanov E. E., Motchenko L. A. Effects of innovations in the information infrastructure of a modern economic object, Ekonomicheskij vestnik DonGTI, 2022, no. 12, pp. 50—57 (in Russian). </li>
-     <li>  Volik B. G., Ryabinin I. A. Efficiency, reliability and survivability of control systems, Avtomatika i telemekhanika, 1984, no. 12, pp. 151—160 (in Russian). </li>
-     <li>  Granovsky Yu. V. On the evaluation of the effectiveness of scientific research, Naukovedcheskie issledovaniya, sb. nauch. trudov. Moscow, Institut nauchnoj informacii po obshhestvennym naukam RAN, 2008, pp. 58—71 (in Russian). </li>
-     <li>  Ermakova Zh. A., Pergunova O. V. Ekonomicheskaya effektivnost' informacionno -kommunikacionnyh tekhnologij na promyshlennyh predpriyati-yah: monograph. Yekaterinburg, Institute of Economics of the Ural Branch of the Russian Academy of Sciences, 2017, 202 p. (in Russian). </li>
-     <li>  Vasilyeva E. V., Danilova O. M., Lobanova N. M. Ocenka effektivnosti informacionnyh tekhnologij/informacionnyh sistem: text­book. manual. Moscow, GUU, 2006, 164 p. (in Russian). </li>
-     <li>  Seredenko E. S. Ocenka ekonomicheskoj effektivnosti analiticheskih informacionnyh system. Dis. ... kand. ekon. nauk. Moscow, 2014, 166 p. (in Russian).
-     <li>  Skripkin K. G. Ekonomicheskaya effektivnost' informacionnyh sistem v Rossii: monograph. Moscow, MAX Press, 2014, 156 p. (in Russian). </li>
-     <li>  Skripkin K. G. Ekonomika informacionnyh produktov i uslug: textbook. Moscow, Faculty of Economics of Lomonosov Moscow State University, 2019, 192 p. (in Russian). </li>
-     <li>  Metodicheskie rekomendacii po ocenke effektivnosti investicionnyh proektov (Vtoraya redakciya, ispravlennaya i dopolnennaya) (utv. Minekonomiki RF, Minfinom RF i Gosstroem RF ot 21.06.1999, № VK 477). URL: https://base.garant.ru/2320803/ (date of access 16.07.2023) (in Russian). </li>
-     <li>  Ish D., Ettinger J., Ferris C. Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis. 2021, available at: https://www.rand.org/content/dam/rand/pubs/research_reports/ RRA400/RRA464-1/RAND_RRA464-1.pdf (date of access 10.03.2023). </li>
-     <li>  Yao Y. Ch. Research on effectiveness evaluation method and application of quality management system of manufacturing enter­prise based on interval-valued hesitation fuzzy set. 2017, available at: https://www.extrica.com/article/18937 (date of access 10.03.2023). </li>
-     <li>  GOST 24.702—85 Mezhgosudarstvennyj standart. Edinaya sistema standartov avtomatizirovannyh sistem upravleniya. Effektivnost' avtomatizirovannyh sistem upravleniya. Osnovnye polozheniya, Moscow, Standartinform, 2009 (in Russian). </li>
-     <li>  Nadezhnost' i effektivnost' v tekhnike. Vol. 3. Effektivnost' tekhnicheskih sistem / Eds by V. F. Utkin, Yu.V. Kryuchkova, Mos­cow, Mashinostroenie, 1988, 328 p. (in Russian). </li>
-     <li>  Nekotorye aspekty ocenki effektivnosti i kachestva infor-macionnyh sistem, available at: https://www.cs.vsu.ru/ipmt-conf/ conf/2022/works/5.%20Прикладное%20моделирование%20 M%20E-business/1888.pres.pdf (date of access 10.03.2023) (in Russian). </li>
-     <li>  Zatsarinny A. A., Ionenkov Yu. S. On the issue of evaluating the effectiveness of automated systems using the hierarchy analysis method, Sistemy i sredstva informatiki, 2015, vol. 25, no. 3, pp. 161—178. DOI: 10.14357/08696527150310 (in Russian). </li>
-     <li>  Petukhov G. B., Yakunin V. I. Metodologicheskie osnovy vneshnego proektirovaniya celenapravlennyh processov i celeustrem-lennyh system, Moscow, AST Publ., 2006, 504 p. (in Russian). </li>
-     <li>  Soloviev N. A., Chernoprudova E. N., Tishina N. A., Valeev A. F. Issledovaniya operacij v zadachah programmnoj inzhene-rii, St. Petersburg, Lan, 2019, 164 p. (in Russian). </li>
-     <li>  Yashin V. N. Evaluation of the effectiveness of automated information systems, Vestn. Samar. Gos. Tekhn. Un-ta. Ser. Tekhn. Nauki, 2017, no. 3 (55), pp. 43—49 (in Russian). </li>
-     <li>  Kaplan R. S., Norton D. P. The balanced scorecard: translating strategy into action, Harvard Business Review Press, 1996, 336 p. </li>
-     <li>  Dedkov V. K. Principles of formation of criteria and performance indicators of complex technical systems, Nadezhnost' i kachestvo slozhnyh system, 2013, no. 4, pp. 3—8 (in Russian). </li>
-     <li>  Zatsarinny A. A., Ionenkov Yu. S. Ocenka effektivnosti infor-macionno-telekommunikacionnyh system, Moscow, NIPCC Voskhod-A, 2020, 120 p. (in Russian). </li>
-     <li>  Suvorov A. I. Kompleksnaya avtomatizirovannaya sistema nauchnyh issledovanij slozhnyh morskih ob'ektov: Dis. ... dokt. tekhn. nauk. St. Petersburg, 1999, 174 p. (in Russian). </li>
-     <li>  STO Gazprom 097-2011 Avtomatizaciya. Telemekhanizaci-ya. Avtomatizirovannye sistemy upravleniya tekhnologicheskimi processami dobychi, transportirovki i podzemnogo hraneniya gaza. Osnovnye polozheniya, available at: https://samara-tr.gazprom.ru/d/textpage/8e/142/sto-gazprom-097-2011-avtomatizatsiya.-telemekhanizatsiya.-osnovn.pdf (date of access 10.03.2023) (in Russian). </li>
-     <li>  R Gazprom 045-2008 Metodicheskie rekomendacii po kriteriyam i ocenke upravlencheskogo effekta ot ispol'zovaniya nauchno-issledovatel'skih razrabotok, 2008 https://www.gubkin.ru/general/structure/upravlenie-strategicheskogo-razvitiya/podgotovka-komplekta-otchetnykh-materialov/files/2020-03-30/r_gazprom_045_2008_2019_04_23.pdf (date of access 10.03.2023) (in Russian). </li>
-     </ul>
+     <li>Valeev A. F. Automated system of scientific research to increase the survivability of the gas production system in conditions of well flooding, XVAll-Russian Scientific and Technical conference «Actual problems of the development of the oil and gas complex», Moscow, 2022, pp. 257—266, available at: https://neftegaz.gubkin.ru/site/assets/files/4498/15akt_sbornik_trudov.pdf (date of access 16.07.2023) (in Russian).</li>
+     <li>Andreev A. F., Zubareva V. D., Sarkisov A. S. Ocenka effektivnosti i riskov innovacionnyh proektov neftegazovoj otrasli: ucheb-noe posobie dlya studentov vysshih uchebnyh zavedenij: textbook for students of higher educational institutions, Moscow, MAKS Press, 2007, 238 p. (in Russian).</li>
+     <li>Anikeychik N. D., Kinzhagulov I. Yu., Fedorov A. V. Planirovanie i upravlenie NIR i OKR: studies. stipend. St. Petersburg, ITMO University, 2016, 192 p. (in Russian).</li>
+     <li>Fomichev N. I. Avtomatizirovannye sistemy nauchnyh issledo-vanij: teaching aid. Yaroslavl, 2001, 112 p. (in Russian).</li>
+     <li>Kuz'min E. V. Effektivnost' informacionnyh tekhnologij. Konspekt lekcij. Samara: Izd-vo PGUTI, 2013, 131 p. (in Russian).</li>
+     <li>Bizyanov E. E., Motchenko L. A. Effects of innovations in the information infrastructure of a modern economic object, Ekonomicheskij vestnik DonGTI, 2022, no. 12, pp. 50—57 (in Russian).</li>
+     <li>Volik B. G., Ryabinin I. A. Efficiency, reliability and survivability of control systems, Avtomatika i telemekhanika, 1984, no. 12, pp. 151—160 (in Russian).</li>
+     <li>Granovsky Yu. V. On the evaluation of the effectiveness of scientific research, Naukovedcheskie issledovaniya, sb. nauch. trudov. Moscow, Institut nauchnoj informacii po obshhestvennym naukam RAN, 2008, pp. 58—71 (in Russian).</li>
+     <li>Ermakova Zh. A., Pergunova O. V. Ekonomicheskaya effektivnost' informacionno -kommunikacionnyh tekhnologij na promyshlennyh predpriyati-yah: monograph. Yekaterinburg, Institute of Economics of the Ural Branch of the Russian Academy of Sciences, 2017, 202 p. (in Russian).</li>
+     <li>Vasilyeva E. V., Danilova O. M., Lobanova N. M. Ocenka effektivnosti informacionnyh tekhnologij/informacionnyh sistem: text­book. manual. Moscow, GUU, 2006, 164 p. (in Russian).</li>
+     <li>Seredenko E. S. Ocenka ekonomicheskoj effektivnosti analiticheskih informacionnyh system. Dis. ... kand. ekon. nauk. Moscow, 2014, 166 p. (in Russian).</li>
+     <li>Skripkin K. G. Ekonomicheskaya effektivnost' informacionnyh sistem v Rossii: monograph. Moscow, MAX Press, 2014, 156 p. (in Russian).</li>
+     <li>Skripkin K. G. Ekonomika informacionnyh produktov i uslug: textbook. Moscow, Faculty of Economics of Lomonosov Moscow State University, 2019, 192 p. (in Russian).</li>
+     <li>Metodicheskie rekomendacii po ocenke effektivnosti investicionnyh proektov (Vtoraya redakciya, ispravlennaya i dopolnennaya) (utv. Minekonomiki RF, Minfinom RF i Gosstroem RF ot 21.06.1999, № VK 477). URL: https://base.garant.ru/2320803/ (date of access 16.07.2023) (in Russian).</li>
+     <li>Ish D., Ettinger J., Ferris C. Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis. 2021, available at: https://www.rand.org/content/dam/rand/pubs/research_reports/ RRA400/RRA464-1/RAND_RRA464-1.pdf (date of access 10.03.2023).</li>
+     <li>Yao Y. Ch. Research on effectiveness evaluation method and application of quality management system of manufacturing enter­prise based on interval-valued hesitation fuzzy set. 2017, available at: https://www.extrica.com/article/18937 (date of access 10.03.2023).</li>
+     <li>GOST 24.702—85 Mezhgosudarstvennyj standart. Edinaya sistema standartov avtomatizirovannyh sistem upravleniya. Effektivnost' avtomatizirovannyh sistem upravleniya. Osnovnye polozheniya, Moscow, Standartinform, 2009 (in Russian).</li>
+     <li>Nadezhnost' i effektivnost' v tekhnike. Vol. 3. Effektivnost' tekhnicheskih sistem / Eds by V. F. Utkin, Yu.V. Kryuchkova, Mos­cow, Mashinostroenie, 1988, 328 p. (in Russian).</li>
+     <li>Nekotorye aspekty ocenki effektivnosti i kachestva infor-macionnyh sistem, available at: https://www.cs.vsu.ru/ipmt-conf/conf/2022/works/5.%20Прикладное%20моделирование%20и%20E-business/1888.pres.pdf (date of access 10.03.2023) (in Russian).</li>
+     <li>Zatsarinny A. A., Ionenkov Yu. S. On the issue of evaluating the effectiveness of automated systems using the hierarchy analysis method, Sistemy i sredstva informatiki, 2015, vol. 25, no. 3, pp. 161—178. DOI: 10.14357/08696527150310 (in Russian).</li>
+     <li>Petukhov G. B., Yakunin V. I. Metodologicheskie osnovy vneshnego proektirovaniya celenapravlennyh processov i celeustremlennyh system, Moscow, AST Publ., 2006, 504 p. (in Russian).</li>
+     <li>Soloviev N. A., Chernoprudova E. N., Tishina N. A., Valeev A. F. Issledovaniya operacij v zadachah programmnoj inzhenerii, St. Petersburg, Lan, 2019, 164 p. (in Russian).</li>
+     <li>Yashin V. N. Evaluation of the effectiveness of automated information systems, Vestn. Samar. Gos. Tekhn. Un-ta. Ser. Tekhn. Nauki, 2017, no. 3 (55), pp. 43—49 (in Russian).</li>
+     <li>Kaplan R. S., Norton D. P. The balanced scorecard: translating strategy into action, Harvard Business Review Press, 1996, 336 p.</li>
+     <li>Dedkov V. K. Principles of formation of criteria and performance indicators of complex technical systems, Nadezhnost' i kachestvo slozhnyh system, 2013, no. 4, pp. 3—8 (in Russian).</li>
+     <li>Zatsarinny A. A., Ionenkov Yu. S. Ocenka effektivnosti informacionno-telekommunikacionnyh system, Moscow, NIPCC Voskhod-A, 2020, 120 p. (in Russian).</li>
+     <li>Suvorov A. I. Kompleksnaya avtomatizirovannaya sistema nauchnyh issledovanij slozhnyh morskih ob'ektov: Dis. ... dokt. tekhn. nauk. St. Petersburg, 1999, 174 p. (in Russian).</li>
+     <li>STO Gazprom 097-2011 Avtomatizaciya. Telemekhanizaciya. Avtomatizirovannye sistemy upravleniya tekhnologicheskimi processami dobychi, transportirovki i podzemnogo hraneniya gaza. Osnovnye polozheniya, available at: https://samara-tr.gazprom.ru/d/textpage/8e/142/sto-gazprom-097-2011-avtomatizatsiya.-telemekhanizatsiya.-osnovn.pdf (date of access 10.03.2023) (in Russian).</li>
+     <li>R Gazprom 045-2008 Metodicheskie rekomendacii po kriteriyam i ocenke upravlencheskogo effekta ot ispol'zovaniya nauchno-issledovatel'skih razrabotok, 2008 https://www.gubkin.ru/general/structure/upravlenie-strategicheskogo-razvitiya/podgotovka-komplekta-otchetnykh-materialov/files/2020-03-30/r_gazprom_045_2008_2019_04_23.pdf (date of access 10.03.2023) (in Russian).</li>
  - doi: 14.442-451
    udk: "519.8"
    item_authors: "Rego G. E."
    item_name: "Mathematical Modeling Method for Detecting the Fuzzy Occurrence of Dangerous Events"
    item_authors_address: |
-     <b> G. E. Rego</b>, Postgraduate Student, Scientist, regoGr@yandex.ru, Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+     <b>G. E. Rego</b>, Postgraduate Student, Scientist, regoGr@yandex.ru,
+     Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
    item_corr_author: " Grigoriy E. Rego, Postgraduate Student, Scientist, Institute of Mathematics and Information Technology, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation E-mail: regoGr@yandex.ru"
    item_rec_on: June 16, 2023
    item_acc_on: July 11, 2023
@@ -95,30 +98,30 @@ content:
    item_comment: The research is implemented with financial support by Russian Science Foundation, project no. 22-11-20040 (https://rscf.ru/en/project/22-11-20040/) jointly with Republic of Karelia and funding from Venture Investment Fund of Republic of Karelia (VIF RK).
    item_citation: "Rego G. E. Mathematical Modeling Method for Detecting the Fuzzy Occurrence of Dangerous Events, Programmnaya Ingeneria, 2023, vol. 14, no. 9, pp. 442—451. DOI: 10.17587/prin.14.442-451."
    item_references: |
-     <ul>
-     <li>  Alatise M. B., Hancke G. P. A Review on Challenges of Autonomous Mobile Robot and Sensor Fusion Methods, IEEE Access, 2020, vol. 8, pp. 39830—39846. </li>
-     <li>  Rubio F., Valero F., Llopis-Albert C. A review of mobile robots: Concepts, methods, theoretical frame work, and applications, International Journal of Advanced Robotic Systems, 2019, vol. 16, no. 2, article 1729881419839596. DOI: 10.1177/1729881419839596. </li>
-     <li>  Moshayedi A. J., Shuvam Roy A., Sambo S. K. et al. Review On: The Service Robot Mathematical Model, EAI Endorsed Trans AI Robotics, 2022, vol. 1, no. 1, p. e8. DOI: 10.4108/airo.v1i.20. </li>
-     <li>  Tzafestas S. G. Mobile Robot Control and Navigation: A Global Overview, JIntell Robot Syst, 2018, vol. 91, no. 1, pp. 35—58. DOI: 10.1007/s10846-018-0805-9. </li>
-     <li>  Ning H., Lipeng Q., Ruoxia L., Yuesheng L. Design of a Model Predictive Trajectory Tracking Controller for Mobile Robot Based on the Event-Triggering Mechanism, Mathematical Problems in Engineering, 2021, vol. 2021, article ID 5573467. DOI: 10.1155/2021/5573467. </li>
-     <li>  Liang X., Xiao Y., Zhang J. et al. Stochastic event capturing with a single mobile robot in rectangular perimeters. Telecommun. Syst, 2013, vol. 52, no. 4, pp. 2519—2532. DOI: 10.1007/s11235-011-9570-9. </li>
-     <li>  Antonelli G., Chiaverini S., Fusco G. A Fuzzy-Logic-Based Approach for Mobile Robot Path Tracking, IEEE Transactions on Fuzzy Systems, 2007, vol. 15, no. 2, pp. 211—221. DOI: 10.1109/ TFUZZ.2006.879998. </li>
-     <li>  Ngangbam H. S., Khelchandra T. Mobile Robot Navigation Using Fuzzy Logic in Static Environments, Procedia Computer Science, 2018, vol. 125, pp. 11—17. DOI: 10.1016/j.procs.2017.12.004. </li>
-     <li>  Aguirre E., Gonzalez A. Fuzzy behaviors for mobile robot navigation: Design, coordination and fusion, Int. J. Approx. Reas., 2000, vol. 25, pp. 255—289. </li>
-     <li>  Rego G. E., Korzun D. G., Shchegoleva L. V. Forest Robot Project: A conceptual model for motion analysis of a mobile robotic system for reforestation and thinning, Prospects and opportunities for the use of digital technologies in science, education and management, Collection of materials of the All-Russian scientific and practical con­ference, Astrakhan, 2022, pp. 206—210 (in Russian). </li>
-     <li>  Galaktionov O. N., Rego G. E., Tomskih M. G., Zavyalov S. A., Korzun D. G. On the design of a wheeled chassis and a sensor system for autonomous movement on difficult terrain with overcoming and bypassing obstacles when performing forestry work (article), CRDI RTC, Saint Petersburg, 2022, pp. 35—46 (in Russian). </li>
-     <li>  Galaktionov O., Zavyalov S., Shchegoleva L., Korzun D. Features of Building a Forestry Intelligent Robotic System, Conference of Open Innovations Association, FRUCT, 2021, no. 29, pp. 433—436. </li>
-     <li>  Korzun D. G. About the digital assistant for monitoring human resilience in everyday life, Big data and problems of society. Collection of articles on the results of the International Scientific Con­ference, Kirov, 2022, Tomsk, Publishing house of the Tomsk state University, 2022, pp. 86—89 (in Russian). </li>
-     <li>  Bazhenov N., Korzun D. Event-Driven Video Services for Monitoring in Edge-Centric Internet of Things Environments. 25th Conference of Open Innovations Association (FRUCT), Helsinki, Finland, 2019, pp. 47—56, DOI: 10.23919/FRUCT48121.2019.8981505. </li>
-     <li>  Anh T. N. B., Tan S.-L. Real-Time Operating Systems for Small Microcontrollers. IEEE Micro, 2009, vol. 29, no. 5, pp. 30— 45. DOI: 10.1109/MM.2009.86. </li>
-     <li>  Rego G. E., Bazhenov N. A., Rybin E. I. Substantiation of equipment for a forest robot in relation to the scientific and produc­tion tasks to be solved, Robotics and artificial intelligence: materials of the XIV All-Russian scientific and technical conference with international participation, Zheleznogorsk, 26.11.2022, Krasnoyarsk, 2022, pp. 49—57 (in Russian).</li>
-     </ul>
+     <li>Alatise M. B., Hancke G. P. A Review on Challenges of Autonomous Mobile Robot and Sensor Fusion Methods, IEEE Access, 2020, vol. 8, pp. 39830—39846.</li>
+     <li>Rubio F., Valero F., Llopis-Albert C. A review of mobile robots: Concepts, methods, theoretical frame work, and applications, International Journal of Advanced Robotic Systems, 2019, vol. 16, no. 2, article 1729881419839596. DOI: 10.1177/1729881419839596.</li>
+     <li>Moshayedi A. J., Shuvam Roy A., Sambo S. K. et al. Review On: The Service Robot Mathematical Model, EAI Endorsed Trans AI Robotics, 2022, vol. 1, no. 1, p. e8. DOI: 10.4108/airo.v1i.20.</li>
+     <li>Tzafestas S. G. Mobile Robot Control and Navigation: A Global Overview, JIntell Robot Syst, 2018, vol. 91, no. 1, pp. 35—58. DOI: 10.1007/s10846-018-0805-9.</li>
+     <li>Ning H., Lipeng Q., Ruoxia L., Yuesheng L. Design of a Model Predictive Trajectory Tracking Controller for Mobile Robot Based on the Event-Triggering Mechanism, Mathematical Problems in Engineering, 2021, vol. 2021, article ID 5573467. DOI: 10.1155/2021/5573467.</li>
+     <li>Liang X., Xiao Y., Zhang J. et al. Stochastic event capturing with a single mobile robot in rectangular perimeters. Telecommun. Syst, 2013, vol. 52, no. 4, pp. 2519—2532. DOI: 10.1007/s11235-011-9570-9.</li>
+     <li>Antonelli G., Chiaverini S., Fusco G. A Fuzzy-Logic-Based Approach for Mobile Robot Path Tracking, IEEE Transactions on Fuzzy Systems, 2007, vol. 15, no. 2, pp. 211—221. DOI: 10.1109/TFUZZ.2006.879998.</li>
+     <li>Ngangbam H. S., Khelchandra T. Mobile Robot Navigation Using Fuzzy Logic in Static Environments, Procedia Computer Science, 2018, vol. 125, pp. 11—17. DOI: 10.1016/j.procs.2017.12.004.</li>
+     <li>Aguirre E., Gonzalez A. Fuzzy behaviors for mobile robot navigation: Design, coordination and fusion, Int. J. Approx. Reas., 2000, vol. 25, pp. 255—289.</li>
+     <li>Rego G. E., Korzun D. G., Shchegoleva L. V. Forest Robot Project: A conceptual model for motion analysis of a mobile robotic system for reforestation and thinning, Prospects and opportunities for the use of digital technologies in science, education and management, Collection of materials of the All-Russian scientific and practical con­ference, Astrakhan, 2022, pp. 206—210 (in Russian).</li>
+     <li>Galaktionov O. N., Rego G. E., Tomskih M. G., Zavyalov S. A., Korzun D. G. On the design of a wheeled chassis and a sensor system for autonomous movement on difficult terrain with overcoming and bypassing obstacles when performing forestry work (article), CRDI RTC, Saint Petersburg, 2022, pp. 35—46 (in Russian).</li>
+     <li>Galaktionov O., Zavyalov S., Shchegoleva L., Korzun D. Features of Building a Forestry Intelligent Robotic System, Conference of Open Innovations Association, FRUCT, 2021, no. 29, pp. 433—436.</li>
+     <li>Korzun D. G. About the digital assistant for monitoring human resilience in everyday life, Big data and problems of society. Collection of articles on the results of the International Scientific Con­ference, Kirov, 2022, Tomsk, Publishing house of the Tomsk state University, 2022, pp. 86—89 (in Russian).</li>
+     <li>Bazhenov N., Korzun D. Event-Driven Video Services for Monitoring in Edge-Centric Internet of Things Environments. 25th Conference of Open Innovations Association (FRUCT), Helsinki, Finland, 2019, pp. 47—56, DOI: 10.23919/FRUCT48121.2019.8981505.</li>
+     <li>Anh T. N. B., Tan S.-L. Real-Time Operating Systems for Small Microcontrollers. IEEE Micro, 2009, vol. 29, no. 5, pp. 30— 45. DOI: 10.1109/MM.2009.86.</li>
+     <li>Rego G. E., Bazhenov N. A., Rybin E. I. Substantiation of equipment for a forest robot in relation to the scientific and produc­tion tasks to be solved, Robotics and artificial intelligence: materials of the XIV All-Russian scientific and technical conference with international participation, Zheleznogorsk, 26.11.2022, Krasnoyarsk, 2022, pp. 49—57 (in Russian).</li>
  - doi: 14.452-459
    udk: "004.42"
    item_authors: "Stebenkov A. M., Sunagatullina A. I."
    item_name: "Expert System for Diagnosing Post-Traumatic Stress Disorder"
    item_authors_address: |
-     <b> A. M. Stebenkov</b>, Associate Professor, stebenkov@inbox.ru, <b> A. I. Sunagatullina</b>, Student, adelinasun@list.ru, Volgograd State Medical University, Volgograd, 400131, Russian Federation
+     <b>A. M. Stebenkov</b>, Associate Professor, stebenkov@inbox.ru,
+     <b>A. I. Sunagatullina</b>, Student, adelinasun@list.ru,
+     Volgograd State Medical University, Volgograd, 400131, Russian Federation
    item_corr_author: "Adelina I. Sunagatullina, Student, Volgograd, 400131, Russian Federation E-mail: adelinasun@list.ru"
    item_rec_on:  June 13, 2023
    item_acc_on:  July 04, 2023
@@ -128,20 +131,24 @@ content:
    item_pages: 452–459
    item_citation: "Stebenkov A. M., Sunagatullina A. I. Expert System for Diagnosing Post-Traumatic Stress Disorder, Programmnaya Ingeneria, 2023, vol. 14, no. 9, pp. 452—459. DOI: 10.17587/prin.14.452-459. (in Russian)."
    item_references: |
-     <ul>
-     <li> Nazarov D. V., Blinnikova V. V. The incidence of posttraumatic stress disorder in patients who have recovered from severe coronavirus, materials of Interregional scientific-practical conf. "Young scientists for healthcare", Saratov, April 26—29, 2022, available at: https://medconfer.com/node/19720 (in Russian) (date of access 12. 06.2023). </li>
-     <li> Post-traumatic stress disorder / ed. V. A. Soldatkin; GBOU VPO RostGMU of the Ministry of Health of Russia. Rostov n/D: RostGMU Publishing House, 2015, 624 p. (in Russian). </li>
-     <li> Boncalo T. I. Post-traumatic stress disorder: digest. Electron. text data. Moscow, GBU "NIIOZMM DZM", 2023, available at: https://niioz.ru/moskovskaya-meditsina/izdaniya-nii/daydzhest-meditsinskiy-turizm-i-eksport-meditsinskikh-uslug/ (in Russian) (date of access 12.06.2023). </li>
-     <li> Sidorov P. I., Mosyagin I. G., Marunyak S. V. Psychology of catastrophes: a textbook for students of higher educational institutions studying in the direction and specialty "Psychology" / ed. P. I. Sidorov. Moscow, Aspect Press, 2008. 414 p. (in Russian). </li>
-     <li> ICD-10 — International Classification of Diseases of the 10th revision, available at: https://mkb-10.com/index.php?pid=4257 (date of access 12.06.2023). </li>
-     <li> Psylab.info — encyclopedias of psychodiagnostics, available at: https://psylab.info/Symptomatic_questionnaire/Form (in Russian). (date of access 12.06.2023). </li>
-     </ul>
+     <li>Nazarov D. V., Blinnikova V. V. The incidence of posttraumatic stress disorder in patients who have recovered from severe coronavirus, materials of Interregional scientific-practical conf. "Young scientists for healthcare", Saratov, April 26—29, 2022, available at: https://medconfer.com/node/19720 (in Russian) (date of access 12. 06.2023).</li>
+     <li>Post-traumatic stress disorder / ed. V. A. Soldatkin; GBOU VPO RostGMU of the Ministry of Health of Russia. Rostov n/D: RostGMU Publishing House, 2015, 624 p. (in Russian).</li>
+     <li>Boncalo T. I. Post-traumatic stress disorder: digest. Electron. text data. Moscow, GBU "NIIOZMM DZM", 2023, available at: https://niioz.ru/moskovskaya-meditsina/izdaniya-nii/daydzhest-meditsinskiy-turizm-i-eksport-meditsinskikh-uslug/ (in Russian) (date of access 12.06.2023).</li>
+     <li>Sidorov P. I., Mosyagin I. G., Marunyak S. V. Psychology of catastrophes: a textbook for students of higher educational institutions studying in the direction and specialty "Psychology" / ed. P. I. Sidorov. Moscow, Aspect Press, 2008. 414 p. (in Russian).</li>
+     <li>ICD-10 — International Classification of Diseases of the 10th revision, available at: https://mkb-10.com/index.php?pid=4257 (date of access 12.06.2023).</li>
+     <li>Psylab.info — encyclopedias of psychodiagnostics, available at: https://psylab.info/Symptomatic_questionnaire/Form (in Russian). (date of access 12.06.2023).</li>
  - doi: 14.460-468
    udk: "004.5"
    item_authors: "Turovsky Ya. A., Alekseev V. Yu., Borzunov S. V."
    item_name: "Information System for Evaluation of Operator's Preparation for Control Conditions of Ergacy System without Feedback"
    item_authors_address: |
-     <b> Ya. A. Turovsky</b>, Principal Researcher, Yaroslav_turovsk@mail.ru, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation; Voronezh State University, Voronezh, 394018, Russian Federation, <b> V. Yu. Alekseev</b>, Postgraduate Student, quindecim413@mail.ru, <b>  S. V. Borzunov</b>, Associate Professor, sborzunov@gmail.com, Voronezh State University, Voronezh, 394018, Russian Federation
+     <b>Ya. A. Turovsky</b><sup>1,2</sup>, Principal Researcher, Yaroslav_turovsk@mail.ru,
+     <b>V. Yu. Alekseev</b><sup>2</sup>, Postgraduate Student, quindecim413@mail.ru,
+     <b>S. V. Borzunov</b><sup>1,2</sup>, Associate Professor, sborzunov@gmail.com,
+     <br>
+     <sup>1</sup> V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation
+     <br>
+     <sup>2</sup> Voronezh State University, Voronezh, 394018, Russian Federation
    item_corr_author: " Yaroslav A. Turovsky, Principal Researcher, V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, 117997, Russian Federation; Head of Lab, Voronezh State University, Voronezh, 394018, Russian Federation E-mail: Yaroslav_turovsk@mail.ru"
    item_rec_on:   July 07, 2023
    item_acc_on: July 26, 2023
@@ -153,19 +160,16 @@ content:
    item_comment: The reported study was funded by RSF according to the research project no. 23-19-00664, https://rscf.ru/project/23-19-00664/
    item_citation: "Turovsky Ya. A., Alekseev V. Yu., Borzunov S. V. Information System for Evaluation of Operator's Preparation for Control Conditions of Ergacy System without Feedback, Programmnaya Ingeneria, 2023, vol. 14, no. 9, pp. 460—468. DOI: 10.17587/prin.14.460-468. (in Russian)."
    item_references: |
-     <ul>
-     <li> Hoffman J. E. Visual attention and eye movements, Atten­tion, Hove, UK, Psychology Press, 1998, pp. 119—154. </li>
-     <li> Tobii Pro Glasses 3, available at: https://www.tobiipro.com/ product-listing/tobii-pro-glasses-3/ (date of access 15.06.2023). </li>
-     <li> Wolpaw J. R., Birbaumer N., McFarland D. J. et al. Brain-computer interfaces for communication and control, Clin Neuro-physiol, 2002, vol. 113, no. 6. pp. 767—791. DOI: 10.1016/s1388-2457(02)00057-3. </li>
-     <li> Chernikova L. A. The study of the mechanisms of formation of new motor skills in the norm and in the process of rehabilitation of patients with lesions of the central motor structures. Research report: grant No. 04-04-48378. Russian Foundation for Basic Re­search. 2004 (in Russian). </li>
-     <li> Trembach A. B., Kovalenko Yu. N. Dynamics of the bio-electrical activity of the brain with an increase in the stability of the orthograde posture in humans through visual feedback, Izvestiya TSURE, 2000, no. 4 (18), pp. 118—120 (in Russian). </li>
-     <li> Dubovsky V. A., Savchenko V. V., Shcherbina N. V., Kuzmenko A. F. Formation of a person's skill of emergency response to external stimuli with hand and body movements, In the collection: Monitoring of man-made and natural objects. Materials of the international scientific and technical conference, 2017, pp. 106 112 (in Russian). </li>
-     <li> Khetchikov M. D. Actual problems of military ergonomics and possible ways to solve them in modern conditions, Vestnik Akademii voennyh nauk, 2021, no. 2 (75), pp. 174—181 (in Russian). </li>
-     <li> Sergeev S. F. Ergonomics of complex systems: types of scientific rationality and enactivism, Ergodesign, 2019, no. 4 (6), pp. 156—161. DOI: 10.30987/2619-1512-2019-2019-4-156-161 (in Russian). </li>
-     <li> Psychology of work, engineering psychology and ergonomics / Eds by E. A. Klimov, O. G. Noskova, G. N. Solntseva. 2nd ed., Moscow, Yurayt, 2023, 661 p. (in Russian). </li>
-     <li> Blagini A. A., Sinel'nikov S. N., Natural'nikov I. O. et al. Evaluation of the features of the distribution of attention of operators using the method of stationary eye-tracking, Vestnik Psihofiziologii, 2019, no. 3, pp. 89—91 (in Russian). </li>
-     <li> Turovsky Ya. A., Alekseev V. Yu. Comparison of Tracking Approaches Distribution of Attention to Operators with Use of Oculographic Interfaces, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 137—145. DOI: 10.17587/prin.14.137-145 (in Russian). </li>
-     <li> Alekseev V. Yu., Turovsky Ya. A. Control system for the operator's attention area, Energy saving and efficiency in technical systems: Proceedings of the IX All-Russian scientific and technical conference with international participation for students, young scientists and specialists, Tambov, 19 October 2022, Tambov, Publishing Center of FGBOU VO "Tambov State Technical University", 2022, pp. 118—119 (in Russian). </li>
-     <li> Turovsky Ya. A., Boronnikov A. I. Influence of feedback on the characteristics of mastering commands generated in tasks of myographic interfaces, Tehnologii zhivyh system, 2020, vol. 17, no. 2, pp. 39—45 (in Russian).</li>
-     </ul>
----
+     <li>Hoffman J. E. Visual attention and eye movements, Atten­tion, Hove, UK, Psychology Press, 1998, pp. 119—154.</li>
+     <li>Tobii Pro Glasses 3, available at: https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/ (date of access 15.06.2023).</li>
+     <li>Wolpaw J. R., Birbaumer N., McFarland D. J. et al. Brain-computer interfaces for communication and control, Clin Neuro-physiol, 2002, vol. 113, no. 6. pp. 767—791. DOI: 10.1016/s1388-2457(02)00057-3.</li>
+     <li>Chernikova L. A. The study of the mechanisms of formation of new motor skills in the norm and in the process of rehabilitation of patients with lesions of the central motor structures. Research report: grant No. 04-04-48378. Russian Foundation for Basic Re­search. 2004 (in Russian).</li>
+     <li>Trembach A. B., Kovalenko Yu. N. Dynamics of the bio-electrical activity of the brain with an increase in the stability of the orthograde posture in humans through visual feedback, Izvestiya TSURE, 2000, no. 4 (18), pp. 118—120 (in Russian).</li>
+     <li>Dubovsky V. A., Savchenko V. V., Shcherbina N. V., Kuzmenko A. F. Formation of a person's skill of emergency response to external stimuli with hand and body movements, In the collection: Monitoring of man-made and natural objects. Materials of the international scientific and technical conference, 2017, pp. 106 112 (in Russian).</li>
+     <li>Khetchikov M. D. Actual problems of military ergonomics and possible ways to solve them in modern conditions, Vestnik Akademii voennyh nauk, 2021, no. 2 (75), pp. 174—181 (in Russian).</li>
+     <li>Sergeev S. F. Ergonomics of complex systems: types of scientific rationality and enactivism, Ergodesign, 2019, no. 4 (6), pp. 156—161. DOI: 10.30987/2619-1512-2019-2019-4-156-161 (in Russian).</li>
+     <li>Psychology of work, engineering psychology and ergonomics / Eds by E. A. Klimov, O. G. Noskova, G. N. Solntseva. 2nd ed., Moscow, Yurayt, 2023, 661 p. (in Russian).</li>
+     <li>Blagini A. A., Sinel'nikov S. N., Natural'nikov I. O. et al. Evaluation of the features of the distribution of attention of operators using the method of stationary eye-tracking, Vestnik Psihofiziologii, 2019, no. 3, pp. 89—91 (in Russian).</li>
+     <li>Turovsky Ya. A., Alekseev V. Yu. Comparison of Tracking Approaches Distribution of Attention to Operators with Use of Oculographic Interfaces, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 137—145. DOI: 10.17587/prin.14.137-145 (in Russian).</li>
+     <li>Alekseev V. Yu., Turovsky Ya. A. Control system for the operator's attention area, Energy saving and efficiency in technical systems: Proceedings of the IX All-Russian scientific and technical conference with international participation for students, young scientists and specialists, Tambov, 19 October 2022, Tambov, Publishing Center of FGBOU VO "Tambov State Technical University", 2022, pp. 118—119 (in Russian).</li>
+     <li>Turovsky Ya. A., Boronnikov A. I. Influence of feedback on the characteristics of mastering commands generated in tasks of myographic interfaces, Tehnologii zhivyh system, 2020, vol. 17, no. 2, pp. 39—45 (in Russian).</li>

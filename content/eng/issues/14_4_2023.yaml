@@ -6,7 +6,7 @@ content:
    item_authors: "Asratian R. E."
    item_name: "Deterministic Model of Information Queries Batch Processing in a Multithreaded Server"
    item_authors_address: |
-     <b> R. E. Asratian</b>, Leading Researcher, rubezas@yandex.ru,
+     <b>R. E. Asratian</b>, Leading Researcher, rubezas@yandex.ru,
      V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation,
    item_corr_author: "Ruben E. Asratian, Leading Researcher, V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, Moscow, 117997, Russian Federation, E-mail: rubezas@yandex.ru"
    item_rec_on: January 16, 2023
@@ -17,27 +17,29 @@ content:
    item_pages: 155–164
    item_citation: 'Asratian R. E. Deterministic Model of Information Queries Batch Processing in a Multithreaded Server, Programmnaya ingeneria, 2023, vol. 14, no. 4, pp. 155—164. DOI: 10.17587/prin.14.155-164. (in Russian).'
    item_references: |
-     <li>  Muter I. Exact algorithms to minimize makespan on single and parallel batch processing machines, European Journal of Operational Research, 2020, vol. 285, no. 2, pp. 470—483. DOI:10.1016/j. ejor.2020.01.065. </li>
-     <li>  Ding S., Attenberg J., Baeza-Yates R., Suel T. Batch query processing for web search engines, Proceedings of the fourth ACM international conference on Web search and data mining, NY, ACM, 2011, pp. 137—146. DOI: 10.1145/1935826.1935858. </li>
-     <li>  Tannenbaum A., Bos H. Modern Operating Systems, N. J., Pearson Education, 2015, 1136 p. </li>
-     <li>  Stevens W., Rago S. Advanced programming in the UNIX environment, Addison-Wesley Professional, 2013, 1032 p. </li>
-     <li>  Volosatova T. M., Kiselev I. A., Knyazeva S. V. Multi­threaded processing in POSIX standard, Eastern European Scientific Journal, 2021, no. 12-3, pp. 37—39. DOI: 10.31618/ESSA.2782-1994.2021.3.76.214 (in Russian). </li>
-     <li>  Larina T. B., Filipchenko A. S. Experiments with multi­threaded processing in RPA Robin, Information Innovative Technologies: International Scientific-Practical Conference, Prague, Moscow, Association of graduates and employees of AFEA named after prof. Zhukovsky, 2022, pp. 245—252. </li>
-     <li>  Tkachenko V. I. Prospects for the development of operating systems, Scientific achievements and innovations: questions of theory and practice: Materials of the XIV All-Russian Scientific and Practical Conference, Rostov-on-Don, September 15, 2022, Rostov-on-Don, Paragraph, 2022, pp. 46—49 (in Russian). </li>
-     <li>  Mamonov A.A., Salpagarov S. I. The distributed computing system as a specific case of queueing system, The 5th International Conference on Stochastic Methods (ICSM-5), Moscow, RUDN Uni­versity, 2020, pp. 102—106. </li>
-     <li>  Sahakyan V., Vardanyan A. The Queue State for Multiproces­sor System with Waiting Time Restriction, 2019 Computer Science and Information Technologies (CSIT): Revised selected papers, Yerevan, IEEE, 2019, pp. 116—119. DOI: 10.1109/CSITechnol.2019.8895093. </li>
-     <li>  Coffman E. G. Computer and job-shop scheduling theory, NY, Wiley, 1976, 299 p. </li>
-     <li>  Chernykh K. A., Servakh V. V. Combinatorial structure of optimal solutions to the problem of a single machine with preemption, 15th International Asian School-Seminar Optimization Problems of Complex Systems, OPCS 2019, Novosibirsk, 2019, pp. 21—26. DOI: 10.1109/OPCS.2019.8880148. </li>
-     <li>  Romanova A. A., Servakh V. V. Complexity of cyclic job shop scheduling problem for identical jobs with no-wait constraints, Journal of Applied and Industrial Mathematics, 2019, vol. 13, no. 4, pp. 706—716. DOI: 10.1134/S1990478919040136. </li>
-     <li>  Feuerstein S. Oracle PL/SQL Programming, O'Reilly, 2014, 1392 p. </li>
-     <li>  Worsley J., Drake J. PostgreSQL for professionals, Saint Petersburg, Piter, 2003, 496 p. (in Russian). </li>
-     <li>  Ferrari L., Pirozzi E. Learn PostgreSQL, Birmingham, Packt, 2020, 650 p. </li>
+     <li>Muter I. Exact algorithms to minimize makespan on single and parallel batch processing machines, European Journal of Operational Research, 2020, vol. 285, no. 2, pp. 470—483. DOI:10.1016/j. ejor.2020.01.065.</li>
+     <li>Ding S., Attenberg J., Baeza-Yates R., Suel T. Batch query processing for web search engines, Proceedings of the fourth ACM international conference on Web search and data mining, NY, ACM, 2011, pp. 137—146. DOI: 10.1145/1935826.1935858.</li>
+     <li>Tannenbaum A., Bos H. Modern Operating Systems, N. J., Pearson Education, 2015, 1136 p.</li>
+     <li>Stevens W., Rago S. Advanced programming in the UNIX environment, Addison-Wesley Professional, 2013, 1032 p.</li>
+     <li>Volosatova T. M., Kiselev I. A., Knyazeva S. V. Multi­threaded processing in POSIX standard, Eastern European Scientific Journal, 2021, no. 12-3, pp. 37—39. DOI: 10.31618/ESSA.2782-1994.2021.3.76.214 (in Russian).</li>
+     <li>Larina T. B., Filipchenko A. S. Experiments with multi­threaded processing in RPA Robin, Information Innovative Technologies: International Scientific-Practical Conference, Prague, Moscow, Association of graduates and employees of AFEA named after prof. Zhukovsky, 2022, pp. 245—252.</li>
+     <li>Tkachenko V. I. Prospects for the development of operating systems, Scientific achievements and innovations: questions of theory and practice: Materials of the XIV All-Russian Scientific and Practical Conference, Rostov-on-Don, September 15, 2022, Rostov-on-Don, Paragraph, 2022, pp. 46—49 (in Russian).</li>
+     <li>Mamonov A.A., Salpagarov S. I. The distributed computing system as a specific case of queueing system, The 5th International Conference on Stochastic Methods (ICSM-5), Moscow, RUDN Uni­versity, 2020, pp. 102—106.</li>
+     <li>Sahakyan V., Vardanyan A. The Queue State for Multiproces­sor System with Waiting Time Restriction, 2019 Computer Science and Information Technologies (CSIT): Revised selected papers, Yerevan, IEEE, 2019, pp. 116—119. DOI: 10.1109/CSITechnol.2019.8895093.</li>
+     <li>Coffman E. G. Computer and job-shop scheduling theory, NY, Wiley, 1976, 299 p.</li>
+     <li>Chernykh K. A., Servakh V. V. Combinatorial structure of optimal solutions to the problem of a single machine with preemption, 15th International Asian School-Seminar Optimization Problems of Complex Systems, OPCS 2019, Novosibirsk, 2019, pp. 21—26. DOI: 10.1109/OPCS.2019.8880148.</li>
+     <li>Romanova A. A., Servakh V. V. Complexity of cyclic job shop scheduling problem for identical jobs with no-wait constraints, Journal of Applied and Industrial Mathematics, 2019, vol. 13, no. 4, pp. 706—716. DOI: 10.1134/S1990478919040136.</li>
+     <li>Feuerstein S. Oracle PL/SQL Programming, O'Reilly, 2014, 1392 p.</li>
+     <li>Worsley J., Drake J. PostgreSQL for professionals, Saint Petersburg, Piter, 2003, 496 p. (in Russian).</li>
+     <li>Ferrari L., Pirozzi E. Learn PostgreSQL, Birmingham, Packt, 2020, 650 p.</li>
  - doi: 14.165-174
    udk: "004.052.4"
    item_authors: "Stepanov D. S., Itsykson V. M."
    item_name: "Finding Compiler Bugs Duplicates by Generating Witness Programs"
    item_authors_address: |
-     <b> D. S. Stepanov</b>, Senior Lecturer, stepanov0995@gmail.com, <b> V. M. Itsykson</b>, PhD, Eng., Professor, itsykson@yandex.ru, Peter the Great St. Petersburg Polytechnic University (SPbPU), Saint Petersburg, 195251, Russian Federation
+     <b>D. S. Stepanov</b>, Senior Lecturer, stepanov0995@gmail.com,
+     <b>V. M. Itsykson</b>, PhD, Eng., Professor, itsykson@yandex.ru,
+     Peter the Great St. Petersburg Polytechnic University (SPbPU), Saint Petersburg, 195251, Russian Federation
    item_corr_author: " Daniil S. Stepanov, Senior Lecturer, Peter the Great St. Petersburg Polytechnic University (SPbPU) Saint Petersburg, 195251, Russian Federation, E-mail: stepanov0995@gmail.com"
    item_rec_on: February 09, 2023
    item_acc_on: February 27, 2023
@@ -49,32 +51,36 @@ content:
    item_pages: 165–174
    item_citation: 'Stepanov D. S., Itsykson V. M. Finding Compiler Bugs Duplicates by Generating Witness Programs, Programmnaya Ingeneria, 2023, vol. 14, no. 4, pp. 165—174. DOI: 10.17587/prin.14.165-174  (in Russian).'
    item_references: |
-     <li> Chen Y., Groce A., Zhang C. et al. Taming compiler fuzzers, Proceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation. New York, NY, USA,ACM, 2013, pp. 197—208. DOI: 10.1145/2491956.2462173. </li>
-     <li>Gonzalez T. F. Clustering to minimize the maximum intercluster distance, Theor Comput Sci., 1985, vol. 38, pp. 293—306. DOI: 10.1016/0304-3975(85)90224-5. </li>
-     <li>Holmes J., Groce A. Causal Distance-Metric-Based Assistance for Debugging after Compiler Fuzzing, 2018 IEEE 29th International Symposium on Software Reliability Engineering (ISSRE), IEEE, 2018, pp. 166—177. DOI: 10.1109/ISSRE.2018.00027. </li>
-     <li>Myers E. W. AnO(ND) difference algorithm and its variations, Algorithmica, 1986. vol. 1, no. 1—4, pp. 251—266. DOI: 10.1007/BF01840446. </li>
-     <li>Wong W. E., Gao R., Lo Y. et al. A Survey on Software Fault Localization, IEEE Transactions on Software Engineering, 2016, vol. 42, no. 8, pp. 707—740. DOI: 10.1109/TSE.2016.2521368. </li>
-     <li>Zakari A., Lee S., Abreu R. et al. Multiple fault localization of software programs: A systematic literature review, Inf Softw Technol., 2020, vol. 124, pp. 106312. DOI: 10.1016/j.infsof.2020.106312. </li>
-     <li>Soremekun E., Kirschner L., Bohme M. et al. Locating faults with program slicing: an empirical analysis, Empir Softw Eng., 2021, vol. 26, no. 3, pp. 51. DOI: 10.1007/s10664-020-09931-7. </li>
-     <li>Chang B.-Y. E., Chlipala A., Necula G. et al. Type-based verification of sssembly language for compiler debugging, Proceedings of the 2005 ACM SIGPLAN international workshop on Types in languages design and implementation. New York, NY, USA, ACM, 2005, pp. 91—102. DOI: 10.1145/1040294.1040303. </li>
-     <li>Hemmert K. S., Tripp J., Hutchings B. et al. Source level debugger for the Sea Cucumber synthesizing compiler, 11th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, FCCM 2003, IEEE Comput. Soc., 2003, pp. 228—237. DOI: 10.1109/FPGA.2003.1227258. </li>
-     <li>Krebs N., Schmitz L. Jaccie: A Java-based compiler—compiler for generating, visualizing and debugging compiler components, Sci Comput Program., 2014, vol. 79, pp. 101—115. DOI: 10.1016/j.scico.2012.03.001. </li>
-     <li>Chen J., Han J., Sun P. et al. Compiler bug isolation via effective witness test program generation, Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, New York, NY, USA, ACM, 2019, pp. 223—234. DOI: 10.1145/3338906.3338957. </li>
-     <li>Sohn J., Yoo S. FLUCCS: using code and change metrics to improve fault localization, Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis, New York, NY, USA,ACM, 2017, pp. 273—283. DOI: 10.1145/3092703.3092717. </li>
-     <li>Abreu R., Zoeteweij P., van Gemund A. J. C. On the Ac­curacy of Spectrum-based Fault Localization, Testing: Academic and Industrial Conference Practice and Research Techniques — MUTA­TION (TAICPART-MUTATION 2007), IEEE, 2007, pp. 89—98. DOI: 10.1109/TAIC.PART.2007.13. </li>
-     <li>JaCoCo — Java Code Coverage Library, available at: https://www.jacoco.org/jacoco/trunk/index.html (date of access 09.02.2023). </li>
-     <li>Clover java and groovy code coverage tool homepage, available at:https://www.atlassian.com/software/clover/overview (date of access 09.02.2023). </li>
-     <li>Cobertura java code coverage utility homepage, available at: http://cobertura.github.io/cobertura/ (date of access 09.02.2023). </li>
-     <li>Stepanov D., Itsykson V. Backend Bug Finder — a plat­form for effective compiler fuzzing, Information and Control Systems, 2022, no. 6, pp. 31—40. DOI: 10.31799/1684-8853-2022-6-31-40. </li>
+     <li>Chen Y., Groce A., Zhang C. et al. Taming compiler fuzzers, Proceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation. New York, NY, USA,ACM, 2013, pp. 197—208. DOI: 10.1145/2491956.2462173.</li>
+     <li>Gonzalez T. F. Clustering to minimize the maximum intercluster distance, Theor Comput Sci., 1985, vol. 38, pp. 293—306. DOI: 10.1016/0304-3975(85)90224-5.</li>
+     <li>Holmes J., Groce A. Causal Distance-Metric-Based Assistance for Debugging after Compiler Fuzzing, 2018 IEEE 29th International Symposium on Software Reliability Engineering (ISSRE), IEEE, 2018, pp. 166—177. DOI: 10.1109/ISSRE.2018.00027.</li>
+     <li>Myers E. W. AnO(ND) difference algorithm and its variations, Algorithmica, 1986. vol. 1, no. 1—4, pp. 251—266. DOI: 10.1007/BF01840446.</li>
+     <li>Wong W. E., Gao R., Lo Y. et al. A Survey on Software Fault Localization, IEEE Transactions on Software Engineering, 2016, vol. 42, no. 8, pp. 707—740. DOI: 10.1109/TSE.2016.2521368.</li>
+     <li>Zakari A., Lee S., Abreu R. et al. Multiple fault localization of software programs: A systematic literature review, Inf Softw Technol., 2020, vol. 124, pp. 106312. DOI: 10.1016/j.infsof.2020.106312.</li>
+     <li>Soremekun E., Kirschner L., Bohme M. et al. Locating faults with program slicing: an empirical analysis, Empir Softw Eng., 2021, vol. 26, no. 3, pp. 51. DOI: 10.1007/s10664-020-09931-7.</li>
+     <li>Chang B.-Y. E., Chlipala A., Necula G. et al. Type-based verification of sssembly language for compiler debugging, Proceedings of the 2005 ACM SIGPLAN international workshop on Types in languages design and implementation. New York, NY, USA, ACM, 2005, pp. 91—102. DOI: 10.1145/1040294.1040303.</li>
+     <li>Hemmert K. S., Tripp J., Hutchings B. et al. Source level debugger for the Sea Cucumber synthesizing compiler, 11th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, FCCM 2003, IEEE Comput. Soc., 2003, pp. 228—237. DOI: 10.1109/FPGA.2003.1227258.</li>
+     <li>Krebs N., Schmitz L. Jaccie: A Java-based compiler—compiler for generating, visualizing and debugging compiler components, Sci Comput Program., 2014, vol. 79, pp. 101—115. DOI: 10.1016/j.scico.2012.03.001.</li>
+     <li>Chen J., Han J., Sun P. et al. Compiler bug isolation via effective witness test program generation, Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, New York, NY, USA, ACM, 2019, pp. 223—234. DOI: 10.1145/3338906.3338957.</li>
+     <li>Sohn J., Yoo S. FLUCCS: using code and change metrics to improve fault localization, Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis, New York, NY, USA,ACM, 2017, pp. 273—283. DOI: 10.1145/3092703.3092717.</li>
+     <li>Abreu R., Zoeteweij P., van Gemund A. J. C. On the Ac­curacy of Spectrum-based Fault Localization, Testing: Academic and Industrial Conference Practice and Research Techniques — MUTA­TION (TAICPART-MUTATION 2007), IEEE, 2007, pp. 89—98. DOI: 10.1109/TAIC.PART.2007.13.</li>
+     <li>JaCoCo — Java Code Coverage Library, available at: https://www.jacoco.org/jacoco/trunk/index.html (date of access 09.02.2023).</li>
+     <li>Clover java and groovy code coverage tool homepage, available at:https://www.atlassian.com/software/clover/overview (date of access 09.02.2023).</li>
+     <li>Cobertura java code coverage utility homepage, available at: http://cobertura.github.io/cobertura/ (date of access 09.02.2023).</li>
+     <li>Stepanov D., Itsykson V. Backend Bug Finder — a plat­form for effective compiler fuzzing, Information and Control Systems, 2022, no. 6, pp. 31—40. DOI: 10.31799/1684-8853-2022-6-31-40.</li>
  - doi: 14.175-186
    udk: "681.518.5+004.052.32"
    item_authors: "Efanov D. V., Pogodina T. S."
    item_name: "Efficiency Analysis of Concurrent Error-Detection Circuits on the Basis of Assessment by Belonging of Calculated Functions to Self-Dual Class and Preliminary Compression of Signals Using Linear Codes"
    item_authors_address: |
-     <b> D. V. Efanov<sup>1,2,3</sup></b>  D. Sc. (Engineering), Associate Professor, Professor, TrES-4b@yandex.ru, <b> T. S. Pogodina<sup>2</sup>, </b> Student, pogodina-ts@mail.ru
-     <br/><sup>1</sup> Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation
-     <br/><sup>2</sup> Russian University of Transport, Moscow, 127994, Russian Federation
-     <br/><sup>3</sup> LLC Research and Design Institute for Transport and Construction Safety, St. Petersburg, 192102, Russian Federation
+     <b>D. V. Efanov</b><sup>1,2,3</sup>, D. Sc. (Engineering), Associate Professor, Professor, TrES-4b@yandex.ru,
+     <b>T. S. Pogodina</b><sup>2</sup>, Student, pogodina-ts@mail.ru
+     <br>
+     <sup>1</sup> Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation
+     <br>
+     <sup>2</sup> Russian University of Transport, Moscow, 127994, Russian Federation
+     <br>
+     <sup>3</sup> LLC Research and Design Institute for Transport and Construction Safety, St. Petersburg, 192102, Russian Federation
    item_corr_author: "Dmitry V. Efanov, D. Sc. (Engineering), Associate Professor, Professor, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation, Russian University of Transport, Moscow, 127994, Russian Federation, LLC Research and Design Institute for Transport and Construction Safety, St. Petersburg, 192102, Russian Federation, E-mail: TrES-4b@yandex.ru"
    item_rec_on: January 20, 2023
    item_acc_on: February 15, 2023
@@ -84,46 +90,49 @@ content:
    item_pages: 175–186
    item_citation: ' Efanov D. V., Pogodina T. S. Efficiency Analysis of Concurrent Error-Detection Circuits on the Basis of Assessment by Belonging of Calculated Functions to Self-Dual Class and Preliminary Compression of Signals Using Linear Codes, Programmnaya Ingeneria, 2023, vol. 14, no. 4, pp. 175—186. DOI: 10.17587/prin.14.175-186 (in Russian) .'
    item_references: |
-     <li>  Fujiwara E. Code Design for Dependable Systems: Theory and Practical Applications, John Wiley & Sons, 2006, 720 p. </li>
-     <li>  Drozd A. V., Kharchenko V. S., Antoshchuk S. G., Drozd Yu. V., Drozd M. A., Sulima Yu. Yu. Working diagnostics of safe information and control systems / Eds. A. V. Drozd and V. S. Kharchenko, Kharkiv, National Aerospace University. N. E. Zhukovsky «KhAI», 2012, 614 p (in Russian). </li>
-     <li>  Tshagharyan G., Harutyunyan G., Shoukourian S., Zo-rian Y. Experimental Study on Hamming and Hsiao Codes in the Context of Embedded Applications, Proceedings of 15th IEEE East-West Design & Test Symposium (EWDTS'2017), Novi Sad, Serbia, September 29 — October 2, 2017, pp. 25—28. DOI: 10.1109/EWDTS.2017.8110065. </li>
-     <li>  Stempkovskii A. L., Tel'pukhov D. V., Zhukova T. D., Demeneva A. I., Nadolenko V. V., Gurov S. I. Synthesis of a Concurrent Error Detection Circuit Based on the Spectral R-Code with the Partitioning of Outputs into Groups, Mikrojelektronika, 2019, vol. 48, no. 4, pp. 240-249, DOI: 10.1134/S0544126919040094 (in Russian).
-     <li>  Yarmolik V. N. Control and Diagnostics of Computer Systems, Minsk, Bestprint, 2019, 387 p. (in Russian). </li>
-     <li>  Bestemyanov P. F. Detection of Malfunctions in Measur­ing Circuits of Railway Automation and Telemechanics Systems to Ensure the Safety of Train Traffic, Jelektrotehnika, 2022, no. 9, pp. 55-60, DOI: 10.53891/00135860_2022_9_55 (in Russian). </li>
-     <li>  Sogomonyan E. S., Slabakov E. V. Self-Checking Devices and Fail-Safe Systems, Moscow, Radio and communication, 1989, 208 p. (in Russian). </li>
-     <li>  Nicolaidis M., Zorian Y. On-Line Testing for VLSI — А Compendium of Approaches, Journal of Electronic Testing: Theory and Applications, 1998, no. 12, pp. 7—20. DOI: 10.1023/A:1008244815697. </li>
-     <li>  Mitra S., McCluskey E. J. Which Concurrent Error Detection Scheme to Choose?, Proceedings of International Test Conference, 2000, USA, Atlantic City, NJ, 03-05 October 2000, pp. 985—994. DOI: 10.1109/TEST.2000.894311. </li>
-     <li>  Piestrak S. J. Design of Self-Testing Checkers for Unidirectional Error Detecting Codes, Wroclaw, Oficyna Wydawnicza Poli-techniki Wroclavskiej, 1995, 111 p. </li>
-     <li>  Goessel M., Ocheretny V., Sogomonyan E., Marienfeld D. New Methods of Concurrent Checking: Edition 1, Dordrecht, Springer Science + Business Media B. V., 2008, 184 p. </li>
-     <li>  Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Hamming Codes in Concurrent Error Detection Systems of Logic Devices. St. Petersburg, Nauka, 2018, 151 p. (in Russian). </li>
-     <li>  Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Sum Codes for Technical Diagnostics Systems. Vol. 1: Classical Berger Codes and Their Modifications, Moscow, Nauka, 2020, 383 p. (in Russian). </li>
-     <li>  Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Sum Codes for Technical Diagnostics Systems. Vol. 2: Weighted Codes with Summation, Moscow, Nauka, 2021, 455 p. (in Russian). </li>
-     <li>  Reynolds D. A., Meize G. Fault Detection Capabilities of Alternating Logic, IEEE Transactions on Computers, 1978, vol. C-27, issue 12, pp. 1093—1098, DOI: 10.1109/TC.1978.1675011. </li>
-     <li>  Yablonsky S. V. Introduction to Discrete Mathematics: Proc. manual for universities / Eds. V. A. Sadovnichev, 4th ed., Moscow, Higher School, 2003, 384 p. (in Russian). </li>
-     <li>  Harris D. M., Harris S. L. Digital Design and Computer Architecture, Morgan Kaufmann, 2012, 569 p. </li>
-     <li>  Goessel M., Moshanin V. I., Sapozhnikov V. V., Sapozhnikov Vl. V. Fault Detection in Self-Test Combination Circuits Using the Properties of Self-Dual Functions, Avtomatika i Telemehanika, 1997, no. 12, pp. 193—200 (in Russian). </li>
-     <li>  Goessel M., Dmitriev A. V., Sapozhnikov V. V., Sapozhnikov Vl. V. A Functional Fault-Detection Self-Test for Combinational Circuits, Avtomatika i Telemehanika, 1999, no. 11, pp. 162—174 (in Russian). </li>
-     <li>  Saposhnikov Vl. V., Dmitriev A., Goessel M., Saposhnikov V. V. Self-Dual Parity Checking — a New Method for on Line Testing, Proceedings of 14th IEEE VLSI Test Symposium, USA, Princeton, 1996, pp. 162—168. </li>
-     <li>  Saposhnikov Vl. V., Saposhnikov V. V., Dmitriev A., Goessel M. Self-Dual Duplication for Error Detection, Proceedings of 7th Asian Test Symposium, Singapore, 1998, pp. 296—300. DOI: 10.1109/ ATS.1998.741628. </li>
-     <li>  Borecky J., Kolilik M., Kubatova H. Parity Driven Reconfigurable Duplex System, Microprocessors and Microsystems, 2017, vol. 52, pp. 251—260. DOI: 10.1016/j.micpro.2017.06.015. </li>
-     <li>  Hamming R. W. Error Detecting and Correcting Codes, Bell System Technical Journal, 1950, vol. 29, no. 2, pp. 147—160. DOI: 10.1002/j.1538-7305.1950.tb00463.x. </li>
-     <li>  Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. Syn­thesis of Self-Checking Combination Devices Based on Allocating Special Groups of Outputs, Avtomatika i Telemehanika, 2018, no. 9, pp. 79—94 (in Russian). </li>
-     <li>  Efanov D. V., Pogodina T. S. Self-Dual Control of Combinational Circuits with Using Hamming Codes, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem (MES), 2022, no. 3, pp. 113—122, DOI: 10.31114/2078-7707-2022-3-113-122 (in Russian). </li>
-     <li>  Efanov D. V., Sapozhnikov V. V., Sapozhnikov Vl. V. Synthesis of Built-In Control Circuits for Combinational Digital Devices by the Method of Self-Dual Complement to the Berger Code, Izvestija vysshih uchebnyh zavedenij. Priborostroenie, 2021, vol. 64, no. 9, pp. 697—708, DOI: 10.17586/0021-3454-2021-64-9-697-708 (in Russian). </li>
-     <li>  Sapozhnikov V. V., Sapozhnikov Vl.V., Goessel M. Self-Dual Discrete Devices, St. Petersburg, Energoatomizdat (St. Petersburg branch), 2001, 331 p. (in Russian). </li>
-     <li>  Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. The Concurrent Error-Detection Systems Organization Based on the Boolean Complement Method with the Preliminary Transforma­tion of Operating Functions into Check Vectors of Berger Codes, Informacionnye tehnologii, vol. 27, no. 6, pp. 306—313, 2021, DOI: 10.17587/it.27.306-313 (in Russian). </li>
-     <li>  Baghdadi A. A. A., Hahanov V. I., Litvinova E. I. Digital System Analysis and Diagnosis Methods (Analytical Review), Avtomatizirovannye sistemy upravlenija ipribory avtomatiki, 2014, no. 166, pp. 59—74 (in Russian). </li>
-     <li>  Efanov D. V., Pogodina T. S. Self-Dual Digital Devices with Calculations Testing by Modified Hamming Code, Proceedings of the 2023 Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), St. Petersburg, Russia, 24—27 January 2023, pp. 72—77. </li>
-     <li>  Efanov D. V., Pogodina T. S. Properties Investigation of Self-Dual Combinational Devices with Calculation Control Based on Hamming Codes, Informatika i Avtomatizatsiya, 2023, vol. 22, no. 2, pp. 349—392. DOI: 10.15622/ia.22.2.5 (in Russian). </li>
-     <li>  Aksjonova G. P. Restoration in Duplicated Units by the Method of Data Inversion, Avtomatika i Telemehanika, 1987, no. 10, pp. 144—153 (in Russian). </li>
-     <li>  Chen Y., Zhang M., Hao J. The Circuit Design of Voltage-Controlled Color Changing Lamp Based on Multisim, 2020 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS), 28—30 July 2020, Shenyang, China, DOI: 10.1109/ ICPICS50287.2020.9202148. </li>
-     <li>  Efanov D., Sapozhnikov V., Sapozhnikov Vl., Osadchy G., Pivovarov D. Self-Dual Complement Method up to Constant-Weight Codes for Arrangement of Combinational Logical Circuits Concurrent Error-Detection Systems, Proceedings of 17th IEEE East-West Design & Test Symposium (EWDTS'2019), Batumi, Georgia, September 13—16, 2019, pp. 136—143. DOI: 10.1109/EWDTS.2019.8884398.</li>
+     <li>Fujiwara E. Code Design for Dependable Systems: Theory and Practical Applications, John Wiley & Sons, 2006, 720 p.</li>
+     <li>Drozd A. V., Kharchenko V. S., Antoshchuk S. G., Drozd Yu. V., Drozd M. A., Sulima Yu. Yu. Working diagnostics of safe information and control systems / Eds. A. V. Drozd and V. S. Kharchenko, Kharkiv, National Aerospace University. N. E. Zhukovsky «KhAI», 2012, 614 p (in Russian).</li>
+     <li>Tshagharyan G., Harutyunyan G., Shoukourian S., Zo-rian Y. Experimental Study on Hamming and Hsiao Codes in the Context of Embedded Applications, Proceedings of 15th IEEE East-West Design & Test Symposium (EWDTS'2017), Novi Sad, Serbia, September 29 — October 2, 2017, pp. 25—28. DOI: 10.1109/EWDTS.2017.8110065.</li>
+     <li>Stempkovskii A. L., Tel'pukhov D. V., Zhukova T. D., Demeneva A. I., Nadolenko V. V., Gurov S. I. Synthesis of a Concurrent Error Detection Circuit Based on the Spectral R-Code with the Partitioning of Outputs into Groups, Mikrojelektronika, 2019, vol. 48, no. 4, pp. 240-249, DOI: 10.1134/S0544126919040094 (in Russian).</li>
+     <li>Yarmolik V. N. Control and Diagnostics of Computer Systems, Minsk, Bestprint, 2019, 387 p. (in Russian).</li>
+     <li>Bestemyanov P. F. Detection of Malfunctions in Measur­ing Circuits of Railway Automation and Telemechanics Systems to Ensure the Safety of Train Traffic, Jelektrotehnika, 2022, no. 9, pp. 55-60, DOI: 10.53891/00135860_2022_9_55 (in Russian).</li>
+     <li>Sogomonyan E. S., Slabakov E. V. Self-Checking Devices and Fail-Safe Systems, Moscow, Radio and communication, 1989, 208 p. (in Russian).</li>
+     <li>Nicolaidis M., Zorian Y. On-Line Testing for VLSI — А Compendium of Approaches, Journal of Electronic Testing: Theory and Applications, 1998, no. 12, pp. 7—20. DOI: 10.1023/A:1008244815697.</li>
+     <li>Mitra S., McCluskey E. J. Which Concurrent Error Detection Scheme to Choose?, Proceedings of International Test Conference, 2000, USA, Atlantic City, NJ, 03-05 October 2000, pp. 985—994. DOI: 10.1109/TEST.2000.894311.</li>
+     <li>Piestrak S. J. Design of Self-Testing Checkers for Unidirectional Error Detecting Codes, Wroclaw, Oficyna Wydawnicza Poli-techniki Wroclavskiej, 1995, 111 p.</li>
+     <li>Goessel M., Ocheretny V., Sogomonyan E., Marienfeld D. New Methods of Concurrent Checking: Edition 1, Dordrecht, Springer Science + Business Media B. V., 2008, 184 p.</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Hamming Codes in Concurrent Error Detection Systems of Logic Devices. St. Petersburg, Nauka, 2018, 151 p. (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Sum Codes for Technical Diagnostics Systems. Vol. 1: Classical Berger Codes and Their Modifications, Moscow, Nauka, 2020, 383 p. (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl. V., Efanov D. V. Sum Codes for Technical Diagnostics Systems. Vol. 2: Weighted Codes with Summation, Moscow, Nauka, 2021, 455 p. (in Russian).</li>
+     <li>Reynolds D. A., Meize G. Fault Detection Capabilities of Alternating Logic, IEEE Transactions on Computers, 1978, vol. C-27, issue 12, pp. 1093—1098, DOI: 10.1109/TC.1978.1675011.</li>
+     <li>Yablonsky S. V. Introduction to Discrete Mathematics: Proc. manual for universities / Eds. V. A. Sadovnichev, 4th ed., Moscow, Higher School, 2003, 384 p. (in Russian).</li>
+     <li>Harris D. M., Harris S. L. Digital Design and Computer Architecture, Morgan Kaufmann, 2012, 569 p.</li>
+     <li>Goessel M., Moshanin V. I., Sapozhnikov V. V., Sapozhnikov Vl. V. Fault Detection in Self-Test Combination Circuits Using the Properties of Self-Dual Functions, Avtomatika i Telemehanika, 1997, no. 12, pp. 193—200 (in Russian).</li>
+     <li>Goessel M., Dmitriev A. V., Sapozhnikov V. V., Sapozhnikov Vl. V. A Functional Fault-Detection Self-Test for Combinational Circuits, Avtomatika i Telemehanika, 1999, no. 11, pp. 162—174 (in Russian).</li>
+     <li>Saposhnikov Vl. V., Dmitriev A., Goessel M., Saposhnikov V. V. Self-Dual Parity Checking — a New Method for on Line Testing, Proceedings of 14th IEEE VLSI Test Symposium, USA, Princeton, 1996, pp. 162—168.</li>
+     <li>Saposhnikov Vl. V., Saposhnikov V. V., Dmitriev A., Goessel M. Self-Dual Duplication for Error Detection, Proceedings of 7th Asian Test Symposium, Singapore, 1998, pp. 296—300. DOI: 10.1109/ATS.1998.741628.</li>
+     <li>Borecky J., Kolilik M., Kubatova H. Parity Driven Reconfigurable Duplex System, Microprocessors and Microsystems, 2017, vol. 52, pp. 251—260. DOI: 10.1016/j.micpro.2017.06.015.</li>
+     <li>Hamming R. W. Error Detecting and Correcting Codes, Bell System Technical Journal, 1950, vol. 29, no. 2, pp. 147—160. DOI: 10.1002/j.1538-7305.1950.tb00463.x.</li>
+     <li>Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. Syn­thesis of Self-Checking Combination Devices Based on Allocating Special Groups of Outputs, Avtomatika i Telemehanika, 2018, no. 9, pp. 79—94 (in Russian).</li>
+     <li>Efanov D. V., Pogodina T. S. Self-Dual Control of Combinational Circuits with Using Hamming Codes, Problemy razrabotki perspektivnyh mikro- i nanoelektronnyh sistem (MES), 2022, no. 3, pp. 113—122, DOI: 10.31114/2078-7707-2022-3-113-122 (in Russian).</li>
+     <li>Efanov D. V., Sapozhnikov V. V., Sapozhnikov Vl. V. Synthesis of Built-In Control Circuits for Combinational Digital Devices by the Method of Self-Dual Complement to the Berger Code, Izvestija vysshih uchebnyh zavedenij. Priborostroenie, 2021, vol. 64, no. 9, pp. 697—708, DOI: 10.17586/0021-3454-2021-64-9-697-708 (in Russian).</li>
+     <li>Sapozhnikov V. V., Sapozhnikov Vl.V., Goessel M. Self-Dual Discrete Devices, St. Petersburg, Energoatomizdat (St. Petersburg branch), 2001, 331 p. (in Russian).</li>
+     <li>Efanov D. V., Saposhnikov V. V., Saposhnikov Vl. V. The Concurrent Error-Detection Systems Organization Based on the Boolean Complement Method with the Preliminary Transforma­tion of Operating Functions into Check Vectors of Berger Codes, Informacionnye tehnologii, vol. 27, no. 6, pp. 306—313, 2021, DOI: 10.17587/it.27.306-313 (in Russian).</li>
+     <li>Baghdadi A. A. A., Hahanov V. I., Litvinova E. I. Digital System Analysis and Diagnosis Methods (Analytical Review), Avtomatizirovannye sistemy upravlenija ipribory avtomatiki, 2014, no. 166, pp. 59—74 (in Russian).</li>
+     <li>Efanov D. V., Pogodina T. S. Self-Dual Digital Devices with Calculations Testing by Modified Hamming Code, Proceedings of the 2023 Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), St. Petersburg, Russia, 24—27 January 2023, pp. 72—77.</li>
+     <li>Efanov D. V., Pogodina T. S. Properties Investigation of Self-Dual Combinational Devices with Calculation Control Based on Hamming Codes, Informatika i Avtomatizatsiya, 2023, vol. 22, no. 2, pp. 349—392. DOI: 10.15622/ia.22.2.5 (in Russian).</li>
+     <li>Aksjonova G. P. Restoration in Duplicated Units by the Method of Data Inversion, Avtomatika i Telemehanika, 1987, no. 10, pp. 144—153 (in Russian).</li>
+     <li>Chen Y., Zhang M., Hao J. The Circuit Design of Voltage-Controlled Color Changing Lamp Based on Multisim, 2020 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS), 28—30 July 2020, Shenyang, China, DOI: 10.1109/ICPICS50287.2020.9202148.</li>
+     <li>Efanov D., Sapozhnikov V., Sapozhnikov Vl., Osadchy G., Pivovarov D. Self-Dual Complement Method up to Constant-Weight Codes for Arrangement of Combinational Logical Circuits Concurrent Error-Detection Systems, Proceedings of 17th IEEE East-West Design & Test Symposium (EWDTS'2019), Batumi, Georgia, September 13—16, 2019, pp. 136—143. DOI: 10.1109/EWDTS.2019.8884398.</li>
  - doi: 14.187-194
    udk: "004.75"
    item_authors: "Zhukov S. I., Zubrilin K. A."
    item_name: "Using Amazon Kinesis Service for Data Transfer from IoT Devices to Cloud Infrastructure"
    item_authors_address: |
-     <b> S. I. Zhukov, </b>  Leading Researcher, serge.zhukov@auriga.com, RCC, Moscow State University, Moscow, 119991, Russian Federation, <b>  K. A. Zubrilin</b>, Software Developer, konstantin.zubrilin@auriga.com, Auriga, Moscow, 117587, Russian Federation
+     <b>S. I. Zhukov</b>, Leading Researcher, serge.zhukov@auriga.com,
+     RCC, Moscow State University, Moscow, 119991, Russian Federation,
+     <b>K. A. Zubrilin</b>, Software Developer, konstantin.zubrilin@auriga.com,
+     Auriga, Moscow, 117587, Russian Federation
    item_corr_author: " Sergey I. Zhukov, Leading Researcher, RCC, Moscow State University, Moscow, 119991, Russian Federation E-mail: serge.zhukov@auriga.com"
    item_rec_on:  January 31, 2023
    item_acc_on:  February 27, 2023
@@ -134,20 +143,20 @@ content:
    item_pages: 187–194
    item_citation:  'Zhukov S. I., Zubrilin K. A. Using Amazon Kinesis Service for Data Transfer from IoT Devices to Cloud Infrastructure, Programmnaya Ingeneria, 2023, vol. 14, no. 4, pp. 187—194. DOI: 10.17587/prin.14.187-194 (in Russian).'
    item_references: |
-     <li> MQTT Version 3.1.1. OASIS Standard, available at: http:// docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html (date of access 31.01.2023). </li>
-     <li>AWS General Reference. Reference Guide, available at: https://docs.aws.amazon.com/general/latest/gr/Welcome.html (date of access 31.01.2023).
-     <li>Amazon Simple Storage Service. User Guide, available at: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome. html (date of access 31.01.2023). </li>
-     <li>Amazon DynamoDB. Developer Guide, available at: https:// docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html (date of access 31.01.2023). </li>
-     <li>The Architecture of Amazon's DynamoDB and Why Its Performance Is So High, available at: https://medium.com/swlh/ architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129 (date of access 31.01.2023). </li>
-     <li>Amazon Kinesis Data Streams. Developer Guide, available at: https://docs.aws.amazon.com/streams/latest/dev/introduction.html (date of access 31.01.2023). </li>
-     <li>Amazon Kinesis Data Streams. API Reference, available at: https://docs.aws.amazon.com/kinesis/latest/APIReference/Welcome.html (date of access 31.01.2023). </li>
-     <li>Beswick J. Using AWS Lambda as a consumer for Amazon Kinesis, available at: https://aws.amazon.com/blogs/compute/using-aws-lambda-as-a-consumer-for-amazon-kinesis/ (date of ac­cess 31.01.2023). </li>
+     <li>MQTT Version 3.1.1. OASIS Standard, available at: http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html (date of access 31.01.2023).</li>
+     <li>AWS General Reference. Reference Guide, available at: https://docs.aws.amazon.com/general/latest/gr/Welcome.html (date of access 31.01.2023).</li>
+     <li>Amazon Simple Storage Service. User Guide, available at: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome. html (date of access 31.01.2023).</li>
+     <li>Amazon DynamoDB. Developer Guide, available at: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html (date of access 31.01.2023).</li>
+     <li>The Architecture of Amazon's DynamoDB and Why Its Performance Is So High, available at: https://medium.com/swlh/ architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129 (date of access 31.01.2023).</li>
+     <li>Amazon Kinesis Data Streams. Developer Guide, available at: https://docs.aws.amazon.com/streams/latest/dev/introduction.html (date of access 31.01.2023).</li>
+     <li>Amazon Kinesis Data Streams. API Reference, available at: https://docs.aws.amazon.com/kinesis/latest/APIReference/Welcome.html (date of access 31.01.2023).</li>
+     <li>Beswick J. Using AWS Lambda as a consumer for Amazon Kinesis, available at: https://aws.amazon.com/blogs/compute/using-aws-lambda-as-a-consumer-for-amazon-kinesis/ (date of ac­cess 31.01.2023).</li>
  - doi: 14.195-202
    udk: "004.912"
    item_authors: "Kozitsyn A. S."
    item_name: "Algorithms for Finding Duplicate Conferences and Conference Groups in Scientometric Systems"
    item_authors_address: |
-     <b> A. S. Kozitsyn</b>, Researcher, alexanderkz@mail.ru,
+     <b>A. S. Kozitsyn</b>, Researcher, alexanderkz@mail.ru,
      Lomonosov Moscow State University, Moscow, 119192, Russian Federation
    item_corr_author: " Alexander S. Kozitsyn, Researcher, Lomonosov Moscow State University, Moscow, 119192, Russian Federation E-mail: alexanderkz@mail.ru"
    item_rec_on:   January 19, 2023
@@ -159,18 +168,17 @@ content:
    item_pages: 195–202
    item_citation: ' Kozitsyn A. S. Algorithms for Finding Duplicate Conferences and Conference Groups in Scientometric Systems, Programmnaya ingeneria, 2023, vol. 14, no. 4, pp. 195—202. DOI: 10.17587/prin.14.195-202. (in Russian).'
    item_references: |
-     <li> Intelligent system of case study of scientific and technical information (ISTINA) / Eds. V. A. Sadovnichy, Moscow, Moscow University Press, 2014, 262 p. (in Russian). </li>
-     <li>Vasenin V. A., Zenzinov A. A., Lunev K. V. Using scien-tometric information-analytical systems to automate competitive procedures using the example of the information-analytical system ISTINA, Programmnaya ingeneria 2016, vol. 7, no. 10, pp. 472—480. DOI: 10.17587/prin.7.472-480 (in Russian). </li>
-     <li>Sadovnichy V. A., Vasenin V. A., Afonin S. A. et al. Information system «ISTINA» as big data — a tool in the field of control based on the analysis of scientometric data, Knowledge — Ontolo­gies — Theories (ZONT-2015), Materials of the All-Russian Conference with international participation, Novosibirsk, 2015, pp. 115—123 (in Russian). </li>
-     <li>Zavrazhin A. V., Karmanov M. V., Shubina I. V. Scientometrics: salvation or death?, Pravo i obrazovanie, 2022, no. 9, pp. 4—11 (in Russian). </li>
-     <li>Polianin A. D. Disadvantages of citation indexes and Hirsch. Maximum Citation Indices, available at: http://eqworld.ipmnet. ru/ru/info/sci-edu/Polyanin_IndexH_2014.html (date of access 25.01.2023). </li>
-     <li>Zharova E. N. Scientometrics in the field of social and humanitarian sciences: problems and solutions, Nauchnye i tekhnicheskie biblioteki, 2022, no. 4, pp. 34—53. DOI: 10.33186/1027­3689-2022-4-34-53 (in Russian). </li>
-     <li>Kozitsyn A. S., Afonin S. A., Shachnev D. A. Metod otsenki tematicheskoi blizosti nauchnykh zhurnalov, Programmnaya ingeneria, 2020, vol. 11, no. 6, pp. 335—341. DOI: 10.17587/prin.11.335-341 (in Russian). </li>
-     <li>Kozitsyn A. S. Algorithms for thematic data search in scientometric systems, Programmnaya ingeneria, 2022, vol. 13, no. 6, pp. 291—300. DOI: 10.17587/prin.13.291-300 (in Russian). </li>
-     <li>Shachnev D. A. Searching for activity results and experts in a given subject area, taking results significance into account, Programmnaya ingeneria 2021, vol. 12, no. 5, pp. 260—266. DOI: 10.17587/prin.12.260-266. </li>
-     <li>Kozitsyn A. S., Afonin S. A. Expert search method based on scientometric systems data, Elektronnye biblioteki, 2021, vol. 24, no. 5, pp. 870—888. DOI: 10.26907/1562-5419-2021-24-5-879-888 (in Russian). </li>
-     <li>Manning K.,Ragkhavan P., Shiuttse C. Introduction to information retrieval, Moscow, Williams, 2011, 520 p. (in Russian). </li>
-     <li>Kozitsyn A. S., Afonin S. A., Shachnev D. A. Methods for thematic search of conferences based on scientometric data, Nauchnyi servis v seti Internet, 2022, no. 24, pp. 332-339. DOI: 10.20948/abrau-2022-3 (in Russian). </li>
-     <li>Kozitsyn A. S., Afonin S. A. Algorithm for resolving the ambiguity of the names of authors in the IAS ISTINA, Sovremennye informatsionnye tekhnologii i IT-obrazovanie, 2020, vol. 16, no. 1, pp. 108—117. DOI: 10.25559/SITITO.16.202001.108-117 (in Russian). </li>
+     <li>Intelligent system of case study of scientific and technical information (ISTINA) / Eds. V. A. Sadovnichy, Moscow, Moscow University Press, 2014, 262 p. (in Russian).</li>
+     <li>Vasenin V. A., Zenzinov A. A., Lunev K. V. Using scien-tometric information-analytical systems to automate competitive procedures using the example of the information-analytical system ISTINA, Programmnaya ingeneria 2016, vol. 7, no. 10, pp. 472—480. DOI: 10.17587/prin.7.472-480 (in Russian).</li>
+     <li>Sadovnichy V. A., Vasenin V. A., Afonin S. A. et al. Information system «ISTINA» as big data — a tool in the field of control based on the analysis of scientometric data, Knowledge — Ontolo­gies — Theories (ZONT-2015), Materials of the All-Russian Conference with international participation, Novosibirsk, 2015, pp. 115—123 (in Russian).</li>
+     <li>Zavrazhin A. V., Karmanov M. V., Shubina I. V. Scientometrics: salvation or death?, Pravo i obrazovanie, 2022, no. 9, pp. 4—11 (in Russian).</li>
+     <li>Polianin A. D. Disadvantages of citation indexes and Hirsch. Maximum Citation Indices, available at: http://eqworld.ipmnet. ru/ru/info/sci-edu/Polyanin_IndexH_2014.html (date of access 25.01.2023).</li>
+     <li>Zharova E. N. Scientometrics in the field of social and humanitarian sciences: problems and solutions, Nauchnye i tekhnicheskie biblioteki, 2022, no. 4, pp. 34—53. DOI: 10.33186/1027­3689-2022-4-34-53 (in Russian).</li>
+     <li>Kozitsyn A. S., Afonin S. A., Shachnev D. A. Metod otsenki tematicheskoi blizosti nauchnykh zhurnalov, Programmnaya ingeneria, 2020, vol. 11, no. 6, pp. 335—341. DOI: 10.17587/prin.11.335-341 (in Russian).</li>
+     <li>Kozitsyn A. S. Algorithms for thematic data search in scientometric systems, Programmnaya ingeneria, 2022, vol. 13, no. 6, pp. 291—300. DOI: 10.17587/prin.13.291-300 (in Russian).</li>
+     <li>Shachnev D. A. Searching for activity results and experts in a given subject area, taking results significance into account, Programmnaya ingeneria 2021, vol. 12, no. 5, pp. 260—266. DOI: 10.17587/prin.12.260-266.</li>
+     <li>Kozitsyn A. S., Afonin S. A. Expert search method based on scientometric systems data, Elektronnye biblioteki, 2021, vol. 24, no. 5, pp. 870—888. DOI: 10.26907/1562-5419-2021-24-5-879-888 (in Russian).</li>
+     <li>Manning K.,Ragkhavan P., Shiuttse C. Introduction to information retrieval, Moscow, Williams, 2011, 520 p. (in Russian).</li>
+     <li>Kozitsyn A. S., Afonin S. A., Shachnev D. A. Methods for thematic search of conferences based on scientometric data, Nauchnyi servis v seti Internet, 2022, no. 24, pp. 332-339. DOI: 10.20948/abrau-2022-3 (in Russian).</li>
+     <li>Kozitsyn A. S., Afonin S. A. Algorithm for resolving the ambiguity of the names of authors in the IAS ISTINA, Sovremennye informatsionnye tekhnologii i IT-obrazovanie, 2020, vol. 16, no. 1, pp. 108—117. DOI: 10.25559/SITITO.16.202001.108-117 (in Russian).</li>
      <li>Afonin S., Kozitsyn A., Astapov I. Sqlreports: Yet another relational database reporting system, Proceedings of the 9th International Conference on Software Engineering and Applications, 2014, pp. 529—534. DOI: 10.5220/0005114205290534.</li>
----

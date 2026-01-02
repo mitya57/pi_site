@@ -6,7 +6,8 @@ content:
    item_authors: "Korneev V. V."
    item_name: "Specialized Neural Network Hardware Accelerators"
    item_authors_address: |
-     <b> V. V. Korneev</b>, Principal Researcher,  korv@rdi-kvant.ru, Research and Development Institute Kvant, Moscow, 125438, Russian Federation
+     <b>V. V. Korneev</b>, Principal Researcher, korv@rdi-kvant.ru,
+     Research and Development Institute Kvant, Moscow, 125438, Russian Federation
    item_corr_author: " Victor V. Korneev, Principal Researcher, Research and Development Institute 'Kvant', Moscow, 125438, Russian Federation, E-mail: korv@rdi-kvant.ru"
    item_rec_on: November 09, 2022
    item_acc_on: November 17, 2022
@@ -18,26 +19,26 @@ content:
      Thus, specialization in neural network algorithms has led to the emergence of massively parallel systems architectures for processing low-bit data formats with poor temporal and spatial localization of memory requests.
      </p>
    item_references: |
-     <li>Barth A. Amazon EC2 TRN1 instances for high-per-formance model training are now available, available at: https:// aws.amazon.com/blogs/aws/amazon-ec2-trn1-instances-for-high- performance-model-training-are-now-available/ (date of access 13.10.2022). </li>
-     <li>Markowitz D. Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5, available at: https://daleonai.com/transformers-explained (date of access 01.11.2022). </li>
-     <li>Le K. A quick overview of ResNet models, available at: https://medium.com/mlearning-ai/a-quick-overview-of-resnet-models-f8ed277ae81e (date of access 01.11.2022). </li>
-     <li>Intelligence Processing Unit, available at: https://www. graphcore.ai/products/ipu. (date of access 01.11.2022). </li>
-     <li>Jia Zh., Tillman B., Maggioni M., Scarpazza D. P. Dissecting the Graphcore IPU Architecture via Microbenchmarking. Technical Report. December 7, 2019. arXiv:1912.03413v1 [cs.DC] 7 Dec 2019. 91 p. </li>
-     <li>Valiant L. G. A bridging model for parallel computation, Communications of the ACM, 1990, vol. 33, no. 8, pp. 103—111. DOI: 10.1145/79173.79181. </li>
-     <li>Poplar Graph Framework Software, available at: https:// www.graphcore.ai/products/poplar (date of access 01.11.2022). </li>
-     <li>Robinson C. Untether.AI Boqueria 1458 RISC-V Core AI Accelerator, avaiable at: https://www.servethehome.com/untether-ai-bo-queria-1458-risc-v-core-ai-accelerator-hc34/ (date of access 15.11.2022). </li>
-     <li>Yen I. E., Xiao Zh., Xu D. S4: a High-sparsity, High-performance AI Accelerator. 16 Jul 2022, arXiv:2207.08006v1 [cs.AR]. </li>
-     <li>Zhu M., Gupta S. To prune, or not to prune: exploring the efcacy of pruning for model compression, 2017, arXiv preprint arXiv:1710.01878. </li>
-     <li>Gale T., Elsen E., Hooker S. The state of sparsity in deep neural networks, 2019, arXiv preprint arXiv:1902.09574. </li>
-     <li>Frankle J., Carbin M. The lottery ticket hypothesis: Find­ing sparse, trainable neural networks, 2018, arXiv preprint arXiv:1803.03635. </li>
-     <li>Peckham O. SambaNova Launches Second-Gen DataScale System, available at: https://www.hpcwire.com/2022/09/14/sambanova-launches-second-gen-datascale-system/ (date of access 15.11.2022). </li>
-     <li>Kennedy P. SambaNova SN10 RDU at Hot Chips 33, available at: https://www.servethehome.com/sambanova-sn10-rdu-at-hot-chips-33/ (date of access: 01.11.2022). </li>
-     <li>AWS Neuron Documentation, available at: https://awsdocs-neuron.readthedocs-hosted.com (date of access 01.11.2022). </li>
-     <li>Hot Chips 34 — Teslas Dojo Microarchitecture, available at: https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/ (date of access 15.11.2022). </li>
-     <li>GPU NVIDIA A100, available at: https://www.nvidia.com/ru-ru/data-center/a100/ (date of access 01.11.2022). </li>
-     <li>Sapunov G. FP64, FP32, FP16, BFLOAT16, TF32, and other members of the ZOO, available at: https://moocaholic.me-dium.com/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407 (date of access 15.11.2022). </li>
-     <li>Elizarov G. S., Konotoptsev V. N., Korneev V. V. Specialized large integrated circuits for the implementation of neural network inference. XXII International conference "Kharitonov thematic scientific readings "Supercomputer modeling and Artificial Intelligence ": proceedings / Edited by R. M. Shagaliev, Sarov: FSUE "RFSC-VNIIEF", 2022, pp. 181—184 (in Russian). </li>
-     <li>Korneev V. V. Approaches to improving the performance of neural network computing, Programmnaya ingeneria, 2020, vol. 11, no. 1, pp. 21—25. DOI: 10.17587/prin.11.21-25 (in Russian). </li>
+     <li>Barth A. Amazon EC2 TRN1 instances for high-per-formance model training are now available, available at: https://aws.amazon.com/blogs/aws/amazon-ec2-trn1-instances-for-high- performance-model-training-are-now-available/ (date of access 13.10.2022).</li>
+     <li>Markowitz D. Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5, available at: https://daleonai.com/transformers-explained (date of access 01.11.2022).</li>
+     <li>Le K. A quick overview of ResNet models, available at: https://medium.com/mlearning-ai/a-quick-overview-of-resnet-models-f8ed277ae81e (date of access 01.11.2022).</li>
+     <li>Intelligence Processing Unit, available at: https://www.graphcore.ai/products/ipu. (date of access 01.11.2022).</li>
+     <li>Jia Zh., Tillman B., Maggioni M., Scarpazza D. P. Dissecting the Graphcore IPU Architecture via Microbenchmarking. Technical Report. December 7, 2019. arXiv:1912.03413v1 [cs.DC] 7 Dec 2019. 91 p.</li>
+     <li>Valiant L. G. A bridging model for parallel computation, Communications of the ACM, 1990, vol. 33, no. 8, pp. 103—111. DOI: 10.1145/79173.79181.</li>
+     <li>Poplar Graph Framework Software, available at: https://www.graphcore.ai/products/poplar (date of access 01.11.2022).</li>
+     <li>Robinson C. Untether.AI Boqueria 1458 RISC-V Core AI Accelerator, avaiable at: https://www.servethehome.com/untether-ai-bo-queria-1458-risc-v-core-ai-accelerator-hc34/ (date of access 15.11.2022).</li>
+     <li>Yen I. E., Xiao Zh., Xu D. S4: a High-sparsity, High-performance AI Accelerator. 16 Jul 2022, arXiv:2207.08006v1 [cs.AR].</li>
+     <li>Zhu M., Gupta S. To prune, or not to prune: exploring the efcacy of pruning for model compression, 2017, arXiv preprint arXiv:1710.01878.</li>
+     <li>Gale T., Elsen E., Hooker S. The state of sparsity in deep neural networks, 2019, arXiv preprint arXiv:1902.09574.</li>
+     <li>Frankle J., Carbin M. The lottery ticket hypothesis: Find­ing sparse, trainable neural networks, 2018, arXiv preprint arXiv:1803.03635.</li>
+     <li>Peckham O. SambaNova Launches Second-Gen DataScale System, available at: https://www.hpcwire.com/2022/09/14/sambanova-launches-second-gen-datascale-system/ (date of access 15.11.2022).</li>
+     <li>Kennedy P. SambaNova SN10 RDU at Hot Chips 33, available at: https://www.servethehome.com/sambanova-sn10-rdu-at-hot-chips-33/ (date of access: 01.11.2022).</li>
+     <li>AWS Neuron Documentation, available at: https://awsdocs-neuron.readthedocs-hosted.com (date of access 01.11.2022).</li>
+     <li>Hot Chips 34 — Teslas Dojo Microarchitecture, available at: https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/ (date of access 15.11.2022).</li>
+     <li>GPU NVIDIA A100, available at: https://www.nvidia.com/ru-ru/data-center/a100/ (date of access 01.11.2022).</li>
+     <li>Sapunov G. FP64, FP32, FP16, BFLOAT16, TF32, and other members of the ZOO, available at: https://moocaholic.me-dium.com/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407 (date of access 15.11.2022).</li>
+     <li>Elizarov G. S., Konotoptsev V. N., Korneev V. V. Specialized large integrated circuits for the implementation of neural network inference. XXII International conference "Kharitonov thematic scientific readings "Supercomputer modeling and Artificial Intelligence ": proceedings / Edited by R. M. Shagaliev, Sarov: FSUE "RFSC-VNIIEF", 2022, pp. 181—184 (in Russian).</li>
+     <li>Korneev V. V. Approaches to improving the performance of neural network computing, Programmnaya ingeneria, 2020, vol. 11, no. 1, pp. 21—25. DOI: 10.17587/prin.11.21-25 (in Russian).</li>
    item_keywords: neuroprocessor VLSI, on-chip memory, on-chip communication fabric, low-bit number formats
    item_pages: 3–11
    item_citation: ' Korneev V. V. Specialized Neural Network Hardware Accelerators, Programmnaya Ingeneria, 2023, vol. 14, no. 1, pp. 3—11. '
@@ -46,7 +47,10 @@ content:
    item_authors: "Kapustin D. A., Shvyrov V. V., Suvorova E. Yu., Shulyka T. I."
    item_name: "PEP 8 Compliance Analysis for Python Open Source Projects"
    item_authors_address: |
-     <b> D. A. Kapustin</b>, Associate Professor, kap-kapchik@mail.ru, <b> V. V. Shvyrov</b>, Associate Professor, slsh@i.ua, <b> E. Yu. Suvorova</b>, Senior Lecturer, suvorova.itstep@ya.ru, <b> T. I. Shulyka</b>, Assistant, shulika-tatyana@mail.ru,
+     <b>D. A. Kapustin</b>, Associate Professor, kap-kapchik@mail.ru,
+     <b>V. V. Shvyrov</b>, Associate Professor, slsh@i.ua,
+     <b>E. Yu. Suvorova</b>, Senior Lecturer, suvorova.itstep@ya.ru,
+     <b>T. I. Shulyka</b>, Assistant, shulika-tatyana@mail.ru,
      Lugansk State Pedagogical University, Lugansk, 91011, Lugansk Peoples Republic
    item_corr_author: " Denis A. Kapustin, Associate Professor, Lugansk State Pedagogical University, Lugansk, 91011, Lugansk Peoples Republic E-mail: kap-kapchik@mail.ru"
    item_rec_on:  October 09, 2022
@@ -54,45 +58,45 @@ content:
    item_annot: |
      <p> The use of the Python language in large projects in combination with modern development methodologies entails a number of tasks for checking and standardizing program code in order to improve its quality. For the Python language, PEP 8 is the current standard. Verification procedures are performed by specialized software tools — linters that use static analysis methods. This paper investigates the main violations of the PEP 8 standard in Python open source projects. In addition, an analysis was made of the effectiveness of automatic formatting of program code using the Black and YAPF formatters.</p>
    item_references: |
-     <li>Agile-manifest razrabotki programmnogo obespecheniya, available at: http://agilemanifesto.org/iso/ru/manifesto.html (date of access 25.09.2022) (in Russian). </li>
-     <li>Humble J., Farley D. Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation, Addison-Wesley Professional, 2010, 512 p. </li>
-     <li>Shahin M., Ali Babar M., Zhu L. Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices, IEEE Access, 2017, vol. 5, pp. 3909-3943. DOI: 10.1109/ACCESS.2017.2685629. </li>
-     <li>Fowler M.  Refactoring: Improving the Design of Existing Code. Boston, MA, USA, Addison-Wesley, 1999, 448 p. </li>
-     <li>Moha N., Gueheneuc Y.-G., Duchien L., Le Meur A.-F.  Decor: A method for the specification and detection of code and design smells,  IEEE Transactions on Software Engineering, 2009, vol. 36, no. 1,  pp. 20–36. DOI:10.1109/TSE.2009.50. </li>
-     <li>Tahir A., Dietrich J., Counsell S., Licorish S., Yamashita A. A large scale study on how developers discuss code smells and anti-pattern in stack exchange sites // Information and Software Technology, 2020. Vol. 125. DOI: 10.1016/j.infsof.2020.106333. </li>
-     <li>Tsantalis N., Chatzigeorgiou A. Identification of move method refactoring opportunities, IEEE Transactions on Software Engineering, 2009, vol. 35, no. 3, pp. 347-367, DOI: 10.1109/TSE.2009.1. </li>
-     <li>Zhang M., Hall T., Baddoo N. Code bad smells: A review of current knowledge,  Journal of Software Maintenance and Evolution: Research and Practice, 2011, vol. 23, no. 3, pp. 179–202. DOI: 10.1002/smr.521. </li>
+     <li>Agile-manifest razrabotki programmnogo obespecheniya, available at: http://agilemanifesto.org/iso/ru/manifesto.html (date of access 25.09.2022) (in Russian).</li>
+     <li>Humble J., Farley D. Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation, Addison-Wesley Professional, 2010, 512 p.</li>
+     <li>Shahin M., Ali Babar M., Zhu L. Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices, IEEE Access, 2017, vol. 5, pp. 3909-3943. DOI: 10.1109/ACCESS.2017.2685629.</li>
+     <li>Fowler M.  Refactoring: Improving the Design of Existing Code. Boston, MA, USA, Addison-Wesley, 1999, 448 p.</li>
+     <li>Moha N., Gueheneuc Y.-G., Duchien L., Le Meur A.-F.  Decor: A method for the specification and detection of code and design smells,  IEEE Transactions on Software Engineering, 2009, vol. 36, no. 1,  pp. 20–36. DOI:10.1109/TSE.2009.50.</li>
+     <li>Tahir A., Dietrich J., Counsell S., Licorish S., Yamashita A. A large scale study on how developers discuss code smells and anti-pattern in stack exchange sites // Information and Software Technology, 2020. Vol. 125. DOI: 10.1016/j.infsof.2020.106333.</li>
+     <li>Tsantalis N., Chatzigeorgiou A. Identification of move method refactoring opportunities, IEEE Transactions on Software Engineering, 2009, vol. 35, no. 3, pp. 347-367, DOI: 10.1109/TSE.2009.1.</li>
+     <li>Zhang M., Hall T., Baddoo N. Code bad smells: A review of current knowledge,  Journal of Software Maintenance and Evolution: Research and Practice, 2011, vol. 23, no. 3, pp. 179–202. DOI: 10.1002/smr.521.</li>
      <li>Cousot P., Cousot R.  Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints,  Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, 1977, pp. 238–252. DOI:10.1145/512950.512973</li>
      <li>PEP 8 – Style Guide for Python Code, available at:  https://peps.python.org/pep-0008/  (date of access 25.09.2022).</li>
-     <li>Lint, available at:  https://ru.wikipedia.org/wiki/Lint  (date of access 25.09.2022) (in Russian). </li>
-     <li>Johnson S. C., Hill M. Lint,  C Program Checker,  COMP. SCI. TECH. REP., 1978,  pp. 78–90. </li>
-     <li>Oort B., Cruz L., Aniche M., Deursen A. The Prevalence of Code Smells in Machine Learning projects, In 2021 IEEE/ACM 1st Workshop on AI Engineering - Software Engineering for AI (WAIN), 2021, IEEE, Madrid, Spain, 2021, pp. 1-8. DOI: 10.1109/WAIN52551.2021.00011. </li>
-     <li>Oort B., Cruz L., Loni B., Deursen A. “Project smells” - Experiences in Analysing the Software Quality of ML Projects with mllint, IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2022, pp. 211–220. DOI: 10.1109/ICSE-SEIP55303.2022.9794115. </li>
-     <li>Pylint 2.15.3, available at:  https://pypi.org/project/pylint/ (date of access 25.09.2022). </li>
-     <li>Simmons A. J., Barnett S., Rivera-Villicana J., Bajaj A.,  Vasa R. A Large-Scale Comparative Analysis of Coding Standard Conformance in Open-Source Data Science Projects, Proceedings of the 14th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), ser. ESEM ’20, 2020. DOI: 10.48550/arXiv.2007.08978. </li>
-     <li>Tómasdóttir K., Aniche M.,  Deursen A. The Adoption of JavaScript Linters in Practice: A Case Study on ESLint,  IEEE Transactions on Software Engineering, 2020, vol. 46, no. 8, pp. 863–891, DOI: 10.1109/TSE.2018.2871058. </li>
-     <li>Bafatakis N., Boecker N., Boon W., Cabello Salazar M., Krinke J., Oznacar G.,  WhiteR. Python Coding Style Compliance on Stack Overflow,  2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), 2019, pp. 210–214. DOI: 10.1109/MSR.2019.00042. </li>
-     <li>Stack Overflow, available at: https://stackoverflow.com/  (date of access 25.09.2022). </li>
-     <li>Wang J., Li L., Zeller A.  Better Code, Better Sharing: On the Need of Analyzing Jupyter Notebooks, 2020 IEEE/ACM 42nd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER), Seoul, Korea (South), 2020, pp. 53–56. DOI: 10.48550/arXiv.1906.05234. </li>
-     <li>flake8 5.0.4, available at: https://pypi.org/project/flake8/   (date of access 25.09.2022). </li>
-     <li>Welcome to the Bandit documentation!,   available at:  https://bandit.readthedocs.io/en/latest/  (date of access 25.09.2022). </li>
-     <li>Welcome to mypy documentation! — Mypy 0.971 documentation,  available at: https://mypy.readthedocs.io/en/stable/#  (date of access 25.09.2022). </li>
-     <li>Prospector - Python Static Analysis — prospector documentation,  available at:  https://prospector.landscape.io/en/master/   (date of access 25.09.2022). </li>
-     <li>pycodestyle 2.9.1,  available at:  https://pypi.org/project/pycodestyle/  (date of access 25.09.2022). </li>
-     <li>Scalpel: The Python Static Anaysis Framework,   available at:  https://github.com/SMAT-Lab/Scalpel  (date of access 25.09.2022). </li>
-     <li>Solar appScreener,  available at:   https://rt-solar.ru/products/solar_appscreener/  (date of access 25.09.2022) (in Russian). </li>
-     <li>Infowatch Appercut,  available at:   https://www.infowatch.ru/products/appercut (date of access 25.09.2022)  (in Russian). </li>
-     <li>АК-ВС 2, available at:   https://npo-echelon.ru/production/65/4243 (date of access 25.09.2022) (in Russian). </li>
-     <li>150k Python Dataset, available at:   https://www.sri.inf.ethz.ch/py150 (date of access 25.09.2022). </li>
-     <li>Secure, Reliable, and Intelligent Systems Lab | SRI Group Website,   available at: https://www.sri.inf.ethz.ch/ (date of access 25.09.2022). </li>
-     <li>Kapustin D. A., Shvyrov V. V., Shulika T. I. Static Analysis of the Source Code of Python Applications, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 394-403. DOI: 10.17587/prin.13.394-403 (in Russian). </li>
-     <li>E203: False positive "whitespace before : " on list slice. #373 available at: https://github.com/PyCQA/pycodestyle/issues/373?ysclid=l9g05q9uo3208795529 (date of access 25.09.2022). </li>
-     <li>Awesome Python Code Formatters,   available at:  https://github.com/life4/awesome-python-code-formatters?ysclid=l9spxzn6fa971450890 (date of access 25.09.2022). </li>
-     <li>The uncompromising code formatter,   available at:   https://black.readthedocs.io/en/stable/index.html (date of access 25.09.2022). </li>
-     <li>YAPF.  available at:  https://github.com/google/yapf?ysclid=l6lwmy08nc686895040 </li>
-     <li>The uncompromising code formatter#Used by,  available at: https://github.com/psf/black#used-by (date of access 25.09.2022). </li>
-     <li>Soglasheniya ob imenah v Python, available at: https://docs-python.ru/tutorial/pep-rukovodstvo-stilju-koda-python/soglashenija-imenah/ (date of access 25.09.2022) (in Russian). </li>
-     <li>GitHub Copilot available at:  https://github.com/features/copilot/?ysclid=l9fx7m1bdc52707849 (date of access 25.09.2022). </li>
+     <li>Lint, available at:  https://ru.wikipedia.org/wiki/Lint  (date of access 25.09.2022) (in Russian).</li>
+     <li>Johnson S. C., Hill M. Lint,  C Program Checker,  COMP. SCI. TECH. REP., 1978,  pp. 78–90.</li>
+     <li>Oort B., Cruz L., Aniche M., Deursen A. The Prevalence of Code Smells in Machine Learning projects, In 2021 IEEE/ACM 1st Workshop on AI Engineering - Software Engineering for AI (WAIN), 2021, IEEE, Madrid, Spain, 2021, pp. 1-8. DOI: 10.1109/WAIN52551.2021.00011.</li>
+     <li>Oort B., Cruz L., Loni B., Deursen A. “Project smells” - Experiences in Analysing the Software Quality of ML Projects with mllint, IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2022, pp. 211–220. DOI: 10.1109/ICSE-SEIP55303.2022.9794115.</li>
+     <li>Pylint 2.15.3, available at:  https://pypi.org/project/pylint/ (date of access 25.09.2022).</li>
+     <li>Simmons A. J., Barnett S., Rivera-Villicana J., Bajaj A.,  Vasa R. A Large-Scale Comparative Analysis of Coding Standard Conformance in Open-Source Data Science Projects, Proceedings of the 14th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), ser. ESEM ’20, 2020. DOI: 10.48550/arXiv.2007.08978.</li>
+     <li>Tómasdóttir K., Aniche M.,  Deursen A. The Adoption of JavaScript Linters in Practice: A Case Study on ESLint,  IEEE Transactions on Software Engineering, 2020, vol. 46, no. 8, pp. 863–891, DOI: 10.1109/TSE.2018.2871058.</li>
+     <li>Bafatakis N., Boecker N., Boon W., Cabello Salazar M., Krinke J., Oznacar G.,  WhiteR. Python Coding Style Compliance on Stack Overflow,  2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), 2019, pp. 210–214. DOI: 10.1109/MSR.2019.00042.</li>
+     <li>Stack Overflow, available at: https://stackoverflow.com/  (date of access 25.09.2022).</li>
+     <li>Wang J., Li L., Zeller A.  Better Code, Better Sharing: On the Need of Analyzing Jupyter Notebooks, 2020 IEEE/ACM 42nd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER), Seoul, Korea (South), 2020, pp. 53–56. DOI: 10.48550/arXiv.1906.05234.</li>
+     <li>flake8 5.0.4, available at: https://pypi.org/project/flake8/   (date of access 25.09.2022).</li>
+     <li>Welcome to the Bandit documentation!,   available at:  https://bandit.readthedocs.io/en/latest/  (date of access 25.09.2022).</li>
+     <li>Welcome to mypy documentation! — Mypy 0.971 documentation,  available at: https://mypy.readthedocs.io/en/stable/#  (date of access 25.09.2022).</li>
+     <li>Prospector - Python Static Analysis — prospector documentation,  available at:  https://prospector.landscape.io/en/master/   (date of access 25.09.2022).</li>
+     <li>pycodestyle 2.9.1,  available at:  https://pypi.org/project/pycodestyle/  (date of access 25.09.2022).</li>
+     <li>Scalpel: The Python Static Anaysis Framework,   available at:  https://github.com/SMAT-Lab/Scalpel  (date of access 25.09.2022).</li>
+     <li>Solar appScreener,  available at:   https://rt-solar.ru/products/solar_appscreener/  (date of access 25.09.2022) (in Russian).</li>
+     <li>Infowatch Appercut,  available at:   https://www.infowatch.ru/products/appercut (date of access 25.09.2022)  (in Russian).</li>
+     <li>АК-ВС 2, available at:   https://npo-echelon.ru/production/65/4243 (date of access 25.09.2022) (in Russian).</li>
+     <li>150k Python Dataset, available at:   https://www.sri.inf.ethz.ch/py150 (date of access 25.09.2022).</li>
+     <li>Secure, Reliable, and Intelligent Systems Lab | SRI Group Website,   available at: https://www.sri.inf.ethz.ch/ (date of access 25.09.2022).</li>
+     <li>Kapustin D. A., Shvyrov V. V., Shulika T. I. Static Analysis of the Source Code of Python Applications, Programmnaya Ingeneria, 2022, vol. 13, no. 8, pp. 394-403. DOI: 10.17587/prin.13.394-403 (in Russian).</li>
+     <li>E203: False positive "whitespace before : " on list slice. #373 available at: https://github.com/PyCQA/pycodestyle/issues/373?ysclid=l9g05q9uo3208795529 (date of access 25.09.2022).</li>
+     <li>Awesome Python Code Formatters,   available at:  https://github.com/life4/awesome-python-code-formatters?ysclid=l9spxzn6fa971450890 (date of access 25.09.2022).</li>
+     <li>The uncompromising code formatter,   available at:   https://black.readthedocs.io/en/stable/index.html (date of access 25.09.2022).</li>
+     <li>YAPF.  available at:  https://github.com/google/yapf?ysclid=l6lwmy08nc686895040</li>
+     <li>The uncompromising code formatter#Used by,  available at: https://github.com/psf/black#used-by (date of access 25.09.2022).</li>
+     <li>Soglasheniya ob imenah v Python, available at: https://docs-python.ru/tutorial/pep-rukovodstvo-stilju-koda-python/soglashenija-imenah/ (date of access 25.09.2022) (in Russian).</li>
+     <li>GitHub Copilot available at:  https://github.com/features/copilot/?ysclid=l9fx7m1bdc52707849 (date of access 25.09.2022).</li>
    item_keywords: automatic formatting, software quality, linter, static analysis, Autopep8, Black, Flake8, PEP 8, Python, YAPF
    item_pages: 12–23
    item_citation: 'Kapustin D. A., Shvyrov V. V., Suvorova E. Yu., Shulyka T. I. PEP 8 Compliance Analysis for Python Open Source Projects, Programmnaya Ingeneria, 2023, vol. 14, no. 1, pp. 12—23.'
@@ -101,7 +105,8 @@ content:
    item_authors: "Alakbarova I. Y."
    item_name: "Analysis of Relationships in the Virtual Space of Social Networks"
    item_authors_address: |
-     <b> I. Y. Alakbarova</b>, Ph.D, airada.09@gmail.com, Institute of Information Technologies, Azerbaijan National Academy of Sciences (ANAS), Baku, Az1141, Azerbaijan
+     <b>I. Y. Alakbarova</b>, Ph.D, airada.09@gmail.com,
+     Institute of Information Technologies, Azerbaijan National Academy of Sciences (ANAS), Baku, Az1141, Azerbaijan
    item_corr_author: "  Irada Y. Alakbarova, Ph.D, Institute of Information Technologies, Azerbaijan National Academy of Sciences (ANAS), Baku, Az1141, Azerbaijan, E-mail: airada.09@gmail.com"
    item_rec_on:  July 14, 2022
    item_acc_on:  October 19, 2022
@@ -109,41 +114,41 @@ content:
      <p> The article is devoted to a brief review of approaches to the analysis of social relations in social networks using comments and credentials located in the profiles of social network users. The study is aimed at revealing the behavior of the user and understanding the nature of his relationship with others. The proposed architectural scheme of the system for the intellectual analysis of social relations will make it possible to better understand and identify social relations between users of social networks.
      </p>
    item_references: |
-     <li>Luo Ch. Analyzing the impact of social networks and social behavior on electronic business during COVID-19 pandemic, Information Processing & Management, 2021, vol. 58, issue 5, 102667.  DOI:10.1016/j.ipm.2021.102667 </li>
+     <li>Luo Ch. Analyzing the impact of social networks and social behavior on electronic business during COVID-19 pandemic, Information Processing & Management, 2021, vol. 58, issue 5, 102667.  DOI:10.1016/j.ipm.2021.102667</li>
      <li>United Nations: Humanitarian emergencies and conflict situations, , available at: https://www.ohchr.org/ru/topic/humanitarian-emergencies-and-conflict-situations</li>
      <li>Stress and health, available at: https://cheb-cgb.med.cap.ru/shkoli-zdorovjya/shkola-dlya-pacientov-arterialjnoj-gipertenziej/tematika-zanyatij/stress-i-zdorovje</li>
-     <li>Department of Economic and Social Affairs, Report, available at: https://www.un.org/development/desa/family/wp-content/uploads/sites/23/2018/05/BACKGROUND-PAPER.SDGs1611.FINAL_.pdf </li>
-     <li>Frazzona E. M., Hartmannb J., Makuschewitzb T., Scholz-Reiterc B. Towards Socio-CyberPhysical Systems in Production Networks,  Proceedings of the Forty Sixth CIRP Conference on Manufacturing Systems, 2013, vol. 7. pp. 49–54. DOI: 10.1016/j.procir.2013.05.009. </li>
-     <li>Coleman J. S. Social Capital in the Creation of Human Capital, American Journal of Sociology, 1988, vol. 94, pp.95–120.  DOI:10.1086/228943. </li>
-     <li>Wasserman S., Faust K. Social Network Analysis: Methods and Applications, Cambridge University Press, 1994, 825 p. </li>
+     <li>Department of Economic and Social Affairs, Report, available at: https://www.un.org/development/desa/family/wp-content/uploads/sites/23/2018/05/BACKGROUND-PAPER.SDGs1611.FINAL_.pdf</li>
+     <li>Frazzona E. M., Hartmannb J., Makuschewitzb T., Scholz-Reiterc B. Towards Socio-CyberPhysical Systems in Production Networks,  Proceedings of the Forty Sixth CIRP Conference on Manufacturing Systems, 2013, vol. 7. pp. 49–54. DOI: 10.1016/j.procir.2013.05.009.</li>
+     <li>Coleman J. S. Social Capital in the Creation of Human Capital, American Journal of Sociology, 1988, vol. 94, pp.95–120.  DOI:10.1086/228943.</li>
+     <li>Wasserman S., Faust K. Social Network Analysis: Methods and Applications, Cambridge University Press, 1994, 825 p.</li>
      <li>Lennon R., Rentfro R.W., Curran J.M. Exploring relationships between demographic variables and social networking use, Management and Marketing Research, 2012, vol. 11, pp. 1–16, available at: https://aabri.com/manuscripts/121164.pdf</li>
      <li>Serrat O. Social Network Analysis, Knowledge Solutions, 2017, pp. 39–43, available at: https://link.springer.com/chapter/10.1007/978-981-10-0983-9_9</li>
      <li>Van der Vlist F. N.,, Helmond A., Burkhardt M., Seitz T. API Governance: The Case of Facebook’s Evolution,  Social Media + Societ, 2022, April-June,  pp.1–24.  DOI: 10.1177/2056305122108622</li>
-     <li>Massari L. Analysis of MySpace user profiles,  Information Systems Frontiers, 2010,  vol.12, no.4, pp. 361–367. DOI: 10.1007/s10796-009-9206-8. </li>
-     <li>Alakparova I.Y. On some approaches to the analysis of the information impact of users in social networks,  Information Society, 2012, no. 3, pp. 31–38 (in Russian). </li>
-     <li>Schleicher D.J., Smith T.A., Casper W.J., Watt J.D., Greguras G.J. It’s all in the attitude: the role of job attitude strength in job attitude–outcome relationships, Applied Psychology, 2015, vol.100, no.4, pp.1259-1274. DOI: 10.1037/a0038664. </li>
-     <li>Zhou L., Lu Y., Vitale C. J. et al. Representation of Information about Family Relatives as Structured Data in Electronic Health Records, Applied Clinical Informatics, 2014, vol. 5, no.2, pp. 349–367.   DOI: 10.4338/ACI-2013-10-RA-0080.  </li>
-     <li>Batagelj V., Mrvar A. Analysis of Kinship Relations with Pajek,  Social Science Computer Review, 2008, vol.26,no.2, pp. 224–246. DOI:10.1177/0894439307299587. </li>
-     <li>Mertzios G.B., Unger W. The Friendship Problem on Graphs, Journal of Multiple-Valued Logic and Soft Computing, 2016, vol. 27, pp.275–285. </li>
-     <li>Putnam R.D. Social Capital: Measurement and Consequences, Canadian Journal of Policy Research, 2001, vol. 2, no.1, pp. 41–51. </li>
-     <li>Bourdieu P., Coleman J.S. Social theory for a changing society, Westview Press, 1991, 389 p. </li>
-     <li>Oldenburg B., Duijn M.V., Veenstra R. Defending ones friends, not ones enemies: A social network analysis of childrens defending, friendship, and dislike relationships using XPNet,  PLoS ONE, 2018, vol. 13, no. 5, pp.1–14. DOI: 10.1371/journal.pone.0194323. </li>
-     <li>Vaquera E, Kao G. Do you like me as much as I like you? Friendship reciprocity and its effects on school outcomes among adolescents, Social Science Research, 2008, vol. 37, no. 1, pp. 55-72. DOI: 10.1016/j.ssresearch.2006.11.002. </li>
-     <li>Tan W., Blake M.W., Saleh I., Dustdar S. Social-network-sourced big data analytics, IEEE Internet Computing, 2013, vol. 17,  no. 5, pp. 62–69. 10.1109/MIC.2013.100. </li>
+     <li>Massari L. Analysis of MySpace user profiles,  Information Systems Frontiers, 2010,  vol.12, no.4, pp. 361–367. DOI: 10.1007/s10796-009-9206-8.</li>
+     <li>Alakparova I.Y. On some approaches to the analysis of the information impact of users in social networks,  Information Society, 2012, no. 3, pp. 31–38 (in Russian).</li>
+     <li>Schleicher D.J., Smith T.A., Casper W.J., Watt J.D., Greguras G.J. It’s all in the attitude: the role of job attitude strength in job attitude–outcome relationships, Applied Psychology, 2015, vol.100, no.4, pp.1259-1274. DOI: 10.1037/a0038664.</li>
+     <li>Zhou L., Lu Y., Vitale C. J. et al. Representation of Information about Family Relatives as Structured Data in Electronic Health Records, Applied Clinical Informatics, 2014, vol. 5, no.2, pp. 349–367.   DOI: 10.4338/ACI-2013-10-RA-0080.</li>
+     <li>Batagelj V., Mrvar A. Analysis of Kinship Relations with Pajek,  Social Science Computer Review, 2008, vol.26,no.2, pp. 224–246. DOI:10.1177/0894439307299587.</li>
+     <li>Mertzios G.B., Unger W. The Friendship Problem on Graphs, Journal of Multiple-Valued Logic and Soft Computing, 2016, vol. 27, pp.275–285.</li>
+     <li>Putnam R.D. Social Capital: Measurement and Consequences, Canadian Journal of Policy Research, 2001, vol. 2, no.1, pp. 41–51.</li>
+     <li>Bourdieu P., Coleman J.S. Social theory for a changing society, Westview Press, 1991, 389 p.</li>
+     <li>Oldenburg B., Duijn M.V., Veenstra R. Defending ones friends, not ones enemies: A social network analysis of childrens defending, friendship, and dislike relationships using XPNet,  PLoS ONE, 2018, vol. 13, no. 5, pp.1–14. DOI: 10.1371/journal.pone.0194323.</li>
+     <li>Vaquera E, Kao G. Do you like me as much as I like you? Friendship reciprocity and its effects on school outcomes among adolescents, Social Science Research, 2008, vol. 37, no. 1, pp. 55-72. DOI: 10.1016/j.ssresearch.2006.11.002.</li>
+     <li>Tan W., Blake M.W., Saleh I., Dustdar S. Social-network-sourced big data analytics, IEEE Internet Computing, 2013, vol. 17,  no. 5, pp. 62–69. 10.1109/MIC.2013.100.</li>
      <li>Li N., Huang Q., Ge X. et al.  Collective Behavior Analysis and Graph Mining in Social Networks, Complexity, 2022, Special Issue, article ID 6692210. DOI: 10.1155/2021/6692210</li>
-     <li>Perer A., Guy I., Uziel E., Ronen I., Jacovi M. Visual social network analytics for relationship discovery in the enterprise, Proceedings of the IEEE Conference on Visual Analytics Science and Technology, Providence, RI, USA, 23–28 October 2011, pp.71-79. DOI: 10.1109/VAST.2011.6102443. </li>
-     <li>Bello-Orgaz G.,  Jung J.J., Camacho D. Social big data: Recent achievements and new challenges,  Information Fusion, 2016, vol. 28, pp. 45–59. DOI: 10.1016/j.inffus.2015.08.005. </li>
+     <li>Perer A., Guy I., Uziel E., Ronen I., Jacovi M. Visual social network analytics for relationship discovery in the enterprise, Proceedings of the IEEE Conference on Visual Analytics Science and Technology, Providence, RI, USA, 23–28 October 2011, pp.71-79. DOI: 10.1109/VAST.2011.6102443.</li>
+     <li>Bello-Orgaz G.,  Jung J.J., Camacho D. Social big data: Recent achievements and new challenges,  Information Fusion, 2016, vol. 28, pp. 45–59. DOI: 10.1016/j.inffus.2015.08.005.</li>
      <li>Olshannikova E., Olsson T., Huhtamäki J., Kärkkäinen H. Conceptualizing Big Social Data, Journal of Big Data, 2017, vol. 4, no. 3, DOI: 10.1186/s40537-017-0063-x</li>
-     <li>Hyvärinen A., Karhunen J., Oja E. Independent Component Analysis, JohnWiley&Son, 2001, 476 p. </li>
-     <li>Zhang L., Cai Z., Lu J., Wang X. Mobility-Aware Routing in Delay Tolerant Networks,  Personal and Ubiquitous Computing, 2015, vol.19, no.7, pp.1111–1123. DOI: 10.1016/j.inffus.2015.08.005. </li>
-     <li>Mtibaa A., May M., Diot C., Ammar M. PeopleRank: Social Opportunistic Forwarding,  Proceedings of the IEEE INFOCOM, 14–19 March, 2010, San Diego, CA, USA, 2010, pp.1–5. DOI:10.1109/INFCOM.2010.5462261. </li>
-     <li>Akhtar M.M., Zamani A.S., El-Sayed A. Link Analysis using Data Mining System, Applied Research in Computer Science and Information Technology, 2012, vol. 1, no. 2, pp.38–49. </li>
-     <li>Liu D.W., Zhang Z.L., Guo X.H. Web mining based on one-dimensional Kohonens algorithm: analysis of social media websites, Neural Computing & Applications, 2017, vol. 28, pp. S641–S645. DOI: 10.1007/s00521-016-2410-9. </li>
+     <li>Hyvärinen A., Karhunen J., Oja E. Independent Component Analysis, JohnWiley&Son, 2001, 476 p.</li>
+     <li>Zhang L., Cai Z., Lu J., Wang X. Mobility-Aware Routing in Delay Tolerant Networks,  Personal and Ubiquitous Computing, 2015, vol.19, no.7, pp.1111–1123. DOI: 10.1016/j.inffus.2015.08.005.</li>
+     <li>Mtibaa A., May M., Diot C., Ammar M. PeopleRank: Social Opportunistic Forwarding,  Proceedings of the IEEE INFOCOM, 14–19 March, 2010, San Diego, CA, USA, 2010, pp.1–5. DOI:10.1109/INFCOM.2010.5462261.</li>
+     <li>Akhtar M.M., Zamani A.S., El-Sayed A. Link Analysis using Data Mining System, Applied Research in Computer Science and Information Technology, 2012, vol. 1, no. 2, pp.38–49.</li>
+     <li>Liu D.W., Zhang Z.L., Guo X.H. Web mining based on one-dimensional Kohonens algorithm: analysis of social media websites, Neural Computing & Applications, 2017, vol. 28, pp. S641–S645. DOI: 10.1007/s00521-016-2410-9.</li>
      <li>Getoor L. Link mining: A new data mining challenge, ACM SIGKDD Explorations Newsletter, 2003, vol. 5, issue 1, pp. 84–89. DOI: 10.1145/959242.959253</li>
      <li>Yang J., Xiu X., Sun L., Ying L., Muthu B. Social media data analytics for business decision making system to competitive analysis,  Information Processing & Management, 2022, vol. 59, issue 1, 102751.  DOI: 10.1016/j.ipm.2021.102751</li>
-     <li>Lin Z., Zhang Y., Gong Q., Chen Y.,  Ding A.Y. Structural Hole Theory in Social Network Analysis: A Review,  IEEE Transactions on Computational Social Systems, 2021, available at: http://homepage.tudelft.nl/8e79t/files/pre-print-tcss2021.pdf </li>
+     <li>Lin Z., Zhang Y., Gong Q., Chen Y.,  Ding A.Y. Structural Hole Theory in Social Network Analysis: A Review,  IEEE Transactions on Computational Social Systems, 2021, available at: http://homepage.tudelft.nl/8e79t/files/pre-print-tcss2021.pdf</li>
      <li>Mani Ch. How Is Big Data Analytics Using Machine Learning?  available at: https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/?sh=5454cca571d2</li>
-     <li>Alguliev R.M., Aliguliyev R.M., Alekperova I.Y. Cluster approach to the efficient use of multimedia resources in information warfare in Wikimedia,  Automatic Control and Computer Sciences, 2014, vol. 48, no. 2, pp. 97–108. DOI: 10.3103/S0146411614020023. </li>
+     <li>Alguliev R.M., Aliguliyev R.M., Alekperova I.Y. Cluster approach to the efficient use of multimedia resources in information warfare in Wikimedia,  Automatic Control and Computer Sciences, 2014, vol. 48, no. 2, pp. 97–108. DOI: 10.3103/S0146411614020023.</li>
      <li>Xiang L. Application of an Improved TF-IDF Method in Literary Text Classification, Hindawi: Advances in Multimedia, 2022, vol. 2022, Article ID 9285324. DOI: 10.1155/2022/9285324</li>
    item_keywords:  social relations, social networks, social big data, data mining, architecture scheme, machine learning
    item_pages: 24–33
@@ -153,12 +158,12 @@ content:
    item_authors: "Palchevsky E. V., Antonov V. V., Kromina L. A., Rodionova L. E., Fakhrullina A. R."
    item_name: "Artifical Neural Network for Forecasting Electricity Consumption in Energy Enterprises"
    item_authors_address: |
-     <b> E. V. Palchevsky</b>  , Lecturer, teelxp@inbox.ru,
+     <b>E. V. Palchevsky</b>, Lecturer, teelxp@inbox.ru,
      Faculty of Information Technology and Big Data Analysis, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation,
-     <b> V. V. Antonov</b> , Professor, antonov.v@bashkortostan.ru,
-     <b> L. A. Kromina</b>  , Associate Professor, luyda-kr@yandex.ru,
-     <b> L. E. Rodionova</b>  , Associate Professor, lurik@mail.ru,
-     <b> A. R. Fakhrullina</b>  , Associate Professor, almirafax@mail.ru,
+     <b>V. V. Antonov</b>, Professor, antonov.v@bashkortostan.ru,
+     <b>L. A. Kromina</b>, Associate Professor, luyda-kr@yandex.ru,
+     <b>L. E. Rodionova</b>, Associate Professor, lurik@mail.ru,
+     <b>A. R. Fakhrullina</b>, Associate Professor, almirafax@mail.ru,
      Faculty of Informatics and Robotics, Ufa State Aviation Technical University, Ufa, 450008, Russian Federation
    item_corr_author: "Evgeniy V. Palchevsky, Lecturer, Faculty of Information Technology and Big Data Analysis, Financial University under the Government of the Russian Federation, Moscow, 109456, Russian Federation E-mail: teelxp@inbox.ru"
    item_rec_on:  October 17, 2022
@@ -170,20 +175,20 @@ content:
      The results of the analysis of the effectiveness of the method showed that the proposed intelligent neural network system is more accurate (including relative to similar solutions): the average error does not exceed 3.08 % over the entire time of the experiment. This will allow companies to carry out energy saving measures, which will be especially useful in the current economic realities.
      </p>
    item_references: |
-     <li>Louis-Gabriel M., Louis G. Forecasting of short-term lighting and plug load electricity consumption in single residential units: Development and assessment of data-driven models for different horizons, Applied Energy, 2022, vol. 307, pp. 118229. DOI: 10.1016/j.apenergy.2021.118229. </li>
-     <li>	Hadjout D., Torres J. F., Troncoso A. et al. Electricity consumption forecasting based on ensemble deep learning with application to the Algerian market, Energy, 2022, vol. 243, pp. 123060. DOI: 10.1016/j.energy.2021.123060.
-     <li>	Garant, available at: https://base.garant.ru/70643464/ (date of access 10.10.2022). </li>
-     <li>	Xingcai Z., Jiangyan W., Hongxia W., Jinguan L. Panel semiparametric quantile regression neural network for electricity consumption forecasting, Ecological Informatics, 2022, vol. 67, pp. 101489. DOI: 10.1016/j.ecoinf.2021.101489. </li>
-     <li>	Jinghua L., Yichen L., Shanyang W. Long-term electricity consumption forecasting method based on system dynamics under the carbon-neutral target, Energy, 2022, vol. 244A, 122572. DOI: 10.1016/j.energy.2021.122572. </li>
-     <li>	Florencia L., Gerard M., Jordi C. et al. User behavior models to forecast electricity consumption of residential customers based on smart metering data, Energy Reports, 2022, vol. 8, pp. 3680—3691. DOI: 10.1016/j.egyr.2022.02.260. </li>
-     <li>Wangwang Y., Jing S., Shujian L. et al. A combined deep learning load forecasting model of single household resident user considering multi-time scale electricity consumption behavior, Applied Energy, 2022, vol. 307, pp. 118197. DOI: 10.1016/j.apenergy.2021.118197. </li>
-     <li>Chenyu Z., Yun S., Haixin W., Jianhong W. Using fractional discrete Verhulst model to forecast Fujians electricity consumption in China, Energy, 2022, vol. 255, pp. 124484. DOI: 10.1016/j.energy.2022.124484. </li>
-     <li>	Alireza S., Mehdi Z. The electricity consumption forecast: Adopting a hybrid approach by deep learning and ARIMAX-GARCH models, Energy Reports, 2022, vol. 8, pp. 7657—7679. DOI: 10.1016/j.egyr.2022.06.007. </li>
-     <li>Zhenyu Z., Ya Z., Yujia Y. Shuguang Y. Load forecasting via Grey Model-Least Squares Support Vector Machine model and spatial-temporal distribution of electric consumption intensity, Energy, 2022, vol. 255, pp. 124468. DOI: 10.1016/j.energy.2022.124468. </li>
-     <li>TensorFlow, available at: https://www.tensorflow.org/ (date of access 11.10.2022). </li>
-     <li>	Palchevsky E. V., Antonov V. V. Decision support system based on application of the second generation neural network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308. DOI: 10.17587/prin.13.301-308. </li>
-     <li>Palchevsky E. V., Khristodulo O. I., Pavlov S. V. Threat prediction in complex distributed systems using artificial neural network technology, CEUR Workshop Proceedings, 2020, vol. 2763, pp. 289—284. DOI: 10.30987/conferencearticle_5fce27725ade42.71922144. </li>
-     <li>Palchevsky E. V., Khristodulo O. I., Pavlov S. V., Kalimgulov A. M. Intelligent data analysis for forecasting threats in complex distributed systems, CEUR Workshop Proceedings, 2020, vol. 2744, pp. 285—296. DOI: 10.51130/graphicon-2020-2-3-79. </li>
+     <li>Louis-Gabriel M., Louis G. Forecasting of short-term lighting and plug load electricity consumption in single residential units: Development and assessment of data-driven models for different horizons, Applied Energy, 2022, vol. 307, pp. 118229. DOI: 10.1016/j.apenergy.2021.118229.</li>
+     <li>Hadjout D., Torres J. F., Troncoso A. et al. Electricity consumption forecasting based on ensemble deep learning with application to the Algerian market, Energy, 2022, vol. 243, pp. 123060. DOI: 10.1016/j.energy.2021.123060.</li>
+     <li>Garant, available at: https://base.garant.ru/70643464/ (date of access 10.10.2022).</li>
+     <li>Xingcai Z., Jiangyan W., Hongxia W., Jinguan L. Panel semiparametric quantile regression neural network for electricity consumption forecasting, Ecological Informatics, 2022, vol. 67, pp. 101489. DOI: 10.1016/j.ecoinf.2021.101489.</li>
+     <li>Jinghua L., Yichen L., Shanyang W. Long-term electricity consumption forecasting method based on system dynamics under the carbon-neutral target, Energy, 2022, vol. 244A, 122572. DOI: 10.1016/j.energy.2021.122572.</li>
+     <li>Florencia L., Gerard M., Jordi C. et al. User behavior models to forecast electricity consumption of residential customers based on smart metering data, Energy Reports, 2022, vol. 8, pp. 3680—3691. DOI: 10.1016/j.egyr.2022.02.260.</li>
+     <li>Wangwang Y., Jing S., Shujian L. et al. A combined deep learning load forecasting model of single household resident user considering multi-time scale electricity consumption behavior, Applied Energy, 2022, vol. 307, pp. 118197. DOI: 10.1016/j.apenergy.2021.118197.</li>
+     <li>Chenyu Z., Yun S., Haixin W., Jianhong W. Using fractional discrete Verhulst model to forecast Fujians electricity consumption in China, Energy, 2022, vol. 255, pp. 124484. DOI: 10.1016/j.energy.2022.124484.</li>
+     <li>Alireza S., Mehdi Z. The electricity consumption forecast: Adopting a hybrid approach by deep learning and ARIMAX-GARCH models, Energy Reports, 2022, vol. 8, pp. 7657—7679. DOI: 10.1016/j.egyr.2022.06.007.</li>
+     <li>Zhenyu Z., Ya Z., Yujia Y. Shuguang Y. Load forecasting via Grey Model-Least Squares Support Vector Machine model and spatial-temporal distribution of electric consumption intensity, Energy, 2022, vol. 255, pp. 124468. DOI: 10.1016/j.energy.2022.124468.</li>
+     <li>TensorFlow, available at: https://www.tensorflow.org/ (date of access 11.10.2022).</li>
+     <li>Palchevsky E. V., Antonov V. V. Decision support system based on application of the second generation neural network, Programmnaya Ingeneria, 2022, vol. 13, no. 6, pp. 301—308. DOI: 10.17587/prin.13.301-308.</li>
+     <li>Palchevsky E. V., Khristodulo O. I., Pavlov S. V. Threat prediction in complex distributed systems using artificial neural network technology, CEUR Workshop Proceedings, 2020, vol. 2763, pp. 289—284. DOI: 10.30987/conferencearticle_5fce27725ade42.71922144.</li>
+     <li>Palchevsky E. V., Khristodulo O. I., Pavlov S. V., Kalimgulov A. M. Intelligent data analysis for forecasting threats in complex distributed systems, CEUR Workshop Proceedings, 2020, vol. 2744, pp. 285—296. DOI: 10.51130/graphicon-2020-2-3-79.</li>
    item_keywords: energy, electricity consumption forecasting, neural networks, intelligent forecasting system
    item_pages: 34–41
    item_comment: ' The study is being conducted with the financial support of the Ministry of Education and Science of the Russian Federation as part of the main part of the state task for higher education institutions No. FEUE-2020-0007. '
@@ -193,9 +198,9 @@ content:
    item_authors: "Bachishe O. I., Kryuchkova E. N., Shushakov D. S."
    item_name: "Problems of Automatic Processing of Scientific Texts based on Extraction of Information from Encyclopedias of Relevant Domain Areas"
    item_authors_address: |
-     <b> O. I. Bachishe</b>, Undergraduate, bachisheo@yandex.ru,
-     <b> E. N. Kruchkova</b>, Professor, kruchkova_elena@mail.ru,
-     <b> D. S. Shushakov</b>, Undergraduate, shushakov4@yandex.ru,
+     <b>O. I. Bachishe</b>, Undergraduate, bachisheo@yandex.ru,
+     <b>E. N. Kruchkova</b>, Professor, kruchkova_elena@mail.ru,
+     <b>D. S. Shushakov</b>, Undergraduate, shushakov4@yandex.ru,
      Altai State Technical University, Barnaul, 656038, Russian Federation
    item_corr_author: "Elena N. Kruchkova, Professor, Altai State Technical University, Barnaul, 656038, Russian Federation, E-mail: kruchkova_elena@mail.ru"
    item_rec_on:  October 10, 2022
@@ -208,31 +213,29 @@ content:
      The sample analysis of the texts of the articles on mathematics showed good accuracy in the extraction of key terms compared to the list of keywords specified by the author of the article.
      </p>
    item_references: |
-     <li>Erera S., Shmueli-Scheuer M., Feigenblat G. et al. A Summarization System for Scientific Documents, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations, Hong Kong, China, 2019, pp. 211-216.  DOI: 10.18653/v1/D19-3036. </li>
-     <li>Dong Y., Mircea A., Cheung J. Discourse-Aware Unsupervised Summarization for Long Scientific Documents, Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 2021, pp. 1089-1102. DOI: 10.18653/v1/2021.eacl-main.93. </li>
-     <li>Foppiano L., Romary L., Ishii M., Tanifuji M. Automatic Identification and Normalisation of Physical Measurements in Scientific Literature, In Proceedings of the ACM Symposium on Document Engineering 2019 (DocEng 19), New York, NY, USA, 2019, part 24, pp. 1-4. DOI: 10.1145/3342558.3345411. </li>
-     <li>Gusev V. D., Salomatina N. V. Iterative Template Construction Method for Searching for Information on Chemical Processes and Conditions in Catalysis Texts, Informacionnye i matematicheskie tekhnologii v nauke i upravlenii, 2016, no. 4-1, pp. 37-45 (in Russian). </li>
-     <li>Tkaczyk D., Szostek P., Fedoryszak M., Dendek P., Bolikowski L. CERMINE: automatic extraction of structured metadata from scientific literature, International Journal on Document Analysis and Recognition (IJDAR), 2015, vol. 18, no. 4, pp. 317-335. DOI:  10.1007/s10032-015-0249-8. </li>
-     <li>Epp S., Hoffmann M., Lell N., Mohr M., Scherp A. A Machine Learning Pipeline for Automatic Extraction of Statistic Reports and Experimental Conditions from Scientific Papers, 2021, available at: https://arxiv.org/pdf/2103.14124.pdf </li>
-     <li>Ageev M.S., Dobrov B.V., Lukashevich N.V. Automatic Text Rubrics: Methods and Problems, Uchenye zapiski Kazanskogo gosudarstvennogo universiteta. Fizikomatematicheskie nauki, 2008, vol. 150, no. 4, pp. 25-40 (in Russian). </li>
-     <li>Belikov V., Selegej V., Selegej D. Internet corpus as a tool for linguistic research: differentiality, authorization, and thematic biases (or corpuses you want to believe), Annual International Conference "Dialogue", 2020, iss. 19, pp. 62-75. DOI: 10.28995/2075-7182-2020-19-62-75 (in Russian). </li>
-     <li>Vinogradov I.M. Mathematical Encyclopedia in 5 v, Moscow, Sov. encyclopedia, 1977 (in Russian). </li>
+     <li>Erera S., Shmueli-Scheuer M., Feigenblat G. et al. A Summarization System for Scientific Documents, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations, Hong Kong, China, 2019, pp. 211-216.  DOI: 10.18653/v1/D19-3036.</li>
+     <li>Dong Y., Mircea A., Cheung J. Discourse-Aware Unsupervised Summarization for Long Scientific Documents, Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 2021, pp. 1089-1102. DOI: 10.18653/v1/2021.eacl-main.93.</li>
+     <li>Foppiano L., Romary L., Ishii M., Tanifuji M. Automatic Identification and Normalisation of Physical Measurements in Scientific Literature, In Proceedings of the ACM Symposium on Document Engineering 2019 (DocEng 19), New York, NY, USA, 2019, part 24, pp. 1-4. DOI: 10.1145/3342558.3345411.</li>
+     <li>Gusev V. D., Salomatina N. V. Iterative Template Construction Method for Searching for Information on Chemical Processes and Conditions in Catalysis Texts, Informacionnye i matematicheskie tekhnologii v nauke i upravlenii, 2016, no. 4-1, pp. 37-45 (in Russian).</li>
+     <li>Tkaczyk D., Szostek P., Fedoryszak M., Dendek P., Bolikowski L. CERMINE: automatic extraction of structured metadata from scientific literature, International Journal on Document Analysis and Recognition (IJDAR), 2015, vol. 18, no. 4, pp. 317-335. DOI:  10.1007/s10032-015-0249-8.</li>
+     <li>Epp S., Hoffmann M., Lell N., Mohr M., Scherp A. A Machine Learning Pipeline for Automatic Extraction of Statistic Reports and Experimental Conditions from Scientific Papers, 2021, available at: https://arxiv.org/pdf/2103.14124.pdf</li>
+     <li>Ageev M.S., Dobrov B.V., Lukashevich N.V. Automatic Text Rubrics: Methods and Problems, Uchenye zapiski Kazanskogo gosudarstvennogo universiteta. Fizikomatematicheskie nauki, 2008, vol. 150, no. 4, pp. 25-40 (in Russian).</li>
+     <li>Belikov V., Selegej V., Selegej D. Internet corpus as a tool for linguistic research: differentiality, authorization, and thematic biases (or corpuses you want to believe), Annual International Conference "Dialogue", 2020, iss. 19, pp. 62-75. DOI: 10.28995/2075-7182-2020-19-62-75 (in Russian).</li>
+     <li>Vinogradov I.M. Mathematical Encyclopedia in 5 v, Moscow, Sov. encyclopedia, 1977 (in Russian).</li>
      <li>Bruches E.P., Pauls A.E., Batura T.V., Isachenko V.V. Study of Methods for Entity Recognition and Relation Extraction in Scientific Texts, Science and Artificial Intelligence conference (SAIC-2020), 2020, pp. 41-45.  DOI: 10.1109/S.A.I.ence50533.2020.9303196</li>
-     <li>Knunyanc I. L. Chemical Encyclopedia in 5 volumes, Moscow, Sov. encyclopedia, 1988-1999 (in Russian). </li>
-     <li>	Pokrovskij V. I. Small Medical Encyclopedia: in 6 v., Moscow, Sov. encyclopedia, Bolshaya Ros. enciklopediya, 1991—1996.   (in Russian). </li>
-     <li>Prohorov A. M. Physical Encyclopedia: in 5 v., Moscow, Sov. encyclopedia, Bolshaya Ros. enciklopediya, 1988—1998. (in Russian). </li>
-     <li>Korney A., Kryuchkova E., Savchenko V.  Information Retrieval Approach Using Semiotic Models Based on Multi-layered Semantic Graphs, High-Performance Computing Systems and Technologies in Scientific Research, Automation of Control and Production. HPCST 2020. Communications in Computer and Information Science, Springer, Cham., 2020, vol. 1304, pp. 162-177. DOI: 10.1007/978-3-030-66895-2_11. </li>
-     <li>Robertson, S., Zaragoza H.  The probabilistic relevance framework: BM25 and beyond, Foundations and Trends in Information Retrieval, 2009, vol. 3, no. 4, pp. 333-389. DOI: 10.1561/1500000019. </li>
-     <li>Onal K. D., Zhang Y., Rahman I. S. Neural information retrieval: At the end of the early years, Information Retrieval Journal, 2018, vol. 21, no. 2-3, pp. 111-182. DOI: 10.1007/s10791-017-9321-y. </li>
-     <li>Matematicheskij sbornik, scientific journal, Moscow, available at: http://www.mathnet.ru/msb (in Russian). </li>
-     <li>Korney A.O., Kryuchkova E.N. Categorization of texts based on a condensed graph, Informacionnye tekhnologii, 2021, vol. 27, no. 3, pp. 138-146. DOI: 10.17587/it.27.138-146. (in Russian). </li>
-     <li>Kryuchkova E., Korney A., Methods for Domain Adaptation of Automated Systems for Aspect Annotation of Customer Review Texts, High- Performance Computing Systems and Technologies in Scientific Research, Automation of Control and Production. HPCST 2020. Communications in Computer and Information Science. Springer, Cham, 2022, vol. 1526, pp. 336-348. DOI: 10.1007/978-3-030-94141-3_26. </li>
-     <li>	ThematicAnalysis, available at: https://github.com/bachisheo/ThematicAnalysis</li>
+     <li>Knunyanc I. L. Chemical Encyclopedia in 5 volumes, Moscow, Sov. encyclopedia, 1988-1999 (in Russian).</li>
+     <li>Pokrovskij V. I. Small Medical Encyclopedia: in 6 v., Moscow, Sov. encyclopedia, Bolshaya Ros. enciklopediya, 1991—1996.   (in Russian).</li>
+     <li>Prohorov A. M. Physical Encyclopedia: in 5 v., Moscow, Sov. encyclopedia, Bolshaya Ros. enciklopediya, 1988—1998. (in Russian).</li>
+     <li>Korney A., Kryuchkova E., Savchenko V.  Information Retrieval Approach Using Semiotic Models Based on Multi-layered Semantic Graphs, High-Performance Computing Systems and Technologies in Scientific Research, Automation of Control and Production. HPCST 2020. Communications in Computer and Information Science, Springer, Cham., 2020, vol. 1304, pp. 162-177. DOI: 10.1007/978-3-030-66895-2_11.</li>
+     <li>Robertson, S., Zaragoza H.  The probabilistic relevance framework: BM25 and beyond, Foundations and Trends in Information Retrieval, 2009, vol. 3, no. 4, pp. 333-389. DOI: 10.1561/1500000019.</li>
+     <li>Onal K. D., Zhang Y., Rahman I. S. Neural information retrieval: At the end of the early years, Information Retrieval Journal, 2018, vol. 21, no. 2-3, pp. 111-182. DOI: 10.1007/s10791-017-9321-y.</li>
+     <li>Matematicheskij sbornik, scientific journal, Moscow, available at: http://www.mathnet.ru/msb (in Russian).</li>
+     <li>Korney A.O., Kryuchkova E.N. Categorization of texts based on a condensed graph, Informacionnye tekhnologii, 2021, vol. 27, no. 3, pp. 138-146. DOI: 10.17587/it.27.138-146. (in Russian).</li>
+     <li>Kryuchkova E., Korney A., Methods for Domain Adaptation of Automated Systems for Aspect Annotation of Customer Review Texts, High- Performance Computing Systems and Technologies in Scientific Research, Automation of Control and Production. HPCST 2020. Communications in Computer and Information Science. Springer, Cham, 2022, vol. 1526, pp. 336-348. DOI: 10.1007/978-3-030-94141-3_26.</li>
+     <li>ThematicAnalysis, available at: https://github.com/bachisheo/ThematicAnalysis</li>
    item_keywords: aspect-oriented analysis, scientific lexicon, semantic graph, scientific text classification
    item_pages: 42–50
    item_citation: ' Bachishe O. I., Kryuchkova E. N., Shushakov D. S. Problems of Automatic Processing of Scientific Texts based on Extraction of Information from Encyclopedias of Relevant Domain Areas, Programmnaya Ingeneria, 2023, vol. 14, no. 1 pp. 42—50.'
- - doi:
-   link: 14.51-52
+ - link: 14.51-52
    item_name: "Index of articles published in the journal 'Software Engineering' in 2022"
    item_pages: 51–52
----

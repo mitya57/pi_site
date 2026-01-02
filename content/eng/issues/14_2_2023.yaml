@@ -6,7 +6,9 @@ content:
    item_authors: "Vasenin V. A., Zenzinov A. A., Roganov V. A."
    item_name: "Increasing the Performance of Information Services in Systems Focused with Large, Rarely Modified Data"
    item_authors_address: |
-     <b> V. A. Vasenin</b>, Professor, vasenin@msu.ru, <b> A. A. Zenzinov</b>, Junior Researcher, <b> V. A. Roganov</b>, Senior Researcher,
+     <b>V. A. Vasenin</b>, Professor, vasenin@msu.ru,
+     <b>A. A. Zenzinov</b>, Junior Researcher, andrey.zenzinov@gmail.com,
+     <b>V. A. Roganov</b>, Senior Researcher, radug-a@ya.ru,
      Lomonosov Moscow State University, Moscow, 119991, Russian Federation
    item_corr_author: " Vladimir A. Roganov, Senior Researcher, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: radug-a@ya.ru"
    item_rec_on: December 10, 2022
@@ -17,20 +19,20 @@ content:
    item_pages: 55–61
    item_citation: "Vasenin V. A., Zenzinov A. A., Roganov V. A. Increasing the Performance of Information Services in Systems Focused with Large, Rarely Modified Data, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 55—61. DOI: 10.17587/prin.14.55-61 (in Russian)."
    item_references: |
-    <li>  Gupta P., Zeldovich N., Madden S. A Trigger-Based Middleware Cache for ORMs, Middleware 2011, Eds F. Kon, A. M. Kermarrec, Lecture Notes in Computer Science, Springer, Berlin, Heidelberg, 2011, vol. 7049, pp. 329—349. DOI: 10.1007/978-3-642-25821-3_17. </li>
-    <li>  Bornhovd C., Altinel M., Mohan C. et al. Adaptive Database Caching with DBCache, IEEE Data Eng. Bull., 2004, vol. 27, no. 2, pp. 11—18. </li>
-    <li>  Django CachaLot. Django ORM caching system, available at: https://django-cachalot.readthedocs.io/en/latest/index.html</li>
-    <li>  Django CacheOps caching system, available at: https://github.com/Suor/django-cacheops</li>
-    <li>  Roganov V. A. Memoization, Incremental and Predictive Computing in the Context of Improving the Performance of Information Systems Working with Big Data), Lomonosovskie chtenija. Nauchnaja konferencija. Sekcija mehaniki, 20—26 April 2021, Tezisy dokladov, Moscow, Izd-vo Moskovskogo universiteta, 2021, pp. 186—187 (in Russian). </li>
-    <li>  Intellektual’naja sistema tematicheskogo issledovanija nauchno-tehnicheskoj informacii (ISTINA) (Intellectual System of Thematic Investigation of Scientometrical Data) / Eds V. A. Sadovnichij, S. A. Afonin, A. V. Bahtin et al. Moscow, Izd-vo Moskovskogo universiteta, 2014, 262 p. (in Russian). </li>
-    <li>  Sadovnichij V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development Programmnaya Ingeneria. Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian). </li>
-    <li>  Zenzinov A. A. Using the A-machine in the task of automating the data import and verification in a scientometric information system, Lomonosovskie chtenija. Nauchnaja konferencija. Sekcija mehaniki, 18—22 April 2022, Tezisy dokladov, Moscow, Izd-vo Moskovskogo universiteta, 2022, pp. 81—82 (in Russian). </li>
+     <li>Gupta P., Zeldovich N., Madden S. A Trigger-Based Middleware Cache for ORMs, Middleware 2011, Eds F. Kon, A. M. Kermarrec, Lecture Notes in Computer Science, Springer, Berlin, Heidelberg, 2011, vol. 7049, pp. 329—349. DOI: 10.1007/978-3-642-25821-3_17.</li>
+     <li>Bornhovd C., Altinel M., Mohan C. et al. Adaptive Database Caching with DBCache, IEEE Data Eng. Bull., 2004, vol. 27, no. 2, pp. 11—18.</li>
+     <li>Django CachaLot. Django ORM caching system, available at: https://django-cachalot.readthedocs.io/en/latest/index.html</li>
+     <li>Django CacheOps caching system, available at: https://github.com/Suor/django-cacheops</li>
+     <li>Roganov V. A. Memoization, Incremental and Predictive Computing in the Context of Improving the Performance of Information Systems Working with Big Data), Lomonosovskie chtenija. Nauchnaja konferencija. Sekcija mehaniki, 20—26 April 2021, Tezisy dokladov, Moscow, Izd-vo Moskovskogo universiteta, 2021, pp. 186—187 (in Russian).</li>
+     <li>Intellektual’naja sistema tematicheskogo issledovanija nauchno-tehnicheskoj informacii (ISTINA) (Intellectual System of Thematic Investigation of Scientometrical Data) / Eds V. A. Sadovnichij, S. A. Afonin, A. V. Bahtin et al. Moscow, Izd-vo Moskovskogo universiteta, 2014, 262 p. (in Russian).</li>
+     <li>Sadovnichij V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development Programmnaya Ingeneria. Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian).</li>
+     <li>Zenzinov A. A. Using the A-machine in the task of automating the data import and verification in a scientometric information system, Lomonosovskie chtenija. Nauchnaja konferencija. Sekcija mehaniki, 18—22 April 2022, Tezisy dokladov, Moscow, Izd-vo Moskovskogo universiteta, 2022, pp. 81—82 (in Russian).</li>
  - doi: 14.62-68
    udk: "621.382"
    item_authors: "Bibilo P. N."
    item_name: "Hardware Implementation of Digital Operational Low Power Units in FPGA"
    item_authors_address: |
-     <b> P. N. Bibilo</b>, Head of Laboratory, bibilo@newman.bas-net.by,
+     <b>P. N. Bibilo</b>, Head of Laboratory, bibilo@newman.bas-net.by,
      The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus
    item_corr_author: " Petr N. Bibilo, Head of Laboratory, The United Institute of Informatics Problems of the National Academy of Sciences of Belarus, Minsk, 220012, Belarus E-mail: bibilo@newman.bas-net.by"
    item_rec_on: December 15, 2022
@@ -41,21 +43,24 @@ content:
    item_pages: 62–68
    item_citation: "Bibilo P. N. Hardware Implementation of Digital Operational Low Power Units in FPGA, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 62—68. DOI: 10.17587/prin.14.62-68 (in Russian)."
    item_references: |
-    <li> Avdeev N. A., Bibilo P. N. Design of Digital Operational Units with Low Power Consumption, Programmnaya Ingeneria, 2021, vol. 12, no. 2, pp. 63—73. DOI: 10.17587/prin.12.63-73 (in Russian). </li>
-    <li> Tarasov I. E. XILINX FPGA. Hardware Description Lan­guages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya — Telekom, 2020, 538 р. (in Russian). </li>
-    <li> Solovyov V. V. XILINX FPGA Architectures: FPGA and CPLD 7-Series. Moscow, Goryachaya liniya — Telekom, 2016, 392 р. (in Russian). </li>
-    <li> Rabai M., Chandrakasan A., Nicolic B. Digital Integrated Circuits: A Design Perspective. Moscow, Vil'jams, 2007, 912 p. (in Russian). </li>
-    <li> Shashkov A. S. Design of low-power electronic systems us­ing UPF power intent specification technology, Informatika, 2015, no. 3, pp. 90—104 (in Russian). </li>
-    <li> Schaumont P. R. Finite State Machine with Datapath, A Practical Introduction to Hardware/Software Codesign, Springer, Boston, M. A., 2010, pp. 95—132. </li>
-    <li> Tomas D. Logical design and verification using SystemVerilog, Moscow, DMK Press, 2019, 384 p. (in Russian). </li>
-    <li> Tarasov I. E. Designing for Xilinx FPGAs using high-level languages in Vivado HLS environment, Komponenty i tekhnologii, 2013, no. 12, pp. 40—48 (in Russian). </li>
-    <li> Kaxiras S., Martonosi M. Idle unit switching activity: clock gating, Architectural Techniques for Low Power, Morgan & Claypool Publishers, 2008, 207 p. </li>
+     <li>Avdeev N. A., Bibilo P. N. Design of Digital Operational Units with Low Power Consumption, Programmnaya Ingeneria, 2021, vol. 12, no. 2, pp. 63—73. DOI: 10.17587/prin.12.63-73 (in Russian).</li>
+     <li>Tarasov I. E. XILINX FPGA. Hardware Description Lan­guages VHDL and Verilog, CAD, Design Techniques, Moscow, Goryachaya liniya — Telekom, 2020, 538 р. (in Russian).</li>
+     <li>Solovyov V. V. XILINX FPGA Architectures: FPGA and CPLD 7-Series. Moscow, Goryachaya liniya — Telekom, 2016, 392 р. (in Russian).</li>
+     <li>Rabai M., Chandrakasan A., Nicolic B. Digital Integrated Circuits: A Design Perspective. Moscow, Vil'jams, 2007, 912 p. (in Russian).</li>
+     <li>Shashkov A. S. Design of low-power electronic systems us­ing UPF power intent specification technology, Informatika, 2015, no. 3, pp. 90—104 (in Russian).</li>
+     <li>Schaumont P. R. Finite State Machine with Datapath, A Practical Introduction to Hardware/Software Codesign, Springer, Boston, M. A., 2010, pp. 95—132.</li>
+     <li>Tomas D. Logical design and verification using SystemVerilog, Moscow, DMK Press, 2019, 384 p. (in Russian).</li>
+     <li>Tarasov I. E. Designing for Xilinx FPGAs using high-level languages in Vivado HLS environment, Komponenty i tekhnologii, 2013, no. 12, pp. 40—48 (in Russian).</li>
+     <li>Kaxiras S., Martonosi M. Idle unit switching activity: clock gating, Architectural Techniques for Low Power, Morgan & Claypool Publishers, 2008, 207 p.</li>
  - doi: 14.69-76
    udk: "004.021"
    item_authors: "Dushkin R. V., Lelecova V. A., Eindemiller K. Yu."
    item_name: "System of Operations on Associative Heterarchical Memory"
    item_authors_address: |
-     <b> R. V. Dushkin</b>, Chief Science and Technology Officer, drv@aiagency.ru, <b> V. A. Lelecova</b>, Analyst, lv@aiagency.ru, <b> K. Yu. Eidemiller</b>, Academic Chief, Artificial Intelligence Agency, Moscow, 127473, Russian Federation
+     <b>R. V. Dushkin</b>, Chief Science and Technology Officer, drv@aiagency.ru,
+     <b>V. A. Lelecova</b>, Analyst, lv@aiagency.ru,
+     <b>K. Yu. Eidemiller</b>, Academic Chief,
+     Artificial Intelligence Agency, Moscow, 127473, Russian Federation
    item_corr_author: "  Vasilisa A. Lelecova, Analyst, Artificial Intelligence Agency, Moscow, 127473, Russian Federation, E-mail: lv@aiagency.ru"
    item_rec_on: September 01, 2022
    item_acc_on: November 13, 2022
@@ -65,28 +70,29 @@ content:
    item_pages: 69–76
    item_citation: 'Dushkin R. V., Lelecova V. A., Eindemiller K. Yu. System of Operations on Associative Heterarchical Memory, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 69—76. DOI: 10.17587/prin.14.69-76 (in Russian).'
    item_references: |
-    <li> Raina V., Krishnamurthy S. Natural Language Processing, Building an Effective Data Science Practice. Apress, Berkeley, CA. 2022, pp. 63—73. DOI: 10.1007/978-1-4842-7419-4_6. </li>
-    <li> Dushkin R. V. Overview of Artificial Intelligence Approaches and Methods, Radioelectronnye techlonogii, 2018, no. 3, pp. 85—89 (in Russian). </li>
-    <li> Dushkin R. V. Artificial Intelligence, Moscow, DMK-Press, 2019, 280 p. (in Russian). </li>
-    <li> Zadeh L. A. From computing with numbers to computing with words — From manipulation of measurements to manipulation of perceptions, Int. J. Appl. Math. Comput.Sci., 2001, vol. 12, no. 3, pp. 307—324. </li>
-    <li> Dushkin R. V. Development of adaptive learning methods using intelligent agents, Iskusstvenniy intellect i prinyatie resheniy, 2019, no. 1, pp. 87—96 (in Russian). </li>
-    <li> Xu Yan, Yining Wang, Tianren Liu et al. An end-to-end system to identify temporalrelation in discharge summaries: 2012 i2b-2challenge, Journal of the American Medical Informatics Association, 2012, vol. 20, no. 5, pp. 849—858. DOI: 10.1136/amiajnl-2012-001607. </li>
-    <li> Sohrab M. G., Khoa D., Makoto M. et al. BENNERD: A neural namedentity linkingsystem for COVID-19, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Pro­cessing: System Demonstrations, 2020, pp. 182—188. DOI: 10.18653/ v1/2020.emnlp-demos.24. </li>
-    <li> Kuniyoshi Fusataka, Jun Ozawa, Mikiya Fujii et al. Graph representation forsynthesis process extraction frominorganic material literature, IEICETechnical Report, 2019, vol. 119 (212), pp. 7—12. </li>
-    <li> Yoshinobu K., Miwa M., Cohen K. B. et al. U-Compare: A modular NLP workflow construction and evaluationsystem, IBM Journal of Research and Development, 2011, vol. 55, no. 3, pp. 11. DOI: 10.1147/JRD.2011.2105691. </li>
-    <li> Dushkin R. V., Lelekova V. A., Stepankov V. Y., Fadeeva S. The structure of associative heterarchical memory, SSRN Electronic Journal, 2022. DOI: 10.2139/ssrn.4196439/</li>
-    <li> Zhu L., Gao W. Hypergraph Ontology Sparse Vector Representation and Its Application to Ontology Learning, Data Mining and Big Data. DMBD 2021, Communications in Computer and Information Science / Y. Tan, Y. Shi, A. Zomaya, H. Yan, J. Cai (eds), Springer, Singapore, 2021, vol 1454. DOI: 10.1007/978-981-16-7502-7_2. </li>
-    <li> Harnad S. The Symbol Grounding Problem, Physica, 1990. D 42, pp. 335—346, available at: https://bit.ly/3z5mHcl (date of access 29.12.2021). </li>
-    <li> Cormen T. Lejzerson Ch., Rivest R., Shtain K. Introduction to algorithms. 2nd ed. Moscow, Wiliams, 2006, 1296 p. (in Russian). </li>
-    <li> Jezequel J.-M. Domain Specific Languages: From Craft to Engineering, iiWAS'14: Proceedings of the 16th International Conference on Information Integration and Web-based Applications & Services, 2014, 2 p. DOI: 10.1145/2684200.2684370. </li>
-    <li> Flemmer R. C. A scheme for an embodied artificial intelligence, 2009 4th International Conference on Autonomous Robots and Agents, 2009, pp. 1—9. DOI: 10.1109/ICARA.2000.4804031. </li>
-    <li> Makondo Ndivhuwo. Accelerating robot learning of motor skills with knowledge transfer, Thesis for: Doctor of Philosophy in Computational Intelligence and Systems Science, 2018.DOI: 10.13140/RG.2.2.26694.32329. </li>
+     <li>Raina V., Krishnamurthy S. Natural Language Processing, Building an Effective Data Science Practice. Apress, Berkeley, CA. 2022, pp. 63—73. DOI: 10.1007/978-1-4842-7419-4_6.</li>
+     <li>Dushkin R. V. Overview of Artificial Intelligence Approaches and Methods, Radioelectronnye techlonogii, 2018, no. 3, pp. 85—89 (in Russian).</li>
+     <li>Dushkin R. V. Artificial Intelligence, Moscow, DMK-Press, 2019, 280 p. (in Russian).</li>
+     <li>Zadeh L. A. From computing with numbers to computing with words — From manipulation of measurements to manipulation of perceptions, Int. J. Appl. Math. Comput.Sci., 2001, vol. 12, no. 3, pp. 307—324.</li>
+     <li>Dushkin R. V. Development of adaptive learning methods using intelligent agents, Iskusstvenniy intellect i prinyatie resheniy, 2019, no. 1, pp. 87—96 (in Russian).</li>
+     <li>Xu Yan, Yining Wang, Tianren Liu et al. An end-to-end system to identify temporalrelation in discharge summaries: 2012 i2b-2challenge, Journal of the American Medical Informatics Association, 2012, vol. 20, no. 5, pp. 849—858. DOI: 10.1136/amiajnl-2012-001607.</li>
+     <li>Sohrab M. G., Khoa D., Makoto M. et al. BENNERD: A neural namedentity linkingsystem for COVID-19, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Pro­cessing: System Demonstrations, 2020, pp. 182—188. DOI: 10.18653/v1/2020.emnlp-demos.24.</li>
+     <li>Kuniyoshi Fusataka, Jun Ozawa, Mikiya Fujii et al. Graph representation forsynthesis process extraction frominorganic material literature, IEICETechnical Report, 2019, vol. 119 (212), pp. 7—12.</li>
+     <li>Yoshinobu K., Miwa M., Cohen K. B. et al. U-Compare: A modular NLP workflow construction and evaluationsystem, IBM Journal of Research and Development, 2011, vol. 55, no. 3, pp. 11. DOI: 10.1147/JRD.2011.2105691.</li>
+     <li>Dushkin R. V., Lelekova V. A., Stepankov V. Y., Fadeeva S. The structure of associative heterarchical memory, SSRN Electronic Journal, 2022. DOI: 10.2139/ssrn.4196439/</li>
+     <li>Zhu L., Gao W. Hypergraph Ontology Sparse Vector Representation and Its Application to Ontology Learning, Data Mining and Big Data. DMBD 2021, Communications in Computer and Information Science / Y. Tan, Y. Shi, A. Zomaya, H. Yan, J. Cai (eds), Springer, Singapore, 2021, vol 1454. DOI: 10.1007/978-981-16-7502-7_2.</li>
+     <li>Harnad S. The Symbol Grounding Problem, Physica, 1990. D 42, pp. 335—346, available at: https://bit.ly/3z5mHcl (date of access 29.12.2021).</li>
+     <li>Cormen T. Lejzerson Ch., Rivest R., Shtain K. Introduction to algorithms. 2nd ed. Moscow, Wiliams, 2006, 1296 p. (in Russian).</li>
+     <li>Jezequel J.-M. Domain Specific Languages: From Craft to Engineering, iiWAS'14: Proceedings of the 16th International Conference on Information Integration and Web-based Applications & Services, 2014, 2 p. DOI: 10.1145/2684200.2684370.</li>
+     <li>Flemmer R. C. A scheme for an embodied artificial intelligence, 2009 4th International Conference on Autonomous Robots and Agents, 2009, pp. 1—9. DOI: 10.1109/ICARA.2000.4804031.</li>
+     <li>Makondo Ndivhuwo. Accelerating robot learning of motor skills with knowledge transfer, Thesis for: Doctor of Philosophy in Computational Intelligence and Systems Science, 2018.DOI: 10.13140/RG.2.2.26694.32329.</li>
  - doi: 14.77-81
    udk: "004.42"
    item_authors: "Kol'chugina E. A."
    item_name: "A Method of Representing Cyclic Program Structures in Artificial Chemistry Model"
    item_authors_address: |
-     <b> E. A. Kolchugina</b>, D. Sci., Professor, kea_sci@list.ru, Penza State University, Penza, 440026, Russian Federation
+     <b>E. A. Kolchugina</b>, D. Sci., Professor, kea_sci@list.ru,
+     Penza State University, Penza, 440026, Russian Federation
    item_corr_author: "Elena A. Kolchugina, D. Sci., Professor, Penza State University, Penza, 440026, Russian Federation E-mail: kea_sci@list.ru"
    item_rec_on:  November 24, 2022
    item_acc_on:  November 24, 2022
@@ -97,24 +103,26 @@ content:
    item_pages: 77–81
    item_citation:  "Kol'chugina E. A. A Method of Representing Cyclic Program Structures in Artificial Chemistry Model, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 77—81. DOI: 10.17587/prin.14.77-81"
    item_references: |
-    <li> Kol'chugina E. A. Spontaneous Emergence of Programs from "Primordial Soup" of Functions in Distributed Computer Systems, Automatic Control and Computer Sciences, 2018, vol. 52, no. 1, pp. 40—48. DOI: 10.3103/S0146411618010054.
-    <li> Eigen M., Schuster P. The Hypercycle: A Principle of Natural Self-Organization, Berlin-Heidelberg-New York, Springer-Verlag, 1979, 98 p. </li>
-    <li> Kol'chugina E. A. Model reproduction of non-equilibrium thermodynamics principles as a means to provide software self-development, IOP Conference Series: Materials Science and Engineering; III International Scientific Conference: Modernization, Innovations, Progress: Advanced Technologies in Material Science, Mechanical and Automation Engineering (MIP-III2021), 29th—30th April 2021, Krasnoyarsk, Russian Federation, 2021, vol. 1155, p. 012054. DOI: 10.1088/1757-899X/1155/1/012054. </li>
-    <li> Anchordoqui L. A., Chudnovsky E. M. Can Self-Replicating Species Flourish in the Interior of a Star? Letters In High Energy Physics, 2020, vol. 2020, LHEP-166, pp. 1—4. DOI: 10.31526/ LHEP.2020.166. </li>
-    <li> Kol'chugina E. A. Self-Synthesis of Programs Based on Ar­tificial Chemistry Model, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 440—448. DOI: 10.17587/prin.13.440-448.
-    <li> Dittrich P., Ziegler J., Banzhaf W. Artificial Chemistries — A Review, Artificial Life, 2001, vol. 7, no 3, pp. 225—275. DOI: 10.1162/106454601753238636. </li>
-    <li> Banzhaf W., Yamamoto L. Artificial Chemistries, Cambridge, Massachusetts; London, England, The MIT Press, 2015, 576 p. </li>
-    <li> Church A. An Unsolvable Problem of Elementary Number Theory, American Journal of Mathematics, Apr. 1936, vol. 58, no. 2, pp. 345—363. </li>
-    <li> Holland J. H. Building Blocks, Cohort Genetic Algorithms, and Hyperplane-Defined Functions, Evolutionary Computations, 2000, vol. 8, no. 4, pp. 373—391. DOI: 10.1162/106365600568220.
-    <li> Mitchell M. Introduction to Genetic Algorithms, Cambridge, Massachusetts; London, England, A Bradford Book the MIT Press, 1999, 158 p. </li>
-    <li> Gladkov L. A., Kurejchik V. V., Kurejchik V. M. Geneticheskie algoritmy / Eds V. M. Kurejchik, 2-nd edition, corrected and expanded, Moscow, Fizmatlit, 2006, 320 p. (in Russian). </li>
-    <li> Koza J. R., Bennett F. H., Andre D., Keane M. A. Genetic Programming: Biologically Inspired Computation That Creatively Solves Non-trivial Problems, Evolution as Computation. Natural Computing Series / Eds L. F. Landweber, E. Winfree, Springer, Berlin, Heidelberg, 2002, pp. 95—124. DOI: 10.1007/978-3-642-55606-7_5.</li>
+     <li>Kol'chugina E. A. Spontaneous Emergence of Programs from "Primordial Soup" of Functions in Distributed Computer Systems, Automatic Control and Computer Sciences, 2018, vol. 52, no. 1, pp. 40—48. DOI: 10.3103/S0146411618010054.</li>
+     <li>Eigen M., Schuster P. The Hypercycle: A Principle of Natural Self-Organization, Berlin-Heidelberg-New York, Springer-Verlag, 1979, 98 p.</li>
+     <li>Kol'chugina E. A. Model reproduction of non-equilibrium thermodynamics principles as a means to provide software self-development, IOP Conference Series: Materials Science and Engineering; III International Scientific Conference: Modernization, Innovations, Progress: Advanced Technologies in Material Science, Mechanical and Automation Engineering (MIP-III2021), 29th—30th April 2021, Krasnoyarsk, Russian Federation, 2021, vol. 1155, p. 012054. DOI: 10.1088/1757-899X/1155/1/012054.</li>
+     <li>Anchordoqui L. A., Chudnovsky E. M. Can Self-Replicating Species Flourish in the Interior of a Star? Letters In High Energy Physics, 2020, vol. 2020, LHEP-166, pp. 1—4. DOI: 10.31526/ LHEP.2020.166.</li>
+     <li>Kol'chugina E. A. Self-Synthesis of Programs Based on Artificial Chemistry Model, Programmnaya Ingeneria, 2022, vol. 13, no. 9, pp. 440—448. DOI: 10.17587/prin.13.440-448.</li>
+     <li>Dittrich P., Ziegler J., Banzhaf W. Artificial Chemistries — A Review, Artificial Life, 2001, vol. 7, no 3, pp. 225—275. DOI: 10.1162/106454601753238636.</li>
+     <li>Banzhaf W., Yamamoto L. Artificial Chemistries, Cambridge, Massachusetts; London, England, The MIT Press, 2015, 576 p.</li>
+     <li>Church A. An Unsolvable Problem of Elementary Number Theory, American Journal of Mathematics, Apr. 1936, vol. 58, no. 2, pp. 345—363.</li>
+     <li>Holland J. H. Building Blocks, Cohort Genetic Algorithms, and Hyperplane-Defined Functions, Evolutionary Computations, 2000, vol. 8, no. 4, pp. 373—391. DOI: 10.1162/106365600568220.</li>
+     <li>Mitchell M. Introduction to Genetic Algorithms, Cambridge, Massachusetts; London, England, A Bradford Book the MIT Press, 1999, 158 p.</li>
+     <li>Gladkov L. A., Kurejchik V. V., Kurejchik V. M. Geneticheskie algoritmy / Eds V. M. Kurejchik, 2-nd edition, corrected and expanded, Moscow, Fizmatlit, 2006, 320 p. (in Russian).</li>
+     <li>Koza J. R., Bennett F. H., Andre D., Keane M. A. Genetic Programming: Biologically Inspired Computation That Creatively Solves Non-trivial Problems, Evolution as Computation. Natural Computing Series / Eds L. F. Landweber, E. Winfree, Springer, Berlin, Heidelberg, 2002, pp. 95—124. DOI: 10.1007/978-3-642-55606-7_5.</li>
  - doi: 14.82-92
    udk: "004.92"
    item_authors: "Borisov A. D., Makhortov S. D."
    item_name: "Non-Rigid Registration of a Human Face from Images from a Stereo Camera"
    item_authors_address: |
-     <b> A. D. Borisov</b>, Postgraduate Student, radiatus@yandex.ru, <b> S. D. Makhortov</b>, Professor, Head of Department of Programming and Information Technologies, msd_exp@outlook.com, Voronezh State University, Voronezh, 394018, Russian Federation
+     <b>A. D. Borisov</b>, Postgraduate Student, radiatus@yandex.ru,
+     <b>S. D. Makhortov</b>, Professor, Head of Department of Programming and Information Technologies, msd_exp@outlook.com,
+     Voronezh State University, Voronezh, 394018, Russian Federation
    item_corr_author: " Sergey D. Makhortov, Professor, Head of Department of Programming and Information Technologies, Voronezh State University, Voronezh, 394018, Russian Federation, E-mail: msd_exp@outlook.com"
    item_rec_on:   December 17, 2022
    item_acc_on: December 26, 2022
@@ -125,33 +133,33 @@ content:
    item_pages: 82–92
    item_citation: ' Borisov A. D., Makhortov S. D. Non-Rigid Registration of a Human Face from Images from a Stereo Camera, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 82—92. DOI: 10.7587/prin.14.82-92 (in Russian).'
    item_references: |
-    <li> Borshukov G., Piponi D., Larsen O. et al. Image-based Facial Animation for «The Matrix Reloaded», ACM SIGGRAPH computer graphics, N. Y., ACM, 2003, pp. 16. DOI: 10.1145/1198555.1198596. </li>
-    <li> Garrido P., Valgaert L., Wu C. et al. Reconstructing detailed dynamic face geometry from monocular video, ACM SIGGRAPH computer graphics, N. Y., ACM, 2013, pp. 1—10. DOI: 10.1145/2508363.2508380. </li>
-    <li> Debevec P., Hawkins T., Tchou C. et al. Acquiring the Re­flectance Field of a Human Face, ACM SIGGRAPH computer graphics. N. Y., ACM, 2020, pp. 145—156. DOI: 10.1145/344779.344855. </li>
-    <li> Hao L., Sumner R., Pauly M. et al. Global correspondence optimization for non-rigid registration of depth scans, Eurographics Symposium on Geometry Processing, N. Y., ACM, 2008, pp. 1421—1430. </li>
-    <li> Casas D., Tejera M., Guillemaut J. et al. Interactive Anima­tion of 4D Performance Capture, IEEE Transactions on Visualization and Computer Graphics, IEEE 2013, pp. 762—773. DOI: 10.1109/TVCG.2012.314. </li>
-    <li> Hongwei X., Leijia D., Jianxing F. et al High-Quality Real TIme Facial Capture Based on Single Camera, Creative Commons Attribution 4.0International, arXiv, 2021, pp. 1—9. DOI: 10.48550/arXiv.2111.07556. </li>
-    <li> Serra J., Moser L., McLean D. et al. Simplified facial capture with head mounted cameras, ACM SIGGRAPH computer graphics, N. Y., ACM, 2021, pp. 1—2. DOI: 10.1145/3450623. 3464637. </li>
-    <li> Eugen A., Bouaziz S., Pauly M. Dynamic 3D avatar cre­ation from hand-held video input, ACM SIGGRAPH computer graphics, N. Y., ACM, 2015, pp. 1—14. DOI: 10.1145/2766974. </li>
-    <li> Fyffe G., Nagano K., Huynh L. et al. Multi-View Stereo on Consistent Face Topology, ACM SIGGRAPH computer graphics, N. Y., ACM, 2017, pp. 1—2. DOI: 10.1111/cgf.13127. </li>
-    <li> Weinzaepfel P., Revaud J., Harchaoui Z. et al. DeepFlow: Large displacement optical flow with deep matching, IEEE International Conference on Computer Vision, IEEE 2013, pp. 1385—1392. DOI: 10.1109/ICCV.2013.175. </li>
-    <li> Brox T., Malik J. Large displacement optical flow: descrip­tor matching in variational motion estimation, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE 2011, pp. 500—513. DOI: 10.1109/TPAMI.2010.143. </li>
-    <li> Sun D., Roth S., Black M. Secrets of optical flow estimation and their principles, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, IEEE, 2010, pp. 2432—2439. DOI: 10.1109/CVPR.2010.5539939. </li>
-    <li> Beeler T., Hahn F., Bradley D. et al. High-Quality Pas­sive Facial Performance Capture using Anchor Frames, ACM SIGGRAPH computer graphics, N. Y.: ACM, 2011, pp. 1—10. DOI: 10.1145/2010324.1964970. </li>
-    <li> Borisov A. D., Solomatin D. I. Stereo Constraints for the Problem of Non-Rigid Face Registration, Trudy molodyh uchyonyh fakulteta kompyuternyh nauk VGU, 2022, pp. 219—223 (in Russian). </li>
-    <li> Borisov A. D., Solomatin D. I. Razrabotka personalizirovan-nogo detektora kluchevyh nocher litsa, Trudy molodyh uchyonyh fakulteta kompyuternyh nauk VGU, 2020, pp. 16—22 (in Russian). </li>
-    <li> Gabriel P., Cohen L. Geodesic Methods for Shape and Surface Processing, Advances in Computational Vision and Medical Image Processing: Methods and Applications, Springer Verlag, 2009, pp. 29—56. DOI: 10.1007/978-1-4020-9086-8. </li>
-    <li> Beeler T., Bickel B., Beardsley P. et al. High-quality single-shot capture of facial geometry, ACM SIGGRAPH comput­er graphics, N. Y., ACM, 2010, pp. 1—9. DOI: 10.1145/1778765. 1778777. </li>
-    <li> Biancolini M. Fast RBF for Engineering Applications, Fast radial basis functions for engineering applications, Springer Interna­tional Publishing, 2018, pp. 7—78. </li>
-    <li> Sumner R. Mesh Modification Using Deformation Gradients, Department of Electrical Engineering and Computer Science, 2005, рр. 1—29. </li>
-    <li> Andelson E, Anderson C., Bergen J. et al. Pyramid methods in image processing, ACM SIGGRAPH computer graphics, N. Y., ACM, 1983, pp. 1—9. </li>
-    <li> Madsen K., Nielsen H., Tingleff O. Methods for Non-Linear Least Square Problems, Cobenhavn, Technical University of Denmark, 2004, рр. 1—30. </li>
+     <li>Borshukov G., Piponi D., Larsen O. et al. Image-based Facial Animation for «The Matrix Reloaded», ACM SIGGRAPH computer graphics, N. Y., ACM, 2003, pp. 16. DOI: 10.1145/1198555.1198596.</li>
+     <li>Garrido P., Valgaert L., Wu C. et al. Reconstructing detailed dynamic face geometry from monocular video, ACM SIGGRAPH computer graphics, N. Y., ACM, 2013, pp. 1—10. DOI: 10.1145/2508363.2508380.</li>
+     <li>Debevec P., Hawkins T., Tchou C. et al. Acquiring the Re­flectance Field of a Human Face, ACM SIGGRAPH computer graphics. N. Y., ACM, 2020, pp. 145—156. DOI: 10.1145/344779.344855.</li>
+     <li>Hao L., Sumner R., Pauly M. et al. Global correspondence optimization for non-rigid registration of depth scans, Eurographics Symposium on Geometry Processing, N. Y., ACM, 2008, pp. 1421—1430.</li>
+     <li>Casas D., Tejera M., Guillemaut J. et al. Interactive Anima­tion of 4D Performance Capture, IEEE Transactions on Visualization and Computer Graphics, IEEE 2013, pp. 762—773. DOI: 10.1109/TVCG.2012.314.</li>
+     <li>Hongwei X., Leijia D., Jianxing F. et al High-Quality Real TIme Facial Capture Based on Single Camera, Creative Commons Attribution 4.0International, arXiv, 2021, pp. 1—9. DOI: 10.48550/arXiv.2111.07556.</li>
+     <li>Serra J., Moser L., McLean D. et al. Simplified facial capture with head mounted cameras, ACM SIGGRAPH computer graphics, N. Y., ACM, 2021, pp. 1—2. DOI: 10.1145/3450623. 3464637.</li>
+     <li>Eugen A., Bouaziz S., Pauly M. Dynamic 3D avatar cre­ation from hand-held video input, ACM SIGGRAPH computer graphics, N. Y., ACM, 2015, pp. 1—14. DOI: 10.1145/2766974.</li>
+     <li>Fyffe G., Nagano K., Huynh L. et al. Multi-View Stereo on Consistent Face Topology, ACM SIGGRAPH computer graphics, N. Y., ACM, 2017, pp. 1—2. DOI: 10.1111/cgf.13127.</li>
+     <li>Weinzaepfel P., Revaud J., Harchaoui Z. et al. DeepFlow: Large displacement optical flow with deep matching, IEEE International Conference on Computer Vision, IEEE 2013, pp. 1385—1392. DOI: 10.1109/ICCV.2013.175.</li>
+     <li>Brox T., Malik J. Large displacement optical flow: descrip­tor matching in variational motion estimation, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE 2011, pp. 500—513. DOI: 10.1109/TPAMI.2010.143.</li>
+     <li>Sun D., Roth S., Black M. Secrets of optical flow estimation and their principles, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, IEEE, 2010, pp. 2432—2439. DOI: 10.1109/CVPR.2010.5539939.</li>
+     <li>Beeler T., Hahn F., Bradley D. et al. High-Quality Pas­sive Facial Performance Capture using Anchor Frames, ACM SIGGRAPH computer graphics, N. Y.: ACM, 2011, pp. 1—10. DOI: 10.1145/2010324.1964970.</li>
+     <li>Borisov A. D., Solomatin D. I. Stereo Constraints for the Problem of Non-Rigid Face Registration, Trudy molodyh uchyonyh fakulteta kompyuternyh nauk VGU, 2022, pp. 219—223 (in Russian).</li>
+     <li>Borisov A. D., Solomatin D. I. Razrabotka personalizirovan-nogo detektora kluchevyh nocher litsa, Trudy molodyh uchyonyh fakulteta kompyuternyh nauk VGU, 2020, pp. 16—22 (in Russian).</li>
+     <li>Gabriel P., Cohen L. Geodesic Methods for Shape and Surface Processing, Advances in Computational Vision and Medical Image Processing: Methods and Applications, Springer Verlag, 2009, pp. 29—56. DOI: 10.1007/978-1-4020-9086-8.</li>
+     <li>Beeler T., Bickel B., Beardsley P. et al. High-quality single-shot capture of facial geometry, ACM SIGGRAPH comput­er graphics, N. Y., ACM, 2010, pp. 1—9. DOI: 10.1145/1778765. 1778777.</li>
+     <li>Biancolini M. Fast RBF for Engineering Applications, Fast radial basis functions for engineering applications, Springer International Publishing, 2018, pp. 7—78.</li>
+     <li>Sumner R. Mesh Modification Using Deformation Gradients, Department of Electrical Engineering and Computer Science, 2005, рр. 1—29.</li>
+     <li>Andelson E, Anderson C., Bergen J. et al. Pyramid methods in image processing, ACM SIGGRAPH computer graphics, N. Y., ACM, 1983, pp. 1—9.</li>
+     <li>Madsen K., Nielsen H., Tingleff O. Methods for Non-Linear Least Square Problems, Cobenhavn, Technical University of Denmark, 2004, рр. 1—30.</li>
  - doi: 14.93-100
    udk: "004.5"
    item_authors: "Chitalov D. I."
    item_name: "On the Development of a Module for the coupledPoroFoam Solver of the OpenFOAM Package"
    item_authors_address: |
-     <b> D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru,
+     <b>D. I. Chitalov</b>, Junior Researcher, cdi9@yandex.ru,
      South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation
    item_corr_author: " Dmitry I. Chitalov, Junior Researcher, South Urals Federal Research Centre of Mineralogy and Geoecology of the UB RAS, Chelyabinsk region, Miass, Ilmen reserve, 456317, Russian Federation E-mail: cdi9@yandex.ru"
    item_rec_on:   November 09, 2022
@@ -164,22 +172,21 @@ content:
    item_pages: 93–100
    item_citation: 'Chitalov D. I. On the Development of a Module for the coupledPoroFoam Solver of the OpenFOAM Package, Programmnaya Ingeneria, 2023, vol. 14, no. 2, pp. 93—100. DOI: 10.17587/prin.14.93-100 (in Russian).'
    item_references: |
-    <li> OpenFOAM. The open source CFD toolbox, available at: https://www.openfoam.com/ (date of access 04.11.2022). </li>
-    <li> Salome. The Open Source Integration Platform for Numeri­cal Simulation, available at: http://www.salome-platform.org (date of access 04.11.2022). </li>
-    <li> Helyx-OS. Open Source GUI for OpenFOAM, available at: http://engys.com/products/helyx-os (date of access 04.11.2022). </li>
-    <li> Visual-CFD for OpenFOAM. CFD simulation soft­ware aimed at solving complex flow applications, available at: http://www.esi-group.com/software-solutions/virtual-environ-ment/cfd-multiphysics/visual-cfd-openfoam (date of access 04.11.2022). </li>
-    <li> Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Devel­opment of a graphical user interface for the OpenFOAM toolbox, Programmnaya ingeneria, 2016, no. 12, pp. 568—574. DOI: 10.17587/ prin.7.568-574 (in Russian). </li>
-    <li> Chitalov D. I., Kalashnikov S. T. Development of a mod­ule for the implementation of mirroring of computational meshes around a given plane in the graphical user interface of the open-foam platform, Programmnaya ingeneria, 2019, no. 7-8, pp. 297—304. DOI: 10.17587/prin.10.297-304 (in Russian). </li>
-    <li> Chitalov D. I. On the development of a module for the implementation of motion and topological changes in computational meshes and its integration into the graphical shell for the OpenFOAM platform, Programmnaya ingeneria, 2020, no. 2, pp. 108—114. DOI: 10.17587/prin.11.108-114 (in Russian). </li>
-    <li> Chitalov D. I. Development of a module for grinding cells of computational meshes in several directions and its integration intgui for the openfoam software environment, Sistemy i sredstva informatiki, 2020, no 3, pp. 133—144. DOI: 10.14357/08696527200312 (in Russian). </li>
-    <li> Python 3.7 documentation, available at: http://docs.python.org/3.7/ (date of access 04.11.2022). </li>
-    <li> Prohorenok N. A. Python 3 and PyQt. Application Develop­ment. St. Petersburg: BHV-Petersburg, 2012. 704 p. (in Russian). </li>
-    <li> PyQt5 Reference Guide, available at: http://pyqt.sourceforge. net/Docs/PyQt5/ (date of access 04.11.2022). </li>
-    <li> SQLite, available at: https://www.sqlite.org/index.html (date of access 04.11.2022). </li>
-    <li> Free online diagram software, available at: https://www. draw.io(date of access 04.11.2022). </li>
-    <li> PyCharm, available at: https://www.jetbrains.com/ru-ru/ pycharm/ (date of access 04.11.2022). </li>
-    <li> The OpenFOAM Foundation. User Guide, available at: http://foam.sourceforge.net/docs/Guides-a4/OpenFOAMUser-Guide-A4.pdf (date of access 04.11.2022). </li>
-    <li> OpenFOAM. Tutorial Guide, available at: http://open-foam.com/documentation/tutorial-guide/index.php (date of access 04.11.2022). </li>
-    <li> ParaView. Open-source, multi-platform data analysis and visualization application, available at: http://www.paraview.org/ (date of access 04.11.2022). </li>
-    <li> OpenFOAM_GUI, available at: http://github.com/Dmitry-Chitalov/OpenFOAM_GUI (date of access 04.11.2022)</li>
----
+     <li>OpenFOAM. The open source CFD toolbox, available at: https://www.openfoam.com/ (date of access 04.11.2022).</li>
+     <li>Salome. The Open Source Integration Platform for Numerical Simulation, available at: http://www.salome-platform.org (date of access 04.11.2022).</li>
+     <li>Helyx-OS. Open Source GUI for OpenFOAM, available at: http://engys.com/products/helyx-os (date of access 04.11.2022).</li>
+     <li>Visual-CFD for OpenFOAM. CFD simulation soft­ware aimed at solving complex flow applications, available at: http://www.esi-group.com/software-solutions/virtual-environ-ment/cfd-multiphysics/visual-cfd-openfoam (date of access 04.11.2022).</li>
+     <li>Chitalov D. I., Merkulov E. S., Kalashnikov S. T. Devel­opment of a graphical user interface for the OpenFOAM toolbox, Programmnaya ingeneria, 2016, no. 12, pp. 568—574. DOI: 10.17587/ prin.7.568-574 (in Russian).</li>
+     <li>Chitalov D. I., Kalashnikov S. T. Development of a mod­ule for the implementation of mirroring of computational meshes around a given plane in the graphical user interface of the open-foam platform, Programmnaya ingeneria, 2019, no. 7-8, pp. 297—304. DOI: 10.17587/prin.10.297-304 (in Russian).</li>
+     <li>Chitalov D. I. On the development of a module for the implementation of motion and topological changes in computational meshes and its integration into the graphical shell for the OpenFOAM platform, Programmnaya ingeneria, 2020, no. 2, pp. 108—114. DOI: 10.17587/prin.11.108-114 (in Russian).</li>
+     <li>Chitalov D. I. Development of a module for grinding cells of computational meshes in several directions and its integration intgui for the openfoam software environment, Sistemy i sredstva informatiki, 2020, no 3, pp. 133—144. DOI: 10.14357/08696527200312 (in Russian).</li>
+     <li>Python 3.7 documentation, available at: http://docs.python.org/3.7/ (date of access 04.11.2022).</li>
+     <li>Prohorenok N. A. Python 3 and PyQt. Application Development. St. Petersburg: BHV-Petersburg, 2012. 704 p. (in Russian).</li>
+     <li>PyQt5 Reference Guide, available at: http://pyqt.sourceforge.net/Docs/PyQt5/ (date of access 04.11.2022).</li>
+     <li>SQLite, available at: https://www.sqlite.org/index.html (date of access 04.11.2022).</li>
+     <li>Free online diagram software, available at: https://www.draw.io (date of access 04.11.2022).</li>
+     <li>PyCharm, available at: https://www.jetbrains.com/ru-ru/pycharm/ (date of access 04.11.2022).</li>
+     <li>The OpenFOAM Foundation. User Guide, available at: http://foam.sourceforge.net/docs/Guides-a4/OpenFOAMUser-Guide-A4.pdf (date of access 04.11.2022).</li>
+     <li>OpenFOAM. Tutorial Guide, available at: http://open-foam.com/documentation/tutorial-guide/index.php (date of access 04.11.2022).</li>
+     <li>ParaView. Open-source, multi-platform data analysis and visualization application, available at: http://www.paraview.org/ (date of access 04.11.2022).</li>
+     <li>OpenFOAM_GUI, available at: http://github.com/Dmitry-Chitalov/OpenFOAM_GUI (date of access 04.11.2022)</li>
