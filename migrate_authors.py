@@ -2,6 +2,7 @@
 
 from os.path import abspath
 import re
+import sys
 
 from ruamel.yaml import YAML
 from ruamel.yaml.comments import CommentedSeq
@@ -24,6 +25,7 @@ INITIALS_RE = re.compile(r"^([А-Я]\.( [А-Я].)?|[A-Z][a-z]?\.( [A-Z][a-z]?\.)
 def parse_name(name: str) -> dict[str, str]:
     initials, last_name = name.rsplit(maxsplit=1)
     assert INITIALS_RE.match(initials), f"Cannot parse name: {name}"
+    assert "," not in last_name, f"Comma in name: {name}"
     return {"last_name": last_name, "initials": initials}
 
 
@@ -58,24 +60,26 @@ def migrate_item(item):
         authors_v2 = []
         for line in raw_addr.splitlines():
             if line.startswith("<b>"):
-                line = line.removeprefix("<b>")
-                authors_v2.append(
-                    {
-                        **parse_name(line[: line.find("</b>")]),
-                        "email": line.rstrip(",").split()[-1],
-                        "affiliations": [len(affiliations) + 1],
-                    }
-                )
+                author = {
+                    **parse_name(line[3 : line.find("</b>")]),
+                    "affiliations": [len(affiliations) + 1],
+                }
+                email = line.rstrip(",").split()[-1]
+                if "@" in email:
+                    author["email"] = email
+                else:
+                    print(f"Warning: no email in {line=}", file=sys.stderr)
+                authors_v2.append(author)
             else:
                 affiliations.append(line.rstrip(","))
 
     assert authors_v2, f"Cannot parse authors: {raw_addr = }"
 
     for author in authors_v2:
-        email = author["email"]
-        assert "@" in email, email
-        assert " " not in email, email
-        assert "\n" not in email, email
+        if email := author.get("email"):
+            assert "@" in email, email
+            assert " " not in email, email
+            assert "\n" not in email, email
 
         seq = CommentedSeq(author["affiliations"])
         seq.fa.set_flow_style()
@@ -99,8 +103,6 @@ def migrate_file(path: str):
 
 
 if __name__ == "__main__":
-    import sys
-
     if len(sys.argv) != 2:
         print("Usage: migrate_authors.py issue.yaml")
         sys.exit(1)
