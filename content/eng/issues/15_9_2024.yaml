@@ -20,7 +20,7 @@ content:
    item_citation: "Kostiukhin K. A., Samborskii S. V. Using Hardware Events to Detect Side-Channel Attacks, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 443—449. DOI: 10.17587/prin.15.443-449."
    item_references: |
      <li>Maurice C. Introduction to micro-architectural attacks. Lecture in Ben Gurion University, Israel, April 30, 2019, available at: https://orenlab.sise.bgu.ac.il/AttacksonImplementation-sCourseBook/06_Cache_Attacks_Guest_Lecture (date of access 26.06.2024).</li>
-     <li>TEMPEST in Action. Digital Interruption, available at: https://www.digitalinterruption.com/tempest-in-action (date of access 26.06.2024).
+     <li>TEMPEST in Action. Digital Interruption, available at: https://www.digitalinterruption.com/tempest-in-action (date of access 26.06.2024).</li>
      <li>Meltdown and Spectre, available at: https://meltdownattack.com (date of access 26.06.2024).</li>
      <li>Su Chao, Zeng Qingkai. Survey of CPU Cache-Based Side-Channel Attacks: Systematic Analysis, Security Models, and Countermeasures, Security and Communication Networks, 2021, vol. 2021, article ID 5559552, 15 p. DOI: 10.1155/2021/5559552.</li>
      <li>Limin Wang, Lei Bu, Fu Song. SCAGuard: Detection and Classification of Cache Side-Channel Attacks via Attack Behavior Modeling and Similarity Comparison. Technical Report No. NJU-SEG-2023-IC-003, Nanjing University, 2023, available at: https://seg.nju.edu.cn/uploadPublication/copyright/123-652778460.pdf (date of access 26.06.2024).</li>

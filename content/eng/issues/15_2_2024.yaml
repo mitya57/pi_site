@@ -39,9 +39,12 @@ content:
    item_authors: "Shelekhov V. I., Tumurov E. G."
    item_name: "Automata-based Software Engineering for Control System Design and Verification"
    item_authors_address: |
-     <b>V. I. Shelekhov</b>, Head of Laboratory, vshel@iis.nsk.su,
-     <b>E. G. Tumurov</b>, Research Assistant, erdemus@gmail.com,
-     A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+     <b>V. I. Shelekhov</b><sup>1, 2</sup>, Head of Laboratory, vshel@iis.nsk.su,
+     <b>E. G. Tumurov</b><sup>1</sup>, Research Assistant, tumurov@iis.nsk.su
+     <br>
+     <sup>1</sup> A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation
+     <br>
+     <sup>2</sup> Novosibirsk State University, Novosibirsk, 630090, Russian Federation
    item_corr_author: " Vlaimir I. Shelekhov, Head of Laboratory, A. P. Ershov Institute of Informatics Systems, Novosibirsk, 630090, Russian Federation, E-mail: vshel@iis.nsk.su"
    item_rec_on: October 31, 2023
    item_acc_on: November 22, 2023

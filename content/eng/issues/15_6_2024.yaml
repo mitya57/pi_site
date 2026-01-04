@@ -117,10 +117,12 @@ content:
    item_authors: Gribova V. V., Perevolotsky V. S.
    item_name: Knowledge Graph Formation Using LLM for Disease Treatment in Decision Support Systems
    item_authors_address: |
-     <b>V. V. Gribova</b>, D. Sc. (Technical Sciences), Deputy Director, Head of intelligent systems lab, gribova@iacp.dvo.ru,
-     Institute of Automation and Control Processes, Far Eastern Branch of Russian, Academy of Sciences, Vladivostok, 690041, Russian Federation, Far Eastern Federal University, Vladivostok, 690922, Russian Federation,
-     <b>V. S. Perevolotsky</b>, Postgraduate Student, lost.yayo@gmail.com,
-     Far Eastern Federal University, Vladivostok, 690922, Russian Federation
+     <b>V. V. Gribova</b><sup>1, 2</sup>, D. Sc. (Technical Sciences), Deputy Director, Head of intelligent systems lab, gribova@iacp.dvo.ru,
+     <b>V. S. Perevolotsky</b><sup>1</sup>, Postgraduate Student, lost.yayo@gmail.com,
+     <br>
+     <sup>1</sup> Far Eastern Federal University, Vladivostok, 690922, Russian Federation
+     <br>
+     <sup>2</sup> Institute of Automation and Control Processes, Far Eastern Branch of Russian Academy of Sciences, Vladivostok, 690041, Russian Federation
    item_corr_author: "Vladimir S. Perevolotsky, Postgraduate Student, Far Eastern Federal University, Vladivostok, 690922, Russian Federation, E-mail: lost.yayo@gmail.com"
    item_rec_on: February 13, 2024
    item_acc_on: March 26, 2024
