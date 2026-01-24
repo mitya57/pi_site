@@ -114,6 +114,10 @@ def generate_elibrary_xml(yaml_file, output_file):
         dates_elem = ET.SubElement(article_elem, "dates")
         item_rec_on = datetime.strptime(article_en["item_rec_on"], "%B %d, %Y").date()
         item_acc_on = datetime.strptime(article_en["item_acc_on"], "%B %d, %Y").date()
+        if "item_rec_on" in article:
+            assert article["item_rec_on"] == item_rec_on
+        if "item_acc_on" in article:
+            assert article["item_acc_on"] == item_acc_on
         ET.SubElement(dates_elem, "dateReceived").text = item_rec_on.isoformat()
         ET.SubElement(dates_elem, "dateAccepted").text = item_acc_on.isoformat()
         ET.SubElement(dates_elem, "datePublication").text = data["date"].isoformat()
