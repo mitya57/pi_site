@@ -119,12 +119,25 @@ def generate_elibrary_xml(yaml_file, output_file):
         ET.SubElement(dates_elem, "datePublication").text = data["date"].isoformat()
 
         refs_elem = ET.SubElement(article_elem, "references")
-        for line in article_en["item_references"].strip().splitlines():
+        references_en = article_en["item_references"].strip().splitlines()
+        references_ru = None
+        if "item_references" in article:
+            references_ru = article["item_references"].strip().splitlines()
+            assert len(references_en) == len(references_ru)
+
+        for ix, line in enumerate(references_en):
             assert line.startswith("<li>") and line.endswith("</li>"), line
             line = line.removeprefix("<li>").removesuffix("</li>")
             ref_elem = ET.SubElement(refs_elem, "reference")
             ref_info = ET.SubElement(ref_elem, "refInfo", lang="en")
             ET.SubElement(ref_info, "text").text = line.strip()
+            if references_ru is not None:
+                line_ru = references_ru[ix]
+                assert line_ru.startswith("<li>") and line_ru.endswith("</li>"), line_ru
+                line_ru = line_ru.removeprefix("<li>").removesuffix("</li>")
+                if re.search("[а-я]", line_ru.replace("дата обращения", ""), re.IGNORECASE):
+                    ref_info = ET.SubElement(ref_elem, "refInfo", lang="ru")
+                    ET.SubElement(ref_info, "text").text = line_ru.strip()
 
         if "item_comment" in article or "item_comment" in article_en:
             funding_elem = ET.SubElement(article_elem, "artFunding")
