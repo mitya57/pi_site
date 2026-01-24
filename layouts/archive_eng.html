@@ -4,6 +4,11 @@
             <%= yield %>
 
 
+    <div class="year_issues">2026 year</div>
+    <% for @i in 1..1 %>
+      <div class="issue_in_year"><a href="eng/issues/17_<%= @i %>_2026.html">Vol 17 No <%= @i %></a></div>
+    <% end %>
+
     <div class="year_issues">2025 year</div>
     <% for @i in 1..12 %>
       <div class="issue_in_year"><a href="eng/issues/16_<%= @i %>_2025.html">Vol 16 No <%= @i %></a></div>

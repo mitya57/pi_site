@@ -1,0 +1,222 @@
+---
+title: Issue N1 2025 year
+content:
+ - doi: 17.3-13
+   udk: '004.89'
+   edn: HLACFS
+   item_authors: Palchevsky E. V., Antonov V. V., Khasanov I. I., Suvorova V. A.
+   item_name: Development of a Spiking Neural Network for the Quantitative Assessment of Critical Information Infrastructure Security
+   item_authors_address: |
+     <b>E. V. Palchevsky</b><sup>1</sup>, Ph.D. (Engineering), Associate Professor of the Department, teelxp@inbox.ru,
+     <b>V. V. Antonov</b><sup>2</sup>, D. Sc. (Engineering), Head of the Department, antonov.v@bashkortostan.ru,
+     <b>I. I. Khasanov</b><sup>3</sup>, Ph. D. (Engineering), Associate Professor of the Department, iikhasanov@fa.ru,
+     <b>V. A. Suvorova</b><sup>2</sup>, Ph. D. (Engineering), Associate Professor of the Department, milana_da@mail.ru
+     <br>
+     <sup>1</sup> MIREA — Russian Technological University (RTU MIREA), Moscow,
+     <br>
+     <sup>2</sup> Institute of Computer Science, Mathematics and Robotics, Ufa University of Science and Technology, Ufa,
+     <br>
+     <sup>3</sup> Financial University under the Government of the Russian Federation, Moscow
+   item_corr_author: 'Evgeny V. Palchevsky, Ph.D., Associate Professor of the Department, Institute of Advanced Technologies and Industrial Programming, MIREA — Russian Technological University (REU MIREA), Moscow, 119454, Russian Federation E-mail: teelxp@inbox.ru'
+   item_rec_on: July 09, 2025
+   item_acc_on: August 05, 2025
+   item_annot: |
+     <p>This paper presents the architecture of SecureSpikeNet, a next-generation spiking neural network designed to quantify security risks in the banking sector's critical information infrastructure (CII). Unlike traditional models that rely on computationally intensive gradient-based training, SecureSpikeNet employs a dual-level learning strategy: local training of the hidden layer using extended spike-timing-dependent plasticity (e-STDP) and global optimization of the output layer via the REINFORCE algorithm. Input data are converted into spike trains based on 13 features extracted from NetFlow, IDS, EDR, SIEM and other telemetry sources.
+     The architecture can be deployed on both domestic and international neuromorphic processors (e.g., Intel Loihi 2 and the Russian "Altai" chip) and automatically adapts to an evolving threat landscape. A novel integral risk metric — SecureSpikeScore is introduced, suitable for transmission to regulators and integration into risk-management systems.
+     On a test dataset of 10 000 records, a modified SecureSpikeNet achieved 97.4 % accuracy and an Fl-score of 75.4 %. Compared with CNN-IDS (98.5/98 %) and LSTM-IDS (98/97.5 %), the proposed model delivers comparable detection quality while requiring substantially fewer computational resources and uniquely provides a quantitative threat assessment absent from the reference models.</p>
+   item_keywords: spiking neural network, SecureSpikeNet, critical information infrastructure, quantitative risk assessment, SecureSpikeScore, e-STDP, REINFORCE, neuromorphic processors, streaming telemetry analysis, banking cybersecurity
+   item_pages: 3—13
+   item_comment: The article was prepared within the framework of State Assignment No. 10230328002153-1.2.1 of the Financial University under the Government of the Russian Federation.
+   item_citation: 'Palchevsky E. V., Antonov V. V., Khasanov I. I., Suvorova V. A. Development of a Spiking Neural Network for the Quantitative Assessment of Critical Information Infrastructure Security, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 3—13. DOI: 10.17587/prin.17.3-13. (in Russian).'
+   item_references: |
+     <li>Golembiovskij M. M., Golembiovskaja O. M., Kondrashova E. V. et al. Formalization of the process of assessing the security of critical information infrastructure facilities, Informacionnye sistemy i tehnologii, 2023, no. 4 (138), pp. 92—100 (in Russian).</li>
+     <li>Danilov D. Ju., But N. D. Protection of critical information infrastructure by means of prosecutorial supervision as an important component of national security, Vestnik Universiteta prokuratury Rossijskoj Federacii, 2024, no. 2 (100), pp. 45—52 (in Russian).</li>
+     <li>Alekseeva A. Money transfers without voluntary consent: what Bank of Russia statistics say, Infragreen.ru, 18 May 2025, available at https://infragreen.ru/pierievody-dieniegh-biez-dobrovolnogho-soghlasiia/ (date of access 10.06.2025) (in Russian).</li>
+     <li>Slapnicar S., Vuko T., Cular M., Drascek M. Effectiveness of cybersecurity audit, International Journal of Accounting Information Systems, 2022, vol. 44, article 100548. DOI: 10.1016/j.accinf.2021.100548.</li>
+     <li>Mahboubi A., Luong K., Aboutorab H. et al. Evolving techniques in cyber threat hunting: A systematic review, Journal of Network and Computer Applications, 2024, vol. 232, article 104004. DOI: 10.1016/j.jnca.2024.104004.</li>
+     <li>Zheng Y., Li Z., Xu X., Zhao Q. Dynamic defenses in cyber security: Techniques, methods and challenges, Digital Communications and Networks, 2021, vol. 8, no. 4, pp. 422—435. DOI: 10.1016/j.dcan.2021.07.006.</li>
+     <li>Son K.-S., Song J.-G., Hahm I., Lee J.-W. Quantifying cyber risk: A model for evaluating safety impacts of cyber threats on NPPs, Nuclear Engineering and Technology, 2025, vol. 57, no. 10, article 103675. DOI: 10.1016/j.net.2025.103675.</li>
+     <li>Zadeh A., Lavine B., Zolbanin H. M., Hopkins D. A cybersecurity risk quantification and classification framework for informed risk-mitigation decisions, Decision Analytics Journal, 2023, vol. 9, article 100328. DOI: 10.1016/j.dajour.2023.100328.</li>
+     <li>AlHidaifi S. M., Asghar M. R., Ansari I. S. Towards a Cyber-Resilience Quantification Framework (CRQF) for IT Infrastructure, Computer Networks, 2024, vol. 247, article 110446. DOI: 10.1016/j.comnet.2024.110446.</li>
+     <li>Han J., Kamber M., Pei J. Data Mining: Concepts and Techniques. 3rd ed. Amsterdam, Elsevier, 2011, 744 p.</li>
+     <li>Chandola V., Banerjee A., Kumar V. Anomaly detection: A survey, ACM Computing Surveys, 2009, vol. 41, no. 3, article 15. DOI: 10.1145/1541880.1541882.</li>
+     <li>Garcia S., Grill M., Stiborek J., Zunino A. An empirical comparison of botnet detection methods, Computers & Security, 2014, vol. 45, pp. 100—123. DOI: 10.1016/j.cose.2014.05.011.</li>
+     <li>Dan Y., Poo M. M. Spike timing-dependent plasticity of neural circuits, Neuron, 2004, vol. 44, no. 1, pp. 23—30. DOI: 10.1016/j.neuron.2004.09.007.</li>
+     <li>Poisson S.-D. Researches into the probabilities of judgements in criminal and civil cases / Transl. by O. Sheynin. Berlin, Oscar Sheynin, 2013, 252 p., available at: https://probabilityandfinance.com/sheynin/053_Poisson_en.pdf (date of access 30.06.2025).</li>
+     <li>Williams R. J. Simple statistical gradient-following algorithms for connectionist reinforcement learning, Machine Learning, 1992, vol. 8, pp. 229—256. DOI: 10.1007/BF00992696.</li>
+     <li>Sinha P., Sahu D., Prakash S. et al. A high-performance hybrid LSTM-CNN secure architecture for IoT environments using deep learning, Scientific Reports, 2025, vol. 15, article 9684. DOI: 10.1038/s41598-025-94500-5.</li>
+     <li>Wang Z., Ghaleb F. A., Zainal A. et al. An efficient intrusion detection model based on convolutional spiking neural network, Scientific Reports, 2024, vol. 14, article 7054. DOI: 10.1038/s41598-024-57691-x.</li>
+     <li>Fan S., Paul P., Wu T. et al. On applications of Spiking Neural P Systems, Applied Sciences, 2020, vol. 10, no. 20, article 7011. DOI: 10.3390/app10207011.</li>
+ - doi: 17.14-23
+   udk: "004.932, 004.93'1"
+   edn: XRHJAY
+   item_authors: Yermolenko T. V., Bondarenko V. I.
+   item_name: Review of Deep Learning Models for Cross-View Geo-Localization Tasks Accounting for Contextual Information
+   item_authors_address: |
+     <b>T. V. Yermolenko</b>, Associate Professor, naturewild71@yandex.ru,
+     <b>V. I. Bondarenko</b>, Associate Professor, mail@vibondarenko.ru,
+     Donetsk State University, Donetsk, 283001, Donetsk People's Republic, Russian Federation
+   item_corr_author: "Tatyana V. Yermolenko, Associate Professor, Donetsk State University, 283001, Donetsk, Donetsk People's Republic, Russian Federation, E-mail: naturewild71@yandex.ru"
+   item_rec_on: June 27, 2025
+   item_acc_on: August 06, 2025
+   item_annot: |
+     <p>This paper reviews state-of-the-art deep learning models designed for cross-geolocation tasks and presents a comparative analysis of their performance. We address key challenges in applying machine learning to autonomous UAV navigation systems, including variations in imaging conditions, occlusions, the lack of annotated datasets, and class imbalance.
+     The primary architectures for comparing aerial images (UAV and satellite) are convolutional networks. To capture local features and contextual information from all image regions, these networks employ image partitioning techniques. A notable convolutional model for context-aware processing is the Local Pattern Network, which uses a square-ring partitioning strategy.
+     Transformers, with their self-attention mechanism, serve as powerful extractors of context-dependent features. The Vision Transformer (ViT) architecture—adapted for image analysis—processes all image patches through Transformer layers. Its attention mechanism iteratively refines patch embeddings, progressively incorporating semantic relationships between them. Building on ViT, we propose an architecture that segments images into regions based on heatmap distributions and aligns UAV imagery with satellite data. This approach demonstrates robustness to object displacement and scale variations across image pairs.
+     To further improve matching accuracy, multimodal models such as the Multi-Branch Feature Fusion Network (MBF) are employed. MBF combines convolutional and Transformer strengths by integrating natural language descriptions of objects alongside visual data. However, multimodal approaches face limitations, including scarce multimodal datasets and the high computational cost of large base networks, resulting in slow inference speeds.</p>
+   item_keywords: cross-view geo-localization, local pattern network, vision transformer, feature segmentation and region alignment, cross-modality feature fusion, multi-branch fusion network
+   item_pages: 14—23
+   item_citation: 'Yermolenko T. V., Bondarenko V. I. Review of Deep Learning Models for Cross-View Geo-Localization Tasks Accounting for Contextual Information, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 14—23. DOI: 10.17587/prin.17.14-23. (in Russian).'
+   item_references: |
+     <li>Sonkar S. Transfer Learning: Leveraging Pre-Trained Models for Limited Datasets Through Fine-Tuning, International Journal of Information Technology and Management Information Systems, 2025, vol. 16, no. 2, pp. 564—576. DOI: 10.34218/IJIT-MIS_16_02_037.</li>
+     <li>Ali B., Sadekov R. N., Tsodokova V. V. UAV Navigation Algorithms Using Computer Vision Systems, Giroskopiya i Navigatsiya, 2022, vol. 30, no. 4 (119), pp. 87—105 (in Russian).</li>
+     <li>Lin J., Zheng Z., Zhong Z. et al. Joint Representation Learning and Keypoint Detection for Cross-view Geo-localization, IEEE Transactions on Image Processing, 2022, vol. 31, pp. 4560—4572. DOI: 10.1109/TIP.2022.3175601.</li>
+     <li>Wang X., Girshick R., Gupta A., He K. Non-local neural networks, Proceedings of the 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'18), Salt Lake City, UT, USA, IEEE, 2018, pp. 7794—7803. DOI: 10.1109/CVPR.2018.00813.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Advances in Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA, Curran Associates, 2017, pp. 5998—6008.</li>
+     <li>Wang T., Zheng Z., Yan C. et al. Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization, IEEE Transactions on Circuits and Systems for Video Technology, 2020, vol. 32, no. 2, pp. 867—879. DOI: 10.1109/TCSVT.2021.3061265.</li>
+     <li>Chopra S., Hadsell R., LeCun Y. Learning a similarity metric discriminatively, with application to face verification, Proceedings of the 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), San Diego, CA, USA, IEEE,2005, vol. 1, pp. 539—546. DOI: 10.1109/CVPR.2005.202.</li>
+     <li>Simonyan K., Zisserman A. Very Deep Convolutional Networks for Large-Scale Image Recognition, International Conference on Learning Representations (ICLR), 2015, available at: https://arxiv.org/abs/1409.1556 (date of access 01.12.2025).</li>
+     <li>He K., Zhang X., Ren S., Sun J. Deep residual learning for image recognition, Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'16), Las Vegas, NV, USA, IEEE, 2016, pp. 770—778. DOI: 10.1109/CVPR.2016.90.</li>
+     <li>Dosovitskiy A., Beyer L., Kolesnikov A. et al. An image is worth 16x16 words: Transformers for image recognition at scale, 10th International Conference on Learning Representations (ICLR 2021), Virtual, 2021, pp. 1—21, available at: https://openreview.net/forum?id=YicbFdNTTy (date of access 01.12.2025).</li>
+     <li>Tian Y., Chen C., Shah M. Cross-view image matching for geolocalization in urban environments, Proceedings of the 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'17), Honolulu, HI, USA, IEEE, 2017, pp. 1998—2006.</li>
+     <li>Altwaijry H., Trulls E., Hays J. et al. Learning to match aerial images with deep attentive architectures, Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'16), Las Vegas, NV, USA, IEEE, 2016, pp. 3539—3547.DOI: 10.1109/CVPR.2016.385.</li>
+     <li>Cai S., Guo Y., Khan S. et al. Ground-to-aerial image geo-localization with a hard exemplar reweighting triplet loss, Proceedings of the 2019 IEEE/CVF International Conference on Computer Vision (ICCV'19), Seoul, Korea, IEEE, 2019, pp. 8390—8399. DOI: 10.1109/ICCV.2019.00848.</li>
+     <li>Jaderberg M., Simonyan K., Zisserman A., Kavukcuoglu K. Spatial transformer networks, Advances in Neural Information Processing Systems (NIPS 2015), Montreal, Canada, Curran Associates, 2015, pp. 2017—2025.</li>
+     <li>Ren S., He K., Girshick R., Sun J. Faster R-CNN: Towards real-time object detection with region proposal networks, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017, vol. 39, no. 6, pp. 1137—1149. DOI: 10.1109/TPAMI.2016.2577031.</li>
+     <li>Rodrigues R., Tani M. Are these from the same place? Seeing the unseen in cross-view image geo-localization, Proceedings of the 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, IEEE, 2021, pp. 3752—3760. DOI: 10.1109/WACV48630.2021.00380.</li>
+     <li>Yang H., Lu X., Zhu Y. Cross-view geo-localization with layer-to-layer transformer, Advances in Neural Information Processing Systems (NeurIPS 2021), Virtual, Curran Associates, 2021, pp. 1—12.</li>
+     <li>Dai M., Hu J., Zhuang J., Zheng E. A. Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization, IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol. 32, no. 7, pp. 4376—4389. DOI: 10.1109/TCSVT.2021.3135013.</li>
+     <li>Schroff F., Kalenichenko D., Philbin J. FaceNet: A Unified Embedding for Face Recognition and Clustering, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 815—823. DOI: 10.1109/CVPR.2015.7298682.</li>
+     <li>Chen Y. C., Li L., Yu L. et al. UNITER: Universal image-text representation learning, Computer Vision — ECCV 2020: 16th European Conference, Glasgow, UK, August 23—28, 2020, Proceedings, Part XVI, Berlin, Heidelberg, Springer, 2020, pp. 104—120. DOI: 10.1007/978-3-030-58577-8_7.</li>
+     <li>Huang Z., Zeng Z., Huang Y. et al. Seeing out of the box: End-to-end pre-training for vision-language representation learning, Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21), Virtual, IEEE, 2021, pp. 12976—12985. DOI: 10.1109/CVPR46437.2021.01278.</li>
+     <li>Kim W., Son B., Kim I. ViLT: Vision-and-language transformer without convolution or region supervision, Proceedings of the 38th International Conference on Machine Learning (ICML 2021), Virtual, PMLR, 2021, pp. 5583—5594.</li>
+     <li>Tan H., Bansal M. LXMERT: Learning cross-modality encoder representations from transformers, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019), Hong Kong, China, Association for Computational Linguistics, 2019, pp. 5100—5111. DOI: 10.18653/v1/D19-1514.</li>
+     <li>Radford A., Kim J. W., Hallacy C. et al. Learning transferable visual models from natural language supervision, Proceedings of the 38th International Conference on Machine Learning (ICML 2021), Virtual, PMLR, 2021, pp. 8748—8763.</li>
+     <li>Talreja V., Valenti M. C., Nasrabadi N. M. Deep hashing for secure multimodal biometrics, IEEE Transactions on Information Forensics and Security, 2020, vol. 16, pp. 1306—1321. DOI: 10.1109/TIFS.2020.3033189.</li>
+     <li>Lin T. Y., RoyChowdhury A., Maji S. Bilinear CNN models for fine-grained visual recognition, Proceedings of the 2015 IEEE International Conference on Computer Vision (ICCV), Santiago, Chile, IEEE, 2015, pp. 1449—1457. DOI: 10.1109/ICCV.2015.170.</li>
+     <li>Wang X., Li S., Chen C. et al. Data-level recombination and lightweight fusion scheme for RGB-D salient object detection, IEEE Transactions on Image Processing, 2020, vol. 30, pp. 458—471. DOI: 10.1109/TIP.2020.3037470.</li>
+     <li>George A., Marcel S. Cross-modal focal loss for RGB-D face anti-spoofing, Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21), Virtual, IEEE, 2021, pp. 7882—7891. DOI: 10.1109/CVPR46437.2021.00779.</li>
+     <li>Zheng A., Wang Z., Chen Z. et al. Robust multi-modality person re-identification, Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), Virtual, AAAI Press, 2021, vol. 35, no. 4, pp. 3529—3537.</li>
+     <li>Alay N., Al-Baity H. Deep learning approach for multi-modal biometric recognition system based on fusion of iris, face, and finger vein traits, Sensors, 2020, vol. 20, no. 19, article 5523. DOI: 10.3390/s20195523.</li>
+     <li>Soleymani S., Dabouei A., Kazemi H. et al. Multi-level feature abstraction from convolutional neural networks for multimodal biometric identification, Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), Beijing, China: IEEE, 2018, pp. 3469—3476. DOI: 10.1109/ICPR.2018.8545061.</li>
+     <li>Zhu R., Yang M., Yin L. et al. UAV's status is worth considering: A fusion representations matching method for geo-localization, Sensors, 2023, vol. 23, no. 2, article 720. DOI: 10.3390/s23020720.</li>
+     <li>He K., Zhang X., Ren S., Sun J. Identity mappings in deep residual networks, Computer Vision — ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11—14, 2016, Proceedings, Part IV, Berlin, Heidelberg: Springer, 2016, pp. 630— 645. DOI: 10.1007/978-3-319-46493-0_38.</li>
+     <li>Chopra S., Hadsell R., LeCun Y. Learning a similarity metric discriminatively, with application to face verification, Proceedings of the 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), San Diego, CA, USA, IEEE, 2005, vol. 1, pp. 539—546. DOI: 10.1109/CVPR.2005.202.</li>
+     <li>He K., Zhang X., Ren S., Sun J. Deep residual learning for image recognition, Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'16), Las Vegas, NV, USA, IEEE, 2016, pp. 770—778. DOI: 10.1109/CVPR.2016.90.</li>
+     <li>Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2019), Minneapolis, MN, USA, Association for Computational Linguistics, 2019, vol. 1, pp. 4171—4186. DOI: 10.18653/v1/N19-1423.</li>
+     <li>Zheng Z., Wei Y., Yang Y. University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization, Proceedings of the 28th ACM International Conference on Multimedia (ACM MM), 2020, pp. 1—9. DOI: 10.1145/3394171.3413896.</li>
+ - doi: 17.24-36
+   udk: '004.02'
+   edn: NYXJKB
+   item_authors: Sukhikh I. I.
+   item_name: Intelligent Curriculum Management System for Training an IT Specialist
+   item_authors_address: |
+     <b>I. I. Sukhikh</b>, Postgraduate Student, vargostelemax@gmail.com,
+     Perm National Research Polytechnic University, Perm, 614990, Russian Federation
+   item_corr_author: 'Ilya I. Sukhikh, Postgraduate Student, Perm National Research Polytechnic University, Perm, 614990, Russian Federation, E-mail: vargostelemax@gmail.com'
+   item_rec_on: June 09, 2025
+   item_acc_on: July 23, 2025
+   item_annot: |
+     <p>This paper presents a decision support system (DSS) designed to better manage the curriculum for IT training. The system utilizes data on curriculum disciplines to build a graphical representation showing interdisciplinary relationships and their chronological sequence. The application of a hybrid algorithm combining contextual ranking and transitive relationship analysis allows one to identify key statements, identify structural weaknesses such as knowledge gaps and duplicate content, and optimize the sequence of disciplines by minimizing a penalty function that quantifies violations of learning continuity. The system implementation is implemented in Python and tested on real data, which provided an 18 % reduction in the value of the penalty function and eliminated cases of backward continuity due to inter-semester course movement. The proposed scalable platform, tested on real data, facilitates the alignment of educational programs and IT training plans with the current needs of the labor market and can be adapted to different educational contexts.</p>
+   item_keywords: decision support system, curriculum management, IT training, curriculum, graph representation, hybrid algorithm, key concepts, knowledge gaps, duplicate content, course sequencing, penalty function, continuous learning, Python
+   item_pages: 24—36
+   item_citation: 'Sukhikh I. I. Intelligent Curriculum Management System for Training an IT Specialist, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 24—36. DOI: 10.17587/prin.17.24-36. (in Russian).'
+   item_references: |
+     <li>Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I. Harmonization Status Analysis of 09.03.01 "Computer Science and Computer Engineering" Discipline, Bulletin of Perm University. Mathematics. Mechanics. Computer Science, 2024, no. 1 (64), pp. 53—59. DOI: 10.17072/1993-0550-2024-1-53-59 (in Russian).</li>
+     <li>Sukhikh I. I. Models and algorithms of the system for improving the quality of training of IT-specialists on the basis of curriculum harmonization, Nonlinear world, 2025, vol. 23, no. 1, pp. 53—59. DOI: 10.17072/1993-0550-2024-1-53-59.</li>
+     <li>Yarullin D. V. Intelligent control system for IT-specialists training based on denotative analytics, Applied Mathematics and Control Sciences, 2022, no. 3, pp. 141—164. DOI: 10.15593/2499­9873/2022.3.08 (in Russian).</li>
+     <li>Fernando J. G., Baldelovar M. Decision support system: overview, different types and elements, Technoarete transactions on intelligent data mining and knowledge discovery, 2022, vol. 2, iss. 2, pp. 13—18. DOI: 10.36647/TTIDMKD/02.02.A003.</li>
+     <li>Ostrovskij D. A., Eliseev V. S. Sistemy podderzhki prin-yatiya reshenij v sovremennom mire, Innovacionnye rezultaty sovre-mennyh nauchnyh issledovanij: sb. nauch. tr. po mat. Mezhdunar. nauch.-prakt. konf., 2022, pp. 52—56, available at: https://apni.ru/article/3557-sistemi-podderzhki-prinyatiya-reshenij-v-sovr (date of access 05.05.2025) (in Russian).</li>
+     <li>Senkovskaya A. A. Mathematical modeling and methods of optimizing the educational process of the university (using the example of the tasks of forming). Dissertation of Ph. D. Omsk. 2020. 154 p. (in Russian).</li>
+     <li>Klevanskij N. N., Glazkov V. P., Saparov E. K., Voronkova I. V. Integration of university educational process manage­ment problems, Modern High technologies, 2020, no. 8, pp. 44—50. DOI: 10.17513/snt.38171 (in Russian).</li>
+     <li>Kulikova N. U., Maslova O. A., Ponomareva Yu. S. The model of using artificial intelligence systems for assessing the quality of the formation of competencies of university students, World of Science. Pedagogy and psychology, 2021, vol. 9, no. 5, pp. 1—13 (in Russian).</li>
+     <li>Piriyapongpipat P., Goldin S., Ditcharoen N. An alternative approach to ontology-based curriculum development in high­er education, Smart Learn. Environ, 2024, no. 11 (20), pp. 1—19. DOI:10.1186/s40561-024-00307-8.</li>
+     <li>Tractenberg R., Lindvall J., Attwood T., Via A. Guidelines for curriculum and course development in higher education and training, Published in the Open Archive of the Social Sciences (SocArXiv), 2020, pp. 1—18. DOI: 10.31235/osf.io/7qeht.</li>
+     <li>Jovanovic M., Dimitrijevic D. Higher education curriculum management system, Facta Universitatis Series: Teaching, Learning and Teacher Education, 2023, vol. 7, no. 1, pp. 65—76.</li>
+     <li>Law M. Yu. A Review of Curriculum Change and Innovation for Higher Education, Journal of Education and Training Studies, 2022, vol. 10, no. 2, pp. 16—23. DOI: 10.11114/jets.v10i2.5448.</li>
+     <li>Xiaoyan W., Azam S. M., Tham J. Sustainable higher education curriculum management system in China: Theoretical perspectives, European Journal of Management and Marketing Studies, 2023, vol. 8, no. 1, pp. 172—187. DOI: 10.46827/ejmms.v8i1.1441.</li>
+     <li>Larsen T. N., Busetto R., Varagnolo D. et al. A receding horizon approach for curriculum management in higher education, IF-AC-PapersOnLine, 2022, vol. 55, no. 17, pp. 61—66. DOI: 10.1016/j.ifacol.2022.09.225.</li>
+     <li>Du N., Thudumu S., Giardina A. et al. Contextual topic discovery using unsupervised keyphrase extraction and hierarchical semantic graph model, Journal of Big Data, 2023, vol. 10, article 156. DOI: 10.1186/s40537-023-00833-1.</li>
+     <li>Mitina O. A., Masyakin D. M. Application of graph neural networks in session-based recommendation systems, Nacionalnaya Associaciya Uchenyh, 2023, no. 89-3, pp. 47-54 (in Russian).</li>
+     <li>Bushinskiy A. S. Using a directed acyclic graph for software synthesis, Sistemy kompyuternoj matematiki i ih prilozheniya, 2023, no. 24, pp. 92-97 (in Russian).</li>
+ - doi: 17.37-48
+   udk: '303.094.7'
+   edn: VXLKXO
+   item_authors: Shchegolikhin I. S., Andreev S. M.
+   item_name: A Method for Building an Agent-Based Model of a Slab Warehouse based on a Discrete-Event Approach
+   item_authors_address: |
+     <b>I. S. Shchegolikhin</b>, Postgraduate Student, Department of Computer Engineering and Programming, shchegolikhin.i@yandex.ru,
+     <b>S. M. Andreev</b>, Associate Professor, Department of Automated Control Systems, andreev.asc@gmail.com,
+     Nosov Magnitogorsk State Technical University, Magnitogorsk, 455000, Russian Federation
+   item_corr_author: 'Ivan S. Shchegolikhin, Postgraduate Student, Nosov Magnitogorsk State Technical University, 455000, Magnitogorsk, Russian Federation, E-mail: shchegolikhin.i@yandex.ru'
+   item_rec_on: June 15, 2025
+   item_acc_on: August 29, 2025
+   item_annot: |
+     <p>Metallurgical plants combine two technological processes: continuous casting of steel in continuous casting machines and hot rolling in special rolling mills. To harmonize the productivity of these two processes, a buffer zone is required, which is provided by a warehouse for continuously cast billets. Production rates depend on the efficiency of the slab warehouse. Bridge cranes place slabs in the warehouse and retrieve them for rolling. The efficiency of the slab warehouse largely depends on the commands given to the bridge cranes. Not all commands can be executed, as there are restrictions in the warehouse on the safe distance between cranes, stack height, the order of commands to be executed, etc. To evaluate the feasibility and efficiency of a set of commands, this paper proposes a method for building an agent-based model based on discrete event simulation. The article defines the main types of agents for a slab warehouse and the states characteristic of these agents. The authors propose translating complex commands assigned to bridge cranes into a set of simple commands in order to transfer computations from the optimization process to the simulation process. Based on the proposed method, a simulation model of a slab warehouse was implemented in the AnyLogic software product.</p>
+   item_keywords: Slab warehouse, discrete event modeling, agent-based modeling, simulation modeling, overhead cranes, commands
+   item_pages: 37—48
+   item_citation: 'Shchegolikhin I. S., Andreev S. M. A Method for Building an Agent-Based Model of a Slab Warehouse based on a Discrete-Event Approach, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 37—48. DOI: 10.17587/prin.17.37-48 (in Russian).'
+   item_references: |
+     <li>Zhao G., Liu J., Tang L. et al. Model and Heuristic Solutions for the Multiple Double-Load Crane Scheduling Problem in Slab Yards, IEEE Transactions on Automation Science and Engineering, 2020, vol. 17, no. 3, pp. 1307—1319. DOI: 10.1109/TASE.2019.2946196.</li>
+     <li>Peng G., Wu Y., Zhang C., Shen W. Integrated optimization of storage location assignment and crane scheduling in an unmanned slab yard, Computers & Industrial Engineering, 2021, vol. 161, article 107623. DOI: 10.1016/j.cie.2021.107623.</li>
+     <li>Zheng Y., Tang L. A branch-and-price algorithm for the dynamic inventory slab allocation problem in the steel industry, 2009 International Joint Conference on Computational Sciences and Optimization, 2009, vol. 2, pp. 867—870. DOI:10.1109/CSO.2009.149.</li>
+     <li>Ferrari A., Carlin A., Rafele C., Zenezini G. A method for developing and validating simulation models for automated storage and retrieval system digital twins, International Journal of Advanced Manufacturing Technology, 2024, vol. 131, pp. 5369—5382. DOI: 10.1007/s00170-023-12660-y.</li>
+     <li>Liang Y., Peng G., Wu Y., Yang G. Unmanned Cranes Scheduling and System Implementation of a CPS-based Steel Slab Yard, P 2021 IEEE 24th International Conference on Computer Sup­ported Cooperative Work in Design (CSCWD), 2021, pp. 997—1002. DOI: 10.1109/CSCWD49262.2021.9437850.</li>
+     <li>Mizuyama H. Agent-Based Modeling and Analysis of Dynamic Slab Yard Management in a Steel Factory, Advances in Production Management Systems. The Path to Digital Transformation and Innovation of Production Management Systems, 2020, pp. 37—44. DOI: 10.1007/978-3-030-57993-7_5.</li>
+     <li>Radiya A., Sargent R. G. A Logic-Based Foundation of Discrete Event Modeling and Simulation, ACM Transactions on Modeling and Computer Simulation, 1994, vol. 4, no. 1, pp. 3—51. DOI: 10.1145/174619.174620.</li>
+     <li>Fujimoto R. M. Parallel discrete event simulation, Communications of the ACM, 1990, vol. 33, no. 10, pp. 30—53. DOI: 10.1145/84537.84545.</li>
+     <li>Bonabeau E. Agent-based modeling: Methods and techniques for simulating human systems, Proceedings of the National Academy of Sciences, 2002, vol. 99, no. SUPPL 3, pp. 7280—7287. DOI: 10.1073/pnas.082080899.</li>
+     <li>Ng W. C., Mak K. L. Yard crane scheduling in port container terminals, Applied Mathematical Modelling, 2005, vol. 29, no. 3, pp. 263—276. DOI: 10.1016/j.apm.2004.09.009.</li>
+     <li>Bruno G., Cavola M., Diglio A., Piccolo C. A unifying framework and a mathematical model for the Slab Stack Shuffling Problem, International Journal of Industrial Engineering Computations, 2023, no. 1 (14), pp. 17—32. DOI: 10.5267/j.ijiec.2022.10.005.</li>
+     <li>Andreev S. M., Shchegolikhin I. S. Simulated annealing algorithm for the problem of selecting continuous cast billets in a metallurgical company's warehouse, Vestnik Cherepoveckogo gosudarstvennogo universiteta, 2024, no. 5 (122), pp. 7—17. DOI: 10.23859/1994-0637-2024-5-122-1 (in Russian).</li>
+     <li>Shchegolikhin I. S., Andreev S. M. Mathematical model of crane scheduling for the schedule of hot rolling of continuous cast billets in the slab warehouse, Avtomatizirovannye tehnologii i proizvodstva, 2024, no. 1 (29), pp. 13—16 (in Russian).</li>
+     <li>Colic M., Pervan N., Delic M. et al. Mathematical modelling of bridge crane dynamics for the time of non-stationary re­gimes of working hoist mechanism, Archive of Mechanical Engineering, 2022, vol. 69, no. 2, pp. 189—202. DOI: 10.24425/ame.2022.140415.</li>
+     <li>Yu Z., Dong H. M., Liu C. M. Research on Swing Model and Fuzzy Anti Swing Control Technology of Bridge Crane, Machines, 2023, vol. 11, no. 6, article 579. DOI: 10.3390/machines11060579.</li>
+     <li>Ren H., Tang L. Modeling and an ILP-based algorithm framework for the slab stack shuffling problem considering crane scheduling, 2010 International Conference on Computing, Control and Industrial Engineering, 2010, vol. 2, pp. 3—6. DOI: 10.1109/CCIE.2010.119.</li>
+     <li>Shchegolikhin I. S., Andreev S. M. Mathematical Model of Crane Scheduling for a Defined Slab Storage Locations Assignment in a Continuous Cast Billet Warehouse, 2024 International Russian Automation Conference (RusAutoCon), 2024, pp. 1193—1199. DOI: 10.1109/RusAutoCon61949.2024.10694388.</li>
+ - doi: 17.49-56
+   udk: '004.891'
+   edn: HZKLQG
+   item_authors: Burnashev R. A., Barov E. A.
+   item_name: 'Impact of Helioclimatic Factors on Human Health: An Expert System for Risk Prediction'
+   item_authors_address: |
+     <b>R. A. Burnashev</b>, PhD in Technical Sciences, Associate Professor, ORCID: 0000-0002-1057-0328, r.burnashev@inbox.ru,
+     <b>E. A. Barov</b>, M. Sc., ORCID: 0000-0001-7761-341X, evgeniy.barov@vk.com,
+     Institute of Computational Mathematics and Information Technologies, Kazan (Volga Region) Federal University, Kazan, 420008, Russian Federation
+   item_corr_author: 'Rustam A. Burnashev, PhD in Technical Sciences, Associate Professor, Institute of Computational Mathematics and Information Technologies, Kazan (Volga Region) Federal University, Kazan, 420008, Russian Federation, E-mail: r.burnashev@inbox.ru'
+   item_rec_on: June 24, 2025
+   item_acc_on: August 01, 2025
+   item_annot: |
+     <p>This article presents the results of research aimed at developing a hybrid health risk assessment methodology that combines copula models (vine copulas) and fuzzy logic. Based on data from the Republic of Tatarstan for2000—2021, dependencies between demographic, climatic, and heliogeophysical factors were identified. Using copula modeling, linguistic variables were determined and integrated into a prototype medical expert system for risk assessment. The developed approach enables the analysis of complex dependencies and can serve as a mathematical basis for healthcare decision support systems.</p>
+   item_keywords: copula models, expert system, fuzzy logic, risk assessment, heliogeophysical factors, mortality, time series analysis, public health, environmental health, predictive modeling
+   item_pages: 49—56
+   item_citation: 'Burnashev R. A., Barov E. A. Impact of Helioclimatic Factors on Human Health: An Expert System for Risk Prediction, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 49—56. DOI: 10.17587/prin.17.49-56 (in Russian).'
+   item_references: |
+     <li>Lobanov V. A., Toshchakova G. G. Features and causes of modern climate change in Russia, Geograficheskiy vestnik, 2016, no. 3 (38), pp. 79—89. DOI: 10.17072/2079-7877-2016-3-79-89 (in Russian).</li>
+     <li>Shartova N. V., Shaposhnikov D. A., Konstantinov P. I., Revich B. A. Air temperature and mortality: a study of threshold values of heat and population sensitivity on the example of Rostov-on-Don, Fundamental'naya i prikladnaya klimatologiya, 2019, vol. 2, pp. 66—94. DOI: 10.21513/2410-8758-2019-2-66-94 (in Russian).</li>
+     <li>Grigoryeva E. A. Population mortality at extreme temperatures: forecast methodology and assessment results, Gigiena i sanitariya, 2019, vol. 98, no. 11, pp. 1279—1284. DOI: 10.18821/0016­9900-2019-98-11-1279-1284 (in Russian).</li>
+     <li>Tolstov P. V., Kalyagin A. N., Tatarinova M. B. The influence of heliogeophysical and natural-climatic factors on the cardiovascular system (literature review), Kardiovaskulyarnaya terapiya i profilaktika, 2023, vol. 22, no. 8, pp. 92—102. DOI: 10.15829/1728­8800-2023-3599 (in Russian).</li>
+     <li>Roth G. A., Abate D., Abate K. H. et al. Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980—2017: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet, 2018, vol. 392, no. 10159, pp. 1736—1788. DOI: 10.1016/s0140-6736(18)32203-7.</li>
+     <li>Taseiko O. V., Chernykh D. A. Assessing the impact of environmental factors on mortality rates in older age groups on the example of Krasnoyarsk, Problemy upravleniya, 2021, no. 5, pp. 60—69. DOI: 10.25728/pu.2021.5.6 (in Russian).</li>
+     <li>Hall M., Friel N. Mortality Projections using Generalized Additive Models with applications to annuity values for the Irish population, Annals of actuarial science, 2010, vol. 5, no. 1, pp. 19—32. DOI: 10.1017/s1748499510000011.</li>
+     <li>Ohashi Yu., Ihara T., Oka K. et al. Machine learning analysis and risk prediction of weather-sensitive mortality related to cardiovascular disease during summer in Tokyo, Japan, Scientific Reports, 2023, vol. 13, no. 1, article 17020. DOI: 10.1038/s41598-023-44181-9.</li>
+     <li>Kendys A. M. Application of copula models in time series analysis, Theory of Probability, Mathematical Statistics and Applications: Proceedings of the International Scientific Conference, Minsk, April 22—24, 2024, Minsk, Belarusian State University, 2024, pp. 84—91 (in Russian).</li>
+     <li>Penikas G. I., Simakova V. B. Interest rate risk management based on copula-GARCH models, Prikladnaya ekonometrika, 2009, vol. 1(13), pp. 3—36 (in Russian).</li>
+     <li>Pramanik P. Dependence on Tail Copula, /, 2024, vol. 7, no. 2, pp. 127—152. DOI: 10.3390/j7020008.</li>
+     <li>Lefohn A. S., Malley C. S., Smith L. et al. Tropospheric ozone assessment report: Global ozone metrics for climate change, human health, and crop/ecosystem research, Elementa. Science of the Anthropocene, 2018, vol. 6, article 28. DOI: 10.1525/elementa.279.</li>
+     <li>Petitti D. B., Hondula D. M., Yang S. et al. Multiple Trigger Points for Quantifying Heat-Health Impacts: New Evidence from a Hot Climate, Environmental Health Perspectives, 2016, vol. 124, no. 2, pp. 176—183. DOI: 10.1289/ehp.1409119.</li>
+     <li>Czado C., Nagler T. Vine Copula Based Modeling, Annual Review of Statistics and Its Application, 2022, vol. 9, no. 1, pp. 453—477. DOI: 10.1146/annurev-statistics-040220-101153.</li>
+     <li>D'Urso P., De Giovanni L., Vitale V. A D-vine copulabased quantile regression model with spatial dependence for COVID-19 infection rate in Italy, Spatial Statistics, 2022, vol. 47, article 100586. DOI: 10.1016/j.spasta.2021.100586.</li>
+     <li>Germashev I. V., Dubovskaya V. I. Application of Fuzzy Mathematics Models for Solving Medical Diagnostics Problems, Mathematical Physics and Computer Simulation, 2021, vol. 24, no. 4, pp. 53—66. DOI: 10.15688/mpcm.jvolsu.2021.4.4 (in Russian).</li>
+     <li>Nguyen T., Khosravi A., Creighton D., Nahavandi S. Medical data classification using interval type-2 fuzzy logic system and wavelets, Applied Soft Computing, 2015, vol. 30, pp. 812—822. DOI: 10.1016/j.asoc.2015.02.016.</li>
+     <li>Ontiveros E., Melin P., Castillo O. Comparative study of interval Type-2 and general Type-2 fuzzy systems in medical diagnosis, Information Sciences, 2020. vol. 525, pp. 37—53. DOI: 10.1016/j.ins.2020.03.059.</li>
+     <li>Kantorovich G. G. Time Series Analysis, Ekonomicheskiy Zhurnal Vysshey Shkoly Ekonomiki, 2002, vol. 6, no. 3, pp. 379—401 (in Russian).</li>
+     <li>Vetrov D. P., Kropotov D. A., Ptashko N. O. An Efficient Method for Feature Selection in Linear Regression by Generalizing the Akaike Information Criterion, Zhurnal Vychislitel'noi Matematiki i Matematicheskoi Fiziki, 2009, vol. 49, no. 11, pp. 2066—2080 (in Russian).</li>
+     <li>Tagirova L. F., Zubkova T. M. Development of an Expert System for Determining the Status of a Student of an Intelligent System Based on the Mamdani Fuzzy Inference Algorithm, Informatsionnye Tekhnologii, 2022, vol. 28, no. 7, pp. 359—368. DOI: 10.17587/it.28.359-368 (in Russian).</li>
+     <li>de Freitas R. A. P., Marques J. R. Q., da Costa R. P. et al. Variations in Atmospheric Electromagnetism and Their Impacts on Mortality Rates in the Southern and Northeastern Regions of Brazil, Atmospheric and Climate Sciences, 2025, vol. 15, no. 1, pp. 248 —274. DOI: 10.4236/acs.2025.151012.</li>
+     <li>Krylov V. V. Biological effects of geomagnetic activity: observations, experiments, and possible mechanisms, Proceedings of the I. D. Papanin Institute for Biology of Inland Waters RAS, 2018, no. 84 (87), pp. 7—38. DOI: 10.24411/0320-3557-2018-10016 (in Russian).</li>
+     <li>Ziubryte G., Jarusevicius G., Landauskas M. et al. Cardiovascular System Interactions With The Local Earth Magnetic Field Fluctuations: A Cohort Study, Research Square (Research Square), Published online March 3, 2021. DOI: 10.21203/rs.3.rs-250922/v1.</li>
+     <li>Gadjiev G. D. Geomagnetic storms and their impact on morbidity indicators among employees of research institutes of the Irkutsk Scientific Center of the Siberian Branch of the Russian Academy of Sciences, Siberian Medical Journal (Irkutsk), 2007, vol. 75, no. 8, pp. 59—62 (in Russian).</li>
+     <li>Bazhenov A. A., Averina A. S., Prikop M. V. Influence of heliogeophysical factors on human health, Bulletin of the Eastern-Siberian Scientific Center of the Siberian Branch of the Russian Academy of Medical Sciences, 2014, no. 6 (100), pp. 125—129 (in Russian).</li>
+     <li>Ziubryte G., Siauciunaite V., Jarusevicius G., McCraty R. Local earth magnetic field and ischemic heart disease: peculiarities of interconnection, Cardiovascular Disorders and Medicine, 2018, vol. 3, no. 4. DOI: 10.15761/cdm.1000177.</li>
+     <li>Stoupel E. Effect of geomagnetic activity on cardiovascular parameters, Journal of Clinical and Basic Cardiology, 1999, vol. 2, no. 1, pp. 34—40.</li>
