@@ -139,9 +139,8 @@ def generate_elibrary_xml(yaml_file, output_file):
                 line_ru = references_ru[ix]
                 assert line_ru.startswith("<li>") and line_ru.endswith("</li>"), line_ru
                 line_ru = line_ru.removeprefix("<li>").removesuffix("</li>")
-                if re.search("[а-я]", line_ru.replace("дата обращения", ""), re.IGNORECASE):
-                    ref_info = ET.SubElement(ref_elem, "refInfo", lang="ru")
-                    ET.SubElement(ref_info, "text").text = line_ru.strip()
+                ref_info = ET.SubElement(ref_elem, "refInfo", lang="ru")
+                ET.SubElement(ref_info, "text").text = line_ru.strip()
 
         if "item_comment" in article or "item_comment" in article_en:
             funding_elem = ET.SubElement(article_elem, "artFunding")
