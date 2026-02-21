@@ -1,0 +1,208 @@
+---
+title: Issue N2 2026 year
+content:
+ - doi: 17.59-66
+   udk: "004.4'422"
+   edn: LIEBPB
+   item_authors: Levchenko D. N., Ermolitsky A. V., Neiman-Zade M. I.
+   item_name: Dynamic Analysis of Automatic Vectorization and Runtime Memory Disambiguation in the LCC Compiler for the "Elbrus" Architecture
+   item_authors_address: |
+     <b>D. N. Levchenko</b><sup>1, 2</sup>, Software Engineer, Postgraduate Student, levchenko_d@mcst.ru,
+     <b>A. V. Ermolitsky</b><sup>1</sup>, Head of the Language Compiler division, era@mcst.ru,
+     <b>M. I. Neiman-Zade</b><sup>1, 2</sup>, Head of the Department of Programming Systems, Associate Professor at Department of Informatics and Computer Engineering, muradnz@mcst.ru,
+     <br>
+     <sup>1</sup> AO "MCST", Moscow, 117437, Russian Federation,
+     <br>
+     <sup>2</sup> Moscow Institute of Physics and Technology (National Research University), Moscow, 117303, Russian Federation
+   item_corr_author: 'Dmitry N. Levchenko, Software Engineer, AO "MCST", Moscow, 117437, Russian Federation, E-mail: levchenko_d@mcst.ru'
+   item_rec_on: September 19, 2025
+   item_acc_on: October 21, 2025
+   item_annot: |
+     <p>The article addresses the problem of evaluating the efficiency of compiler optimizations, specifically autovectorization and runtime memory disambiguation (RTMD), within the LCC compiler for the Elbrus VLIW architecture. These optimizations are crucial for improving the performance of applications that has loops with floating-point computations. However, optimizations often introduce additional overhead, and in single-pass compilation without dynamic information, compiler heuristics may mispredict profile data. As a result, optimizations that are intended to accelerate program execution can instead lead to noticeable slowdowns. To mitigate this issue, the authors propose a combined method of detecting inefficiencies by instrumenting loops during compilation and using a runtime support library to gather execution statistics. The tool collects data of loop executions, analyzes whether vectorization and RTMD were effective, and generates detailed reports with recommendations for software developers. These recommendations include targeted insertion of pragmas, which allow programmers to disable unprofitable optimizations at critical points. Compared to traditional profile-guided optimizations, this approach avoids problems such as cumulative errors in profiling information and the need for repeated recompilation. Experimental results on the SPEC CPU 2006 and SPEC CPU 2017 rate benchmark suites demonstrated measurable improvements, with some tasks achieving speedups of up to 7.4 %. The method has been integrated into the LCC compiler and will be available in version 1.30, offering developers a practical tool to balance compiler heuristics with runtime performance characteristics on the Elbrus platform.</p>
+   item_keywords: compilers, loops optimizations, autovectorization, runtime memory disambiguation (RTMD), loop instrumentation, Elbrus architecture, VLIW, profile information
+   item_pages: 59—66
+   item_citation: 'Levchenko D. N., Ermolitsky A. V., Neiman-Zade M. I. Dynamic Analysis of Automatic Vectorization and Runtime Memory Disambiguation in the LCC Compiler for the "Elbrus" Architecture, Programmnaya Ingeneria, 2026, vol. 17, no. 2, pp. 59—66. DOI: 10.17587/prin.17.59-66. (in Russian).'
+   item_references: |
+     <li>Kim A. K., Perekatov V. I., Feldman V. M. Microprocessors and computing systems of the "Elbrus" family, St. Petersburg, Piter, 2013, 272 p. (in Russian).</li>
+     <li>Devkota S., Aschwanden P., Kunen A. et al. CcNav: Understanding Compiler Optimizations in Binary Code, IEEE Transactions on Visualization and Computer Graphics, 2021, vol. 27, no. 2, pp. 667— 677. DOI: 10.1109/TVCG.2020.3030357.</li>
+     <li>Zhao W., Cai B., Whalley D. et al. VISTA: A System for Interactive Code Improvement, LCTES/SCOPES '02: Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems, 2002. pp. 155—164. DOI:10.1145/513829.513857.</li>
+     <li>Devkota S., Isaacs K. E. CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations, Eurographics Conference on Visualization (EuroVis)'18, 2018, pp. 453—464. DOI:10.1111/cgf.13433.</li>
+     <li>Cooper K. D., Torczon L. Engineering a Compiler. 3-rd ed., Cambridge, USA, Morgan Kaufmann, 2023, 822 p.</li>
+     <li>Drozdov A. Yu., Stepanenkov A. M. Loops Optimization Technology for Architectures with Hardware Pipelining Support, Informacionnye tekhnologii i vychislitel'nye sistemy, 2004, no. 3, pp. 52—62.</li>
+     <li>Shahbahrami A., Juurlink B., Vassiliadis S. Performance Impact of Misaligned Accesses in SIMD Extensions, 17th Annual Workshop on Circuits Systems and Signal Processing, 2006, pp. 334—342.</li>
+     <li>Jeffers J., Reinders J. Intel Xeon Phi Coprocessor High Performance Programming, USA, Waltham, Morgan Kaufmann, 2013, 430 p.</li>
+ - doi: 17.67-82
+   udk: '004.85:519.873'
+   edn: ZAOSZP
+   item_authors: Kulshin R. S., Sidorov A. A.
+   item_name: Optimization of Hyperparameters of Recommendation Algorithms through a Single Evaluation Metric
+   item_authors_address: |
+     <b>R. S. Kulshin</b>, Postgraduate Student, Assistant, roman.s.kulshin@tusur.ru,
+     <b>A. A. Sidorov</b>, Head of Department, anatolii.a.sidorov@tusur.ru,
+     Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation
+   item_corr_author: 'Roman S. Kulshin, Postgraduate Student, Assistant, Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation, E-mail: roman.s.kulshin@tusur.ru'
+   item_rec_on: May 14, 2025
+   item_acc_on: August 13, 2025
+   item_annot: |
+     <p>The paper considers an approach to optimizing hyperparameters of recommendation algorithms using an integral assessment that combines several metrics into four key subindexes: accuracy, ranking, diversity, and resource intensity. This method allows for a more balanced tuning of models, ensuring improved quality of recommendations without loss in individual characteristics. It is shown that different algorithms react differently to the chosen optimization strategy. The developed methodology can be applied not only in recommendation systems, but also in other multi-criteria optimization tasks.</p>
+   item_keywords: optimization, algorithms, hyperparameters, recommendation systems, integral indicator
+   item_pages: 67—82
+   item_comment: The work was carried out within the framework of the state task "Science"; project FEWM-2023-0013.
+   item_citation: 'Kulshin R. S., Sidorov A. A. Optimization of Hyperparameters of Recommendation Algorithms through a Single Evaluation Metric, Programmnaya Ingeneria, 2026, vol. 17, no. 2, pp. 67—82. DOI: 10.17587/prin.17.67-82. (in Russian).'
+   item_references: |
+     <li>Kulshin R. S., Sidorov A. A. An Entropy-Based Compos- ite Indicator for Evaluating the Effectiveness of Recommender System Algorithms, Control Sciences, 2024, no. 4, pp. 44—60. DOI: 10.25728/pu.2024.4.4 (in Russian).</li>
+     <li>Del Buono N., Esposito F., Selicato L. Methods for hyperparameters optimization in learning approaches: an overview, Machine Learning, Optimization, and Data Science: 6th International Conference, LOD 2020, Siena, Italy, July 19—23, 2020, Revised Selected Papers, Part I 6, Springer International Publishing, 2020, pp. 100—112. DOI: 10.1007/978-3-030-64583-0_11.</li>
+     <li>Anafiev A. S., Karyuk A. S. Overview of approaches to solving the hyperparameters optimization problem for the Machine Learning algorithms, Taurida Journal of Computer Science Theory and Mathematics, 2022, no. 2 (55), pp. 30—37 (in Russian).</li>
+     <li>Bischl B., Binder M., Lang M. et al. Hyperparameter optimization: Foundations, algorithms, best practices, and open challenges, Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2023, vol. 13, no. 2, article e1484. DOI: 10.1002/widm.1484.</li>
+     <li>Bergstra J., Bardenet R., Bengio Y. et al. Algorithms for hyper-parameter optimization, Advances in neural information processing systems, 2011, vol. 24.</li>
+     <li>Bergstra J., Bengio Y. Random search for hyper-parameter optimization, The journal of machine learning research, 2012, vol. 13, no. 1, pp. 281—305.</li>
+     <li>Belete D. M., Huchaiah M. D. Grid search in hyperparameter optimization of machine learning models for prediction of HIV/AIDS test results, International Journal of Computers and Applications, 2022, vol. 44, no. 9, pp. 875—886. DOI: 10.1080/1206212X.2021.1974663.</li>
+     <li>Ros R., Hansen N. A simple modification in CMA-ES achieving linear time and space complexity, International conference on parallel problem solving from nature, Berlin, Heidelberg, Springer Berlin Heidelberg, 2008, pp. 296—305. DOI: 10.1007/978-3-540-87700-4_30.</li>
+     <li>Bergstra J., Yamins D., Cox D. Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures, International conference on machine learning, PMLR, 2013, vol. 28, no. 1, pp. 115—123.</li>
+     <li>Ozaki Y., Tanigaki Y., Watanabe S., Onishi M. Multiobjective tree-structured parzen estimator for computationally ex-pensive optimization problems, Proceedings of the 2020 genetic and evolutionary computation conference, 2020, pp. 533—541. DOI: 10.1145/3377930.3389817.</li>
+     <li>Snoek J., Larochelle H., Adams R. Practical Bayesian optimization of machine learning algorithms, Advances in neural information processing systems, 2012, vol. 25. DOI: 10.48550/arXiv.1206.2944.</li>
+     <li>Deshpande M., Karypis G. Item-based top-n recommendation algorithms, ACM Transactions on Information Systems (TOIS), 2004, vol. 22, no. 1, pp. 143—177. DOI: DOI: 10.1145/963770.963776.</li>
+     <li>Ning X., Karypis G. Slim: Sparse linear methods for top-n recommender systems, 2011 IEEE 11th international conference on data mining, IEEE, 2011, pp. 497—506. DOI: 10.1109/ ICDM.2011.134.</li>
+     <li>Wu Y., DuBois C., Zheng A. X. et al. Collaborative denoising auto-encoders for top-n recommender systems, Proceedings of the ninth ACM international conference on web search and data mining, 2016, pp. 153—162. DOI: 10.1145/2835776.2835837.</li>
+     <li>Tang J., Qu M., Wang M. et al. Line: Large-scale information network embedding, Proceedings of the 24th international conference on world wide web, 2015, pp. 1067—1077. DOI: 10.1145/2736277.2741093.</li>
+     <li>Harper F., Konstan J. The movielens datasets: History and context, Acm transactions on interactive intelligent systems (TiiS), 2015, vol. 5, no. 4, pp. 1—19. DOI: 10.1145/2827872.</li>
+     <li>Hou Y., Li J., He Z. et al. Bridging language and items for retrieval and recommendation. 2024. arXiv: 2403.03952.</li>
+ - doi: 17.83-94
+   udk: '004.89: 004.4: 004.421: 519.685: 681.5'
+   edn: ABIHKE
+   item_authors: Stepanov M. F., Stepanov A. M., Stepanova O. M.
+   item_name: Synthesis of Iterative Plans for Solving Declarative Set Problems using the Planning Artificial Neural Network
+   item_authors_address: |
+     <b>M. F. Stepanov</b>, Professor, mfstepanov@mail.ru,
+     <b>A. M. Stepanov</b>, Senior Lecturer, amstepanov@mail.ru,
+     <b>O. M. Stepanova</b>, Postgraduate Student, omstepanova@mail.ru,
+     Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation
+   item_corr_author: 'Mikhail F. Stepanov, Professor, Yuri Gagarin State Technical University of Saratov, Saratov, 410054, Russian Federation, E-mail: mfstepanov@mail.ru'
+   item_rec_on: July 30, 2025
+   item_acc_on: September 09, 2025
+   item_annot: |
+     <p>An approach to modifying an intelligent solver based on planning artificial neural networks is proposed to enable action planning for declaratively defined tasks solved by iterative methods. Planning actions to solve a declaratively defined task is based on a knowledge model of the problem domain, which is used in this article as a knowledge model of the methods of the theory of automatic control. Solving declaratively defined tasks using a planning artificial neural network involves two stages: selecting relevant axioms (operations) of the knowledge model and determining the order of their execution. The issues related to solving the problem of building action plans, including cycles, necessary for the implementation of iterative methods for solving problems in the problem domain, are considered. Since the problem of synthesizing cyclic programs is generally unsolvable, the introduction of two auxiliary structures is proposed to develop a large-block approach to program synthesis: a selector and an iterator. The selector is designed to select operations to be cyclically repeated using a predefined iterative process scheme (iterator) at the stage of executing the generated action plan. The basis of the proposed approach to the construction and organization of the execution of action plans for solving problems by iterative methods is the introduction of auxiliary properties and/or relationships in the knowledge model, describing the conditions for the repeated execution of certain operations of the generated action plan to solve the problem. The specified properties (relations) act as additional conditions for the applicability of the operations of the generated action plan. They are used in the algorithmic schemes of the executive subsystem of the problem solver to organize the cyclic execution of the operations provided with them in the action plan for the implementation of an iterative solution to the problem. For the generated action plan, presentation schemes have been developed in the form of products, as well as in the form of a program record according to A. A. Lyapunov. An illustrative example of constructing a cyclically executed action plan for solving a subtask within the framework of a control task under conditions of uncertainty is considered.</p>
+   item_keywords: action planning, declaratively defined tasks, synthesis of iterative plans of problem solving, neural network intelligent solver, planning artificial neural networks, knowledge representation
+   item_pages: 83—94
+   item_comment: The study was supported by the Russian Science Foundation grant No. 24-21-00488, https://rscf.ru/project/24-21-00488/
+   item_citation: 'Stepanov M. F., Stepanov A. M., Stepanova O. M. Synthesis of Iterative Plans for Solving Declarative Set Problems using the Planning Artificial Neural Network, Programmnaya Ingeneria, 2026, vol. 17, no. 2, pp. 83—94. DOI: 10.17587/prin.17.83-94.'
+   item_references: |
+     <li>Potemkin V. G. System of engineering and scientific calculations MATLAB 5.x, Moscow, DIALOG-MIFI, 1999 (in Russian).</li>
+     <li>Markov A. A. The impossibility of certain algorithms in the theory of associative systems, Dokl. AN SSSR, 1947, vol. 55, pp. 587—590 (in Russian).</li>
+     <li>Nepejvoda N. N. Relationship between natural inference rules and operators of high-level algorithmic languages, Dokl. AN SSSR, 1978, vol. 239, no. 3, pp. 526—529 (in Russian).</li>
+     <li>Lavrov S. S., Zalogova L. A., Petrushina T. I. Principles of planning of problem solving in the system of automatic program synthesis, Programmirovanie. 1982, no. 3, pp. 35—43 (in Russian).</li>
+     <li>Tyugu Je. H. Conceptual programming, Moscow, Nauka, 1984, 256 p. (in Russian).</li>
+     <li>La Valle S. M. Planning Algorithms, Cambridge, Cambridge University Press, 2006, 844 p.</li>
+     <li>Ramirez-Rueda R., Benitez-Guerrero E., Mezura-Godoy C., Barcenas E. A. A Decade of Advancements in Program Synthesis from Natural Language: A Systematic Literature Review, Proceedings of the Institute for System Programming of the RAS, 2024, vol. 36, no. 6, pp. 59—82. DOI: 10.15514/ISPRAS-2024-36(6)-4.</li>
+     <li>Zuenko A. A., Fridman O. V. The development of a logical approach to solving the problems of intelligent planning: an analytical review, Vestnik Voronezhskogo gosudarstvennogo universiteta. Seriya: Sistemny'j analiz i informacionnye texnologii, 2023, vol. 4, pp. 104—127. DOI: 10.17308/sait/1995-5499/2023/4/104-127.</li>
+     <li>Zajcev A. F. A method of searching and logical deduction of expert information in an oriented cyclic multigraph of knowledge, Informacionnye i matematicheskie texnologii v nauke i upravlenii, 2022, vol. 4 (28), pp. 213—222. DOI: 10.38028/ESI.2022.28.4.017.</li>
+     <li>Joudakizadeh M., Beltiukov A. P. Adaptive human-machine theorem proving system, Proceedings of the Institute of Mathematics and Informatics at Udmurt State University, 2024, vol. 64, pp. 17—33.DOI: 10.35634/2226-3594-2024-64-02.</li>
+     <li>Joudakizadeh M., Beltiukov A. P. Two-level realization of logical formulas for deductive program synthesis, Bulletin of Udmurt University. Mathematics. Mechanics. Computer Science, 2024, vol. 34, no. 4, pp. 469—485. DOI: 10.35634/vm240401.</li>
+     <li>Sidorenko O. I. On direct deductive conclusions in traditional integral syllogistics from 50 basic propositions, Matematicheskie metody v tekhnike i tekhnologiyakh, 2020, vol. 7, pp. 39—45 (in Russian).</li>
+     <li>Reference book on automatic control theory / Ed. A. A. Krasovskij. Moscow, Nauka, 1987, 712 p. (in Russian).</li>
+     <li>Methods of classical and modern automatic control theory / Eds K. A. Pupkov, N. D. Egupov, Moscow, Izd-vo MGTU im. N. Je.Baumana, 2004, 656 p. (in Russian).</li>
+     <li>Aleksandrov A. G. Synthesis of regulators of multidimensional systems, Moscow, Mashinostroenie, 1986, 272 p. (in Russian).</li>
+     <li>Poljak B. T., Shherbakov P. S. Robust stability and control, Moscow, Nauka, 2002, 303 p. (in Russian).</li>
+     <li>Poljak B. T., Hlebnikov M. V., Rapoport L. B. Mathematical theory of automatic control, Moscow, LENAND, 2019, 500 p. (in Russian).</li>
+     <li>Marchuk G. I. Selected works, in 5 vol., Moscow, Rossijskaya akademiya nauk, 2018. (in Russian).</li>
+     <li>Novikov A. I. Elements of discrete mathematics, Moscow, Dashkov i Ko, 2019. 209 p. (in Russian).</li>
+     <li>Kameneczkaya N. V. Computational mathematics, Saint-Peterburg, SPb University GPS MChS, 2018, 116 p. (in Russian).</li>
+     <li>Novikov F. A. Discrete mathematics for programmers, Saint-Peterburg, Piter, 2007, 364 p. (in Russian).</li>
+     <li>Stepanov M. F. Automatic solution of automatic control theory problems on the basis of planning artificial neural networks, Nejrokomp'jutery: razrabotka iprimenenie, 2003, no. 3, 4, pp. 27—44 (in Russian).</li>
+     <li>Stepanov M. F. Neural networks for planning the solution of automatic control theory problems, Problemy upravlenija, 2004, no. 2, pp. 66—71 (in Russian).</li>
+     <li>Stepanov M. F., Stepanov A. M. Mathematical modelling of intellectual self-organizing automatic control system: Action planning research, Procedia Engineering, 2017, vol. 201, pp. 617—622. DOI: 10.1016/j.proeng.2017.09.657.</li>
+     <li>Efimov E. I. Intellectual problem solvers, Moscow, Nauka,1982, 316 p. (in Russian).</li>
+     <li>Gencen G. Research on logical inference, Matematicheskaja teorija logicheskogo vyvoda, Moscow, Nauka, 1967, pp. 9—76 (in Russian).</li>
+     <li>Ljapunov A. A. About program logic diagrams, Problemy kibernetiki, no. 1. Moscow, Fizmatgiz, 1958, pp. 46—74 (in Russian).</li>
+     <li>Aleksandrov A. G. Automatic control system design methods, Moscow, Izd-vo fis.-mat. liter., 2008, 232 p. (in Russian).</li>
+     <li>Stepanov M. F., Stepanov A. M., Stepanova T. V., Stepanova O. M. Features of Knowledge Representation of Automatic Control Systems Design Methods, Artificial Intelligence in Models, Methods and Applications. Studies in Systems, Decision and Control, Springer Nature Switzerland AG, 2023, vol. 457, pp. 231—243. DOI: 10.1007/978-3-031-22938-1_16.</li>
+     <li>Stepanov M. F., Stepanov A. M., Stepanova O. M. On the approach to synthesizing plans for solving declaratively defined tasks solved by iterative methods, Matematicheskie metody v tekhnologiyakh i tekhnike, 2025, no. 8, pp. 93—98 (in Russian)</li>
+ - doi: 17.95-107
+   udk: '004.942; 330.46'
+   edn: DYUJZQ
+   item_authors: Orlova E. V.
+   item_name: Direct and Indirect Effects of Social Capital on Innovation of Project Team Members under Conflict
+   item_authors_address: |
+     <b>E. V. Orlova</b>, Dr. of Sc. (in engineering), Professor, ekorl@mail.ru,
+     Ufa University of Science and Technology, Ufa, 450076, Russian Federation
+   item_corr_author: 'Ekaterina V. Orlova, Dr. of Sc (in engineering), Professor, Ufa University of Science and Technology, Ufa, 450076, Russian Federation, E-mail: ekorl@mail.ru'
+   item_rec_on: July 19, 2025
+   item_acc_on: September 16, 2025
+   item_annot: |
+     <p>The problem of personal innovativeness modeling of project team members is solved. Individual innovativeness is considered as the ability to think innovatively, to produce new ideas and to apply them in practice. The study of personal innovativeness involves studying its prerequisites — factors and application of the acquired knowledge for development and stimulation of innovative activity of project team members. The analysis of literature on the topic of social capital associated with innovations and innovative activity allows us to assume that social capital factors — trust, social networks and connections, social values — determine the nature of a person's attitude to innovations. Different strength and direction of the bridging (external) and bonding (internal) social capital and its relationships can differently form the level of conflict between the project team members.
+     Therefore, to solve the problem of effective development and implementation of innovations in a conflict environment, a specially configured conflict management system is required, capable of regulating its strength and intensity.
+     The work links three constructs — innovativeness, social capital and conflict. Innovativeness as a construct depends on such indicators as creativity, risk propensity and strategicity. The social capital construct includes such observable indicators as trust, social networks and connections, and norms and values. The conflict construct consists of observable indicators of task, process and relationship conflict. Based on structural equation modeling methods, the existence of hidden constructs of social capital, innovativeness and conflict, which depend on a number of observable employee characteristics, is proven.
+     A causal relationship between social capital and innovativeness of employees is proven. The mediating role of conflict arising in project groups during innovation activities is analyzed. The study is conducted on the basis of a survey of industrial enterprise employees. For a more detailed analysis, employees are divided into groups of innovators and adapters, and all model constructs are tested for the sample of employees as a whole, as well as subsamples of innovators and adapters.</p>
+   item_keywords: personal innovativeness; social capital; social conflict; structural equation modeling; causal relationship
+   item_pages: 95—107
+   item_citation: 'Orlova E. V. Direct and Indirect Effects of Social Capital on Innovation of Project Team Members under Conflict, Programmnaya Ingeneria, 2026, vol. 17, no. 2, рр. 95—107. DOI: 10.17587/prin.17.95-107. (in Russian).'
+   item_references: |
+     <li>Rogers E. M. Innovation, Theory of, International Encyclopedia of the Social. Behavioral Sciences, 2004, рр. 7540—7543.</li>
+     <li>Midgley C., Kaplan A., Middleton M. et al. The development and validation of scales assessing students' achievement goal orientations, Contemporary Educational Psychology, 1998, vol. 23, no. 2, рр. 113—131. DOI: 10.1006/ceps.1998.0965.</li>
+     <li>Tatarko A. N. Social and psychological capital of the individual in a multicultural society. Dissertation for the degree of Doctor of Psychology, Moscow, Institute of Psychology of the Russian Academy of Sciences, 2014 (in Russian).</li>
+     <li>Tolochek V. A. Professional career: phenomenon, comets, "apocrypha", Bulletin of Moscow Umversity. Series 14. Psychology, 2025, no. 1, pp. 30—54. DOI: 10.11621/LPJ-25-02 (in Russian).</li>
+     <li>Yagolkovsky S. R. Psychology of innovations: approaches, methods, processes, Moscow, HSE, 2011. 272 p. (in Russian).</li>
+     <li>Aldahdouh T., Korhonen V., Nokelainen P. What contributes to the individual innovativeness? A multilevel perspective, International Journal of Innovat,on Stud,es, 2019, vol. 3, no. 2, рр. 23—39. DOI: 10.1016/j.ijis.2019.06.001.</li>
+     <li>Anderson N., Potocnik K., Zhou J. Innovation and creativity in organizations, Journal of Management, 2014, vol. 40, no. 5, pp. 1297—1333. DOI: 10.1177/0149206314527128.</li>
+     <li>Orlova E. V. Innovation in Company Labor Productivity Management: Data Science Methods Application, Applied System Innovation, 2021, vol. 4, no. 3, article 68. DOI: 10.3390/asi4030068.</li>
+     <li>Orlova E. V. Assessment of the Human Capital of an Enterprise and its Management in the Context of the Digital Transformation of the Economy, Journal of Applied Economic Research, 2022, vol. 24, no. 3, pp. 545—575. DOI: 10.15826/vestnik.2021.20.4.026 (in Russian).</li>
+     <li>Orlova E. V. Design of Personal Trajectories for Employees' Professional Development in the Knowledge Society under Industry 5.0, Soc,al Sdences, 2021, vol. 10, no. 11, article 427. DOI: 10.3390/socsci10110427.</li>
+     <li>Christensen K. S. Losing innovativeness: the challenge of being acquired, Management Decision, 2006, vol. 44, no. 9, pp. 1161—1182. DOI: 10.1108/00251740610707668.</li>
+     <li>Rodan S. Innovation and heterogeneous knowledge in managerial contact networks, Journal of Knowledge Management, 2002, vol. 6, no. 2, pp. 152—163. DOI: 10.1108/13673270210424675.</li>
+     <li>Belkin V. N., Belkina N. A., Antonova O. A., Bochkaeva I. V. Theory of social capital of an organization, Society and power, 2012, vol. 36, no. 4, pp. 79—86 (in Russian).</li>
+     <li>Landry R., Amara N., Lamari M. Does social capital determine innovation? To what extent? Technological Forecasting and Social Change, 2002, vol. 69, no. 7, pp. 681—701. DOI:10.1016/S0040-1625(01)00170-6.</li>
+     <li>Beugelsdijk S., Van Schaik T. Differences in social capital between 54 Western European regions, Regional Studies, 2005, vol. 39, no. 8, pp. 1053—1064. DOI: 10.1080/00343400500328040.</li>
+     <li>Murphy L. J. Social Capital and Innovation: A Theoretical Perspective, Innovation and Social Capital in Organizational Ecosystems / Eds. by B. C. Thomas, L. J. Murphy, UK, IGI Global, 2019, pp. 1—22. DOI:10.4018/978-1-5225-7721-8.ch001.</li>
+     <li>Coleman J. S. Social capital in the creation of human capital, American Journal of Sociology, 1988, vol. 94, pp. 94—120. DOI: 10.1086/228943.</li>
+     <li>Lizardo O. Improving Cultural Analysis: Considering Personal Culture in its Declarative and Nondeclarative Modes, American Sociological Review, 2017, vol. 82, no. 1, pp. 88—115. DOI: 10.1177/0003122416675175.</li>
+     <li>Styhre A., Borjesson S. Innovativeness and Creativity in Bureaucratic Organizations: Evidence from the Pharmaceutical and the Automotive Industry, OLKC Conference, Warwick Univeristy, UK, March 20—22, 2006.</li>
+     <li>Gkonou C., Mercer S. Understanding emotional and social intelligence among English language teachers, London, British Council, 2017, 56 р.</li>
+     <li>Han J. Team-bonding and team-bridging social capital: Conceptualization and implications, Team Performance Management: An International Journal, 2018, vol. 24, no. 1, pp. 17—42. DOI: 10.1108/TPM-02-2017-0010.</li>
+     <li>Dokko G., Kane A. A., Tortoriello M. One of us or one of my friends: How social identity and tie strength shape the creative generativity of boundary-spanning ties, Organization Studies, 2014, vol. 35, no. 5, pp. 703—726. DOI: 10.1177/0170840613508397.</li>
+     <li>Carnabuci G., Dioszegi B. Social networks, cognitive style, and innovative performance: A contingency perspective, Academy of Management Journal, 2015, vol. 58, no. 3, pp. 881—905. DOI: 10.5465/amj.2013.1042.</li>
+     <li>Voronin A. N. Intellectual activity: manifestation of intelligence and creativity in real interaction, Psychology. HSE Journal, 2006, no. 3, pp. 35—58 (in Russian).</li>
+     <li>Kirton M. J. Adaptors and innovators: a description and measure / Eds. by G. J. Puccio, M. C. Murdock. Creativity Assessment: Readings and Resources. Buffalo, Creative Education Foundation Press, 1999, 197 p.</li>
+     <li>Bollen K. A. Structural equations with latent variables, New York, Wiley, 1989, 536 p.</li>
+     <li>Kline R. B. Principles and practice of structural equation modeling (3rd ed.), New York, Guilford Press, 2010, 452 p.</li>
+     <li>Orlova E. V. Methodology and Statistical Modeling of Social Capital Influence on Employees' Individual Innovativeness in a Company, Mathematics, 2022, vol. 10, no. 11, article 1809. DOI: 10.3390/math10111809.</li>
+     <li>Stollberger J., Ali Al-Atwi A., De Cremer D. Untangling the team social capital—team innovation link: The role of proportional task conflict as well as group- and differentiated individual-focused transformational leadership, Human Relations, 2022, vol. 76, no. 6, pp. 871—900. DOI: 10.1177/00187267221080995.</li>
+     <li>Likert R. A technique for the measurement of attitudes, New York, The Science Press, 1932. 53 p.</li>
+     <li>Orlova E. V. A Novel Brillouin and Langevin Functions Dynamic Model for Two Conflicting Social Groups: Study of R&D Processes, Mathematics, 2024, vol. 12, no. 17, article 2788. DOI: 10.3390/math12172788.</li>
+     <li>Orlova E. V. The conflict of innovators and adaptors in the business processes of research and development in a company: the socio-physical approach to resolving contradictions, Russian Journal of Industrial Economics, 2024, vol. 17, no. 4, pp. 465—475. DOI: 10.17073/2072-1633-2024-4-1356 (in Russian).</li>
+     <li>Orlova E. V. A Model of Two-Group Conflict in R&D Processes at the Enterprise, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 631—647. DOI: 10.17587/prin.15.631-647 (in Russian).</li>
+ - doi: 17.108-116
+   udk: '004.896'
+   edn: BNPBAQ
+   item_authors: Dolgov A. S., Dmitrieva M. A.
+   item_name: Adaptive Control System for 3D Printing of Concrete based on Machine Learning and Sensor Data
+   item_authors_address: |
+     <b>A. S. Dolgov</b>, Postgraduate Student, alexdolgoffkld@yandex.ru,
+     <b>M. A. Dmitrieva</b>, Professor, dmitrieva_m@inbox.ru,
+     Immanuel Kant Baltic Federal University, Kaliningrad, 236016, Russian Federation
+   item_corr_author: 'Aleksandr S. Dolgov, Postgraduate Student, Immanuel Kant Baltic Federal University, 236016, Kaliningrad, Russian Federation, E-mail: mr.alexofficial@gmail.com'
+   item_rec_on: September 16, 2025
+   item_acc_on: November 12, 2025
+   item_annot: |
+     <p>This study introduces a novel software framework for adaptive control of the 3D concrete printing process, addressing one of the most pressing challenges in large-scale additive manufacturing with cementitious materials: the inherent variability of rheological and environmental conditions. Traditional extrusion-based systems typically rely on predefined process parameters, which fail to account for dynamic changes in material viscosity, temperature, and ambient humidity. As a result, the accuracy, stability, and reproducibility of the printed structures are often compromised, limiting the wider adoption of the technology in construction practice.
+     To overcome these limitations, the proposed system integrates real-time sensor feedback with predictive models based on machine learning to dynamically adjust deposition parameters, including material feed rate, nozzle velocity, and layer height. This closed-loop approach enables the printer to respond adaptively to fluctuations in material properties and environmental conditions, thereby improving the dimensional precision, interlayer adhesion, and overall mechanical performance of the printed elements.
+     The article details the architecture of the software, the mathematical formulations of the adaptive algorithms, and the implementation of sensor-driven control mechanisms. Experimental validation indicates that the method substantially reduces material waste and energy consumption, while simultaneously enhancing print reliability. In addition, the system demonstrates potential for integration with digital twin environments, offering new opportunities for predictive maintenance and process optimization.
+     This research contributes to the advancement of automated construction technologies by providing a scalable and intelligent control solution, with direct benefits for sustainable building practices and the industrialization of concrete 3D printing.</p>
+   item_keywords: 3D concrete printing, adaptive process control, additive manufacturing in construction, sensor-based monitoring, machine learning algorithms, rheology of cementitious materials, mixture viscosity, setting time prediction, material feed rate optimization, moisture evaporation effects
+   item_pages: 108—116
+   item_citation: 'Dolgov A. S., Dmitrieva M. A. Adaptive Control System for 3D Printing of Concrete based on Machine Learning and Sensor Data, Programmnaya Ingeneria, 2026, vol. 17, no. 2, pp. 108—116. DOI: 10.17587/prin.17.108-116. (in Russian).'
+   item_references: |
+     <li>Paolini A., Kollmannsberger S., Rank E. Additive manufacturing in construction: A review on processes, applications, and digital planning methods, Addit. Manuf., 2019, vol. 30, article 100894. DOI: 10.1016/j.addma.2019.100894.</li>
+     <li>Mawas K., Maboudi M., Gerke M. A review on geometry and surface inspection in 3D concrete printing, arXiv preprint, 2025, arXiv:2503.07472.</li>
+     <li>Hlobil M., Michel L., Pundir M., Kammer S. D. A ther-mo-hygro computational model to determine the factors dictating cold joint formation in 3D printed concrete, arXiv preprint, 2024, arXiv:2406.05238. DOI: 10.48550/arXiv.2406.05238.</li>
+     <li>Le T. T., Austin S. A., Lim S. et al. Hardened properties of high-performance printing concrete, Cement and Concrete Research, 2012, vol. 42, no. 3, pp. 558—566. DOI: 10.1016/j.cemconres.2011.12.003.</li>
+     <li>Shatalova S. V., Chernysheva N. V., Lesovik V. S. et al. Development of an integrated solution for 3D printing of wall structures, Vestnik Belgorodskogo gosudarstvennogo tekhnologichesk-ogo universiteta im. V. G. Shukhova, 2022, vol. 7, no. 10, pp. 8—19. DOI: 10.34031/2071-7318-2022-7-10-8-19 (in Russian).</li>
+     <li>Gorbaneva E. P., Kosovtseva I. A. Domestic and foreign experience in the development and implementation of informatization tools in the construction industry, BIM-modelirovanie v zadachakh stroitel'stva i arkhitektury, Mat. VIMezhdunar. nauch.-prakt. konf. / Eds A. A. Semenov. Saint Petersburg, 2023, pp. 3—12. DOI: 10.23968/ BIMAC.2023.001 (in Russian).</li>
+     <li>Mindess S., Young J. F., Darwin D. Concrete, 2nd ed., Prentice Hall, 2003, 644 p.</li>
+     <li>GOST 10180—2012. Concrete mixtures. Methods for determining strength using control samples, Moscow, Standartinform, 2013, 20 p. (in Russian).</li>
+     <li>Panda B., Lim J. H., Tan M. J. Mechanical properties and deformation behaviour of early age concrete in the context of digital construction, Composites Part B: Engineering, 2019, vol. 165, pp. 563—571. DOI: 10.1016/j.compositesb.2019.02.040.</li>
+     <li>Reid R., Prausnitz J., Sherwood T. The properties of gases and liquids, 3rd ed., Leningrad, Khimiya, 1982, 892 p. (in Russian).</li>
+     <li>El Bitouri Y. Rheological behavior of cement paste: a phe-nomenological state of the art, Infrastructures, 2023, vol. 4, no. 3, pp. 1891—1904. DOI: 10.3390/infrastructures9030107.</li>
+     <li>Bergman T. L., Lavine A. S., Incropera F. P., DeWitt D. P. Fundamentals ofheat and mass transfer, 7th ed., John Wiley & Sons, 2011, 1048 p.</li>
+     <li>Mills A. F. Heat and mass transfer, 2nd ed., Prentice Hall, 1999, 1000 p.</li>
+     <li>Basmadjian D. Mass transfer: Principles and applications, CRC Press, 2004, 390 p.</li>
+     <li>Jiao D., Shi C., Yuan Q. et al. Effect of constituents on rheological properties of fresh concrete, а review, Cement and concrete composites, 2017, vol. 83, pp. 146—159. DOI: 10.1016/j.cemconcomp.2017.07.016.</li>

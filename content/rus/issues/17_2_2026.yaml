@@ -1,0 +1,198 @@
+---
+title: Номер 02 2026 год
+date: 2026-02-16
+content:
+ - doi: 17.59-66
+   udk: "004.4'422"
+   edn: LIEBPB
+   item_authors: Левченко Д. Н., Ермолицкий А. В., Нейман-заде М. И.
+   item_name: Динамический анализ работы оптимизаций автовекторизации и разрыва зависимостей в компиляторе LCC для архитектуры «Эльбрус»
+   item_authors_address: |
+     <b>Д. Н. Левченко</b><sup>1, 2</sup>, аспирант, ст. программист, levchenko_d@mcst.ru,
+     <b>А. В. Ермолицкий</b><sup>1</sup>, канд. техн. наук, нач. отдела разработки языкового компилятора, era@mcst.ru,
+     <b>М. И. Нейман-заде</b><sup>1, 2</sup>, канд. физ.-мат. наук, доц. кафедры информатики и вычислительной техники, нач. отделения разработки систем программирования, muradnz@mcst.ru,
+     <br>
+     <sup>1</sup> АО «МЦСТ», Москва,
+     <br>
+     <sup>2</sup> Московский физико-технический институт (национальный исследовательский университет)
+   item_rec_on: 2025-09-19
+   item_acc_on: 2025-10-21
+   item_annot: |
+     <p>Представлен комбинированный метод обнаружения неточностей в предсказании динамической информации для оптимизаций автоматической векторизации и динамического разрыва зависимостей. Метод реализован в виде модуля для инструментирования циклов в составе компилятора LCC и библиотеки поддержки времени исполнения для сбора статистики и выдачи отчета. Предложенный метод позволил повысить скорость исполнения тестов из наборов SPEC CPU 2006 и 2017 до 7,4 %.</p>
+   item_keywords: компиляторы, цикловые оптимизации, автовекторизация, динамический разрыв зависимостей, инструментирование кода, широкое командное слово (VLIW), архитектура «Эльбрус», профильная информация
+   item_pages: 59—66
+   item_citation: 'Левченко Д. Н., Ермолицкий А. В., Нейман-заде М. И. Динамический анализ работы оптимизаций автовекторизации и разрыва зависимостей в компиляторе LCC для архитектуры «Эльбрус» // Программная инженерия. 2026. Том 17, № 2. С. 59—66. DOI: 10.17587/prin.17.59-66.'
+   item_references: |
+     <li>Ким А. К., Перекатов В. И., Фельдман В. М. Микропроцессоры и вычислительные комплексы семейства «Эльбрус». СПб.: Питер, 2013. 272 с.</li>
+     <li>Devkota S., Aschwanden P., Kunen A. et al. CcNav: Understanding Compiler Optimizations in Binary Code // IEEE Transactions on Visualization and Computer Graphics. 2021. Vol. 27, No. 2. P. 667— 677. DOI: 10.1109/TVCG.2020.3030357.</li>
+     <li>Zhao W., Cai B., Whalley D. et al. VISTA: A System for Interactive Code Improvement // LCTES/SCOPES '02: Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems. 2002. P. 155—164. DOI: 10.1145/513829.513857.</li>
+     <li>Devkota S., Isaacs K. E. CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations // Eurographics Conference on Visualization (EuroVis)'18. 2018. P. 453—464. DOI: 10.1111/cgf.13433.</li>
+     <li>Cooper K. D., Torczon L. Engineering a Compiler. 3-rd ed. Cambridge, USA: Morgan Kaufmann, 2023. 822 p.</li>
+     <li>Дроздов А. Ю., Степаненков А. М. Технология оптимизации циклов для архитектур с аппаратной поддержкой конвейеризации // Информационные технологии и вычислительные системы. 2004. № 3. С. 52—62.</li>
+     <li>Shahbahrami A., Juurlink B., Vassiliadis S. Performance Impact of Misaligned Accesses in SIMD Extensions // 17th Annual Workshop on Circuits Systems and Signal Processing. 2006. P. 334—342.</li>
+     <li>Jeffers J., Reinders J. Intel Xeon Phi Coprocessor High Performance Programming. Waltham, USA: Morgan Kaufmann, 2013. 430 p.</li>
+ - doi: 17.67-82
+   udk: '004.85:519.873'
+   edn: ZAOSZP
+   item_authors: Кульшин Р. С., Сидоров А. А.
+   item_name: Оптимизация гиперпараметров рекомендательных алгоритмов посредством обобщенной метрики оценивания
+   item_authors_address: |
+     <b>Р. С. Кульшин</b>, аспирант, ассистент, roman.s.kulshin@tusur.ru,
+     <b>А. А. Сидоров</b>, канд. экон. наук, доц., зав. кафедрой, anatolii.a.sidorov@tusur.ru,
+     Томский государственный университет систем управления и радиоэлектроники
+   item_rec_on: 2025-05-14
+   item_acc_on: 2025-08-13
+   item_annot: |
+     <p>Рассмотрен подход к оптимизации гиперпараметров рекомендательных алгоритмов с использованием интегральной оценки, объединяющей несколько метрик в четыре ключевых субиндекса: точность, ранжирование, разнообразие и ресурсоемкость. Такой метод позволяет проводить более сбалансированную настройку моделей, обеспечивая улучшение качества рекомендаций без потерь в отдельных характеристиках. Показано, что разные алгоритмы по-разному реагируют на выбранную стратегию оптимизации. Разработанная методология может быть применена не только в рекомендательных системах, но и в других задачах многокритериальной оптимизации.</p>
+   item_keywords: оптимизация, алгоритмы, гиперпараметры, рекомендательные системы, интегральный показатель
+   item_pages: 67—82
+   item_comment: Работа выполнена в рамках ГЗ «Наука»; проект FEWM-2023-0013.
+   item_citation: 'Кульшин Р. С., Сидоров А. А. Оптимизация гиперпараметров рекомендательных алгоритмов посредством обобщенной метрики оценивания // Программная инженерия. 2026. Том 17, № 2. С. 67—82. DOI: 10.17587/prin.17.67-82.'
+   item_references: |
+     <li>Кульшин Р. С., Сидоров А. А. Обобщенная метрика оценки эффективности алгоритмов рекомендательных систем на основе энтропийного метода // Проблемы управления. 2024. № 4. С. 44—60. DOI: 10.25728/pu.2024.4.4.</li>
+     <li>Del Buono N., Esposito F., Selicato L. Methods for hyperparameters optimization in learning approaches: an overview // Machine Learning, Optimization, and Data Science: 6th International Conference, LOD 2020, Siena, Italy, July 19—23, 2020, Revised Selected Papers, Part I 6. Springer International Publishing, 2020. P. 100—112. DOI: 10.1007/978-3-030-64583-0_11.</li>
+     <li>Анафиев А. С., Карюк А. С. Обзор подходов к решению задачи оптимизации гиперпараметров для алгоритмов машинного обучения // Таврический вестник информатики и математики. 2022. № 2 (55). С. 30—37.</li>
+     <li>Bischl B., Binder M., Lang M. et al. Hyperparameter optimization: Foundations, algorithms, best practices, and open challenges // Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2023. Vol. 13. No. 2. Article e1484. DOI: 10.1002/widm.1484.</li>
+     <li>Bergstra J., Bardenet R., Bengio Y. et al. Algorithms for hyper-parameter optimization // Advances in neural information processing systems. 2011. Vol. 24.</li>
+     <li>Bergstra J., Bengio Y. Random search for hyper-parameter optimization // The journal of machine learning research. 2012. Vol. 13, No. 1. P. 281—305.</li>
+     <li>Belete D. M., Huchaiah M. D. Grid search in hyperparameter optimization of machine learning models for prediction of HIV/AIDS test results // International Journal of Computers and Applications. 2022. Vol. 44, No. 9. P. 875—886. DOI: 10.1080/1206212X.2021.1974663.</li>
+     <li>Ros R., Hansen N. A simple modification in CMA-ES achieving linear time and space complexity // International conference on parallel problem solving from nature. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008. P. 296—305. DOI: 10.1007/978-3-540-87700-4_30.</li>
+     <li>Bergstra J., Yamins D., Cox D. Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures // International conference on machine learning. PMLR, 2013. Vol. 28, No. 1. P. 115—123.</li>
+     <li>Ozaki Y., Tanigaki Y., Watanabe S., Onishi M. Multiobjective tree-structured parzen estimator for computationally expensive optimization problems // Proceedings of the 2020 genetic and evolutionary computation conference. 2020. P. 533—541. DOI: 10.1145/3377930.3389817.</li>
+     <li>Snoek J., Larochelle H., Adams R. Practical bayesian optimization of machine learning algorithms // Advances in neural information processing systems. 2012. Vol. 25. DOI: 10.48550/ arXiv.1206.2944.</li>
+     <li>Deshpande M., Karypis G. Item-based top-n recommendation algorithms // ACM Transactions on Information Systems (TOIS). 2004. Vol. 22. No. 1. P. 143—177. DOI: 10.1145/963770.963776.</li>
+     <li>Ning X., Karypis G. Slim: Sparse linear methods for top-n recommender systems // 2011 IEEE 11th international conference on data mining. IEEE, 2011. P. 497—506. DOI: 10.1109/ICDM.2011.134.</li>
+     <li>Wu Y., DuBois C., Zheng A. X. et al. Collaborative denoising auto-encoders for top-n recommender systems // Proceedings of the ninth ACM international conference on web search and data mining. 2016. P. 153—162. DOI: 10.1145/2835776.2835837.</li>
+     <li>Tang J., Qu M., Wang M. et al. Line: Large-scale information network embedding // Proceedings of the 24th international conference on world wide web. 2015. P. 1067—1077. DOI: 10.1145/2736277.2741093.</li>
+     <li>Harper F., Konstan J. The movielens datasets: History and context // Acm transactions on interactive intelligent systems (TiiS). 2015. Vol. 5. No. 4. P. 1—19. DOI: 10.1145/2827872.</li>
+     <li>Hou Y., Li J., He Z. et al. Bridging language and items for retrieval and recommendation. 2024. arXiv: 2403.03952.</li>
+ - doi: 17.83-94
+   udk: '004.89: 004.4: 004.421: 519.685: 681.5'
+   edn: ABIHKE
+   item_authors: Степанов М. Ф., Степанов А. М., Степанова О. М.
+   item_name: Синтез итерационных планов решения декларативно поставленных задач с использованием планирующей искусственной нейронной сети
+   item_authors_address: |
+     <b>М. Ф. Степанов</b>, д-р техн. наук, доц., проф., mfstepanov@mail.ru,
+     <b>А. М. Степанов</b>, канд. техн. наук, ст. преп., amstepanov@mail.ru,
+     <b>О. М. Степанова</b>, аспирант, omstepanova@mail.ru,
+     Саратовский государственный технический университет имени Гагарина Ю. А.
+   item_rec_on: 2025-07-30
+   item_acc_on: 2025-09-09
+   item_annot: |
+     <p>Предложен подход к модификации интеллектуального решателя на базе планирующих искусственных нейронных сетей для обеспечения возможности планирования действий декларативно поставленных задач, решаемых итерационными методами. Рассмотрены вопросы, связанные с решением задачи построения планов действий, включающих циклы. Предлагаемый подход к построению и организации исполнения планов действий для решения задач итерационными методами базируется на введении дополнительных условий применимости циклически выполняемых операций. Для порождаемого плана действий разработаны схемы представления в виде продукции, а также в виде записи программы по А. А. Ляпунову. Приведен иллюстративный пример построения циклически выполняемого плана действий решения подзадачи в рамках задачи управления в условиях неопределенности.</p>
+   item_keywords: представление знаний, планирование действий, декларативно поставленные задачи, синтез итерационных планов решения задач, интеллектуальный решатель, планирующие искусственные нейронные сети
+   item_pages: 83—94
+   item_comment: Исследование выполнено при поддержке Российского научного фонда, грант № 24-21-00488, https://rscf.ru/pmject/24-21-00488/
+   item_citation: 'Степанов М. Ф., Степанов А. М., Степанова О. М. Синтез итерационных планов решения декларативно поставленных задач с использованием планирующей искусственной нейронной сети // Программная инженерия. 2026. Том 17, № 2. С. 83—94. DOI: 10.17587/prin.17.83-94.'
+   item_references: |
+     <li>Потемкин В. Г. Система инженерных и научных расчетов MATLAB 5.x.: В 2 томах. М.: ДИАЛОГ-МИФИ, 1999.</li>
+     <li>Марков А. А. Невозможность некоторых алгорифмов в теории ассоциативных систем // ДАН СССР. 1947. Том 55. С. 587—590.</li>
+     <li>Непейвода Н. Н. Соотношение между правилами естественного вывода и операторами алгоритмических языков высокого уровня // ДАН СССР. 1978. Том 239, № 3. С. 526—529.</li>
+     <li>Лавров С. С., Залогова Л. А., Петрушина Т. И. Принципы планирования решения задач в системе автоматического синтеза программ // Программирование. 1982. № 3. С. 35—43.</li>
+     <li>Тыугу Э. Х. Концептуальное программирование. М.: Наука, 1984. 256 с.</li>
+     <li>La Valle S. M. Planning Algorithms. Cambridge, Cambridge University Press, 2006. 844 p.</li>
+     <li>Ramirez-Rueda R., Benitez-Guerrero E., Mezura-Godoy C., Barcenas E. A. A Decade of Advancements in Program Synthesis from Natural Language: A Systematic Literature Review // Proceedings of the Institute for System Programming of the RAS. 2024. Vol. 36, No. 6. P. 59—82. DOI: 10.15514/ ISPRAS-2024-36(6)-4.</li>
+     <li>Зуенко А. А., Фридман О. В. Развитие логического подхода к решению задач интеллектуального планирования: аналитический обзор // Вестник Воронежского государственного университета. Сер.: Системный анализ и информационные технологии. 2023. № 4. С. 104—127. DOI: 10.17308/sait/1995-5499/2023/4/104-127.</li>
+     <li>Зайцев А. Ф. Метод поиска и логического вывода экспертной информации в ориентированном циклическом мультиграфе знаний // Информационные и математические технологии в науке и управлении. 2022. № 4 (28). С. 213—222. DOI: 10.38028/ESI.2022.28.4.017.</li>
+     <li>Joudakizadeh M., Beltiukov A. P. Adaptive human-machine theorem proving system // Proceedings of the Institute of Mathematics and Informatics at Udmurt State University. 2024. Vol. 64. P. 17—33. DOI: 10.35634/2226-3594-2024-64-02.</li>
+     <li>Joudakizadeh M., Beltiukov A. P. Two-level realization of logical formulas for deductive program synthesis // Bulletin of Udmurt University. Mathematics. Mechanics. Computer Science. 2024. Vol. 34, No. 4. P. 469—485. DOI: 10.35634/vm240401.</li>
+     <li>Сидоренко О. И. О непосредственных дедуктивных выводах в традиционной интегральной силлогистике из 50 базисных суждений // Математические методы в технике и технологиях — ММТТ. 2020. Том 7. С. 39—45.</li>
+     <li>Справочник по теории автоматического управления / Под ред. А. А. Красовского. М.: Наука, 1987. 712 с.</li>
+     <li>Методы классической и современной теории автоматического управления: Учеб. в 5 томах; 2-е изд., перераб. и доп. / Под ред. К. А. Пупкова, Н. Д. Егупова. М.: Изд-во МГТУ им. Н. Э. Баумана, 2004. 656 с.</li>
+     <li>Александров А. Г. Синтез регуляторов многомерных систем. М.: Машиностроение, 1986. 272 с.</li>
+     <li>Поляк Б. Т., Щербаков П. С. Робастная устойчивость и управление. М.: Наука, 2002. 303 с.</li>
+     <li>Поляк Б. Т., Хлебников М. В., Рапопорт Л. Б. Математическая теория автоматического управления. М.: ЛЕНАНД, 2019. 500 с.</li>
+     <li>Марчук Г. И. Избранные труды: в 5 томах. М.: РАН, 2018.</li>
+     <li>Новиков А. И. Элементы дискретной математики. М.: Дашков и К°, 2019. 209 с.</li>
+     <li>Каменецкая Н. В. Вычислительная математика. СПб.: ун-тет ТПС МЧС России, 2018. 112 с.</li>
+     <li>Новиков Ф. А. Дискретная математика для программистов: Учеб. для вузов. 2-е изд. СПб.: Питер, 2007. 364 с.</li>
+     <li>Степанов М. Ф. Автоматическое решение задач теории автоматического управления на основе планирующих искусственных нейронных сетей // Нейрокомпьютеры: разработка и применение. 2003. № 3, 4. С. 27—44.</li>
+     <li>Степанов М. Ф. Нейронные сети для планирования решения задач теории автоматического управления // Проблемы управления. 2004. № 2. С. 66—71.</li>
+     <li>Stepanov M. F., Stepanov A. M. Mathematical modelling of intellectual self-organizing automatic control system: Action planning research // Procedia Engineering. 2017. Vol. 201. P. 617— 622. DOI: 10.1016/j.proeng.2017.09.657.</li>
+     <li>Ефимов Е. И. Решатели интеллектуальных задач. М.: Наука, 1982. 316 с.</li>
+     <li>Генцен Г. Исследования логических выводов // Математическая теория логического вывода. М.: Наука, 1967. С. 9—76.</li>
+     <li>Ляпунов А. А. О логических схемах программ // Проблемы кибернетики. Вып. 1. М.: Физматгиз, 1958. С. 46—74.</li>
+     <li>Александров А. Г. Методы построения систем автоматического управления. М.: Изд-во физ.-мат. литературы, 2008. 232 с.</li>
+     <li>Stepanov M. F., Stepanov A. M., Stepanova T. V., Stepanova O. M. Features of Knowledge Representation of Automatic Control Systems Design Methods // Artificial Intelligence in Models, Methods and Applications. Studies in Systems, Decision and Control. Springer Nature Switzerland AG. 2023. Vol. 457. P. 231—243. DOI: 10.1007/978-3-031-22938-1_16.</li>
+     <li>Степанов М. Ф., Степанов А. М., Степанова О. М. О подходе к синтезу планов решения декларативно поставленных задач, решаемых итерационными методами // Математические методы в технологиях и технике. 2025. № 8. С. 93—98.</li>
+ - doi: 17.95-107
+   udk: '004.942; 330.46'
+   edn: DYUJZQ
+   item_authors: Орлова Е. В.
+   item_name: Прямые и косвенные эффекты влияния социального капитала на инновационность членов проектных команд в условиях конфликта
+   item_authors_address: |
+     <b>Е. В. Орлова</b>, д-р техн. наук, проф., ekorl@mail.ru,
+     Уфимский университет науки и технологий
+   item_rec_on: 2025-07-19
+   item_acc_on: 2025-09-16
+   item_annot: |
+     <p>Решается задача анализа личностной инновационности членов проектной команды, в том числе участвующих в разработке программного обеспечения. Исследованы связи инновационности и социального капитала при посреднической роли конфликта в команде. На основе метода моделирования структурными уравнениями обосновано существование скрытых конструктов социального капитала, инновационности и конфликта, которые зависят от ряда наблюдаемых характеристик (индикаторов) субъектов. Доказана причинная связь социального капитала и инновационности членов проектной команды, а также показана посредническая роль конфликта в этой связи.</p>
+   item_keywords: личностная инновационность, социальный капитал, социальный конфликт, моделирование структурными уравнениями, причинная связь
+   item_pages: 95—107
+   item_citation: 'Орлова Е. В. Прямые и косвенные эффекты влияния социального капитала на инновационность членов проектных команд в условиях конфликта // Программная инженерия. 2026. Том 17, № 2. С. 95—107. DOI: 10.17587/prin.17.95-107.'
+   item_references: |
+     <li>Rogers E. M. Innovation, Theory of // International Encyclopedia of the Social. Behavioral Sciences. 2004. P. 7540— 7543.</li>
+     <li>Midgley C., Kaplan A., Middleton M. et al. The development and validation of scales assessing students' achievement goal orientations // Contemporary Educational Psychology. 1998. Vol. 23, No. 2. P. 113—131. DOI: 10.1006/ceps.1998.0965.</li>
+     <li>Татарко А. Н. Социально-психологический капитал личности в поликультурном обществе: дисс. ... д-ра психол. наук. М.: Институт психологии РАН, 2014.</li>
+     <li>Толочек В. А. Профессиональная карьера: феномен, концепции, «апокрифы» // Вестник Московского университета. Серия 14: Психология. 2025. № 1. С. 30—54. DOI: 10.11621/ LPJ-25-02.</li>
+     <li>Яголковский С. Р. Психология инноваций: подходы, методы, процессы. М.: ВШЭ, 2011. 272 с.</li>
+     <li>Aldahdouh T., Korhonen V., Nokelainen P. What contributes to the individual innovativeness? A multilevel perspective // International Journal of Innovation Studies. 2019. Vol. 3, No. 2. P. 23—39. DOI: 10.1016/j.ijis.2019.06.001.</li>
+     <li>Anderson N., Potocnik K., Zhou J. Innovation and creativity in organizations // Journal of Management. 2014. Vol. 40, No. 5. P. 1297—1333. DOI: 10.1177/0149206314527128.</li>
+     <li>Orlova E. V. Innovation in Company Labor Productivity Management: Data Science Methods Application // Applied Sysem Innovation. 2021. Vol. 4, No. 3. Article 68. DOI: 10.3390/ asi4030068.</li>
+     <li>Орлова Е. В. Влияние социального капитала компании на инновационность личности в России: экономические механизмы и диагностический инструментарий // Journal of Applied Economic Research. 2022. Том 21, № 3. С. 545—575. DOI: 10.15826/vestnik.2022.21.3.019.</li>
+     <li>Orlova E. V. Design of Personal Trajectories for Employees' Professional Development in the Knowledge Society under Industry 5.0 // Social Sciences. 2021. Vol. 10, No. 11. Article 427. DOI: 10.3390/socsci10110427.</li>
+     <li>Christensen K. S. Losing innovativeness: the challenge of being acquired // Management Decision. 2006. Vol. 44. No. 9. P. 1161—1182. DOI:10.1108/00251740610707668.</li>
+     <li>Rodan S. Innovation and heterogeneous knowledge in managerial contact networks // Journal of Knowledge Management. 2002. Vol. 6, № 2. P. 152—163. DOI: 10.1108/ 13673270210424675.</li>
+     <li>Белкин В. Н., Белкина Н. А., Антонова О. А., Бочкаева И. В. Теория социального капитала организации // Социум и власть. 2012. Том 36. № 4. С. 79—86.</li>
+     <li>Landry R., Amara N., Lamari M. Does social capital determine innovation? To what extent? // Technological Forecasting and Social Change. 2002. Vol. 69, No. 7. P. 681—701. DOI: 10.1016/ S0040-1625(01)00170-6.</li>
+     <li>Beugelsdijk S., Van Schaik T. Differences in social capital between 54 Western European regions // Regional Studies. 2005. Vol. 39, No. 8. P. 1053—1064. DOI: 10.1080/00343400500328040.</li>
+     <li>Murphy L. J. Social Capital and Innovation: A Theoretical Perspective// Innovation and Social Capital in Organizational Ecosystems / Eds by B. C. Thomas, L. J. Murphy, UK, IGI Global. 2019. Р. 1—22. DOI: 10.4018/978-1-5225-7721-8.ch001.</li>
+     <li>Coleman J. S. Social capital in the creation of human capital // American Journal of Sociology. 1988. Vol. 94. P. 94—120. DOI: 10.1086/228943.</li>
+     <li>Lizardo O. Improving Cultural Analysis: Considering Personal Culture in its Declarative and Nondeclarative Modes // American Sociological Review. 2017. Vol. 82, No. 1. Р. 88—115. DOI: 10.1177/0003122416675175.</li>
+     <li>Styhre A., Borjesson S. Innovativeness and Creativity in Bureaucratic Organizations: Evidence from the Pharmaceutical and the Automotive Industry // OLKC Conference, Warwick Univeristy, UK, March 20 —22, 2006.</li>
+     <li>Gkonou C., Mercer S. Understanding emotional and social intelligence among English language teachers. London: British Council, 2017. 56 p.</li>
+     <li>Han J. Team-bonding and team-bridging social capital: Conceptualization and implications // Team Performance Management: An International Journal. 2018. Vol. 24. № 1. Р. 17—42. DOI: 10.1108/TPM-02-2017-0010.</li>
+     <li>Dokko G., Kane A. A., Tortoriello M. One of us or one of my friends: How social identity and tie strength shape the creative generativity of boundary-spanning ties // Organization Studies. 2014. Vol. 35, No. 5. Р. 703—726. DOI: 10.1177/0170840613508397.</li>
+     <li>Carnabuci G., Dioszegi B. Social networks, cognitive style, and innovative performance: A contingency perspective // Academy of Management Journal. 2015. Vol. 58, No. 3. Р. 881—905. DOI: 10.5465/amj.2013.1042.</li>
+     <li>Воронин А. Н. Интеллектуальная деятельность: проявление интеллекта и креативности в реальном взаимодействии // Психология. Журнал ВШЭ. 2006. № 3. С. 35—58.</li>
+     <li>Kirton M. J. Adaptors and innovators: a description and measure / Eds by G. J. Puccio, M. C. Murdoc. Creativity Assessment: Readings and Resources. Buffalo: Creative Education Foundation Press, 1999. 197 p.</li>
+     <li>Bollen K. A. Structural equations with latent variables. New York: Wiley, 1989. 536 p.</li>
+     <li>Kline R. B. Principles and practice of structural equation modeling (3rd ed.). New York: Guilford Press, 2010. 452 p.</li>
+     <li>Orlova E. V. Methodology and Statistical Modeling of Social Capital Influence on Employees' Individual Innovativeness in a Company // Mathematics. 2022. Vol. 10, No. 11. Article1809. DOI: 10.3390/math10111809.</li>
+     <li>Stollberger J., Ali Al-Atwi A., De Cremer D. Untangling the team social capital—team innovation link: The role of proportional task conflict as well as group- and differentiated individual-focused transformational leadership // Human Relations. 2022. Vol. 76, No. 6. P. 871—900. DOI: 10.1177/00187267221080995.</li>
+     <li>Likert R. A technique for the measurement of attitudes. New York: The Science Press, 1932. 53 p.</li>
+     <li>Orlova E. V. A Novel Brillouin and Langevin Functions Dynamic Model for Two Conflicting Social Groups: Study of R&D Processes // Mathematics. 2024. Vol. 12, No. 17. Article 2788. DOI: 10.3390/math12172788.</li>
+     <li>Орлова Е. В. Конфликт инноваторов и адаптеров в бизнес-процессах исследований и разработок на предприятии: социофизический подход к разрешению противоречий // Экономика промышленности. 2024. Том 17, № 4. С. 465—475. DOI: 10.17073/2072-1633-2024-4-1356.</li>
+     <li>Орлова Е. В. Модель двухгруппового конфликта в процессах исследований и разработок на предприятии // Программная инженерия. 2024. Том 15, № 12. С. 631—647. DOI: 10.17587/prin.15.631-647.</li>
+ - doi: 17.108-116
+   udk: '004.896'
+   edn: BNPBAQ
+   item_authors: Долгов А. С., Дмитриева М. А.
+   item_name: Адаптивная система управления 3D-печатью бетоном на основе машинного обучения и сенсорных данных
+   item_authors_address: |
+     <b>А. С. Долгов</b>, аспирант, alexdolgoffkld@yandex.ru,
+     <b>М. А. Дмитриева</b>, д-р физ.-мат. наук, проф., dmitrieva_m@inbox.ru,
+     Балтийский Федеральный Университет имени Иммануила Канта, Калининград
+   item_rec_on: 2025-09-16
+   item_acc_on: 2025-11-12
+   item_annot: |
+     <p>Представлены результаты исследований, направленных на разработку программного обеспечения для адаптивного управления процессом 3D-печати бетоном. Система управления использует данные сенсоров и методы машинного обучения для динамической корректировки скорости подачи материала, траектории движения и высоты слоя. Предложенный подход учитывает изменения вязкости смеси, температуру и влажность среды, обеспечивая замкнутый контур управления. Это повышает точность геометрии и качество печатаемых поверхностей, снижает риск дефектов, потери материала и энергозатраты. Описаны ключевые параметры системы и математические модели адаптивных алгоритмов. Отмечен потенциал развития, включая многофакторную оптимизацию процессов.</p>
+   item_keywords: 3D-печать бетоном, адаптивное управление, аддитивные технологии, сенсорные данные, машинное обучение, реология цементных смесей, вязкость смеси, время схватывания, скорость подачи материала, испарение влаги
+   item_pages: 108—116
+   item_citation: 'Долгов А. С., Дмитриева М. А. Адаптивная система управления 3D-печатью бетоном на основе машинного обучения и сенсорных данных // Программная инженерия. 2026. Том 17, № 2. С. 108—116. DOI: 10.17587/prin.17.108-116.'
+   item_references: |
+     <li>Paolini A., Kollmannsberger S., Rank E. Additive manufacturing in construction: A review on processes, applications, and digital planning methods // Additive manufacturing. 2019. Vol. 30. Article 100894. DOI: 10.1016/j.addma.2019.100894.</li>
+     <li>Mawas K., Maboudi M., Gerke M. A Review on Geometry and Surface Inspection in 3D Concrete Printing //arXiv preprint.2025. arXiv:2503.07472.</li>
+     <li>Hlobil M., Michel L., Pundir M., Kammer D. S. A thermohygro computational model to determine the factors dictating cold joint formation in 3D printed concrete // arXiv preprint. 2024 arXiv:2406.05238. DOI: 10.48550/arXiv.2406.05238.</li>
+     <li>Le T. T., Austin S. A., Lim S. et al. Hardened properties of high-performance printing concrete // Cement and Concrete Research. 2012. Vol. 42, No. 3. P. 558—566. DOI: 10.1016/j. cemconres.2011.12.003.</li>
+     <li>Шаталова С. В., Чернышева Н. В., Лесовик В. С. и др. Разработка комплексного решения для 3d-печати стеновых конструкций //Вестник Белгородского государственного технологического университета им. В. Г. Шухова. 2022. Том 7, № 10. С. 8—19. DOI: 10.34031/2071-7318-2022-710-8-19.</li>
+     <li>Горбанева Е. П., Косовцева И. А. Отечественный и зарубежный опыт разработки и внедрения инструментов информатизации строительной отрасли // BIM-моделирование в задачах строительства и архитектуры. Мат. VI Междунар. науч.-практ. конф. / Под общей редакцией А. А. Семенова. СПб., 2023. С. 3—12. DOI: 10.23968/BIMAC.2023.001.</li>
+     <li>Mindess S., Young J. F., Darwin D. Concrete. 2nd ed. Prentice Hall, 2003. 644 p.</li>
+     <li>ГОСТ 10180—2012. Смеси бетонные. Методы определения прочности по контрольным образцам. Введ. 2014-07-01. М.: Стандартинформ, 2013. 20 с.</li>
+     <li>Panda B., Lim J. H., Tan M. J. Mechanical properties and deformation behaviour of early age concrete in the context of digital construction // Composites Part B: Engineering. 2019. Vol. 165. P. 563—571. DOI: 10.1016/j.compositesb.2019.02.040.</li>
+     <li>Рид Р., Праусниц Дж., Шервуд Т. Свойства газов и жидкостей. 3-е изд., перераб. и доп. Л.: Химия, 1982. 892 с.</li>
+     <li>El Bitouri Y. Rheological behavior of cement paste: a phenomenological state of the art // Infrastructures. 2023. Vol. 4, No. 3. P. 1891—1904. DOI: 10.3390/eng4030107.</li>
+     <li>Bergman T. L., Lavine A. S., Incropera F. P., DeWitt D. P. Fundamentals of Heat and Mass Transfer. 7th ed. John Wiley & Sons, 2011. 1048 p.</li>
+     <li>Mills A. F. Heat and Mass Transfer. 2nd ed. Prentice Hall, 1999. 1000 p.</li>
+     <li>Basmadjian D. Mass Transfer: Principles and Applications. CRC Press, 2004. 390 p.</li>
+     <li>Jiao D., Shi C., Yuan Q. et al. Effect of constituents on rheological properties of fresh concrete-A review // Cement and concrete composites. 2017. Vol. 83. Р. 146—159. DOI: 10.1016/j.cemconcomp.2017.07.016.</li>
