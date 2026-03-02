@@ -8,6 +8,12 @@ content:
     item_issue: 2
     doi: 7.51-60
     link: 7.51-60
+  - item_title: "Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems"
+    item_authors: Makarov V. L., Bakhtizin A. R., Beklaryan G. L, Akopov A. S.
+    item_year: 2019
+    item_issue: 4
+    doi: 10.167-177
+    link: 10.167-177
   - item_title: "Mechanism, Models and Control Algorithms for Productive and Economic System under Harmonization Criteria of Interested Agents"
     item_authors: "Orlova E. V."
     item_year: 2016
@@ -15,52 +21,46 @@ content:
     item_issue: 2
     doi: 7.86-96
     link: 7.86-96
-  - item_title: "A Base Technology for Development of Intelligent Services with the Use of IACPaaS Cloud Platform. Part 1. A Development of Knowledge Base and Problem Solver"
-    item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A.
-    item_year: 2015
-    item_issue: 12
+  - item_title: "Capacities of Supercomputer System for Work with Agent-Based Models"
+    item_authors: Makarov V. L., Bahtizin A. R., Vasenin V. A., Roganov V. A., Trifonov I. A.
+    item_year: 2011
+    item_issue: 3
     doi:
-    link: _12_2015_1
+    link: _3_2011_1
   - item_title: "Systems Approach to Swarm Intelligence"
     item_authors: Matrenin P. V., Sekaev V. G.
     item_year: 2013
     item_issue: 12
     doi:
     link: _12_2013_6
-  - item_title: "Capacities of Supercomputer System for Work with Agent-Based Models"
-    item_authors: Makarov V.L., Bahtizin A.R., Vasenin V.A., Roganov V.A., Trifonov I.A.
-    item_year: 2011
-    item_issue: 3
+  - item_title: "A Base Technology for Development of Intelligent Services with the Use of IACPaaS Cloud Platform. Part 1. A Development of Knowledge Base and Problem Solver"
+    item_authors: Gribova V. V., Kleschev A. S., Krylov D. A., Moskalenko Ph. M., Timchenko V. A., Shalfeyeva E. A.
+    item_year: 2015
+    item_issue: 12
     doi:
-    link: _3_2011_1
+    link: _12_2015_1
   - item_title: "Using UML class Diagrams for Design of Knowledge Bases of Rule-Base Expert systems"
     item_authors: Dorodnykh N. O., Yurin A. Yu.
     item_year: 2015
     item_issue: 4
     doi:
     link: _4_2015_1
-  - item_title: "Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems"
-    item_authors: V.L. Makarov,A.R. Bakhtizin, G.L. Beklaryan, A.S. Akopov
-    item_year: 2019
-    item_issue: 4
-    doi: 10.167-177
-    link: 10.167-177
-  - item_title: "Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats"
-    item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
-    item_year: 2014
-    item_issue: 3
-    doi:
-    link: _3_2014_3
-  - item_title: "Verification and Synthesis of Effective Programs for Standard Functions under Predicate Programming Technology"
-    item_authors: Shelekhov V. I.
-    item_year: 2011
-    item_issue: 2
-    doi:
-    link: _2_2011_4
+  - item_title: "Development of a Graphical User Interface for the OpenFOAM Toolbox"
+    item_authors: Chitalov D. I., Merkulov E. S., Kalashnikov S. T.
+    item_year: 2016
+    item_issue: 12
+    doi: 7.568-574
+    link: 7.568-574
   - item_title: "Software System for Information Risk Management 'RiskPanel'"
     item_authors: Palchunov D. E., Yakhyaeva G. E., Hamutskaya A. A.
     item_year: 2011
     item_issue: 7
     doi:
     link: _7_2011_5
+  - item_title: "Self-Organizing Control System of Computer Network Traffic: Method of Counteraction from Network Threats"
+    item_authors: Frantsuzova G. A., Gunko A. V., Basinya E. A.
+    item_year: 2014
+    item_issue: 3
+    doi:
+    link: _3_2014_3
 ---
