@@ -76,11 +76,11 @@ compile '/**/rus/issues/*.yaml' do
   layout '/default_rus_list.html'
 end
 
-compile '/**/rus/most_citated.yaml' do
-  layout '/most_citated_rus.html'
+compile '/**/rus/most_cited.yaml' do
+  layout '/most_cited_rus.html'
 end
-compile '/**/eng/most_citated.yaml' do
-  layout '/most_citated_eng.html'
+compile '/**/eng/most_cited.yaml' do
+  layout '/most_cited_eng.html'
   # This is an example rule that matches Markdown (.md) files, and filters them
 end
 # using the :kramdown filter. It is commented out by default, because kramdown
@@ -111,11 +111,11 @@ route '/**/issues/*.yaml' do
     item.identifier.without_ext + '.html'
 end
 
-route '/**/rus/most_citated.yaml' do
+route '/**/rus/most_cited.yaml' do
   item.identifier.without_ext + '.html'
 end
 
-route '/**/eng/most_citated.yaml' do
+route '/**/eng/most_cited.yaml' do
   item.identifier.without_ext + '.html'
 end
 
