@@ -1,0 +1,228 @@
+---
+title: Issue N3 2026 year
+content:
+ - doi: 17.119-127
+   udk: '004.65'
+   edn: VQXZBR
+   item_authors: Asratian R. E., Kurako E. A., Orlov V. L.
+   item_name: On the Organization of Secure Interaction in Distributed Systems based on .NET Architecture in Linux Environment
+   item_authors_address: |
+     <b>R. E. Asratian</b>, Cand. (Eng.), Leading Researcher, rubezas@yandex.ru,
+     <b>E. A. Kurako</b>, Cand. (Eng.), Senior Researcher, kea@ipu.ru,
+     <b>V. L. Orlov</b>, Cand. (Eng.), Leading Researcher, ovl@ipu.ru,
+     V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences, 117997, Moscow, Russian Federation
+   item_corr_author: 'Ruben E. Asratian, Leading Researcher, V. A. Trapeznikov, Institute of Control Sciences of Russian Academy of Sciences, 117997, Moscow, Russian Federation, E-mail: rubezas@yandex.ru'
+   item_rec_on: September 22, 2025
+   item_acc_on: November 11, 2025
+   item_annot: |
+     <p>The problems related to the organization of secure network interactions between client and service components of distributed systems developed for the Linux platform based on the .NET network architecture in C# are considered. Possible approaches to solving these problems in the Visual Studio Code and Mono programming environments are described. Experimental results are presented to evaluate the performance characteristics of these approaches. In particular, it is shown that gRPC and REST technologies based on the use of the Kestrel web server provide high performance under high service loads that occur when processing a large number of simultaneously received requests. A new approach to protecting HTTP/SOAP requests to web-services developed in Mono environment and located in Apache or Nginx web-servers for Linux platform is described. Unlike VPN or SSL/TLS tunnel technology, which involves installing two tunnel components: a client component on the workstation and a server component on the server, the proposed approach is based on using only one intermediary component: an HTTPS adapter on the workstation that "communicates" with the client over HTTP and with a web server over HTTPS protocol. As this study has shown, this approach allows for high processing speed of single requests to the service, significantly exceeding the processing speed of single requests in GRPC and REST technologies using the Kestrel web service.</p>
+   item_keywords: distributed systems, Internet, information security, web service, gRPC, REST, HTTPS, private key, certificate, OpenSSL
+   item_pages: 119—127
+   item_citation: 'Asratian R. E., Kurako E. A., Orlov V. L. On the Organization of Secure Interaction in Distributed Systems based on .NET Architecture in Linux Environment, Programmnaya ingeneria, 2026, vol. 17, no. 3, pp. 119—127. DOI: 10.17587/prin.17.119-127. (in Russian).'
+   item_references: |
+     <li>Shigin V. V. Information security risk analysis in existing and prospective industrial information management and exchange systems, Aktual'nye voprosy obshhestva, nauki i obrazovanija: sbornik statej XIX Mezhdunarodnoj nauchno-prakticheskoj konferencii, Penza, 05.02.2025, Penza, Nauka i Prosveshhenie, 2025, pp. 16—9 (in Russian).</li>
+     <li>Kozlov A. D., Orlov V. L. Methods and tools for ensuring information security of distributed corporate systems, Moscow, IPU RAN, 2017, 156 p. (in Russian).</li>
+     <li>Piscova A. V. Digitalization and cybersecurity issues in the modern Russian economy, Cifrovaja transformacija: nauka, tehnolo-gii, innovacii, sb. statej Mezhdunar. nauch.-prakt. konf., Kazan', 01.02.2025, Ufa, Ajeterna, 2025, pp. 128—130 (in Russian).</li>
+     <li>Zgoba A. I., Markelov D. V. Cyber security: threats, challenges, decisions, Voprosy kiberbezopasnosti, 2014, no. 5, pp. 30—38 (in Russian).</li>
+     <li>Shaposhnikov I. V. Web-services Microsoft .NET, Saint Petersburg, BHV-Peterburg, 2002, 336 p. (in Russian).</li>
+     <li>Troelsen A., Japkse P. Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming, Apress, 2022, 1705 p.</li>
+     <li>Kurako E. A., Asratian R. E., Orlov V. L. Import substitution of information systems based on C# and network architec-ture, Programmnaya ingeneria, 2023, vol. 14, no. 10, pp. 471—481. DOI: 10.17587/prin.14.471-481 (in Russian).</li>
+     <li>Hussain F., Hussain K. Mastering Visual Studio Code: Navigating the Future of Development, Sonar Publishing, 2024, 304 p.</li>
+     <li>Lock A. ASP .Net Core in action, Moscow, DMK Press, 2021, 906 p. (in Russian).</li>
+     <li>Baka P., Schatten J. SSL/TLS under lock and key: a guide to understanding SSL/TLS cryptography, Keyko books, 2020, 132 p.</li>
+     <li>Hant K. TCP/IP. Network administration, Saint Petersburg, Piter, 2007, 816 p. (in Russian).</li>
+     <li>Makeev A. K. Comparison of web services developed based on SOAP and REST using software quality assessment metrics, Texnicheskie nauki: problemy i resheniya: sb. statej po mat. LXXII mezhdunar. nauch.-prakt. konf., Moscow, 19.05.2023, vol. 5 (67), Moscow, Internauka, 2023, pp. 92—99 (in Russian).</li>
+     <li>Khlebnikov A. OpenSSL 3: the key to the secrets of cryptog­raphy, Moscow, DMK Press, 2023, 300 p. (in Russian).</li>
+     <li>Dremliuga D. V. Virtual Private Network VPN Technology, Matricza nauchnogo poznaniya, 2024, no. 2-2, pp. 27—39 (in Russian).</li>
+     <li>Ketenchieva S. Zh., Kadykoev T. R. Virtual private networks, Cifrovye kompetencii v obrazovanii, sb. mat. Vseross. nauch. foruma s mezhdunar. uchastiem, Yakutsk, 13.02.2024, Kirov, Mezhregionalnyj centr innovacionnyx texnologij v obrazovanii, 2024, pp. 395—396 (in Russian).</li>
+     <li>Koshenkov E. V. The relevance of using and the main problems of VPN technology, Nauchnyj aspect, 2024, vol. 10, no. 5, pp. 1323—1328 (in Russian).</li>
+     <li>Asratian R. E. Secure Network Channel for Web Services based on SSL/TLS Technology in a Linux Environment, Programmnaya ingeneria, 2022, vol. 13, no. 3, pp. 124—131. DOI: 10.17587/prin.13.124-131 (in Russian).</li>
+ - doi: 17.128-141
+   udk: '004.056.53'
+   edn: BLBZZP
+   item_authors: Zelichenok I. Y., Kotenko I. V.
+   item_name: Detecting Multi-Step Attacks on IoT Devices Using Machine Learning and Big Data Processing Methods
+   item_authors_address: |
+     <b>I. V. Zelichenok</b>, Junior Researcher, zelichenok@comsec.spb.ru,
+     <b>I. V. Kotenko</b>, D. Sc. (Eng.), Professor, ivkote@comsec.spb.ru,
+     Saint Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), 199178, Russian Federation
+   item_corr_author: 'Igor V. Kotenko, Professor, Saint Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), 199178, Russian Federation E-mail: ivkote@comsec.spb.ru'
+   item_rec_on: July 29, 2025
+   item_acc_on: September 19, 2025
+   item_annot: |
+     <p>This paper presents an improved architecture of a network attack detection system using big data processing and deep learning methods. The architecture includes two modules with LSTM layers for short-term and long-term analysis of event chains, which allows one to track multi-stage attacks through the implementation of temporal analysis. The combination of modules allows one not only to promptly detect current threats, but also to reconstruct attack scenarios using big data and deep learning methods. This approach differs from existing solutions due to the ability to dynamically adapt to changing attack patterns and work in conditions of limited computing resources. The approach proposed in this paper incorporates big data processing techniques based on batch learning, parallel computing, and the use of database clusters capable of processing a large number of events per second, which reduces the response time of the security system to incidents. During testing on the Kitsune dataset, the system showed high results in multi-class classification, reaching 0.94 in accuracy and 0.91 in F1-measure, confirming its efficiency in conditions of limited resources. The obtained results confirm the potential of using the proposed NIDS architecture for detecting multi-step attacks and confirm its ability to work with big data even under conditions of limited computing resources.</p>
+   item_keywords: information security, multi-stage attacks, network attack detection, Internet of Things, machine learning, deep learning, neural networks, iterative learning, big data processing, dynamic NoSQL databases
+   item_pages: 128—141
+   item_comment: The reported study was partially funded by the budget project FFZF-2025-0016.
+   item_citation: 'Zelichenok I. Y., Kotenko I. V. Detecting Multi-Step Attacks on IoT Devices Using Machine Learning and Big Data Processing Methods, Programmnaya Ingeneria, 2026, vol. 17, no. 3, pp. 128—141. DOI: 10.17587/prin.17.128-141. (in Russian).'
+   item_references: |
+     <li>Zelichenok I., Kotenko I. L/STIM: A Framework for Detecting Multi-Stage Cyber Attacks, 2024 International Russian Smart Industry Conference (SmartIndustryCon), IEEE, 2024, pp. 208—213. DOI: 10.1109/SmartIndustryCon61328.2024.10516137.</li>
+     <li>Alabdulatif A., Rizvi S., Hashmani M. Optimal machine learning models for kitsune to detect mirai botnet malware attack, Journal of Hunan University Natural Sciences, 2021, vol. 48 (6), аrticle 12, рр. 91—102.</li>
+     <li>Zhang L. Anomaly Detection Algorithm in Iot Environment Based on Deep Learning, SSRN 4791605, 2024. DOI: 10.2139/ssrn.4791605.</li>
+     <li>Guida C., Nascita A., Montieri A., Pescape A. Cross-evaluation of deep learning-based network intrusion detection systems, 2023 10th International Conference on Future Internet of Things and Cloud (FiCloud), IEEE, 2023, pp. 328—335. DOI: 10.1109/FiCloud58648.2023.00055.</li>
+     <li>Altamimi S., Abu Al-Haija Q. Maximizing intrusion detection efficiency for IoT networks using extreme learning machine, Discover Internet of Things, 2024, vol. 4, no. 1, article 5. DOI: 10.1007/s43926-024-00060-x.</li>
+     <li>Branitskiy A., Kotenko I. Hybridization of computational intelligence methods for attack detection in computer networks, Journal of Computational Science, 2017, vol. 23, pp. 145—156. DOI: 10.1016/j.jocs.2016.07.010.</li>
+     <li>Nascita A., Carillo R., Giampetraglia F. et al. Interpretability and Complexity Reduction in Iot Network Anomaly Detection Via XAI, 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), IEEE, 2024, pp. 325—329. DOI: 10.1109/ICASSPW62465.2024.10626031.</li>
+     <li>Eke H. N., Petrovski A., Ahriz H. The use of machine learning algorithms for detecting advanced persistent threats, Proceedings of the 12th International Conference on Security of Information and Networks, 2019, pp. 1—8. DOI: 10.1145/3357613.335761.</li>
+     <li>Ghafir I., Konstantinos G. K., Lambotharan S. et al. Hid­den Markov Models and Alert Correlations for the Prediction of Advanced Persistent Threats, IEEE Access, 2019, vol. 7, pp. 99508—99520. DOI: 10.1109/ACCESS.2019.2930200.</li>
+     <li>Sahabandu D., Allen J., Moothedath S. et al. Quickest Detection of Advanced Persistent Threats: A Semi-Markov Game Approach, 2020 ACM/IEEE 11th International Conference on Cyber-Physical Systems (ICCPS), Sydney, Australia, IEEE, 2020, pp. 9—19. DOI: 10.1109/ICCPS48487.2020.00009.</li>
+     <li>Amin M. A. R. A., Shetty S., Njilla L. et al. Hidden Markov Model and Cyber Deception for the Prevention of Adversarial Lateral Movement, IEEE Access, 2021, vol. 9, pp. 49662—49682. DOI: 10.1109/ACCESS.2021.3069105.</li>
+     <li>Kotenko I., Chechulin A., Novikova E. Attack Modelling and Security Evaluation for Security Information and Event Management, SECRYPT 2012 — Proceedings of the International Conference on Security and Cryptography, 2012, pp. 391—394. DOI: 10.5220/0004063403910394.</li>
+     <li>Gualberto E. S., De Sousa R. T., De Brito Vieira T. P. et al. The Answer is in the Text: Multi-Stage Methods for Phishing Detection Based on Feature Engineering, IEEE Access, 2020, vol. 8, рр. 223529—223547. DOI: 10.1109/ACCESS.2020.3043396.</li>
+     <li>Nie P., Xu G., Jiao L. et al. Sparse Trust Data Mining, IEEE Transactions on Information Forensics and Security, 2021, vol. 16, pp. 4559—4573. DOI: 10.1109/TIFS.2021.3109412.</li>
+     <li>Guo Y., Sun Y., Wu K., Jiang K. New Algorithms of Feature Selection and Big Data Assignment for CBR System Integrated by Bayesian Network, ACM Transactions on Knowledge Discovery from Data, 2020, vol. 14, no. 2, article 23. DOI: 10.1145/337308.</li>
+     <li>Vu T., Belussi A., Migliorini S., Eldway A. Using Deep Learning for Big Spatial Data Partitioning, ACM Transactions on Spatial Algorithms and Systems, 2021, vol. 7, no. 1, article 3. DOI: 10.1145/3402126.</li>
+     <li>Yu J., Sarwat M. GeoSparkViz: a cluster computing system for visualizing massive-scale geospatial data, The VLDB Journal, 2021, vol. 30, pp. 237—258. DOI: 10.1007/s00778-020-00645-2.</li>
+     <li>Kotenko I., Saenko I., Kushnerevich A. Parallel big data processing system for security monitoring in Internet of Things networks, J. Wirel. Mob. Netw. Ubiquitous Comput. Dependable Appl, 2017, vol. 8 (4), pp. 60—74. DOI: 10.22667/JOWUA.2017.12.31.060.</li>
+     <li>Shu J., Fang K., Chen Y., Wang S. TH-iSSD: Design and Implementation of a Generic and Reconfigurable Near-Data Pro­cessing Framework, ACM Transactions on Embedded Computing Systems, 2023, vol. 22, no. 6, article 96. DOI: 10.1145/3563456.</li>
+     <li>Javaheripi M., Chang J. W., Koushanfar F. AccHashtag: Accelerated Hashing for Detecting Fault-Injection Attacks on Embedded Neural Networks, ACM Journal on Emerging Technologies in Computing Systems, 2023, vol. 19, no. 1, article 7. DOI: 10.1145/3555808.</li>
+     <li>Vincon T., Knodler C., Solis-Vasquez L. et al. Near-data processing in database systems on native computational storage under HTAP workloads, Proceedings of the VLDB Endowment, 2022, vol. 15, no. 10, pp. 1991—2004. DOI: 10.14778/3547305.3547307.</li>
+     <li>Zhang G., Mariano B., Shen X., Dillig I. Automated Trans­lation of Functional Big Data Queries to SQL, Proceedings of the ACM on Programming Languages, 2023, vol. 7, no. OOPSLA1, ar­ticle 95. DOI: 10.1145/3586047.</li>
+     <li>Ling Q., Tinkelman D. P. Costs and benefits of the LIFO-FIFO choice, Journal of Corporate Accounting & Finance, 2024, vol. 35, no. 3, pp. 11—20.</li>
+     <li>Hochreiter S., Schmidhuber J. Long short-term memory, Neural computation, 1997, vol. 9, no. 8, pp. 1735—1780. DOI: 10.1002/jcaf.22712.</li>
+     <li>Antonakakis M., April T., Bailey M. et al. Understanding the mirai botnet, 26th USENIX security symposium (USENIX Security 17), 2017, pp. 1093—1110.</li>
+     <li>DeLaughter S., Sollins K. SYN Proof-of-Work: Improving Volumetric DoS Resilience in TCP, 2025 IEEE Symposium on Security and Privacy (SP),IEEE, 2025, pp. 1877—1890. DOI: 10.1109/ SP61157.2025.00166.</li>
+     <li>Su L., Miao Y., Song Y. et al. Linear and Numerical SDoF Bounds of Active RIS-Assisted MIMO Wiretap Interference Channel, IEEE Open Journal of the Communications Society, 2025, vol. 6, pp. 5599—5610. DOI: 10.1109/OJCOMS.2025.3582404.</li>
+     <li>Oei S., Suyanto Y., Pulungan R. A Comprehensive Approach for Detecting and Handling MitM-ARP Spoofing Attacks, IEEE Access, 2025, vol. 13, pp. 115503—115519. DOI: 10.1109/ACCESS.2025.3585463.</li>
+     <li>Sharafaldin I., Lashkari A. H., Ghorbani A. Toward generating a new intrusion detection dataset and intrusion traffic characterization, Proceedings of the 4th International Conference on Information Systems Security and Privacy (ICISSP), 2018, vol. 1, pp. 108—116. DOI: 10.5220/0006639801080116.</li>
+     <li>Mohi-ud-din G. NSL-KDD, IEEE Dataport, 2018. DOI: 10.21227/425a-3e55.</li>
+     <li>Moustafa N., Slay J. UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set), 2015 Military Communications and Information Systems Conference (MilCIS), Canberra, ACT, Australia, 2015, pp. 1—6. DOI: 10.1109/MilCIS.2015.7348942.</li>
+ - doi: 17.142-154
+   udk: '004.89, 004.43'
+   edn: YFQBAS
+   item_authors: Shvyrov V. V., Kapustin D. A., Sentyay R. N.
+   item_name: DeepSeek-Rl Family Large Language Models in the Tasks of Identification, Classification, and Detection of Vulnerabilities from the CWE Top 25 List
+   item_authors_address: |
+     <b>V. V. Shvyrov</b>, Cand. (Phys. & Math.), Associate Professor, slshj@yandex.ru,
+     <b>D. A. Kapustin</b>, D. Sc. (Eng.), Head of the Department of Informational Educational Technologies and Systems, kap-kapchik@mail.ru,
+     <b>R. N. Sentyay</b>, Senior Lecturer, sentyayroman@yandex.ru,
+     Lugansk State Pedagogical University, 91011, Russian Federation
+   item_corr_author: 'Denis A. Kapustin, D. Sc. (Eng.), Head of the Department of Informational Educational Technologies and Systems, Lugansk State Pedagogical University, 91011, Lugansk, Russian Federation, E-mail: kap-kapchik@mail.ru'
+   item_rec_on: August 09, 2025
+   item_acc_on: September 16, 2025
+   item_annot: |
+     <p>The study explores the capabilities of these large language models in the domain of security analysis. Specifically, it investigates the models' ability to classify vulnerability types and descriptions from the CWE Top 25 category, which includes the most dangerous vulnerabilities for 2024 according to the CWE catalog ranking. To evaluate the models, several sets of specialized queries are constructed. These queries test the models' knowledge of vulnerability types as well as their ability to detect these types of vulnerabilities in source code. The experiments conducted with the models yielded a body of statistical data, allowing for an assessment of the models' effectiveness in the tasks of security analysis and vulnerability detection.</p>
+   item_keywords: large language models, vulnerability, static analysis, DeepSeek-R1, CWE
+   item_pages: 142—154
+   item_citation: 'Shvyrov V. V., Kapustin D. A., Sentyay R. N. DeepSeek-Rl Family Large Language Models in the Tasks of Identification, Classification, and Detection of Vulnerabilities from the CWE Top 25 List, Programmnaya Ingeneria, 2026, vol. 17, no. 3, pp. 142-154. DOI: 10.17587/prin.17.142-154.'
+   item_references: |
+     <li>Hou X., Zhao Y., Liu Y. et al. Large Language Models for Software Engineering: A Systematic Literature Review, ArXiv, abs/2308.10620, 2023. DOI: 10.48550/arXiv.2308.10620.</li>
+     <li>Vaswani A., Shazeer N. M., Parmar N. et al. Attention is All you Need, Neural Information Processing Systems, 2017, pp. 5998-6008. DOI: 10.48550/arXiv.1706.03762.</li>
+     <li>Achiam J., Adler S., Agarwal S. et al. GPT-4 Technical Report. 2023, ArXiv, abs/2306.08568, 2023. DOI: 10.48550/arXiv.2303.08774.</li>
+     <li>Luo Z., Xu C., Zhao P. et al. WizardCoder: Empowering Code Large Language Models with Evol-Instruct, ArXiv, abs/2306.08568, 2023. DOI: 10.48550/arXiv.2306.08568.</li>
+     <li>Roziere B., Gehring J., Gloeckle F. et al. Code Llama: Open foundation models for code, ArXiv, abs/2308.12950, 2023. DOI: 10.48550/arXiv.2308.12950.</li>
+     <li>Cheshkov A., Zadorozhny P. A., Levichev R. Evaluation of ChatGPT Model for Vulnerability Detection, ArXiv, abs/2304.07232, 2023. DOI: 10.48550/arXiv.2304.07232.</li>
+     <li>Fu M., Tantithamthavorn С. K., Nguyen V., Le T. ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We? 2023 30th Asia-Pacific Software Engineering Conference (AP-SEC), 2023, pp. 632-636. DOI: 10.1109/APSEC60848.2023.00085.</li>
+     <li>Shestov A., Cheshkov A., Levichev R. et al. Finetuning Large Language Models for Vulnerability Detection, ArXiv, abs/2401.17010, 2024. DOI: 10.48550/arXiv.2401.17010.</li>
+     <li>Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulika T. I. Analysis of Datasets and Large Language Models for Vulnerability Detection in Imperative Programming Language Code, Programmnaya Ingeneria, 2024, vol. 15, no. 11, pp. 555-569. DOI: 10.17587/prin.15.555-569.</li>
+     <li>Shvyrov V. V., Kapustin D. A., Sentyay R. N., Shulika T. I. Using Large Language Models to Classify Vulnerabilities in Program Code, Programmnaya Ingeneria, 2024, vol. 15, no. 9, pp. 465—475. DOI: 10.17587/prin.15.465-475.</li>
+     <li>Fu M., Tantithamthavorn С. K. LineVul: A Transformer-based Line-Level Vulnerability Prediction, 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR), 2022, pp. 608—620. DOI: 10.1145/3524842.3528452.</li>
+     <li>Chan A., Kharkar A., Moghaddam R. Z. et al. Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning? ArXiv, abs/2306.01754, 2023. DOI: 10.48550/ arXiv.2306.01754.</li>
+     <li>Feng Z., Guo D., Tang D. et al. CodeBERT: A Pre-Trained Model for Programming and Natural Languages, Findings of the Association for Computational Linguistics: EMNLP 2020. 2020, рр. 1536—1547. DOI: 10.18653/v1/2020.findings-emnlp.139.</li>
+     <li>Liu A., Feng B., Xue B. et al. DeepSeek-V3 Technical Report, ArXiv, abs/2412.19437, 2024. DOI: 10.48550/arXiv.2412.19437.</li>
+     <li>Qwen Team. Qwen2 Technical Report, ArXiv, abs/2407.10671, 2024. DOI: 10.48550/arXiv.2407.10671.</li>
+     <li>Guo D., Yang D., Zhang H. et al. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning, ArXiv, abs/2501.12948, 2025. DOI: 10.48550/arXiv.2501.12948.</li>
+     <li>Hui B., Yang J., Cui Z. et al. Qwen2.5 Technical Report, ArXiv, abs/2412.15115, 2024. DOI: 10.48550/arXiv.2412.15115.</li>
+     <li>Hurst A., Lerer A., Goucher A. P. et al. GPT-4o system card, ArXiv, abs/2410/21276, 2024. DOI: 10.48550/arXiv.2410.21276.</li>
+ - doi: 17.155-165
+   udk: '004.056.55'
+   edn: PWSZNO
+   item_authors: Ishchukova E. A.
+   item_name: Potential Vulnerabilities in Software Implementations of Asymmetric Ciphers
+   item_authors_address: |
+     <b>E. A. Ishchukova</b>, Cand. Sc. (Eng.), Leading Researcher, jekky82@mail.ru,
+     Scientific Center for Information Technologies and Artificial Intelligence, Sirius University of Science and Technology, Sirius Federal Territory, 354340, Russian Federation
+   item_corr_author: 'Evgeniya A. Ishchukova, Cand. Sc. (Eng.), Leading Researcher, Scientific Center for Information Technologies and Artificial Intelligence, Sirius University of Science and Technology, Sirius Federal Territory, 354340, Russian Federation, E-mail: jekky82@mail.ru'
+   item_rec_on: August 05, 2025
+   item_acc_on: October 30, 2025
+   item_annot: |
+     <p>The aim of the work is to check the correctness of the software implementations of the asymmetric RSA and ECDSA algorithms as part of cryptographic libraries with open source code. And also to form a list of checks for the parameters of the RSA and ECDSA algorithms, the implementation of which will allow obtaining correct software implementations. The RSA encryption algorithm is based on modular arithmetic and works with large numbers in finite fields. The complexity of the algorithm is based on the complexity of the factorization problem, that is, the com­plexity of decomposing a number into prime factors. The ECDSA algorithm is a digital signature algorithm based on the use of elliptic curves. The ECDSA algorithm is based on the mathematics of cyclic groups of elliptic curves over finite fields. The main advantage of the ECDSA algorithm is the use of numbers several times smaller than in RSA, while maintaining approximately the same margin of reliability. Particular emphasis is placed on the description of the mathematical subtleties of the algorithms under consideration, which should be taken into account in the form of checks of the parameters used when performing software implementations, such as: the quality and dimension of the prime numbers used, the correct choice of initial parameters, the correct implementation of the operations performed, and others. A number of cryptographic libraries with open source code for various programming languages are con­sidered. It is shown that from the list of libraries considered, only the cpenssl library meets all security requirements. The recommendations presented in the article will be useful both for those developers who choose a cryptographic library for their implementation, and for those who want to implement the RSA and ECDSA encryption algorithms themselves.</p>
+   item_keywords: cryptography, cipher, private key, public key, library, vulnerability, ECDSA, RSA
+   item_pages: 155—165
+   item_comment: The results were obtained with the financial support of the project "Technologies for countering previously unknown quantum cyber threats", implemented within the framework of the state program of the "Sirius"" Federal Territory "Scientific and technological development of the "Sirius"" Federal Territory (Agreement No. 23-03 dated September 27, 2024).
+   item_citation: 'Ishchukova E. A. Potential Vulnerabilities in Software Implementations of Asymmetric Ciphers, Programmnaya Ingeneria, 2026, vol. 17, no. 3, pp. 155—165. DOI: 10.17587/prin.17.155-165 (in Russian).'
+   item_references: |
+     <li>Zotov Ya. A. Issues of development of the system of automatic implementation of software for technical complexes of automated process control systems, Programmnaya ingeneria, 2025, vol. 16, no. 3, pp. 122—133. DOI: 10.17587/prin.16.122-133 (in Russian).</li>
+     <li>Rivest R., Shamir A., Adleman L. A Method for Obtaining digital signatures and public-key cryptosystems, Communication of the ACM, 1978, vol. 21, pp. 120—126. DOI: 10.1145/359340.359342.</li>
+     <li>Huang H., Zheng J., Chen Z. et al. Review of Modular Multiplication Algorithms over Prime Fields for Public-Key Cryptosystems, Cryptography, 2025, vol. 9, no. 2, article 46. DOI: 10.3390/cryptography9020046.</li>
+     <li>Bibilo P. N. Synthesis of Modular Multiplier Circuits, Programmnaya ingeneria, 2023, vol. 14, no. 8, pp. 377—387. DOI: 10.17587/prin.14.377-387 (in Russian).</li>
+     <li>Mfungo D., Fu X. Fractal-Based Hybrid Cryptosystem: Enhancing Image Encryption with RSA, Homomorphic Encryption, and Chaotic Maps, Entropy, 2023, vol. 25, no. 11, article 1478. DOI: 10.3390/e25111478.</li>
+     <li>Gusak E. V. Experience of implementing electronic signature in business-critical systems, Tendencii razvitija nauki i obrazovanija, 2022, no. 82-2, pp. 14—17. DOI: 10.18411/trnio-02-2022-37 (in Russian).</li>
+     <li>Rahmani M., Nitaj A., Tadmori A. et al. An Improved Attack on the RSA Variant Based on Cubic Pell Equation, Cryptography, 2025, vol. 9, no. 2, article 40. DOI: 10.3390/cryptogra-phy9020040.</li>
+     <li>Feng Y., Nitaj A., Pan Y. Partial prime factor exposure attacks on some RSA variants, Theoretical Computer Science, 2024, vol. 999. DOI: 10.1016/j.tcs.2024.114549.</li>
+     <li>Teseleanu G. Partial Exposure Attacks Against a Family of RSA-like Cryptosystems, Cryptography, 2025, vol. 9, no. 1, article 2. DOI: 10.3390/cryptography9010002.</li>
+     <li>Mehta J., Rana H. Safest-Value of the Number of Primes in RSA Modulus and an Improvised Generalized Multi-Moduli RSA, Mathematics, 2025, vol. 13, no. 10, article 1690. DOI: 10.3390/math13101690.</li>
+     <li>Rahmani M., Nitaj A., Ziane M. Improved Cryptanalysis of Some RSA Variants, Algorithms, 2025, vol. 18, no. 4, article 223. DOI: 10.3390/a18040223.</li>
+     <li>Wang S., Sun M. New Cryptanalysis of Prime Power RSA with Two Private Exponents, Mathematics, 2024, vol. 12, no. 21, article 3411. DOI: 10.3390/math12213411.</li>
+     <li>Rahmani M., Nitaj A., Ziane M. Partial Exposure Attacks on a New RSA Variant, Cryptography, 2024, vol. 8, no. 4, article 44. DOI: 10.3390/cryptography8040044.</li>
+     <li>Overmars A., Venkatraman S. Continued Fractions Applied to the One Line Factoring Algorithm for Breaking RSA, Journal of Cybersecurity and Privacy, 2024, vol. 4, no. 1, pp. 41—54. DOI: 10.3390/jcp4010003.</li>
+     <li>Nitaj A., Susilo W., Tonien J. A new attack on some RSA variants, Theoretical Computer Science, 2023, vol. 960. DOI: 10.1016/j.tcs.2023.113898.</li>
+     <li>Cesati M. A New Idea for RSA Backdoors, Cryptography, 2023, vol. 7, no. 3, article 45. DOI: 10.3390/cryptography7030045.</li>
+     <li>Markelova A. V. Kleptographic (algorithmic) bookmarks in the RSA key generator, Prikladnaja diskretnaja matematika, 2022, no. 55, pp. 13—34. DOI: 10.17223/20710410/55/2 (in Russian).</li>
+     <li>Hankerson D., Menezes A. J., Vanstone S. Guide to elliptic curve cryptography, NY, Springer Science & Business Media, 2004, 311 p.</li>
+     <li>Tidrea A., Korodi A., Silea I. Elliptic Curve Cryptography Considerations for Securing Automation and SCADA Systems, Sensors, 2023, vol. 23, no. 5, article 2686. DOI: 10.3390/s23052686.</li>
+     <li>Di Matteo S., Baldanzi L., Crocetti L. et al. Secure Elliptic Curve Crypto-Processor for Real-Time IoT Applications, Energies, 2021, vol. 14, no. 15, article 4676. DOI: 10.3390/en14154676.</li>
+     <li>Nyame G., Qin Z., Obour Agyekum K. O.-B. et al. An ECDSA Approach to Access Control in Knowledge Management Systems Using Blockchain, Information, 2020, vol. 11, no 2, article 111. DOI: 10.3390/info11020111.</li>
+     <li>Al-Zubaidie M., Zhang Z., Zhang J. PAX: Using Pseud-onymization and Anonymization to Protect Patients' Identities and Data in the Healthcare System, International Journal of Environmental Research and Public Health, 2019, vol. 16, no. 9, article 1490. DOI: 10.3390/ijerph16091490.</li>
+     <li>Zemskov Ju.V., Laptev I. A., Temirov I. Ju. Cryptographic protection of navigation systems using ECDSA (Elliptic Curve Digi­tal Signature Algorithm), Mezhdunarodnyj zhurnal informacionnyh tehnologij i jenergojeffektivnosti, 2025, vol. 10, no. 5(55), pp. 165—170 (in Russian).</li>
+     <li>Basynya E. A., Karapetyants N., Karapetyants M. Research of existing approaches to the analysis of transactions in the Bitcoin network, Programmnaya ingeneria, 2023, vol. 14, no. 10, pp. 493—501. DOI: 10.17587/prin.14.493-501 (in Russian).</li>
+     <li>Basinya E. A., Karapetyants N., Karapetyants M. System for analyzing transactions in the Bitcoin network, Programmnaya ingeneriya, 2023, vol. 14, no. 11, pp. 523—530. DOI: 10.17587/ prin.14.523-530 (in Russian).</li>
+     <li>Nesterenko A. I., Luk'janchikov A. V. Analysis of the ECDSA algorithm vulnerability when nonce value is reused, Sovremennye problemy radiojelektroniki i telekommunikacij, 2024, no. 7, p. 201. (in Russian).</li>
+     <li>Kabin I., Dyka Z., Langendoerfer P. Atomicity and Regularity Principles Do Not Ensure Full Resistance of ECC Designs against Single-Trace Attacks, Sensors, 2022, vol. 22, no. 8, arti­cle 3083. DOI: 10.3390/s22083083.</li>
+     <li>Mahovenko E. B. Teoretiko-chislovye metody v kriptografii: uchebnoe posobie, Moscow, Gelios ARV, 2006, 320 p. (in Russian).</li>
+     <li>Artyuhov Yu. V. Analiz algoritma RSA. Nekotorye raspros-tranyonnye elementarnye ataki i mery protivodejstviya im, Molodoj uchenyj, 2010, vol. 1, no. 11 (22), pp. 85—87 (in Russian).</li>
+     <li>Coppersmith D. Small Solutions to Polynomial Equations, and Low Exponent RSA Vulnerabilities, Journal of Cryptology, 1997, vol. 10, no. 4, pp. 233—260. DOI: 10.1007/s001459900030.</li>
+     <li>Wiener M. J. Cryptanalysis of short RSA secret exponents, IEEE Transactions on Information Theory, 1990, vol. 36, no. 3, pp. 553—558. DOI: 10.1109/18.54902.</li>
+     <li>Boneh D., Durfee G. Cryptanalysis of RSA with Private Key d Less Than N0.292, IEEE Transactions on Information Theory, 2000, vol. 46, no. 4.</li>
+ - doi: 17.166-175
+   udk: '519.816'
+   edn: VRYMEY
+   item_authors: Kudryavtsev K. N., Simakov P. K.
+   item_name: About one Approach to Multicriterial Problems if the Information about the Importance of Criteria is Inaccurate
+   item_authors_address: |
+     <b>K. N. Kudryavtsev</b><sup>1,2</sup>, Cand. Sc. (Phis. & Math.), Associate Professor, kudrkn@gmail.com,
+     <b>P. K. Simakov</b><sup>1</sup>, Postgraduate Student, pavelsimakov35707@gmail.com,
+     <br>
+     <sup>1</sup> South Ural State University, Chelyabinsk, 454080, Russian Federation,
+     <br>
+     <sup>2</sup> Financial University under the Government of the Russian Federation, Moscow, 125167, Russian Federation
+   item_corr_author: 'Pavel K. Simakov, Postgraduate Student, South Ural State University, Chelyabinsk, 454080, Russian Federation, E-mail: pavelsimakov35707@gmail.com'
+   item_rec_on: June 02, 2025
+   item_acc_on: October 21, 2025
+   item_annot: |
+     <p>Choice problems in modeling the behavior of complex control systems are often characterized by multiple criteria that the decision maker (DM) must optimize. The importance of these criteria is assessed subjectively, which can lead to different decisions. Numerous methods have been developed for solving multicriteria problems, but their use is hampered by the need for preliminary assessment of criterion importance. This article examines an approach in which the DM determines criterion importance using intervals, given incomplete information. A modification of the EDAS method with interval weights defined on a standard simplex is proposed, and two new decision concepts are formalized: a strong decision and a soft EDAS decision. The practical application of these conceptual concepts is illustrated using a steam boiler selection problem as an example.</p>
+   item_keywords: multicriteria problem, uncertainty, decision making, EDAS, Pareto optimality, soft decision, strong decision, importance of criteria
+   item_pages: 166—175
+   item_citation: 'Kudryavtsev K. N., Simakov P. K. About one Approach to Multicriterial Problems if the Information about the Importance of Criteria is Inaccurate, Programmnaya Ingeneria, 2026, vol. 17, no. 3, pp. 166—175. DOI: 10.17587/prin.17.166-175 (in Russian).'
+   item_references: |
+     <li>Pradhan P., Shabbiruddin, Pradhan S. Selection of electric vehicle using integrated Fuzzy-MCDM approach with analysis on challenges faced in hilly terrain, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 2022, vol. 44, no. 2, pp. 2651— 2673. DOI: 10.1080/15567036.2022.2056665.</li>
+     <li>Mehta P., Tandon A., Sharma H. Integration of FAHP and COPRAS-G for software component selection, Optimization Models in Software Reliability, 2022, pp. 263—282. DOI: 10.1007/978-3-030-78919-0_12.</li>
+     <li>Rani P., Mishra A. R., Mardani A. An extended Pythagorean fuzzy complex proportional assessment approach with new entropy and score function: Application in pharmacological therapy selection for type 2 diabetes, Applied Soft Computing, 2020, vol. 94, article 106441. DOI: 10.1016/j.asoc.2020.106441.</li>
+     <li>Dang T.-T., Nguyen N.-A.-T., Nguyen V.-T.-T., Dang L.-T.-H. A Two-Stage Multi-Criteria Supplier Selection Model for Sustainable Automotive Supply Chain under Uncertainty, Axioms, 2022, vol. 11, no. 5, article 228. DOI: 10.3390/axioms11050228.</li>
+     <li>Ansari Z. N., Kant R., Shankar R. Evaluation and ranking of solutions to mitigate sustainable remanufacturing supply chain risks: a hybrid fuzzy SWARA-fuzzy COPRAS framework approach, International Journal of Sustainable Engineering, 2020, vol. 13, no. 6, pp. 473—494. DOI: 10.1080/19397038.2020.1758973.</li>
+     <li>Kayapinar Kaya S., Aycin E. An integrated interval type 2 fuzzy AHP and COPRAS-G methodologies for supplier selection in the era of Industry 4.0, Neural Computing and Applications, 2021, vol. 33, no. 16, pp. 10515—10535. DOI: 10.1007/s00521-021-05809-x.</li>
+     <li>Lopez-Cadavid D. A., Vanegas-Lopez J. G., Restrepo-Morales J. A., Roldan-Sepulveda M. Systematic selection of international markets using a hybrid multi-criteria approach: A study in the paper and paperboard industry, Cogent Business & Management, 2023, vol. 10, no. 3. DOI: 10.1080/23311975.2023.2277555.</li>
+     <li>Vanegas-Lopez J. G., Baena-Rojas J. J., Lopez-Cadavid D. A., Mathew M. International market selection: an application of hybrid multi-criteria decision-making technique in the textile sector, Review of International Business and Strategy, 2020, vol. 31, no. 1, pp. 127—150. DOI: 10.1108/ribs-07-2020-0088.</li>
+     <li>Ozdagoglu A., Zeynep Oztas G., Kemal Keles M., Genc V. A comparative bus selection for intercity transportation with an integrated PIPRECIA & COPRAS-G, Case Studies on Transport Policy, 2022, vol. 10, no. 2, pp. 993—1004. DOI: 10.1016/j.cstp.2022.03.012.</li>
+     <li>Kumar V., Vrat P., Shankar R. Prioritization of strategies to overcome the barriers in Industry 4.0: a hybrid MCDM approach. OPSEARCH, 2021, vol. 58, pp. 711—750. DOI: 10.1007/s12597-020-00505-1.</li>
+     <li>Pareto V., Manuel D. D'Economie. Geard, Paris, France, 1909, 695 p.</li>
+     <li>Podinovsky V. V., Nogin V. D. Pareto-optimal solutions of multicriteria problems, Moscow, FIZMATLIT, 1982, 256 p. (in Russian).</li>
+     <li>Pavic Z., Novoselac V. Notes on TOPSIS Method, International Journal of Research in Engineering and Science, 2013, vol. 1, no. 2, pp. 5—12.</li>
+     <li>Greco S., Ehrgott M., Figueira J. R. Multiple Criteria Decision Analysis, International Series in Operations Research and Management Science, Springer, 2016, vol. 2, pp. 187—210. DOI: 10.1007/978-1-4939-3094-4.</li>
+     <li>Alinezhad A., Khalili J. COPRAS Method, New Methods and Applications in Multiple Attribute Decision Making (MADM), 2019, pp. 87—91. DOI: 10.1007/978-3-030-15009-9_12.</li>
+     <li>FanJ., Han D., Wu M. Picture fuzzy Additive Ratio Assessment (ARAS) and VlseKriteriJumska Optimizacija Kompromisno Resenje (VIKOR) method for multi-attribute decision problem and their application, Complex & Intelligent Systems, 2023, vol. 9, pp. 5345—5357. DOI: 10.1007/s40747-023-01007-5.</li>
+     <li>Alinezhad A., Khalili J. WASPAS Method, New Methods and Applications in Multiple Attribute Decision Making (MADM), Springer, 2019, vol. 0, pp. 93—98. DOI: 10.1007/978-3-030-15009-9_13.</li>
+     <li>Chakraborty S., Chatterjee P., Protim Das P. Multi-Criteria Decision-Making Methods in Manufacturing Environments, Apple Academic Press, 2023, 450 p. DOI: 10.1201/9781003377030.</li>
+     <li>Keshavarz-Ghorabaee M., Amiri M., Zavadskas E. K., Turskis Z. Stochastic EDAS method for multi-criteria decision-making with normally distributed data. Journal of Intelligent and Fuzzy Systems, 2017, vol. 33, no. 3, pp. 1627—1638. DOI: 10.3233/jifs-17184.</li>
+     <li>Bana E., Costa С. A., Vansnick J.C. The MACBETH Ap­proach: Basic Ideas, Software, and an Application, Advances in decision analysis, 1999, vol. 4, pp. 131—157.</li>
+     <li>Bradley R. A., Milton E. T. Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons, Biometrika. JSTOR, 1952, vol. 39, no. 3/4, pp. 324—345. DOI: 10.2307/2334029.</li>
+     <li>Zhang D., Yu P. L., Wang P. Z. State-dependent weights in multicriteria value functions, Journal of Optimization Theory and Applications, 1992, vol. 74, pp. 1—21.</li>
+     <li>Schoner B., Wedley W. С. Ambiguous criteria weights in AHP: consequences and solutions, Decision Sciences, 1989, vol. 20, pp. 462—475.</li>
+     <li>Morais D. C., de Almeida A. T., Figueira J. R. A sorting model for group decision making: A case study of water losses in Brazil, Group Decision and Negotiation, 2014, vol. 23, pp. 937—960. DOI: 10.1007/s10726-012-9321-7.</li>
+     <li>Llamazares B. Using interval weights in MADM problems, Computers & Industrial Engineering, 2019, vol. 136, pp. 345—354. DOI: 10.1016/j.cie.2019.07.035.</li>
+     <li>Keshavarz-Ghorabaee M., Zavadskas E. K., Olfat L., Turskis Z. M. Multi-criteria inventory classification using a new method of evaluation based on distance from average reso­lution (EDAS), Informatica, 2015, vol. 26, no. 3, pp. 435—451. DOI: 10.15388/informatica.2015.57.</li>
+     <li>Zhukovsky V. I., Kudryavtsev K. N. Balancing conflicts and applications, Moscow, URSS LENNAND, 2012, 18 p. (in Russian).</li>
+     <li>Halmos P. Theory of measure, Moscow, Ripol Classic, 2013, 316 p. (in Russian).</li>
+     <li>Ukhobotov V. I., Stabulit I. S., Kudryavtsev K. N. On decision making under fuzzy information about an uncontrolled factor, Procedia Computer Science, 2019, vol. 150, pp. 524—531. DOI: 10.1016/j.procs.2019.02.088.</li>
+     <li>Kundakci N. An integrated method using MACBETH and EDAS methods for evaluating steam boiler alternatives, Journal of Multi-Criteria Decision Analysis, 2019, vol. 26, pp. 27—34. DOI: 10.1002/mcda.1656.</li>
+     <li>Kudryavtsev K. N., Simakov P. K. The COPRAS Method with Interval Weights,Communications in Computer and Information Science, 2025, vol. 2363. pp. 136—144. DOI: 10.1007/978-3-031-80457-1_10.</li>
