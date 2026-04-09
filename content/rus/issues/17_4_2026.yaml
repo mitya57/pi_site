@@ -1,0 +1,175 @@
+---
+title: Номер 04 2026 год
+date: 2026-04-14
+content:
+ - doi: 17.179-190
+   udk: '004.912'
+   edn: XKWUYN
+   item_authors: Пальчунов Д. Е., Миронов В. С.
+   item_name: Методы извлечения эмоциональных оценок из текстов естественного языка на основе семантических технологий и глубокого машинного обучения
+   item_authors_address: |
+     <b>Д. Е. Пальчунов</b>, д-р физ.-мат. наук, акад. РИА, вед. науч. сотр., palch@math.nsc.ru,
+     Институт математики СО РАН им. С. Л. Соболева, Новосибирск,
+     <b>В. С. Миронов</b>, аспирант, v.mironov1@g.nsu.ru,
+     Новосибирский государственный университет
+   item_rec_on: 2025-10-21
+   item_acc_on: 2025-11-21
+   item_annot: |
+     <p>Предложены методы распознавания эмоций, вызываемых ситуациями, представленными в текстах русского языка. Разработаны методы выявления и отображения причин возникновения эмоций с помощью атомарных диаграмм частичных моделей. Созданы программные модули для программной системы LogicText, которые позволяют выявлять и анализировать эмоциональные оценки. Для формализации эмоционально окрашенных ситуаций используют оценочные частичные модели. Для распознавания эмоций применяют нейронные сети. Алго­ритм формирования причинно-следственных связей основан на разделении предложений на предикаты и ситуации с помощью программной системы LogicText.</p>
+   item_keywords: анализ тональности, распознавание эмоций, обработка текстов на естественном языке, глубокое машинное обучение, онтологические модели, частичные модели, атомарные диаграммы
+   item_pages: 179—190
+   item_comment: Работа выполнена в рамках государственного задания ИМ СО РАН, проект FWNF-2022-0011
+   item_citation: 'Пальчунов Д. Е., Миронов В. С. Методы извлечения эмоциональных оценок из текстов естественного языка на основе семантических технологий и глубокого машинного обучения // Программная инженерия. 2026. Том 17, № 4. С. 179—190. DOI: 10.17587/prin.17.179-190.'
+   item_references: |
+     <li>Nandwani P., Verma R. A review on sentiment analysis and emotion detection from text // Social Network Analysis and Mining. 2021. Vol. 11, No. 1. Article 81. DOI: 10.1007/s13278-021-00776-6.</li>
+     <li>Peng S., Cao L., Zhou Y. et al. A survey on deep learning for textual emotion analysis in social networks // Digital Communications and Networks. 2022. Vol. 8, No. 5. P. 745—762. DOI: 10.1016/j.dcan.2021.10.003.</li>
+     <li>Gennaro G., Ash E. Emotion and Reason in Political Language // The Economic Journal. 2022. Vol. 132, No. 643. P. 1037—1059. DOI: 10.1093/ej/ueab104.</li>
+     <li>Wang M., Hu F. The Application of NLTK Library for Python Natural Language Processing in Corpus Research // Theory and Practice in Language Studies. 2021. Vol. 11, No. 9. P. 1041— 1049. DOI: 10.17507/tpls.1109.09.</li>
+     <li>Ivan S. C., Gyorodi R. Gyorodi C. A. Sentiment Analysis Using Amazon Web Services and Microsoft Azure // Big Data and Cognitive Computing. 2024. Vol. 8, No. 12. Article 166. DOI: 10.3390/bdcc8120166.</li>
+     <li>Abu-Salih B., Alhabashneh M., Zhu D. et al. Emotion detection of social data: APIs comparative study // Heliyon. 2023. Vol. 9, No. 5. e15926. DOI: 10.1016/j.heliyon.2023.e15926.</li>
+     <li>Loukachevitch N. Automatic Sentiment Analysis of Texts: The Case of Russian // The Palgrave Handbook of Digital Russia Studies. Cham: Palgrave Macmillan, 2020. P. 501—516.  DOI: 10.1007/978-3-030-42855-6_28.</li>
+     <li>Hua Y. C., Denny P., Wicker J., Taskova K. A systematic review of aspect-based sentiment analysis: domains, methods, and trends // Artificial Intelligence Review. 2024. Vol. 57. Article 296. DOI: 10.1007/s10462-024-10906-z.</li>
+     <li>Махасоева О. Г., Пальчунов Д. Е. Автоматизированные методы построения атомарной диаграммы модели по тексту естественного языка // Вестник Новосибирского государственного университета. Сер.: Информационные технологии. 2014. Том 12, № 2. С. 64—73.</li>
+     <li>Palchunov D. Application of FCA for Domain Model Theory Investigation // Artificial Intelligence. RCAI 2021. Lecture Notes in Artificial Intelligence vol. 12948 / Eds. S. Kovalev, S. Kuznetsov, A. Panov. Springer International Publishing Ag, 2021. P. 119—134. DOI: 10.1007/978-3-030-86855-0_9.</li>
+     <li>Palchunov D. E., Akhmedov E. Yu. Development of logical methods for extracting emotional assessments from natural language texts // Proceedings of the 2023 IEEE 16th International Scientific and Technical Conference "Actual Problems of Electronic Instrument Engineering", APEIE, 2023. P. 1460—1465.</li>
+     <li>Palchunov D. E. Modeling Reasoning and Argumentation for the Development of Intelligent Assistants // 2022 IEEE International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON), Yekaterinburg, Russian Federation, 2022. P. 820—825. DOI: 10.1109/SIBIRCON56155.2022.10017050.</li>
+     <li>Pereira P., Moniz H., Carvalho J. P. Deep emotion recognition in textual conversations: a survey // Artificial Intelligence Review. 2025. Vol. 58. Article 10. DOI: 10.1007/s10462-024-11010-y.</li>
+     <li>Cowen A. S., Keltner D., Schroff F. et al. Sixteen facial expressions occur in similar contexts worldwide // Nature. 2021. Vol. 589, No. 7841. P. 251—257. DOI: 10.1038/s41586-020-3037-7.</li>
+     <li>Chicho B. T., Sallow A. B. A Comprehensive Survey of Deep Learning Models Based on Keras Framework // Journal of Soft Computing and Data Mining. 2021. Vol. 2, No. 2. P. 49—62. DOI: 10.30880/jscdm.2021.02.02.005.</li>
+     <li>Mienye I. D., Swart T. G., Obaido G. Recurrent Neural Networks: A Comprehensive Review of Architectures, Variants, and Applications // Information. 2024. Vol. 15, No. 9. Article 517. DOI: 10.3390/info15090517.</li>
+     <li>Tian Y., Zhang Y. A comprehensive review on regularization strategies in machine learning // Information Fusion. 2022. Vol. 77. P. 146—166. DOI: 10.1016/j.inffus.2021.11.005.</li>
+     <li>Abdulkadirov R. Survey of Optimization Algorithms in Modern Neural Networks // Mathematics. 2023. Vol. 11, No. 11. Article 2466. DOI: 10.3390/math11112466.</li>
+     <li>Subramanian S., Ganapathiraman V., Barrett C. Hop, skip, jump to Convergence: Dynamics of Learning Rate Transitions for Improved Training of Large Language Models // Findings of the Association for Computational Linguistics: EMNLP 2024. 2024. P. 16349—16362. DOI: 10.18653/v1/2024.findings-emnlp.954.</li>
+     <li>Miseta T., Fodor A., Vathy-Fogarassy A. et al. Surpassing early stopping: A novel correlation-based stopping criterion for deep learning // Neurocomputing. 2024. Vol. 578. P. 127013. DOI: 10.1016/j.neucom.2023.127028.</li>
+     <li>Raschka S. Machine Learning in Python: Main Developments and Technology Trends // Information. 2020. Vol. 11, No. 4. Article 193. DOI: 10.3390/info11040193.</li>
+     <li>Demszky D., Movshovitz-Attias D., Ko J. et al. GoEmotions: A Dataset of Fine-Grained Emotions // Proc. of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). Online, 5—10 July 2020. P. 4040—4054. DOI: 10.18653/v1/2020.acl-main.372.</li>
+     <li>Opitz J. A Closer Look at Classification Evaluation Metrics and a Critical Reflection of Common Evaluation Practice // Transactions of the Association for Computational Linguistics. 2024. Vol. 12. P. 820—836. DOI: 10.1162/tacl_a_00675.</li>
+     <li>Ненашева Е. О., Пальчунов Д. Е. Разработка автома­тизированных методов преобразования предложений естественного языка в бескванторные формулы логики предикатов // Вестник НГУ. Серия: Информационные технологии. 2017. Том 15, № 3. C. 49—63. DOI: 10.25205/1818-7900-2017-15­3-49-63.</li>
+     <li>Wegge M., Troiano E., Oberlander L. A. M., Klinger R. Experiencer-Specific Emotion and Appraisal Prediction // Proc. of the Fifth Workshop on NLP + CSS at EMNLP 2022. Abu Dhabi: ACL, 2022. P. 25—32. DOI: 10.18653/v1/2022.nlpcss-1.3.</li>
+     <li>Wang F., Ma H., Yu J. et al. SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations // Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024). 2024. P. 2039—2050. DOI: 10.18653/v1/2024.semeval-1.277.</li>
+ - doi: 17.191-200
+   udk: '004'
+   edn: PCDRIE
+   item_authors: Морозов С. А., Рохлин Д. Е., Скорнякова Е. А.
+   item_name: Подход на основе перекрестного внимания и деформируемых сверток для формирования инвариантных дескрипторов в задачах визуальной геолокации
+   item_authors_address: |
+     <b>С. А. Морозов</b>, магистрант, serzh51.51@yandex.ru,
+     <b>Д. Е. Рохлин</b>, магистрант, emptyline.13@yandex.ru,
+     <b>Е. А. Скорнякова</b>, канд. техн. наук, доц. каф., skorniakova_ea@voenmeh.ru,
+     БГТУ «ВОЕНМЕХ» им. Д. Ф. Устинова, Санкт-Петербург
+   item_rec_on: 2025-11-15
+   item_acc_on: 2025-12-18
+   item_annot: |
+     <p>Проведен анализ вопросов визуальной геолокации беспилотных воздушных судов в условиях отсутствия сигнала GNSS. Рассмотрены возможности преодоления ограничений классических методов, неустойчивых к фотометрическим и текстурным изменениям аэрофотоснимков. В качестве решения обозначенных проблемных вопросов предложен комплексный подход на основе сверточной нейронной сети CADE-Net, новизна которого заключается в синергии адаптивной архитектуры, механизма внимания и гибридной функции потерь. Разработанный подход позволяет формировать робастные инвариантные признаки, устойчивые к сложным нелинейным искажениям, вызванным сменой сезона, погодных условий и освещения. Результаты работы имеют практическую значимость и могут стать основой для создания полностью автономных и надежных систем навигации беспилотных воздушных судов.</p>
+   item_keywords: визуальная геолокация, беспилотные воздушные суда, GNSS, сверточные нейронные сети, сопоставление изображений, инвариантные признаки, глубокое обучение, робастные дескрипторы, навигация по изображениям
+   item_pages: 191—200
+   item_citation: 'Морозов С. А., Рохлин Д. Е., Скорнякова Е. А. Подход на основе перекрестного внимания и деформируемых сверток для формирования инвариантных дескрипторов в задачах визуальной геолокации // Программная инженерия. 2026. Том 17, № 4. С. 191—200. DOI: 10.17587/prin.17.191-200.'
+   item_references: |
+     <li>Wang X., Kealy A., Li W. et al. Toward Autonomous UAV Localization via Aerial Image Registration // Electronics. 2021. Vol. 10, No. 4. Article 435. DOI: 10.3390/electronics10040435.</li>
+     <li>Schleiss M. Translating aerial images into street-maplike representations for visual self-localization of uavs // The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences. 2019. Vol. XLII-2/W13. P. 575—582. DOI: 10.5194/isprs-archives-XLII-2-W13-575-2019.</li>
+     <li>Silva Filho P., Shiguemori E. H., Saotome O. UAV visual autolocalizaton based on automatic landmark recognition // ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. 2017. Vol. IV-2/W3. P. 89—94. DOI: 10.5194/ isprs-annals-IV-2-W3-89-2017.</li>
+     <li>He H., Chen M., Chen T., Li D. Matching of Remote Sensing Images with Complex Background Variations via Siamese Convolutional Neural Network // Remote Sensing. 2018. Vol. 10, No. 2. Article 355. DOI: 10.3390/rs10020355.</li>
+     <li>Чибуничев А. Г., Кобзев А. А. Исследование возможности совместной фотограмметрической обработки разновременных аэроснимков // Известия высших учебных заведений. Геодезия и аэрофотосъемка. 2021. Том 65, № 3. С. 292—301.</li>
+     <li>Chen J., Xie H., Zhang L. el al. SAR and Optical Image Registration Based on Deep Learning with Co-Attention Matching Module // Remote Sensing. 2023. Vol. 15, No. 14. Article 3548. DOI: 10.3390/rs15153879.</li>
+     <li>Антипова Н. В., Гвоздев О. Г., Козуб В. А. и др. Восстановление структурной информации об антропогенных объектах из одиночных аэрокосмических изображений // Известия РАН. Теория и системы управления. 2023. № 3. С. 90—105. DOI: 10.31857/S0002338823030010.</li>
+     <li>He S., Zhou R., Li S. et al. Disparity Estimation of High-Resolution Remote Sensing Images with Dual-Scale Matching Network // Remote Sensing. 2021. Vol. 13, No. 24. Article 5050. DOI: 10.3390/rs13245050.</li>
+     <li>Harvey W., Rainwater C., Cothren J. Direct Aerial Visual Geolocalization Using Deep Neural Networks // Remote Sensing. 2021. Vol. 13, No. 19. Article 4017. DOI: 10.3390/rs13194017.</li>
+     <li>Isola P., Zhu J. Y., Zhou T., Efros A. A. Image-to-Image Translation with Conditional Adversarial Networks // 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. P. 5967—5976. DOI: 10.1109/CVPR.2017.632.</li>
+     <li>Chen P., Fu Y., Hu J. et al. An Adaptive Remote Sensing Image-Matching Network Based on Cross-Attention and Deformable Convolution // Electronics. 2023. Vol. 12, No. 13. Article 2889. DOI: 10.3390/electronics12132889.</li>
+     <li>Chen Y., Jiang J. A Two-Stage Deep Learning Registration Methodfor Remote Sensing Images Based on Sub-Image Matching // Remote Sensing. 2021. Vol. 13, No. 17. Article 3443. DOI: 10.3390/rs13173443.</li>
+ - doi: 17.201-209
+   udk: '004.3:005.584.1'
+   edn: WGJZDS
+   item_authors: Куценко С. М., Салтанаева Е. А.
+   item_name: Техническое обеспечение надежности серверов и сетевых устройств на основе мониторинга и автоматического восстановления сервисов
+   item_authors_address: |
+     <b>С. М. Куценко</b>, канд. пед. наук, доц., доц. каф. информационных технологий и интеллектуальных систем, s.koutsenko@mail.ru,
+     <b>Е. А. Салтанаева</b>, канд. техн. наук, доц., доц. каф. информационных технологий и интеллектуальных систем, elena_maister@mail.ru,
+     ФГБОУ ВО «Казанский государственный энергетический университет»
+   item_rec_on: 2025-11-10
+   item_acc_on: 2025-12-10
+   item_annot: |
+     <p>Описана одна из задач для специалистов ИТ-отделов предприятий по разработке комплексов технических средств обеспечения надежной обработки, передачи информации и автоматического восстановления сервисов. Для решения данной задачи предложена система, представляющая собой комплекс технических средств мониторинга и управления, включающий удобный интерфейс для визуализации данных, настройку правил реагирования и анализ истории событий. Решение направлено на обеспечение отказоустойчивости и помехоустойчивости ИТ-инфраструктуры, сокращение времени простоя критически важных сервисов и минимизацию влияния сбоев на бизнес-процессы предприятия, что в конечном счете обеспечивает надежную обработку потоков информации в рамках бизнес-процессов предприятия.</p>
+   item_keywords: мониторинг серверов, автоматическое восстановление сервисов, отказоустойчивость, Zabbix, система мониторинга, комплекс технических средств
+   item_pages: 201—209
+   item_citation: 'Куценко С. М., Салтанаева Е. А. Техническое обеспечение надежности серверов и сетевых устройств на основе мониторинга и автоматического восстановления сервисов // Программная инженерия. 2026. Том 17, № 4. С. 201—209. DOI: 10.17587/prin.17.201-209.'
+   item_references: |
+     <li>Гафуров И. А., Ситников С. Ю. Распознавание аномалий данных для прогнозирования отказов оборудования // Международный журнал информационных технологий и энергоэффективности. 2023. Том 8, № 2 (28). С. 9—12.</li>
+     <li>Мустахитдинова Ю. А., Зарипова Р. С. Особенности администрирования информационно-вычислительных систем // Информационные технологии в строительных, социальных и экономических системах. 2021. № 1 (23). С. 143—145.</li>
+     <li>Мельчаков А. С., Лисин М. А., Власов С. А. Мониторинг технологического оборудования средствами Zabbix // Химия. Экология. Урбанистика. 2023. Том 3. С. 264—267.</li>
+     <li>Irawati I. Network Monitoring System // Jurnal JE-Unisla. 2020. Vol. 5, No. 2. P. 359. DOI: 10.30736/je.v5i2.456.</li>
+     <li>Куценко С. М. Разработка автоматизированной систе­мы тестирования программного обеспечения // Научно-технический вестник Поволжья. 2023. № 11. С. 224—227.</li>
+     <li>Гузнова Е. С., Казанцев М. А. Система мониторинга Zabbix для анализа и прогнозирования событий // Успехи современной радиоэлектроники. 2023. Том 77, № 12. С. 131—135. DOI: 10.18127/j20700784-202312-17.</li>
+     <li>Собель М. Г. Linux: администрирование и системное программирование: [полное руководство по использованию команд, оболочек, утилит и редакторов в Linux и Mac OS]: Пер. с англ. Н. Вильчинский, СПб. 2011. 310 с.</li>
+     <li>Белоусова И. Д., Бузуева М. В. Использование системы мониторинга инцидентами в ит-компании // Инжиниринг предприятий и управление знаниями (ИП&УЗ-2022): Сб. науч. тр. XXV Росс. науч. конф. 2022. Том 1. С. 22—27.</li>
+     <li>Панов М. А., Ищенко Е. А. Современные комплексы мониторинга и оповещения о событиях: обеспечение оптимального использования ресурсов и функционирования информационных систем и процессов // Динамика сложных систем — XXI век. 2024. Том 18, № 1. С. 18—31. DOI: 10.18127/j19997493-202401-02.</li>
+     <li>Mohd Fuzi M. F., Mohammad Ashraf N. F., Jamaluddin M. N. F. Integrated Network Monitoring using Zabbix with Push Notification via Telegram // Journal of Computing Research and Innovation. 2022. Vol. 7, No. 1. P. 147—155. DOI: 10.24191/jcrinn.v7i1.282.</li>
+     <li>Фролов А., Верещагина Е. ZABBIX: настройка узлов и оповещение через telegram // Системный администратор. 2022. № 12 (241). С. 8—11.</li>
+     <li>Жалнин Д. А., Стефанова И. А. Метрики, используе­мые для мониторинга сервера // Актуальные проблемы информатики, радиотехники и связи: Мат. XXXI Росс. науч.-техн. конф. Самара: Поволжский государственный универ­ситет телекоммуникаций и информатики, 2024. С. 284—286.</li>
+     <li>Silva R. A. Da. A implementaijao do Zabbix com seguran9a: um estudo de caso Zabbix safely // Foco. 2024. Vol. 17, No. 4. Article e4851. DOI: 10.54751/revistafoco.v17n4-055.</li>
+ - doi: 17.210-221
+   udk: '004.412'
+   edn: HEHXVR
+   item_authors: Никонов А. В., Никонова Г. В.
+   item_name: Метрика Чапина в практике современного программирования
+   item_authors_address: |
+     <b>А. В. Никонов</b>, д-р техн. наук, проф., проф. кафедры, nalva@mail.ru,
+     <b>Г. В. Никонова</b>, канд. техн. наук, доц., доц. кафедры, ngvlad@mail.ru,
+     Федеральное государственное автономное образовательное учреждение высшего образования «Омский государственный технический университет»
+   item_rec_on: 2025-10-02
+   item_acc_on: 2025-11-11
+   item_annot: |
+     <p>Представлены результаты исследования методологии метрики Чапина для оценки сложности программных продуктов, созданных с применением современных языков программирования. Изложены методические аспекты метрики, отражены ошибки и некорректные подходы, сопровождающие применение метода Чапина в отечественной практике. Показаны методика применения метрики при оценке сложности программного модуля на языке С++ и отличие полученных результатов от данных в отечественной практике.</p>
+   item_keywords: метрика Чапина, сложность программного обеспечения, роли данных, итерации, связность, сцепление модулей, подчиненный цикл, ошибки классификации
+   item_pages: 210—221
+   item_comment: 'Статья подготовлена в рамках федерального проекта «Экономика данных и цифровая трансформация государства»: «Кадры для цифровой трансформации», грант на обеспечение обучения студентов по образовательным программам высшего образования для топ-специалистов в сфере информационных технологий на базе АНО «Аналитический центр при Правительстве Российской Федерации». ИГК по договору ИТ: 000000Ц830325Р2М0002.'
+   item_citation: 'Никонов А. В., Никонова Г. В. Метрика Чапина в практике современного программирования // Программная инженерия. 2026. Том 17, № 4. С. 210—221. DOI: 10.17587/prin.17.210-221.'
+   item_references: |
+     <li>Paige M. R. An Analytical Approach to Software Testing // Proceedings COMPSAC 78. Chicago, 1978. IEEE Computer Society, New York, 1978. P. 527—532. DOI: 10.1109/CMPSAC.1978.810478.</li>
+     <li>Холстед М. Х. Начала науки о программах: пер. с англ. В. М. Юфы. М.: Финансы и статистика, 1981. 128 с.</li>
+     <li>Henry S., Kafura D., Harris K. On the Relationships Among Three Soft-ware Metrics, 1981 ACM Workshop // Symposium on Measurement and Evaluation of Software Quality, March 1981. DOI: 10.1145/800003.807911.</li>
+     <li>Kolence K. W. Software Physics and Computer Performance Measurement // Proceedings of the ACM 1972 Annual Confreence. 1972. Vol. 2. P. 1024—1040. DOI: 10.1145/800194.805896.</li>
+     <li>Chen E. T. Program Complexity and Programmer Productivity // Proceedings of Computer Software and Applications Conference. 1977. P. 142—148.</li>
+     <li>McCabe T. J. A Complexity Measure // IEEE Trans. on Software Engineering. 1976. SE-2 No. 4. P. 308—320.</li>
+     <li>Евсеев В. В. Применение программных метрик кода на раннем этапе жизненного цикла программного обеспечения // Восточно-Европейский журнал передовых технологий. 2011. Том 1/2 (49). С. 19—21.</li>
+     <li>Черников Б. В. Управление качеством программного обеспечения: Учеб. М.: ИД ФОРУМ: ИНФРА-М, 2012. 240 с.</li>
+     <li>Черников Б. В., Поклонов Б. Е. Оценка качества программного обеспечения: Практикум: учеб. пособие / Под ред. Б. В. Черникова. М.: ИД ФОРУМ: НИЦ Инфра-М, 2012. 400 с.</li>
+     <li>Кайгородцев Г. И. Введение в курс метрической теории и метрологии программ. Новосибирск: НГТУ, 2016. 192 с.</li>
+     <li>Волович М. Е., Дерюгина О. А. Расчет основных метрик объектно-ориентированного программирования при помощи АСД UML MAP // Актуальные проблемы аппаратно-программного и информационного обеспечения науки, образования, культуры и бизнеса: мат. VII междунар. науч.-практ. интернет-конференции. Апрель, 2015. М.: Научный консультант, 2015. С. 36—42.</li>
+     <li>Chapin N. A Measure of Software Complexity // 1979 International Workshop on Managing Requirements Knowledge (MARK) 1979. P. 995—1002. DOI: 10.1109/MARK.1979.8817207.</li>
+     <li>Майерс Г. Надежность программного обеспечения: пер. с англ. М.: Мир, 1980. 360 с.</li>
+     <li>Потапов И. В., Баева М. А. Вопросы терминологии надежности в области программ и программных средств // Надежность. 2015. № 4. С. 65—74.</li>
+     <li>Chapin N. Input-output tables in structured design // Structured Analysis and Design. 1978. Vol. 2. P. 43—55.</li>
+     <li>Зубкова Т. М. Технология разработки программного обеспечения. Оренбург: ГОУ ОГУ, 2004. 101 с.</li>
+     <li>Weissman L. Psychological complexity of computer programs: an experimental methodology // SIGPLAN Notices. 1974. Vol. 9, No. 6. P. 25—36.</li>
+     <li>McClure C. L. Formalization and Application of Structured Programming and Program Complexity, Ph. D. Thesis Illinois Institute of Technology, Chicago, 1976. 288 p.</li>
+     <li>Чернов А. В. Анализ запутывающих преобразований программ // Тр. Института системного программирования РАН. 2002. Том 3. С. 7—38.</li>
+     <li>Бахтизин В. В., Глухова Л. А., Неборский С. Н. Метрология, стандартизация и сертификация в информационных технологиях: учеб.-метод. пособие, Минск: БГУИР, 2013. 60 с.</li>
+ - doi: 17.222-233
+   udk: '004.94, 004.896'
+   edn: SOJAFW
+   item_authors: Рего Г. Э., Питухин Е. А.
+   item_name: Имитационное моделирование гибридных команд «люди + человекоподобные роботы» в лесной среде
+   item_authors_address: |
+     <b>Г. Э. Рего</b>, канд. техн. наук, доц. кафедры, стар. науч. сотр., regoGr@yandex.ru,
+     <b>Е. А. Питухин</b>, д-р техн. наук, проф. кафедры прикладной математики и кибернетики, вед. науч. сотр., eugene@petrsu.ru,
+     Институт математики и информационных технологий, Петрозаводский государственный университет
+   item_rec_on: 2025-09-17
+   item_acc_on: 2025-10-21
+   item_annot: |
+     <p>Рассмотрена задача оперативного распределения задач в гибридных командах «<люди + чело­векоподобные роботы» для лесной отрасли. Разработана имитационная модель процесса распределения задач для гибридной команды в лесной среде. Предложен распределенный зональный аукционный алгоритм с энергетически осведомленной функцией стоимости, интегрированный с цифровым двойником участка и лесоакторов для компенсации провалов телеметрии при об­рывах связи. Симуляционное исследование охватывает три сценария: эталонную работу при полной связности, периодические потери канала и стресс-режим «тяжелого потока» задач. Показано, что при обрывах связи полнота выполнения задач и сетевой трафик координации остаются на уровне эталона благодаря буферизации и прогнозам двойника; вычислительная стоимость аукциона пренебрежимо мала относительно времен движения. Стресс-испытание выявляет границу масштабируемости, указывая на необходимость адаптивной приоритизации при высоких нагрузках. Результаты подтверждают применимость предложенной схемы к реальным условиям лесозаготовки и намечают направления дальнейших исследований по адаптации весов, энергосбережению и полевой валидации.</p>
+   item_keywords: гибридные команды, лесозаготовка, гуманоидные роботы, имитационное моделирование, аукционный алгоритм, геокогортное планирование, устойчивость к потере связи, распределение задач
+   item_pages: 222—233
+   item_comment: Исследование поддержано Министерством науки и высшего образования Российской Федерации (государственное научное задание, тема № 075-03-2023-128).
+   item_citation: 'Рего Г. Э., Питухин Е. А. Имитационное моделирование гибридных команд «люди + человекоподобные роботы» в лесной среде // Программная инженерия. 2026. Том 17, № 4. С. 222—233. DOI: 10.17587/prin.17.222-233.'
+   item_references: |
+     <li>Holzinger A., Schweier J., Gollob C. et al. From Industry 5.0 to Forestry 5.0: Bridging the gap with Human-Centered Artificial Intelligence // Curr. For. Rep. 2024. Vol. 10. P. 442—455. DOI: 10.1007/s40725-024-00231-7.</li>
+     <li>Tong J., Liu H., Zhang Z. Advancements in Humanoid Robots: A Comprehensive Review and Future Prospects // IEEE/ CAA Journal of Automatica Sinica. 2024. Vol. 11, No. 2. P. 301— 328. DOI: 10.1109/JAS.2023.124140.</li>
+     <li>Gallala A., Kumar A. A., Hichri B., Plapper P. Digital Twin for Human—Robot Interactions by Means of Industry 4.0 Enabling Technologies // Sensors. 2022. Vol. 22, No. 13. Article 4950. DOI: 10.3390/s22134950.</li>
+     <li>Siatras V., Bakopoulos E., Mavrothalassitis P. et al. Production Scheduling Based on a Multi-Agent System and Digital Twin: A Bicycle Industry Case // Information. 2024. Vol. 15, No. 6. Article 337. DOI: 10.3390/info15060337.</li>
+     <li>Tagarakis A., Benos L., Kyriakarakos G. et al. Digital Twins in Agriculture and Forestry // A Review. Sensors 2024, Vol. 24, No. 10. Article 3117. DOI: 10.3390/s24103117.</li>
+     <li>Buonocore L., Yates J., Valentini R. A Proposal for a Forest Digital Twin Framework and Its Perspectives // Forests. 2022. Vol. 13, No. 4. Article 498. DOI: 10.3390/f13040498.</li>
+     <li>Araujo C. A., Leite H. C., Soares S. et al. A multi-agent system for forest transport activity planning // Cerne. 2017. Vol. 23. P. 329—337. DOI: 10.1590/01047760201723032335.</li>
+     <li>Sun L., Yang Y., Duan Q. et al. Multi-Agent Coordination across Diverse Applications: A Survey. 2025. arXiv preprint arXiv:2502.14743.</li>
+     <li>Dahiya A., Aroyo A. M., Dautenhahn K., Smith S. A survey of multi-agent human—robot interaction systems // Robotics and Autonomous Systems. 2023. Vol. 161. Article 104335. DOI: 10.1016/j.robot.2022.104335.</li>
+     <li>Li S., Zheng P., Liu S. et al. Proactive human—robot collaboration: Mutual-cognitive, predictable, and self-organising perspectives // Robotics and Computer-Integrated Manufacturing. 2023. Vol. 81. Article 102510. DOI: 10.1016/j.rcim.2022.102510.</li>
