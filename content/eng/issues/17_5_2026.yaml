@@ -1,0 +1,216 @@
+---
+title: Issue N5 2026 year
+content:
+ - doi: 17.239-252
+   udk: '004.852'
+   edn: LIHEML
+   item_authors: Baryshnikov F. M., Namiot D. E.
+   item_name: Rare Events in Deep Learning Models
+   item_authors_address: |
+     <b>F. M. Baryshnikov</b>, Graduate Student, baryshnikovfm@mail.ru,
+     <b>D. E. Namiot</b>, D. Sc. (Eng.), Leading Researcher, dnamiot@gmail.com,
+     Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+   item_corr_author: 'Dmitry E. Namiot, D. Sc. (Eng.), Leading Researcher, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: dnamiot@gmail.com'
+   item_rec_on: September 23, 2025
+   item_acc_on: December 10, 2025
+   item_annot: |
+     <p>Rare event detection is the task of identifying events that occur with very low frequency but have high practical or societal impact. The identification and prediction of such events present a fundamental challenge due to the scarcity of positive samples, high dimensionality of observational data, and the presence of complex temporal dependen­cies. Examples of rare events include certain types of rare diseases, equipment failures in manufacturing that lead to unplanned downtime, and complex cyberattacks. The frequency and nature of rare events vary substantially across different domains.
+     In recent years, numerous methods have been developed for effective detection and classification of rare events, including modern deep learning models that achieve strong performance even when only a limited amount of labeled data is available. This article presents a systematic review and proposes а unified conceptual framework for rare event detection, distinguishing it from related tasks and clarifying the terminology used in the literature.
+     The primary sources of rarity are analysed, including intrinsic rarity, sampling biases, annotation subjectivity, and measurement limitations. Particular attention is given to challenges arising in multivariate time series data, such as spatial correlations, short- and long-term temporal dependencies, unknown lag structures, and combined spatio-temporal effects. These factors substantially complicate modelling and often render classical balancing and augmentation techniques ineffective.
+     The article reviews state-of-the-art methods for data preprocessing, feature selection, and feature engineering tailored to rare-event scenarios, as well as advanced deep learning models capable of capturing complex dependencies, including recurrent architectures, attention-based models, transformers, and deep reinforcement learning approaches. Specialized performance metrics designed to address extreme class imbalance are also discussed.
+     The survey consolidates current methodological advances and identifies key challenges that remain open for future research. It provides a foundation for developing robust diagnostic, monitoring, and early-warning systems operating under conditions of rare and underrepresented events.</p>
+   item_keywords: machine learning, deep learning, rare events
+   item_pages: 239—252
+   item_citation: 'Baryshnikov F. M., Namiot D. E. Rare Events in Deep Learning Models, Programmnaya Ingeneria, 2026, vol. 17, no. 5, pp. 239—252. DOI: 10.17587/prin.17.239-252. (in Russian).'
+   item_references: |
+     <li>Abubakar Y. I., Othmani A., Siarry P., Sabri A. Q. M. A systematic review of rare events detection across modalities using machine learning and deep learning, IEEE Access, 2024, vol. 12, pp. 47091—47109. DOI: 10.1109/ACCESS.2024.3382140.</li>
+     <li>King G., Zeng L. Logistic regression in rare events data, Political Analysis, 2002, vol. 9, online. DOI: 10.1093/oxfordjournals.pan.a004868.</li>
+     <li>Carreno A., Inza I., Lozano J. A. Analyzing rare event, anomaly, novelty and outlier detection terms under the supervised classification framework, Artificial Intelligence Review, 2020, vol. 53, no. 5, pp. 3575—3594. DOI: 10.1007/s10462-019-09771-y.</li>
+     <li>Murray J. F., Hughes G. F., Kreutz-Delgado K. Machine learning methods for predicting failures in hard drives: a multiple-instance application, Journal of Machine Learning Research, 2005, vol. 6, pp. 783—816.</li>
+     <li>Mori U., Mendiburu A., Dasgupta S., Lozano J. A. Early classification of time series by simultaneously optimizing the accura­cy and earliness, IEEE Transactions on Neural Networks and Learning Systems, 2018, vol. 29, no. 10, pp. 4569—4578. DOI: 10.1109/TNNLS.2017.2764939.</li>
+     <li>Ogbechie A., Dfaz-Rozo J., Larranaga P., Bielza C. Dynamic Bayesian network-based anomaly detection for in-process visual inspection of laser surface heat treatment, Machine Learning for Cyber Physical Systems. Technologien fur die intelligente Automation / Eds. J. Beyerer, O. Niggemann, C. Kiihnert. Berlin, Heidelberg, Springer Vieweg, 2017. DOI: 10.1007/978-3-662-53806-7_3.</li>
+     <li>Chandola V., Banerjee A., Kumar V. Anomaly detection: a survey, ACM Computing Surveys, 2009, vol. 41, no. 3, article 15. DOI: 10.1145/1541880.1541882.</li>
+     <li>Rostami S., Ahmadzadeh M. Extracting predictor variables to construct breast cancer survivability model with class imbalance problem, Journal of AI and Data Mining, 2018, vol. 6, no. 2,pp. 263—276. DOI: 10.22044/JADM.2017.5061.1609.</li>
+     <li>Fiore U., De Santis A., Perla F. et al. Using generative adversarial networks for improving classification effectiveness in credit card fraud detection, Information Sciences, 2019, vol. 479, pp. 448—455. DOI: 10.1016/j.ins.2017.12.030.</li>
+     <li>Khreich W., Khosravifar B., Hamou-Lhadj A., Talhi C. An anomaly detection system based on variable N-gram features and one-class SVM, Information and Software Technology, 2017, vol. 91, pp. 186—197. DOI: 10.1016/j.infsof.2017.07.009.</li>
+     <li>Einarsdottir H., Emerson M. J., Clemmensen L. H. et al. Novelty detection of foreign objects in food using multi-modal X-ray imaging, Food Control, 2016, vol. 67, pp. 39—47. DOI: 10.1016/j. foodcont.2016.02.023.</li>
+     <li>Masud M. M., Chen Q., Khan L. et al. Classification and adaptive novel class detection of feature-evolving data streams, IEEE Transactions on Knowledge and Data Engineering, 2013, vol. 25, no. 7, pp. 1484—1497. DOI: 10.1109/TKDE.2012.109.</li>
+     <li>de Faria E. R., Ponce de Leon Ferreira Carvalho A. C., Gama J. MINAS: multiclass learning algorithm for novelty detection in data streams, Data Mining and Knowledge Discovery, 2016, vol. 30, pp. 640—680. DOI: 10.1007/s10618-015-0433-y.</li>
+     <li>Spinosa E. J., de Leon F. de Carvalho A. P., Gama J. OLINDDA: a cluster-based approach for detecting novelty and con­cept drift in data streams, Proceedings of the 2007 ACM Symposium on Applied Computing (SAC '07), New York, ACM, 2007, pp. 448—452. DOI: 10.1145/1244002.1244107.</li>
+     <li>Zhu Y., Ting K., Zhou Z.-H. Multi-label learning with emerging new labels, IEEE Transactions on Knowledge and Data Engineering, 2018, vol. 30, no. 10, pp. 1901—1914. DOI: 10.1109/TKDE.2018.2810872.</li>
+     <li>Barai A. (Deb), Dey L. Outlier detection and removal algorithm in K-means and hierarchical clustering, World Journal of Computer Application and Technology, 2017, vol. 5, no. 2, pp. 24—29. DOI: 10.13189/wjcat.2017.050202.</li>
+     <li>Radovanovic M., Nanopoulos A., Ivanovic M. Reverse near­est neighbors in unsupervised distance-based outlier detection, IEEE Transactions on Knowledge and Data Engineering, 2015, vol. 27, no. 5, pp. 1369—1382. DOI: 10.1109/TKDE.2014.2365790.</li>
+     <li>Dang X. H., Assent I., Ng R. T. et al. Discriminative features for identifying and interpreting outliers, 2014 IEEE 30th International Conference on Data Engineering, 2014, pp. 88—99. DOI: 10.1109/ICDE.2014.6816642.</li>
+     <li>Gupta M., Gao J., Aggarwal C. C., Han J. Outlier detection for temporal data: a survey, IEEE Transactions on Knowledge and Data Engineering, 2014, vol. 26, no. 9, pp. 2250—2267. DOI: 10.1109/TKDE.2013.184.</li>
+     <li>Shyalika C., Wickramarachchi R., Sheth A. P. A comprehensive survey on rare event prediction, ACM Computing Surveys, 2024, vol. 57, no. 3, article 70. DOI: 10.1145/3699955.</li>
+     <li>Ranjan C. Understanding deep learning and applica­tion in rare event prediction, 2020. Preprint. DOI: 10.13140/RG.2.2.34297.49765.</li>
+     <li>Xu D., Zhang Z., Shi J. Training data selection by cat­egorical variables for better rare event prediction in multiple prod­ucts production line, Electronics, 2022, vol. 11, no. 7, article 1056. DOI: 10.3390/electronics11071056.</li>
+     <li>Coffinet J., Kien J.-N. Detection of rare events: a machine learning toolkit with an application to banking crises, The Journal of Finance and Data Science, 2019, vol. 5, no. 4, pp. 183—207. DOI: 10.1016/j.jfds.2020.04.001.</li>
+     <li>Xiu Z., Tao C., Gao M. et al. Variational disentanglement for rare event modeling, Proceedings of the AAAI Conference on Artificial Intelligence, 2021, vol. 35, no. 12, pp. 10469—10477. DOI: 10.1609/aaai.v35i12.17253.</li>
+     <li>Omar Z. A., Chin S. N., Hashim S. R. M., Hamzah N. Exploring clusters of rare events using unsupervised random forests, Journal of Physics: Conference Series, 2022, vol. 2314, no. 1, article 012019. DOI: 10.1088/1742-6596/2314/1/012019.</li>
+     <li>Ashraf M. T., Dey K., Mishra S. Identification of high-risk roadway segments for wrong-way driving crash using rare event modeling and data augmentation techniques, Accident Analysis & Prevention, 2023, vol. 181, article 106933. DOI: 10.1016/j.aap.2022.106933.</li>
+     <li>Rehab A., Ali I., Gomaa W., Fors M. N. Bearings fault detection using hidden Markov models and principal component analysis enhanced features, PHM Society European Conference, 2021, vol. 6, no. 1, article 11. DOI: 10.36001/phme.2021.v6i1.2947.</li>
+     <li>Xu H., Ma R., Yan L., Ma Z. Two-stage prediction of machinery fault trend based on deep learning for time series analysis, Digital Signal Processing, 2021, vol. 117, article 103150. DOI: 10.1016/j.dsp.2021.103150.</li>
+     <li>Bhanja S., Das A. A black swan event-based hybrid model for Indian stock markets' trends prediction, Innovations in Sys­tems and Software Engineering, 2024, vol. 20, no. 2, pp. 121—135. DOI: 10.1007/s11334-021-00428-0.</li>
+     <li>Neuman Y., Cohen Y., Erez E. Extreme rare events identification through Jaynes inferential approach, Big Data, 2021, vol. 9, no. 6, pp. 417—426. DOI: 10.1089/big.2021.0191.</li>
+     <li>Zhao Y., Wong Z. S.-Y., Tsui K. L. A framework of rebalancing imbalanced healthcare data for rare events' classifica­tion: a case of look-alike sound-alike mix-up incident detec­tion, Journal of Healthcare Engineering, 2018, article 6275435. DOI: 10.1155/2018/6275435.</li>
+     <li>Li J., Fong S., Hu S. et al. Rare event prediction using simi­larity majority under-sampling technique, Lecture Notes in Computer Science, 2017, pp. 23—39. DOI: 10.1007/978-981-10-7242-0_3.</li>
+     <li>Liu H., Ma R., Li D. et al. Machinery fault diagnosis based on deep learning for time series analysis and knowledge graphs, Journal of Signal Processing Systems, 2021, vol. 93, no. 12, pp. 1433—1455. DOI: 10.1007/s11265-021-01718-3.</li>
+     <li>Fathy Y., Jaber M., Brintrup A. Learning With Imbal­anced Data in Smart Manufacturing: A Comparative Analysis, IEEE Access, 2021, vol. 9, pp. 2734—2757. DOI: 10.1109/AC-CESS.2020.3047838.</li>
+     <li>Lee W., Seo K. Early failure detection of paper manufacturing machinery using nearest neighbor-based feature extraction, Engineering Reports, 2021, vol. 3, no. 2, article e12291. DOI: 10.1002/eng2.12291.</li>
+     <li>Marins M. A., Barros B. D., Santos I. H. et al. Fault detection and classification in oil wells and production/service lines using random forest, Journal of Petroleum Science and Engineering, 2021, vol. 197, article 107879. DOI: 10.1016/j.petrol.2020.107879.</li>
+     <li>Zhang Y., Zhou T., Huang X. et al. Fault diagnosis of rotating machinery based on recurrent neural networks, Measurement, 2021, vol. 171, article 108774. DOI: 10.1016/j.measurement.2020.108774.</li>
+     <li>Hochreiter S., Schmidhuber J. Long Short-Term Memory, Neural Comput., 1997, vol. 9, no. 8, pp. 1735—1780. DOI: 10.1162/neco.1997.9.8.1735.</li>
+     <li>Gopali S., Abri F., Siami-Namini S., Siami-Namini A. A Comparative Study of Detecting Anomalies in Time Series Data Using LSTM and TCN Models, arXiv, 2021. DOI: 10.48550/arX-iv.2112.09293.</li>
+     <li>Yadav S., Jain A., Sharma K. Ch., Bhakar R. Load Forecasting for Rare Events using LSTM, 2021 9th IEEE International Conference on Power Systems (ICPS), 2021, pp. 1—6. DOI: 10.1109/ICPS52420.2021.9670200.</li>
+     <li>Zhang S., Bahrampour S., Ramakrishnan N. et al. Deep learning on symbolic representations for large-scale heterogeneous time-series event prediction, 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017, pp. 5970—5974. DOI: 10.1109/ICASSP.2017.7953302.</li>
+     <li>Peng H., Li H., Zhang Y. et al. Multi-Sensor Vibration Signal Based Three-Stage Fault Prediction for Rotating Mechanical Equipment, Entropy, 2022, vol. 24, no. 2, article 164. DOI: 10.3390/e24020164.</li>
+     <li>Ravindranath M., Candan K. S., Sapino M. L. M2NN: Rare event inference through multi-variate multi-scale attention, 2020 IEEE International Conference on Smart Data Services (SMDS), 2020, pp. 53—62. DOI: 10.1109/SMDS49396.2020.00014.</li>
+     <li>Li A., Fu Z., Grant C. et al. KamNet: An integrated spatiotemporal deep neural network for rare event searches in Kam-LAND-Zen, Phys. Rev. C, 2023, vol. 107, no. 1, article 014323. DOI: 10.1103/PhysRevC.107.014323.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17), Long Beach, California, USA, 2017. pp. 6000—6010.</li>
+     <li>Wang R., Dong E., Cheng Z. et al. Transformer-based intelligent fault diagnosis methods of mechanical equipment: a survey, Open Physics, 2024, vol. 22, no. 1, article 20240015. DOI: 10.1515/phys-2024-0015.</li>
+     <li>Miinchmeyer J., Bindi D., Leser U., Tilmann F. The transformer earthquake alerting model: a new versatile approach to earth-quake early warning, Geophysical Journal International, 2021, vol. 225, no. 1, pp. 646—656. DOI: 10.1093/gji/ggaa609.</li>
+     <li>Bogdevicius M., Januteniene J., Razmas S. et al. 11th World Congress on Computational Mechanics (WCCM2014), 5th European Conference on Computational Mechanics (ECCM V), 6th European Conference on Computational Fluid Dynamics (ECFD VI), July 20— 25, 2014, Barcelona, Spain, 2014. DOI: 10.13140/2.1.4186.9441.</li>
+ - doi: 17.253-260
+   udk: '004.77'
+   edn: GFLOJX
+   item_authors: Kondaurov S. N., Gosudarev I. B.
+   item_name: Quantitative Assessment of Overhead in GraphQL Subscriptions Compared to WebSocket Protocol under Load
+   item_authors_address: |
+     <b>S. N. Kondaurov</b>, Master's Student, kondaurov.semion@ya.ru,
+     <b>I. B. Gosudarev</b>, Cand. Sc. (Ped.), Associate Professor, goss@itmo.ru
+     ITMO University, Saint Petersburg, 197101, Russian Federation
+   item_corr_author: "Semyon N. Kondaurov, Master's Student, ITMO University, Saint Petersburg, 197101, Russian Federation, E-mail: kondaurov.semion@ya.ru"
+   item_rec_on: November 15, 2025
+   item_acc_on: February 25, 2026
+   item_annot: |
+     <p>The study focuses on an empirical comparison of the performance between the low-level WebSocket transport and the high-level GraphQL Subscriptions abstraction. The paper details the testbed architecture deployed in a cloud environment (2 vCPU, 4 GB RAM) and a load testing methodology involving scenarios with up to 10,000 virtual us­ers. A comprehensive analysis of metrics such as round-trip time (RTT), handshake duration, and server resource consumption was conducted.
+     The experimental results demonstrate a significant performance gap between the technologies under peak loads. It was found that WebSocket provides twice the message delivery speed (≈ 216 ms vs ≈ 409 ms) while consuming 4.3 times less CPU time. A key finding of the study is the identification of a technological saturation threshold for GraphQL Subscriptions. Under high load, the GraphQL server reached its resource limit, resulting in a marginal connection growth of less than 0.05 %, whereas WebSocket connections scaled by 791 %. This saturation is further evidenced by a critical degradation of the socket wait time (ws_connecting) for GraphQL, reaching ≈ 17.3 s compared to ≈ 0.54 s for WebSocket. The paper concludes that there is a fundamental architectural trade-off between low-level performance and development convenience, caused by the computational complexity of the application-level logic in GraphQL.</p>
+   item_keywords: WebSocket, GraphQL Subscriptions, Node.js, k6, bidirectional communication, RTT, scalability, load testing, comparative analysis, resource consumption
+   item_pages: 253—260
+   item_comment: The described experiment was carried out as part of research work at ITMO University within the field of study 09.04.04 “Software Engineerings”
+   item_citation: 'Kondaurov S. N., Gosudarev I. B. Quantitative Assessment of Overhead in GraphQL Subscriptions Compared to WebSocket Protocol under Load, Programmnaya Ingeneria, 2026, vol. 17, no. 6, pp. 253—260. DOI: 10.17587/prin.17.253-260. (in Russian).'
+   item_references: |
+     <li>Murley P., Ma Z., Mason J. et al. A. WebSocket Adop­tion and the Landscape of the Real-Time Web, Proceedings of The Web Conference 2021 (WWW '21), 2021, New York, NY, USA, Association for Computing Machinery, pp. 135 — 146. DOI: 10.1145/3442381.3450063.</li>
+     <li>Il'ichev V. Yu., Ivanov N. V. Analysis of the functionality of WebSocket and Long Polling technologies when used to develop chat applications, Nauchnoe obozrenie. Tekhnicheskie nauki, 2025, no. 2, pp. 12—17. DOI: 10.17513/srts.1497 (in Russian).</li>
+     <li>Slodziak W., Nowak Z. Performance Analysis of Web Systems Based on XMLHttpRequest, Server-Sent Events and Web-Socket, Advances in Intelligent Systems and Computing, 2016, vol. 444, pp. 67—77. DOI: 10.1007/978-3-319-28561-0_6.</li>
+     <li>Quina Mera A., Fernandez P., Garcia J. M., Ruiz Cortes A. GraphQL: A Systematic Mapping Study, ACM Computing Surveys, 2023, vol. 55, no. 10, article 202. DOI: 10.1145/3561818.</li>
+     <li>Prokin A. A., Ruzmanov A. A. The use of web-sockets in internet applications, E-Scio, 2019, no. 4 (31), pp. 493—497 (in Russian).</li>
+     <li>Nadeem M. M., Raza Y., Sajid A. et al. Review Analysis of Web Socket Security: Case Study, IETI Transactions on Data Analysis and Forecasting, 2024, vol. 2, no. 2, pp. 56—75. DOI: 10.3991/itdaf.v2i2.51015.</li>
+     <li>Shestakov V. S., Sagidullin A. S. Application of WebSocket technology in web-applications for technological purposes, Izvestiya vysshikh uchebnykh zavedeniy. Priborostroenie, 2015, vol. 58, no. 4, pp. 328—330. DOI: 10.17586/0021-3454-2015-58-4-328-330 (in Russian).</li>
+     <li>Lawi A., Panggabean B. L. E., Yoshida T. Evaluating GraphQL and REST API Services Performance in a Massive and Intensive Accessible Information System, Computers, 2021, vol. 10, no. 11, article 138. DOI: 10.3390/computers10110138.</li>
+ - doi: 17.261-269
+   udk: '004.272.23'
+   edn: ZDMIYG
+   item_authors: Demkin R. Yu.
+   item_name: A Method for Determining a Rational Computational Load in Heterogeneous Data-Stream Processing Systems
+   item_authors_address: |
+     <b>R. Yu. Demkin</b>, Researcher, demkin.rdi-kvant@bk.ru,
+     Research and Development Institute "Kvant", Moscow, 125438, Russian Federation
+   item_corr_author: 'Roman Yu. Demkin, Researcher, Research and Development Institute "Kvant", Moscow, 125438, Russian Federation, E-mail: demkin.rdi-kvant@bk.ru'
+   item_rec_on: October 09, 2025
+   item_acc_on: February 10, 2026
+   item_annot: |
+     <p>The paper considers the issue of load distribution on each of the used types of computing devices in a heterogeneous computing system. An analytical model of the mutual influence of various types of computing devices as part of a heterogeneous computer is proposed. Based on the considered model, an approach to load distribution is formed, which can provide acceleration of data processing compared to homogeneous solutions. The results of experiments for heterogeneous systems consisting of CPU and GPU are presented, demonstrating the relationship between CPU resource utilization and GPU performance, based on which the parameters of the proposed analytical model were cross-validated. The application of the model for the rational selection of the number of full-weight threads on CPU and GPU for solving real sets of problems is demonstrated. The advantage of the proposed approach in terms of the speed of tasks solving compared to independently executed homogeneous solutions is experimentally shown. Thus, the article proposes a comprehensive method for evaluating and optimizing the load on a heterogeneous computer, describes all the necessary metrics and their analytical dependencies, and provides experimental evidence of the practical significance of the proposed approach.</p>
+   item_keywords: heterogeneous computing system, GPU, computational workload, weight thread (WT), lightweight thread (LWT), operations per second (OPS), peak computational performance, load distribution
+   item_pages: 261—269
+   item_citation: 'Demkin R. Yu. A Method for Determining a Rational Computational Load in Heterogeneous Data-Stream Processing Systems, Programmnaya Ingeneria, 2026, vol. 17, no. 5, pp. 261—269. DOI: 10.17587/prin.17.261-269.'
+   item_references: |
+     <li>Korneev V. V. Parallel Programming, Programmnaya Ingeneria, 2022, vol. 13, no. 1, pp. 3—16. DOI: 10.17587/prin.13.3-16 (in Russian).</li>
+     <li>Zahran M. Heterogeneous Computing: Here to Stay, Communication of ACM, 2017, vol. 60, no. 3, pp. 42—45. DOI: 10.1145/3024918.</li>
+     <li>Vouillon J. Lwt: a cooperative thread library, Workshop on ML, 2008, рр. 3—12. DOI: 10.1145/1411304.1411307.</li>
+     <li>Draper N., Smith H. Applied Regression Analysis. 3rd edition, Moscow, Dialektica, 2017, 912 p. (in Russian).</li>
+     <li>Chatterjee S., Simonoff J. S. Handbook of regression analysis. NJ., John Wiley & Sons, 2013, 252 p. DOI: 10.1002/9781118532843.</li>
+     <li>Oppenheim A. V., Schafer R. W. Digital Signal Processing, Moscow, Tehnosfera, 2012, 1048 p. (in Russian).</li>
+     <li>Kalman R. E. A New Approach to Linear Filtering and Prediction Problems, ASME Journal of Basic Engineering, 1960, vol. 82, no. 1, pp. 35—45. DOI: 10.1115/1.3662552.</li>
+     <li>Bianchi G., Sorrentino R. Electronic filter simulation & design. NY., McGraw-Hill Professional, 2007, 606 p.</li>
+     <li>Akaike H. A new look at the statistical model identifica­tion, IEEE Transactions on Automatic Control, 1974, vol. 19, no. 6, pp. 716—723. DOI: 10.1109/TAC.1974.1100705.</li>
+     <li>Efron B. Bootstrap Methods: Another Look at the Jack-knife, Annals of Statistics, 1979, vol. 7, no. 1, pp. 1—26. DOI: 10.1214/AOS/1176344552.</li>
+     <li>Hwang K. Advanced Computer Architecture: Parallelism, Scal­ability, Programmability. NY., McGraw-Hill Professional, 1993, 771 p.</li>
+     <li>Wang Z., Yang J., Melhem R. et al. Simultaneous Multikernel GPU: Multi-tasking throughput processors via fine-grained sharing, IEEE International Symposium on High Performance Computer Architecture (HPCA), 2016, vol. 1, pp. 358—369. DOI: 10.1019/HPCA.2016.7446078.</li>
+ - doi: 17.270-279
+   udk: '519.8'
+   edn: BLNRMW
+   item_authors: Pavlov D. A., Akopov A. S.
+   item_name: Modeling and Optimizing the Characteristics of a Multi-Agent Fast Delivery System using OpenStreetMap and AnyLogic
+   item_authors_address: |
+     <b>D. A. Pavlov</b><sup>1</sup>, Postgraduate Researcher, dima-pavlov@phystech.edu,
+     <b>A. S. Akopov</b>, D. Sc. (Eng), Professor, RAS Professor, Chief Scientist<sup>2</sup>, Professor<sup>1, 3</sup>, akopovas@umail.ru
+     <br>
+     <sup>1</sup> Moscow Institute of Physics and Technology (MIPT, Phystech), Dolgoprudny, Moscow Region, 141700, Russian Federation
+     <br>
+     <sup>2</sup> FGBUN Central Economic and Mathematical Institute of the Russian Academy of Sciences, Moscow, 117418, Russian Federation
+     <br>
+     <sup>3</sup> MIREA — Russian University of Technology, Moscow, 119454, Russian Federation
+   item_corr_author: 'Dmitry A. Pavlov, Postgraduate Researcher, Moscow Institute of Physics and Technology (MIPT, Phystech), Dolgoprudny, Moscow Region, 141700, Russian Federation, E-mail: dima-pavlov@phystech.edu'
+   item_rec_on: October 15, 2025
+   item_acc_on: January 12, 2026
+   item_annot: |
+     <p>The paper presents a simulation model of a multi-agent fast home delivery system based on OpenStreetMap (OSM) data, implemented in the AnyLogic environment. The goal of the research is to create a simulation model that maximizes the profit of the delivery service, while ensuring that 90 % of orders are completed within 30 minutes. A model structure has been created that includes couriers, pickers, warehouses, and households in an urban setting. Computational experiments were conducted to analyze different resource allocation scenarios, using stochastic approximation methods to optimize the simulation. The results obtained confirm the usefulness of agent-based modeling and OSM data for the design and analysis of last-mile logistics systems.</p>
+   item_keywords: simulation modeling, multi-agent systems, last-mile logistics, optimization, AnyLogic, OpenStreetMap
+   item_pages: 270—279
+   item_citation: 'Pavlov D. A., Akopov A. S. Modeling and Optimizing the Characteristics of a Multi-Agent Fast Delivery System using OpenStreetMap and AnyLogic, Programmnaya Ingeneria, 2026, vol. 17, no. 5, pp. 270—279. DOI: 10.17587/prin.17.270-279. (in Russian).'
+   item_references: |
+     <li>Yao R. Multiple optimization methods of automatic application in last-mile delivery system, Proceedings of the 2023 International Conference on Power, Electrical Engineering, Electronics and Control (PEEEC), Athens, Greece, 2023, pp. 291—294. DOI: 10.1109/PEEEC60561.2023.00062.</li>
+     <li>Filiopoulou E., Bardaki C., Boukouvalas D. et al. Last-mile delivery options: Exploring customer preferences and challenges, Proceedings of the 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP 2022), Corfu, Greece, 2022, pp. 1—6. DOI: 10.1109/SMAP56125.2022.9942122.</li>
+     <li>Konstantakopoulos G. D., Gayialis S. P., Kechagias E. P. Vehicle routing problem and related algorithms for logistics distribution: A literature review and classification, Operational Research International Journal, 2022, vol. 22, pp. 2033—2062. DOI: 10.1007/s12351-020-00600-7.</li>
+     <li>Holland J. H., Miller J. H. Artificial Adaptive Agents in Economic Theory, American Economic Review, 1991, vol. 81, no. 2, pp. 365—371.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Epstein J. M. Agent-based modeling for a complex world. 2nd edition, revised, Moscow, Scientific publications department, GAUGN, 2022, 74 p. DOI: 10.18254/978­5-604-5843-4-7.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Sushko E. D., Sushko G. B. A Design System for Scalable Agent-Based Models with Multi-Stage Interactions of Agents Forming Social Connections, Lobachevskii Journal of Mathematics, 2020, vol. 41, no. 8, pp. 1492—1501. DOI: 10.1134/S1995080220080107.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Epstein J. M. Agent-based modeling for a complex world. Part 1, Economics and the Mathematical Methods, 2022, vol. 58, no. 1, pp. 5—26. DOI: 10.31857/S042473880018970-6.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Epstein J. M. Agent-based modeling for a complex world. Part 2, Economics and the Mathematical Methods, 2022, vol. 58, no. 2, pp. 7—21. DOI: 10.31857/S042473880020009-8.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Beklaryan G. L., Akopov A. S. Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 167—177. DOI: 10.17587/prin.10.167-177 (in Russian).</li>
+     <li>Borshchev A. The Big Book of Simulation Modeling: Multi-method Modeling with Anylogic 6. AnyLogic, America, 2013, 612 p.</li>
+     <li>Akopov A. S., Beklaryan L. A. Agent-Based Modelling of Interacting Unmanned Vehicles Dynamics with the FLAME GPU, Programmnaya Ingeneria, 2023, vol. 14, no. 3, pp. 110—122. DOI: 10.17587/prin.14.110-122 (in Russian).</li>
+     <li>Akopov A. S. MBHGA: A Matrix-Based Hybrid Genetic Algorithm for Solving an Agent-Based Model of Controlled Trade Interactions, IEEE Access, 2025, vol. 13, pp. 26843—26863, DOI: 10.1109/ACCESS.2025.3539460.</li>
+     <li>Issaoui Y., Khiat A., Haricha K. et al. An advanced system to enhance and optimize delivery operations in a smart logistics environment, IEEE Access, 2022, vol. 10, pp. 6175—6193. DOI: 10.1109/ACCESS.2022.3141311.</li>
+     <li>Sathish T. Profit maximization in reverse logistics based on disassembly scheduling using hybrid bee colony and bat optimization, Transactions of the Canadian Society for Mechanical Engineering, 2019, vol. 43, no. 4, pp. 551—559. DOI: 10.1139/tcsme-2019-0017.</li>
+     <li>Zhou C., Ma N., Cao X. et al. Classification and literature review on the integration of simulation and optimization in maritime logistics studies, IISE Transactions, 2021, vol. 53, no. 10, pp. 1157—1176. DOI: 10.1080/24725854.2020.1856981.</li>
+     <li>Xiong H. Research on cold chain logistics distribution route based on ant colony optimization algorithm, Discrete Dynamics in Nature and Society, 2021, article 6623563. DOI: 10.1155/2021/6623563.</li>
+     <li>Yang F., Tao F. A bi-objective optimization VRP model for cold chain logistics: Enhancing cost efficiency and customer satisfaction, IEEE Access, 2023, vol. 11, pp. 127043—127056. DOI: 10.1109/ACCESS.2023.3332145.</li>
+     <li>Yan Q., Zhang Q. The optimization of transportation costs in logistics enterprises with time-window constraints, Discrete Dynamics in Nature and Society, 2015, article 365367, 10 p. DOI: 10.1155/2015/365367.</li>
+     <li>Bridgelall R. Optimization Problems in Transportation and Logistics: A Practical Guide, Basel, MDPI, 2024, 236 p. DOI: 10.3390/books978-3-7258-0697-3.</li>
+ - doi: 17.280-292
+   udk: "004.93'1"
+   edn: XQSCDW
+   item_authors: Mareev A. V., Orlov A. A., Vereshchagin I. D.
+   item_name: Architecture and Implementation of a Software System for Wheel Identification by Markings Using Incremental Learning
+   item_authors_address: |
+     <b>A. V. Mareev</b>, Postgraduate Student, a.v.mareev@yandex.ru,
+     <b>A. A. Orlov</b>, D. Sc. (Eng.), alexeyalexorlov@gmail.com,
+     <b>I. D. Vereshchagin</b>, Student, ilay.net1@gmail.com,
+     Vladimir State University named after Alexander and Nikolay Stoletovs, Vladimir, 600000, Russian Federation
+   item_corr_author: 'Andrey V. Mareev, Postgraduate Student, Vladimir State University named after Alexander and Nikolay Stoletovs, Vladimir, 600000, Russian Federation, E-mail: a.v.mareev@yandex.ru'
+   item_rec_on: September 02, 2025
+   item_acc_on: November 18, 2025
+   item_annot: |
+     <p>This article addresses the task of ensuring end-to-end traceability in railway wheel production lines using modern computer vision methods. The aim of the work is to design and develop a software system for the automatic identification of wheels based on their markings, which is a critical element for the digitalization of manufacturing processes.
+     The algorithm proposed by the authors is a multi-stage video processing pipeline based on the YOLOv11 family of neural network architecture and the ByteTrack object tracker. The pipeline involves the sequential execution of the following operations: detection and tracking of wheels in frames, precise localization of the marking area, its geometric alignment and cropping, segmentation and classification of individual characters, and the formation of a final marking based on a consensus approach that aggregates results across a series of frames.
+     A key feature of the system, distinguishing it from traditional solutions, is the implementation of an incremental fine-tuning module. This module allows for continuous improvement of recognition accuracy during operation by adapting the model to new marking types without the need for complete and resource-intensive retraining on the entire dataset.
+     The article presents the results of a comprehensive experimental study confirming the system's high efficiency. A detection performance of mAP@0.5 = 0.995 was achieved on test data, with the system demonstrating robustness to typical industrial noise (contamination, glare, lighting variations). The system's performance reaches up to 35 frames per second on high-performance hardware. The modular architecture of the developed standalone application and its user interface are described in detail. The interface ensures convenient operator interaction with the system, including capabilities for manual correction and initiating the incremental fine-tuning process.
+     The practical significance of the work lies in creating a universally applicable tool, robust to industrial noise, applicable not only in the railway industry but also in other fields of mechanical engineering for solving automated identification tasks for large-scale products.</p>
+   item_keywords: computer vision system, neural networks, feature extraction, recognition, symbols, marking, incremental learning, accuracy, railway wheels, YOLOv11
+   item_pages: 280—292
+   item_comment: 'This work was conducted with the support of the grant from the Russian Science Foundation, grant number 24-21-00386. You can find further details about the grant at the following link: https://rscf.ru/en/project/24-21-00386/.'
+   item_citation: 'Mareev A. V., Orlov A. A., Vereshchagin I. D. Architecture and Implementation of a Software System for Wheel Identification by Markings Using Incremental Learning, Programmnaya Ingeneria, 2026, vol. 17, no. 5, pp. 280—292. DOI: 10.17587/prin.17.280-292 (in Russian).'
+   item_references: |
+     <li>Kralicek J., Matas J., Busta M. Care Label Recognition, 2019 International Conference on Document Analysis and Recognition (ICDAR), Sydney, NSW, Australia, 2019, pp. 959—966. DOI: 10.1109/ICDAR.2019.00158.</li>
+     <li>Shekar Goud D., Vigneshwari M. et al. Text Localization and Recognition from Natural Scene Images using AI, 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS), Pudukkottai, India, 2022, pp. 1153—1158. DOI: 10.1109/ICACRS55517.2022.10029220.</li>
+     <li>Tourani A., Shahbahrami A., Soroori S. et al. A Robust Deep Learning Approach for Automatic Iranian Vehicle License Plate De­tection and Recognition for Surveillance Systems, IEEE Access, 2020, vol. 8, pp. 201317—201330. DOI: 10.1109/ACCESS.2020.3035992.</li>
+     <li>Xiang Z., Wu H., Zhou D. Recognition of characters on curved metal workpiece surfaces based on multi-exposure image fusion and deep neural networks, Neurocomputing, 2022, vol. 512, pp. 117—129. DOI: 10.1016/j.neucom.2022.09.022.</li>
+     <li>Xiang Z., Huang Y. A Metal Character Enhancement Method based on Conditional Generative Adversarial Networks, 2022 International Conference on Machine Vision, Automatic Identification and Detection (MVAID 2022), 2022, vol. 2284, article 012003. DOI: 10.1088/1742-6596/2284/1/012003.</li>
+     <li>Liu S., Li Y., Zhao A., Liu K., Wang J. A brake disc character recognition method based on photometric stereo and surface curvature extraction, 2019 Chinese Automation Congress (CAC), Hangzhou, China, 2019, pp. 3324—3329. DOI: 10.1109/CAC48633.2019.8996247.</li>
+     <li>Srivastava S. Comparative analysis of deep learning image detection algorithms, Journal of Big Data, 2021, vol. 8, article 66. DOI: 10.1186/s40537-021-00434-w.</li>
+     <li>Erokhin D. Y., Ershov M. D. Modern convolutional neural networks for object detection and recognition, Digital Signal Processing, 2018, no. 3, pp. 64—69 (in Russian).</li>
+     <li>Kotov N. V., Khryashchev V. V., Tikhomirov A. A. Investigation of YOLO neural network architecture for cecum detection in colonoscopy, Digital Signal Processing and Its Applications — DSPA— 2024, Moscow, Russian scientific and technical society of radio engineering, electronics and communication of name A. S. Popov, 2024, pp. 151—155 (in Russian).</li>
+     <li>Zhgutov P. E., Muraviev V. S. Comparative study of neural network algorithms for traffic density estimation, Digital Signal Processing and Its Applications DSPA—2023, Moscow, Russian scientific and technical society of radio engineering, electronics and com­munication of name A. S. Popov, 2023, pp. 205—209 (in Russian).</li>
+     <li>Kirnos V. P., Kokovkina V. A. Development of a simultaneous localization and mapping system based on neural networks, Digital Signal Processing and Its Applications DSPA—2023, Moscow, Russian scientific and technical society of radio engineering, elec­tronics and communication of name A. S. Popov, 2023, pp. 363—366 (in Russian).</li>
+     <li>Potapov E., Artamonov K., Sidorova E. YOLOv7 convolutional neural network for object detection in images for a spherical robot, Digital Signal Processing and Its Applications DSPA—2023, Moscow, Russian scientific and technical society of radio engineering, electronics and communication of name A. S. Popov, 2023, pp. 367—371 (in Russian).</li>
+     <li>Vasilev D. A., Levkin T. V., Skonnikov P. N., Trofimov D. V. A modification of YOLO object detector for real-time implementation on FPGA, Digital Signal Processing, 2022, no. 3, pp. 77—79 (in Russian).</li>
+     <li>Khryashchev V. V., Priorov A. L., Lebedev A. A. et al. Detection of polyps on colonoscopic images using algorithms based on the YOLO neural network architecture, Digital Signal Processing, 2023, no. 3, pp. 27—31 (in Russian).</li>
+     <li>Jegham N., Koh C. Y., Abdelatti M., Hendawi A. Evaluating the Evolution of YOLO (You Only Look Once) Models: A Comprehensive Benchmark Study of YOLO11 and Its Predecessors, arXiv, 2024, DOI: 10.48550/arXiv.2411.00201.</li>
+     <li>Sapkota R., Karkee M. Comparing YOLO11 and YOLOv8 for instance segmentation of occluded and non-occluded immature green fruits in complex orchard environment, arXiv, 2024, DOI: 10.48550/arXiv.2410.19869.</li>
+     <li>Mareev A. V., Orlov A. A., Vereshchagin I. D. Adaptive Recognition of Markings on Railway Wheels using Incremental Learning With YOLOv11, 2025 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), Sochi, Russian Federation, 2025, IEEE, 2025, pp. 789—793. DOI: 10.1109/ICIEAM65163.2025.11028540.</li>
+     <li>Mareev A. V., Orlov A. A., Vereshchagin I. D. Investigation of yolo neural network architecture for identification of railway wheels in video stream with incremental learning. Digital Signal Processing and Its Applications — DSPA — 2025, Moscow, Russian scientific and technical society of radio engineering, electronics and communication of name A. S. Popov, 2025, pp. 161—166 (in Russian).</li>
+     <li>Cubuk E. D., Zoph B., Shlens J., Le Q. V. RandAugment: Practical automated data augmentation with a reduced search space, arXiv, 2019. DOI: 10.48550/arXiv.1909.13719.</li>
+     <li>Bewley A., Ge Z., Ott L. et al. Simple Online and Realtime Tracking, 2016, IEEE International Conference on Image Processing (ICIP), 2016, pp. 3464—3468. DOI: 10.1109/ICIP.2016.7533003.</li>
