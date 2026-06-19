@@ -1,0 +1,206 @@
+---
+title: Номер 06 2026 год
+date: 2026-06-15
+content:
+ - doi: 17.295-306
+   udk: '004.4, 004.7'
+   edn: XCSXBX
+   item_authors: Ивашнев К. Р., Корзун Д. Ж.
+   item_name: Оценка сложности программных компонентов архитектуры на основе графового анализа
+   item_authors_address: |
+     <b>К. Р. Ивашнев</b>, аспирант, науч. сотр., ivashnev@cs.petrsu.ru,
+     <b>Д. Ж. Корзун</b>, канд. физ.-мат. наук, доц., dkorzun@cs.karelia.ru,
+     Петрозаводский государственный университет
+   item_rec_on: 2025-10-24
+   item_acc_on: 2025-12-17
+   item_annot: |
+     <p>Исследованы вопросы применения кибериммунного подхода к проектированию конструктивно-безопасных систем. Методология кибериммунной разработки включает обязательный этап оценки сложности программных компонентов для формирования минимально допустимого набора доверенных компонентов. Существующие подходы к оценке сложности программных систем основаны на характеристиках программной реализации, что затрудняет их применение на ранних этапах проектирования. В данной работе предложен метод оценки сложности программных компонентов, основанный на высокоуровневой архитектуре системы. Выполнена оценка возможностей метода на примере прикладной системы мониторинга новостных материалов об определенном географическом регионе. Полученные результаты показывают, что предлагаемый метод обеспечивает достаточные возможности для распределения компонентов по классам сложности и формирования минимального набора доверенных компонентов на ранних этапах проектирования, когда детальные характеристики программной реализации еще недоступны.</p>
+   item_keywords: графовые модели, кибербезопасность, кибериммунитет, кластерный анализ, конструктивная безопасность, системная инженерия
+   item_pages: 295—306
+   item_comment: Исследование выполнено при финансовой поддержке Именной стипендии Евгения Касперского, предоставленной Фондом поддержки молодых ученых имени Геннадия Комиссарова. Результаты исследований и разработок внедряются в образовательный процесс на базе центра образовательных программ топ-уровня в сфере информационных технологий ПетрГУ.
+   item_citation: 'Ивашнев К. Р., Корзун Д. Ж. Оценка сложности программных компонентов архитектуры на основе графового анализа // Программная инженерия. 2026. Том 17, № 6. С. 295—306. DOI: 10.17587/prin.17.295-306.'
+   item_references: |
+     <li>Назаров С. В., Барсуков А. Г. Надежность и безопасость операционных систем различной архитектуры. Часть 2 / Электроника: наука, технология, бизнес. 2023. № 9. С. 144—150. DOI: 10.22184/1992-4178.2023.230.9.144.150.</li>
+     <li>Соболев С. П. Кибериммунный подход к разработке. Иллюстрация применения на базе микросервисной архитектуры // Вестник Санкт-Петербургского университета. Сер. 10. Прикладная математика. Информатика. Процессы управления. 2024. Том 20, № 1. С. 52—61. DOI: 10.21638/11701/spbu10.2024.105.</li>
+     <li>Ajienka N., Vangorp P., Capiluppi A. An empirical analysis of source code metrics and smart contract resource consumption // Journal of Software: Evolution and Process. 2020. Vol. 32, No. 10. Р. 1—22. DOI: 10.1002/smr.2267.</li>
+     <li>Gupta M., Rajnish K., Bhattarcharjee V. Predicting Software Cost Through Entity—Relationship Diagrams: An Empirical View // Nanoelectronics, Circuits, and Communication Systems: Proceeding of NCCS 2019. 2020. P. 561—567. DOI: 10.1007/978-981-15-7486-3_51.</li>
+     <li>McManus J. Security by design: teaching secure software design and development techniques // Journal of Computing Sciences in Colleges. 2018. Vol. 33, No. 3. P. 75—82. DOI: 10.5555/3144687.3144710.</li>
+     <li>Zhou Y., Yang Y., Baowen X. et al. Source code size estimation approaches for object-oriented systems from UML class diagrams: A comparative study // Information and Software Technology. 2014. Vol. 56, No. 2. P. 220—237. DOI: 10.1016/j.infsof.2013.09.003.</li>
+     <li>Ouellet A., Badri M. Combining object-oriented metrics and centrality measures to predict faults in object-oriented software: An empirical validation // Journal of Software: Evolution and Process. 2024. Vol. 36, No. 4. Article e2548. DOI: 10.1002/smr.2548.</li>
+     <li>Mazur Z., Pec J. A Method for Information Security Analysis Using Information Graphs // Cybernetics and Systems. 2024. Vol. 55, No. 3. P. 678—692. DOI: 10.1080/01969722.2022.2162739.</li>
+     <li>Nguyen A. T., Hertzberg A., Teixeira A. M. Centrality-Based Security Allocation in Networked Control Systems // Critical Information Infrastructures Security: 19th International Conference, CRITIS 2024, Rome, Italy, 2024. Springer, 2024, P. 212—230. DOI: 10.1007/978-3-031-84260-3_13.</li>
+     <li>Ивашнев К. Р., Корзун Д. Ж. Текстовая классификация новостных статей на основе наборов ключевых слов // Цифровые технологии в образовании, науке, обществе: Мат. XVII Всерос. науч.-практ. конф., Петрозаводск, 22—24 ноября 2023 г. Изд-во ПетрГУ, 2023. С. 45—48.</li>
+     <li>Ivashnev K., Korzun D. Modelling a CyberImmune Architecture: The Case of Open-Source Intelligence Systems // 38th Conference of Open Innovations Association (FRUCT), Helsinki, Finland, IEEE, 2025, P. 112—120. DOI: 10.23919/FRUCT67853.2025.11239277.</li>
+     <li>Bakhtin A., Esposito M., Lenarduzzi V., Taibi D. Network Centrality as a New Perspective on Microservice Architecture // 2025 IEEE 22nd International Conference on Software Architecture (ICSA), Odense, Denmark, IEEE, 2025, P. 72—83. DOI: 10.1109/ICSA65012.2025.00017.</li>
+     <li>Li F., Yi T. Apply PageRank Algorithm to Measuring Relationship's Complexity // 2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application, Wuhan, China. IEEE, 2008. P. 914—917. DOI: 10.1109/PACIIA.2008.309.</li>
+     <li>Oggier F., Phetsouvanh S., Datta A. A Modular Framework for Centrality and Clustering in Complex Networks // IEEE Access. 2022. Vol. 10. P. 40001—40026. DOI: 10.1109/ACCESS.2022.3167060.</li>
+     <li>Abiodun M., Absalom E., Laith A. et al. K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data // Information Sciences 2023. Vol . 622. P. 178—210. DOI: 10.1016/j.ins.2022.11.139.</li>
+     <li>Bouguettaya A., Yu Q., Liu X. et al. Efficient agglomerative hierarchical clustering // Expert Systems with Applications. 2015. Vol. 42, No. 5. P. 2785—2797. DOI: 10.1016/j.eswa.2014.09.054.</li>
+     <li>Bhattacharjee P., Mitra P. A survey of density-based clustering algorithms // Frontiers of Computer Science 2020. Vol. 15. Article 151308. DOI: 10.1007/s11704-019-9059-3.</li>
+     <li>Kaufman L., Rousseeuw P. Finding Groups In Data: An Introduction To Cluster Analysis., New York, Wiley, 1990, 342 p.</li>
+     <li>Calinski R., Harabasz J. A dendrite method for cluster analysis // Comm. in Statistics. 1974. Vol. 3, No. 1. P. 1—27. DOI: 10.1080/03610927408827101.</li>
+     <li>Davies D., Bouldin D. A cluster separation measure // IEEE Transactions on Pattern Analysis and Machine Intelligence. 1979. Vol. PAMI-1, No. 2. P. 224—227. DOI: 10.1109/TPAMI.1979.4766909.</li>
+     <li>Ekemeyong A., Zielinska T. Comparative analysis of the clustering quality in self-organizing maps for human posture classification // Sensors. 2023. Vol. 23, No. 18. Article 7925. DOI: 10.3390/s23187925.</li>
+     <li>Nunez-Varela A., Perez-Gonzalez H., Martinez-Perez F., Soubervielle-Montalvo C. Source code metrics: A systematic mapping study // Journal of Systems and Software. 2017. Vol. 128. P. 164—197. DOI: 10.1016/j.jss.2017.03.044.</li>
+     <li>Abdulkareem S., Abboud A. Evaluating Python, C++, JavaScript and Java Programming Languages Based on Software Complexity Calculator (Halstead Metrics) // IOP conference series: Materials science and engineering. 2021. Vol. 1076, No. 1. P. 1—10. DOI: 10.1088/1757-899X/1076/1/012046.</li>
+ - doi: 17.307-318
+   udk: '681.518.5+004.052.32'
+   edn: HDPBWE
+   item_authors: Ефанов Д. В., Елина Е. И.
+   item_name: Синтез дискретных устройств с обнаружением неисправностей на основе подмножества кодовых слов взвешенного кода с суммированием
+   item_authors_address: |
+     <b>Д. В. Ефанов</b><sup>1, 2, 3, 4</sup>, д-р техн. наук, проф., TrES-4b@yandex.ru,
+     <b>Е. И. Елина</b><sup>1</sup>, аспирант, eseniya-elina@mail.ru,
+     <br>
+     <sup>1</sup> Санкт-Петербургский политехнический университет Петра Великого,
+     <br>
+     <sup>2</sup> Институт проблем транспорта им. Н. С. Соломенко Российской академии наук, Санкт-Петербург,
+     <br>
+     <sup>3</sup> Российский университет транспорта, Москва,
+     <br>
+     <sup>4</sup> Ташкентский государственный транспортный университет, Ташкент, Узбекистан
+   item_rec_on: 2025-11-10
+   item_acc_on: 2026-01-14
+   item_annot: |
+     <p>Описан новый подход к синтезу дискретных устройств с обнаружением неисправностей, основанный на использовании логической коррекции сигналов и собственного подмножества множества кодовых слов взвешенного кода с суммированием при синтезе схем встроенного контроля. Отличие подхода от известных состоит в возможности выбора кодовых слов таким образом, чтобы можно было учесть особенности потенциальных ошибок на выходах объекта диагностирования. Это требует, по сути, модификации кода и построения схемы встроенного контроля с учетом его свойств и исключает возможную избыточность при использовании стандартного подхода. В работе предложены алгоритмы синтеза схем встроенного контроля на основе логической коррекции сигналов и специальным образом сформированного подмножества множества кодовых слов взвешенного кода с суммированием. Даны результаты экспериментов, подтверждающие эффективность синтезируемых дискретных устройств по сравнению с классическим методом дублирования. Обсуждаются некоторые особенности метода и перспективы его применения при синтезе устройств и систем с обнаружением неисправностей.</p>
+   item_keywords: дискретные устройства с обнаружением неисправностей, самопроверяемые устройства, обнаружение ошибок на выходах дискретных устройств, собственное подмножество множества кодовых слов, синтез схемы встроенного контроля
+   item_pages: 307—318
+   item_citation: 'Ефанов Д. В., Елина Е. И. Синтез дискретных устройств с обнаружением неисправностей на основе подмножества кодовых слов взвешенного кода с суммированием // Программная инженерия. 2026. Том 17, № 6. С. 307—318. DOI: 10.17587/prin.17.307-318.'
+   item_references: |
+     <li>Goessel M., Ocheretny V., Sogomonyan E., Marienfeld D. New Methods of Concurrent Checking: Edition 1. Dordrecht: Springer Science + Business Media B. V., 2008. 184 p.</li>
+     <li>Chioktour V., Kakarountas A. Adaptive BIST for Concurrent On-Line Testing on Combinational Circuits // Electronics. 2022. Vol. 19, No. 11. Article 3193. DOI: 10.3390/electronics11193193.</li>
+     <li>Sahana A. R., Chiraag V., Suresh G. et al. Application of Error Detection and Correction Techniques to Self-Checking VLSI Systems: An Overview // Proceedings of 2023 IEEE Guwahati Subsection Conference (GCON), Guwahati, 2023. P. 1—6. DOI: 10.1109/GCON58516.2023.10183449.</li>
+     <li>Hahanov V., Gharibi W., Chumachenko S., Litvinova E. Vector Synthesis of Fault Testing Map for Logic // IAES International Journal of Robotics and Automation (IJRA). 2024. Vol. 13, No. 3. P. 293—306. DOI: 10.11591/ijra.v13i3.pp293-306.</li>
+     <li>Микони С. В. Общие диагностические базы знаний вычислительных систем. СПб.: СПИИРАН, 1992, 234 с.</li>
+     <li>Goessel M., Graf S. Error Detection Circuits. London: McGraw-Hill, 1994, 261 p.</li>
+     <li>Гессель М., Морозов А. В., Сапожников В. В., Сапожников Вл. В. Контроль комбинационных схем методом логического дополнения // Автоматика и телемеханика. 2005. № 8. С. 161—172.</li>
+     <li>Ghosh S., Basu S., Touba N. A. Synthesis of Low Power CED Circuits Based on Parity Codes // Proceedings of 23rd IEEE VLSI Test Symposium (VTS'05), 2005. P. 315—320.</li>
+     <li>Sapozhnikov V., Sapozhnikov Vl., Efanov D. Modular Sum Code in Building Testable Discrete Systems // Proceedings of 13th IEEE East-West Design & Test Symposium (EWDTS'2015), Batumi, Georgia, September 26—29, 2015. P. 181—187. DOI: 10.1109/EWDTS.2015.7493133.</li>
+     <li>Согомонян Е. С. Построение самопроверяемых схем встроенного контроля для комбинационных устройств // Автоматика и телемеханика. 1974. № 2. С. 121—133.</li>
+     <li>Аксенова Г. П., Согомонян Е. С. Построение самопроверяемых схем встроенного контроля для автоматов с памятью // Автоматика и телемеханика. 1975. № 7. С. 132—142.</li>
+     <li>Гессель М., Морозов А. А., Сапожников В. В., Сапожников Вл. В. Построение комбинационных самопроверяемых устройств с монотонно независимыми выходами // Автоматика и телемеханика. 1994. № 7. С. 148—160.</li>
+     <li>Гессель М., Согомонян Е. С. Построение самотестируемых и самопроверяемых комбинационных устройств со слабонезависимыми выходами // Автоматика и телемеханика. 1992. № 8. С. 150—160.</li>
+     <li>Sogomonyan E. S., Gossel M. Design of Self-Testing and OnLine Fault Detection Combinational Circuits with Weakly Independent Outputs // Journal of Electronic Testing: Theory and Applications. 1993. Vol. 4, No. 4. P. 267—281. DOI: 10.1007/BF00971975.</li>
+     <li>Дрозд А. В. Нетрадиционный взгляд на рабочее диагностирование вычислительных устройств // Проблемы управления. 2008. № 2. С. 48—56.</li>
+     <li>Согомонян Е. С., Слабаков Е. В. Самопроверяемые устройства и отказоустойчивые системы. М.: Радио и связь, 1989, 208 с.</li>
+     <li>Гессель М., Морозов А. В., Сапожников В. В., Сапожников Вл. В. Логическое дополнение — новый метод контроля комбинационных схем // Автоматика и телемеханика. 2003. № 1. С. 167—176.</li>
+     <li>Ефанов Д. В. Методы синтеза самопроверяемых дискретных устройств. М.: ЛЕНАНД, 2025, 268 с.</li>
+     <li>Сагалович Ю. Л., Соломенников В. Ю. Обнаружение неисправностей в схемной реализации системы монотонных булевых функций // Проблемы передачи информации. 1997. Том 33, № 2. С. 81—93.</li>
+     <li>Morosow A., Saposhnikov V. V., Saposhnikov Vl. V., Goessel M. Self-Checking Combinational Circuits with Unidirectionally Independent Outputs // VLSI Design. 1998. Vol. 5, No. 4. P. 333—345. DOI: 10.1155/1998/20389.</li>
+     <li>Dmitriev A., Saposhnikov V., Saposhnikov Vl. et al. New Self-Dual Circuits for Error Detection and Testing // VLSI Design. 2000. Vol. 11, No. 1. P. 1—21. DOI: 10.1155/2000/84720.</li>
+     <li>Сапожников В. В., Сапожников Вл. В., Ефанов Д. В. Коды с суммированием для систем технического диагностирования. Том 1: Классические коды Бергера и их модификации. М.: Наука, 2020. 383 с.</li>
+     <li>Сапожников В. В., Сапожников Вл. В., Ефанов Д. В. Коды с суммированием для систем технического диагностирования. Том 2: Взвешенные коды с суммированием. М.: Наука, 2021. 455 с.</li>
+     <li>Ефанов Д. В., Пивоваров Д. В. Синтез самопроверяемых дискретных устройств на основе полиномиальных кодов с контролем вычислений по нескольким диагностическим признакам // Автоматика и телемеханика. 2025. № 5. С. 39—60. DOI: 10.7868/S2413977725050036.</li>
+     <li>Ефанов Д. В. Композиции двух равновесных кодов с ортогональными по всем разрядам комбинациями для синтеза самопроверяемых дискретных устройств // Проблемы управления. 2025. № 3. С. 49—62.</li>
+     <li>Berger J. M. A Note on Error Detection Codes for Asymmetric Channels // Information and Control. 1961. Vol. 4, No. 1. P. 68—73. DOI: 10.1016/S0019-9958(61)80037-5.</li>
+     <li>Das D., Touba N. A. Weight-Based Codes and Their Application to Concurrent Error Detection of Multilevel Circuits // Proceedings of 17th IEEE Test Symposium, California, USA, 1999. P. 370—376. DOI: 10.1109/VTEST.1999.766691.</li>
+     <li>Das D., Touba N. A., Seuring M., Gossel M. Low Cost Concurrent Error Detection Based on Modulo Weight-Based Codes // Proceedings of the IEEE 6th International On-Line Testing Workshop (IOLTW), Spain, Palma de Mallorca, July 3—5, 2000. P. 171—176. DOI: 10.1109/OLT.2000.856633.</li>
+     <li>Ефанов Д. В., Елина Е. И. Синтез самопроверяемых цифровых устройств на основе логической коррекции сигналов с применением взвешенных кодов Боуза—Лина // Проблемы управления. 2024. № 4. С. 26—43. DOI: 10.25728/pu.2024.4.3.</li>
+     <li>Дмитриев В. В., Ефанов Д. В., Сапожников В. В., Сапожников Вл. В. Коды с суммированием с эффективным обнаружением двукратных ошибок для организации систем функционального контроля логических устройств // Автоматика и телемеханика. 2018. № 4. С. 105—122.</li>
+     <li>Аксенова Г. П. Необходимые и достаточные условия построения полностью проверяемых схем свертки по модулю 2 // Автоматика и телемеханика. 1979. № 9. С. 126—135.</li>
+     <li>Ефанов Д. В. Синтез самопроверяемых комбинационных устройств на основе метода логической коррекции сигналов с применением кодов Боуза—Лина // Информационные технологии. 2023. Том 29, № 10. С. 503—511. DOI: 10.17587/it.29.503-511.</li>
+     <li>Бибило П. Н. Бинарные диаграммы решений в логическом проектировании. М.: ЛЕНАНД, 2024. 560 с.</li>
+     <li>Sentovich E. M., Singh K. J., Moon C. et al. Sequential Circuit Design Using Synthesis and Optimization // Proceedings IEEE International Conference on Computer Design: VLSI in Computers & Processors, 11—14 October 1992, Cambridge, MA, USA. 1992, P. 328—333. DOI: 10.1109/ICCD.1992.276282.</li>
+     <li>Sentovich E. M., Singh K. J., Lavagno L. et al. SIS: A System for Sequential Circuit Synthesis. Electronics Research Laboratory, Department of Electrical Engineering and Computer Science, University of California, Berkeley, 4 May 1992, 45 p.</li>
+     <li>Ефанов Д. В. Синтез самопроверяемых вычислительных устройств на основе полной системы особых групп выходов объекта диагностирования // Известия высших учебных заведений. Приборостроение. 2023. Том 66, № 5. С. 355-372. DOI: 10.17586/0021-3454-2023-66-5-355-372</li>
+ - doi: 17.319-333
+   udk: '004.056'
+   edn: WJJHTW
+   item_authors: Петренко В. И., Наджаджра М. Х., Тебуева Ф. Б., Пронин В. И.
+   item_name: Метод распределенного контроля доступа при доверенном взаимодействии роботизированных агентов в децентрализованной киберфизической среде
+   item_authors_address: |
+     <b>В. И. Петренко</b><sup>1</sup>, канд. техн. наук, зав. каф., vipetrenko@ncfu.ru,
+     <b>М. Х. Наджаджра</b><sup>2</sup>, PhD, ассоциированный профессор, mnajajra@pass.ps,
+     <b>Ф. Б. Тебуева</b><sup>1</sup>, д-р физ.-мат. наук, проф., ftebueva@ncfu.ru,
+     <b>В. И. Пронин</b><sup>1</sup>, студент, vladinfotech23@gmail.com,
+     <br>
+     <sup>1</sup> Федеральное государственное автономное образовательное учреждение высшего образования «Северо-Кавказский федеральный университет», Ставрополь,
+     <br>
+     <sup>2</sup> Университет Аль-Истикляль, Иерихон, Палестина
+   item_rec_on: 2025-09-05
+   item_acc_on: 2025-12-17
+   item_annot: |
+     <p>Представлен новый гибридный метод распределенного контроля доступа для роботизированных агентов в децентрализованной киберфизической системе. Научная новизна предлагаемого метода заключается в интеграции усовершенствованной архитектуры графовых нейронных сетей внимания (CAT-GNN, Contextual Attention Temporal Graph Neural Network) с технологиями распределенного реестра (блокчейн). Предлагаемый метод, базирующийся на усовершенствованной архитектуре CAT-GNN, позволяет динамически анализировать поведенческие аномалии и адаптивно корректировать уровень доверия для формирования решений о доступе, которые затем фиксируются в неизменяемом блокчейне. Эксперименты подтвердили статистически значимое превосходство предлагаемого метода на основе архитектуры CAT-GNN над базовой архитектурой графовых нейронных сетей внимания (STAD-GNN, Spatial-Temporal Attention Dynamic Graph Neural Network) по ключевым метрикам (Accuracy, F1-мера, ROC-AUC). Внедрение динамического доверия увеличило долю корректно выполненных задач с 63 до 82 %, а также снизило долю ошибок с более чем 18 до 8 %.</p>
+   item_keywords: аномалии в киберфических системах, графовые нейронные сети, блокчейн, NFT, спатио-временной анализ, доверенное взаимодействие, распределенный контроль доступа, машинное обучение, кибербезопасность
+   item_pages: 319—333
+   item_citation: 'Петренко В. И., Наджаджра М. Х., Тебуева Ф. Б., Пронин В. И. Метод распределенного контроля доступа при доверенном взаимодействии роботизированных агентов в децентрализованной киберфизической среде // Программная инженерия. 2026. Том 17, № 6. С. 319—333. DOI: 10.17587/prin.17.319-333.'
+   item_references: |
+     <li>Salimi S., Keramat F., Queralta J. P., Westerlund T. A customizable conflict resolution and attribute-based access control framework for multi-robot systems // Journal of Systems Architecture. 2025. Vol. 168. Article 103528. DOI: 10.1016/j. sysarc.2025.103528.</li>
+     <li>Павлов А. С., Свистунов Н. Ю., Петренко В. И. и др. Система разграничения доступа к информационным ресурсам роевых робототехнических систем в условиях наличия внедренных вредоносных агентов // Информатизация и связь. 2022. № 5. С. 121—130. DOI: 10.34219/2078-8320-2022-13-5-121-130.</li>
+     <li>Feng X., Yuan Z. A Trust Evaluation Mechanism Based on Autoencoder Clustering Algorithm for Edge Device Access of IoT // Computers, Materials and Continua. 2024. Vol. 78, No. 2. P. 1881—1895. DOI: 10.32604/cmc.2023.047243.</li>
+     <li>Wang W., Liu Z., Xue L. et al. Malicious vehicle detection scheme based on UAV and vehicle cooperative authentication in vehicular networks // Computer Networks. 2025. Vol. 258. Article 111037. DOI: 10.1016/j.comnet.2025.111037.</li>
+     <li>Wang W., Liu Z., Zhang S., Liu G. Trust Score-Based Malicious Vehicle Detection Scheme in Vehicular Network Environments // Computers, Materials and Continua. 2024. Vol. 81, No. 2. P. 2517—2545. DOI: 10.32604/cmc.2024.055184.</li>
+     <li>Grillo A., Carpin S., Recchiuto C. T., Sgorbissa A. Trust as a metric for auction-based task assignment in a cooperative team of robots with heterogeneous capabilities // Robotics and Autonomous Systems. 2022. Vol. 157. Article 104266. DOI: 10.1016/j.robot.2022.104266.</li>
+     <li>Khan W. A., Ahmad F., Alanazi S. A. et al. Trust identification through cognitive correlates with emphasizing attention in cloud robotics // Egyptian Informatics Journal. 2022. Vol. 23, No. 2. P. 259—269. DOI: 10.1016/j.eij.2022.01.003.</li>
+     <li>Иванов И. В. Среда когнитивного взаимодействия элементов роботизированной системы охраны критически важных объектов // Аэрокосмическая техника, высокие технологии и инновации. 2023. Том 1. С. 99—101.</li>
+     <li>Дубенко Ю. В. Метод повторного применения и обмена опытом при коллективном взаимодействии интеллектуальных агентов // Вестник Воронежского государственного технического университета. 2022. Том 18, № 1. С. 62—72. DOI: 10.36622/VSTU.2022.18.1.007.</li>
+     <li>Han P. J., Wu X., Sui A. DTPBFT: A dynamic and highly trusted blockchain consensus algorithm for UAV swarm // Computer Networks. 2024. Vol. 250. Article 110602. DOI: 10.1016/j. comnet.2024.110602.</li>
+     <li>Xiong R., Xiao Q., Wang Z. et al. Leveraging lightweight blockchain for secure collaborative computing in UAV Ad-Hoc Networks // Computer Networks. 2024. Vol. 251. Article 110612. DOI: 10.1016/j.comnet.2024.110612.</li>
+     <li>Peelam M. S., Chamola V., Sharma A. K., Chaurasia B. K. Decentralized Trust: NFT and Blockchain-Enabled Evidence System using Fog Computing // Blockchain: Research and Applications. 2025. Article 100321. DOI: 10.1016/j.bcra.2025.100321.</li>
+     <li>Петренко В. И., Тебуева Ф. Б., Стручков И. В. и др. Метод доверенного взаимодействия агентов в децентрализованной киберфизической среде на основе технологии распределенного реестра // Прикаспийский журнал: управление и высокие технологии. 2023. № 3 (63). С. 115—125.</li>
+     <li>Сохова З. Б., Редько В. Г. Модель самоорганизации автономных агентов в децентрализованной среде // Проблемы управления. 2021. № 2. С. 42—51. DOI: 10.25728/pu.2021.2.4.</li>
+     <li>Петренко В. И. Повышение устойчивости функционирования мобильных киберфизических систем в пространственно-распределенных задачах при глубоком мультиагентном обучении с подкреплением // Перспективы науки. 2021. № 3 (138). С. 164—169.</li>
+     <li>Иванов С. В., Лозовский В. В., Савельев И. В. Методика распределенного децентрализованного управления группировкой разнородных БПЛА на основе алгоритмов иерархической кластеризации // Вопросы оборонной техники. Серия 16: Технические средства противодействия терроризму. 2024. № 3—4 (189—190). С. 3—10.</li>
+     <li>Zhu C., Zhu X., Qin T. Joint trajectory and incentive optimization for privacy-preserving UAV crowdsensing via multi-agent federated reinforcement learning // Internet of Things. 2025. Vol. 33. Article 101689. DOI: 10.1016/j.iot.2025.101689.</li>
+     <li>Nie S., Ren J., Wu R. et al. Zero-Trust Access Control Mechanism Based on Blockchain and Inner-Product Encryption in the Internet of Things in a 6G Environment // Sensors. 2025/Vol. 25. Article 550. DOI: 10.3390/s25020550.</li>
+     <li>Canonico R., Lista F., Navarro A. et al. Threat detection in reconfigurable Cyber-Physical Systems through Spatio-Temporal Anomaly Detection using graph attention network // Computers & Security. 2025. Vol. 156. Article 104509. DOI: 10.1016/j.cose.2025.104509.</li>
+     <li>Saheed Y. K., Omole A. I., Sabit M. O. GA-mADAM-IIoT: A new lightweight threats detection in the industrial IoT via genetic algorithm with attention mechanism and LSTM on multivariate time series sensor data // Sensors International. 2025. Vol. 6. Article 100297. DOI: 10.1016/j.sintl.2024.100297.</li>
+ - doi: 17.334-344
+   udk: '004.8'
+   edn: VCTUHH
+   item_authors: Андреев В. С., Кравец А. Г., Качурин Н. С.
+   item_name: Платформа автоматизированного формирования индивидуальных образовательных траекторий на основе LLM и RAG
+   item_authors_address: |
+     <b>В. С. Андреев</b>, магистрант, viktormoonwell123@yandex.ru,
+     <b>А. Г. Кравец</b>, д-р техн. наук, проф., AllaGKravets@yandex.ru,
+     <b>Н. С. Качурин</b>, магистрант, ka4urin.nik@yandex.ru,
+     Федеральное государственное бюджетное образовательное учреждение высшего образования «Волгоградский государственный технический университет»
+   item_rec_on: 2025-12-08
+   item_acc_on: 2026-02-25
+   item_annot: |
+     <p>Представлены модель и прототип платформы автоматизированного формирования индивидуальной образовательной траектории (ИОТ) на основе больших языковых моделей (Large Language Models, LLM) и генерации с дополненной выборкой (Retrieval Augmented Generation, RAG). Выполнен анализ зарубежных и российских цифровых образовательных платформ, показавший, что существующие решения в основном ориентированы на навигацию и рекомендацию отдельных курсов, а также зависят от многоэтапного тестирования и организационных ограничений, что затрудняет оперативное построение ИОТ. Предложенная платформа использует свободное текстовое описание профиля таланта с автоматическим структурированием в формат JSON и генерацией шестимесячной ИОТ. Для повышения обоснованности рекомендаций сформирован корпус курсов Stepik и реализована интеграция RAG. Эксперимент на 1000 профилях показал увеличение точности формирования ИОТ с 80 (LLM-only) до 82,28 % (LLM и RAG). При этом стратегии поиска и отбора курсов из внешнего корпуса образовательных ресурсов (Random, TF-IDF, BM25, Dense Retrieval) снижали качество по сравнению с режимом LLM-only.</p>
+   item_keywords: искусственный интеллект, LLM, RAG, индивидуальная образовательная траектория, персонализация, цифровая платформа, рекомендации, архитектура системы, JSON-данные, API
+   item_pages: 334—344
+   item_citation: 'Андреев В. С., Кравец А. Г., Качурин Н. С. Платформа автоматизированного формирования индивидуальных образовательных траекторий на основе LLM и RAG // Программная инженерия. 2026. Том 17, № 6. С. 334—344. DOI: 10.17587/prin.17.334-344.'
+   item_references: |
+     <li>Meyers M. C., van Woerkom M. The influence of underlying philosophies on talent management: Theory, implications for practice, and research agenda // Journal of World Business. 2014. Vol. 49, No. 2. P. 192—203. DOI: 10.1016/j.jwb.2013.11.003.</li>
+     <li>Huang Y., Huang J. A Survey on Retrieval-Augmented Text Generation for Large Language Models // arXiv. 2024. DOI: 10.48550/arXiv.2404.10981.</li>
+     <li>Gupta S., Ranjan R., Singh S. N. A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions // arXiv. 2024. DOI: 10.48550/arXiv.2410.12837.</li>
+     <li>Lewis P., Perez E., Piktus A. et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks // arXiv. 2021.DOI: 10.48550/arXiv.2005.11401.</li>
+     <li>Izacard G., Lewis P., Lomeli M. et al. Atlas: Few-shotLearning with Retrieval Augmented Language Models // arXiv. 2022. DOI: 10.48550/arXiv.2208.03299.</li>
+     <li>Borgeaud S., Mensch A., Hoffmann J. et al. ImprovingLanguage Models by Retrieving from Trillions of Tokens // arXiv.2022. DOI: 10.48550/arXiv.2112.04426.</li>
+     <li>Wu L., Zheng Z., Qiu Z. et al. A Survey on Large Language Models for Recommendation // arXiv. 2024. DOI: 10.48550/arXiv.2305.19860.</li>
+     <li>Rahayu N. W., Ferdiana R., Kusumawardani S. A systematic review of learning path recommender systems // Education and Information Technologies. 2023. Vol. 28, No. 6. P. 7437—7460. DOI: 10.1007/s10639-022-11460-3.</li>
+     <li>Valcarce D., Bellogin A., Parapar J., Castells P. Assessing ranking metrics in top-N recommendation // Information Retrieval Journal. 2020. Vol. 23. P. 411—448. DOI: 10.1007/s10791-020-09377-x.</li>
+     <li>Niknam M., Thulasiraman P. LPR: A bio-inspired intelligent learning path recommendation system based on meaningful learning theory // Education and Information Technologies. 2020. Vol. 25,No. 5. P. 3797—3819. DOI: 10.1007/s10639-020-10133-3.</li>
+     <li>Tzeng J. W., Huang N. F., Chuang A. C. et al. Massive open online course recommendation system based on a reinforcement learning algorithm // Neural Computing and Applications. 2025. Vol. 37. P. 11607—11618. DOI: 10.1007/s00521-023-08686-8.</li>
+     <li>Elsom-Cook M. Student modelling in intelligent tutoring systems // Artificial Intelligence Review. 1993. Vol. 7, No. 3—4. P. 227—240. DOI: 10.1007/BF00849556.</li>
+     <li>Bai Y., Zhao J., Wei T. et al. A survey of explainable knowledge tracing // Applied Intelligence. 2024. Vol. 54. P. 6483—6514. DOI: 10.1007/s10489-024-05509-8.</li>
+     <li>Maloyan N., Ashinov B., Namiot D. Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks // International Journal of Open Information Technologies. 2025. Vol. 13, No. 9. P. 1—6. DOI: 10.48550/arXiv.2505.13348.</li>
+     <li>Hwang Y., Lee D., Kang T. et al. When Wording Steers the Evaluation: Framing Bias in LLM Judges // arXiv. 2026.DOI: 10.48550/arXiv.2601.13537.</li>
+ - doi: 17.345-352
+   udk: '004.5'
+   edn: ANCIZH
+   item_authors: Читалов Д. И.
+   item_name: О разработке модуля для решателя shallowWaterFoam платформы OpenFOAM
+   item_authors_address: |
+     <b>Д. И. Читалов</b>, мл. науч. сотр., cdi9@yandex.ru,
+     Федеральное государственное бюджетное учреждение науки Южно-Уральский федеральный научный центр минералогии и геоэкологии Уральского отделения Российской академии наук, Миасс, Ильменский заповедник
+   item_rec_on: 2026-01-20
+   item_acc_on: 2026-02-10
+   item_annot: |
+     <p>Представлены механизмы, ориентированные на реализацию в графической оболочке платформы OpenFOAM дополнительных возможностей по отношению к уже существующим функциям. Проанализирована методика численного моделирования задач механики сплошных сред с помощью программы-решателя shallowWaterFoam. Описаны соображения по выбору технологического стека проекта — языка программирования, вспомогательных фреймворков, СУБД, которые необходимы для создания программной и графической составляющих программного модуля, отвечающего за генерацию численной модели средствами решателя shallowWaterFoam. Сформулированы цель решаемой задачи и этапы ее решения. Приведены структурная и процессная диаграммы, описывающие устройство приложения и логику его работы. Подведены итоги разработки модуля с демонстрацией его работы на примере фундаментальной задачи механики сплошных сред.</p>
+   item_keywords: численное моделирование, графический интерфейс пользователя, OpenFOAM, Python, открытое программное обеспечение, shallowWaterFoam, PyQt
+   item_pages: 345—352
+   item_citation: 'Читалов Д. И. О разработке модуля для решателя shallowWaterFoam платформы OpenFOAM // Программная инженерия. 2026. Том 17, № 6. С. 345—352. DOI: 10.17587/prin.17.345-352.'
+   item_references: |
+     <li>Galindo-Lopez S., Salehi F., Cleary M. J. et al. A stochastic multiple mapping conditioning computational model in OpenFOAM for turbulent combustion // Computers and Fluids. 2018. Vol. 172. P. 410—425. DOI: 10.1016/j.compfluid.2018.03.083.</li>
+     <li>Kyriazis N., Koukouvinis P., Gavaises M. Modelling cavitation during drop impact on solid surfaces // Advances in Colloid and Interface Science. 2018. Vol. 260. P. 46—64. DOI: 10.1016/j.cis.2018.08.004.</li>
+     <li>Mohseni M., Esperanca P. T., Sphaier S. H. Numerical study of wave run-up on a fixed and vertical surface-piercing cylinder subjected to regular, non-breaking waves using OpenFOAM // Applied Ocean Research. 2018. Vol. 79. P. 228—252. DOI: 10.1016/j.apor.2018.08.003.</li>
+     <li>Ченцов П. А. Об одном подходе к построению интерфейсов консольных приложений: технология TextControlPages // Программная инженерия. 2016. Том 7, № 12. С. 539—546. DOI: 10.17587/prin.7.539-546.</li>
+     <li>Читалов Д. И., Меркулов Е. С., Калашников С. Т. Разработка графического интерфейса пользователя для программного комплекса OpenFOAM // Программная инженерия. 2016. Том 7, № 12. С. 568—574. DOI: 10.17587/prin.7.568-574.</li>
+     <li>Читалов Д. И. Разработка модуля для решателя compressibleinterfoam пакета openfoam // Программная инженерия. 2025. Том 16, № 3. С. 156—164. DOI: 10.17587/prin.16.156-164.</li>
+     <li>Читалов Д. И. Разработка модуля для управления моделированием системы двух сжимаемых жидких фаз с одной дисперсной фазой на базе платформы openfoam // Прикладная информатика. 2024. Том 19, № 2 (110). С. 106—117. DOI: 10.37791/2687-0649-2024-19-2-106-117.</li>
+     <li>Дегтярь В. Г., Пегов В. И., Меркулов Е. С. Численное моделирование эволюции границы каверны при пуске торпеды // Вестник ЮУрГУ. Сер.: Матем. моделирование и программирование. 2013. Том 6, № 1. С. 5—12.</li>
+     <li>Кирюшина М. А. Численный эксперимент в задаче о распространении малых возмущений в круглой трубе // Препринты ИПМ им. М. В. Келдыша. 2024. № 48. 21 с. DOI: 10.20948/prepr-2024-48.</li>
+     <li>Longshaw S. M., Borg M. K., Ramisetti S. B. et al. mdFoam+: Advanced molecular dynamics in OpenFOAM // Computer Physics Communications. 2018. No. 224. P. 1—21. DOI: 10.1016/j.cpc.2017.09.029.</li>
