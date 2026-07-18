@@ -1,0 +1,220 @@
+---
+title: Issue N7 2026 year
+content:
+ - doi: 17.355-365
+   udk: '004.85: 004.9'
+   edn: LZGIMT
+   item_authors: Aslanov R. E., Bolshakov A. A., Veshneva I. V., Malko E. I.
+   item_name: Development of an Architecture for Analyzing a Person's Emotional State based on Facial Expression in an Immersive Learning Environment
+   item_authors_address: |
+     <b>R. E. Aslanov</b>, Cand. Sc. (Eng.), Director, aslanov.boxing@mail.ru,
+     State Budgetary Professional Educational Institution of Krasnodar Krai "Ust-Labinsk Social and Pedagogical College", Ust-Labinsk, 352330, Russian Federation,
+     <b>A. A. Bolshakov</b>, D. Sc. (Eng.), Professor, aabolshakov57@gmail.com,
+     Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation,
+     <b>I. V. Veshneva</b>, D. Sc. (Eng.), Associate Professor, Professor, veshnevaiv@mail.ru,
+     Saratov National Research State University named after N. G. Chernyshevsky, Saratov, 410012, Russian Federation,
+     <b>E. I. Malko</b>, Middle Unity Developer, 3D and GameDev Department, i@malko-pro.ru,
+     NANOSEMANTICS LABORATORY LLC, Moscow, 121357, Russian Federation
+   item_corr_author: 'Alexander A. Bolshakov, D. Sc. (Eng.), Professor, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, 195251, Russian Federation, E-mail: aabolshakov57@gmail.com'
+   item_rec_on: November 19, 2025
+   item_acc_on: February 13, 2026
+   item_annot: |
+     <p>A mathematical model and algorithm for emotion analysis are proposed. The results of developing a software package for analyzing the emotional state of learners in an immersive environment are described. A comparative analysis of existing solutions for recognizing emotional states was conducted, leading to the selection of the py-feat library (Detector module) as the one that best meets the requirements for comprehensive analysis and research re-producibility. An experiment assessing the user's emotional state while working with a multimedia simulator revealed the predominance of negative affective states. The obtained data are interpreted in the context of status functions concept, which are temporary complex-valued functions that form an orthonormal basis for acceptable system states. This revealed a systematic shift from neutral status to frustration.</p>
+   item_keywords: immersive technologies, emotional state, affective state, adaptive learning, emotional analysis, virtual reality, status functions
+   item_pages: 355—365
+   item_comment: |-
+     The work was supported by the Russian Science Foundation, grant No. 25-21-00334, "Prototype of a System for Analyzing a Person's Psychophysical State during Immersive Learning", https://rscf.ru/project/25-21-00334/, carried out at Peter the Great St. Petersburg Polytechnic University.
+   item_citation: "Aslanov R. E., Bolshakov A. A., Veshneva I. V., Malko E. I. Development of an Architecture for Analyzing a Person's Emotional State based on Facial Expression in an Immersive Learning Environment, Programmnaya Ingeneria, 2026, vol. 17, no. 7, pp. 355—365. DOI: 10.17587/prin.17.7.355—365. (in Russian)."
+   item_references: |
+     <li>Lawson A., Martella A. M. Critically reflecting on the use of immersive virtual reality in educational settings: What is known and what has yet to be shown? J. Appl. Learn, 2023, vol. 6, no. 2, pp. 121—133. DOI: 10.37074/jalt.2023.6.2.35.</li>
+     <li>Alhazzaa K., Yan W. Immersive technologies in Education: Exploring user experience and engagement in building energy simulations through AR and VR, Computers AND Education: X Reality, 2025, vol. 6, article 100097. DOI: 10.1016/j.cexr.2025.100097.</li>
+     <li>Mahmoud K., Harris I., Yassin H. et al. Does Immersive VR Increase Learning Gain When Compared to a Non-immersive VR Learning Experience? Learning and Collaboration Technologies, Human and Technology Ecosystems, Springer International Publishing, Cham, 2020, pp. 480—498. DOI: 10.1007/978-3-030-50506-6_33.</li>
+     <li>Tsybov N. N. Didactic Features of Using Training Systems in Technical Universities, Education and Self-Development, 2022, vol. 17, no. 4, pp. 267—287. DOI: 10.26907/esd.17.4.19 (in Russian).</li>
+     <li>Silva L. B. P., Barreto B. P., Pontes J. et al. Evaluation of Soft Skills through Educational Testbed 4.0, Commun. Comput. Inf. Sci., 2021, pp. 678—690. DOI: 10.1007/978-3-030-91885-9_51.</li>
+     <li>Chassidim H., Almog D., Mark S. Fostering soft skills in project-oriented learning within an agile atmosphere, Eur. J. Eng. Educ., 2018, vol. 43, no. 4, pp. 638—650. DOI: 10.1080/03043797.2017.1401595.</li>
+     <li>Protasova Yu. V., Nemtinov V. A., Shipilova V. G. et al. Hybrid Educational Environment of the University's Engineer­ing Schools for the Implementation of Early Career Guidance for Schoolchildren, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 648—661. DOI: 10.17587/prin.14.648-661 (in Russian).</li>
+     <li>Elshansky S. P. Psychophysiological Factors of Cognitive Learning Effectiveness, Psihologiya Obucheniya, 2020, no. 5, pp. 4—11 (in Russian).</li>
+     <li>Azevedo R., Gasevic D. Analyzing Multimodal Multichannel Data about Self-Regulated Learning with Advanced Learning Technologies: Issues and Challenges, Computers in Human Behavior, 2020, vol. 96, pp. 207—210. DOI: 10.1016/j.chb.2019.03.025.</li>
+     <li>Veshneva I. V. Methods for Analyzing the Psychophysical State of a Person During Learning with Immersive Technologies, Informacionnye Tekhnologii v Obrazovanii, 2024, no. 7, pp. 50—58 (in Russian).</li>
+     <li>Shouq Al Awadhi, Noor Al Habib, Dalal Al-Murad et al. Interactive virtual reality educational application, Adv Sci, Technol Eng Syst, 2018, vol. 3, no. 4, pp. 72—82. DOI: 10.25046/aj030409.</li>
+     <li>Asish S. M., Kulshreshth A. K., Borst C. W. Detecting distracted students in educational VR environments using machine learning on eye gaze data, Comput. Graph., 2022, vol. 109, pp. 75—87. DOI: 10.1016/j.cag.2022.10.007.</li>
+     <li>Kurbako A. V., Khramkov A. N., Borovkova E. I. et al. Hardware and software complex for diagnosing the psychophysi-ological state of a person in the process of solving cognitive prob­lems, Izvestiya of Saratov University. Physics, 2024, vol. 24, no. 1, pp. 19—29. DOI: 10.18500/1817-3020-2024-24-1-19-29 (in Russian).</li>
+     <li>Skvorchevsky K. A., Dyatlova O. V. Modern adaptive and intelligent digital learning systems: mechanisms and potential, Educational Studies, 2024, no. 3 (2). pp. 299—337. DOI: 10.17323/vo-2024-19751 (in Russian).</li>
+     <li>Veshneva I. V., Chistyakova T. B., Bolshakov A. A. Method for processing and interpreting data on measuring interactions in an educational environment based on status functions, Proceedings of SPIIRAS, 2016, no. 6 (49), pp. 144—166. DOI: 10.15622/sp.49.8 (in Russian).</li>
+     <li>Veshneva I. V., Bolshakov A. A., Fedorova A. E. Organi­zation of Engineering Education for the Development of Cyber-Physical Systems Based on the Assessment of Competences Using Status Functions, Studies in Systems, Decision and Control, 2020, vol. 260, pp. 277—288. DOI: 10.1007/978-3-030-32648-7_22.</li>
+     <li>Bilyi A. M., Vinnichenko A. D., Kotelnikova E. A. et al. Implementation of a software system for the analysis and correction of a person's emotional state based on their personal characteristics of physiological indicators, Bulletin of Psychophysiology, 2021, no. 2, pp. 60—72. DOI: 10.34985/e2135-0262-9089-z (in Russian).</li>
+     <li>Kharki K., Berrada K., Burgos D. Design and Implementation of a Virtual Laboratory for Physics Subjects in Moroccan Universities, Sustainability, 2021, vol. 13, no. 7, article 3711. DOI: 10.3390/su13073711.</li>
+     <li>Kok Y.-Y., Er H.-M., Nadarajah V. D. An Analysis of Health Science Students' Preparedness and Perception of Interactive Virtual Laboratory Simulation, Med. Sci. Educ., 2021, vol. 1, pp. 1919—1929. DOI: 10.1007/s40670-021-01364-1.</li>
+     <li>Tlegenova T. E., Shardakov V. M. Testing a Model of Be­havioral Classifiers in Personalized Learning, Perspectives of Science, 2020, no. 6 (129), pp. 15—18 (in Russian).</li>
+     <li>Baig M., Kavakli M. A Survey on Psycho-Physiological Analysis and Measurement Methods in Multimodal Systems, Mul-timodal Technol. Interact., 2019, vol. 3, article 37. DOI: 10.3390/mti3020037.</li>
+     <li>Shu L., Xie J., Yang M. et al. A review of emotion recognition using physiological signals, Sensors, 2018, vol. 18, no. 7, article 2074. DOI: 10.3390/s18072074.</li>
+     <li>Egger M., Ley M., Hanke S. Emotion Recognition from Physiological Signal Analysis: A Review, Electron. Notes Theor. Comput. Sci., 2019, vol. 343, pp. 35—55. DOI: 10.1016/j.entcs.2019.04.009.</li>
+     <li>Kiryukhin A. V., Alpatov A. V. Design of an automated system for assessing human affective states based on heart rate measurement while viewing video images, Programmnaya Ingeneria, 2015, no. 1, pp. 34—40 (in Russian).</li>
+     <li>Maltsev A. V. Methods for Implementing Tactile Sensa­tions in Virtual Space by Integrating Physical Objects with Their Computer Models, Programmnaya Ingeneria, 2024, vol. 15, no. 7, pp. 331—339. DOI: 10.17587/prin.15.331-339 (in Russian).</li>
+     <li>Aguilar Reyes C. I., Wozniak D., Ham A. et al. Design and evaluation of an adaptive virtual reality training system, Virtual Reality, 2023, vol. 27, pp. 2509—2528. DOI: 10.1007/s10055-023-00827-7.</li>
+     <li>Asbee J., Kelly K., McMahan T., Parsons T. Machine learning classification analysis for an adaptive virtual reality Stroop task, Virtual Reality, 2023, vol. 27, pp. 1391—1407. DOI: 10.1007/s10055-022-00744-1.</li>
+     <li>Beriev I. R., Alisultanova E. D. Adaptive learning system in an electronic environment, Bulletin of GGNTU, Technical sciences, 2021, vol. 17, no. 4 (26), pp. 5—12. DOI: 10.34708/GSTOU.2021.13.11.001 (in Russian).</li>
+     <li>Matveev A. V., Paramonov A. I. Algorithm of the adap­tive education system based on the choice of an individual trajectory, Modern education: content, technology, quality, 2023, vol. 1, pp. 450—452 (in Russian).</li>
+     <li>Tasueva Kh. Z. A., Alikhadzhiev S. Kh. The role of adaptive technologies in the modernization of educational processes, Pedagogical journal, 2024, vol. 14, no. 7-1, pp. 196—203 (in Russian).</li>
+     <li>Pulijala Y., Ma M., Pears M., Peebles D., Ayoub A. Effectiveness of immersive virtual reality in surgical training - A randomized control trial, J. Oral Maxillofac. Surg., 2018, vol. 76, no. 5, pp. 1065—1072. DOI: 10.1016/j.joms.2017.10.002.</li>
+     <li>Yoganathan S., Finch D. A., Parkin E., Pollard J. 360° virtual reality video for the acquisition of knot tying skills: a randomized controlled tria, Int. J. Surg. 54 (Pt A), 2018, pp. 24—27. DOI: 10.1016/j.ijsu.2018.04.002.</li>
+ - doi: 17.366-375
+   udk: '004.9'
+   edn: HFEFBG
+   item_authors: Povaliaev N. D., Krylatov A. Yu.
+   item_name: Analysis of Urban Transport Network Connectivity using a Self-Tuning Gaussian Kernel
+   item_authors_address: |
+     <b>N. D. Povaliaev</b>, Postgraduate Student, nikita03565@gmail.com,
+     <b>A. Yu. Krylatov</b>, D. Sc. (Phys. & Math.), Associate Professor, Head of Department, a.krylatov@spbu.ru,
+     Saint Petersburg State University, Saint Petersburg, 199034, Russian Federation
+   item_corr_author: 'Nikita D. Povaliaev, Postgraduate Student, Saint Petersburg State University, Saint Petersburg, 199034, Russian Federation, E-mail: nikita03565@gmail.com'
+   item_rec_on: November 21, 2025
+   item_acc_on: January 27, 2026
+   item_annot: |
+     <p>This paper considers methods for analyzing urban transportation networks based on their representation as weighted graphs reflecting travel-time characteristics. An approach to assessing the connectivity of street networks is proposed, which relies on constructing a proximity matrix using a Gaussian similarity function followed by graph-based clustering of transport links. The influence of similarity-function parameters and local scaling strategies on the properties of the resulting cluster structures, including their stability and interpretability, is analyzed.
+     In contrast to traditional models employing a fixed smoothing parameter, a self-tuning Gaussian kernel is introduced, in which the scale parameter is defined individually for each vertex based on the characteristics of its local neighborhood. This approach enables adaptive edge weighting and allows the spatial heterogeneity of urban transportation networks to be taken into account.
+     Functional zones of the city are identified using the Leiden algorithm, which optimizes the modularity of the cluster structure. A comparative analysis of clustering results obtained under different levels of traffic congestion is performed, reflecting changes in travel conditions from free-flow to highly congested regimes.
+     The experimental results show that, compared with models using a fixed smoothing parameter, the proposed approach yields more stable cluster partitions of the transport graph and makes it possible to identify consistent patterns in the transformation of network connectivity as traffic conditions vary. Visualization of weight distributions and cluster structures confirms the sensitivity of the model to changes in traffic conditions. The proposed approach can be applied to the analysis of urban transport connectivity and the study of spatio-temporal patterns of urban mobility.</p>
+   item_keywords: self-tuning Gaussian kernel, connectivity analysis, transportation network, graph clustering, spatial data processing, traffic flow management, urban mobility, urban planning
+   item_pages: 366—375
+   item_citation: 'Povaliaev N. D., Krylatov A. Yu. Analysis of Urban Transport Network Connectivity using a Self-Tuning Gaussian Kernel, Programmnaya Ingeneria, 2026, vol. 17, no. 7, pp. 366—375. DOI: 10.17587/prin.17.366-375. (in Russian).'
+   item_references: |
+     <li>Rahman Md. M., Nower N. Attention Based Deep Hybrid Networks for Traffic Flow Prediction Using Google Maps Data, Proceedings of the 2023 8th International Conference on Machine Learning Technologies, Stockholm, Sweden, ACM, 2023, pp. 74—81. DOI: 10.1145/3589883.3589894.</li>
+     <li>Argota Sanchez-Vaquerizo J. Getting Real: The Challenge of Building and Validating a Large-Scale Digital Twin of Barcelona's Traffic with Empirical Data, ISPRS International Journal of Geo-Information, 2021, vol. 11, no. 1, article 24. DOI: 10.3390/ijgi11010024.</li>
+     <li>Mostafi S., Elgazzar K. An Open Source Tool to Extract Traffic Data from Google Maps: Limitations and Challenges, 2021 International Symposium on Networks, Computers and Communications (ISNCC), Dubai, UAE, IEEE, 2021, pp. 1—8. DOI: 10.1109/ISNCC52172.2021.9615680.</li>
+     <li>Boeing G. OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks, Computers, Environment and Urban Systems, 2017, vol. 65, pp. 126—139. DOI: 10.1016/j.compenvurbsys.2017.05.004.</li>
+     <li>Blondel V. D., Guillaume J.-L., Lambiotte R., Lefebvre E. Fast Unfolding of Communities in Large Networks, J. Stat. Mech., 2008, vol. 2008, no. 10, article P10008. DOI: 10.1088/1742-5468/2008/10/P10008.</li>
+     <li>Traag V. A., Waltman L., Van Eck N. J. From Louvain to Leiden: Guaranteeing Well-Connected Communities, Sci. Rep., 2019, vol. 9, no. 1, р. 5233. DOI: 10.1038/s41598-019-41695-z.</li>
+     <li>Povaliaev N. D., Krylatov A. Yu. Automation of Traffic Data Extraction and Processing Using Map Services, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 347—357. DOI: 10.17587/prin.16.347-357 (in Russian).</li>
+     <li>Povaliaev N. D., Krylatov A. Yu., Shatalova N. V. Methods of Cluster Analysis of Road Networks for Bottleneck Detection and  Traffic Optimization, T-Comm, 2025, vol. 19, no. 7, pp. 34—40. DOI: 10.36724/2072-8735-2025-19-7-34-40 (in Russian).</li>
+     <li>Zelnik-Manor L., Perona P. Self-Tuning Spectral Clustering, Proceedings of the 18th International Conference on Neural Infor­mation Processing Systems (NIPS'04), Cambridge, MA, USA, MIT Press, 2004, pp. 1601—1608.</li>
+     <li>Boeing G., Higgs C., Liu S. et al. Using Open Data and Open-Source Software to Develop Spatial Indicators of Urban De­sign and Transport Features for Achieving Healthy and Sustainable Cities, The Lancet Global Health, 2022, vol. 10, no. 6, pp. e907— e918. DOI: 10.1016/S2214-109X(22)00072-9.</li>
+     <li>Boeing G. Urban Spatial Order: Street Network Orientation, Configuration, and Entropy, Applied Network Science, 2019, vol. 4, no. 1, article 67. DOI: 10.1007/s41109-019-0189-1.</li>
+     <li>Newman M. E. J. Modularity and Community Structure in Networks, Proc. Natl. Acad. Sci. U.S.A., 2006, vol. 103, no. 23, pp. 8577—8582. DOI: 10.1073/pnas.0601602103.</li>
+     <li>Lancichinetti A., Fortunato S. Community Detection Algorithms: A Comparative Analysis, Phys. Rev. E, 2009, vol. 80, no. 5, article 056117. DOI: 10.1103/PhysRevE.80.056117.</li>
+     <li>von Luxburg U. A Tutorial on Spectral Clustering, arXiv, 2007. DOI: 10.48550/arXiv.0711.0189.</li>
+     <li>Zheng H., Yang R., Xu J. Adaptive Local Clustering Over Attributed Graphs, 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, IEEE, 2025, pp. 2052—2065. DOI: 10.1109/ICDE65448.2025.00156.</li>
+     <li>Zeng Y., Chen J., Li Y. et al. Clustering via Adaptive and Locality-Constrained Graph Learning and Unsupervised ELM, Neurocomputing, 2020, vol. 401, pp. 224—235. DOI: 10.1016/j.neu-com.2020.03.045.</li>
+     <li>Hasan S., Schneider C. M., Ukkusuri S. V., Gonzalez M. C. Spatiotemporal Patterns of Urban Human Mobility, J. Stat. Phys., 2013, vol. 151, no. 1—2, pp. 304—318. DOI: 10.1007/s10955-012-0645-0.</li>
+     <li>Louail T., Lenormand M., Cantu Ros Oliva G. et al. From Mobile Phone Data to the Spatial Structure of Cities, Sci. Rep., 2014, vol. 4, article 5276. DOI: 10.1038/srep05276.</li>
+     <li>Morea F., De Stefano D. Enhancing Stability and Assessing Uncertainty in Community Detection through a Consensus-Based Approach, arXiv, 2024. DOI: 10.48550/arXiv.2408.02959.</li>
+     <li>Maier M., Hein M., von Luxburg U. Optimal Construction of k-Nearest-Neighbor Graphs for Identifying Noisy Clusters, Theoretical Computer Science, 2009, vol. 410, no. 19, pp. 1749—1764. DOI: 10.1016/j.tcs.2009.01.009.</li>
+ - doi: 17.376-390
+   udk: '681.5:004.89'
+   edn: OYSPVJ
+   item_authors: Lemeshev I. R., Bulykin S. S., Solovyev A. A., Mikhalev A. S.
+   item_name: Intelligent Autopilot Agent based on Neural Network Technologies in an Autonomous Driving Simulation Environment
+   item_authors_address: |
+     <b>I. R. Lemeshev</b>, Bachelor, igor.lemeshev.ai@gmail.com,
+     <b>S. S. Bulykin</b>, Bachelor, sb17092004@mail.ru,
+     <b>A. A. Solovyev</b>, Bachelor, alexsolovyvev@mail.ru,
+     <b>A. S. Mikhalev</b>, Senior Lecturer at the Department of Software Engineering, asmikhalev@yandex.ru,
+     Institute of space and information technologies, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation
+   item_corr_author: 'Anton S. Mikhalev, Senior Lecturer at the Department of Software Engineering, Institute of space and information technologies, Siberian Federal University, Krasnoyarsk, 660041, Russian Federation, E-mail: asmikhalev@yandex.ru'
+   item_rec_on: September 15, 2025
+   item_acc_on: January 27, 2026
+   item_annot: |
+     <p>The paper presents the architecture of an intelligent agent for end-to-end autonomous vehicle control based on the M3Drive neural network and multimodal data fusion in the CARLA simulation environment. The proposed approach combines visual features (depth maps and panoptic segmentation for reconstructing 3D geometry and scene semantics), navigation commands and spatial coordinates of route control points, as well as time series of agent states (history of control actions and critical event indicators).
+     The model architecture includes specialized encoders for each data type: EfficientNet-lite0 for visual modalities followed by cross-attention fusion, bidirectional LSTM with an attention mechanism for processing temporal context, and a gating module for tabular features. The combined representations are fed into a multilayer perceptron with residual blocks and multi-task output "heads" that predict continuous control actions: steering angle, acceleration, and braking.
+     Training was conducted in two stages with a weighted loss function. In the second stage, the model was fine-tuned using scenarios involving turns and reactions to traffic lights, which reduced steering errors by more than half.
+     Experimental results at the independent test site confirmed the effectiveness of the system: a route completion rate (RC) of 89 % and an integral driving score (DS) of 67.6 were achieved at a high performance of 58 FPS.
+     The results confirm the applicability of the proposed architecture for creating lightweight real-time autonomous driving systems and lay the foundation for transfer to the Mitsubishi i-MiEV physical platform.</p>
+   item_keywords: intelligent transportation systems, autonomous driving, intelligent agent, neural networks, multimodal data, panoptic segmentation, depth map, simulation learning
+   item_pages: 376—390
+   item_citation: 'Lemeshev I. R., Bulykin S. S., Solovyev A. A., Mikhalev A. S. Intelligent Autopilot Agent based on Neural Network Technologies in an Autonomous Driving Simulation Environment, Programmnaya Ingeneria, 2026, vol. 17, no. 7, pp. 376—390. DOI: 10.17587/prin.17.376-390 (in Russian).'
+   item_references: |
+     <li>Chib P. S., Singh P. Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A survey, IEEE Transactions on Intelligent Vehicles, 2023, vol. 9, no. 1, pp. 103—118. DOI: 10.1109/TIV.2023.3318070.</li>
+     <li>Bojarski M., Del Testa D., Dworakowski D. et al. End to end learning for self-driving cars, arXiv preprint arXiv:1604.07316, 2016. DOI: 10.48550/arXiv.1604.07316.</li>
+     <li>Pomerleau D. A. ALVINN: An Autonomous Land Vehicle in a Neural Network, Advances in Neural Information Processing Systems, 1989, vol. 1, pp. 305—313.</li>
+     <li>Codevilla F., Miiller M., Lopez A. et al. End-to-end driving via conditional imitation learning, IEEE international conference on robotics and automation (ICRA), 2018, Brisbane, QLD, Australia, 2018, pp. 4693—4700. DOI: 10.1109/ICRA.2018.8460487.</li>
+     <li>Bansal M., Krizhevsky A., Ogale A. ChauffeurNet: Learning to drive by imitating the best and synthesizing the worst, arXiv preprint arXiv:1812.03079, 2018.</li>
+     <li>Ross S., Gordon G. J., Bagnell J. A. A reduction of imitation learning and structured prediction to no-regret online learning, Proceedings of the fourteenth international conference on artificial intelligence and statistics, JMLR Workshop and Conference Proceedings, 2011, pp. 627—635.</li>
+     <li>Hu A., Corrado G., Griffiths N. et al. Model-based imitation learning for urban driving, Advances in Neural Information Processing Systems, 2022, vol. 35, pp. 20703—20716.</li>
+     <li>Ho J., Ermon S. Generative adversarial imitation learning, Advances in neural information processing systems, 2016, vol. 29, pp. 4565—4573.</li>
+     <li>Kuefler A., Morton J., Wheeler T., Kochenderfer M. Imitating driver behavior with generative adversarial networks, Intelligent Vehicles Symposium (IV), IEEE, 2017, pp. 204—211.</li>
+     <li>Liang X., Wang T., Yang L., Xing E. Cirl: Controllable imitative reinforcement learning for vision-based self-driving, Pro­ceedings of the European conference on computer vision (ECCV), 2018, CCV 2018. Lecture Notes in Computer Science, Vol. 11211. Springer, Cham, 2018, pp. 584—599. DOI: 10.1007/978-3-030-01234-2_36.</li>
+     <li>Xiao Y., Codevilla F., Porres D., Lopez A. M. Scaling vision-based end-to-end autonomous driving with multi-view attention learning, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2023, pp. 1586—1593.</li>
+     <li>Chitta K., Prakash A., Jaeger B. et al. TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, IEEE transactions on pattern analysis and machine intelligence, 2022, vol. 45, no. 11, pp. 12878—12895. DOI: 10.1109/TPAMI.2022.3200245.</li>
+     <li>Dosovitskiy A., Ros G., Codevilla F. et al. CARLA: An open urban driving simulator, Conference on robot learning, PMLR, 2017, pp. 1—16.</li>
+     <li>Tan M., Le Q. V. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, International conference on machine learning, PMLR, 2019, pp. 6105—6114.</li>
+ - doi: 17.391-403
+   udk: '004.02'
+   edn: WTWVEM
+   item_authors: Sukhikh I. I.
+   item_name: A Tool for Analyzing the Deviation of an IT Specialist Curriculum from a Harmonized Standard
+   item_authors_address: |
+     <b>I. I. Sukhikh</b>, Postgraduate Student, vargostelemax@gmail.com,
+     Perm National Research Polytechnic University, Perm, 614990, Russian Federation
+   item_corr_author: 'Ilya I. Sukhikh, Postgraduate Student, Perm National Research Polytechnic University, Perm, 614990, Russian Federation E-mail: vargostelemax@gmail.com'
+   item_rec_on: November 06, 2025
+   item_acc_on: December 18, 2025
+   item_annot: |
+     <p>This article examines the design principles and implementation approaches for a tool designed to analyze devia­tions of IT specialist curricula from a perfectly harmonized standard. Harmonization refers to the alignment of curriculum structure across substantive, logical, temporal, and methodological parameters, ensuring the integrity of the educational process and the absence of duplication. A mathematical model of a perfectly harmonized curriculum is presented, based on multicriteria optimization, including indicators of discipline continuity, duplication index, and discipline graph cohesion.
+     An experiment was conducted using the example of the 09.03.01 "Informatics and Computer Engineering" program at Perm National Research Polytechnic University. This experiment demonstrated that the proposed model allows for a quantitative assessment of curriculum deviations from the standard and the identification of bottlenecks requiring substantive and organizational correction. The results demonstrate the potential of the proposed approach for improving educational program planning and enhancing their internal consistency.</p>
+   item_keywords: decision support system, curriculum management, IT specialist training, curriculum, harmonization, standard model, knowledge gaps, content duplication, course sequence, continuous learning, Python
+   item_pages: 391—403
+   item_citation: 'Sukhikh I. I. A Tool for Analyzing the Deviation of an IT Specialist Curriculum from a Harmonized Standard, Programmnaya Ingeneria, 2026, vol. 17, no. 7, pp. 391—403. DOI: 10.17587/prin.17.391-403. (in Russian).'
+   item_references: |
+     <li>Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I. Harmonization Status Analysis of 09.03.01 "Computer Science and Com­puter Engineering" Discipline, Bulletin of Perm University. Math­ematics. Mechanics. Computer Science, 2024, no. 1 (64), pp. 53—59. DOI: 10.17072/1993-0550-2024-1-53-59 (in Russian).</li>
+     <li>Sukhikh I. I. Models and algorithms of the system for improving the quality of training of IT-specialists on the basis of curriculum harmonization, Nonlinear world, 2025, vol. 23, no. 1, pp. 35—45. DOI: 10.18127/J20700970-202501-05 (in Russian).</li>
+     <li>Yarullin D. V. Intelligent control system for IT specialists training based on denotative analytics, Applied Mathematics and Control Sciences, 2022, no. 3, pp. 141—164. DOI: 10.15593/24999873/2022.3.08 (in Russian).</li>
+     <li>Sukhikh I. I. Intelligent Curriculum Management System for Training an IT Specialist, Programmnaya Ingeneria, 2026, vol. 17, no. 1, pp. 27—39. DOI: 10.17587/prin.17.27-39 (in Russian).</li>
+     <li>Kuzmina E. A. Models and optimization of curricula in educational systems. Dissertation of Ph. D. Ufa. 2002. 155 p. (in Russian).</li>
+     <li>Naumova S. V. Models and methods for automated synthesis of higher education curricula. Abstract of dissertation of Ph. D. Saratov. 2005. 20 p. (in Russian).</li>
+     <li>Kotov S. S. A model for managing the curriculum of com­petence-oriented educational programs taking into account the preferences of various social groups. Abstract of dissertation of Ph. D. Moscow. 2010. 18 p. (in Russian).</li>
+     <li>Istomin A. L. Methodological foundations for optimal planning of the educational process at a university. Dissertation of D. Sc. Astrakhan. 2012. 332 p. (in Russian).</li>
+     <li>Zykova T. V., Kytmanov A. A., Khalturin E. A. et al. The algorithm for analysis and evaluation of educational programs curricula, Informatics and Education, 2024, vol. 39, no. 1, pp. 52—64. DOI: 10.32517/0234-0453-2024-39-1-52-64 (in Russian).</li>
+     <li>Rubin Yu., Mozhzhukhin D., Alekseeva E. Continuous Entrepreneurship Education: Formation of an Innovative Model (2021 Experience), Journal of Modern Competition, 2021, vol. 15, no. 4, pp. 91—108. DOI: 10.37791/2687-0657-2021-15-4-91-108 (in Russian).</li>
+     <li>Strunina N. V. E-learning resource "BRITAIN AND THE BRITISH" as a didactic tool of formation of intercultural competence at secondary schools and universities, Sovremennye problem nauki i obrazovaniya, 2020, no. 6, pp. 1—8. DOI: 10.17513/spno.30452 (in Russian).</li>
+     <li>Namahoot C. S., Namahoot K. S., Nuntawong C., Suk-ma N. ONTO-ALIGN: An Ontology-based Framework for Evalu­ating Curriculum Alignment with Educational Standards in Computer Science, Interdisciplinary Journal of Information, Knowledge, and Management, 2025, vol. 20, pp. 1—27. DOI: 10.28945/5600.</li>
+     <li>Piriyapongpipat P., Goldin S., Ditcharoen N. An alternative approach to ontology-based curriculum development in higher education, Smart Learn. Environ., 2024, vol. 11, article 20. DOI: 10.1186/s40561-024-00307-8.</li>
+     <li>Dedic F., Bijedic N., Gaspar D. Genetic algorithms as a tool for development of balanced curriculum, Interdisciplinary Description of Complex Systems, 2020, vol. 18, no. 2, pp. 175—193. DOI: 10.7906/indecs.18.2.8.</li>
+     <li>de Blas C., Gomez-Gonzalez D., Criado R. Network analysis: An indispensable tool for curricula design. A real case-study of the degree on mathematics at the URJC (Spain), PLoS ONE, 2021, vol. 16, no. 3, article e0248208. DOI: 10.1371/journal.pone.0248208.</li>
+     <li>Yurchishina M. V. Functional Model of the Optimal Cur­riculum Decision Support System, Russian Journal of Cybernetics, 2025, vol. 6, no. 2, pp. 114—125 (in Russian).</li>
+     <li>Kutenkova E. Y., Larina T. V. Optimizing the curriculum based on production requirements, Aktualnie voprosy obrazovaniya, 2025, no. 1, pp. 101—107. DOI: 10.33764/2618-8031-2025-1-101-107 (in Russian).</li>
+     <li>Murdoch D. Development of an ontology of course design in higher education (Dissertation). Australia, Charles Sturt University, 2024. 310 p.</li>
+     <li>Fayzrakhmanov R. A., Dolgova E. V., Sukhikh I. I. Algo­rithm for Extracting Key Concepts from Educational Programs of IT Specialists using the Hybrid Context Ranking Method, Programmnaya Ingeneria, 2025, vol. 16, no. 7, pp. 334—346. DOI: 10.17587/prin.16.334—346 (in Russian).</li>
+     <li>de Koning B. Extracting Sections From PDF-Formatted CTI Reports, Proceedings of the 37th Twente Student Conference on IT, En-schede, Netherlands, University of Twente, 2022, pp. 1—9.</li>
+     <li>Fantechi A., Gnesi S., Livi S., Semini L. A spaCy-based tool for extracting variability from NL requirements, Proceedings of the 25th ACM International Systems and Software Product Line Conference (SPLC'21), New York, NY, USA, Association for Computing Machinery, 2021, pp. 32—35. DOI: 10.1145/3461002.3473074.</li>
+     <li>Redkina O. Yu., Karpeta T. V., Ponomareva D. S. et al. Machine learning in the adaptation of educational texts: lexical aspect, Bulletin of Chelyabinsk State University, 2024, no. 8 (490), pp. 220—229. DOI: 10.47475/1994-2796-2024-490-8-220-229 (In Russian).</li>
+     <li>Colangelo M. T., Meleti M., Guizzardi S. et al. A comparative analysis of Sentence Transformer models for automated journal recommendation using PubMed metadata, Big Data and Cognitive Computing, 2025, vol. 9, no. 3, article 67. DOI: 10.3390/bdcc9030067.</li>
+ - doi: 17.404-412
+   udk: '004.8'
+   edn: BZRJDI
+   item_authors: Ndungi R., Blekanov I. S.
+   item_name: 'Forecasting IT Skill Demand in the East African Labor Market: A BERT-Based Analytical Framework'
+   item_authors_address: |
+     <b>R. Ndungi</b>, Student, rebeccahndungi94@gmail.com,
+     <b>I. S. Blekanov</b>, Cand. Sc. (Eng.), Associate Professor, Head of the Department, i.blekanov@spbu.ru,
+     St. Petersburg State University, 199034, Russian Federation
+   item_corr_author: 'Rebeccah Ndungi, Student, Faculty of Mathematics and Computer Science, St. Petersburg State University, Saint Petersburg, 199034, Russian Federation, E-mail: rebeccahndungi94@gmail.com'
+   item_rec_on: February 20, 2026
+   item_acc_on: March 31, 2026
+   item_annot: |
+     <p>This research addresses the critical misalignment between IT skill supply and demand in East Africa by proposing a novel forecasting framework based on a Bidirectional Encoder Representations from Transformers (BERT) model. Existing labor market information systems often provide retrospective analyses, leaving policymakers and educators without the foresight needed to adapt curricula and training programs proactively. To bridge this gap, this research develops and validates a predictive analytics framework designed to forecast IT skill demand. The methodology applies a contextually fine-tuned BERT model to perform semantic analysis on unstructured data from regional job markets. This enables the precise extraction and categorization of IT competencies from natural language text. The framework is designed to generate predictive insights into future skill requirements. The goal is to provide timely, data-driven intelligence to directly inform education policy, curriculum development, and targeted upskilling initiatives, thereby supporting a more responsive digital workforce in the region. The forecast findings show Excel with a 0.05x multiplier growth (slow growth, though current demand is high), while Java and JavaScript have higher demand. The jobs distribution charts show web development at 43 % and Cloud/DevOps at 41 %. By generating granular, forward-looking intelligence, this framework equips educational institutions, training providers, and government bodies with the evidence base required to align skill development with the trajectory of the digital economy, fostering a more responsive and competitive workforce in the region.</p>
+   item_keywords: Skills Forecasting, BERT Model, Digital Workforce, Labor Market Analysis, East Africa
+   item_pages: 404—412
+   item_citation: 'Ndungi R., Blekanov I. S. Forecasting IT Skill Demand in the East African Labor Market: A BERT-Based Analytical Framework, Programmnaya Ingeneria, 2026, vol. 17, no. 7, pp. 404—412. DOI: 10.17587/prin.17.404-412.'
+   item_references: |
+     <li>Shariff K., Mlay D. F., Owino S. O. Generating Evidence from Life Skills Assessments to Inform Policy in East Africa, Enabling Power of Assessment, 2024, vol. 11, pp. 17—30. DOI: 10.1007/978-3-031-51490-6_2.</li>
+     <li>Maroko A., Ndivo G. M., Maroko L. M. Youth Employabil-ity: Fostering University-Industry Links in Syllabus Design, East African Journal of Education Studies, 2021, vol. 3, no. 1, pp. 172—184. DOI: 10.37284/eajes.3.1.360.</li>
+     <li>Atwine B., Okumu I. M., Nnyanzi J. B. What drives the dy­namics of employment growth in firms? Evidence from East Africa, Journal of Innovation and Entrepreneurship, 2023, vol. 12, article 33. DOI: 10.1186/s13731-023-00295-y.</li>
+     <li>Osumbah B. A., Wekesa P. Development in technical and vocational education and training: Synopsis and implications of education policies for right skills in Kenya, Educational Research and Reviews, 2023, vol. 18 (8), pp. 181—193. DOI: 10.5897/err2023.4328.</li>
+     <li>Barigye D. Technical Vocational Education and Training in Uganda: Career guidance and practices, African Journal of Career Development, 2024, vol. 6, no. 1, article a100. DOI: 10.4102/ajcd.v6i1.100.</li>
+     <li>de Jongh J. J. J., Mncayi-Makhanya P., Mdluli-Maziya P. Antecedents of youths who are not in employment, education or training: Micro-level evidence, Journal of Economic and Financial Sciences, 2024, vol. 17, no. 1, article a899. DOI: 10.4102/jef.v17i1.899.</li>
+     <li>Khakina P. N. Solving Unemployment in Kenya by Integrating Education, Training and Market, International Journal of Research and Innovation in Social Science, 2024, no. VIII (IIIS), pp. 3331—3337. DOI: 10.47772/ijriss.2024.803239s.</li>
+     <li>Siringi E. Putting Skills First: Analysis of Kenyan Universities' Preparedness in Shaping Graduates Skills Knowledge for Employability [Internet], SSRN Electronic Journal, 2025 Apr. 24. DOI: 10.2139/ssrn.5228458.</li>
+     <li>Elnahrawi N. The Role of Digital Transformation in Af­rica's Regional Integration, SSRN Electronic Journal, 2022 Dec. 1. DOI: 10.2139/SSRN.4595317.</li>
+     <li>Republic of Kenya. Kenya Vision 2030: A Globally Competitive and Prosperous Kenya. Nairobi: Government of the Republic of Kenya, Ministry of Planning and National Development and the National Eco­nomic and Social Council (NESC), Office of the President, 2007, 136 p.</li>
+     <li>Bhattarai P. C., Parajuli M. N., Gautam S. et al. Edu­cation—work transition: skill gaps in the construction industry, Front Built Environ, 2025, vol. 11, article 1623609. DOI: 10.3389/fbuil.2025.1623609.</li>
+     <li>Kinyondo A. A., Shija H., Kinyondo A. A., Shija H. Perspective Chapter: Youth Skills and Unemployment — Perceived Inadequate Soft Skills and Coping Strategies of Employers in Tanzania, Unemployment—Nature, Challenges and Policy Responses, 2023. Dec 11. DOI: 10.5772/intechopen.1003645.</li>
+     <li>Oliver E., Oliver W., Bonvillian W. B. et al. Global Initiatives and Higher Education in the Fourth Industrial Revolution. UJ Press. 2022 Aug. 11. DOI: 10.36615/9781776405619.</li>
+     <li>Muchiri D. G. Skilling, reskilling, and upskilling a work-force: a perspective from kenyan enterprises, Strategic Journal of Business & Change Management, 2022, vol. 9, no. 4, pp. 190—203. DOI: 10.61426/sjbcm.v9i4.2368.</li>
+     <li>Onsomu E., Munga B., Nyabaro V. et al. Assessment of Youth Employment Policies and Their Impacts in Kenya, Youth Employment Programmes in Africa, 2025, Jan. 1, pp. 63—86. DOI: 10.4324/9781003589501-4.</li>
+     <li>Qin C., Zhang L., Cheng Y. et al. A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics, Proceedings of the IEEE, 2025, vol. 113, no. 2, pp. 125—171. DOI: 10.1109/JPROC.2025.3572744.</li>
+     <li>Yu R., Das S., Gurajada S. et al. A Research Framework for Understanding Education-Occupation Alignment with NLP Techniques, Proceedings of the 1st Workshop on NLP for Positive Impact, Online: Association for Computational Linguistics, 2021, Aug., pp. 100—106. DOI: 10.18653/v1/2021.nlp4posimpact-1.11.</li>
+     <li>Kabir M. A., Abdelfatah K., He S. et al. Forecasting Applica­tion Counts in Talent Acquisition Platforms: Harnessing Multimodal Signals using LMs, arXiv, 2024. DOI: 10.48550/arXiv.2411.15182.</li>
+     <li>Ong X. Q., Hui Lim K. SkillRec: A Data-Driven Approach to Job Skill Recommendation for Career Insights. 2023 15th International Conference on Computer and Automation Engineering, ICCAE 2023, Sydney, Australia, 2023, pp. 40—44. DOI: 10.1109/ICCAE56788.2023.10111438.</li>
+     <li>Nurfaizah R. J., Ahsan M., Lee M. H. A hybrid approach to hospital quality monitoring based on google maps reviews: Inte­grating p-control charts and bidirectional encoder representations from transformers (BERT). International Journal of Data and Net­work Science, 2025, vol. 9, no. 4, pp. 1081—1106. DOI: 10.5267/j.ijdns.2024.9.012.</li>
+     <li>Lu K., Wang Z., Mardziel P., Datta A. Influence Patterns for Explaining Information Flow in BERT, Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021 (NeurIPS 2021), Virtual: Curran Associates, 2021 Dec 6-14, pp. 4461-4474. DOI: 10.48550/arXiv.2011.00740.</li>
+     <li>Uto M., Aramaki K. Linking essay-writing tests using many-facet models and neural automated essay scoring, Behavior Research Methods, 2024, vol. 56, no. 8, pp. 8450—8479. DOI: 10.3758/s13428-024-02485-2.</li>
