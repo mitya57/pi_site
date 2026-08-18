@@ -1,0 +1,204 @@
+---
+title: Issue N8 2026 year
+content:
+ - doi: 17.415-425
+   udk: '004.056.5'
+   edn: RRHPZP
+   item_authors: Sobolev P. S., Kotenko I. V.
+   item_name: Web Application Attack Detection Methodology Based on a Combination of Gradient Boosting, Transformers, and Neural Networks
+   item_authors_address: |
+     <b>P. S. Sobolev</b>, Postgraduate Student, pavels21@bk.ru,
+     Saint Petersburg National Research University of Information Technologies, Mechanics, and Optics, Saint Petersburg, 197101, Russian Federation,
+     <b>I. V. Kotenko</b>, D. Sc. (Eng.), Professor, Honored Scientist of the Russian Federation, Chief Researcher, ivkote@comsec.spb.ru,
+     Saint Petersburg Federal Research Center of the Russian Academy of Sciences, Saint Petersburg, 199178, Russian Federation
+   item_corr_author: 'Pavel S. Sobolev, Postgraduate Student, Saint Petersburg National Research University of Information Technologies, Mechanics, and Optics, Saint Petersburg, 197101, Russian Federation, E-mail: pavels21@bk.ru'
+   item_rec_on: May 21, 2026
+   item_acc_on: June 02, 2026
+   item_annot: |
+     <p>The growing number of attacks on web applications and the increasing volume of HTTP traffic strengthen the requirements for automatic malware detection systems. The aim of the research is to develop a technique for detecting attacks on web applications based on a cascade approach, which allows combining a quick initial analysis of incoming requests with a more detailed classification of potentially dangerous traffic. The proposed methodology is based on the sequential (step-by-step) application of two models that differ in purpose and computational complexity. The first stage performs binary filtering of HTTP requests and is designed to promptly exclude legitimate traffic from further processing. The second stage applies only to requests deemed suspicious and solves the task of multiclass classification by identifying the type of attack. Due to this separation, resource-intensive processing is not used for the entire data stream, but only for its most significant part, which reduces the computational load of the system. The paper also presents a technique for detecting attacks on web applications, describing the full cycle of building and applying the proposed cascade model. It allows us to consider the model not only as an experimental solution, but also as a consistent procedure suitable for practical implementation. Experimental verification of the proposed approach demonstrates that the cascading organization of the analysis makes it possible to reduce the number of requests submitted for in-depth verification without significantly reducing the ability of the model to detect malicious requests. The proposed approach is aimed at eliminating one of the significant limitations of existing solutions, which is the gap between the high quality of classification and the practical applicability of the model when processing an intensive stream of HTTP requests.</p>
+   item_keywords: web application attack detection, machine learning, transformer, deep learning, convolutional neural networks, multilayer perceptron, cascade model, attack detection methodology, SQL injection, XSS attacks
+   item_pages: 415—425
+   item_comment: The work was carried out with partial financial support from budget topic FFZF-2025-0016
+   item_citation: 'Sobolev P. S., Kotenko I. V. Web Application Attack Detection Methodology Based on a Combination of Gradient Boosting, Transformers, and Neural Networks, Programmnaya Ingeneria, 2026, vol. 17, no. 8, pp. 415—425. DOI: 10.17587/prin.17.415-425. (in Russian).'
+   item_references: |
+     <li>Kaur D., Kaur P. Empirical Analysis of Web Attacks, Procedia Computer Science, 2016, vol. 78, pp. 298—306. DOI: 10.1016/j.procs.2016.02.057.</li>
+     <li>Kotenko I. V., Levshun D. A. Methods of Intelligent Analysis of System Events for Detecting Multi-Step Cyberattacks: Using Machine Learning Methods, Iskusstvennyj Intellekt i Prinjatie Reshenij, 2023, no. 3, pp. 3—15. DOI: 10.14357/20718594230301 (in Russian).</li>
+     <li>Kotenko I. V., Levshun D. A. Methods of Intelligent Analysis of System Events for Detecting Multi-Step Cyberattacks: Using Knowledge Bases, Iskusstvennyj Intellekt i Prinjatie Reshenij, 2023, no. 2, pp. 3—14. DOI: 10.14357/20718594230201 (in Russian).</li>
+     <li>Tekerek A. A Novel Architecture for Web-Based Attack Detection Using Convolution Neural Network, Computers & Security, 2021, vol. 100, article 102096. DOI: 10.1016/j.cose.2020.102096.</li>
+     <li>Seyyar Y. E., Yavuz A. G., Unver H. M. An Attack Detection Framework Based on BERT and Deep Learning, IEEE Access, 2022, vol. 10, pp. 68633 — 68644. DOI: 10.1109/ACCESS.2022.3185748.</li>
+     <li>Tadhani J. R., Vekariya V., Sorathiya V. et al. Securing Web Applications against XSS and SQLi Attacks Using a Novel Deep Learning Approach, Scientific Reports, 2024, vol. 14, article 1803. DOI: 10.1038/s41598-023-48845-4.</li>
+     <li>Xie X., Ren C., Fu Y. et al. SQL Injection Detection for Web Applications Based on Elastic-Pooling CNN, IEEE Access, 2019, vol. 7, pp. 151475—151481. DOI: 10.1109/ACCESS.2019.2947527.</li>
+     <li>Mokbal F. M. M., Wang D., Imran A. et al. MLPXSS: An Integrated XSS-Based Attack Detection Scheme in Web Applications Using Multilayer Perceptron Technique, IEEE Access, 2019, vol. 7, pp. 100567—100580. DOI: 10.1109/ACCESS.2019.2927417.</li>
+     <li>Dong H., Kotenko I. Cybersecurity in the AI Era: Analyzing the Impact of Machine Learning on Intrusion Detection, Knowledge and Information Systems, 2025, vol. 67, no. 5, pp. 3915—3966. DOI: 10.1007/s10115-025-02366-w.</li>
+     <li>Deshpande K. V., Singh J. Weighted Transformer Neural Network for Web Attack Detection Using Request URL, Multimedia Tools and Applications, 2024, vol. 83, no. 15, pp. 43983—44007. DOI: 10.1007/s11042-023-17356-9.</li>
+     <li>Eremin E. O. A Review of Open Datasets for Detecting Attacks on Web Applications, Mezhdunarodnyj Zhurnal Otkrytyh Infor-macionnyh Tehnologij, 2024, vol. 12, no. 3, pp. 106—113 (in Russian).</li>
+     <li>Toprak S., Yavuz A. G. Web Application Firewall Based on Anomaly Detection Using Deep Learning, Acta Infologica, 2022, vol. 6, no. 2, pp. 219—244. DOI: 10.26650/acin.1039042.</li>
+     <li>Singh C., Vijayalakshmi V., Raj H. A Machine Learning Approach for Web Application Vulnerability Detection Using Random Forest, International Journal for Research in Applied Science and Engineering Technology, 2022, vol. 10, no. 12, pp. 2106—2112. DOI: 10.22214/ijraset.2022.48397.</li>
+     <li>Rawat R., Chouhan M., Garg B. et al. Malware Inputs Detection Approach (Tool) Based on Machine Learning [MIDT-SVM], SSRN Electronic Journal, 2021. DOI: 10.2139/ssrn.3915404.</li>
+     <li>Zhao C., Si S., Tu T. et al. Deep-Learning Based Injection Attacks Detection Method for HTTP, Mathematics, 2022, vol. 10, no. 16, article 2914. DOI: 10.3390/math10162914.</li>
+     <li>Gong X., Lu J., Wang Y. et al. CECoR-Net: A Character-Level Neural Network Model for Web Attack Detection, Proceedings of the 2019 IEEE International Conference on Smart Cloud (Smart-Cloud), 2019, pp. 98—103. DOI: 10.1109/SmartCloud.2019.00027.</li>
+     <li>Tang P., Qiu W., Huang Z. et al. Detection of SQL Injection Based on Artificial Neural Network, Knowledge-Based Systems, 2020, vol. 190, article 105528. DOI: 10.1016/j.knosys.2020. 105528.</li>
+     <li>Tian Z., Luo C., Qiu J., et al. A Distributed Deep Learning System for Web Attack Detection on Edge Devices, IEEE Transactions on Industrial Informatics, 2020, vol. 16, no. 3, pp. 1963—1971. DOI: 10.1109/TII.2019.2938778.</li>
+     <li>El Mahdaouy A., Lamsiyah S., Janati Idrissi M. et al. DomURLsBERT: Pre-trained BERT-based Model for Malicious Domains and URLs Detection and Classification, Journal of Network and Systems Management, 2026, vol. 34, no. 2, article 36. DOI: 10.1007/s10922-025-10010-9.</li>
+     <li>Bacevicius M., Paulauskaite-Taraseviciene A., Zokaityte G. et al. Comparative Analysis of Perturbation Techniques in LIME for Intrusion Detection Enhancement, Machine Learning and Knowledge Extraction, 2025, vol. 7, no. 1, article 21. DOI: 10.3390/make7010021.</li>
+     <li>Bacevicius M., Paulauskaite-Taraseviciene A. Machine Learning Algorithms for Raw and Unbalanced Intrusion Detection Data in a Multi-Class Classification Problem, Applied Sciences, 2023,	vol. 13, no. 12, article 7328. DOI: 10.3390/app13127328.</li>
+     <li>Kotenko I. V., Sobolev P. S. Detecting Attacks on Web Applications: Analyzing Current Approaches, Actual Problems of Infotelecommunications in Science and Education (APINO 2024): Collection of Scientific Articles of the XIII International Scientific-Technical and Scientific-Methodological Conference, St. Petersburg, 2024, vol. 1, pp. 497—501 (in Russian).</li>
+     <li>Sureda Riera T., Bermejo Higuera J. R., Bermejo Higuera J. et al. A New Multi-Label Dataset for Web Attacks CAPEC Classification Using Machine Learning Techniques, Computers & Security, 2022, vol. 120, article 102788. DOI: 10.1016/j.cose.2022.102788.</li>
+     <li>Karacan H., Sevri M. A Novel Data Augmentation Technique and Deep Learning Model for Web Application Security, IEEE Access, 2021, vol. 9, pp. 150781—150797. DOI: 10.1109/AC-CESS.2021.3125785.</li>
+     <li>Mac H., Truong D., Nguyen L. et al. Detecting Attacks on Web Applications Using Autoencoder, Proceedings of the Ninth International Symposium on Information and Communication Tech- nology (SoICT 2018), Danang City, Viet Nam, 2018, pp. 416—421. DOI: 10.1145/3287921.3287946.</li>
+ - doi: 17.426-434
+   udk: '004.932.2'
+   edn: JBZPKX
+   item_authors: Krasilnikov M. D., Nikitin M. Yu., Konushin A. S.
+   item_name: A Dataset for Assessing the Stability of Fake Video Detection in Video Conferencing
+   item_authors_address: |
+     <b>M. D. Krasilnikov</b><sup>1, 2</sup>, Postgraduate Student, maksim.krasilnikov@graphics.cs.msu.ru,
+     <b>M. Yu. Nikitin</b><sup>2</sup>, Lead Researcher, mikhail.nikitin@tevian.ru,
+     <b>A. S. Konushin</b><sup>1</sup>, Cand. Sc. (Phys&Math.), Associate Professor, konushin@airi.net
+     <br>
+     <sup>1</sup> Faculty of Computational Mathematics and Cybernetics, Lomonosov Moscow State University, Moscow, 119991, Russian Federation
+     <br>
+     <sup>2</sup> Tevian, Moscow, 119634, Russian Federation
+   item_corr_author: 'Maksim D. Krasilnikov, Postgraduate Student, Lomonosov Moscow State University, Moscow, 119991, Russian Federation, E-mail: maximkras505@gmail.com'
+   item_rec_on: February 19, 2026
+   item_acc_on: March 16, 2026
+   item_annot: |
+     <p>The FakeMeet dataset is proposed for evaluating the robustness of face-swapping detection algorithms in video recordings under video-conferencing conditions. FakeMeet recreates typical video-call conditions by modeling distortions caused by resolution changes and by H.264 encoding with different compression levels, and it also includes variation in the background. An experimental comparison of fourteen modern detectors is conducted in a cross-domain evaluation setting on the Celeb-DF and FakeMeet datasets. It is shown that, under conditions characteristic of video conferencing, detection performance noticeably decreases. These findings point to the need for stable approaches that remain reliable under resolution shifts, compression artifacts, and the use of different generation methods. FakeMeet provides a standardized, scenario-specific benchmark to drive advancements in securing digital communication platforms against evolving deepfake threats.</p>
+   item_keywords: fake videos, videoconferencing, video communication, fake detection, dataset, evaluation of methods, low resolution, video compression, compression artifacts, variable quality, fake realism, algorithm stability, security, privacy, digital communications
+   item_pages: 426—434
+   item_citation: 'Krasilnikov M. D., Nikitin M. Yu., Konushin A. S. A Dataset for Assessing the Stability of Fake Video Detection in Video Conferencing, Programmnaya Ingeneria, 2026, vol. 17, no. 8, pp. 426—434. DOI: 10.17587/prin.17.426-434. (in Russian).'
+   item_references: |
+     <li>Naderi B., Cutler R., Singh Khongbantabam N. et al. VCD: A Video Conferencing Dataset for Video Compression, ICASSP 2024 — 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Republic of Korea, IEEE, 2024, pp. 3970—3974. DOI: 10.1109/ICASSP48485.2024.10448484.</li>
+     <li>Liu Y., Shi H., Shen H. et al. A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing, AAAI, 2020, vol. 34, no. 07, pp. 11637—11644. DOI: 10.1609/aaai.v34i07.6832.</li>
+     <li>Thies J., Zollhofer M., Stamminger M. et al. Face2Face: Real-Time Face Capture and Reenactment of RGB Videos, 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, IEEE, 2016, pp. 2387—2395. DOI: 10.1109/CVPR.2016.262.</li>
+     <li>Li L., Bao J., Yang H. et al. Advancing High Fidelity Identity Swapping for Forgery Detection, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, IEEE, 2020, pp. 5073—5082. DOI: 10.1109/CVPR42600.2020.00512.</li>
+     <li>Chen R., Chen X., Ni B. et al. SimSwap: An Efficient Framework For High Fidelity Face Swapping, Proceedings of the 28th ACM International Conference on Multimedia, Seattle WA USA: ACM, 2020, pp. 2003—2011. DOI: 10.1145/3394171.3413630.</li>
+     <li>Kim K., Kim Y., Cho S. et al. DiffFace: Diffusion-based face swapping with facial guidance, Pattern Recognition, 2025, vol. 163, article 111451. DOI: 10.1016/j.patcog.2025.111451.</li>
+     <li>Ruiz N., Li Y., Jampani V. et al. HyperDreamBooth: Hy-perNetworks for Fast Personalization of Text-to-Image Models, 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, IEEE, 2024, pp. 6527—6536. DOI: 10.1109/CVPR52733.2024.00624.</li>
+     <li>Afchar D., Nozick V., Yamagishi J., Echizen I. MesoNet: a Compact Facial Video Forgery Detection Network, 2018 IEEE International Workshop on Information Forensics and Security (WIFS), Hong Kong, Hong Kong, IEEE, 2018, pp. 1—7. DOI: 10.1109/WIFS.2018.8630761.</li>
+     <li>Nguyen H. H., Yamagishi J., Echizen I. Capsule-forensics: Using Capsule Networks to Detect Forged Images and Videos, ICASSP 2019 — 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, IEEE, 2019, pp. 2307—2311. DOI: 10.1109/ICASSP.2019.8682602.</li>
+     <li>Qian Y., Yin G., Sheng L. et al. Thinking in Frequency: Face Forgery Detection by Mining Frequency-Aware Clues, Computer Vision — ECCV 2020 Lecture Notes in Computer Science / Ed. A. Vedaldi, H. Bischof, T. Brox, et al. Cham, Springer International Publishing, 2020, pp. 86—103. DOI: 10.1007/978-3-030-58610-2_6.</li>
+     <li>Dang H., Liu F., Stehouwer J. et al. On the Detection of Digital Face Manipulation, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, IEEE, 2020, pp. 5780—5789. DOI: 10.1109/CVPR42600.2020.00582.</li>
+     <li>Luo Y., Zhang Y., Yan J., Liu W. Generalizing Face Forgery Detection with High-frequency Features, 2021IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, IEEE, 2021, pp. 16312—16321. DOI: 10.1109/CVPR46437.2021.01605.</li>
+     <li>Liu H., Li X., Zhou W. et al. Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain, 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, IEEE, 2021, pp. 772—781. DOI: 10.1109/CVPR46437.2021.00083.</li>
+     <li>Cao J., Ma C., Yao T. et al. End-to-End Reconstruction-Classification Learning for Face Forgery Detection, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, IEEE, 2022, pp. 4103—4112. DOI: 10.1109/CVPR52688.2022.00408.</li>
+     <li>Sun K., Liu H., Yao T. et al. An Information Theoretic Approach for Attention-Driven Face Forgery Detection, Computer Vision — ECCV 2022 Lecture Notes in Computer Science / Ed. S. Avi-dan, G. Brostow, M. Cisse et al. Cham, Springer Nature Switzerland, 2022, pp. 111—127. DOI: 10.1007/978-3-031-19781-9_7.</li>
+     <li>Yan Z., Zhang Y., Fan Y. et al. UCF: Uncovering Common Features for Generalizable Deepfake Detection, 2023 IEEE/ CVF International Conference on Computer Vision (ICCV), Paris, France, IEEE, 2023, pp. 22355—22366. DOI: 10.1109/ICCV51070.2023.02048.</li>
+     <li>Rossler A., Cozzolino D., Verdoliva L. et al. FaceForensics++: Learning to Detect Manipulated Facial Images, 2019 IEEE/ CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), IEEE, 2019, pp. 1—11. DOI: 10.1109/ICCV.2019.00009.</li>
+     <li>Li Y., Yang X., Sun P. et al. Celeb-DF: A Large-Scale Challenging Dataset for DeepFake Forensics, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, IEEE, 2020b, pp. 3204—3213. DOI: 10.1109/CVPR42600.2020.00327.</li>
+     <li>Dolhansky B., Bitton J., Pflaum B. et al. The DeepFake Detection Challenge (DFDC) Dataset, preprint arXiv:2006.07397, 2020. DOI: 10.48550/arXiv.2006.07397.</li>
+     <li>Pu J., Mangaokar N., Kelly L. et al. Deepfake Videos in the Wild: Analysis and Detection, Proceedings of the Web Conference 2021, Ljubljana Slovenia, ACM, 2021, pp. 981—992. DOI: 10.1145/3442381.3449978.</li>
+     <li>He Y., Gan B., Chen S. et al. ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis, 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, IEEE, 2021, pp. 4358—4367. DOI: 10.1109/CVPR46437.2021.00434.</li>
+     <li>Narayan K., Agarwal H., Thakral K. et al. DF-Platter: Multi-Face Heterogeneous Deepfake Dataset, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada, IEEE, 2023, pp. 9739—9748. DOI: 10.1109/CVPR52729.2023.00939.</li>
+     <li>Tan M., Le Q. V. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, International conference on machine learning — PMLR, 2019. DOI: 10.48550/ARXIV.1905.11946.</li>
+     <li>Ni Y., Meng D., Yu C. et al. CORE: Consistent Representation Learning for Face Forgery Detection, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, LA, USA, IEEE, 2022, pp. 12—21. DOI: 10.1109/CVPRW56347.2022.00011.</li>
+     <li>Chollet F. Xception: Deep learning with depthwise seperable convolutions. Proceedings of the IEEE conference on computer vision and pattern recognition, 2017, рр. 1251—1258. DOI: 10.48550/arXiv.1610.02357.</li>
+     <li>Ma Y., Xu G., Sun X. et al. X-CLIP: End-to-End Multigrained Contrastive Learning for Video-Text Retrieval, Proceedings of the 30th ACM Intezrnational Conference on Multimedia, Lisboa Portugal, ACM, 2022, pp. 638—647. DOI: 10.1145/3503161.3547910.</li>
+     <li>Yan Z., Zhang Y., Yuan X. et al. DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, preprint arXiv:2307.01426, 2023. DOI: 10.48550/arXiv.2307.01426.</li>
+     <li>Korshunov P., Marcel S. DeepFakes: a New Threat to Face Recognition? Assessment and Detection, preprint arXiv:1812.08685, 2018, DOI: 10.48550/arXiv.1812.08685.</li>
+ - doi: 17.435-445
+   udk: '004.72:004.8:004.9'
+   edn: XYIQDQ
+   item_authors: Desyatirikov F. A.
+   item_name: Process-Level Orchestration as an Alternative to Containerization for Hosting Node.js Applications
+   item_authors_address: |
+     <b>F. A. Desyatirikov</b>, Master's Student<sup>1</sup>, Senior AI Software Engineer<sup>2</sup>, science2000@ya.ru
+     <br>
+     <sup>1</sup> Vоronezh State University, Voronezh, 394018, Russian Federation,
+     <br>
+     <sup>2</sup> "VK" Company Limited, Moscow, 125167, Russian Federation
+   item_corr_author: |
+     Felix A. Desyatirikov, Master's Student<sup>1</sup>, Senior AI Software Engineer<sup>2</sup>,
+     <br>
+     <sup>1</sup> Voronezh State University, Voronezh, 394018, Russian Federation
+     <br>
+     <sup>2</sup> "VK" Company Limited, Moscow, 125167, Russian Federation, E-mail: science2000@ya.ru
+   item_rec_on: April 07, 2026
+   item_acc_on: April 28, 2026
+   item_annot: |
+     <p>This paper addresses the problem of hosting a large number of lightweight Node.js applications on a single server in situations where full-scale container orchestration (Kubernetes, Docker Swarm) introduces excessive overhead. A process-level orchestration approach is proposed in which each application runs as a separate operating system process managed by a single application server implemented in Kotlin with Spring Boot. The paper describes the architecture of the Node Orchestrator system, including a REST API for deployment, a reverse-proxy mechanism, automatic restart of crashed processes, and an automated monitoring module: anomaly detection in process metrics based on the Isolation Forest algorithm for preemptive restarts, and adaptive cooldown management based on failure history. The experiments demonstrate that the prototype works correctly and consumes fewer resources than the container-based approach. The results suggest that process-level orchestration combined with automated monitoring components can serve as a practical alternative for hosting small Express.js services.</p>
+   item_keywords: process orchestration, Node.js, containerization, Docker, Kubernetes, Spring Boot, reverse proxy, PaaS, ALM, anomaly detection, ML, adaptive cooldown
+   item_pages: 435—445
+   item_citation: 'Desyatirikov F. A. Process-Level Orchestration as an Alternative to Containerization for Hosting Node.js Applications, Programmnaya Ingeneria, 2026, vol. 17, no. 8, pp. 435—445. DOI: 10.17587/prin.17.435-445.'
+   item_references: |
+     <li>Newman S. Building Microservices, O'Reilly Media, Inc., 2021, 612 p.</li>
+     <li>Tilkov S., Vinoski S. Node.js: Using JavaScript to Build High-Performance Network Programs, IEEE Internet Computing, 2010, vol. 14, no. 6, pp. 80—83. DOI: 10.1109/MIC.2010.145.</li>
+     <li>Burns B., Grant B., Oppenheimer D., Stenberg E., Wilkes J. Borg, Omega, and Kubernetes, ACM Queue, 2016, vol. 14, no. 1, pp. 70—93. DOI: 10.1145/2890784.</li>
+     <li>Merkel D. Docker: Lightweight Linux Containers for Consistent Development and Deployment, Linux Journal, 2014, no. 239, article 2.</li>
+     <li>Casalicchio E. Container Orchestration: A Survey Systems Modeling, Methodologies and Tools / Eds by A. Puliafito, K. Trive-di, EAI/Springer Innovations in Communication and Computing, Springer, Cham, 2019, pp. 221—235. DOI: 10.1007/978-3-319-92378-9_14.</li>
+     <li>Pahl C. Containerization and the PaaS Cloud, IEEE Cloud Computing, 2015, vol. 2, no. 3, pp. 24—31. DOI: 10.1109/MCC.2015.51.</li>
+     <li>Middleton N., Schneeman R. Heroku: Up and Running, O'Reilly Media, Inc., 2013, 130 p.</li>
+     <li>Usman M., Ferlin S., Brunstrom A. Performance Analysis of Lightweight Container Orchestration Platforms for Edge-Based IoT Applications, Proceedings of the IEEE/ACM Symposium on Edge Computing (SEC), Rome, Italy, 04—07 December 2024, 2024, pp. 321—332, DOI: 10.1109/SEC62691.2024.00032.</li>
+     <li>Baldini I., Castro P., Chang K. Serverless Computing: Current Trends and Open Problems, Research Advances in Cloud Computing / Eds by S. Chaudhary, G. Somani, R. Buyya, Springer Singapore, 2017, pp. 1—20. DOI: 10.1007/978-981-10-5026-8_1.</li>
+     <li>Liu F. T., Ting K. M., Zhou Z.-H. Isolation Forest, Proceedings of the Eighth IEEE International Conference on Data Mining, Pisa, Italy, 15—19 December 2008, 2008, pp. 413—422. DOI: 10.1109/ICDM.2008.17.</li>
+     <li>Zhang W., Yang Q., Geng Y. A Survey of Anomaly Detection Methods in Networks, Proceedings of the 2009 International Symposium on Computer Network and Multimedia Technology, Wuhan, China, 18—20 January 2009, 2009, pp. 1—3. DOI: 10.1109/CNMT.2009.5374676.</li>
+     <li>Kerrisk M. The Linux Programming Interface, No Starch Press, 2010, 1552 p.</li>
+ - doi: 17.446-460
+   udk: '004.9'
+   edn: XLUDXW
+   item_authors: Sokolovskii S. V., Zaytsev K. S., Dunaev M. E., Kulik S. D.
+   item_name: Module of Trusted Dispatching of Medical Information Systems in the Client-Server Architecture
+   item_authors_address: |
+     <b>S. V. Sokolovskii</b>, Engineer, stephan.sokolovskiy@gmail.com,
+     <b>K. S. Zaytsev</b>, D. Sc. (Eng.), Professor, kszajtsev@mephi.ru,
+     <b>M. E. Dunaev</b>, Lecturer, max.dunaev@mail.ru,
+     <b>S. D. Kulik</b>, D. Sc. (Eng.), Professor, sdkulik@mephi.ru
+     National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation
+   item_corr_author: 'Stepan V. Sokolovskii, Engineer, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: stephan.sokolovskiy@gmail.com'
+   item_rec_on: January 22, 2026
+   item_acc_on: March 16, 2026
+   item_annot: |
+     <p> The purpose of this article is to increase the efficiency and security of interaction in client-server medical information systems (MIS) through the use of the developed trusted dispatching software module. The module's operation is demonstrated using the example of the Intelligent Thyroid Ultrasound Physician's Assistant software system, where it provides secure, reliable, and manageable interaction between components of a distributed microservice architecture. The module integrates subscription management, payment transaction processing, and access control functions. Go-lang was chosen as the main implementation language, due to its performance and built-in competitiveness support. For inter-service interaction, the gRPC (Google Remote Procedure Call) framework is utilized with the mutual TLS (transport layer security) protocol, which guarantees authentication and confidentiality of data exchange. Integration with external payment providers is implemented through secure automatically generated messages (webhooks) and idempotent requests that eliminate duplication of operations. The architecture of the module is based on the principles of pure architecture, which ensures flexibility, testability and independence of business logic from infrastructure details. The system deployment is automated using the Docker container and the Docker Compose tool. The proposed solution increases the level of security of medical data, simplifies access management and ensures the scalability of the system in the face of an increasing number of users and transaction volume.</p>
+   item_keywords: trusted dispatching, microservice architecture, data security, billing, Golang, gRPC, medical information systems
+   item_pages: 446—460
+   item_citation: 'Sokolovskii S. V., Zaytsev K. S., Dunaev M. E., Kulik S. D. Module of Trusted Dispatching of Medical Information Systems in the Client-Server Architecture, Programmnaya Ingeneria, 2026, vol. 17, no. 8, pp. 446—460. DOI: 10.17587/prin.17.446-460. (in Russian).'
+   item_references: |
+     <li>Salaheddin N., Ahmed N. Microservices vs. Monolithic Architectures: The Differential Structure Between Two Architectures, MINAR International Journal of Applied Sciences and Technology, 2022, vol. 4, no. 3, pp. 484—490. DOI: 10.47832/2717-8234.12.47.</li>
+     <li>Wiindisch E., Hufnagl P., Brunecker P. et al. Development of a Trusted Third Party at a Large University Hospital: Design and Implementation Study, JMIR Medical Informatics, 2023, vol. 12, article e53075. DOI: 10.2196/53075.</li>
+     <li>Zaabar B., Cheikhrouhou O., Jamil F. et al. HealthBlock: A secure blockchain-based healthcare data management system, Computer Networks, 2021, vol. 200, article 108500. DOI: 10.1016/j. comnet.2021.108500.</li>
+     <li>Avireneni R. T. Interoperable healthcare ecosystems through middleware integration: Enabling connected care with cloud-native architecture and integration standards, World Journal of Advanced Engineering Technology and Sciences, 2025, vol. 15, no. 2, pp. 3000—3008. DOI: 10.30574/wjaets.2025.15.2.0821.</li>
+     <li>Arega A., Sharma D. P. Enhancing Healthcare Information Systems in Ethiopian Hospitals: Exploring Challenges and Prospects of a Cloud-based Model for Smart and Sustainable Information Services, International Journal of Information Technology and Computer Science, 2024, vol. 16, no. 5, pp. 1—22. DOI: 10.5815/ijitcs.2024.05.01.</li>
+     <li>Andreyanov N. S. Saga pattern in the microservice architecture of remote banking and its capabilities, Mirovye nauchnye dostizheniya estestvenno-nauchnyh i social'no-gumanitarnyh issledovanij: ot teorii k praktike: Collection of scientific articles of the III International Scientific and Practical Conference, Moscow, Symmetry, 2025, pp. 19—24 (in Russian).</li>
+     <li>Gubin A. S., Tutova N. V. Analysis of the approach to developing applications with a "clean" architecture, Telekommunikacii i informacionnye tekhnologii, 2022, vol. 9, no. 1, pp. 28—37 (in Russian).</li>
+     <li>Dong H., Zhang Y., Lee H. et al. Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues, Proceedings of the 2024 ACM on Internet Measurement Conference, ACM, 2024, pp. 214—229. DOI: 10.1145/3646547.3688415.</li>
+     <li>Reis D., Piedade B., Correia F. F. et al. Developing Docker and Docker-Compose Specifications: A Developers' Survey, IEEE Access, 2022, vol. 10, pp. 2318—2329. DOI: 10.1109/ACCESS.2021.3137671.</li>
+     <li>Nikulshina A. P., Ivanova E. A., Vinokurov A. V. Billing Systems, The World of Science Without Borders: Proceedings of the 7th International Scientific and Practical Conference of Young Scientists, Tambov, Tambov State Technical University, 2020, pp. 170—172 (in Russian).</li>
+     <li>Loechel L., Akbayin S.-R., Griinewald E. et al. Hook-in Privacy Techniques for gRPC-based Microservice Communication, Proceedings of the 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2024, pp. 112—119. DOI: 10.48550/arXiv.2404.05598.</li>
+     <li>Aveltsov D. O. Application of the structured data serialization protocol Protobuf in microservice architecture, Problemy avtomatiki i upravleniya, 2022, no. 3 (45), pp. 185—196 (in Russian).</li>
+     <li>Golovashov S. Two-way mTLS authorization for secure operation of Kubernetes/OpenShift microservices, Systemnyi Administrator, 2023, no. 6 (247), pp. 28—30 (in Russian).</li>
+     <li>Kopteva A. V., Knyazev I. V. Analysis of the pure architecture of the Golang REST API with the introduction of dependencies, following the principles of SOLID, Problemy sovremennoj nauki i obrazovaniya, 2021, no. 9 (166), pp. 23—30 (in Russian).</li>
+     <li>Liu G. The Application of Data Encryption Technology in Computer Network Communication Security, Mobile Information Systems, 2022, vol. 2022, pp. 1—10. DOI: 10.1155/2022/3632298.</li>
+     <li>Yukhnov V. I., Krasnikov A. V. Secure client-server data warehouse, Proceedings of the North Caucasus Branch of the Moscow Technical University of Communications and Informatics, 2023, no. 2, pp. 61—66 (in Russian).</li>
+     <li>Kolesnikov A. O. Identification of users of client-server applications using a JWT token, EurasiaScience: Collection of articles of the XXXVI international scientific and practical conference, Moscow, Aktualnost'.RF, 2021, pp. 42—43 (in Russian).</li>
+     <li>Umarov H. S. Electronic payment systems and services: security of online payments, Risk management, 2019, no. 4 (92), pp. 9—15 (in Russian).</li>
+     <li>Khokhlov A. A., Nikonorova L. I. HTTPS protocol, Nauka i obrazovanie, 2024, vol. 7, no. 4, article 264 (in Russian).</li>
+ - doi: 17.461-470
+   udk: '535.421, 535.016, 004.94'
+   edn: OMTFUR
+   item_authors: Assad A., Agapov N. A., Sharba D.
+   item_name: Code for Programming the Metalens and Optimization
+   item_authors_address: |
+     <b>A. Assad</b>, Postgraduate Student, aa011@tpu.ru,
+     <b>N. A. Agapov</b>, D. Sc. (Eng.), Professor, anikolja@tpu.ru,
+     National Research Tomsk Polytechnic University, Tomsk, 634050, Russian Federation,
+     <b>D. Sharba</b>, Postgraduate Student, dsharba@hotmail.co.uk,
+     Tomsk State University of Control Systems and Radioelectronics, Tomsk, 634050, Russian Federation
+   item_corr_author: 'Ammar Assad, Postgraduate Student, National Research Tomsk Polytechnic University, Tomsk, 634050, Russian Federation, Email: aa011@tpu.ru'
+   item_rec_on: December 02, 2025
+   item_acc_on: March 17, 2026
+   item_annot: |
+     <p>This study presents the numerical modeling and analysis of a metalens using the finite-difference time-domain (FDTD) method implemented in the MEEP simulation package. Metalenses, which rely on planar metasurfaces composed of subwavelength nanostructures, offer unprecedented control over the phase, amplitude, and polarization of electromagnetic waves and represent a promising alternative to conventional refractive optics. Their flat architecture and compatibility with nanophotonic technologies enable the realization of ultra-compact, lightweight, and multifunctional optical systems suitable for imaging, communication, and quantum applications.
+     In this work, the optical response of the metalens unit cell was examined by varying its geometric parameters, such as height and side length. Through FDTD simulations, the optimal configuration was identified that provides high transmission efficiency together with a complete [0, 2n] phase modulation range required for precise wavefront engineering. Using the optimized unit cell, a complete metalens structure was designed and analyzed to evaluate its focusing characteristics.
+     Importantly, the metalens demonstrated stable and consistent focal properties across the wavelength range from 840 to 1240 nm, indicating the absence of significant chromatic aberration within this spectral band. The focusing performance remained nearly unchanged, confirming the robustness of the design over a broad operational bandwidth.
+     Overall, the results verify the effectiveness of the proposed design approach and highlight the capability of the FDTD method to accurately model metalens behavior. This work emphasizes the potential of MEEP-based simulations in the development of next-generation, compact, high-efficiency, and broadband optical components.</p>
+   item_keywords: metalens, metasurface, nanophotonics, nanoelements, numerical simulation, finite difference time domain (FDTD), MEEP, phase modulation, transmittance, focusing, infrared range, chromatic aberration
+   item_pages: 461—470
+   item_citation: 'Assad A., Agapov N. A., Sharba D. Code for Programming the Metalens and Optimization, Programmnaya Ingeneria, 2026, vol. 17, no. 8, pp. 461—470. DOI: 10.17587/prin.17.461-470. (in Russian).'
+   item_references: |
+     <li>Yu N., Capasso F. Flat optics with designer metasurfaces, Nature Materials, 2014, vol. 13, no. 2, pp. 139—150. DOI: 10.1038/nmat3839.</li>
+     <li>Khorasaninejad M., Capasso F. Metalenses: versatile multifunctional photonic components, Science, 2017, vol. 358, no. 6367. DOI: 10.1126/science.aam8100.</li>
+     <li>Genevet P., Capasso F., Aieta F. et al. Recent advances in planar optics: from plasmonic to dielectric metasurfaces, Optica, 2017, vol. 4, no. 1, pp. 139—152. DOI: 10.1364/OPTICA. 4.000139.</li>
+     <li>Kamali S. M., Arbabi E., Arbabi A. et al. A review of dielectric optical metasurfaces for wavefront control, Nanophotonics, 2018, vol. 7, no. 6, pp. 1041—1068. DOI: 10.1515/nanoph-2017-0129.</li>
+     <li>Oskooi A. F., Roundy D., Ibanescu M. et al. MEEP: a flexible free software package for electromagnetic simulations by the FDTD method, Computer Physics Communications, 2010, vol. 181, no. 3, pp. 687—702. DOI: 10.1016/j.cpc.2009.11.008.</li>
+     <li>Taflove A., Hagness S. C. Introduction to Maxwell's Equations and the Yee Algorithm, Computational Electrodynamics: The Finite-Difference Time-Domain Method. 3rd ed. Boston, Artech House, 2005, pp. 51—86.</li>
+     <li>Gorbunkov V. M., Karlov V. N. Elements of diffraction photometry, Tr. MFTI. Ser. "Obshchaya i molekulyarnaya fizika", 1977, no. 9, pp. 20—25 (in Russian).</li>
