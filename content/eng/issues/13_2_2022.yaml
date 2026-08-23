@@ -77,4 +77,3 @@ content:
    item_keywords: parallelization, tensor train, tensor decomposition, high dimensions, curse of dimensionality, multidimensional arrays, cross approximation, TT-cross, maxvol, low-rank approximation, CUDA, GPU, Nvidia
    item_pages: 94–101
    item_citation: ' Kapralov N. S., Morozov A. Yu., Nikulin S. P. Parallel Approximation of Multivariate Tensors using GPUs, Programmnaya Ingeneria, 2022, vol. 13, no. 2, pp. 94—101.'
----
