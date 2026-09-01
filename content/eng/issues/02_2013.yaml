@@ -5,7 +5,7 @@ content:
    link: _2_2013_1
    udk: "004.4'236"
    item_authors: Shakurov A. R.
-   item_name: Component-Based Programming Technology Introducing Runtime Component Creation Capability	
+   item_name: Component-Based Programming Technology Introducing Runtime Component Creation Capability
    item_authors_address: ' <b> A. R. Shakurov </b>, e-mail: amir-shak@yandex.ru'
    item_annot: |
      <p> A feature that hasn't yet received a full-fledged implementation from any component-based software development technology is examined. The feature consists in being able to create new data types (components) at runtime. An object-oriented architecture of a model providing this capability is presented.      

@@ -5,7 +5,7 @@ content:
    link: _12_2014_1
    udk: '004.43'
    item_authors: Borodin A. M., Mirvoda S. G., Porshnev S. V.
-   item_name: Analysis of Language Prototyping Toolset	
+   item_name: Analysis of Language Prototyping Toolset
    item_authors_address: '<b> A. M. Borodin</b>, Associate Professor, e-mail: amborodin@acm.org, <b> S. G. Mirvoda</b>, Assistant, e-mail: sergey@mirvoda.com, <b>  S. V. Porshnev</b>, Head of Department, Associate Professor, e-mail: sergey_porshnev@mail.ru, Ural Federal University named after the first President of Russia B. N. Yeltsin, Yekaterinburg'
    item_annot: |
      <p> Syntax definition is important stage of programming language design. This stage forms expressive capabilities and language clearance. These capabilities can help programming language to conquer minds of software developers.
