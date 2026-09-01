@@ -35,7 +35,7 @@ content:
    item_annot: |
      <p> This paper presents the algorithm of adaptive interpolation on the basis of kd-tree for modeling of dynamic systems with interval parameters. The complexity of the algorithm is exponential against the number of interval parameters; therefore acceleration is a vital question. The main aspects of its parallelization and implementation using CUDA technology are presented here. The data structures used in the algorithm and their features in terms of parallel operation are described. The computation experiments conducted in some cases demonstrate hundred-fold acceleration in comparison with the central processor computing, which reveals the efficiency of suggested approaches to parallelization.
      </p>
-   item_keywords:  CUDA, parallelization, kd-tree, algorithm of adaptive interpolation, structured grids, interval dynamic systems
+   item_keywords: CUDA, parallelization, kd-tree, algorithm of adaptive interpolation, structured grids, interval dynamic systems
    item_pages: 69–76
  - doi: 10.77-86
    udk: "514.18"
