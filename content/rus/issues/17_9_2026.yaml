@@ -1,0 +1,170 @@
+---
+title: Номер 09 2026 год
+date: 2026-09-10
+content:
+ - doi: 17.475-485
+   udk: '004.622:519.688'
+   edn: GQBZYN
+   item_authors: Богоявленская О. Ю.
+   item_name: Распределенная архитектура многоуровневой обработки данных сенсоров в интеллектуальной среде
+   item_authors_address: |
+     <b>О. Ю. Богоявленская</b>, канд. техн. наук, доц., olbgvl@cs.petrsu.ru,
+     Петрозаводский государственный университет
+   item_rec_on: 2026-03-02
+   item_acc_on: 2026-04-21
+   item_annot: |
+     <p>Рассмотрена задача повышения эффективности методов мониторинга и анализа данных в приложениях реального времени в целях последующего применения высокопроизводительных интеллектуальных алгоритмов на распределенных платформах с мобильными компонентами и автономным питанием. Описана распределенная архитектура многоуровневой обработки данных сенсоров, основанная на представлении интеллектуальной среды как множества состояний. В рамках этой архитектуры периферийные вычислительные устройства выявляют данные сенсоров, которые могут содержать новые знания. Представлены алгоритмы, позволяющие снизить нагрузку на аппаратную и сетевую инфраструктуры. Сформулирован метод контекстной коррекции результатов классификации.</p>
+   item_keywords: сенсор, анализ данных, интегрированный подход, распределенная система, архитектура, отсрочка, алгоритм, контекст
+   item_pages: 475—485
+   item_citation: 'Богоявленская О. Ю. Распределенная архитектура многоуровневой обработки данных сенсоров в интеллектуальной среде // Программная инженерия. 2026. Том 17, № 9. С. 475—485. DOI: 10.17587/prin.17.475-485.'
+   item_references: |
+     <li>Perera C., Talagala D., Liu C. H., Estrella J. C. Energyefficient location and activity-aware on-demand mobile distributed sensing platform for sensing as a service in IoT clouds // IEEE Transactions on Computational Social Systems. 2016. Vol. 2, No. 4. P. 171—181. DOI: 10.1109/TCSS.2016.2515844.</li>
+     <li>Borham M. L., Khoriba G., Mostafa M. Enhancement of Data Collection Performance in Wireless Sensor Networks Based on Path-Constrained Mobile Sink // International Journal of Intelligent Engineering and Systems. 2020. Vol. 14, No. 1. P. 400 — 409. DOI: 10.22266/ijies2021.0228.37.</li>
+     <li>Mortada M., Makhoul A., Jaoude C. A. et al. A Distributed Processing Technique for Sensor Data Applied to Underwater Sensor Networks // 15th Int. Wireless Communications & Mobile Computing Conference (IWCMC). Tangier. Morocco. 2019. P. 979— 984. DOI: 10.1109/IWCMC.2019.8766742.</li>
+     <li>Surzhik D., Vasilyev G., Kuzichkin O. Study of the Performance of Adaptive Sensor Networks for Collecting and Processing Thermoelectric Data // Adv. in Automation VI. RusAutoCon 2024. Lecture Notes in Electrical Engineering. 2025. Vol. 1324. P. 99—109. DOI: 10.1007/978-3-031-82494-4_10.</li>
+     <li>Tu C., Takeuchi E., Carballo A. et al. Motion Analysis and Performance Improved Method for 3D LiDAR Sensor Data Compression // IEEE Transactions on Intelligent Transportation Systems. 2021. Vol. 22, No. 1. P. 243—256. DOI: 10.1109/tits.2019.2956066.</li>
+     <li>Abbood I. K., Idrees A. K. Data reduction techniques for wireless multimedia sensor networks: a systematic literature review // Journal on Supercomputing. 2024. Vol. 80. P. 10044—10089. DOI: 10.1007/s11227-023-05842-8.</li>
+     <li>Damigos G., Lindgren T., Sandberg S., Nikolakopoulos G. Performance of Sensor Data Process Offloading on 5G-Enabled UAVs // Sensors. 2023. Vol. 23, No. 2. Article 864. DOI: 10.3390/s23020864.</li>
+     <li>Kang J. J., Luan T. H., Larkin H. Enhancement of sensor data transmission by inference and efficient data processing // Applications and Techniques in Information Security — 6th International Conference, ATIS 2016, Proceedings, Communications in Computer and Information Science. 2016. Vol. 651. P. 81—92. DOI: 10.1007/978-981-10-2741-3_7.</li>
+     <li>Duque H., Diao K., Villa R. et al. Context-aware data driven sensor data analysis: With application to H2S concentration prediction in urban drainage networks // Water Research X. 2025. Vol. 28. Article 100346. DOI: 10.1016/j.wroa.2025. 100346.</li>
+     <li>De Paola A., Ferraro P., Gaglio P., Lo Re G. Context-Awareness for Multi-sensor Data Fusion in Smart Environments // 2016 Advances in Artificial Intelligence. AI*IA 2016. Lecture Notes in Computer Science. 2016. Vol. 10037. P. 377—391. DOI: 10.1007/978-3-319-49130-1_28.</li>
+     <li>Al-Saedi A. A., Boeva V., Casalicchio E., Exner P. Context-Aware Edge-Based AI Models for Wireless Sensor Networks-An Overview // Sensors. 2022. Vol. 22, No. 15. Article 5544. DOI: 10.3390/s22155544.</li>
+     <li>Tian Y., Zhang J. Optimizing Sensor Deployment for Multi-Sensor-Based HAR System with Improved Glowworm Swarm Optimization Algorithm // Sensors. 2020. Vol. 20, No. 24. Article 7161. DOI: 10.3390/s20247161.</li>
+     <li>Hofler L. Good results from sensor data: Performance of machine learning algorithms for regression problems in chemical sensors // Sensors and Actuators B: Chemical. 2024. Vol. 421. Article 136528. DOI: 10.1016/j.snb.2024.136528.</li>
+     <li>Logacjov A., Bach K., Kongsvold A. et al. HARTH: A Human Activity Recognition Dataset for Machine Learning // Sensors. 2021. Vol. 21, No. 23. Article 7853. DOI: 10.3390/s21237853.</li>
+     <li>Dimara A., Papaioannou A., Papaioannou C. et al. An Intelligent IoT Framework for Real-Time Energy-Efficient Smart Building Management // International Conference on Supply Chains. ICSC 2024. Communications in Computer and Information Science. 2024. Vol. 2110. P. 201—214. DOI: 10.1007/978-3-031-69344-1_15.</li>
+     <li>Salice F., Mangano D., Bouchard K., Comai S. A uniform approach to HAR recognition in unobtrusive indoor monitoring systems // Journal of Reliable Intelligent Environments. 2025. Vol. 11. Article 15. DOI: 10.1007/s40860-025-00255-1.</li>
+     <li>Casale P., Pujol O., Radeva P. Human Activity Recognition from Accelerometer Data Using a Wearable Device // Pattern Recognition and Image Analysis. 2011. Vol. 6669. P. 289—296. DOI: 10.1007/978-3-642-21257-4_36.</li>
+ - doi: 17.486-496
+   udk: '004.512'
+   edn: JNQQRK
+   item_authors: Оконов А. А., Зайцев К. С., Дунаев М. Е.
+   item_name: Серверный компонент для централизованного сбора и хранения журналов событий в распределенных вычислительных системах
+   item_authors_address: |
+     <b>А. А. Оконов</b>, инженер, k151201@yandex.ru,
+     <b>К. С. Зайцев</b>, д-р техн. наук, проф., kszajtsev@mephi.ru,
+     <b>М. Е. Дунаев</b>, преподаватель, max.dunaev@mail.ru,
+     Национальный исследовательский ядерный университет «МИФИ», Москва
+   item_rec_on: 2025-06-03
+   item_acc_on: 2026-03-17
+   item_annot: |
+     <p>Представлены результаты исследования, направленного на повышение эффективности и надежности централизованного сбора и аналитической доступности диагностических данных в распределенных информационных системах. Рассмотрены локальные решения на базе Syslog, брокерные платформы, архитектурные подходы и технологические стеки. Описана разработанная система централизованного журнализирования событий, объединяющая легкий локальный сбор логов, асинхронную передачу и масштабируемое централизованное хранение. По сравнению с локальными Syslog-решениями система обеспечивает накопление и аналитическую обработку журналов в едином контуре, а по сравнению с брокерными платформами снижает сложность развертывания и эксплуатации в условиях средних и низких нагрузок. Система реализована на языке Go с использованием фреймворка Gorilla. Предложена сегментированная архитектура хранения на базе ClickHouse с балансировкой нагрузки по алгоритму Round Robin. Экспериментальные результаты подтвердили стабильность сбора событий, доступность журналов для анализа и сбалансированное соотношение пропускной способности, надежности и инфраструктурной сложности.</p>
+   item_keywords: серверное приложение, Golang, Syslog, ClickHouse, шардирование, балансировка нагрузки, Docker
+   item_pages: 486—496
+   item_citation: 'Оконов А. А., Зайцев К. С., Дунаев М. Е. Серверный компонент для централизованного сбора и хранения журналов событий в распределенных вычислительных системах // Программная инженерия. 2026. Том 17, № 9. С. 486—496. DOI: 10.17587/prin.17.486-496.'
+   item_references: |
+     <li>Rosenberg J. Data Discoverability in Science Gateways at Scale using Elasticsearch Cluster Architecture // Practice and Experience in Advanced Research Computing. 2022. Article 41. DOI: 10.1145/3491418.3535170.</li>
+     <li>Sankar P., George D. E., Aparna Sankar N. S. Social media monitoring using ELK Stack // 2022 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES). 2022. Vol. 1. P. 231—235. DOI: 10.1109/SPICES52834.2022.9774273.</li>
+     <li>Tokar D., Morozova O., Kharchenko V. The IoT Applications Productivity: Data Management Model and ELK Tool Based Monitoring and Research // 2022 IEEE 16th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET). 2022. P. 162—167. DOI: 10.1109/TCSET55632.2022.9766930.</li>
+     <li>Суханов М. Ю. Apache Kafka как средство обеспечения надежной коммуникации в микросервисных системах на базе Spring framework // Молодой ученый: сб. статей VIII Между-нар. науч.-практ. конф., Пенза, 05 июля 2024 г. Пенза: Наука и Просвещение, 2024. С. 59—65.</li>
+     <li>Календарев А. ClickHouse в системах сбора статистики // Системный администратор. 2017. № 3 (172). С. 56—59.</li>
+     <li>Грибанов И. В. Система мониторинга за сетью с помощью syslog // Студенческий вестник. 2021. № 41-5 (186). С. 34—40.</li>
+     <li>Чернышев К. Д., Яшонков А. В. Способы балансировки нагрузки на серверы информационных систем, серверы информационных систем, балансировка нагрузки // Развитие науки и мирового сообщества: сб. науч. тр. по мат. XIII Междунар. научн.-исслед. конкурса, Анапа, 26 августа 2024 г. Анапа: Научно-исследовательский центр экономических и социальных процессов в южном федеральном округе, 2024. С. 48—57.</li>
+     <li>Осокин Д. А., Маслаков А. П. Создание распределенной SIEM системы сбора и анализа журналов событий для сети компьютеров организации // Современные технологии в теории и практике программирования: Сб. мат. науч.-практ. конф. студентов, аспирантов и молодых ученых, Санкт-Петербург, 24—25 апреля 2024 г. СПб: Санкт-Петербургский политехнический университет Петра Великого, 2024. С. 81—83.</li>
+     <li>Денисов В. В., Самойлов Н. К. Преимущества гексагональной архитектуры в микросервисном приложении // Труды молодых ученых факультета компьютерных наук ВГУ. Выпуск 2. Воронеж: ВЭЛБОРН, 2022. С. 257—263.</li>
+     <li>Сергушкин В. В., Бодров О. А. Особенности реализации многопоточного приложения на примере аппаратуры передачи данных // 7-я международная научно-техническая конференция «К. Э. Циолковский — 160 лет со дня рождения. Космонавтика. Радиоэлектроника. Геоинформатика»: Тезисы докладов, Рязань, 04—06 октября 2017 г. Рязань: Рязанский государственный радиотехнический университет, 2017. С. 288—290.</li>
+     <li>Alexandria G. Eclarin E. Round Robin Rumble: A Comparative Analysis of Round Robin-based Hybrid Scheduling Algorithms // International Journal of Science and Research. 2024. Vol. 13, No. 9. P. 386—389. DOI: 10.21275/sr24904185322.</li>
+     <li>Паршиков П. А., Паршикова Г. В. Динамическое шар-дирование с помощью табличной функции // Приоритетные направления инновационной деятельности в промышленности: Сб. науч. статей по итогам Четвертой междунар. научн. конф., Казань, 29—30 апреля 2020 г. Казань: КОНВЕРТ, 2020. Том 2. С. 101—103.</li>
+     <li>Nada S., Nuredin A. Microservices vs. Monolithic Architectures [The Differential Structure between two Architectures] // MINAR International Journal of AppliedSciences and Technology. 2022. Vol. 4. P. 484—490. DOI: 10.47832/2717-8234.12.47.</li>
+ - doi: 17.497-509
+   udk: '004.89'
+   edn: CBCKBU
+   item_authors: Самохвалов А. В., Соловьев Д. С., Корабельников Е. О., Егоров М. А.
+   item_name: К построению модуля автоматизированного формирования индивидуальной образовательной траектории подготовки ИТ-специалиста с использованием технологий искусственного интеллекта
+   item_authors_address: |
+     <b>А. В. Самохвалов</b>, канд. пед. наук, доц., зав. каф., samohvalov@gmail.com,
+     <b>Д. С. Соловьев</b>, д-р техн. наук, доц., доц. кафедры, solovjevdenis@mail.ru,
+     <b>Е. О. Корабельников</b>, студент, serent2003@mail.ru,
+     <b>М. А. Егоров</b>, студент, max.egorov12345@gmail.com,
+     Тамбовский государственный университет имени Г. Р. Державина (ТГУ им. Г. Р. Державина)
+   item_rec_on: 2025-12-24
+   item_acc_on: 2026-03-10
+   item_annot: |
+     <p>Статья посвящена решению актуальной задачи персонализации образовательных программ в сфере подготовки ИТ-специалистов. Для ее решения предложен программный модуль, интегрируемый в систему управления обучением Moodle, взаимодействующий с внешним FastAPI-сервером и предобученной нейросетевой моделью для автоматизированного построения индивидуальных образовательных траекторий на основе анализа стартовых компетенций обучающихся. Сформулированы требования к модулю, на основе которых выполнена его разработка с использованием event-dhven-архитектуры. Описаны функциональная модель, архитектура системы, информационное и программное обеспечение. Приведены результаты сравнительной экспериментальной оценки эффективности модуля, продемонстрировавшие его преимущество по сравнению как с традиционным методом ручного определения образовательной траектории, так и с методом на основе автоматизированных фондов оценочных средств.</p>
+   item_keywords: индивидуальная образовательная траектория, подготовка ИТ-специалистов, интеллектуальная адаптация, искусственный интеллект, анализ профессиональных компетенций, автоматизированное распределение, Moodle, FastAPI, персонализация обучения.
+   item_pages: 497—509
+   item_comment: Исследование выполнено в рамках реализации программы развития ФГБОУ ВО «Тамбовский государственный университет имени Г. Р. Державина» «Приоритет-2030».
+   item_citation: 'Самохвалов А. В., Соловьев Д. С., Корабельников Е. О., Егоров М. А. К построению модуля автоматизированного формирования индивидуальной образовательной траектории подготовки ИТ-специалиста с использованием технологий искусственного интеллекта // Программная инженерия. 2026. Том 17, № 9. С. 497—509. DOI: 10.17587/prin.17.497-509.'
+   item_references: |
+     <li>Buchner A. Moodle 3 Administration. Third Edition. Birmingham: Packt Publishing, 2016. 492 p.</li>
+     <li>Vlasova I. V. The Analysis of the Possibilities of E-Learning System Moodle to Improve the Efficiency of the Learning Process in a Technical University (In English) // Высшее образование сегодня. 2022. № 9. С. 38—40. DOI: 10.18137/RNU.HET.22.09.P. 038.</li>
+     <li>Chen L., Chen P., Lin Z. Artificial Intelligence in Education: A Review // IEEE Access. 2020. Vol. 8. P. 75264—75278. DOI: 10.1109/ACCESS.2020.2988510.</li>
+     <li>Baker R. S., Inventado P. S. Educational Data Mining and Learning Analytics // Learning Analytics. Springer, New York, NY. 2014. P. 61—75. DOI: 10.1007/978-1-4614-3305-7_4.</li>
+     <li>Протасова Ю. В., Немтинов В. А., Шипилова В. Г. и др. Гибридная образовательная среда инженерных школ университета для реализации ранней профориентации школьников // Программная инженерия. 2024. Том 15, № 12. С. 648—661. DOI: 10.17587/prin.15.648-661.</li>
+     <li>Ke Z., Ng V. Automated Essay Scoring: A Survey of the State of the Art // Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19), 2019. P. 6300— 6308. DOI: 10.24963/ijcai.2019/879.</li>
+     <li>Долинина О. Н., Кушников В. А. Методы и технологии обеспечения качества интеллектуальных систем принятия решения // Программная инженерия. 2021. Том 12, № 4. С. 189—199. DOI: 10.17587/prin.12.189-199.</li>
+     <li>Romero C., Ventura S. Educational Data Mining and Learning Analytics: An Updated Survey // WIREs Data Mining and Knowledge Discovery. 2020. Vol. 10, No. 3. Article e1355. DOI: 10.1002/widm.1355.</li>
+     <li>Орлова Е. В. Методы и алгоритмы RL для моделирования индивидуальных траекторий профессионального развития // Программная инженерия. 2023. Том 14, № 12. С. 603—615. DOI: 10.17587/prin.14.603-615.</li>
+     <li>Киян И. В. Принципы автоматизации и управления технологическими процессами в сфере образования // Энергобезопасность и энергосбережение. 2009. № 4. С. 43—47.</li>
+     <li>Карпенко С. Н., Кузенкова Г. В., Шестакова Н. В. и др. Создание системы электронного тестирования на базе СДО Moodle как элемента фонда оценочных средств // Современные информационные технологии и ИТ-образование. 2016. Том 12, № 3-2. С. 55—61.</li>
+     <li>Hohpe G., Woolf B. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. Addison-Wesley Professional, 2004. 741 p.</li>
+     <li>Методология функционального моделирования IDEF0. Руководящая документация RD IDEF0-2000. М.: Госстандарт России, 2000. 75 с.</li>
+     <li>Рыбальченко М. В. Архитектура информационных систем. М.: Юрайт, 2019. 91 с.</li>
+     <li>Нестеров С. А. Базы данных. М.: Юрайт, 2025. 258 с.</li>
+     <li>Wild I., Tak J. Moodle 3.x Developer's Guide. Birmingham: Packt Publishing, 2025. 368 p.</li>
+     <li>De Luca G. FastAPI Cookbook: Develop High-Performance APIs and Web Applications with Python. 1st ed. Birmingham: Packt Publishing, 2024. 359 p.</li>
+     <li>Wyte D. Pydantic in Action: Data Integrity and Schema Design for Intelligent Systems. Independently published, 2025. 339 p.</li>
+ - doi: 17.510-519
+   udk: '004.89'
+   edn: MRBQEQ
+   item_authors: Пантюшин В. А., Старостин А. С., Катышев В. А.
+   item_name: Особенности фреймворков и библиотек для работы с нейронными сетями на примере экосистемы Ultralytics YOLO
+   item_authors_address: |
+     <b>В. А. Пантюшин</b>, канд. техн. наук, доц. каф., v.pantyushin@customs-academy.ru,
+     <b>А. С. Старостин</b>, канд. техн. наук, зав. каф., as.starostin@customs-academy.ru,
+     <b>В. А. Катышев</b>, студент, va.katyshev25@customs-academy.ru,
+     Российская таможенная академия, Люберцы, Московская область
+   item_rec_on: 2026-02-05
+   item_acc_on: 2026-04-20
+   item_annot: |
+     <p>Представлены классическая теория архитектуры сверточных нейронных сетей и алгоритмы их глубокого обучения на практических примерах их реализации с использованием современных библиотек и фреймворков для работы с нейронными сетями. Рассмотрены варианты установки и использования программного обеспечения нейронных сетей из облачных сервисов и хранилищ. На примере экосистемы Ultralytics YOLO рассмотрена топология сети и даны характеристики используемых нейронных слоев. Раскрыты особенности операций монтирования и настройки устройств локальной машины к виртуальной машине Google Colab в целях обучения сверточной нейронной сети YOLO. Представленный в статье алгоритм обучения демонстрирует, что успешное применение нейронных сетей сегодня строится на симбиозе понимания их внутреннего устройства, эффективного использования высокоуровневых инструментальных средств вычислительных платформ и облачных сервисов.</p>
+   item_keywords: архитектура сети, библиотеки изображений, весовые коэффициенты, предо-бученная модель, сверточная нейронная сеть, файлы разметки, функция потерь
+   item_pages: 510—519
+   item_citation: 'Пантюшин В. А., Старостин А. С., Катышев В. А. Особенности фреймворков и библиотек для работы с нейронными сетями на примере экосистемы Ultralytics YOLO // Программная инженерия. 2026. Том 17, № 9. С. 510—519. DOI: 10.17587/prin.17.510-519.'
+   item_references: |
+     <li>Галушкин А. И., Цыпкин Я. З. Нейронные сети: история развития теории: учеб. пособие для вузов. М.: Альянс, 2015. 840 c.</li>
+     <li>Бурков А. Машинное обучение без лишних слов. СПб.: Питер СПб, 2020. 192 c.</li>
+     <li>Потапов А. С. Системы компьютерного зрения: учеб. пособие. СПб.: Университет ИТМО, 2016. 161 с.</li>
+     <li>Behnke S. Hierarchical Neural Networks for Image Interpretation. Lecture Notes in Computer Science. Vol. 2766. Springer. 227 p. DOI: 10.1007/b11963.</li>
+     <li>Topol E. Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again. Basic Books, 2019. 400 p.</li>
+     <li>Ford M. Architects of Intelligence: The truth about AI from the people building it. Packt Publishing, 2018. 554 p.</li>
+     <li>Джулли А., Пал С. Библиотека Keras — инструмент глубокого обучения. М.: ДМК Пресс, 2017. 294 с.</li>
+     <li>Рашка С. Python и машинное обучение. М.: ДМК Пресс, 2017. 418 с.</li>
+     <li>Ciresan C. D., Meier U., Gambardella L. M., Schmidhuber J. Deep, Big, Simple Neural Nets Excel on Handwritten Digit Recognition // Neural Computation. 2010. Vol. 22, No. 12. P. 3207— 3220. DOI: 10.1162/NECO_a_00052.</li>
+     <li>Fisher R. A. The Use of Multiple Measurements in Taxonomic Problems // Annals of Eugenics. 1963. Vol. 7, No. 2. P. 179—188. DOI: 10.1111/j.1469-1809.1936.tb02137.x.</li>
+ - doi: 17.520-532
+   udk: '004.89'
+   edn: ORXZWM
+   item_authors: Чернышева Т. Ю., Шикляев Р. С., Драчев Д. К.
+   item_name: Интеллектуальная мультиагентная RAG-система для информирования населения при паводках
+   item_authors_address: |
+     <b>Т. Ю. Чернышева</b>, канд. техн, наук, доц., t.y.chernysheva@utmn.ru,
+     <b>Р. С. Шикляев</b>, студент, stud0000244870@utmn.ru,
+     <b>Д. К. Драчев</b>, студент, stud0000273054@utmn.ru,
+     Тюменский государственный университет
+   item_rec_on: 2025-12-11
+   item_acc_on: 2026-03-17
+   item_annot: |
+     <p>Представлены результаты разработки интеллектуальной информационно-справочной системы, основанной на архитектуре Retrieval-Augmented Generation (RAG), предназначенной для оперативного информирования населения при паводках. Рассмотрены существующие решения, которые не обеспечивают персонализированных рекомендаций и не позволяют гражданам быстро ориентироваться в сложной ситуации. Представлены особенности архитектуры разработанной системы, обеспечивающей интеграцию официальной информации и поддержку персонализированного информирования пользователей через интеллектуальный Telegram-бот. Описаны методы обработки данных, векторный поиск, мультиагентная RAG-архитектура и результаты тестирования. Показано, что внедрение системы позволяет повысить точность, скорость и персонализированность информирования граждан при паводках.</p>
+   item_keywords: RAG, LLM, мультиагентная архитектура, паводки, гражданская защита, информационные системы, Telegram-бот, семантический поиск, чрезвычайные ситуации
+   item_pages: 520—532
+   item_comment: Исследование выполнено при поддержке Министерства науки и высшего образования Российской Федерации в рамках проекта «Фундаментальные проблемы методики разработки и связанного с ней правового и этического регулирования в сфере применения систем и моделей искусственного интеллекта» (FEWZ-2024-0052).
+   item_citation: 'Чернышева Т. Ю., Шикляев Р. С., Драчев Д. К. Интеллектуальная мультиагентная RAG-система для информирования населения при паводках // Программная инженерия. 2026. Том 17, № 9. С. 520—532. DOI: 10.17587/prin.17.520-532.'
+   item_references: |
+     <li>Карапузиков А. А., Мураев Н. П. Применение инновационных технических средств в условиях затопления территорий // Правовая информатика. 2025. № 3. С. 90—95. DOI: 10.24412/1994-1404-2025-3-00-09.</li>
+     <li>Klesel M., Wittmann H. F. Retrieval-Augmented Generation (RAG) // Business & Information Systems Engineering. 2025. Vol. 67. P. 551—561. DOI: 10.1007/s12599-025-00945-3.</li>
+     <li>Jiao J., Park J., Xu Y. et al. SafeMate: A Modular RAG-Based Agent for Context-Aware Emergency Guidance // arXiv: preprint. 2025. DOI: 10.48550/arXiv.2505.02306.</li>
+     <li>Xu S., Yan Z., Dai C., Wu F. MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health // Frontiers in Public Health. 2025. Vol. 13. Article 1635381. DOI: 10.3389/fpubh.2025.1635381.</li>
+     <li>Xie Y., Jiang B., Mallick T. et al. WildfireGPT: Tailored large language model for wildfire analysis // arXiv: preprint. 2024. DOI: 10.48550/arXiv.2402.07877.</li>
+     <li>Бурый А. С., Цаплина О. С. Агентные модели принятия решений на основе генеративного искусственного интеллекта // Правовая информатика. 2025. № 1. С. 101—109. DOI: 10.24412/1994-1404-2025-1-101-109.</li>
+     <li>Helbing D., Molnar P. Social force model for pedestrian dynamics // Physical Review E. 1995. Vol. 51, No. 5. P. 4282—4286. DOI: 10.1103/PhysRevE.51.4282.</li>
+     <li>Макаров В. Л., Бахтизин А. Р., Бекларян Г. Л., Акопов А. С. Разработка программной платформы для крупномасштабного агент-ориентированного моделирования сложных социальных систем // Программная инженерия. 2019. Том 10, № 4. С. 167—177. DOI: 10. 17587/prin. 10.167-177.</li>
+     <li>Акопов А. С., Бекларян Л. А. Агентная модель поведения толпы при чрезвычайных ситуациях // Автоматика и телемеханика. 2015. № 10. С. 131—143.</li>
+     <li>James A., Trovati M., Bolton S. Retrieval-Augmented Generation to Generate Knowledge Assets and Creation of ActionDrivers // Applied Sciences. 2025. Vol. 15, No. 11. Aricle 6247. DOI: 10.3390/app15116247.</li>
+     <li>Moser D., Bender M., Sariyar M. A Pipeline for Automating Emergency Medicine Documentation Using LLMs with Retrieval-Augmented Text Generation // Applied Artificial Intelligence. 2025. Vol. 39, No. 1. Article 2519169. DOI: 10.1080/08839514.2025.2519169.</li>
+     <li>Lewis P., Perez E., Piktus A. et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks // Advances in Neural Information Processing Systems. 2020. No. 33. P. 9459—9474. DOI: 10.48550/arXiv.2005.11401.</li>
+     <li>Каширина И. Л., Осипов И. Р., Яковлев В. А. Разработка и оценка RAG-системы для анализа семантических связей // Вестник ВГУ. Серия: Системный анализ и информационные технологии. 2025. № 2. С. 114—126.</li>
+     <li>Gao Y., Xiong Y., Gao X. et al. Retrieval-Augmented Generation for Large Language Models: A Survey // arXiv: preprint. 2023. DOI: 10.48550/arXiv.2312.10997.</li>
+     <li>Barnett S., Kurniawan S., Thudumu S. et al. Seven failure points when engineering a retrieval augmented generation system // Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI. 2024. P. 194—199.</li>
+     <li>Guerraoui R., Kermarrec A., Petrescu D. et al. Efficient federated search for retrieval-augmented generation // Proceedings of the 5th Workshop on Machine Learning and Systems. 2025. P. 74—81.</li>
+     <li>Gao Y., Xiong Y., Wang M. et al. Modular RAG: Transforming RAG Systems into LEGO-Like Reconfigurable Frameworks // arXiv: preprint. 2024. DOI: 10.48550/arXiv.2407.21059.</li>

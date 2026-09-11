@@ -1,0 +1,179 @@
+---
+title: Issue N9 2026 year
+content:
+ - doi: 17.475-485
+   udk: '004.622:519.688'
+   edn: GQBZYN
+   item_authors: Bogoiavlenskaia O. Yu.
+   item_name: Distributed Architecture for Multilevel Sensor Data Processing in Intellectual Environment
+   item_authors_address: |
+     <b>O. Yu. Bogoiavlenskaia</b>, Cand. Sc. (Eng.), Associate Professor, olbgvl@cs.petrsu.ru,
+     Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation
+   item_corr_author: 'Olga Yu. Bogoiavlenskaia, Cand. Sc. (Eng.), Associate Professor, Petrozavodsk State University, Petrozavodsk, 185910, Russian Federation, E-mail: olbgvl@cs.karelia.ru'
+   item_rec_on: March 02, 2026
+   item_acc_on: April 21, 2026
+   item_annot: |
+     <p>Substantial volume of sensed data available and high complexity of data analysis methods create a need for increasing the effectiveness of monitoring and data selection for real-time application with the aim for deploying the high-complexity algorithms on distributed platforms with mobile components and autonomous power supply. The paper describes a distributed architecture for multi-level processing of these raw data, based on the presentation of the intellectual environment as a set of states. The algorithms have been developed as well to reduce the load on hardware and network infrastructure and to improve the accuracy of data classification through contextual correction of intellectual classification results.</p>
+   item_keywords: sensor, data analysis, holistic approach, architecture, delay, algorithm, context-aware method
+   item_pages: 475—485
+   item_citation: 'Bogoiavlenskaia O. Yu. Distributed Architecture for Multilevel Sensor Data Processing in Intellectual Environment, Programmnaya Ingeneria, 2026, vol. 17, no. 9, pp. 475—485. DOI: 10.17587/prin.17.475-485 (in Russian).'
+   item_references: |
+     <li>Perera C., Talagala D., Liu C. H., Estrella J. C. Energyefficient location and activity-aware on-demand mobile distributed sensing platform for sensing as a service in IoT clouds, IEEE Transactions on Computational Social Systems, 2016, vol. 2, no. 9, pp. 171—181. DOI: 10.1109/TCSS.2016.2515844.</li>
+     <li>Borham M. L., Khoriba G., Mostafa M. Enhancement of Data Collection Performance in Wireless Sensor Networks Based on Path-Constrained Mobile Sink, International Journal of Intelligent Engineering and Systems, 2020, vol. 14, no. 1, pp. 400—409. DOI: 10.22266/ijies2021.0228.37.</li>
+     <li>Mortada M., Makhoul A., Jaoude C. A. et al. A Distributed Processing Technique for Sensor Data Applied to Underwater Sensor Networks, 15th Int. Wireless Communications & Mobile Computing Conference (IWCMC), Tangier, Morocco, 2019, pp. 979—984. DOI: 10.1109/IWCMC.2019.8766742.</li>
+     <li>Surzhik D., Vasilyev G., Kuzichkin O. Study of the Performance of Adaptive Sensor Networks for Collecting and Processing Thermoelectric Data, Adv. in Automation VI. RusAutoCon 2024. Lecture Notes in Electrical Engineering, 2025, vol. 1324, pp. 99—109. DOI: 10.1007/978-3-031-82494-4_10.</li>
+     <li>Tu C., Takeuchi E., Carballo A. et al. Motion Analysis and Performance Improved Method for 3D LiDAR Sensor Data Compression, IEEE Transactions on Intelligent Transportation Systems, 2021, vol. 22, no. 1, pp. 243—256. DOI: 10.1109/tits.2019.2956066.</li>
+     <li>Abbood I. K., Idrees A. K. Data reduction techniques for wireless multimedia sensor networks: a systematic literature review, Journal on Supercomputing. 2024, vol. 80, pp. 10044—10089. DOI: 10.1007/s11227-023-05842-8.</li>
+     <li>Damigos G., Lindgren T., Sandberg S., Nikolakopoulos G. Performance of Sensor Data Process Offloading on 5G-Enabled UAVs, Sensors, 2023, vol. 23, no. 2, article 864. DOI: 10.3390/s23020864.</li>
+     <li>Kang J. J., Luan T. H., Larkin H. Enhancement of sensor data transmission by inference and efficient data processing, Applications and Techniques in Information Security — 6th International Conference, ATIS 2016, Proceedings, Communications in Computer and Information Science, 2016, vol. 651, pp. 81—92. DOI: 10.1007/978-981-10-2741-3_7.</li>
+     <li>Duque H., Diao K., Villa R. et al. Context-aware data driven sensor data analysis: With application to H2S concentration prediction in urban drainage networks, Water Research X, 2025, vol. 28, article 100346. DOI: 10.1016/j.wroa.2025.100346.</li>
+     <li>De Paola A., Ferraro P., Gaglio P., Lo Re G. Context-Awareness for Multi-sensor Data Fusion in Smart Environments, 2016 Advances in Artificial Intelligence. AI*IA 2016. Lecture Notes in Computer Science, 2016, vol. 10037, pp. 377—391. DOI: 10.1007/978-3-319-49130-1_28.</li>
+     <li>Al-Saedi A. A., Boeva V., Casalicchio E., Exner P. Context-Aware Edge-Based AI Models for Wireless Sensor Networks-An Over- view, Sensors, 2022, vol. 22, no. 15, article 5544. DOI: 10.3390/s22155544.</li>
+     <li>Tian Y., Zhang J. Optimizing Sensor Deployment for Multi-Sensor-Based HAR System with Improved Glowworm Swarm Optimization Algorithm, Sensors, 2020, vol. 20, no. 24, article 7161. DOI: 10.3390/s20247161.</li>
+     <li>Hofler L. Good results from sensor data: Performance of machine learning algorithms for regression problems in chemical sensors, Sensors and Actuators B: Chemical., 2024. vol. 421, ar­ticle 136528. DOI: 10.1016/j.snb.2024.136528.</li>
+     <li>Logacjov A., Bach K., Kongsvold A. et al. HARTH: A Human Activity Recognition Dataset for Machine Learning, Sensors, 2021, vol. 21, no. 23, article 7853. DOI: 10.3390/s21237853.</li>
+     <li>Dimara A., Papaioannou A., Papaioannou C. et al. An Intelligent IoT Framework for Real-Time Energy-Efficient Smart Build­ing Management, International Conference on Supply Chains. ICSC 2024. Communications in Computer and Information Science, 2024, vol. 2110, pp. 201—214. DOI: 10.1007/978-3-031-69344-1_15.</li>
+     <li>Salice F., Mangano D., Bouchard K., Comai S. A uniform approach to HAR recognition in unobtrusive indoor monitoring systems, Journal of Reliable Intelligent Environments, 2025, vol. 11, article 15. DOI: 10.1007/s40860-025-00255-1.</li>
+     <li>Casale P., Pujol O., Radeva P. Human Activity Recognition from Accelerometer Data Using a Wearable Device, Pattern Recognition and Image Analysis, 2011, vol. 6669, pp. 289—296. DOI: 10.1007/978-3-642-21257-4_36.</li>
+ - doi: 17.486-496
+   udk: '004.512'
+   edn: JNQQRK
+   item_authors: Okonov A. A., Zaitsev K. S., Dunaev M. E.
+   item_name: Server-Side Component for Centralized Log Collection and Storage in Distributed Computing Systems
+   item_authors_address: |
+     <b>A. A. Okonov</b>, Engineer, k151201@yandex.ru,
+     <b>K. S. Zaitsev</b>, D. Sc. (Eng.), Professor, kszajtsev@mephi.ru,
+     <b>M. E. Dunaev</b>, Lecturer, max.dunaev@mail.ru,
+     National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation
+   item_corr_author: 'Konstantin S. Zaitsev, D. Sc. (Eng.), Professor, National Research Nuclear University "MEPhI", Moscow, 115409, Russian Federation, E-mail: KSZajtsev@mephi.ru'
+   item_rec_on: June 03, 2025
+   item_acc_on: March 17, 2026
+   item_annot: |
+     <p>The objective of this study is to improve the efficiency and reliability of centralized collection and analytical availability of diagnostic data in distributed information systems. The study reviews local Syslog-based approaches, broker-based solutions, architectural styles, and relevant technology stacks. A centralized event logging system was developed that combines lightweight local log collection, asynchronous delivery, and scalable centralized storage. Compared with local Syslog solutions, it provides centralized accumulation and analytical access to logs; compared with broker-based platforms, it reduces deployment and operational complexity for medium- and low-load environments. The system is implemented in Go using the Gorilla framework. A sharded ClickHouse-based storage architecture with Round Robin load balancing is proposed. Experimental results confirm stable event collection, analytical availability of logs, and a balanced trade-off between throughput, reliability, and infrastructure complexity.</p>
+   item_keywords: server application, Golang, Syslog, ClickHouse, sharding, load balancing, Docker
+   item_pages: 486—496
+   item_citation: 'Okonov A. A., Zaitsev K. S., Dunaev M. E. Server-Side Component for Centralized Log Collection and Storage in Distributed Computing Systems, Programmnaya Ingeneria, 2026, vol. 17, no. 9, pp. 486—496. DOI: 10.17587/prin.17.486-496 (in Russian).'
+   item_references: |
+     <li>Rosenberg J. Data Discoverability in Science Gateways at Scale using Elasticsearch Cluster Architecture, Practice and Experience in Advanced Research Computing, 2022, article 41. DOI: 10.1145/3491418.3535170.</li>
+     <li>Sankar P., George D. E., Aparna Sankar N. S. Social media monitoring using ELK Stack, 2022 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2022, vol. 1, pp. 231—235. DOI: 10.1109/SPIC-ES52834.2022.9774273.</li>
+     <li>Tokar D., Morozova O., Kharchenko V. The IoT Applications Productivity: Data Management Model and ELK Tool Based Monitor­ing and Research, 2022 IEEE 16th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET), 2022, pp. 162—167. DOI: 10.1109/TCSET55632.2022.9766930.</li>
+     <li>Sukhanov M. Y. Apache Kafka as a Means of Ensuring Reliable Communication in Microservice Systems Based on the Spring Framework, Young Scientist: Collection of Articles of the 8th International Scientific and Practical Conference, Penza, July 5, 2024, Penza, Nauka i Prosveshchenie, 2024, pp. 59—65 (in Russian).</li>
+     <li>Kalandarev A. ClickHouse in Statistics Collection Systems, Sistemnyj administrator, 2017, no. 3 (172), pp. 56—59 (in Russian).</li>
+     <li>Gribanov I. V. Network Monitoring System Using syslog, Studencheskij vestnik, 2021, no. 41-5 (186), pp. 34—40 (in Russian).</li>
+     <li>Chernyshev K. D., Yashonkov A. V. Methods of Load Balancing on Information Systems Servers, Development of Science and the Global Community: Proceedings of the 13th International Scientific Research Competition, Anapa, August 26, 2024, Anapa, Nauchno-issledovatel'skij centr ekonomicheskih i social'nyh processov v Yuzhnom Federal'nom okruge, 2024, pp. 48—57 (in Russian).</li>
+     <li>Osokin D. A., Maslakov A. P. Development of a Distributed SIEM System for Log Collection and Analysis in an Organization's Computer Network, Modern Technologies in the Theory and Practice of Programming: Proceedings of the Scientific-Practical Conference of Students, Postgraduates and Young Scientists, Saint Petersburg, April 24—25, 2024, Saint Petersburg: Peter the Great St. Petersburg Polytechnic University, 2024, pp. 81—83 (in Russian).</li>
+     <li>Denisov V. V., Samoilov N. K. Advantages of Hexagonal Architecture in a Microservice Application, Proceedings of Young Scientists of the Faculty of Computer Science of VSU, Voronezh, VELBORN, 2022, vol. 2, pp. 257—263 (in Russian).</li>
+     <li>Sergushkin V. V., Bodrov O. A. Features of Implementing a Multithreaded Application on Data-Transmission Hardware, 7th In­ternational Scientific and Technical Conference "K. E. Tsiolkovsky — 160 Years Since Birth. Astronautics. Radioelectronics. Geoinformatics", Conference Abstracts, Ryazan, October 4—6, 2017, Ryazan, Ryazan State Radio Engineering University, 2017, pp. 288—290 (in Russian).</li>
+     <li>Alexandria G. Eclarin E. Round Robin Rumble: A Comparative Analysis of Round Robin-based Hybrid Scheduling Algo­rithms, International Journal of Science and Research, 2024, vol. 13, no. 9, pp. 386—389. DOI: 10.21275/sr24904185322.</li>
+     <li>Parshikov P. A., Parshikova G. V. Dynamic Sharding Using a Table Function, Priority Directions of Innovative Activity in Industry: Collection of Scientific Articles Based on the Proceedings of the Fourth International Scientific Conference, Kazan, April 29—30, 2020, Kazan, Konvert, 2020, vol. 2, pp. 101—103 (in Russian).</li>
+     <li>Nada S., Nuredin A. Microservices vs. Monolithic Architectures [The Differential Structure between two Architectures], MINAR International Journal of AppliedSciences and Technology, 2022, vol. 4, pp. 484—490. DOI: 10.47832/2717-8234.12.47 (in Russian).</li>
+ - doi: 17.497-509
+   udk: '004.89'
+   edn: CBCKBU
+   item_authors: Samokhvalov A. V., Solovjev D. S., Korabelnikov E. O., Egorov M. A.
+   item_name: Towards the Development of a Module for Automated Construction of an Individual Educational Trajectory for IT Specialist Training using Artificial Intelligence Technologies
+   item_authors_address: |
+     <b>A. V. Samokhvalov</b>, Cand. Sc. (Ped.), Head of Department of Mathematical Modeling and Information Technologies, samohvalov@gmail.com,
+     <b>D. S. Solovjev</b>, D. Sc. (Eng.), Associate Professor, Department of Mathematical Modeling and Information Technologies, solovjevdenis@mail.ru,
+     <b>E. O. Korabelnikov</b>, Student, serent2003@mail.ru,
+     <b>M. A. Egorov</b>, Student, max.egorov12345@gmail.com,
+     Derzhavin Tambov State University, Tambov, 392000, Russian Federation
+   item_corr_author: 'Alexey V. Samokhvalov, Cand. Sc. (Ped.), Head of the Department of Mathematical Modeling and Information Technologies, Derzhavin Tambov State University, Tambov, 392000, Russian Federation, E-mail: samohvalov@gmail.com'
+   item_rec_on: December 24, 2025
+   item_acc_on: March 10, 2026
+   item_annot: |
+     <p>The article addresses the pressing challenge of personalizing educational programs in the field of IT specialist training. To tackle this issue, the authors propose a software module that integrates into the Moodle learning management system and interacts with an external FastAPI server and a pre-trained neural network model to automate the construction of individual educational trajectories based on an analysis of students' initial competencies. Requirements for the module are formulated, and its development is carried out using an event-driven architecture. The functional model, system architecture, and information and software components are described. The results of a comparative experimental evaluation of the module's effectiveness are presented, demonstrating its advantages over both the traditional method of manual educational trajectory determination and the approach based on automated assessment funds.</p>
+   item_keywords: distance learning, automated system, artificial intelligence, educational data analysis, learner distribution, Moodle, FastAPI, intelligent analysis, language testing
+   item_pages: 497—509
+   item_comment: The research was carried out within the framework of implementation of the development program of Derzhavin Tambov State University "Priority-2030"
+   item_citation: 'Samokhvalov A. V., Solovjev D. S., Korabelnikov E. O., Egorov M. A. Towards the Development of a Module for Automated Construction of an Individual Educational Trajectory for IT Specialist Training using Artificial Intelligence Technologies, Programmnaya Ingeneria, 2026, vol. 17, no. 9, pp. 497—509. DOI: 10.17587/prin.17.497-509.'
+   item_references: |
+     <li>Büchner A. Moodle 3 Administration. Third Edition, Birmingham, Packt Publishing, 2016, 492 p.</li>
+     <li>Vlasova I. V. The Analysis of the Possibilities of E-Learning System Moodle to Improve the Efficiency of the Learning Process in a Technical University, Vysshee Obrazovanie Segodnya, 2022, no. 9, pp. 38—40. DOI: 10.18137/RNU.HET.22.09.P. 038.</li>
+     <li>Chen L., Chen P., Lin Z. Artificial Intelligence in Education: A Review, IEEE Access, 2020, vol. 8, pp. 75264—75278. DOI: 10.1109/ACCESS.2020.2988510.</li>
+     <li>Baker R. S., Inventado P. S. Educational Data Mining and Learning Analytics, Learning Analytics, Springer, New York, NY. 2014, pp. 61—75. DOI: 10.1007/978-1-4614-3305-7_4.</li>
+     <li>Protasova Yu. V., Nemtinov V. A., Shipilova V. G. et al. Hybrid Educational Environment of the University’s Engineering Schools for the Implementation of Early Career Guidance for Schoolchildren, Programmnaya Ingeneria, 2024, vol. 15, no. 12, pp. 648—661. DOI: 10.17587/prin.15.648-661 (in Russian).</li>
+     <li>Ke Z., Ng V. Automated Essay Scoring: A Survey of the State of the Art, Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19), 2019, pp. 6300—6308. DOI: 10.24963/ijcai.2019/879.</li>
+     <li>Dolinina O. N., Kushnikov V. A. Methods and Technologies for Quality Assurance of Intelligent Decision-Making Systems, Programmnaya Ingeneria, 2021, vol. 12, no. 4, pp. 189—199. DOI: 10.17587/prin.12.189-199 (in Russian).</li>
+     <li>Romero C., Ventura S. Educational Data Mining and Learning Analytics: An Updated Survey, WIREs Data Mining and Knowledge Discovery, 2020, vol. 10, no. 3, article e1355. DOI: 10.1002/widm.1355.</li>
+     <li>Orlova E. V. Reinforcement Learning Methods and Algorithms for Modeling Individual Trajectories of Professional Development, Programmnaya Ingeneria, 2023, vol. 14, no. 12, pp. 603—615. DOI: 10.17587/prin.14.603-615 (in Russian).</li>
+     <li>Kiyan I. V. Automation and management principles tech­nological processes in education sphere, Energobezopasnost' i energosberezhenie, 2009, no. 4, pp. 43—47 (in Russian).</li>
+     <li>Karpenko S. N., Kuzenkova G. V., Shestakova N. V. et al. Creation of an Electronic Testing System Based on the Moodle LMS as an Element of the Assessment Fund, Sovremennye Informatsionnye Tekhnolo-gii i IT-Obrazovanie, 2016, vol. 12, no. 3-2, pp. 55—61 (in Russian).</li>
+     <li>Hohpe G., Woolf B. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, Addison-Wesley Profes­sional, 2004, 741 p.</li>
+     <li>Methodology of functional modeling IDEF0. Guiding document RD IDEF0-2000, Moscow, Gosstandart of Russia, 2000, 75 p. (in Russian).</li>
+     <li>Rybalchenko M. V. Architecture of information systems, Mos­cow, Yurait Publishing House, 2019, 91 p. (in Russian).</li>
+     <li>Nesterov S. A. Databases, Moscow, Yurait Publishing House, 2025, 258 p. (in Russian).</li>
+     <li>Wild I., Tak J. Moodle 3.x Developer's Guide, Birmingham, Packt Publishing, 2025, 368 p.</li>
+     <li>De Luca G. FastAPI Cookbook: Develop High-Performance APIs and Web Applications with Python, 1st ed, Birmingham, Packt Publishing, 2024, 359 p.</li>
+     <li>Wyte D. Pydantic in Action: Data Integrity and Schema Design for Intelligent Systems, Independently published, 2025, 339 p.</li>
+ - doi: 17.510-519
+   udk: '004.89'
+   edn: MRBQEQ
+   item_authors: Pantyushin V. A., Starostin A. S., Katyshev V. А.
+   item_name: Features of Frameworks and Libraries for Working with Neural Networks using the Example of the Ultralytics YOLO Ecosystem
+   item_authors_address: |
+     <b>V. A. Pantyushin</b>, Cand. Sc. (Eng.), Associate Professor, v.pantyushin@customs-academy.ru,
+     <b>A. S. Starostin</b>, Cand. Sc. (Eng.), Head of the Department, as.starostin@customs-academy.ru,
+     <b>V. A. Katyshev</b>, Master's Student, va.katyshev25@customs-academy.ru,
+     Russian Customs Academy, Lyubertsy, Moscow region, 140015, Russian Federation
+   item_corr_author: 'Valery A. Pantyushin, Cand. Sc. (Eng.), Associate Professor, Russian Customs Academy, Lyubertsy, Moscow region, 140015, Russian Federation, E-mail: v.pantyushin@customs-academy.ru'
+   item_rec_on: February 05, 2026
+   item_acc_on: April 20, 2026
+   item_annot: |
+     <p>The relevance of this work stems from the fact that modern artificial intelligence technologies, particularly deep learning, are rapidly penetrating all areas of human activity — from medicine and autonomous vehicles to security systems, data analysis, and copyright protection. This technological breakthrough is underpinned by convolutional neural networks, capable of solving computer vision problems such as object detection, classification, and segmentation with high accuracy. However, the practical implementation and training of such networks entails a number of methodological and algorithmic challenges that require specialists not only to have basic theoretical knowledge but also the ability to effectively use modern software tools and cloud services. Therefore, comparative analysis and mastery of popular frameworks and libraries that abstract low-level implementation details, allowing for greater focus on defining and solving applied problems, are particularly relevant.
+     The theoretical significance of this article lies in stimulating research into improving the efficiency and performance of artificial intelligence algorithms using a detailed representation of the architecture and topology of a convolutional neural network and an analysis of the results of a deep machine learning implementation.
+     The practical significance of this article lies in the implementation of an algorithm for deploying and training the YOLO model in Ultralytics using the Google Colab cloud service and the MS COCO image library.
+     Using the Ultralytics YOLO ecosystem as an example, this article examines the network topology and describes the characteristics of the neural layers used. It also explains the specifics of mounting and configuring local machine devices to a Google Colab virtual machine for training the YOLO convolutional neural network.
+     The analysis confirms that modern frameworks, such as the Ultralytics YOLO ecosystem, provide developers with powerful and convenient tools for solving a wide range of computer vision problems. They encapsulate complex stages of neural network development — from topology design to training and validation — by providing pre-trained models, a consistent API, and extensive helper functions. The use of cloud environments like Google Colab solves the problem of limited local computing resources, making deep learning technologies more efficient and accessible.
+     Using the YOLOv8n model training example, the full workflow was demonstrated: from mounting cloud storage and installing dependencies to actually running the training process with specified hyperparameters. A detailed analysis of key metrics such as loss functions, precision, recall, and average accuracy demonstrated their critical importance for monitoring progress, diagnosing issues (such as overfitting), and objectively assessing the model's final performance. Thus, the successful application of neural networks today is based on a symbiosis of understanding their internal structure and the effective use of high-level computing platform tools and cloud services.</p>
+   item_keywords: network architecture, image libraries, weighting coefficients, pretrained model, convolutional neural network, markup files, loss function
+   item_pages: 510—519
+   item_citation: 'Pantyushin V. A., Starostin A. S., Katyshev V. А. Features of Frameworks and Libraries for Working with Neural Networks using the Example of the Ultralytics YOLO Ecosystem, Programmnaya Ingeneria, 2026, vol. 17, no. 9, pp. 510—519. DOI: 10.17587/prin.17.-510-519 (in Russian).'
+   item_references: |
+     <li>Galushkin A. I., Tsypkin Ya. Z. Neural Networks: The His­tory of Theory Development: A Textbook for Universities, Moscow, Alliance, 2015, 840 p. (in Russian).</li>
+     <li>Burkov A. Machine Learning Without Fuss, Saint Petersburg, Piter SPb, 2020, 192 p. (in Russian).</li>
+     <li>Potapov A. S. Computer Vision Systems. A Textbook, Saint Petersburg, ITMO University, 2016, 161 p. (in Russian).</li>
+     <li>Behnke S. Hierarchical Neural Networks for Image Interpretation. Lecture Notes in Computer Science. Vol. 2766. Springer. 227 p. DOI: 10.1007/b11963.</li>
+     <li>Topol E. Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again, Basic Books, 2019, 400 p.</li>
+     <li>Ford M. Architects of Intelligence: The truth about AI from the people building it, Packt Publishing, 2018, 554 p.</li>
+     <li>Giulli A., Pal S. Keras Library: A Deep Learning Toolkit, Moscow, DMK Press, 2017, 294 p. (in Russian).</li>
+     <li>Raska S. Python and Machine Learning, Moscow, DMK Press, 2017, 418 p. (in Russian).</li>
+     <li>Ciresan C. D., Meier U., Gambardella L. M., Schmidhuber J. Deep Big Simple Neural Nets Excel on Handwritten Digit Recognition (English), Neural Computation, 2010, vol. 22, no. 12, pp. 3207—3220. DOI: 10.1162/NECO_a_00052.</li>
+     <li>Fisher R. A. The Use of Multiple Measurements in Taxonomic Problems, Annals of Eugenics, 1963, vol. 7, no. 2, pp. 179—188. DOI: 10.1111/j.1469-1809.1936.tb02137.x.</li>
+ - doi: 17.520-532
+   udk: '004.89'
+   edn: ORXZWM
+   item_authors: Chernysheva T. Yu., Shiklyaev R. S., Drachev D. K.
+   item_name: Intelligent Multi-Agent RAG System for Flood Emergency Public Information
+   item_authors_address: |
+     <b>T. Yu. Chernysheva</b>, Cand. (Eng.), Associate Professor, t.y.chernysheva@utmn.ru,
+     <b>R. S. Shiklyaev</b>, Student, stud0000244870@utmn.ru,
+     <b>D. K. Drachev</b>, Student, stud0000273054@utmn.ru,
+     University of Tyumen, Tyumen, 625003, Russian Federation
+   item_corr_author: 'Tatiana Yu. Chernysheva, Cand. (Eng.), Associate Professor, University of Tyumen, Tyumen, 625003, Russian Federation, E-mail: t.y.chernysheva@utmn.ru'
+   item_rec_on: December 11, 2025
+   item_acc_on: March 17, 2026
+   item_annot: |
+     <p>The article presents the development and evaluation of an intelligent information system designed to support rapid decision-making and public communication during flood emergencies. The system is based on a Retrieval-Augmented Generation (RAG) approach and integrates official sources, domain knowledge and user interaction through an automated messaging interface. The goal of the research is to provide accurate, structured and per­sonalized recommendations for citizens by combining document retrieval with natural language generation. The architecture of the system incorporates modules for data acquisition, semantic indexing, query routing, and response generation, supported by a formal mathematical description of vector search and graph-based state transitions. A multi-agent design is applied to separate functional roles: operational guidance, legal information, and general inquiries. Each agent processes incoming requests within its domain, ensuring correct classification of user queries and structured output. The system retrieves relevant information dynamically, generates responses and formats them according to predefined templates, which contributes to reducing errors and ambiguity. A series of experi­ments was conducted on a representative set of user scenarios, including evacuation instructions, legal regulations and general awareness questions. Quantitative evaluation demonstrated high accuracy of responses and low er­ror rates, while response time remained suitable for real-time use. Qualitative examples confirmed consistency of output structure and relevance to user requests. The results show that the proposed system improves the clarity, speed, and reliability of emergency information delivery and may be applied to other risk management contexts requiring personalized, source-based recommendations, while also outlining prospects for its future integration with simulation-based evacuation models.</p>
+   item_keywords: RAG, LLM, multi-agent architecture, floods, civil protection, information systems, Telegram bot, se­mantic search, emergency situations
+   item_pages: 520—532
+   item_comment: This work was supported by the Ministry of Science and Higher Education of the Russian Federation within the project "Fundamental problems of development methodology and related legal and ethical regulation in the field of application of artificial intelligence systems and models" (FEWZ-2024-0052).
+   item_citation: 'Chernysheva T. Yu., Shiklyaev R. S., Drachev D. K. Intelligent Multi-Agent RAG System for Flood Emergency Public Information, Programmnaya Ingeneria, 2026, vol. 17, no. 9, pp. 520—532. DOI: 10.17587/prin.17.520-532. (in Russian).'
+   item_references: |
+     <li>Karapuzikov A. A., Muraev N. P. Application of Innovative Technical Means in Conditions of Flooding of Territories, Pravovaia Informatika, 2025, no. 3, pp. 90—95. DOI: 10.24412/1994-1404­2025-3-00-09 (in Russian).</li>
+     <li>Klesel M., Wittmann H. F. Retrieval-Augmented Generation (RAG), Business & Information Systems Engineering, 2025, vol. 67, pp. 551—561. DOI: 10.1007/s12599-025-00945-3.</li>
+     <li>Jiao J., Park J., Xu Y. et al. SafeMate: A Modular RAG-Based Agent for Context-Aware Emergency Guidance, arXiv: pre-print, 2025. DOI: 10.48550/arXiv.2505.02306.</li>
+     <li>Xu S., Yan Z., Dai C., Wu F. MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided an­swer refinement for mitigating hallucinations of LLMs in public health, Frontiers in Public Health, 2025, vol. 13. DOI: 10.3389/fpubh.2025.1635381</li>
+     <li>Xie Y., Jiang B., Mallick T. et al. WildfireGPT: Tailored large language model for wildfire analysis, arXiv: preprint, 2024. DOI: 10.48550/arXiv.2402.07877.</li>
+     <li>Buryi A. S., Tsaplina O. S. Agent-Based Models for De­cision-Making Using Generative Artificial Intelligence, Pravovaia Informatika, 2025, no. 1, pp. 101—109. DOI: 10.24412/1994-1404­2025-1-101-109 (in Russian).</li>
+     <li>Helbing D., Molnar P. Social force model for pedestrian dynamics, Physical Review E, 1995, vol. 51, no. 5, pp. 4282—4286. DOI: 10.1103/PhysRevE.51.4282.</li>
+     <li>Makarov V. L., Bakhtizin A. R., Beklaryan G. L., Akopov A. S. Development of Software Framework for Large-Scale Agent-Based Modeling of Complex Social Systems, Programmnaya Ingeneria, 2019, vol. 10, no. 4, pp. 167—177. DOI: 10.17587/prin.10.167-177 (in Russian).</li>
+     <li>Akopov A. S., Beklaryan L. A. Agent model of crowd behavior in emergency situations, Avtomatika i Telemekhanika, 2015, no. 10, pp. 131—143 (in Russian).</li>
+     <li>James A., Trovati M., Bolton S. Retrieval-Augmented Generation to Generate Knowledge Assets and Creation of Ac­tion Drivers, Applied Sciences, 2025, vol. 15, no. 11, article 6247. DOI: 10.3390/app15116247.</li>
+     <li>Moser D., Bender M., Sariyar M. A Pipeline for Automat­ing Emergency Medicine Documentation Using LLMs with Re­trieval-Augmented Text Generation, Applied Science, 2025, vol. 39, no. 1, article 2519169. DOI: 10.1080/08839514.2025.2519169.</li>
+     <li>Lewis P., Perez E., Piktus A. et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Advances in Neural Information Processing Systems, 2020, no. 33, pp. 9459—9474. DOI: 10.48550/arXiv.2005.11401.</li>
+     <li>Kashirina I. L., Osipov I. R., Yakovlev V. A. Develop­ment and Evaluation of a Rag System for Analysis of Semantic Relations of Specialised Texts, Vestnik VGU. Seriia: Sistemnyi analiz i informatsionnye tekhnologii, 2025, no. 2, pp. 114—126 (in Russian).</li>
+     <li>Gao Y., Xiong Y., Gao X. et al. Retrieval-Augmented Generation for Large Language Models: A Survey, arXiv: preprint, 2023. DOI: 10.48550/arXiv.2312.10997.</li>
+     <li>Barnett S., Kurniawan S., Thudumu S. et al. Seven Failure Points When Engineering a Retrieval Augmented Generation System, Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI, Lisbon, Portugal. April 2024, pp. 194—199.</li>
+     <li>Guerraoui R., Kermarrec A., Petrescu D. et al. Efficient Federated Search for Retrieval-Augmented Generation, Proceedings of the 5th Workshop on Machine Learning and Systems, 2025, pp. 74—81.</li>
+     <li>Gao Y., Xiong Y., Wang M. et al. Modular RAG: Transforming RAG Systems into LEGO-Like Reconfigurable Frameworks, arXiv: preprint. 2024. DOI: 10.48550/arXiv.2407.21059.</li>
