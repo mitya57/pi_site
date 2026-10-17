@@ -1,0 +1,197 @@
+---
+title: Номер 10 2026 год
+date: 2026-10-09
+content:
+ - doi: 17.535-541
+   udk: '004.8:004.4'
+   edn: FSWOIF
+   item_authors: Жучков Ф. Г., Брюханова Е. Р., Колосова О. В., Хахина А. М., Антамошкин О. А.
+   item_name: Управляемое улучшение программных агентов на основе больших языковых моделей с использованием функции пригодности
+   item_authors_address: |
+     <b>Ф. Г. Жучков</b><sup>1</sup>, соискатель, philipgermanovich@yandex.ru,
+     <b>Е. Р. Брюханова</b><sup>2, 3</sup>, канд. техн. наук, доц., ст. системный аналитик, evgbryuhanova@gmail.com,
+     <b>О. В. Колосова</b><sup>1</sup>, д-р техн. наук, проф. Высшей школы технологического предпринимательства, okolosova@spbstu.ru,
+     <b>А. М. Хахина</b><sup>1</sup>, д-р техн. наук, проф. Высшей школы программной инженерии, hahina_am@spbstu.ru,
+     <b>О. А. Антамошкин</b><sup>3</sup>, д-р техн. наук, зав. кафедрой программной инженерии, oleslav@mail.ru
+     <br>
+     <sup>1</sup> Санкт-Петербургский политехнический университет Петра Великого,
+     <br>
+     <sup>2</sup> АО «РУТ КОД», Москва,
+     <br>
+     <sup>3</sup> Сибирский федеральный университет, Красноярск
+   item_rec_on: 2026-04-09
+   item_acc_on: 2026-06-16
+   item_annot: |
+     <p>Рассмотрена задача разработки программных агентов на основе больших языковых моделей, способных автоматически выполнять отдельные операции по изменению программного кода, проверке результата и накоплению опыта предыдущих действий.
+     Предложен подход к управляемому улучшению программных систем, при котором агент формирует гипотезы изменений, вносит модификации в кодовую базу, запускает тестовый контур и оценивает полученный результат с использованием функции оценки качества. Управляемость процесса обеспечивается за счет фиксированных условий эксперимента, автоматической проверки изменений и сопоставления результатов различных стратегий поведения агента.
+     Для экспериментальной оценки разработан стенд RSI-Bench, предназначенный для сравнения стратегий поведения программных агентов при решении задач модификации кода. В качестве основной метрики использовалась успешность прохождения автоматических тестов. Дополнительно фиксировались вычислительные затраты и число итераций, необходимых для получения результата.
+     Проведенные эксперименты показали, что в рассмотренных условиях качество решений зависит не только от выбранной стратегии поведения агента, но и от базовой языковой модели, конкретной реализации агента и случайной вариативности между запусками. Установлено, что стратегии самомодификации на уровне текстовых инструкций дают ограниченный и нестабильный эффект. Полученные результаты могут использоваться при разработке систем автоматизированной поддержки программной инженерии и средств оценки качества изменений программного кода.</p>
+   item_keywords: программная инженерия, большие языковые модели, программные агенты, генерация программного кода, самомодификация, функция пригодности, поисковая оптимизация, оценка качества программных систем
+   item_pages: 535—541
+   item_citation: 'Жучков Ф. Г., Брюханова Е. Р., Колосова О. В., Хахина А. М., Антамошкин О. А. Управляемое улучшение программных агентов на основе больших языковых моделей с использованием функции пригодности // Программная инженерия. 2026. Том 17, № 10. С. 535—541. DOI: 10.17587/ prin.17.535-541.'
+   item_references: |
+     <li>Yang J., Jimenez C. E., Wettig A. et al. SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering // arXiv preprint. 2024. arXiv:2405.15793. DOI: 10.48550/ arXiv.2405.15793.</li>
+     <li>Zhang Y., Ruan H., Fan Zh., Roychoudhury A. AutoCodeRover: Autonomous Program Improvement // Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24). New York: ACM, 2024. P. 1592— 1604. DOI: 10.1145/3650212.3680384.</li>
+     <li>Shinn N., Cassano F., Gopinath A., Narasimhan K., Yao Sh. Reflexion: Language Agents with Verbal Reinforcement Learning // Advances in Neural Information Processing Systems. 2023. Vol. 36. P. 8634—8652. DOI: 10.52202/075280-0377.</li>
+     <li>Besta M., Blach N., Kubicek A. et al. Graph of Thoughts: Solving Elaborate Problems with Large Language Models // Proceedings of the AAAI Conference on Artificial Intelligence. 2024. Vol. 38, No. 16. P. 17682—17690. DOI: 10.1609/aaai.v38i16.29720.</li>
+     <li>Zhou A., Yan K., Shlapentokh-Rothman M. et al. Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models // Proceedings of Machine Learning Research. 2024. Vol. 235. P. 62138—62160.</li>
+     <li>Harman M. The Current State and Future of Search-Based Software Engineering // Future of Software Engineering (FOSE 2007). Washington: IEEE Computer Society, 2007. P. 342—357. DOI: 10.1109/FOSE.2007.29.</li>
+     <li>Harman M., Mansouri S. A., Zhang Y. Search-Based Software Engineering: Trends, Techniques and Applications // ACM Computing Surveys. 2012. Vol. 45, No. 1. Article 11. DOI: 10.1145/2379776.2379787.</li>
+     <li>McMinn P. Search-Based Software Test Data Generation: A Survey // Software Testing, Verification and Reliability. 2004. Vol. 14, No. 2. P. 105—156. DOI: 10.1002/stvr.294.</li>
+     <li>Антамошкин О. А. Программная инженерия. Теория и практика: учеб. Красноярск: Сибирский федеральный университет, 2012. 247 с.</li>
+     <li>Antamoshkin O. A., Antamoshkina O. A., Smirnov N. A. Multi-agent automation system for monitoring, forecasting and managing emergency situations // IOP Conference Series: Materials Science and Engineering. 2016. Vol. 122. Article 012003. DOI: 10.1088/1757-899X/122/1/012003.</li>
+     <li>Sartaj H., Ali Sh., Arcaini P., Arcuri A. Search-Based Software Engineering and AI Foundation Models: Current Landscape and Future Roadmap // arXiv preprint. 2025. arXiv: 2505.19625. DOI: 10.48550/arXiv.2505.19625.</li>
+ - doi: 17.542-550
+   udk: '004.9, 378.1'
+   edn: BGMVSH
+   item_authors: Власюк С. В., Уросова Е. А.
+   item_name: Математическая модель и алгоритм расчета учебной нагрузки в образовательной организации
+   item_authors_address: |
+     <b>С. В. Власюк</b>, аспирант, зам. нач. управления информационных технологий, vsv@smtu.ru,
+     <b>Е. А. Уросова</b>, аспирант, elizaveta.urosova@gmail.com,
+     Санкт-Петербургский государственный морской технический университет
+   item_rec_on: 2026-03-30
+   item_acc_on: 2026-05-14
+   item_annot: |
+     <p>Рассмотрен нормативный расчет учебной нагрузки в информационной системе образовательной организации. Предложена формальная модель, которая связывает строки рабочих учебных планов, сведения о контингенте, потоки, подгруппы, ручные уточнения и профиль коэффициентов нагрузки. Показано, как исходные строки преобразуются в расчетные строки, как вычисляются частные компоненты нагрузки и как формируются итоговые значения. В программной реализации выделены слои получения данных, нормализации, расчетного ядра, хранения версий и контроля результатов. Новизна работы состоит в формальном сохранении связи между строкой рабочего учебного плана, правилом преобразования, версией расчета и итоговой строкой нагрузки. Практической базой работы служит информационная система, разработанная одним из авторов статьи. Эксплуатационная проверка в статье приведена на данных Санкт-Петербургского государственного морского технического университета. Использование аналогичных решений в двух других университетах показывает переносимость подхода. Приведен проверочный числовой пример. Практическое преимущество модели состоит в том, что пользователь может сразу увидеть расчет итоговой нагрузки, проверить его и при необходимости уточнить структуру потоков.</p>
+   item_keywords: учебная нагрузка, нормативный расчет, информационная система образовательной организации, программная реализация, расчетное ядро, рабочий учебный план, потоки, подгруппы, проверяемость расчета, версии расчета
+   item_pages: 542—550
+   item_citation: 'Власюк С. В., Уросова Е. А. Математическая модель и алгоритм расчета учебной нагрузки в образовательной организации // Программная инженерия. 2026. Том 17, № 10. С. 542—550. DOI: 10.17587/prin.17.542-550.'
+   item_references: |
+     <li>Kenny J., Fluck A. E. Emerging principles for the allocation of academic work in universities // Higher Education. 2022. Vol. 83, No. 6. P. 1371—1388. DOI: 10.1007/s10734-021-00747-y.</li>
+     <li>Crisp B. R. Academic workloads: what does a manager need to consider? // Journal of Higher Education Policy and Management. 2022. Vol. 44, No. 6. P. 547—562. DOI: 10.1080/136 0080X.2022.2064404.</li>
+     <li>Kenny J., Fluck A. E. Life at the academic coalface: validation of a holistic academic workload estimation tool // Higher Education. 2023. Vol. 86, No. 3. P. 507—526. DOI: 10.1007/s10734-022-00912-x.</li>
+     <li>Park S. K., DiVall M. V., Lee K. C. et al. Gaps and opportunities for faculty workload policies in pharmacy and health professions education // American Journal of Pharmaceutical Education. 2023. Vol. 87, No. 2. Article ajpe9012. DOI: 10.5688/ajpe9012.</li>
+     <li>Johnson H. L., Cruthirds D. F., Taylor L. A. et al. Redefining faculty workload metrics: A data-driven approach // Journal of Professional Nursing. 2024. Vol. 55. P. 112—118. DOI: 10.1016/j.profnurs.2024.08.006.</li>
+     <li>Chen M., Werner F., Shokouhifar M. Mathematical Modeling and Exact Optimizing of University Course Scheduling Considering Preferences of Professors // Axioms. 2023. Vol. 12, No. 5. Article 498. DOI: 10.3390/axioms12050498.</li>
+     <li>Xue G., Offodile O. F., Razavi R. et al. Addressing staffing challenges through improved planning: Demand-driven course schedule planning and instructor assignment in higher education // Decision Support Systems. 2024. Vol. 187. Article 114345. DOI: 10.1016/j.dss.2024.114345.</li>
+     <li>Davison M., Kheiri A., Zografos K. G. Modelling and solving the university course timetabling problem with hybrid teaching considerations // Journal of Scheduling. 2025. Vol. 28, No. 2. P. 195—215. DOI: 10.1007/s10951-024-00817-w.</li>
+     <li>Колокольцев М. А., Михалева У. А. Автоматизированная информационная система «Распределение учебной нагрузки преподавателя» // Информационные технологии. 2021. Том 27, № 3. С. 160—166. DOI: 10.17587/it.27.160-166.</li>
+     <li>Гвоздева Т. В., Смирнова Е. М. Разработка системной модели формирования образовательных программ // Известия высших учебных заведений. Сер.: Экономика, финансы и управление производством. 2024. № 3 (61). С. 91—96. DOI: 10.6060/ivecofin.2024613.693.</li>
+     <li>Смирнова Е. М. Модели и алгоритмы поддержки принятия решений в системе персонализированного управления разработкой образовательных программ // Системный анализ в науке и образовании. 2025. № 4. С. 105—109.</li>
+     <li>Сергеева Д. В., Баталов Д. И. Анализ математических подходов к моделированию ОПОП для кадрового обеспечения цифровой трансформации транспорта // Интеллектуальные технологии на транспорте. 2025. № 3. С. 68—76. DOI: 10.20295/2413-2527-2025-343-68-76.</li>
+ - doi: 17.551-561
+   udk: '004.622'
+   edn: XZJGLN
+   item_authors: Ма Ц., Зензинов А. А., Васенин В. А.
+   item_name: Конфигурируемая детерминированная модель верификации порядка компонентов романизированных китайских имен для наукометрических и CRIS-систем
+   item_authors_address: |
+     <b>Ц. Ма</b>, аспирант, majiaxing@mail.ru,
+     <b>А. А. Зензинов</b>, мл. науч. сотр., andrey.zenzinov@gmail.com,
+     <b>В. А. Васенин</b>, д-р физ.-мат. наук, зав. каф., vasenin@msu.ru,
+     МГУ имени М. В. Ломоносова
+   item_rec_on: 2026-04-10
+   item_acc_on: 2026-05-19
+   item_annot: |
+     <p>В данных о публикационной активности систематически появляются ошибки, связанные с некорректным определением имен и фамилий для китайских авторов. Это в значительной степени обусловлено расхождениями между традиционным китайским («Фамилия Имя») и западным («Имя Фамилия») порядком следования компонентов имени, множественностью систем романизации и так называемой «двойной неоднозначностью», при которой обе части имени могут определяться как фамилии.
+     Предложено описание настраиваемой детерминированной модели верификации порядка компонентов имени, реализованной как процедура агрегации интерпретируемых доказательств на основе скоринговой логики с калибруемыми весами, порогами и предварительной проверкой китайской языковой совместимости имени.</p>
+   item_keywords: наукометрия, CRIS-системы, нормализация имен, китайские имена, порядок имени, верификация данных, разрешение авторской неоднозначности, связывание записей
+   item_pages: 551—561
+   item_comment: Исследование выполнено в рамках государственного задания МГУ имени М. В. Ломоносова.
+   item_citation: 'Ма Ц., Зензинов А. А., Васенин В. А. Конфигурируемая детерминированная модель верификации порядка компонентов романизированных китайских имен для наукометрических и CRIS-систем // Программная инженерия. 2026. Том 17, № 10. С. 551—561. DOI: 10.17587/prin.17.551-561.'
+   item_references: |
+     <li>Гохберг Л. М., Стрельцова Е. А., Бочаров М. Я. и др. Индикаторы науки: 2026: статистический сборник; Нац. ис-след. ун-т «Высшая школа экономики». М.: НИУ ВШЭ, 2026. 428 с.</li>
+     <li>Интеллектуальная система тематического исследования научно-технической информации (ИСТИНА) / под ред. B.  А. Садовничего. М.: Изд-во МГУ, 2014. 262 с.</li>
+     <li>Садовничий В. А., Васенин В. А. Интеллектуальная система тематического исследования наукометрических данных: предпосылки создания и методология разработки. Часть 1 // Программная инженерия. 2018. Том 9, № 2. С. 51—58. DOI: 10.17587/prin.9.51-58.</li>
+     <li>Fellegi I. P., Sunter A. B. A Theory for Record Linkage // Journal of the American Statistical Association. 1969. Vol. 64, No. 328. P. 1183—1210. DOI: 10.1080/01621459.1969.10501049.</li>
+     <li>Winkler W. E. Overview of Record Linkage and Current Research Directions. Research Report Series (Statistics #2006-2). Washington DC: U. S. Census Bureau, 2006. 44 p.</li>
+     <li>Christen P. Data Matching: Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection. Berlin: Springer, 2012. 272 p. DOI: 10.1007/978-3-642-31164-2.</li>
+     <li>Ferreira A. A., Gonçalves M. A., Laender A. H. F. A brief survey of automatic methods for author name disambiguation // ACM SIGMOD Record. 2012. Vol. 41, No. 2, P. 15–26. DOI: 10.1145/2350036.2350040.</li>
+     <li>Torvik V. I., Smalheiser N. R. Author name disambiguation in MEDLINE // ACM Transactions on Knowledge Discovery from Data. 2009. Vol. 3, No 3. Article 11. DOI: 10.1145/1552303.1552304.</li>
+     <li>Зензинов А. А. Ввод и верификация наукометрических данных в больших сложноорганизованных информационных системах // Программная инженерия. 2024. Том 15, № 4. C. 167—175. DOI: 10.17587/prin.15.167-175.</li>
+     <li>Афонин С. А., Гаспарянц А. Э. Автоматическое построение функции оценки качества в задаче разрешения неоднозначности имен авторов научных публикаций // Программная инженерия. 2015. № 10. С. 31—37.</li>
+     <li>Рахимбекова Л. Ш. Как писать китайские имена? // Мосты. Журнал переводчиков. 2013. № 1 (37). С. 38—47.</li>
+     <li>Yuan Yida (袁义达), Qiu Jiaru (邱家儒). 中国四百大姓 (400 популярных фамилий в Китае).  Beijing: Beijing Book Co. Inc., 2013. 946 p.</li>
+ - doi: 17.562-570
+   udk: '004.032.26'
+   edn: KUHSNX
+   item_authors: Березина А. О., Медведев А. В., Шнайдер К. С., Митрохин М. А.
+   item_name: Разработка модуля интеллектуальной образовательной платформы с использованием технологий LLM и RAG
+   item_authors_address: |
+     <b>А. О. Березина</b>, студент, bereanas@mail.ru,
+     <b>А. В. Медведев</b>, студент, Mdl-studio@yandex.ru,
+     <b>К. С. Шнайдер</b>, студент, Knhn0@yandex.ru,
+     <b>М. А. Митрохин</b>, д-р техн. наук, доц., Mmax83@mail.ru,
+     Пензенский государственный университет
+   item_rec_on: 2026-03-05
+   item_acc_on: 2026-04-16
+   item_annot: |
+     <p>Рассмотрены вопросы проектирования и реализации ассистента «ПРОПС-ИА» образовательной платформы «ПРОПС» на основе технологии генерации с дополненной выборкой. Обоснована актуальность перехода от статичных систем управления обучением к адаптивным средам, использующим большие языковые модели для формирования индивидуальных образовательных траекторий. Описан технологический цикл работы ассистента «ПРОПС-ИА», включающий использование модели Llama 3.1, векторных баз данных и механизмов семантического сопоставления.
+     Особое внимание уделено методу динамического формирования шаблонов текстовых запросов, которые учитывают когнитивную нагрузку обучающегося, контекст диалога и педагогические цели. Научная новизна исследования заключается в реализации принципа динамической тематической гранулярности контента, обеспечивающего автоматическое ветвление тематических узлов внутри компетенций без предварительной настройки жестких иерархий. Авторами показано, что интеграция RAG-модуля позволяет минимизировать риск генеративных галлюцинаций и обеспечить фактологическую точность учебных материалов. Результаты исследования подтвердили эффективность использования RAG-архитектур для создания масштабируемых интеллектуальных образовательных систем нового поколения.</p>
+   item_keywords: интеллектуальный образовательный ассистент, большие языковые модели, адаптивное обучение, персонализация образования, интеллектуальные образовательные платформы
+   item_pages: 562—570
+   item_citation: 'Березина А. О., Медведев А. В., Шнайдер К. С., Митрохин М. А. Разработка модуля интеллектуальной образовательной платформы с использованием технологий LLM и RAG // Программная инженерия. 2026. Том 17, № 10. С. 562—570. DOI: 10.17587/prin.17.562-570.'
+   item_references: |
+     <li>Березина А. О., Медведев А. В., Шнайдер К. С., Митрохин М. А. Интеграция нейросетевых технологий в современное образование для развития «гибких» навыков // Компьютерные инструменты в образовании. 2025. № 1. С. 48—60. DOI: 10.32603/2071-2340-2025-1-48-60.</li>
+     <li>Devlin J., Chang M. W., Lee K., Toutanova K. BERT: Pre-training of deep bidirectional transformers for language understanding // Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. Minneapolis, 2019. Vol. 1. P. 4171— 4186. DOI: 10.18653/v1/n19-1423.</li>
+     <li>Brown T. B., Mann B., Ryder N. et al. Language models are few-shot learners // Advances in Neural Information Processing Systems. 2020. Vol. 33. P. 1877—1901.</li>
+     <li>Karpukhin V., Oguz B., Min S. et al. Dense Passage Retrieval for Open-Domain Question Answering // Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020. P. 6769—6781. DOI: 10.18653/v1/2020.emnlp-main.550.</li>
+     <li>Raffel C., Shazeer N., Roberts A. et al. Exploring the limits of transfer learning with a unified text-to-text transformer // Journal of Machine Learning Research. 2020. Vol. 21, No. 140. P. 1—67.</li>
+     <li>Lewis P., Perez E., Piktus A. et al. Retrieval-augmented generation for knowledge-intensive NLP tasks // Advances in Neural Information Processing Systems. 2020. Vol. 33. P. 9459—9474.</li>
+     <li>Brusilovsky P. Adaptive Navigation Support // The Adaptive Web: Methods and Strategies of Web Personalization. 2007. Vol. 4321. P. 261—290. DOI: 10.1007/978-3-540-72079-9_8.</li>
+     <li>Graesser A. C., McNamara D. S., Louwerse M. M., Cai Z. Coh-Metrix: Analysis of text on cohesion and language // Behavior Research Methods, Instruments, & Computers. 2004. Vol. 36, No. 2. P. 193—202. DOI: 10.3758/BF03195564.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need // Advances in Neural Information Processing Systems. 2017. Vol. 30. P. 5998—6008.</li>
+ - doi: 17.571-579
+   udk: '004.8'
+   edn: AUQSIA
+   item_authors: Скоробогатченко Д. А., Григорьев И. М., Козякин А. Д.
+   item_name: Влияние биометрических признаков на эффективность CNN в задаче оценки сонливости водителя
+   item_authors_address: |
+     <b>Д. А. Скоробогатченко</b>, д-р техн. наук, проф., dmitryskor2004@gmail.com,
+     <b>И. М. Григорьев</b>, магистрант, grigona4@mail.ru,
+     <b>А. Д. Козякин</b>, магистрант, kozyakin1024@gmail.com,
+     Волгоградский государственный технический университет
+   item_rec_on: 2026-01-29
+   item_acc_on: 2026-04-21
+   item_annot: |
+     <p>Представлены результаты исследований и сравнительный анализ двух подходов к оценке сонливости водителя по видеопотоку: классического метода на основе сверточной нейронной сети (CNN) и гибридного метода, дополняющего нейросетевой классификатор геометрическими биометрическими признаками лица. В качестве базовой архитектуры использована MobileNetV3-Large. Биометрические признаки (EAR, MAR, углы ориентации головы) извлекаются с помощью библиотеки компьютерного зрения MediaPipe Face Mesh. Предложен адаптивный механизм слияния модальностей (Fusion Gate), динамически взвешивающий вклад визуальных и биометрических признаков. Интеграция биометрии позволила добиться точности 98,7 % (F1 = 0,987) по сравнению с базовой моделью CNN, показавшей точность 96,0 % (F1 = 0,958). Результаты обосновывают целесообразность применения гибридных архитектур в системах мониторинга состояния водителя.</p>
+   item_keywords: детектирование сонливости водителя, сверточные нейронные сети, MobileNetV3, биометрические признаки лица, Eye Aspect Ratio, Mouth Aspect Ratio; MediaPipe, компьютерное зрение, мультимодальное слияние, системы помощи водителю
+   item_pages: 571—579
+   item_citation: 'Скоробогатченко Д. А., Григорьев И. М., Козякин А. Д. Влияние биометрических признаков на эффективность CNN в задаче оценки сонливости водителя // Программная инженерия. 2026. Том 17, № 10. С. 571—579. DOI: 10.17587/prin.17.571-579.'
+   item_references: |
+     <li>Калинкин А. Л. Распространенность избыточной дневной сонливости в Российской Федерации // Нервно-мышечные болезни. 2018. Том 8, № 4. С. 43—48. DOI: 10.17650/2222­8721-2018-8-4-43-48.</li>
+     <li>Albadawi Y., Takruri M., Awad M. A review of recent developments in driver drowsiness detection systems // Sensors. 2022. Vol. 22, No. 5. Article 2069. DOI: 10.3390/s22052069.</li>
+     <li>Ramzan M., Khan H. U., Awan S. M. et al. A survey on state-of-the-art drowsiness detection techniques // IEEE Access. 2019. Vol. 7. P. 61904—61919. DOI: 10.1109/ACCESS.2019.2914373.</li>
+     <li>Howard A., Sandler M., Chu G. et al. Searching for MobileNetV3 // arXiv:1905.02244. 2019. DOI: 10.48550/ arXiv.1905.02244.</li>
+     <li>Chaurasiya A., Sonsale S., Ankur et al. Driver Drowsiness Detection System by Measuring EAR and MAR // International Research Journal of Engineering and Technology (IRJET). 2021. Vol. 8, No. 5. P. 4255—4260.</li>
+     <li>Herath D., Abeyrathne C., Jayaweera P. Vision-based driver drowsiness monitoring: comparative analysis of YOLOv5—v11 models // arXiv:2509.17498. 2025. DOI: 10.48550/arXiv.2509.17498.</li>
+     <li>Jabbar R., Shinoy M., Kharbeche M. et al. Driver drowsiness detection model using convolutional neural networks techniques for Android application // arXiv:2002.03728. 2020. DOI: 10.48550/arXiv.2002.03728.</li>
+     <li>Hashemi M., Mirrashid A., Beheshti Shirazi A. Driver safety development: real-time driver drowsiness detection system based on convolutional neural network // SN Computer Science. 2020. Vol. 1, No. 5. Article 289. DOI: 10.1007/s42979-020-00306-9.</li>
+     <li>Salman R. M., Rashid M., Roy R. et al. Driver drowsiness detection using ensemble convolutional neural networks on YawDD. 2021. arXiv:2112.10298. DOI: 10.48550/arXiv.2112.10298.</li>
+     <li>Wolter M., Berrio Perez J. S., Shan M. Blinking beyond EAR: a stable eyelid angle metric for driver drowsiness detection and data augmentation // arXiv:2511.19519. 2025. DOI: 10.48550/ arXiv.2511.19519.</li>
+     <li>Cao S., Feng P., Kang W. et al. Optimized driver fatigue detection method using multimodal neural networks // Scientific Reports. 2025. Vol. 15. Article 12240. DOI: 10.1038/s41598-025-86709-1.</li>
+     <li>Venkateswarlu M., Chirra V. R. R. CNN-ViT: a multi-feature learning based approach for driver drowsiness detection // Array. 2025. Vol. 27. Article 100425. DOI: 10.1016/j.array.2025.100425.</li>
+     <li>Lugaresi C., Tang J., Nash H. et al. MediaPipe: a framework for building perception pipelines // arXiv:1906.08172. 2019. DOI: 10.48550/arXiv.1906.08172.</li>
+ - doi: 17.580-590
+   udk: 519.61
+   edn: PIWBWU
+   item_authors: Иванова К. Ф.
+   item_name: Метод экстремальных матриц для внешней оценки множества решений интервальных систем линейных алгебраических уравнений
+   item_authors_address: |
+     <b>К. Ф. Иванова</b>, канд. техн. наук, постдокторант, klara.i2010@yandex.ru,
+     Санкт-Петербургский государственный университет
+   item_rec_on: 2025-11-19
+   item_acc_on: 2026-03-12
+   item_annot: |
+     <p>Представлен специализированный новый эвристический метод для внешнего оценивания объединенного множества решений интервальной системы линейных алгебраических уравнений (ИСЛАУ). Метод экстремальных матриц (МЭМ) основан на вершинных реализациях интервальных матриц, формализованных из произведений элементов и их алгебраических дополнений. Показаны условия появления ограниченного подмножества экстремальных матриц, обладаю­щих идентичными характеристиками. На базе сформированных матриц находятся оптимальные векторы правых частей. Решение сконструированных вещественных систем уравнений обуславливает нахождение максимальных координат многогранника отклонений неизвестных в пространстве Rn, определяющих внешнее оценивание множества решений ИСЛАУ.
+     Проведено теоретическое обоснование и доказана теорема существования экстремальных матриц. Обозначены классы ИСЛАУ, адаптированные для исследования.
+     Эффективность метода определяется существенным сокращением числа алгебраических уравнений при вычислении внешних оценок2множества решений ИСЛАУ и заменой решения задачи с экспоненциальной сложностью O(2n ) на полиномиальную О(п3).
+     Показано влияние структурных свойств матриц отдельных подклассов интервальных систем на оценки решений.
+     Точность оценок метода экстремальных матриц сравнивается с результатами, полученными при программной реализации интервальных методов с использованием функций библиотеки IntvalPy.
+     Метод не гарантирует высокой точности, но позволяет получать сопоставимые оценки для разных классов интервальных линейных алгебраических систем по сравнению с основными интервальными методами.
+     Консервативные оценки МЭМ могут быть использованы как базисные при оценке точными методами.</p>
+   item_keywords: внешнее оценивание, эвристический метод, экстремальные угловые матрицы, многогранник отклонений, теоретическое обоснование, классы ИСЛАУ, покоординатные оценки, полиномиальная сложность, программная реализация
+   item_pages: 580—590
+   item_citation: 'Иванова К. Ф. Метод экстремальных матриц для внешней оценки множества решений интервальных систем линейных алгебраических уравнений // Программная инженерия. 2026. Том 17, № 10. С. 580—590. DOI: 10.17587/prin.17.580-590.'
+   item_references: |
+     <li>Баженов А. Н., Жилин С И., Кумков С. И., Шарый С. П. Обработка и анализ интервальных данных. М.; Ижевск: Институт компьютерных исследований, 2024. 356 с.</li>
+     <li>Киншт Н. В., Петрунько Н. Н. Современные тенденции формализации задач анализа интервальных электрических цепей // Информатика и системы управления. 2011. № 3 (29). C. 9—17.</li>
+     <li>Иванова К. Ф. Об одном алгебраическом способе определения устойчивости линейных непрерывных систем управления c интервальными коэффициентами // Известия высших учебных заведений. Приборостроение. 2018. № 1. C. 12—22.</li>
+     <li>Иванова К. Ф. Модальное управление для систем в условиях ограниченной интервальности параметров // Известия высших учебных заведений. Приборостроение. 2018. № 3. С 210—218.</li>
+     <li>Шарый С. П. Конечномерный интервальный анализ. Новосибирск: Новосибирский государственный университет, 2018. 644 с.</li>
+     <li>Neumaier A. Interval Methods for Systems of Equations. Cambridge: Cambridge University Press. 1990. 255 p.</li>
+     <li>Rohn J. Enclosing solutions of overdetermined systems of linear interval equations // Reliable Computing. 1996. Vol. 2. P. 167—171. DOI: 10.1007/BF02425920.</li>
+     <li>Kearfott R. B., Hu C., Novoa III M. A review of preconditioners for the interval Gauss-Seidel method // Interval Computations. 1991. Vol. 1. P. 59—85.</li>
+     <li>Hansen E., Bliek C. Bounding the Solution of Interval Linear Equations // SIAM Journal on Numerical Analysis. 1992. Vol. 29, No. 5. P. 1493—1503. DOI: 10.1137/0729086.</li>
+     <li>Шарая И. А. Метод граничных интервалов для визуализации полиэдральных множеств решений // Вычислительные технологии. 2015. Том 20, № 1. С 75—103.</li>
+     <li>Андросов А. С., Шарый С. П. IntvalPy — библиотека интервальных вычислений на Python // Вестник НГУ. Сер.: Информационные технологии. 2022. Том 20, № 4. С. 5—23. DOI: 10.25205/1818-7900-2022-20-4-5-23.</li>

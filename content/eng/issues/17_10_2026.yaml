@@ -1,0 +1,205 @@
+---
+title: Issue N10 2026 year
+content:
+ - doi: 17.535-541
+   udk: '004.8:004.4'
+   edn: FSWOIF
+   item_authors: Zhuchkov F. G., Bryukhanova E. R., Kolosova O. V., Khakhina A. M., Antamoshkin O. A.
+   item_name: Controlled Improvement of Software Agents based on Large Language Models using a Fitness Function
+   item_authors_address: |
+     <b>F. G. Zhuchkov</b><sup>1</sup>, Doctoral Cand., philipgermanovich@yandex.ru,
+     <b>E. R. Bryukhanova</b><sup>2, 3</sup>, Cand. Sc. (Eng.), Associate Professor, Senior Systems Analyst, evgbryuhanova@gmail.com,
+     <b>O. V. Kolosova</b><sup>1</sup>, D. Sc. (Eng.), Professor of the Higher School of Technological Entrepreneurship, okolosova@spbstu.ru,
+     <b>A. M. Khakhina</b><sup>1</sup>, D. Sc. (Eng.), Professor of the Higher School of Software Engineering, hahina_am@spbstu.ru,
+     <b>O. A. Antamoshkin</b><sup>3</sup>, D. Sc. (Eng.), Head of the Department of Software Engineering, oleslav@mail.ru
+     <br>
+     <sup>1</sup> Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russian Federation,
+     <br>
+     <sup>2</sup> RUT CODE JSC, Moscow, Russian Federation,
+     <br>
+     <sup>3</sup> Siberian Federal University, Krasnoyarsk, Russian Federation
+   item_corr_author: 'Oleslav A. Antamoshkin, D. Sc. (Eng.), Head of the Department of Software Engineering, Siberian Federal University, 660041, Krasnoyarsk, Russian Federation, E-mail: oleslav@mail.ru'
+   item_rec_on: April 09, 2026
+   item_acc_on: June 16, 2026
+   item_annot: |
+     <p>The paper addresses the problem of developing software agents based on large language models capable of automatically performing individual operations related to software code modification, result verification, and accumulation of experience from previous actions.
+     An approach to the controlled improvement of software systems is proposed, in which an agent generates hypotheses of code modifications, applies changes to the codebase, executes a testing pipeline, and evaluates the obtained result using a quality assessment function. Process controllability is ensured through fixed experimental conditions, automated verification of modifications, and comparison of different agent behavior strategies.
+     For experimental evaluation, the RSI-Bench framework was developed to compare strategies of software agent behavior in code modification tasks. The primary evaluation metric was the success rate of automated test execution. Additionally, computational cost and the number of iterations required to obtain a result were recorded.
+     The conducted experiments demonstrated that solution quality depends not only on the selected agent behavior strategy, but also on the underlying language model, the specific agent implementation, and stochastic variability between runs. It was found that self-modification strategies implemented at the level of textual instructions provide a limited and unstable effect. The obtained results may be used in the development of automated software engineering support systems and approaches for assessing the quality of software code modifications.</p>
+   item_keywords: software engineering, large language models, software agents, software code generation, self-modification, fitness function, search-based optimization, software quality assessment
+   item_pages: 535—541
+   item_citation: 'Zhuchkov F. G., Bryukhanova E. R., Kolosova O. V., Khakhina A. M., Antamoshkin O. A. Controlled Improvement of Software Agents based on Large Language Models using a Fitness Function, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 535—541. DOI: 10.17587/prin.535-541 (in Russian).'
+   item_references: |
+     <li>Yang J., Jimenez C. E., Wettig A. et al. SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. arXiv preprint, 2024, arXiv:2405.15793. DOI: 10.48550/arXiv.2405.15793.</li>
+     <li>Zhang Y., Ruan H., Fan Zh., Roychoudhury A. Auto-CodeRover: Autonomous Program Improvement, Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '24), New York, ACM, 2024, рр. 1592—1604. DOI: 10.1145/3650212.3680384.</li>
+     <li>Shinn N., Cassano F., Gopinath A., Narasimhan K., Yao Sh. Reflexion: Language Agents with Verbal Reinforcement Learning, Advances in Neural Information Processing Systems, 2023, vol. 36, рр. 8634—8652. DOI: 10.52202/075280-0377.</li>
+     <li>Besta M., Blach N., Kubicek A. et al. Graph of Thoughts: Solving Elaborate Problems with Large Language Models, Proceedings of the AAAI Conference on Artificial Intelligence, 2024, vol. 38, no. 16, pp. 17682—17690. DOI: 10.1609/aaai.v38i16.29720.</li>
+     <li>Zhou A., Yan K., Shlapentokh-Rothman M. et al. Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models, Proceedings of Machine Learning Research, 2024, vol. 235, pp. 62138—62160.</li>
+     <li>Harman M. The Current State and Future of Search-Based Software Engineering, Future of Software Engineering (FOSE 2007). Washington, IEEE Computer Society, 2007, pp. 342—357. DOI: 10.1109/FOSE.2007.29.</li>
+     <li>Harman M., Mansouri S. A., Zhang Y. Search-Based Software Engineering: Trends, Techniques and Applications, ACM Computing Surveys, 2012, vol. 45, no. 1, article 11. DOI: 10.1145/2379776.2379787.</li>
+     <li>McMinn P. Search-Based Software Test Data Generation: A Survey. Software Testing, Verification and Reliability, 2004, vol. 14, no. 2, pp. 105—156. DOI: 10.1002/stvr.294.</li>
+     <li>Antamoshkin O. A. Software Engineering: Theory and Practice. Textbook. Krasnoyarsk, Siberian Federal University, 2012, 247 p. (in Russian).</li>
+     <li>Antamoshkin O. A., Antamoshkina O. A., Smirnov N. A. Multi-agent automation system for monitoring, forecasting and managing emergency situations, IOP Conference Series: Materials Science and Engineering, 2016, vol. 122, article 012003. DOI: 10.1088/1757-899X/122/1/012003.</li>
+     <li>Sartaj H., Ali Sh., Arcaini P., Arcuri A. Search-Based Software Engineering and AI Foundation Models: Current Landscape and Future Roadmap, arXiv preprint, 2025, arXiv:2505.19625. DOI: 10.48550/arXiv.2505.19625.</li>
+ - doi: 17.542-550
+   udk: '004.9, 378.1'
+   edn: BGMVSH
+   item_authors: Vlasyuk S. V., Urosova E. A.
+   item_name: Mathematical Model and Algorithm for Calculating Academic Workload in an Educational Institution
+   item_authors_address: |
+     <b>S. V. Vlasyuk</b>, Postgraduate Student, Deputy Head of the Information Technologies Department, vsv@smtu.ru,
+     <b>E. A. Urosova</b>, Postgraduate Student, elizaveta.urosova@gmail.com,
+     Saint Petersburg State Marine Technical University, Saint Petersburg, 190121, Russian Federation
+   item_corr_author: 'Sergey V. Vlasyuk, Postgraduate Student, Deputy Head of the Information Technologies Department, Saint Petersburg State Marine Technical University, Saint Petersburg, 190121, Russian Federation, E-mail: vsv@smtu.ru'
+   item_rec_on: March 30, 2026
+   item_acc_on: May 14, 2026
+   item_annot: |
+     <p>The paper describes normative academic workload calculation in an information system of an educational institution. A formal model is proposed that connects working curriculum rows, student counts, streams, subgroups, manual adjustments, and workload profile coefficients. The paper shows how source rows are transformed into calculated workload rows, how partial workload components are computed, and how final values are generated. The software implementation is described through the layers of data extraction, normalization, calculation core, version storage, and result control. The novelty of the work is the formal preservation of links between a working curriculum row, a transformation rule, a calculation version, and a final workload row. The practical basis of the work is an information system developed by one of the authors. The operational verification presented in the paper is based on data from Saint Petersburg State Marine Technical University. The use of similar solutions at Ufa University of Science and Technology and Bashkir State Medical University shows the transferability of the approach. A numerical example is provided to show the calculation procedure and control conditions. The model prepares reproducible workload values for subsequent departmental distribution, reporting, and management control.</p>
+   item_keywords: academic workload, normative calculation, university information system, software implementation, calculation core, working curriculum, streams, subgroups, calculation verification, calculation versions
+   item_pages: 542—550
+   item_citation: 'Vlasyuk S. V., Urosova E. A. Mathematical Model and Algorithm for Calculating Academic Workload in an Educational Institution, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 542—550. DOI: 10.17587/prin.17.542-550 (in Russian).'
+   item_references: |
+     <li>Kenny J., Fluck A. E. Emerging principles for the allocation of academic work in universities, Higher Education, 2022, vol. 83, no. 6, pp. 1371—1388. DOI: 10.1007/s10734-021-00747-y.</li>
+     <li>Crisp B. R. Academic workloads: what does a manager need to consider? Journal of Higher Education Policy and Management, 2022, vol. 44, no. 6, pp. 547—562. DOI: 10.1080/1360080X.2022.2064404.</li>
+     <li>Kenny J., Fluck A. E. Life at the academic coalface: valida­tion of a holistic academic workload estimation tool, Higher Education, 2023, vol. 86, no. 3, pp. 507—526. DOI: 10.1007/s10734-022-00912-x.</li>
+     <li>Park S. K., DiVall M. V., Lee K. C. et al. Gaps and opportunities for faculty workload policies in pharmacy and health professions education, American Journal of Pharmaceutical Education, 2023, vol. 87, no. 2, article ajpe9012. DOI: 10.5688/ajpe9012.</li>
+     <li>Johnson H. L., Cruthirds D. F., Taylor L. A. et al. Rede­fining faculty workload metrics: a data-driven approach, Journal of Professional Nursing, 2024, vol. 55, pp. 112—118. DOI: 10.1016/j.profnurs.2024.08.006.</li>
+     <li>Chen M., Werner F., Shokouhifar M. Mathematical Modeling and Exact Optimizing of University Course Scheduling Considering Preferences of Professors, Axioms, 2023, vol. 12, no. 5, article 498. DOI: 10.3390/axioms12050498.</li>
+     <li>Xue G., Offodile O. F., Razavi R. et al. Addressing staffing challenges through improved planning: demand-driven course schedule planning and instructor assignment in higher education, Decision Support Systems, 2024, vol. 187, article 114345. DOI: 10.1016/j.dss.2024.114345.</li>
+     <li>Davison M., Kheiri A., Zografos K. G. Modelling and solving the university course timetabling problem with hybrid teaching considerations, Journal of Scheduling, 2025, vol. 28, no. 2, pp. 195— 215. DOI: 10.1007/s10951-024-00817-w.</li>
+     <li>Kolokoltsev M. A., Mikhaleva U. A. Automated information system "Distribution of teacher workload", Informatsionnye tekhnologii, 2021, vol. 27, no. 3, pp. 160—166. DOI: 10.17587/it.27.160-166 (in Russian).</li>
+     <li>Gvozdeva T. V., Smirnova E. M. Development of a system model for the formation of educational programs, Izvestiya vysshikh uchebnykh zavedeniy. Seriya Ekonomika, finansy i upravlenie proizvodstvom, 2024, no. 3(61), pp. 91—96. DOI: 10.6060/ivecofin.2024613.693 (in Russian).</li>
+     <li>Smirnova E. M. Models and algorithms for decision support in the personalized management system for the development of educational programs, Sistemnyy analiz v nauke i obrazovanii, 2025, no. 4, pp. 105—109 (in Russian).</li>
+     <li>Sergeeva D. V., Batalov D. I. Analysis of mathematical approaches to modeling educational programs for staffing the digital transformation of transport, Intellektualnye tekhnologii na transporte, 2025, no. 3, pp. 68—76. DOI: 10.20295/2413-2527-2025-343-68-76 (in Russian).</li>
+ - doi: 17.551-561
+   udk: '004.622'
+   edn: XZJGLN
+   item_authors: Ma J., Zenzinov A. A., Vasenin V. A.
+   item_name: A Configurable Deterministic Model for Verifying Romanized Chinese Name Order in Scientometric and CRIS Systems
+   item_authors_address: |
+     <b>J. Ma</b>, Postgraduate Student, majiaxing@mail.ru,
+     <b>A. A. Zenzinov</b>, Junior Scientific Researcher, andrey.zenzinov@gmail.com,
+     <b>V. A. Vasenin</b>, D. Sc. (Phys.&Mat.) Head of Laboratory, vasenin@msu.ru,
+     Lomonosov Moscow State University, 119192, Russian Federation
+   item_corr_author: 'Andrey A. Zenzinov, Junior Scientific Researcher, andrey.zenzinov@gmail.com, Lomonosov Moscow State University, 119192, Russian Federation, E-mail: andrey.zenzinov@gmail.com'
+   item_rec_on: April 10, 2026
+   item_acc_on: May 19, 2026
+   item_annot: |
+     <p> The effectiveness of using scientometric information and analytical systems to support administrative and managerial decision-making in scientific organizations directly depends on the quality of data on the publication activity of individual authors. With a significant increase in the number of Chinese authors in international publications, the issue of systematic errors in identifying their names has become relevant. This is largely due to the differences between the traditional Chinese ("Last Name — First Name") and Western ("First Name — Last Name") order of name components, the multiple romanization systems, and the so-called "double ambiguity" where both parts of the name can be identified as last names.
+     The article proposes a customized deterministic model for verifying the order of name components, implemented as an aggregation procedure of interpretable evidence based on scoring logic with calibrated weights, thresholds, and a pre-check that the name is Chinese.</p>
+   item_keywords: scientometrics, CRIS systems, name normalization, Chinese names, name order, data verification, author disambiguation, record linkage
+   item_pages: 551—561
+   item_comment: The study was conducted under the state assignment of Lomonosov Moscow State University.
+   item_citation: 'Ma J., Zenzinov A. A., Vasenin V. A. A Configurable Deterministic Model for Verifying Romanized Chinese Name Order in Scientometric and CRIS Systems, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 551—561. DOI: 1017587/prin.17.551-561.'
+   item_references: |
+     <li>Gokhberg L. M., Streltsova E. A., Bocharov M. Ya. et al. Indicators of science: 2026: statistical collection. National Research University Higher School of Economics, 2026, 428 p. (in Russian).</li>
+     <li>Intellectual System of Thematic Investigation of Scientometrical Data / Eds. V. A. Sadovnichij, Moscow, Izd-vo Moskovskogo universiteta, 2014, 262 p. (in Russian).</li>
+     <li>Sadovnichiy V. A., Vasenin V. A. Intellectual System of Thematic Investigation of Scientometrical Data: Background of Creation and Methodology of Development, Part 1, Programmnaya Ingeneria, 2018, vol. 9, no. 2, pp. 51—58. DOI: 10.17587/prin.9.51-58 (in Russian).</li>
+     <li>Fellegi I. P., Sunter A. B. A Theory for Record Linkage, Journal of the American Statistical Association, 1969, vol. 64, no. 328, pp. 1183—1210. DOI: 10.1080/01621459.1969.10501049.</li>
+     <li>Winkler W. E. Overview of Record Linkage and Current Research Directions. Research Report Series (Statistics #2006-2), Washington DC, U. S. Census Bureau, 2006, 44 p.</li>
+     <li>Christen P. Data Matching: Concepts and Techniques for Record Unkage, Entity Resolution, and Duplicate Detection, Berlin, Springer, 2012, 272 p. DOI: 10.1007/978-3-642-31164-2.</li>
+     <li>Ferreira A. A., Gonçalves M. A., Laender A. H. F. A brief survey of automatic methods for author name disambiguation, ACM SIGMOD Record, 2012, vol. 41, no. 2, pp. 15—26. DOI: 10.1145/2350036.2350040.</li>
+     <li>Torvik V. I., Smalheiser N. R. Author name disambiguation in MEDLINE, ACM Transactions on Knowledge Discovery from Data. 2009, vol. 3, no. 3, article 11. DOI: 10.1145/1552303.1552304.</li>
+     <li>Zenzinov A. A. Input and Verification of Scientometric Data in Large, Complex Information Systems, Programmnaya Ingeneria, 2024, vol. 15, no. 4, pp. 167—175. DOI: 10.17587/prin.15.167-175 (in Russian).</li>
+     <li>Afonin S. A., Gaspariants A. E. Construction of Quality Function for Scientific Papers Author Names Disambiguation Problem Using Supervised Learning Techniques, Programmnaya Ingeneria, 2015, no. 10, pp. 31—37 (in Russian).</li>
+     <li>Rakhimbekova L. Sh. How to write Chinese names? Mosty. Zhurnal perevodchikov, 2013, no. 1 (37), pp. 38—47 (in Russian).</li>
+     <li>Yuan Yida, Qiu Jiaru. 400 popular surnames in China, Beijing, Book Co. Inc., 2013, 946 p. (in Chinese).</li>
+ - doi: 17.562-570
+   udk: '004.032.26'
+   edn: KUHSNX
+   item_authors: Berezina A. O., Medvedev A. V., Shnaider K. S., Mitrokhin M. A.
+   item_name: Development of an Intelligent Educational Platform Module using LLM and RAG Technologies
+   item_authors_address: |
+     <b>A. O. Berezina</b>, Student, bereanas@mail.ru,
+     <b>A. V. Medvedev</b>, Student, Mdl-studio@yandex.ru,
+     <b>K. S. Schneider</b>, Student, Knhn0@yandex.ru,
+     <b>M. A. Mitrokhin</b>, D. Sc. (Eng.), Associate Professor, Mmax83@mail.ru,
+     Penza State University, Penza, 440026, Russian Federation
+   item_corr_author: 'Anastasia O. Berezina, Student, bereanas@mail.ru Penza State University, Penza, 440026, Russian Federation, E-mail: bereanas@mail.ru'
+   item_rec_on: March 05, 2026
+   item_acc_on: April 16, 2026
+   item_annot: |
+     <p>The article discusses the design and implementation of an intelligent assistant for the "PROPS" educational platform based on the Retrieval-Augmented Generation (RAG) architecture. The relevance of the transition from static learning management systems (LMS) to adaptive environments using large language models (LLM) to form individual educational trajectories is substantiated. The technological cycle of the "AssistenPROPS" assistant is described, including the use of the Llama 3.1 model, vector databases, and semantic matching mechanisms.
+     Special attention is paid to the method of dynamic generation of prompt templates that take into account the student's cognitive load, the context of the dialogue, and pedagogical goals. The scientific novelty of the study lies in the implementation of the principle of dynamic thematic granularity of content, which provides automatic branching of thematic nodes within competencies without pre-setting rigid hierarchies. The authors show that the integration of the RAG framework allows minimizing the risk of generative "hallucinations" and ensuring the factual accuracy of educational materials. The results of the study confirm the effectiveness of using RAG architectures to create scalable intelligent educational systems of the next generation.</p>
+   item_keywords: intelligent educational assistant, large language models, adaptive learning, personalization of education, intelligent educational platforms
+   item_pages: 562—570
+   item_citation: 'Berezina A. O., Medvedev A. V., Shnaider K. S., Mitrokhin M. A. Development of an Intelligent Educational Platform Module using LLM and RAG Technologies, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 562—570. DOI: 10.17587/prin.17.562-570. (in Russian).'
+   item_references: |
+     <li>Berezina A. O., Medvedev A. V., Shnaider K. S., Mitrokhin M. A. Integration of neural network technologies into modern education for the development of "soft" skills, Komp'yuternye instrumenty v obrazovanii, 2025, no. 1, pp. 48—60. DOI: 10.32603/2071-2340-2025-1-48-60 (in Russian).</li>
+     <li>Devlin J., Chang M. W., Lee K., Toutanova K. BERT: Pre-training of deep bidirectional transformers for language understanding, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Minneapolis, 2019, vol. 1, pp. 4171—4186. DOI: 10.18653/v1/n19-1423.</li>
+     <li>Brown T. B., Mann B., Ryder N. et al. Language models are few-shot learners, Advances in Neural Information Processing Systems, 2020, vol. 33, pp. 1877—1901.</li>
+     <li>Karpukhin V., Oguz B., Min S. et al. Dense Passage Retrieval for Open-Domain Question Answering, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, pp. 6769—6781. DOI: 10.18653/v1/2020. emnlp-main.550.</li>
+     <li>Raffel C., Shazeer N., Roberts A. et al. Exploring the limits of transfer learning with a unified text-to-text transformer, Journal of Machine Learning Research, 2020, vol. 21, no. 140, pp. 1—67.</li>
+     <li>Lewis P., Perez E., Piktus A. et al. Retrieval-augmented generation for knowledge-intensive NLP tasks, Advances in Neural Information Processing Systems, 2020, vol. 33, pp. 9459—9474.</li>
+     <li>Brusilovsky P. Adaptive Navigation Support, The Adaptive Web: Methods and Strategies of Web Personalization, 2003, vol. 4321, pp. 261—290. DOI: 10.1007/978-3-540-72079-9_8.</li>
+     <li>Graesser A. C., McNamara D. S., Louwerse M. M., Cai Z. Coh-Metrix: Analysis of text on cohesion and language, Behavior Research Methods, Instruments, & Computers, 2004, vol. 36, no. 2, pp. 193—202. DOI: 10.3758/BF03195564.</li>
+     <li>Vaswani A., Shazeer N., Parmar N. et al. Attention is all you need, Advances in Neural Information Processing Systems, 2017, vol. 30, pp. 5998—6008.</li>
+ - doi: 17.571-579
+   udk: '004.8'
+   edn: AUQSIA
+   item_authors: Skorobogatchenko D. A., Grigoriev I. M., Kozyakin A. D.
+   item_name: Impact of Biometric Features on CNN Performance in Driver Drowsiness Detection
+   item_authors_address: |
+     <b>D. A. Skorobogatchenko</b>, D. Sc. (Eng.), Professor, dmitryskor2004@gmail.com,
+     <b>I. M. Grigoriev</b>, Master's Student, grigona4@mail.ru,
+     <b>A. D. Kozyakin</b>  Master's Student, kozyakin1024@gmail.com,
+     Volgograd State Technical University, Volgograd, 400005, Russian Federation
+   item_corr_author: "Ivan M. Grigoriev, Master's Student, Volgograd State Technical University, Volgograd, 400005, Russian Federation, E-mail: grigona4@mail.ru"
+   item_rec_on: January 29, 2026
+   item_acc_on: April 21, 2026
+   item_annot: |
+     <p>This paper presents a comparative study of two approaches to driver drowsiness assessment from video streams: a classical method based on a convolutional neural network (CNN) and a hybrid method that supplements the neural network classifier with geometric biometric facial features. MobileNetV3-Large is used as the base architecture.
+     Biometric features (EAR, MAR, head orientation angles) are extracted using MediaPipe Face Mesh. An adaptive modality fusion mechanism (Fusion Gate) is proposed, dynamically weighting the contributions of visual and biometric features.
+     The integration of biometric indicators addresses limitations of pure CNN approaches under varying lighting, pose, and occlusions, which are common in real-world driving scenarios. Driver drowsiness is a major contributor to road accidents, with human factors causing over 99 % of incidents and microsleep episodes posing particular risks. Experi­ments on publicly available datasets showed that the hybrid method significantly improves performance, achieving an accuracy of 98.7 % (F1 = 0.987) compared to 96.0 % (F1 = 0.958) for the baseline CNN.
+     The results justify the feasibility of using hybrid architectures in driver state monitoring systems, particularly for real-time embedded applications in advanced driver assistance systems (ADAS). This approach enhances robustness and supports safer intelligent transportation systems by better handling human factors contributing to road accidents, offering a practical solution for mass deployment in vehicles.</p>
+   item_keywords: driver drowsiness detection, convolutional neural networks, MobileNetV3, biometric facial features, Eye Aspect Ratio, Mouth Aspect Ratio, MediaPipe, computer vision; multimodal fusion, driver assistance systems
+   item_pages: 571—579
+   item_citation: 'Skorobogatchenko D. A., Grigoriev I. M., Kozyakin A. D. Impact of Biometric Features on CNN Performance in Driver Drowsiness Detection, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 571—579. DOI: 10.17587/prin.17.571-579 (in Russian).'
+   item_references: |
+     <li>Kalinkin A. L. Prevalence of excessive daytime sleepiness in the Russian Federation, Neuromuscular Diseases, 2018, vol. 8, no. 4, pp. 43—48. DOI: 10.17650/2222-8721-2018-8-4-43-48 (in Russian).</li>
+     <li>Albadawi Y., Takruri M., Awad M. A review of recent developments in driver drowsiness detection systems, Sensors, 2022, vol. 22, no. 5, article 2069. DOI: 10.3390/s22052069.</li>
+     <li>Ramzan M., Khan H. U., Awan S. M. et al. A survey on state-of-the-art drowsiness detection techniques, IEEE Access, 2019, vol. 7, pp. 61904—61919. DOI: 10.1109/ACCESS.2019.2914373.</li>
+     <li>Howard A., Sandler M., Chu G. et al. Searching for Mobile-NetV3, arXiv:1905.02244. 2019. DOI: 10.48550/arXiv.1905.02244.</li>
+     <li>Chaurasiya A., Sonsale S., Ankur et al. Driver Drowsiness Detection System by Measuring EAR and MAR, International Research, Journal of Engineering and Technology (IRJET), 2021, vol. 8, no. 5, pp. 4255—4260.</li>
+     <li>Herath D., Abeyrathne C., Jayaweera P. Vision-based driver drowsiness monitoring: comparative analysis of YOLOv5—v11 models, arXiv:2509.17498, 2025. DOI: 10.48550/arXiv.2509.17498.</li>
+     <li>Jabbar R., Shinoy M., Kharbeche M. et al. Driver drowsiness detection model using convolutional neural networks techniques for Android application, arXiv:2002.03728, 2020. DOI: 10.48550/arXiv.2002.03728.</li>
+     <li>Hashemi M., Mirrashid A., Beheshti Shirazi A. Driver safety development: real-time driver drowsiness detection system based on convolutional neural network, SN Computer Science, 2020, vol. 1, no. 5, article 289. DOI: 10.1007/s42979-020-00306-9.</li>
+     <li>Salman R. M., Rashid M., Roy R. et al. Driver drowsiness detection using ensemble convolutional neural networks on YawDD, arXiv:2112.10298, 2021. DOI: 10.48550/arXiv.2112.10298.</li>
+     <li>Wolter M., Berrio Perez J. S., Shan M. Blinking beyond EAR: a stable eyelid angle metric for driver drowsiness detection and data augmentation, arXiv:2511.19519, 2025. DOI: 10.48550/arXiv.2511.19519.</li>
+     <li>Cao S., Feng P., Kang W. et al. Optimized driver fatigue detection method using multimodal neural networks, Scientific Reports, 2025, vol. 15, article 12240. DOI: 10.1038/s41598-025-86709-1.</li>
+     <li>Venkateswarlu M., Chirra V. R. R. CNN-ViT: a multi-feature learning based approach for driver drowsiness detection, Array, 2025, vol. 27, article 100425. DOI: 10.1016/j.array.2025.100425.</li>
+     <li>Lugaresi C., Tang J., Nash H. et al. MediaPipe: a framework for building perception pipelines, arXiv:1906.08172, 2019, DOI: 10.48550/arXiv.1906.08172.</li>
+ - doi: 17.580-590
+   udk: '519.61'
+   edn: PIWBWU
+   item_authors: Ivanova K. F.
+   item_name: Extreme Matrices Method for Outer Estimation of the Solution Set to Interval Systems of Linear Algebraic Equations
+   item_authors_address: |
+     <b>K. F. Ivanova</b>, Postdoctorant, klara.i2010@yandex.ru,
+     Saint Petersburg State University, Saint Petersburg 195252, Russian Federation
+   item_corr_author: 'Klara F. Ivanova, Postdoctorant, Saint Petersburg State University, Saint Petersburg, 195252, Russian Federation, E-mail: klara.i2010@yandex.ru'
+   item_rec_on: November 19, 2025
+   item_acc_on: March 12, 2026
+   item_annot: |
+     <p>A specialized new heuristic method is proposed for the outer estimation of the united solution set of an interval system of linear algebraic equations (ISLAE). The Method of Extreme Matrices (MEM) is based on vertex realizations of interval matrices formalized from products of matrix elements and their cofactors. The conditions for the emergence of a bounded subset of extreme matrices possessing identical characteristics are established. Based on the constructed matrices, optimal right-hand side vectors are determined.
+     Solving the resulting real-valued systems of equations enables the determination of the maximal coordinates of the deviation polyhedron of unknowns in the space Rn, which define the outer estimation of the ISLAE solution set.
+     A theoretical justification of the method is provided, and the theorem on the existence of extreme matrices is proven. Classes of ISLAEs adapted for the proposed study are identified.
+     The efficiency of the method is achieved through a substantial reduction in the number of algebraic equations required for computing outer estimations of the ISLAE solution set, replacing the solution of an exponentially complex problem O(2n2) with a polynomial-complexity problem O(n3).
+     The influence of structural properties of matrices belonging to specific subclasses of interval systems on the obtained solution estimates is demonstrated.
+     The accuracy of MEM interval estimates is compared with the results of software implementations of interval methods using the functions of the IntvalPy library. The method does not guarantee high accuracy, but it allows comparable estimates to be obtained for different classes for interval linear algebraic systems in comparison with key interval method.
+     Conservative MEM estimates may be used as baseline approximations for further refinement by exact methods.</p>
+   item_keywords: outer estimation, heuristic method, extreme vertex matrices, deviation polyhedron, bounded subset, theoretical justification, classes of ISLAEs, componentwise estimates, polynomial complexity
+   item_pages: 580—590
+   item_citation: 'Ivanova K. F. Extreme Matrices Method for Outer Estimation of the Solution Set to Interval Systems of Linear Algebraic Equations, Programmnaya Ingeneria, 2026, vol. 17, no. 10, pp. 580—590. DOI: 10.17587/prin.17.580-590 (in Russian).'
+   item_references: |
+     <li>Bazhenov A. N., Zhilin S. I., Kumkov S. I., Shary S. P. Processing and analysis of interval data, Moscow; Izhevsk, Institut komp'yuternyh issledovanij, 2024, 356 p. (in Russian).</li>
+     <li>Kinsht N. V., Petrunko N. N. Current Lines of Formalization of the Problems of Interval Analysis of Electrical Circuits, Informatika i sistemy upravleniya, 2011, no. 3 (29), pp. 9—17 (in Russian).</li>
+     <li>Ivanova K. F. On one algebraic way of determining the stability of linear continuous control systems with interval coefficients, Izvestiya vysshih uchebnyh zavedenij. Priborostroenie, 2018, no. 1, pp. 12—22 (in Russian).</li>
+     <li>Ivanova K. F. Modal Control for Systems with Limited Parameter Interval, Izvestiya vysshih uchebnyh zavedenij. Priborostroenie, 2018, no. 3, pp. 210—218 (in Russian).</li>
+     <li>Shary S. P. Finite-Dimensional Interval Analysis, Novosibirsk, Novosibirsk State University, 2018, 644 p. (in Russian).</li>
+     <li>Neumaier A. Interval Methods for Systems of Equations, Cambridge, Cambridg University Press, 1990, 255 p.</li>
+     <li>Rohn J. Enclosing solutions of overdetermined systems of linear interval equations, Reliable Computing, 1996, vol. 2, pp. 167—171. DOI: 10.1007/BF02425920.</li>
+     <li>Kearfott R. B., Hu C., Novoa III M. A review of preconditioned for the interval Gauss-Seidel method, Interval Computations, 1991, vol. 1, pp. 59—85.</li>
+     <li>Hansen E., Bliek C. Bounding the Solution of Interval Linear Equations, SIAM Journal on Numerical Analysis, 1992, vol. 29, no. 5, pp. 1493—1503. DOI: 10.1137/0729086.</li>
+     <li>Sharaya I. A. The Boundary Interval Method for Visualizing Polyhedral Solution Sets, Vychislitel'nye Tekhnologii, 2015, vol. 20, no. 1, pp. 75—103 (in Russian).</li>
+     <li>Androsov A. S., Shary S. P. IntvalPy — A Python Interval Computation Library, Vestnik NGU. Ser.: Informacionnye tekhnologii, 2022, vol. 20, no. 4, pp. 5—23. DOI: 10.25205/1818-7900-2022-20­4-5-23 (in Russian).</li>
