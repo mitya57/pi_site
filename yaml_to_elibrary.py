@@ -21,12 +21,11 @@ def generate_elibrary_xml(yaml_file, output_file):
     volume, month, year = name_part.split("_")
 
     journal = ET.Element("journal")
+    ET.SubElement(journal, "titleid").text = "32250"
     ET.SubElement(journal, "issn").text = "2220-3397"
 
-    journal_info = ET.SubElement(journal, "journalInfo", lang="ru")
+    journal_info = ET.SubElement(journal, "journalInfo", lang="RUS")
     ET.SubElement(journal_info, "title").text = "Программная инженерия"
-    ET.SubElement(journal_info, "Title").text = "Software Engineering"
-    ET.SubElement(journal_info, "publ").text = "Новые технологии"
 
     issue = ET.SubElement(journal, "issue")
     ET.SubElement(issue, "volume").text = volume
@@ -62,15 +61,15 @@ def generate_elibrary_xml(yaml_file, output_file):
         if len(authors_ru) != len(authors_en):
             msg = f"Number of authors mismatch: {authors_ru} vs. {authors_en}"
             raise AssertionError(msg)
-        for author, author_en in zip(authors_ru, authors_en):
+        for num, (author, author_en) in enumerate(zip(authors_ru, authors_en), start=1):
             if author.get("email") != author_en.get("email"):
                 raise AssertionError(f"Email mismatch: {author} vs. {author_en}")
             if len(author["affiliations"]) != len(author_en["affiliations"]):
                 msg = f"Number of affiliations mismatch: {author} vs. {author_en}"
                 raise AssertionError(msg)
 
-            author_elem = ET.SubElement(authors_elem, "author")
-            individ = ET.SubElement(author_elem, "individInfo", lang="ru")
+            author_elem = ET.SubElement(authors_elem, "author", num=str(num))
+            individ = ET.SubElement(author_elem, "individInfo", lang="RUS")
             ET.SubElement(individ, "surname").text = author["last_name"]
             ET.SubElement(individ, "initials").text = author["initials"]
 
@@ -80,7 +79,7 @@ def generate_elibrary_xml(yaml_file, output_file):
             if "email" in author:
                 ET.SubElement(individ, "email").text = author["email"]
 
-            individ_en = ET.SubElement(author_elem, "individInfo", lang="en")
+            individ_en = ET.SubElement(author_elem, "individInfo", lang="ENG")
             ET.SubElement(individ_en, "surname").text = author_en["last_name"]
             ET.SubElement(individ_en, "initials").text = author_en["initials"]
 
@@ -90,24 +89,24 @@ def generate_elibrary_xml(yaml_file, output_file):
                 ET.SubElement(individ_en, "email").text = author_en["email"]
 
         art_titles = ET.SubElement(article_elem, "artTitles")
-        ET.SubElement(art_titles, "artTitle", lang="ru").text = article["item_name"]
-        ET.SubElement(art_titles, "artTitle", lang="en").text = article_en["item_name"]
+        ET.SubElement(art_titles, "artTitle", lang="RUS").text = article["item_name"]
+        ET.SubElement(art_titles, "artTitle", lang="ENG").text = article_en["item_name"]
 
         abstracts_elem = ET.SubElement(article_elem, "abstracts")
-        abstract_elem = ET.SubElement(abstracts_elem, "abstract", lang="ru")
+        abstract_elem = ET.SubElement(abstracts_elem, "abstract", lang="RUS")
         clean_text = re.sub("<[^>]+>", "", article["item_annot"])
         abstract_elem.text = clean_text.strip()
 
-        abstract_en_elem = ET.SubElement(abstracts_elem, "abstract", lang="en")
+        abstract_en_elem = ET.SubElement(abstracts_elem, "abstract", lang="ENG")
         clean_text = re.sub("<[^>]+>", "", article_en["item_annot"])
         abstract_en_elem.text = clean_text.strip()
 
         keywords_elem = ET.SubElement(article_elem, "keywords")
-        kwd_group = ET.SubElement(keywords_elem, "kwdGroup", lang="ru")
+        kwd_group = ET.SubElement(keywords_elem, "kwdGroup", lang="RUS")
         for kwd in article["item_keywords"].split(","):
             ET.SubElement(kwd_group, "keyword").text = kwd.strip()
 
-        kwd_en_group = ET.SubElement(keywords_elem, "kwdGroup", lang="en")
+        kwd_en_group = ET.SubElement(keywords_elem, "kwdGroup", lang="ENG")
         for kwd in article_en["item_keywords"].split(","):
             ET.SubElement(kwd_en_group, "keyword").text = kwd.strip()
 
@@ -133,21 +132,14 @@ def generate_elibrary_xml(yaml_file, output_file):
             assert line.startswith("<li>") and line.endswith("</li>"), line
             line = line.removeprefix("<li>").removesuffix("</li>")
             ref_elem = ET.SubElement(refs_elem, "reference")
-            ref_info = ET.SubElement(ref_elem, "refInfo", lang="en")
+            ref_info = ET.SubElement(ref_elem, "refInfo", lang="ENG")
             ET.SubElement(ref_info, "text").text = line.strip()
             if references_ru is not None:
                 line_ru = references_ru[ix]
                 assert line_ru.startswith("<li>") and line_ru.endswith("</li>"), line_ru
                 line_ru = line_ru.removeprefix("<li>").removesuffix("</li>")
-                ref_info = ET.SubElement(ref_elem, "refInfo", lang="ru")
+                ref_info = ET.SubElement(ref_elem, "refInfo", lang="RUS")
                 ET.SubElement(ref_info, "text").text = line_ru.strip()
-
-        if "item_comment" in article or "item_comment" in article_en:
-            funding_elem = ET.SubElement(article_elem, "artFunding")
-            if comment := article.get("item_comment"):
-                ET.SubElement(funding_elem, "funding", lang="ru").text = comment.strip()
-            if comment := article_en.get("item_comment"):
-                ET.SubElement(funding_elem, "funding", lang="en").text = comment.strip()
 
     tree = ET.ElementTree(journal)
     ET.indent(tree)
