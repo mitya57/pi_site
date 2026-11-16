@@ -1,0 +1,197 @@
+---
+title: Номер 11 2026 год
+date: 2026-11-11
+content:
+ - doi: 17.595-602
+   udk: '004.032.26'
+   edn: LSIPUW
+   item_authors: Шевченко М. Е., Щербаков М. В.
+   item_name: Архитектура LSTM-сети на программируемых логических контроллерах
+   item_authors_address: |
+     <b>М. Е. Шевченко</b>, аспирант, mike.shevchenko1@yandex.ru,
+     <b>М. В. Щербаков</b>, д-р техн. наук, проф., зав. кафедрой «САПРиПК», maxim.shcherbakov@vstu.ru,
+     Волгоградский государственный технический университет
+   item_rec_on: 2026-03-26
+   item_acc_on: 2026-06-16
+   item_annot: |
+     <p>Представлено решение задачи краткосрочного прогнозирования технологических параметров на уровне программируемого логического контроллера (ПЛК). Предложен способ реализации нейросетевой модели LSTM на уровне ПЛК, который позволит сократить время задержки при обработке данных и оперативно выявлять отклонения от нормальных режимов. В результате обучения модели были получены весовые коэффициенты и размеры смещений нейронов, которые использовались для построения прогноза на ПЛК. Разработана библиотека LSTM-модели на языке ST, включенном в стандарт МЭК 61131-3. Результаты продемонстрировали возможность реализации нейросетевых моделей, в частности LSTM, на уровне ПЛК без негативного вклада в быстродействие системы.</p>
+   item_keywords: прогнозирование, нейронные сети, ПЛК, временные ряды, МЭК 61131-3, LSTM
+   item_pages: 595—602
+   item_comment: Исследование выполнено за счет гранта Российского научного фонда № 24-21-00483, https://rscf.eu/projet/24-21-00483/
+   item_citation: 'Шевченко М. Е., Щербаков М. В. Архитектура LSTM-сети на программируемых логических контроллерах // Программная инженерия. 2026. Том 17, № 11. С. 595—602. DOI: 10.17587/ prin.17.595-602.'
+   item_references: |
+     <li>Valencia-Palomo G., Rossiter J. A. Programmable logic controller implementation of an auto-tuned predictive control based on minimal plant information // ISA transactions. 2011. Vol. 50, No. 1. P. 92—100. DOI: 10.1016/j.isatra.2010.10.002.</li>
+     <li>Krupa P., Limon D., Alamo T. Implementation of model predictive control in programmable logic controllers // IEEE Transactions on Control Systems Technology. 2020. Vol. 29, No. 3. P. 1117—1130. DOI: 10.1109/TCST.2020.2992959.</li>
+     <li>Колодин А. А., Елшин В. В. Разработка и исследование регулятора на основе прогнозирущей модели // Вестник Самарского государственного технического университета. Сер.: Технические науки. 2021. Том 29, № 1 (69). С. 36—45. DOI: 10.14498/tech.2021.1.3.</li>
+     <li>Дьяконов Н. А., Логунова О. С. Системы управления технологическим процессом на основе предиктивной аналитики: проектирование // Электротехнические системы и комплексы. 2021. № 1 (50). С. 58—64. DOI: 10.18503/2311-8318-2021-1(50)-58-64.</li>
+     <li>Kavaliauskas Z., Blaziflnas G., Sajev I. et al. Development and Optimization of an Automated Industrial Wastewater Treatment System Using PLC and LSTM Neural Network // Applied Sciences. 2025. Vol. 15, No. 16. Article 8990. DOI: 10.3390/app15168990.</li>
+     <li>Jagnade S. A., Patwardhan S. C., Kumar K. et al. Optimization of Continuous Steel Annealing Operations Using Model Predictive Control at Tata Steel, India // INFORMS Journal on Applied Analytics. 2025. Vol. 55, No. 1. P. 48—65. DOI: 10.1287/inte.2024.0183.</li>
+     <li>Mennilli R., Mazza L., Mura A. Integrating Machine Learning for Predictive Maintenance on Resource-Constrained PLCs: A Feasibility Study // Sensors. 2025. Vol. 25, No. 2. Article 537. DOI: 10.3390/s25020537.</li>
+     <li>Zhang X. Design and application of PLC control system based on neural network // Procedia Computer Science. 2025. Vol. 261. P. 1005—1011. DOI: 10.1016/j.procs.2025.04.493.</li>
+     <li>Долидзе А. Н. Использование нейронных сетей в программируемых логических контроллерах как возможность отказаться от классического программирования // Инженерный вестник Дона. 2025. № 10 (130). С. 215—229.</li>
+     <li>Гафаров Ф. М., Галимянов А. Ф. Искусственные нейронные сети и приложения: учеб. пособие. Казань: Изд-во Казан. ун-та, 2018. 121 с.</li>
+     <li>Bauer H., Hoppner S., Iatrou Ch. et al. Hardware implementation of an opc ua server for industrial field devices // IEEE Transactions on very large scale integration (VLSI) systems. 2021. Vol. 29, No. 11. P. 1998—2002. DOI: 10.1109/ TVLSI.2021.3117401.</li>
+     <li>Зеляев А. Э. Прогнозирование временных рядов с помощью рекурентных нейронных сетей // Математическое и компьютерное моделирование в экономике, страховании и управлении рисками: сб. статей. 2025. С. 31.</li>
+ - doi: 17.603-612
+   udk: '004.413'
+   edn: RKWHOG
+   item_authors: Лазарев О. В., Змеев Д. О.
+   item_name: Автоматизированное составление плана итерации на основе методов разработки программного обеспечения, описанных на языке Essence
+   item_authors_address: |
+     <b>О. В. Лазарев</b>, аспирант, laoltomsk@gmail.com,
+     <b>Д. О. Змеев</b>, канд. техн. наук, доц., denis.zmeev@accounts.tsu.ru,
+     Национальный исследовательский Томский государственный университет
+   item_rec_on: 2026-01-26
+   item_acc_on: 2026-04-20
+   item_annot: |
+     <p>Предложены модель и алгоритм автоматизированного планирования итерации на основе методов разработки программного обеспечения, описанных на языке Essence, и байесовской сети на основе Ядра Essence. Приведены примеры работы алгоритма на модельных данных. Использование предложенного алгоритма может позволить избежать многих ошибок планирования и повысить эффективность проектной команды.</p>
+   item_keywords: OMG Essence, управление проектами, методы разработки программного обеспечения, байесовская сеть, SCRUM, планирование спринта, задача о рюкзаке, план итерации, итерация
+   item_pages: 603—612
+   item_citation: 'Лазарев О. В., Змеев Д. О. Автоматизированное составление плана итерации на основе методов разработки программного обеспечения, описанных на языке Essence // Программная инженерия. 2026. Том 17, № 11. С. 603—612. DOI: 10.17587/prin.17.603-612.'
+   item_references: |
+     <li>Melnyk K. V., Hlushko V. N., Borysova N. V. Decision support technology for spring planning // Radio Electronics, Computer Science, Control. 2020. No. 1. P. 135 — 145. DOI: 10.15588/1607-3274-2020-1-14.</li>
+     <li>Ozcelikan N., Tuzkaya G., Alabas-Uslu C., Sennaroglu B. A multi-objective agile project planning model and a comparative meta-heuristic approach // Information and Software Technology. 2022. Vol. 151. Article 107023. DOI: 10.1016/j.infsof.2022.107023.</li>
+     <li>Kula E., van Deursen A., Gousios G. Context-Aware Automated Sprint Plan Generation for Agile Software Development // 39th IEEE/ACM International Conference on Automated Software Engineering. 2024. 12 p. DOI: 10.1145/3691620.3695540.</li>
+     <li>Змеев Д. О. Прототип системы поддержки принятия решений для управления проектами на основе стандарта OMG Essence и байесовских сетей: дис. ... канд. техн. наук: 05.13.11. Томск, 2022. 152 с.</li>
+     <li>Иванова Л. С. Практики OMG Essence как источник изменяющихся объективных свидетельств в байесовской сети для систем поддержки принятия решений: дис. ... канд. техн. наук: 2.3.5. Томск, 2023. 148 с.</li>
+     <li>Pearl J. Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann Publishers. San Francisco, 1988. 552 р. DOI: 10.1016/C2009-0-27609-4.</li>
+     <li>Martello S., Toth P. Knapsack problems: Algorithms and computer implementations. New York: John Wiley & Sons, Inc.,1990. 296 p.</li>
+     <li>Репин В. Г., Тартаковский Г. П. Статистический синтез при априорной неопределенности и адаптация информационных систем. М.: Советское радио, 1977. 432 с.</li>
+ - doi: 17.613-625
+   udk: '004.522'
+   edn: JRAAAA
+   item_authors: Нечаев В. А., Косяков С. В.
+   item_name: Интеллектуальная система речевого взаимодействия с модификацией и распознаванием речи в реальном времени
+   item_authors_address: |
+     <b>В. А. Нечаев</b>, препод.-исслед., nechaev@gapps.ispu.ru,
+     <b>С. В. Косяков</b>, д-р техн. наук, проф., зав. каф., ksv@ispu.ru,
+     Ивановский государственный энергетический университет имени В. И. Ленина
+   item_rec_on: 2026-02-01
+   item_acc_on: 2026-05-05
+   item_annot: |
+     <p> Представлена интеллектуальная система речевого взаимодействия пользователей, объединяющая модификацию и распознавание речи в реальном времени для повышения качества коммуникации при использовании нескольких языков и их смеси, иностранного акцента и специализированной предметно-ориентированной лексики. Рассмотрена архитектура на основе моделей распознавания и конвертации речи, коррекции произношения, перевода из речи в речь, предусматривающая изменения исходного речевого сигнала для улучшения его восприятия и повышения точности распознавания. Формализован показатель уровня коррекции, отражающий глубину модификации речи — от изменения акцента до коррекции произношения и полного перевода речи с одного языка на другой. Приведена оценка влияния различных уровней коррекции речи на задержки при обработке. Практическая реализация и испытания в условиях кол-центра подтвердили эффективность предложенного подхода, что позволило снизить число ошибок при распознавании речи и обеспечить приемлемую задержку, удовлетворяющую требованиям современных систем голосового общения в реальном времени.</p>
+   item_keywords: обработка речи, распознавание речи, конвертация акцента, конвертация голоса, генерация речи, машинное обучение, машинный перевод, нейронная сеть, кол-центр
+   item_pages: 613—625
+   item_citation: 'Nechaev V. A., Kosyakov S. V. Intelligent Speech Interaction System with Real-Time Speech Modification and Recognition, Programmnaya Ingeneria, 2026, vol. 17, no. 11, pp. 613—625. DOI: 10.17587/prin.613-625.'
+   item_references: |
+     <li>Shneiderman B. Human-centered artificial intelligence: Reliable, safe & trustworthy // International Journal of Human-Computer Interaction. 2020. Vol. 36, No. 6. P. 495-504. DOI: 10. 1080/10447318.2020.1741118.</li>
+     <li>Nicolescu L., Tudorache M. T. Human-computer interaction in customer service: the experience with AI chatbots—a systematic literature review // Electronics. 2022. Vol. 11, No. 10. Article 1579. DOI: 10.3390/electronics11101579.</li>
+     <li>Jin M., Serai P., Wu J. et al. Voice-preserving zero-shot multiple accent conversion // ICASSP 2023—2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Rhodes Island, Greece. IEEE, 2023. P. 1—5. DOI: 10.1109/icassp49357.2023.10094737.</li>
+     <li>Нечаев В. А., Косяков С. В. Метод конвертации акцента с клонированием голоса в реальном времени на основе неавторегрессионной нейросетевой модели // Russian Technological Journal. 2025. Том 13, № 3. C. 7—20. DOI: 10.32362/2500-316X-2025-13-3-7-20.</li>
+     <li>SEAMLESS Communication Team. Joint speech and text machine translation for up to 100 languages // Nature. 2025. Vol. 637, No. 8046. P. 587—593. DOI: 10.1038/s41586-024-08359-z.</li>
+     <li>Diwan A., Srinivasan A., Harwath D., Choi E. Textless Speech-to-Speech Translation With Limited Parallel Data // Findings of the Association for Computational Linguistics: EMNLP 2024. 2024. P. 16208—16224. DOI: 10.18653/v1/2024.findings-emnlp.951.</li>
+     <li>Gulati A., Qin J., Chiu C. et al. Conformer: Convolution-augmented transformer for speech recognition // Interspeech 2020. 2020. P. 5036—5040. DOI: 10.21437/Interspeech.2020-3015.</li>
+     <li>Radford A., Kim J. W., Xu T. et al. Robust speech recognition via large-scale weak supervision // International conference on machine learning. PMLR. 2023. P. 28492—28518. DOI: 10.48550/arXiv.2212.04356.</li>
+     <li>Li K., Li J., Ye G. et al. Towards code-switching ASR for end-to-end CTC models // ICASSP 2019—2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Brighton, UK. IEEE. 2019. P. 6076 — 6080. DOI: 10.1109/icassp.2019.8683223.</li>
+     <li>Liu L., Gu Y., Gourav A. et al. Domain-aware neural language models for speech recognition // ICASSP 2021— 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, ON, Canada, IEEE. 2021. P. 7373—7377. DOI: 10.1109/icassp39728.2021.9414800.</li>
+     <li>Нечаев В. А., Косяков С. В. Метод разработки моделей распознавания речи для использования в информационных системах энергетики // Вестник ИГЭУ. 2023. № 4. С. 94—100. DOI: 10.17588/2072-2672.2023.4.094-100.</li>
+     <li>Балакшин П. В., Петров Г. Ю. Некоторые аспекты исследования систем распознавания речи в телефонных службах поддержки // Научно-технический вестник информационных технологий, механики и оптики. 2012. № 1 (77). С. 71—76.</li>
+     <li>Романова Д. Р., Подколзин В. В. Система голосового обслуживания для оптимизации работы кол-центра // Прикладная математика: современные проблемы математики, информатики и моделирования. Сб. тр. конф. Краснодар, 22—25 апреля 2020 г. ФГБУ «Российское энергетическое агентство» Минэнерго России, Краснодарский ЦНТИ-филиал ФГБУ «РЭА» Минэнерго России, 2020. С. 274—279.</li>
+     <li>Wang L., Huang N., Hong Y. et al. Voice-based AI in call center customer service: A natural field experiment // Production and Operations Management. 2023. Vol. 32, No. 4. P. 1002—1018. DOI: 10.1111/poms.13953.</li>
+     <li>Valizada A., Akhundova N., Rustamov S. Development of speech recognition systems in emergency call centers // Symmetry. 2021. Vol. 13, No. 4. Article 634. DOI: 10.3390/sym13040634.</li>
+     <li>Thuestad J. A., Grutle 0. Speech-to-text models to transcribe emergency calls: дис. The University of Bergen. 2023. 53 p.</li>
+     <li>Verma T., Shree A., Modi A. ASR for Low Resource and Multilingual Noisy Code-Mixed Speech // Proceedings of Interspeech 2023. Dublin, Ireland, 2023. P. 3242—3246. DOI: 10.21437/Interspeech.2023-757.</li>
+     <li>Biadsy F., Weiss R. J., Moreno P. J. et al. Parrotron: An End-to-End Speech-to-Speech Conversion Model and Its Applications to Hearing-Impaired Speech and Speech Separation // Proceedings of Interspeech 2019. Graz, Austria, 2019. P. 4115—4119. DOI: 10.21437/Interspeech.2019-1789.</li>
+     <li>Baese-Berk M. M., Morrill T. H. Speaking rate consistency in native and non-native speakers of English // The Journal of the Acoustical Society of America. 2015. Vol. 138, No. 3. P. EL223— EL228. DOI: 10.1121/1.4929622.</li>
+     <li>Zhao G., Gutierrez-Osuna R. Using phonetic posteriorgram based frame pairing for segmental accent conversion // IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2019. Vol. 27, No. 10. P. 1649—1660. DOI: 10.1109/taslp.2019.2926754.</li>
+     <li>Wadhawan A. Simultaneous speech to speech translation: дис. University of Pennsylvania. 2023. 46 p.</li>
+     <li>Xu M., Cai D., Yin W. et al. Resource-efficient algorithms and systems of foundation models: A survey // ACM Computing Surveys. 2025. Vol. 57, No. 5. Article 110. DOI: 10.1145/3706418.</li>
+     <li>Matzinger T., Pleyer M., Zywiczynski P. Pause Length and Differences in Cognitive State Attribution in Native and Non-Native Speakers // Languages. 2023. Vol. 8, No. 1. Article 26. DOI: 10.3390/languages8010026.</li>
+     <li>Liu M., Zhang C., Xing H. et al. Scalable data annotation pipeline for high-quality large speech datasets development // arXiv preprint. 2021. 13 p. DOI: 10.48550/arXiv.2109.01164.</li>
+     <li>Rastorgueva E., Lavrukhin V., Ginsburg B. NeMo Forced Aligner and Its Application to Word Alignment for Subtitle Generation // Proceedings of Interspeech 2023. Dublin, Ireland, 2023. P. 5257—5258.</li>
+     <li>Hu K., Li B., Sainath T. N. et al. Mixture-of-Expert Conformer for Streaming Multilingual ASR // Proceedings of Interspeech 2023. Dublin, Ireland, 2023. P. 3327—3331. DOI: 10.21437/Interspeech.2023-480.</li>
+     <li>Bakhturina E., Zhang Y., Ginsburg B. Shallow Fusion of Weighted Finite-State Transducer and Language Model for Text Normalization // Proceedings of Interspeech 2022. 2022. P. 491—495. DOI: 10.21437/interspeech.2022-11074.</li>
+     <li>Карпов А. А., Кипяткова И. С. Методология оценивания работы систем автоматического распознавания речи // Известия высших учебных заведений. Приборостроение. 2012. Том 55, № 11. С. 38—43.</li>
+ - doi: 17.626-637
+   udk: '004.942'
+   edn: JSECOX
+   item_authors: Акутин А. С., Кушников В. А., Богомолов А. С., Долинина О. Н.
+   item_name: К решению задачи повышения эффективности управления проектами по цифровизации промышленного предприятия
+   item_authors_address: |
+     <b>А. С. Акутин</b><sup>1</sup>, ст. препод., akutin_artem@mail.ru,
+     <b>В. А. Кушников</b>, д-р техн. наук, проф., проф. кафедры<sup>2</sup>, гл. науч. сотр., зав. лаб.<sup>3</sup>, kushnikoff@yandex.ru,
+     <b>А. С. Богомолов</b>, д-р техн. наук, проф. кафедры<sup>2</sup>, вед. науч. сотр., зав. лаб.<sup>3</sup>, alexbogomolov@ya.ru,
+     <b>О. Н. Долинина</b><sup>4</sup>, д-р техн. наук, проф., руководитель образовательной организации, odolinina09@gmail.com,
+     <br>
+     <sup>1</sup> ФГБОУ ВО «Саратовский государственный технический университет имени Гагарина Ю. А.»,
+     <br>
+     <sup>2</sup> ФГБОУ ВО «Саратовский государственный университет имени Н. Г. Чернышевского»,
+     <br>
+     <sup>3</sup> ФГБУН Федеральный исследовательский центр «Саратовский научный центр Российской академии наук»,
+     <br>
+     <sup>4</sup> АНО дополнительного профессионального образования «Учебный центр "РУБЕЖ"», Саратов
+   item_rec_on: 2026-02-01
+   item_acc_on: 2026-05-19
+   item_annot: |
+     <p>Представлено решение задачи повышения эффективности управления проектами по цифровизации промышленного предприятия в условиях структурной сложности его организации, множества взаимных связей между показателями хода выполнения проектов и существенной доли их качественных характеристик. Для рассматриваемого сценария управления проектами по цифровизации определены основные характеристики, влияющие на эффективность управления, а также релевантные параметры среды. Предложен формальный подход, основанный на использовании аппарата системной динамики и нелинейных дифференциальных уравнений. Такой подход позволяет моделировать во времени основные характеристики процесса управления проектами, а также определить план мероприятий, минимизирующий целевую функцию задачи. В качестве такой функции рассмотрена взвешенная интегральная мера отклонения основных характеристик от рекомендованных руководителем проекта. Разработан программный комплекс, реализующий численное решение системы нелинейных дифференциальных уравнений методом Рунге—Кутты. Использование этого комплекса позволяет определить значение оптимизируемой целевой функции задачи в зависимости от выбранных управляющих воздействий в виде планов мероприятий при известных параметрах среды. На модельном примере для проекта цифровизации промышленного предприятия АО «Трансмаш» (г. Энгельс) на различных временных интервалах продемонстрирована возможность прогнозирования изменений основных характеристик проекта, а также выбора наилучшего плана мероприятий, используемого для его реализации.</p>
+   item_keywords: системная динамика, управление проектами, цифровизация промышленного предприятия, эффективность управления, нечеткая логика, дифференциальные уравнения, регрессионный анализ
+   item_pages: 626—637
+   item_citation: 'Акутин А. С., Кушников В. А., Богомолов А. С., Долинина О. Н. К решению задачи повышения эффективности управления проектами по цифровизации промышленного предприятия // Программная инженерия. 2026. Том 17, № 11. С. 626—637. DOI: 10.17587/prin.17.626-637.'
+   item_references: |
+     <li>Шафер Д. Ф., Фатрелл Р. Т., Шафер Л. И. Управление программными проектами: достижение оптимального качества при минимуме затрат. М.: Вильямс, 2003. 1136 с.</li>
+     <li>Азарнова Т. В., Бондаренко Ю. В., Поляков Н. А., Медведева О. А. Применение инструментария временных сетей Петри для управления ресурсными параметрами проекта // Вестник Воронежского государственного университета. 2024. № 4. С. 102—115. DOI: 10.17308/sait/1995-5499/2024/4/102-115.</li>
+     <li>Львович К. И. Управление эффективностью деятельности персонала в условиях цифровой трансформации организационных систем // Моделирование, оптимизация и информационные технологии. 2020. Том 8, № 3 (30). Статья 24. DOI: 10.26102/2310-6018/2020.30.3.039.</li>
+     <li>Черняховская Л. Р., Никулина Н. О., Гарайшин Ш. Г. и др. Управление бизнес-процессами на основе результатов имитационного моделирования и анализа проблемных ситуаций // Информационные и математические технологии в науке и управлении. 2020. № 2 (18). С. 73—83. DOI: 10.38028/ ESI.2020.18.2.006.</li>
+     <li>Leu S.-S., Lu C.-Y., Wu P.-L. Dynamic-Bayesian-Network-Based Project Cost Overrun Prediction Model // Sustainability. 2023. Vol. 15, No. 5. Article 4570. DOI: 10.3390/su15054570.</li>
+     <li>Бурков В. Н., Буркова И. В., Щепкин А. В. Мягкие зависимости между проектами в управлении программами // Сб. тр. конф. «Управление развитием крупномасштабных систем (MLSD'2023)». М.: Институт проблем управления им. В. А. Трапезникова РАН, 2023. С. 149—154. DOI: 10.25728/mlsd.2023.0149.</li>
+     <li>Кравец А. Г., Нгуен Т. В., Щербаков М. В. Метод анализа тенденций развития технологий управления эффективностью активов // Прикаспийский журнал: управление и высокие технологии. 2022. № 1 (57). С. 39—53.</li>
+     <li>Жарко Е. Ф. Сравнение моделей качества программного обеспечения: аналитический подход // XII Всероссийское совещание по проблемам управления ВСПУ-2014, Москва, 16—19 июля 2014 г. М.: Институт проблем управления им. В. А. Трапезникова РАН, 2014. С. 4585—4594.</li>
+     <li>Резчиков А. Ф., Клюев В. В., Кушников В. А. и др. Информационно-управляющая система для поддержки принятия решений по ликвидации последствий наводнений // Вестник компьютерных и информационных технологий. 2016. № 11 (149). С. 39—45. DOI: 10.14489/vkit.2016.11.pp.039-045.</li>
+     <li>Резчиков А. Ф., Цвиркун А. Д., Кушников В. А. и др. Методы прогнозной оценки социально-экономических показателей национальной безопасности // Проблемы управления. 2015. № 5. С. 37—44.</li>
+     <li>Цвиркун А. Д., Резчиков А. Ф., Кушников В. А. и др. Модели и методы проверки достижимости целей и выполнимости планов в крупномасштабных системах на примере целей и планов ликвидации последствий наводнения // Автоматика и телемеханика. 2023. № 12. С. 49—63. DOI: 10.31857/ S000523102312005X.</li>
+     <li>Форрестер Д. Мировая динамика. M., СПб.: АСТ, 2003. 379 с.</li>
+     <li>Бродский Ю. И. Распределенное имитационное моделирование сложных систем. М.: Вычислительный центр им. А. А. Дородницына Российской академии наук, 2010. 155 с.</li>
+     <li>Дыбулина Н. С., Царева С. А. Модель оценки результативности процессов системы менеджмента качества на основе применения алгоритма Мамдани в среде MATLAB // Вестник Магнитогорского государственного технического университета им. Г. И. Носова. 2025. Том 23, № 2. С. 148—157. DOI: 10.18503/1995-2732-2025-23-2-148-157.</li>
+     <li>Голосовский М. С., Богомолов А. В., Теребов Д. С., Евтушенко Е. В. Алгоритм настройки системы нечеткого логического вывода типа Мамдани // Вестник ЮУрГУ. Серия: Математика. Механика. Физика. 2018. № 3. C. 19—29. DOI: 10.14529/mmph180303.</li>
+     <li>Yager R. R. Fuzzy logic methods in recommender systems // Fuzzy Sets and Systems. 2003. Vol. 136, No. 2. P. 133—149. DOI: 10.1016/S0165-0114(02)00223-3.</li>
+     <li>Зоркальцев В. И. Метод наименьших квадратов: геометрические свойства, альтернативные подходы, приложения. Новосибирск: Наука, 1995. 220 с.</li>
+     <li>Singla S. Python tools for the investigation of optimal explicit Runge—Kutta methods. Master's thesis. Halifax: Saint Mary's University, 2021. 128 p.</li>
+     <li>Ali M. A. Development and Analysis of Advanced Numerical Algorithms for Solving Differential Equations Using Taylor, Euler, and Runge-Kutta Methods // Journal of Computational Analysis & Applications. 2025. Vol. 34, No. 8. P. 218—240.</li>
+ - doi: 17.638-650
+   udk: '004.4:004.5:004.8'
+   edn: MRRQBY
+   item_authors: Тагирова Л. Ф.
+   item_name: Динамическая модель студента как основа замкнутого контура управления учебным процессом в адаптивных интеллектуальных обучающих системах (на примере технических дисциплин)
+   item_authors_address: |
+     <b>Л. Ф. Тагирова</b>, канд. пед. наук, доц., LG-77@mail.ru,
+     Оренбургский государственный университет имени В. А. Бондаренко
+   item_rec_on: 2026-03-15
+   item_acc_on: 2026-06-01
+   item_annot: |
+     <p>Рассмотрена задача персонализации обучения в адаптивных интеллектуальных обучающих системах (АИОС) на примере технических дисциплин, характеризующихся высокой долей практических задач. Предложен замкнутый контур управления, основанный на многомерной динамической модели студента (ДМС), объединяющей когнитивные, физиологические, мотивационные и профессиональные характеристики студентов.
+     Модель позволяет на начальном этапе работы с АИОС настроить интерфейс, контент и тесты под каждого студента, а в процессе обучения непрерывно корректировать их на основе поведенческих и определяющих уровень знаний метрик. Такой подход реализует трехстороннюю адаптацию, которая направлена на приведение интерфейса, учебного материала и тестовых заданий в соответствие с текущими характеристиками студента.
+     Интеллектуальный характер подхода обеспечивает замкнутый контур управления с искусственной нейронной сетью в качестве ядра принятия решений, преобразующей данные ДМС в персонализированные настройки интерфейса, контента и тестов. Экспериментальная проверка АИОС на базе университета при обучении техническим дисциплинам показала, что использование ДМС обеспечило значительное повышение успеваемости, снижение когнитивной нагрузки и улучшение эмоционального состояния студентов.</p>
+   item_keywords: адаптивные интеллектуальные обучающие системы, контур управления, динамическая модель студента, адаптивный интерфейс, персонализированный контент, адаптивное тестирование
+   item_pages: 638—650
+   item_citation: 'Тагирова Л. Ф. Динамическая модель студента как основа замкнутого контура управления учебным процессом в адаптивных интеллектуальных обучающих системах (на примере технических дисциплин) // Программная инженерия. 2026. Том 17, № 11. С. 638—650. DOI: 10.17587/prin.17.638-650.'
+   item_references: |
+     <li>Ксемидов Б. С., Абгарян К. К. Адаптивная интеллектуальная обучающая система // Моделирование и анализ данных. 2024. Том 14, № 2. С. 152—165. DOI: 10.17759/ mda.2024140211.</li>
+     <li>Бериев И. Р., Алисултанова Э. Д. Адаптивная система обучения в электронной среде // Вестник ГГНТУ. Технические науки. 2021. Том 17, № 4 (26). С. 5—12. DOI: 10.34708/ GSTOU.2021.13.11.001.</li>
+     <li>Подколзин М. М. Интеллектуальная система адаптивного обучения на основе нейронных сетей для персонализации образовательных траекторий студентов российских вузов // Информатика и образование. 2024. Том 39, № 6. С. 65—81. DOI: 10.32517/0234-0453-2024-39-6-65-81.</li>
+     <li>Zhang Ch., Peng Wei D., Ji Y., Chen D. The influence of interface attributes and interaction elements on user performance and cognitive load in task interruption scenarios // International Journal of Industrial Ergonomics. 2025. Vol. 108. Article 103761. DOI: 10.1016/j.ergon.2025.103761.</li>
+     <li>Фомина Т. А., Новикова Г. М. Проектирование адаптивного интерфейса ИС для поддержки деятельности образовательного учреждения // Вестник Алтайской академии экономики и права. 2020. № 6 (Ч. 1). С. 125—133. DOI: 10.17513/vaael.1174.</li>
+     <li>Rida Z., Boukachour H., Ennaji M., Machkour M. Dynamic adaptation in an intelligent multi-tutoring system: a multi-agent approach // IEEE Access. 2025. Vol. 13. P. 124587—124601. DOI: 10.1109/ACCESS.2025.3576651.</li>
+     <li>Белянская О. В., Привалов А. Н. Модели интеллектуальной обучающей системы по техническим дисциплинам // Известия Тульского государственного университета. Технические науки. 2022. № 2. С. 126—132.</li>
+     <li>Титова С. В. Интеллектуальные системы обучения для персонализации и адаптации языковых курсов // Вестник Московского университета. 2024. Том 27, № 4. С. 84—99. DOI: 10.55959/MSU-2074-1588-19-27-4-6.</li>
+     <li>Попов Д. И., Лазарева О. Ю. Нечеткая оверлейная модель учащегося в интеллектуальной обучающей системе // Научный Вестник МГТУ ГА. 2015. № 213 (3). С. 141—148.</li>
+     <li>Carrera-Rivera A., Larrinaga F., Lasa G. et al. AdaptUI: A Framework for the development of Adaptive User Interfaces in Smart Product-Service Systems // User Modeling and User-Adapted Interaction. 2024. Vol. 34, No. 5. P. 1929—1980. DOI: 10.1007/s11257-024-09414-0.</li>
+     <li>Zarei H., Abbasian М. Explaining of Hand Movement Ability to Interact with the User Interface of Websites // Digital and Smart libraries Research. 2021. Vol. 8, No. 32. P. 21—30. DOI: 10.30473/MRS.2022.65052.1533.</li>
+     <li>Захаров А. А., Захарова И. Г., Шабалин А. М. и др. Интеллектуальный голосовой помощник как пример реализации методологии инклюзивного дизайна // Образование и наука. 2024. Том 26, № 3. С. 149—175. DOI: 10.17853/19945639-2024-3-149-175.</li>
+     <li>Calvin L., Law J., Ho L. et al. A Toolkit for Building More Adaptable User Interfaces for Vision-impaired Users // 2021 IEEE Symposium on Visual Languages and Human-centric Computing (VLHCC2021), 10-13 October 2021, St Louis, USA, 2021. P. 1-5. DOI: 10.1109/VL/HCC51201.2021.9576203.</li>
+     <li>Волкова А. А. Инклюзивное проектирование цифровых интерфейсов: методы и перспективы развития // Вестник Челябинского государственного университета. 2024. № 10 (492). С. 167—173. DOI: 10.47475/1994-2796-2024-492-10-167-173.</li>
+     <li>Qaiser A. Z., Khan M. T. Adaptive Interface for Accommodating Colour-Blind Users by Using Ishihara Test // arXiv: 1712.03329. 2017. DOI: 10.48550/arXiv.1712.03329.</li>
+     <li>Краснова А. С., Обухов А. Д., Романова А. А., Сусанов А. Д. Разработка мобильного приложения, оказывающего помощь людям болеющим дальтонизмом // International Journal of Open Information Technologies. 2022. Том 10, № 6. С. 115—122.</li>
+     <li>Schroeder T., Dodds L., Georgiou A. et al. Older Adults and New Technology: Mapping Review of the Factors Associated With Older Adults' Intention to Adopt Digital Technologies // JMIR Aging. 2023. Vol. 6. Article e44564. DOI: 10.2196/44564.</li>
+     <li>Emmesjo L., Hallgren J., Gillsjo C. Older adults' digital technology experiences: a qualitative study // BMC Digital Health. 2025. Vol. 3, No. 1. Article 24. DOI: 10.1186/s44247-025-00163-7.</li>
+     <li>Shi L., Tang W., Li N. et al. User Cognitive Abilities-Human Computer Interaction Tasks Model // Advances in Intelligent Systems and Computing 2021. 2021. Vol. 1322. P. 194—199. DOI: 10.1007/978-3-030-68017-6_29.</li>
+     <li>Heumader P., Miesenberger K., Murillo-Morales T. Adaptive User Interfaces for People with Cognitive Disabilities within the Easy Reading Framework // Computers Helping People with Special Needs. 2020. Vol. 12377. P. 55—60. DOI: 10.1007/978-3-030-58805-2_7.</li>
+     <li>Villegas-Ch. W., Buenano-Fernandez D., Navarro A. M. Mera-Navarrete A. Adaptive intelligent tutoring systems for STEM education: analysis of the learning impact and effectiveness of personalized feedback // Smart Learning Environments. 2025. Vol. 12, No. 1. Article 41. DOI: 10.1186/s40561-025-00389-y.</li>
+     <li>Plooy E., Casteleijn D., Franzsen D. Personalized adaptive learning in higher education: A scoping review of key characteristics and impact on academic performance and engagement // Heliyon. 2024. Vol. 10, No. 21. Article e39630. DOI: 10.1016/j.heliyon.2024.e39630.</li>
+     <li>Zhou C., Ren T., Lang L. The impact of AI-Based adaptive learning technologies on motivation and engagement of higher education students // Education and Information Technologies. 2025. Vol. 30, No. 16. P. 22735—22752. DOI: 10.1007/s10639-025-13646-x.</li>
+     <li>Ахметвалиева М. Г., Велюнская Н. Г. Проектирование индивидуальной образовательной траектории интегрированной модели адаптации и мотивации к обучению у студентов // Современные наукоемкие технологии. 2025. № 9. С. 191—197. DOI: 10.17513/snt.40506.</li>
+     <li>Savytri A., Ratri D. A Comprehensive Design Guide to Adaptive e-Learning System Based on VARK Learning Styles // Indonesian Journal of Multidiciplinary Research. 2023. Vol. 3, No. 2. P. 453—464. DOI: 10.17509/ijomr.v3i2.61019.</li>
+     <li>Abomelha F., Newbury P. A VARK learning style-based Recommendation System for Adaptive E-learning // Communication Papers of the 19th Conference on Computer Science and Intelligence Systems (FedCSIS). 2024. Vol. 41. P. 1—8. DOI: 10.15439/2024F5253.</li>
+     <li>Loderer K., Pekrun R., Lester J. C. Beyond cold technology: A systematic review and meta-analysis on emotions in technology-based learning environments // Learning and Instruction. 2021. Vol. 70. Article 101162. DOI: 10.1016/j.learninstruc.2018.08.002.</li>
+     <li>Skulmowski A., Xu K. M. Understanding Cognitive Load in Digital and Online Learning: А New Perspective on Extraneous Cognitive Load // Educational Psychology Review. 2022. No. 34. P. 171—196. DOI: 10.1007/s10648-021-09624-7.</li>
+     <li>Рыбина Е. П., Ангельгардт А. Н., Березнер Т. А. и др. Опросник NASA-TLX для измерения когнитивной нагрузки: адаптация на русскоязычной выборке // Психология познания: сб. мат. Всерос. научн. конф. памяти Дж. С. Брунера. Яр.: Филигрань, 2023. URL: https://publications.hse.ru/ chapters/823749333 (дата обращения 22.02.2026).</li>
+     <li>Люшер М. Цветовой тест Люшера. пер. с англ. А. Никонова. М.: Эксмо-пресс, 2002. 192 с.</li>
